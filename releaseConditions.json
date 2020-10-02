@@ -1,0 +1,6259 @@
+[
+  {
+    "id": 1,
+    "sentence": "最初から所持",
+    "releaseConditionType": "none"
+  },
+  {
+    "id": 2,
+    "sentence": "ストーリー1を読了（仮）",
+    "releaseConditionType": "user_rank",
+    "releaseConditionTypeLevel": 1
+  },
+  {
+    "id": 3,
+    "sentence": "楽曲ショップ1で購入する（仮）",
+    "releaseConditionType": "unit_rank",
+    "releaseConditionTypeLevel": 1
+  },
+  {
+    "id": 4,
+    "sentence": "プレイヤーランク10に到達（仮）",
+    "releaseConditionType": "user_rank",
+    "releaseConditionTypeLevel": 1
+  },
+  {
+    "id": 5,
+    "sentence": "音楽ショップで交換する",
+    "releaseConditionType": "none"
+  },
+  {
+    "id": 6,
+    "sentence": "入手手段無し",
+    "releaseConditionType": "none"
+  },
+  {
+    "id": 7,
+    "sentence": "衣装ショップで交換する",
+    "releaseConditionType": "none"
+  },
+  {
+    "id": 8,
+    "sentence": "初音ミクマスターランク開放",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 1,
+    "releaseConditionTypeLevel": 1
+  },
+  {
+    "id": 9,
+    "sentence": "アナザーボーカルショップで交換する",
+    "releaseConditionType": "shop",
+    "releaseConditionTypeId": 4,
+    "releaseConditionTypeLevel": 1
+  },
+  {
+    "id": 10,
+    "sentence": "プレゼントを受け取る",
+    "releaseConditionType": "none"
+  },
+  {
+    "id": 999,
+    "sentence": "プレゼントで配布。 無い人はユーザ削除。",
+    "releaseConditionType": "none"
+  },
+  {
+    "id": 10001,
+    "sentence": "プレイヤーランク1に到達",
+    "releaseConditionType": "user_rank",
+    "releaseConditionTypeLevel": 1
+  },
+  {
+    "id": 10002,
+    "sentence": "プレイヤーランク2に到達",
+    "releaseConditionType": "user_rank",
+    "releaseConditionTypeLevel": 2
+  },
+  {
+    "id": 10003,
+    "sentence": "プレイヤーランク3に到達",
+    "releaseConditionType": "user_rank",
+    "releaseConditionTypeLevel": 3
+  },
+  {
+    "id": 10004,
+    "sentence": "プレイヤーランク4に到達",
+    "releaseConditionType": "user_rank",
+    "releaseConditionTypeLevel": 4
+  },
+  {
+    "id": 10005,
+    "sentence": "プレイヤーランク5に到達",
+    "releaseConditionType": "user_rank",
+    "releaseConditionTypeLevel": 5
+  },
+  {
+    "id": 10006,
+    "sentence": "プレイヤーランク6に到達",
+    "releaseConditionType": "user_rank",
+    "releaseConditionTypeLevel": 6
+  },
+  {
+    "id": 10007,
+    "sentence": "プレイヤーランク7に到達",
+    "releaseConditionType": "user_rank",
+    "releaseConditionTypeLevel": 7
+  },
+  {
+    "id": 10008,
+    "sentence": "プレイヤーランク8に到達",
+    "releaseConditionType": "user_rank",
+    "releaseConditionTypeLevel": 8
+  },
+  {
+    "id": 10009,
+    "sentence": "プレイヤーランク9に到達",
+    "releaseConditionType": "user_rank",
+    "releaseConditionTypeLevel": 9
+  },
+  {
+    "id": 10010,
+    "sentence": "プレイヤーランク10に到達",
+    "releaseConditionType": "user_rank",
+    "releaseConditionTypeLevel": 10
+  },
+  {
+    "id": 10015,
+    "sentence": "プレイヤーランク15に到達",
+    "releaseConditionType": "user_rank",
+    "releaseConditionTypeLevel": 15
+  },
+  {
+    "id": 10025,
+    "sentence": "プレイヤーランク25に到達",
+    "releaseConditionType": "user_rank",
+    "releaseConditionTypeLevel": 25
+  },
+  {
+    "id": 10030,
+    "sentence": "プレイヤーランク30に到達",
+    "releaseConditionType": "user_rank",
+    "releaseConditionTypeLevel": 30
+  },
+  {
+    "id": 10100,
+    "sentence": "プレイヤーランク100に到達",
+    "releaseConditionType": "user_rank",
+    "releaseConditionTypeLevel": 100
+  },
+  {
+    "id": 20101,
+    "sentence": "Leo/needのユニットランク1に到達",
+    "releaseConditionType": "unit_rank",
+    "releaseConditionTypeId": 5,
+    "releaseConditionTypeLevel": 1
+  },
+  {
+    "id": 20102,
+    "sentence": "Leo/needのユニットランク2に到達",
+    "releaseConditionType": "unit_rank",
+    "releaseConditionTypeId": 5,
+    "releaseConditionTypeLevel": 2
+  },
+  {
+    "id": 20103,
+    "sentence": "Leo/needのユニットランク3に到達",
+    "releaseConditionType": "unit_rank",
+    "releaseConditionTypeId": 5,
+    "releaseConditionTypeLevel": 3
+  },
+  {
+    "id": 20104,
+    "sentence": "Leo/needのユニットランク4に到達",
+    "releaseConditionType": "unit_rank",
+    "releaseConditionTypeId": 5,
+    "releaseConditionTypeLevel": 4
+  },
+  {
+    "id": 20105,
+    "sentence": "Leo/needのユニットランク5に到達",
+    "releaseConditionType": "unit_rank",
+    "releaseConditionTypeId": 5,
+    "releaseConditionTypeLevel": 5
+  },
+  {
+    "id": 20106,
+    "sentence": "Leo/needのユニットランク6に到達",
+    "releaseConditionType": "unit_rank",
+    "releaseConditionTypeId": 5,
+    "releaseConditionTypeLevel": 6
+  },
+  {
+    "id": 20107,
+    "sentence": "Leo/needのユニットランク7に到達",
+    "releaseConditionType": "unit_rank",
+    "releaseConditionTypeId": 5,
+    "releaseConditionTypeLevel": 7
+  },
+  {
+    "id": 20108,
+    "sentence": "Leo/needのユニットランク8に到達",
+    "releaseConditionType": "unit_rank",
+    "releaseConditionTypeId": 5,
+    "releaseConditionTypeLevel": 8
+  },
+  {
+    "id": 20109,
+    "sentence": "Leo/needのユニットランク9に到達",
+    "releaseConditionType": "unit_rank",
+    "releaseConditionTypeId": 5,
+    "releaseConditionTypeLevel": 9
+  },
+  {
+    "id": 20110,
+    "sentence": "Leo/needのユニットランク10に到達",
+    "releaseConditionType": "unit_rank",
+    "releaseConditionTypeId": 5,
+    "releaseConditionTypeLevel": 10
+  },
+  {
+    "id": 20111,
+    "sentence": "Leo/needのユニットランク11に到達",
+    "releaseConditionType": "unit_rank",
+    "releaseConditionTypeId": 5,
+    "releaseConditionTypeLevel": 11
+  },
+  {
+    "id": 20112,
+    "sentence": "Leo/needのユニットランク12に到達",
+    "releaseConditionType": "unit_rank",
+    "releaseConditionTypeId": 5,
+    "releaseConditionTypeLevel": 12
+  },
+  {
+    "id": 20113,
+    "sentence": "Leo/needのユニットランク13に到達",
+    "releaseConditionType": "unit_rank",
+    "releaseConditionTypeId": 5,
+    "releaseConditionTypeLevel": 13
+  },
+  {
+    "id": 20114,
+    "sentence": "Leo/needのユニットランク14に到達",
+    "releaseConditionType": "unit_rank",
+    "releaseConditionTypeId": 5,
+    "releaseConditionTypeLevel": 14
+  },
+  {
+    "id": 20115,
+    "sentence": "Leo/needのユニットランク15に到達",
+    "releaseConditionType": "unit_rank",
+    "releaseConditionTypeId": 5,
+    "releaseConditionTypeLevel": 15
+  },
+  {
+    "id": 20116,
+    "sentence": "Leo/needのユニットランク16に到達",
+    "releaseConditionType": "unit_rank",
+    "releaseConditionTypeId": 5,
+    "releaseConditionTypeLevel": 16
+  },
+  {
+    "id": 20117,
+    "sentence": "Leo/needのユニットランク17に到達",
+    "releaseConditionType": "unit_rank",
+    "releaseConditionTypeId": 5,
+    "releaseConditionTypeLevel": 17
+  },
+  {
+    "id": 20118,
+    "sentence": "Leo/needのユニットランク18に到達",
+    "releaseConditionType": "unit_rank",
+    "releaseConditionTypeId": 5,
+    "releaseConditionTypeLevel": 18
+  },
+  {
+    "id": 20119,
+    "sentence": "Leo/needのユニットランク19に到達",
+    "releaseConditionType": "unit_rank",
+    "releaseConditionTypeId": 5,
+    "releaseConditionTypeLevel": 19
+  },
+  {
+    "id": 20120,
+    "sentence": "Leo/needのユニットランク20に到達",
+    "releaseConditionType": "unit_rank",
+    "releaseConditionTypeId": 5,
+    "releaseConditionTypeLevel": 20
+  },
+  {
+    "id": 20201,
+    "sentence": "MORE MORE JUMP！のユニットランク1に到達",
+    "releaseConditionType": "unit_rank",
+    "releaseConditionTypeId": 3,
+    "releaseConditionTypeLevel": 1
+  },
+  {
+    "id": 20202,
+    "sentence": "MORE MORE JUMP！のユニットランク2に到達",
+    "releaseConditionType": "unit_rank",
+    "releaseConditionTypeId": 3,
+    "releaseConditionTypeLevel": 2
+  },
+  {
+    "id": 20203,
+    "sentence": "MORE MORE JUMP！のユニットランク3に到達",
+    "releaseConditionType": "unit_rank",
+    "releaseConditionTypeId": 3,
+    "releaseConditionTypeLevel": 3
+  },
+  {
+    "id": 20204,
+    "sentence": "MORE MORE JUMP！のユニットランク4に到達",
+    "releaseConditionType": "unit_rank",
+    "releaseConditionTypeId": 3,
+    "releaseConditionTypeLevel": 4
+  },
+  {
+    "id": 20205,
+    "sentence": "MORE MORE JUMP！のユニットランク5に到達",
+    "releaseConditionType": "unit_rank",
+    "releaseConditionTypeId": 3,
+    "releaseConditionTypeLevel": 5
+  },
+  {
+    "id": 20206,
+    "sentence": "MORE MORE JUMP！のユニットランク6に到達",
+    "releaseConditionType": "unit_rank",
+    "releaseConditionTypeId": 3,
+    "releaseConditionTypeLevel": 6
+  },
+  {
+    "id": 20207,
+    "sentence": "MORE MORE JUMP！のユニットランク7に到達",
+    "releaseConditionType": "unit_rank",
+    "releaseConditionTypeId": 3,
+    "releaseConditionTypeLevel": 7
+  },
+  {
+    "id": 20208,
+    "sentence": "MORE MORE JUMP！のユニットランク8に到達",
+    "releaseConditionType": "unit_rank",
+    "releaseConditionTypeId": 3,
+    "releaseConditionTypeLevel": 8
+  },
+  {
+    "id": 20209,
+    "sentence": "MORE MORE JUMP！のユニットランク9に到達",
+    "releaseConditionType": "unit_rank",
+    "releaseConditionTypeId": 3,
+    "releaseConditionTypeLevel": 9
+  },
+  {
+    "id": 20210,
+    "sentence": "MORE MORE JUMP！のユニットランク10に到達",
+    "releaseConditionType": "unit_rank",
+    "releaseConditionTypeId": 3,
+    "releaseConditionTypeLevel": 10
+  },
+  {
+    "id": 20211,
+    "sentence": "MORE MORE JUMP！のユニットランク11に到達",
+    "releaseConditionType": "unit_rank",
+    "releaseConditionTypeId": 3,
+    "releaseConditionTypeLevel": 11
+  },
+  {
+    "id": 20212,
+    "sentence": "MORE MORE JUMP！のユニットランク12に到達",
+    "releaseConditionType": "unit_rank",
+    "releaseConditionTypeId": 3,
+    "releaseConditionTypeLevel": 12
+  },
+  {
+    "id": 20213,
+    "sentence": "MORE MORE JUMP！のユニットランク13に到達",
+    "releaseConditionType": "unit_rank",
+    "releaseConditionTypeId": 3,
+    "releaseConditionTypeLevel": 13
+  },
+  {
+    "id": 20214,
+    "sentence": "MORE MORE JUMP！のユニットランク14に到達",
+    "releaseConditionType": "unit_rank",
+    "releaseConditionTypeId": 3,
+    "releaseConditionTypeLevel": 14
+  },
+  {
+    "id": 20215,
+    "sentence": "MORE MORE JUMP！のユニットランク15に到達",
+    "releaseConditionType": "unit_rank",
+    "releaseConditionTypeId": 3,
+    "releaseConditionTypeLevel": 15
+  },
+  {
+    "id": 20216,
+    "sentence": "MORE MORE JUMP！のユニットランク16に到達",
+    "releaseConditionType": "unit_rank",
+    "releaseConditionTypeId": 3,
+    "releaseConditionTypeLevel": 16
+  },
+  {
+    "id": 20217,
+    "sentence": "MORE MORE JUMP！のユニットランク17に到達",
+    "releaseConditionType": "unit_rank",
+    "releaseConditionTypeId": 3,
+    "releaseConditionTypeLevel": 17
+  },
+  {
+    "id": 20218,
+    "sentence": "MORE MORE JUMP！のユニットランク18に到達",
+    "releaseConditionType": "unit_rank",
+    "releaseConditionTypeId": 3,
+    "releaseConditionTypeLevel": 18
+  },
+  {
+    "id": 20219,
+    "sentence": "MORE MORE JUMP！のユニットランク19に到達",
+    "releaseConditionType": "unit_rank",
+    "releaseConditionTypeId": 3,
+    "releaseConditionTypeLevel": 19
+  },
+  {
+    "id": 20220,
+    "sentence": "MORE MORE JUMP！のユニットランク20に到達",
+    "releaseConditionType": "unit_rank",
+    "releaseConditionTypeId": 3,
+    "releaseConditionTypeLevel": 20
+  },
+  {
+    "id": 20301,
+    "sentence": "Vivid BAD SQUADのユニットランク1に到達",
+    "releaseConditionType": "unit_rank",
+    "releaseConditionTypeId": 4,
+    "releaseConditionTypeLevel": 1
+  },
+  {
+    "id": 20302,
+    "sentence": "Vivid BAD SQUADのユニットランク2に到達",
+    "releaseConditionType": "unit_rank",
+    "releaseConditionTypeId": 4,
+    "releaseConditionTypeLevel": 2
+  },
+  {
+    "id": 20303,
+    "sentence": "Vivid BAD SQUADのユニットランク3に到達",
+    "releaseConditionType": "unit_rank",
+    "releaseConditionTypeId": 4,
+    "releaseConditionTypeLevel": 3
+  },
+  {
+    "id": 20304,
+    "sentence": "Vivid BAD SQUADのユニットランク4に到達",
+    "releaseConditionType": "unit_rank",
+    "releaseConditionTypeId": 4,
+    "releaseConditionTypeLevel": 4
+  },
+  {
+    "id": 20305,
+    "sentence": "Vivid BAD SQUADのユニットランク5に到達",
+    "releaseConditionType": "unit_rank",
+    "releaseConditionTypeId": 4,
+    "releaseConditionTypeLevel": 5
+  },
+  {
+    "id": 20306,
+    "sentence": "Vivid BAD SQUADのユニットランク6に到達",
+    "releaseConditionType": "unit_rank",
+    "releaseConditionTypeId": 4,
+    "releaseConditionTypeLevel": 6
+  },
+  {
+    "id": 20307,
+    "sentence": "Vivid BAD SQUADのユニットランク7に到達",
+    "releaseConditionType": "unit_rank",
+    "releaseConditionTypeId": 4,
+    "releaseConditionTypeLevel": 7
+  },
+  {
+    "id": 20308,
+    "sentence": "Vivid BAD SQUADのユニットランク8に到達",
+    "releaseConditionType": "unit_rank",
+    "releaseConditionTypeId": 4,
+    "releaseConditionTypeLevel": 8
+  },
+  {
+    "id": 20309,
+    "sentence": "Vivid BAD SQUADのユニットランク9に到達",
+    "releaseConditionType": "unit_rank",
+    "releaseConditionTypeId": 4,
+    "releaseConditionTypeLevel": 9
+  },
+  {
+    "id": 20310,
+    "sentence": "Vivid BAD SQUADのユニットランク10に到達",
+    "releaseConditionType": "unit_rank",
+    "releaseConditionTypeId": 4,
+    "releaseConditionTypeLevel": 10
+  },
+  {
+    "id": 20311,
+    "sentence": "Vivid BAD SQUADのユニットランク11に到達",
+    "releaseConditionType": "unit_rank",
+    "releaseConditionTypeId": 4,
+    "releaseConditionTypeLevel": 11
+  },
+  {
+    "id": 20312,
+    "sentence": "Vivid BAD SQUADのユニットランク12に到達",
+    "releaseConditionType": "unit_rank",
+    "releaseConditionTypeId": 4,
+    "releaseConditionTypeLevel": 12
+  },
+  {
+    "id": 20313,
+    "sentence": "Vivid BAD SQUADのユニットランク13に到達",
+    "releaseConditionType": "unit_rank",
+    "releaseConditionTypeId": 4,
+    "releaseConditionTypeLevel": 13
+  },
+  {
+    "id": 20314,
+    "sentence": "Vivid BAD SQUADのユニットランク14に到達",
+    "releaseConditionType": "unit_rank",
+    "releaseConditionTypeId": 4,
+    "releaseConditionTypeLevel": 14
+  },
+  {
+    "id": 20315,
+    "sentence": "Vivid BAD SQUADのユニットランク15に到達",
+    "releaseConditionType": "unit_rank",
+    "releaseConditionTypeId": 4,
+    "releaseConditionTypeLevel": 15
+  },
+  {
+    "id": 20316,
+    "sentence": "Vivid BAD SQUADのユニットランク16に到達",
+    "releaseConditionType": "unit_rank",
+    "releaseConditionTypeId": 4,
+    "releaseConditionTypeLevel": 16
+  },
+  {
+    "id": 20317,
+    "sentence": "Vivid BAD SQUADのユニットランク17に到達",
+    "releaseConditionType": "unit_rank",
+    "releaseConditionTypeId": 4,
+    "releaseConditionTypeLevel": 17
+  },
+  {
+    "id": 20318,
+    "sentence": "Vivid BAD SQUADのユニットランク18に到達",
+    "releaseConditionType": "unit_rank",
+    "releaseConditionTypeId": 4,
+    "releaseConditionTypeLevel": 18
+  },
+  {
+    "id": 20319,
+    "sentence": "Vivid BAD SQUADのユニットランク19に到達",
+    "releaseConditionType": "unit_rank",
+    "releaseConditionTypeId": 4,
+    "releaseConditionTypeLevel": 19
+  },
+  {
+    "id": 20320,
+    "sentence": "Vivid BAD SQUADのユニットランク20に到達",
+    "releaseConditionType": "unit_rank",
+    "releaseConditionTypeId": 4,
+    "releaseConditionTypeLevel": 20
+  },
+  {
+    "id": 20401,
+    "sentence": "ワンダーランズ×ショウタイムのユニットランク1に到達",
+    "releaseConditionType": "unit_rank",
+    "releaseConditionTypeId": 2,
+    "releaseConditionTypeLevel": 1
+  },
+  {
+    "id": 20402,
+    "sentence": "ワンダーランズ×ショウタイムのユニットランク2に到達",
+    "releaseConditionType": "unit_rank",
+    "releaseConditionTypeId": 2,
+    "releaseConditionTypeLevel": 2
+  },
+  {
+    "id": 20403,
+    "sentence": "ワンダーランズ×ショウタイムのユニットランク3に到達",
+    "releaseConditionType": "unit_rank",
+    "releaseConditionTypeId": 2,
+    "releaseConditionTypeLevel": 3
+  },
+  {
+    "id": 20404,
+    "sentence": "ワンダーランズ×ショウタイムのユニットランク4に到達",
+    "releaseConditionType": "unit_rank",
+    "releaseConditionTypeId": 2,
+    "releaseConditionTypeLevel": 4
+  },
+  {
+    "id": 20405,
+    "sentence": "ワンダーランズ×ショウタイムのユニットランク5に到達",
+    "releaseConditionType": "unit_rank",
+    "releaseConditionTypeId": 2,
+    "releaseConditionTypeLevel": 5
+  },
+  {
+    "id": 20406,
+    "sentence": "ワンダーランズ×ショウタイムのユニットランク6に到達",
+    "releaseConditionType": "unit_rank",
+    "releaseConditionTypeId": 2,
+    "releaseConditionTypeLevel": 6
+  },
+  {
+    "id": 20407,
+    "sentence": "ワンダーランズ×ショウタイムのユニットランク7に到達",
+    "releaseConditionType": "unit_rank",
+    "releaseConditionTypeId": 2,
+    "releaseConditionTypeLevel": 7
+  },
+  {
+    "id": 20408,
+    "sentence": "ワンダーランズ×ショウタイムのユニットランク8に到達",
+    "releaseConditionType": "unit_rank",
+    "releaseConditionTypeId": 2,
+    "releaseConditionTypeLevel": 8
+  },
+  {
+    "id": 20409,
+    "sentence": "ワンダーランズ×ショウタイムのユニットランク9に到達",
+    "releaseConditionType": "unit_rank",
+    "releaseConditionTypeId": 2,
+    "releaseConditionTypeLevel": 9
+  },
+  {
+    "id": 20410,
+    "sentence": "ワンダーランズ×ショウタイムのユニットランク10に到達",
+    "releaseConditionType": "unit_rank",
+    "releaseConditionTypeId": 2,
+    "releaseConditionTypeLevel": 10
+  },
+  {
+    "id": 20411,
+    "sentence": "ワンダーランズ×ショウタイムのユニットランク11に到達",
+    "releaseConditionType": "unit_rank",
+    "releaseConditionTypeId": 2,
+    "releaseConditionTypeLevel": 11
+  },
+  {
+    "id": 20412,
+    "sentence": "ワンダーランズ×ショウタイムのユニットランク12に到達",
+    "releaseConditionType": "unit_rank",
+    "releaseConditionTypeId": 2,
+    "releaseConditionTypeLevel": 12
+  },
+  {
+    "id": 20413,
+    "sentence": "ワンダーランズ×ショウタイムのユニットランク13に到達",
+    "releaseConditionType": "unit_rank",
+    "releaseConditionTypeId": 2,
+    "releaseConditionTypeLevel": 13
+  },
+  {
+    "id": 20414,
+    "sentence": "ワンダーランズ×ショウタイムのユニットランク14に到達",
+    "releaseConditionType": "unit_rank",
+    "releaseConditionTypeId": 2,
+    "releaseConditionTypeLevel": 14
+  },
+  {
+    "id": 20415,
+    "sentence": "ワンダーランズ×ショウタイムのユニットランク15に到達",
+    "releaseConditionType": "unit_rank",
+    "releaseConditionTypeId": 2,
+    "releaseConditionTypeLevel": 15
+  },
+  {
+    "id": 20416,
+    "sentence": "ワンダーランズ×ショウタイムのユニットランク16に到達",
+    "releaseConditionType": "unit_rank",
+    "releaseConditionTypeId": 2,
+    "releaseConditionTypeLevel": 16
+  },
+  {
+    "id": 20417,
+    "sentence": "ワンダーランズ×ショウタイムのユニットランク17に到達",
+    "releaseConditionType": "unit_rank",
+    "releaseConditionTypeId": 2,
+    "releaseConditionTypeLevel": 17
+  },
+  {
+    "id": 20418,
+    "sentence": "ワンダーランズ×ショウタイムのユニットランク18に到達",
+    "releaseConditionType": "unit_rank",
+    "releaseConditionTypeId": 2,
+    "releaseConditionTypeLevel": 18
+  },
+  {
+    "id": 20419,
+    "sentence": "ワンダーランズ×ショウタイムのユニットランク19に到達",
+    "releaseConditionType": "unit_rank",
+    "releaseConditionTypeId": 2,
+    "releaseConditionTypeLevel": 19
+  },
+  {
+    "id": 20420,
+    "sentence": "ワンダーランズ×ショウタイムのユニットランク20に到達",
+    "releaseConditionType": "unit_rank",
+    "releaseConditionTypeId": 2,
+    "releaseConditionTypeLevel": 20
+  },
+  {
+    "id": 20501,
+    "sentence": "25時、ナイトコードで。のユニットランク1に到達",
+    "releaseConditionType": "unit_rank",
+    "releaseConditionTypeId": 6,
+    "releaseConditionTypeLevel": 1
+  },
+  {
+    "id": 20502,
+    "sentence": "25時、ナイトコードで。のユニットランク2に到達",
+    "releaseConditionType": "unit_rank",
+    "releaseConditionTypeId": 6,
+    "releaseConditionTypeLevel": 2
+  },
+  {
+    "id": 20503,
+    "sentence": "25時、ナイトコードで。のユニットランク3に到達",
+    "releaseConditionType": "unit_rank",
+    "releaseConditionTypeId": 6,
+    "releaseConditionTypeLevel": 3
+  },
+  {
+    "id": 20504,
+    "sentence": "25時、ナイトコードで。のユニットランク4に到達",
+    "releaseConditionType": "unit_rank",
+    "releaseConditionTypeId": 6,
+    "releaseConditionTypeLevel": 4
+  },
+  {
+    "id": 20505,
+    "sentence": "25時、ナイトコードで。のユニットランク5に到達",
+    "releaseConditionType": "unit_rank",
+    "releaseConditionTypeId": 6,
+    "releaseConditionTypeLevel": 5
+  },
+  {
+    "id": 20506,
+    "sentence": "25時、ナイトコードで。のユニットランク6に到達",
+    "releaseConditionType": "unit_rank",
+    "releaseConditionTypeId": 6,
+    "releaseConditionTypeLevel": 6
+  },
+  {
+    "id": 20507,
+    "sentence": "25時、ナイトコードで。のユニットランク7に到達",
+    "releaseConditionType": "unit_rank",
+    "releaseConditionTypeId": 6,
+    "releaseConditionTypeLevel": 7
+  },
+  {
+    "id": 20508,
+    "sentence": "25時、ナイトコードで。のユニットランク8に到達",
+    "releaseConditionType": "unit_rank",
+    "releaseConditionTypeId": 6,
+    "releaseConditionTypeLevel": 8
+  },
+  {
+    "id": 20509,
+    "sentence": "25時、ナイトコードで。のユニットランク9に到達",
+    "releaseConditionType": "unit_rank",
+    "releaseConditionTypeId": 6,
+    "releaseConditionTypeLevel": 9
+  },
+  {
+    "id": 20510,
+    "sentence": "25時、ナイトコードで。のユニットランク10に到達",
+    "releaseConditionType": "unit_rank",
+    "releaseConditionTypeId": 6,
+    "releaseConditionTypeLevel": 10
+  },
+  {
+    "id": 20511,
+    "sentence": "25時、ナイトコードで。のユニットランク11に到達",
+    "releaseConditionType": "unit_rank",
+    "releaseConditionTypeId": 6,
+    "releaseConditionTypeLevel": 11
+  },
+  {
+    "id": 20512,
+    "sentence": "25時、ナイトコードで。のユニットランク12に到達",
+    "releaseConditionType": "unit_rank",
+    "releaseConditionTypeId": 6,
+    "releaseConditionTypeLevel": 12
+  },
+  {
+    "id": 20513,
+    "sentence": "25時、ナイトコードで。のユニットランク13に到達",
+    "releaseConditionType": "unit_rank",
+    "releaseConditionTypeId": 6,
+    "releaseConditionTypeLevel": 13
+  },
+  {
+    "id": 20514,
+    "sentence": "25時、ナイトコードで。のユニットランク14に到達",
+    "releaseConditionType": "unit_rank",
+    "releaseConditionTypeId": 6,
+    "releaseConditionTypeLevel": 14
+  },
+  {
+    "id": 20515,
+    "sentence": "25時、ナイトコードで。のユニットランク15に到達",
+    "releaseConditionType": "unit_rank",
+    "releaseConditionTypeId": 6,
+    "releaseConditionTypeLevel": 15
+  },
+  {
+    "id": 20516,
+    "sentence": "25時、ナイトコードで。のユニットランク16に到達",
+    "releaseConditionType": "unit_rank",
+    "releaseConditionTypeId": 6,
+    "releaseConditionTypeLevel": 16
+  },
+  {
+    "id": 20517,
+    "sentence": "25時、ナイトコードで。のユニットランク17に到達",
+    "releaseConditionType": "unit_rank",
+    "releaseConditionTypeId": 6,
+    "releaseConditionTypeLevel": 17
+  },
+  {
+    "id": 20518,
+    "sentence": "25時、ナイトコードで。のユニットランク18に到達",
+    "releaseConditionType": "unit_rank",
+    "releaseConditionTypeId": 6,
+    "releaseConditionTypeLevel": 18
+  },
+  {
+    "id": 20519,
+    "sentence": "25時、ナイトコードで。のユニットランク19に到達",
+    "releaseConditionType": "unit_rank",
+    "releaseConditionTypeId": 6,
+    "releaseConditionTypeLevel": 19
+  },
+  {
+    "id": 20520,
+    "sentence": "25時、ナイトコードで。のユニットランク20に到達",
+    "releaseConditionType": "unit_rank",
+    "releaseConditionTypeId": 6,
+    "releaseConditionTypeLevel": 20
+  },
+  {
+    "id": 20601,
+    "sentence": "バーチャル・シンガーのユニットランク1に到達",
+    "releaseConditionType": "unit_rank",
+    "releaseConditionTypeId": 1,
+    "releaseConditionTypeLevel": 1
+  },
+  {
+    "id": 20602,
+    "sentence": "バーチャル・シンガーのユニットランク2に到達",
+    "releaseConditionType": "unit_rank",
+    "releaseConditionTypeId": 1,
+    "releaseConditionTypeLevel": 2
+  },
+  {
+    "id": 20603,
+    "sentence": "バーチャル・シンガーのユニットランク3に到達",
+    "releaseConditionType": "unit_rank",
+    "releaseConditionTypeId": 1,
+    "releaseConditionTypeLevel": 3
+  },
+  {
+    "id": 20604,
+    "sentence": "バーチャル・シンガーのユニットランク4に到達",
+    "releaseConditionType": "unit_rank",
+    "releaseConditionTypeId": 1,
+    "releaseConditionTypeLevel": 4
+  },
+  {
+    "id": 20605,
+    "sentence": "バーチャル・シンガーのユニットランク5に到達",
+    "releaseConditionType": "unit_rank",
+    "releaseConditionTypeId": 1,
+    "releaseConditionTypeLevel": 5
+  },
+  {
+    "id": 20606,
+    "sentence": "バーチャル・シンガーのユニットランク6に到達",
+    "releaseConditionType": "unit_rank",
+    "releaseConditionTypeId": 1,
+    "releaseConditionTypeLevel": 6
+  },
+  {
+    "id": 20607,
+    "sentence": "バーチャル・シンガーのユニットランク7に到達",
+    "releaseConditionType": "unit_rank",
+    "releaseConditionTypeId": 1,
+    "releaseConditionTypeLevel": 7
+  },
+  {
+    "id": 20608,
+    "sentence": "バーチャル・シンガーのユニットランク8に到達",
+    "releaseConditionType": "unit_rank",
+    "releaseConditionTypeId": 1,
+    "releaseConditionTypeLevel": 8
+  },
+  {
+    "id": 20609,
+    "sentence": "バーチャル・シンガーのユニットランク9に到達",
+    "releaseConditionType": "unit_rank",
+    "releaseConditionTypeId": 1,
+    "releaseConditionTypeLevel": 9
+  },
+  {
+    "id": 20610,
+    "sentence": "バーチャル・シンガーのユニットランク10に到達",
+    "releaseConditionType": "unit_rank",
+    "releaseConditionTypeId": 1,
+    "releaseConditionTypeLevel": 10
+  },
+  {
+    "id": 20611,
+    "sentence": "バーチャル・シンガーのユニットランク11に到達",
+    "releaseConditionType": "unit_rank",
+    "releaseConditionTypeId": 1,
+    "releaseConditionTypeLevel": 11
+  },
+  {
+    "id": 20612,
+    "sentence": "バーチャル・シンガーのユニットランク12に到達",
+    "releaseConditionType": "unit_rank",
+    "releaseConditionTypeId": 1,
+    "releaseConditionTypeLevel": 12
+  },
+  {
+    "id": 20613,
+    "sentence": "バーチャル・シンガーのユニットランク13に到達",
+    "releaseConditionType": "unit_rank",
+    "releaseConditionTypeId": 1,
+    "releaseConditionTypeLevel": 13
+  },
+  {
+    "id": 20614,
+    "sentence": "バーチャル・シンガーのユニットランク14に到達",
+    "releaseConditionType": "unit_rank",
+    "releaseConditionTypeId": 1,
+    "releaseConditionTypeLevel": 14
+  },
+  {
+    "id": 20615,
+    "sentence": "バーチャル・シンガーのユニットランク15に到達",
+    "releaseConditionType": "unit_rank",
+    "releaseConditionTypeId": 1,
+    "releaseConditionTypeLevel": 15
+  },
+  {
+    "id": 20616,
+    "sentence": "バーチャル・シンガーのユニットランク16に到達",
+    "releaseConditionType": "unit_rank",
+    "releaseConditionTypeId": 1,
+    "releaseConditionTypeLevel": 16
+  },
+  {
+    "id": 20617,
+    "sentence": "バーチャル・シンガーのユニットランク17に到達",
+    "releaseConditionType": "unit_rank",
+    "releaseConditionTypeId": 1,
+    "releaseConditionTypeLevel": 17
+  },
+  {
+    "id": 20618,
+    "sentence": "バーチャル・シンガーのユニットランク18に到達",
+    "releaseConditionType": "unit_rank",
+    "releaseConditionTypeId": 1,
+    "releaseConditionTypeLevel": 18
+  },
+  {
+    "id": 20619,
+    "sentence": "バーチャル・シンガーのユニットランク19に到達",
+    "releaseConditionType": "unit_rank",
+    "releaseConditionTypeId": 1,
+    "releaseConditionTypeLevel": 19
+  },
+  {
+    "id": 20620,
+    "sentence": "バーチャル・シンガーのユニットランク20に到達",
+    "releaseConditionType": "unit_rank",
+    "releaseConditionTypeId": 1,
+    "releaseConditionTypeLevel": 20
+  },
+  {
+    "id": 30001,
+    "sentence": "前編を解放した状態でレベルが20必要です。",
+    "releaseConditionType": "card_level",
+    "releaseConditionTypeId": 1,
+    "releaseConditionTypeLevel": 20
+  },
+  {
+    "id": 30002,
+    "sentence": "前編を解放した状態でレベルが30必要です。",
+    "releaseConditionType": "card_level",
+    "releaseConditionTypeId": 2,
+    "releaseConditionTypeLevel": 30
+  },
+  {
+    "id": 30003,
+    "sentence": "前編を解放した状態でレベルが50必要です。",
+    "releaseConditionType": "card_level",
+    "releaseConditionTypeId": 3,
+    "releaseConditionTypeLevel": 50
+  },
+  {
+    "id": 30004,
+    "sentence": "前編を解放した状態でレベルが60必要です。",
+    "releaseConditionType": "card_level",
+    "releaseConditionTypeId": 4,
+    "releaseConditionTypeLevel": 60
+  },
+  {
+    "id": 30005,
+    "sentence": "前編を解放した状態でレベルが20必要です。",
+    "releaseConditionType": "card_level",
+    "releaseConditionTypeId": 5,
+    "releaseConditionTypeLevel": 20
+  },
+  {
+    "id": 30006,
+    "sentence": "前編を解放した状態でレベルが30必要です。",
+    "releaseConditionType": "card_level",
+    "releaseConditionTypeId": 6,
+    "releaseConditionTypeLevel": 30
+  },
+  {
+    "id": 30007,
+    "sentence": "前編を解放した状態でレベルが50必要です。",
+    "releaseConditionType": "card_level",
+    "releaseConditionTypeId": 7,
+    "releaseConditionTypeLevel": 50
+  },
+  {
+    "id": 30008,
+    "sentence": "前編を解放した状態でレベルが60必要です。",
+    "releaseConditionType": "card_level",
+    "releaseConditionTypeId": 8,
+    "releaseConditionTypeLevel": 60
+  },
+  {
+    "id": 30009,
+    "sentence": "前編を解放した状態でレベルが20必要です。",
+    "releaseConditionType": "card_level",
+    "releaseConditionTypeId": 9,
+    "releaseConditionTypeLevel": 20
+  },
+  {
+    "id": 30010,
+    "sentence": "前編を解放した状態でレベルが30必要です。",
+    "releaseConditionType": "card_level",
+    "releaseConditionTypeId": 10,
+    "releaseConditionTypeLevel": 30
+  },
+  {
+    "id": 30011,
+    "sentence": "前編を解放した状態でレベルが50必要です。",
+    "releaseConditionType": "card_level",
+    "releaseConditionTypeId": 11,
+    "releaseConditionTypeLevel": 50
+  },
+  {
+    "id": 30012,
+    "sentence": "前編を解放した状態でレベルが60必要です。",
+    "releaseConditionType": "card_level",
+    "releaseConditionTypeId": 12,
+    "releaseConditionTypeLevel": 60
+  },
+  {
+    "id": 30013,
+    "sentence": "前編を解放した状態でレベルが20必要です。",
+    "releaseConditionType": "card_level",
+    "releaseConditionTypeId": 13,
+    "releaseConditionTypeLevel": 20
+  },
+  {
+    "id": 30014,
+    "sentence": "前編を解放した状態でレベルが30必要です。",
+    "releaseConditionType": "card_level",
+    "releaseConditionTypeId": 14,
+    "releaseConditionTypeLevel": 30
+  },
+  {
+    "id": 30015,
+    "sentence": "前編を解放した状態でレベルが50必要です。",
+    "releaseConditionType": "card_level",
+    "releaseConditionTypeId": 15,
+    "releaseConditionTypeLevel": 50
+  },
+  {
+    "id": 30016,
+    "sentence": "前編を解放した状態でレベルが60必要です。",
+    "releaseConditionType": "card_level",
+    "releaseConditionTypeId": 16,
+    "releaseConditionTypeLevel": 60
+  },
+  {
+    "id": 30017,
+    "sentence": "前編を解放した状態でレベルが20必要です。",
+    "releaseConditionType": "card_level",
+    "releaseConditionTypeId": 17,
+    "releaseConditionTypeLevel": 20
+  },
+  {
+    "id": 30018,
+    "sentence": "前編を解放した状態でレベルが30必要です。",
+    "releaseConditionType": "card_level",
+    "releaseConditionTypeId": 18,
+    "releaseConditionTypeLevel": 30
+  },
+  {
+    "id": 30019,
+    "sentence": "前編を解放した状態でレベルが50必要です。",
+    "releaseConditionType": "card_level",
+    "releaseConditionTypeId": 19,
+    "releaseConditionTypeLevel": 50
+  },
+  {
+    "id": 30020,
+    "sentence": "前編を解放した状態でレベルが60必要です。",
+    "releaseConditionType": "card_level",
+    "releaseConditionTypeId": 20,
+    "releaseConditionTypeLevel": 60
+  },
+  {
+    "id": 30021,
+    "sentence": "前編を解放した状態でレベルが20必要です。",
+    "releaseConditionType": "card_level",
+    "releaseConditionTypeId": 21,
+    "releaseConditionTypeLevel": 20
+  },
+  {
+    "id": 30022,
+    "sentence": "前編を解放した状態でレベルが30必要です。",
+    "releaseConditionType": "card_level",
+    "releaseConditionTypeId": 22,
+    "releaseConditionTypeLevel": 30
+  },
+  {
+    "id": 30023,
+    "sentence": "前編を解放した状態でレベルが50必要です。",
+    "releaseConditionType": "card_level",
+    "releaseConditionTypeId": 23,
+    "releaseConditionTypeLevel": 50
+  },
+  {
+    "id": 30024,
+    "sentence": "前編を解放した状態でレベルが60必要です。",
+    "releaseConditionType": "card_level",
+    "releaseConditionTypeId": 24,
+    "releaseConditionTypeLevel": 60
+  },
+  {
+    "id": 30025,
+    "sentence": "前編を解放した状態でレベルが20必要です。",
+    "releaseConditionType": "card_level",
+    "releaseConditionTypeId": 25,
+    "releaseConditionTypeLevel": 20
+  },
+  {
+    "id": 30026,
+    "sentence": "前編を解放した状態でレベルが30必要です。",
+    "releaseConditionType": "card_level",
+    "releaseConditionTypeId": 26,
+    "releaseConditionTypeLevel": 30
+  },
+  {
+    "id": 30027,
+    "sentence": "前編を解放した状態でレベルが50必要です。",
+    "releaseConditionType": "card_level",
+    "releaseConditionTypeId": 27,
+    "releaseConditionTypeLevel": 50
+  },
+  {
+    "id": 30028,
+    "sentence": "前編を解放した状態でレベルが60必要です。",
+    "releaseConditionType": "card_level",
+    "releaseConditionTypeId": 28,
+    "releaseConditionTypeLevel": 60
+  },
+  {
+    "id": 30029,
+    "sentence": "前編を解放した状態でレベルが20必要です。",
+    "releaseConditionType": "card_level",
+    "releaseConditionTypeId": 29,
+    "releaseConditionTypeLevel": 20
+  },
+  {
+    "id": 30030,
+    "sentence": "前編を解放した状態でレベルが30必要です。",
+    "releaseConditionType": "card_level",
+    "releaseConditionTypeId": 30,
+    "releaseConditionTypeLevel": 30
+  },
+  {
+    "id": 30031,
+    "sentence": "前編を解放した状態でレベルが50必要です。",
+    "releaseConditionType": "card_level",
+    "releaseConditionTypeId": 31,
+    "releaseConditionTypeLevel": 50
+  },
+  {
+    "id": 30032,
+    "sentence": "前編を解放した状態でレベルが60必要です。",
+    "releaseConditionType": "card_level",
+    "releaseConditionTypeId": 32,
+    "releaseConditionTypeLevel": 60
+  },
+  {
+    "id": 30033,
+    "sentence": "前編を解放した状態でレベルが20必要です。",
+    "releaseConditionType": "card_level",
+    "releaseConditionTypeId": 33,
+    "releaseConditionTypeLevel": 20
+  },
+  {
+    "id": 30034,
+    "sentence": "前編を解放した状態でレベルが30必要です。",
+    "releaseConditionType": "card_level",
+    "releaseConditionTypeId": 34,
+    "releaseConditionTypeLevel": 30
+  },
+  {
+    "id": 30035,
+    "sentence": "前編を解放した状態でレベルが50必要です。",
+    "releaseConditionType": "card_level",
+    "releaseConditionTypeId": 35,
+    "releaseConditionTypeLevel": 50
+  },
+  {
+    "id": 30036,
+    "sentence": "前編を解放した状態でレベルが60必要です。",
+    "releaseConditionType": "card_level",
+    "releaseConditionTypeId": 36,
+    "releaseConditionTypeLevel": 60
+  },
+  {
+    "id": 30037,
+    "sentence": "前編を解放した状態でレベルが20必要です。",
+    "releaseConditionType": "card_level",
+    "releaseConditionTypeId": 37,
+    "releaseConditionTypeLevel": 20
+  },
+  {
+    "id": 30038,
+    "sentence": "前編を解放した状態でレベルが30必要です。",
+    "releaseConditionType": "card_level",
+    "releaseConditionTypeId": 38,
+    "releaseConditionTypeLevel": 30
+  },
+  {
+    "id": 30039,
+    "sentence": "前編を解放した状態でレベルが50必要です。",
+    "releaseConditionType": "card_level",
+    "releaseConditionTypeId": 39,
+    "releaseConditionTypeLevel": 50
+  },
+  {
+    "id": 30040,
+    "sentence": "前編を解放した状態でレベルが60必要です。",
+    "releaseConditionType": "card_level",
+    "releaseConditionTypeId": 40,
+    "releaseConditionTypeLevel": 60
+  },
+  {
+    "id": 30041,
+    "sentence": "前編を解放した状態でレベルが20必要です。",
+    "releaseConditionType": "card_level",
+    "releaseConditionTypeId": 41,
+    "releaseConditionTypeLevel": 20
+  },
+  {
+    "id": 30042,
+    "sentence": "前編を解放した状態でレベルが30必要です。",
+    "releaseConditionType": "card_level",
+    "releaseConditionTypeId": 42,
+    "releaseConditionTypeLevel": 30
+  },
+  {
+    "id": 30043,
+    "sentence": "前編を解放した状態でレベルが50必要です。",
+    "releaseConditionType": "card_level",
+    "releaseConditionTypeId": 43,
+    "releaseConditionTypeLevel": 50
+  },
+  {
+    "id": 30044,
+    "sentence": "前編を解放した状態でレベルが60必要です。",
+    "releaseConditionType": "card_level",
+    "releaseConditionTypeId": 44,
+    "releaseConditionTypeLevel": 60
+  },
+  {
+    "id": 30045,
+    "sentence": "前編を解放した状態でレベルが20必要です。",
+    "releaseConditionType": "card_level",
+    "releaseConditionTypeId": 45,
+    "releaseConditionTypeLevel": 20
+  },
+  {
+    "id": 30046,
+    "sentence": "前編を解放した状態でレベルが30必要です。",
+    "releaseConditionType": "card_level",
+    "releaseConditionTypeId": 46,
+    "releaseConditionTypeLevel": 30
+  },
+  {
+    "id": 30047,
+    "sentence": "前編を解放した状態でレベルが50必要です。",
+    "releaseConditionType": "card_level",
+    "releaseConditionTypeId": 47,
+    "releaseConditionTypeLevel": 50
+  },
+  {
+    "id": 30048,
+    "sentence": "前編を解放した状態でレベルが60必要です。",
+    "releaseConditionType": "card_level",
+    "releaseConditionTypeId": 48,
+    "releaseConditionTypeLevel": 60
+  },
+  {
+    "id": 30049,
+    "sentence": "前編を解放した状態でレベルが20必要です。",
+    "releaseConditionType": "card_level",
+    "releaseConditionTypeId": 49,
+    "releaseConditionTypeLevel": 20
+  },
+  {
+    "id": 30050,
+    "sentence": "前編を解放した状態でレベルが30必要です。",
+    "releaseConditionType": "card_level",
+    "releaseConditionTypeId": 50,
+    "releaseConditionTypeLevel": 30
+  },
+  {
+    "id": 30051,
+    "sentence": "前編を解放した状態でレベルが50必要です。",
+    "releaseConditionType": "card_level",
+    "releaseConditionTypeId": 51,
+    "releaseConditionTypeLevel": 50
+  },
+  {
+    "id": 30052,
+    "sentence": "前編を解放した状態でレベルが60必要です。",
+    "releaseConditionType": "card_level",
+    "releaseConditionTypeId": 52,
+    "releaseConditionTypeLevel": 60
+  },
+  {
+    "id": 30053,
+    "sentence": "前編を解放した状態でレベルが20必要です。",
+    "releaseConditionType": "card_level",
+    "releaseConditionTypeId": 53,
+    "releaseConditionTypeLevel": 20
+  },
+  {
+    "id": 30054,
+    "sentence": "前編を解放した状態でレベルが30必要です。",
+    "releaseConditionType": "card_level",
+    "releaseConditionTypeId": 54,
+    "releaseConditionTypeLevel": 30
+  },
+  {
+    "id": 30055,
+    "sentence": "前編を解放した状態でレベルが50必要です。",
+    "releaseConditionType": "card_level",
+    "releaseConditionTypeId": 55,
+    "releaseConditionTypeLevel": 50
+  },
+  {
+    "id": 30056,
+    "sentence": "前編を解放した状態でレベルが60必要です。",
+    "releaseConditionType": "card_level",
+    "releaseConditionTypeId": 56,
+    "releaseConditionTypeLevel": 60
+  },
+  {
+    "id": 30057,
+    "sentence": "前編を解放した状態でレベルが20必要です。",
+    "releaseConditionType": "card_level",
+    "releaseConditionTypeId": 57,
+    "releaseConditionTypeLevel": 20
+  },
+  {
+    "id": 30058,
+    "sentence": "前編を解放した状態でレベルが30必要です。",
+    "releaseConditionType": "card_level",
+    "releaseConditionTypeId": 58,
+    "releaseConditionTypeLevel": 30
+  },
+  {
+    "id": 30059,
+    "sentence": "前編を解放した状態でレベルが50必要です。",
+    "releaseConditionType": "card_level",
+    "releaseConditionTypeId": 59,
+    "releaseConditionTypeLevel": 50
+  },
+  {
+    "id": 30060,
+    "sentence": "前編を解放した状態でレベルが60必要です。",
+    "releaseConditionType": "card_level",
+    "releaseConditionTypeId": 60,
+    "releaseConditionTypeLevel": 60
+  },
+  {
+    "id": 30061,
+    "sentence": "前編を解放した状態でレベルが20必要です。",
+    "releaseConditionType": "card_level",
+    "releaseConditionTypeId": 61,
+    "releaseConditionTypeLevel": 20
+  },
+  {
+    "id": 30062,
+    "sentence": "前編を解放した状態でレベルが30必要です。",
+    "releaseConditionType": "card_level",
+    "releaseConditionTypeId": 62,
+    "releaseConditionTypeLevel": 30
+  },
+  {
+    "id": 30063,
+    "sentence": "前編を解放した状態でレベルが50必要です。",
+    "releaseConditionType": "card_level",
+    "releaseConditionTypeId": 63,
+    "releaseConditionTypeLevel": 50
+  },
+  {
+    "id": 30064,
+    "sentence": "前編を解放した状態でレベルが60必要です。",
+    "releaseConditionType": "card_level",
+    "releaseConditionTypeId": 64,
+    "releaseConditionTypeLevel": 60
+  },
+  {
+    "id": 30065,
+    "sentence": "前編を解放した状態でレベルが20必要です。",
+    "releaseConditionType": "card_level",
+    "releaseConditionTypeId": 65,
+    "releaseConditionTypeLevel": 20
+  },
+  {
+    "id": 30066,
+    "sentence": "前編を解放した状態でレベルが30必要です。",
+    "releaseConditionType": "card_level",
+    "releaseConditionTypeId": 66,
+    "releaseConditionTypeLevel": 30
+  },
+  {
+    "id": 30067,
+    "sentence": "前編を解放した状態でレベルが50必要です。",
+    "releaseConditionType": "card_level",
+    "releaseConditionTypeId": 67,
+    "releaseConditionTypeLevel": 50
+  },
+  {
+    "id": 30068,
+    "sentence": "前編を解放した状態でレベルが60必要です。",
+    "releaseConditionType": "card_level",
+    "releaseConditionTypeId": 68,
+    "releaseConditionTypeLevel": 60
+  },
+  {
+    "id": 30069,
+    "sentence": "前編を解放した状態でレベルが20必要です。",
+    "releaseConditionType": "card_level",
+    "releaseConditionTypeId": 69,
+    "releaseConditionTypeLevel": 20
+  },
+  {
+    "id": 30070,
+    "sentence": "前編を解放した状態でレベルが30必要です。",
+    "releaseConditionType": "card_level",
+    "releaseConditionTypeId": 70,
+    "releaseConditionTypeLevel": 30
+  },
+  {
+    "id": 30071,
+    "sentence": "前編を解放した状態でレベルが50必要です。",
+    "releaseConditionType": "card_level",
+    "releaseConditionTypeId": 71,
+    "releaseConditionTypeLevel": 50
+  },
+  {
+    "id": 30072,
+    "sentence": "前編を解放した状態でレベルが60必要です。",
+    "releaseConditionType": "card_level",
+    "releaseConditionTypeId": 72,
+    "releaseConditionTypeLevel": 60
+  },
+  {
+    "id": 30073,
+    "sentence": "前編を解放した状態でレベルが20必要です。",
+    "releaseConditionType": "card_level",
+    "releaseConditionTypeId": 73,
+    "releaseConditionTypeLevel": 20
+  },
+  {
+    "id": 30074,
+    "sentence": "前編を解放した状態でレベルが30必要です。",
+    "releaseConditionType": "card_level",
+    "releaseConditionTypeId": 74,
+    "releaseConditionTypeLevel": 30
+  },
+  {
+    "id": 30075,
+    "sentence": "前編を解放した状態でレベルが50必要です。",
+    "releaseConditionType": "card_level",
+    "releaseConditionTypeId": 75,
+    "releaseConditionTypeLevel": 50
+  },
+  {
+    "id": 30076,
+    "sentence": "前編を解放した状態でレベルが60必要です。",
+    "releaseConditionType": "card_level",
+    "releaseConditionTypeId": 76,
+    "releaseConditionTypeLevel": 60
+  },
+  {
+    "id": 30077,
+    "sentence": "前編を解放した状態でレベルが20必要です。",
+    "releaseConditionType": "card_level",
+    "releaseConditionTypeId": 77,
+    "releaseConditionTypeLevel": 20
+  },
+  {
+    "id": 30078,
+    "sentence": "前編を解放した状態でレベルが30必要です。",
+    "releaseConditionType": "card_level",
+    "releaseConditionTypeId": 78,
+    "releaseConditionTypeLevel": 30
+  },
+  {
+    "id": 30079,
+    "sentence": "前編を解放した状態でレベルが50必要です。",
+    "releaseConditionType": "card_level",
+    "releaseConditionTypeId": 79,
+    "releaseConditionTypeLevel": 50
+  },
+  {
+    "id": 30080,
+    "sentence": "前編を解放した状態でレベルが60必要です。",
+    "releaseConditionType": "card_level",
+    "releaseConditionTypeId": 80,
+    "releaseConditionTypeLevel": 60
+  },
+  {
+    "id": 30081,
+    "sentence": "前編を解放した状態でレベルが20必要です。",
+    "releaseConditionType": "card_level",
+    "releaseConditionTypeId": 81,
+    "releaseConditionTypeLevel": 20
+  },
+  {
+    "id": 30082,
+    "sentence": "前編を解放した状態でレベルが30必要です。",
+    "releaseConditionType": "card_level",
+    "releaseConditionTypeId": 82,
+    "releaseConditionTypeLevel": 30
+  },
+  {
+    "id": 30083,
+    "sentence": "前編を解放した状態でレベルが30必要です。",
+    "releaseConditionType": "card_level",
+    "releaseConditionTypeId": 83,
+    "releaseConditionTypeLevel": 30
+  },
+  {
+    "id": 30084,
+    "sentence": "前編を解放した状態でレベルが30必要です。",
+    "releaseConditionType": "card_level",
+    "releaseConditionTypeId": 84,
+    "releaseConditionTypeLevel": 30
+  },
+  {
+    "id": 30085,
+    "sentence": "前編を解放した状態でレベルが30必要です。",
+    "releaseConditionType": "card_level",
+    "releaseConditionTypeId": 85,
+    "releaseConditionTypeLevel": 30
+  },
+  {
+    "id": 30086,
+    "sentence": "前編を解放した状態でレベルが30必要です。",
+    "releaseConditionType": "card_level",
+    "releaseConditionTypeId": 86,
+    "releaseConditionTypeLevel": 30
+  },
+  {
+    "id": 30087,
+    "sentence": "前編を解放した状態でレベルが50必要です。",
+    "releaseConditionType": "card_level",
+    "releaseConditionTypeId": 87,
+    "releaseConditionTypeLevel": 50
+  },
+  {
+    "id": 30088,
+    "sentence": "前編を解放した状態でレベルが60必要です。",
+    "releaseConditionType": "card_level",
+    "releaseConditionTypeId": 88,
+    "releaseConditionTypeLevel": 60
+  },
+  {
+    "id": 30089,
+    "sentence": "前編を解放した状態でレベルが20必要です。",
+    "releaseConditionType": "card_level",
+    "releaseConditionTypeId": 89,
+    "releaseConditionTypeLevel": 20
+  },
+  {
+    "id": 30090,
+    "sentence": "前編を解放した状態でレベルが30必要です。",
+    "releaseConditionType": "card_level",
+    "releaseConditionTypeId": 90,
+    "releaseConditionTypeLevel": 30
+  },
+  {
+    "id": 30091,
+    "sentence": "前編を解放した状態でレベルが50必要です。",
+    "releaseConditionType": "card_level",
+    "releaseConditionTypeId": 91,
+    "releaseConditionTypeLevel": 50
+  },
+  {
+    "id": 30092,
+    "sentence": "前編を解放した状態でレベルが60必要です。",
+    "releaseConditionType": "card_level",
+    "releaseConditionTypeId": 92,
+    "releaseConditionTypeLevel": 60
+  },
+  {
+    "id": 30093,
+    "sentence": "前編を解放した状態でレベルが20必要です。",
+    "releaseConditionType": "card_level",
+    "releaseConditionTypeId": 93,
+    "releaseConditionTypeLevel": 20
+  },
+  {
+    "id": 30094,
+    "sentence": "前編を解放した状態でレベルが30必要です。",
+    "releaseConditionType": "card_level",
+    "releaseConditionTypeId": 94,
+    "releaseConditionTypeLevel": 30
+  },
+  {
+    "id": 30095,
+    "sentence": "前編を解放した状態でレベルが50必要です。",
+    "releaseConditionType": "card_level",
+    "releaseConditionTypeId": 95,
+    "releaseConditionTypeLevel": 50
+  },
+  {
+    "id": 30096,
+    "sentence": "前編を解放した状態でレベルが60必要です。",
+    "releaseConditionType": "card_level",
+    "releaseConditionTypeId": 96,
+    "releaseConditionTypeLevel": 60
+  },
+  {
+    "id": 30097,
+    "sentence": "前編を解放した状態でレベルが20必要です。",
+    "releaseConditionType": "card_level",
+    "releaseConditionTypeId": 97,
+    "releaseConditionTypeLevel": 20
+  },
+  {
+    "id": 30098,
+    "sentence": "前編を解放した状態でレベルが30必要です。",
+    "releaseConditionType": "card_level",
+    "releaseConditionTypeId": 98,
+    "releaseConditionTypeLevel": 30
+  },
+  {
+    "id": 30099,
+    "sentence": "前編を解放した状態でレベルが50必要です。",
+    "releaseConditionType": "card_level",
+    "releaseConditionTypeId": 99,
+    "releaseConditionTypeLevel": 50
+  },
+  {
+    "id": 30100,
+    "sentence": "前編を解放した状態でレベルが60必要です。",
+    "releaseConditionType": "card_level",
+    "releaseConditionTypeId": 100,
+    "releaseConditionTypeLevel": 60
+  },
+  {
+    "id": 30101,
+    "sentence": "前編を解放した状態でレベルが20必要です。",
+    "releaseConditionType": "card_level",
+    "releaseConditionTypeId": 101,
+    "releaseConditionTypeLevel": 20
+  },
+  {
+    "id": 30102,
+    "sentence": "前編を解放した状態でレベルが30必要です。",
+    "releaseConditionType": "card_level",
+    "releaseConditionTypeId": 102,
+    "releaseConditionTypeLevel": 30
+  },
+  {
+    "id": 30103,
+    "sentence": "前編を解放した状態でレベルが50必要です。",
+    "releaseConditionType": "card_level",
+    "releaseConditionTypeId": 103,
+    "releaseConditionTypeLevel": 50
+  },
+  {
+    "id": 30104,
+    "sentence": "前編を解放した状態でレベルが60必要です。",
+    "releaseConditionType": "card_level",
+    "releaseConditionTypeId": 104,
+    "releaseConditionTypeLevel": 60
+  },
+  {
+    "id": 30105,
+    "sentence": "前編を解放した状態でレベルが20必要です。",
+    "releaseConditionType": "card_level",
+    "releaseConditionTypeId": 105,
+    "releaseConditionTypeLevel": 20
+  },
+  {
+    "id": 30106,
+    "sentence": "前編を解放した状態でレベルが30必要です。",
+    "releaseConditionType": "card_level",
+    "releaseConditionTypeId": 106,
+    "releaseConditionTypeLevel": 30
+  },
+  {
+    "id": 30107,
+    "sentence": "前編を解放した状態でレベルが50必要です。",
+    "releaseConditionType": "card_level",
+    "releaseConditionTypeId": 107,
+    "releaseConditionTypeLevel": 50
+  },
+  {
+    "id": 30108,
+    "sentence": "前編を解放した状態でレベルが60必要です。",
+    "releaseConditionType": "card_level",
+    "releaseConditionTypeId": 108,
+    "releaseConditionTypeLevel": 60
+  },
+  {
+    "id": 40001,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 4,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40002,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 9,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40003,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 14,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40004,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 19,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40005,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 24,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40006,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 29,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40007,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 34,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40008,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 39,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40009,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 44,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40010,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 49,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40011,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 54,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40012,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 59,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40013,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 64,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40014,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 69,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40015,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 74,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40016,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 79,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40017,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 84,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40018,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 89,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40019,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 94,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40020,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 99,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40021,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 104,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40022,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 109,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40023,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 114,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40024,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 119,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40025,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 124,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40026,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 129,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40027,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 134,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40028,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 139,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40029,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 144,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40030,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 149,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40031,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 154,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40032,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 159,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40033,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 164,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40034,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 169,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40035,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 174,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40036,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 179,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40037,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 184,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40038,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 189,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40039,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 194,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40040,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 199,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40041,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 204,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40042,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 209,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40043,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 214,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40044,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 219,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40045,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 224,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40046,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 229,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40047,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 234,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40048,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 239,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40049,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 244,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40050,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 249,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40051,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 254,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40052,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 259,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40053,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 264,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40054,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 269,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40055,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 274,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40056,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 279,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40057,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 284,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40058,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 289,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40059,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 294,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40060,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 299,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40061,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 304,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40062,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 309,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40063,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 314,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40064,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 319,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40065,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 324,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40066,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 329,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40067,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 334,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40068,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 339,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40069,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 344,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40070,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 349,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40071,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 354,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40072,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 359,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40073,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 364,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40074,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 369,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40075,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 374,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40076,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 379,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40077,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 384,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40078,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 389,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40079,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 394,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40080,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 399,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40081,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 404,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40082,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 409,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40083,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 414,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40084,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 419,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40085,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 424,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40086,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 429,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40087,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 434,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40088,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 439,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40089,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 444,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40090,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 449,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40091,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 454,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40092,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 459,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40093,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 464,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40094,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 469,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40095,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 474,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40096,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 479,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40097,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 484,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40098,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 489,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40099,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 494,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40100,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 499,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40101,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 504,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40102,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 509,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40103,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 514,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40104,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 519,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40105,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 524,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40106,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 529,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40107,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 534,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40108,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 539,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40109,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 544,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40110,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 549,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40111,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 554,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40112,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 559,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40113,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 564,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40114,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 569,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40115,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 574,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40116,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 579,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40117,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 584,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40118,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 589,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40119,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 594,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40120,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 599,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40121,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 604,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40122,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 609,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40123,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 614,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40124,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 619,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40125,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 624,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40126,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 629,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40127,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 634,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40128,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 639,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40129,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 644,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40130,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 649,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40131,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 654,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40132,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 659,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40133,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 664,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40134,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 669,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40135,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 674,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40136,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 679,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40137,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 684,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40138,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 689,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40139,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 694,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40140,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 699,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40141,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 704,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40142,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 709,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40143,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 714,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40144,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 719,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40145,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 724,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40146,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 729,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40147,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 734,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40148,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 739,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40149,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 744,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40150,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 749,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40151,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 754,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40152,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 759,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40153,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 764,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40154,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 769,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40155,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 774,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40156,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 779,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40157,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 784,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40158,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 789,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40159,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 794,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40160,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 799,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40161,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 804,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40162,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 809,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40163,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 814,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40164,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 819,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40165,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 824,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40166,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 829,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40167,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 834,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40168,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 839,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40169,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 844,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40170,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 849,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40171,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 854,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40172,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 859,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40173,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 864,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40174,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 869,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40175,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 874,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40176,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 879,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40177,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 884,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40178,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 889,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40179,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 894,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40180,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 899,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40181,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 904,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40182,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 909,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40183,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 914,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40184,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 919,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40185,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 924,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40186,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 929,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40187,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 934,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40188,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 939,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40189,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 944,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40190,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 949,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40191,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 954,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40192,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 959,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40193,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 964,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40194,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 969,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40195,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 974,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40196,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 979,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40197,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 984,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40198,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 989,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40199,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 994,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40200,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 999,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40201,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 1004,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40202,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 1009,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40203,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 1014,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40204,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 1019,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40205,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 1024,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40206,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 1029,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40207,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 1034,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40208,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 1039,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40209,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 1044,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40210,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 1049,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40211,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 1054,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40212,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 1059,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40213,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 1064,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40214,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 1069,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40215,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 1074,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40216,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 1079,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40217,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 1084,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40218,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 1089,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40219,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 1094,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40220,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 1099,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40221,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 1104,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40222,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 1109,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40223,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 1114,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40224,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 1119,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40225,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 1124,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40226,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 1129,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40227,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 1134,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40228,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 1139,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40229,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 1144,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40230,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 1149,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40231,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 1154,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40232,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 1159,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40233,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 1164,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40234,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 1169,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40235,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 1174,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40236,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 1179,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40237,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 1184,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40238,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 1189,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40239,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 1194,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40240,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 1199,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40241,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 1204,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40242,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 1209,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40243,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 1214,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40244,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 1219,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40245,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 1224,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40246,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 1229,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40247,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 1234,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40248,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 1239,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40249,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 1244,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40250,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 1249,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40251,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 1254,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40252,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 1259,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40253,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 1264,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40254,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 1269,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40255,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 1274,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40256,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 1279,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40257,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 1284,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40258,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 1289,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40259,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 1294,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40260,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 1299,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40261,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 1304,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40262,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 1309,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40263,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 1314,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40264,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 1319,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40265,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 1324,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40266,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 1329,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40267,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 1334,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40268,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 1339,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40269,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 1344,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40270,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 1349,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40271,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 1354,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40272,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 1359,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40273,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 1364,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40274,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 1369,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40275,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 1374,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40276,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 1379,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40277,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 1384,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40278,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 1389,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40279,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 1394,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40280,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 1399,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40281,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 1404,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40282,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 1409,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40283,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 1414,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40284,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 1419,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40285,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 1424,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40286,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 1429,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40287,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 1434,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40288,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 1439,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40289,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 1444,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40290,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 1449,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40291,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 1454,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40292,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 1459,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40293,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 1464,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40294,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 1469,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40295,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 1474,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40296,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 1479,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40297,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 1484,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40298,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 1489,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40299,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 1494,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40300,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 1499,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40301,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 1504,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40302,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 1509,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40303,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 1514,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40304,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 1519,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40305,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 1524,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40306,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 1529,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40307,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 1534,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40308,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 1539,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40309,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 1544,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40310,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 1549,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40311,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 1554,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40312,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 1559,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40313,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 1564,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40314,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 1569,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40315,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 1574,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40316,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 1579,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40317,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 1584,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40318,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 1589,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40319,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 1594,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40320,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 1599,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40321,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 1604,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40322,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 1609,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40323,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 1614,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40324,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 1619,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40325,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 1624,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40326,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 1629,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40327,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 1634,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40328,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 1639,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40329,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 1644,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40330,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 1649,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40331,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 1654,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40332,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 1659,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40333,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 1664,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40334,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 1669,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40335,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 1674,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40336,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 1679,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40337,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 1684,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40338,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 1689,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40339,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 1694,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40340,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 1699,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40341,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 1704,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40342,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 1709,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40343,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 1714,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40344,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 1719,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40345,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 1724,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40346,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 1729,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40347,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 1734,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40348,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 1739,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40349,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 1744,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40350,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 1749,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40351,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 1754,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40352,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 1759,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40353,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 1764,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40354,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 1769,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40355,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 1774,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40356,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 1779,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40357,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 1784,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40358,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 1789,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40359,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 1794,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40360,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 1799,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40361,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 1804,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40362,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 1809,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40363,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 1814,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40364,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 1819,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40365,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 1824,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40366,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 1829,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40367,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 1834,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40368,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 1839,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40369,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 1844,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40370,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 1849,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40371,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 1854,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40372,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 1859,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40373,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 1864,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40374,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 1869,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40375,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 1874,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40376,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 1879,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40377,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 1884,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40378,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 1889,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40379,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 1894,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40380,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 1899,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40381,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 1904,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40382,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 1909,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40383,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 1914,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40384,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 1919,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40385,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 1924,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40386,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 1929,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40387,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 1934,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40388,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 1939,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40389,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 1944,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40390,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 1949,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40391,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 1954,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40392,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 1959,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40393,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 1964,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40394,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 1969,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40395,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 1974,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40396,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 1979,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40397,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 1984,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40398,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 1989,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40399,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 1994,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40400,
+    "sentence": "GOOD以下を7以内でEXPERTクリア",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 1999,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 50001,
+    "sentence": "エリアプレイリスト解放テスト用データ",
+    "releaseConditionType": "unit_story",
+    "releaseConditionTypeId": 1
+  },
+  {
+    "id": 50002,
+    "sentence": "Leo/needのメインストーリー第1話を読む",
+    "releaseConditionType": "unit_story",
+    "releaseConditionTypeId": 50001
+  },
+  {
+    "id": 50003,
+    "sentence": "Leo/needのメインストーリー第6話を読む",
+    "releaseConditionType": "unit_story",
+    "releaseConditionTypeId": 50006
+  },
+  {
+    "id": 50004,
+    "sentence": "Leo/needのメインストーリー第14話を読む",
+    "releaseConditionType": "unit_story",
+    "releaseConditionTypeId": 50014
+  },
+  {
+    "id": 50005,
+    "sentence": "Leo/needのメインストーリー第20話を読む",
+    "releaseConditionType": "unit_story",
+    "releaseConditionTypeId": 50020
+  },
+  {
+    "id": 50006,
+    "sentence": "MORE MORE JUMP！のメインストーリー第1話を読む",
+    "releaseConditionType": "unit_story",
+    "releaseConditionTypeId": 30001
+  },
+  {
+    "id": 50007,
+    "sentence": "MORE MORE JUMP！のメインストーリー第7話を読む",
+    "releaseConditionType": "unit_story",
+    "releaseConditionTypeId": 30007
+  },
+  {
+    "id": 50008,
+    "sentence": "MORE MORE JUMP！のメインストーリー第16話を読む",
+    "releaseConditionType": "unit_story",
+    "releaseConditionTypeId": 30016
+  },
+  {
+    "id": 50009,
+    "sentence": "MORE MORE JUMP！のメインストーリー第20話を読む",
+    "releaseConditionType": "unit_story",
+    "releaseConditionTypeId": 30020
+  },
+  {
+    "id": 50010,
+    "sentence": "Vivid BAD SQUADのメインストーリー第1話を読む",
+    "releaseConditionType": "unit_story",
+    "releaseConditionTypeId": 40001
+  },
+  {
+    "id": 50011,
+    "sentence": "Vivid BAD SQUADのメインストーリー第6話を読む",
+    "releaseConditionType": "unit_story",
+    "releaseConditionTypeId": 40006
+  },
+  {
+    "id": 50012,
+    "sentence": "Vivid BAD SQUADのメインストーリー第11話を読む",
+    "releaseConditionType": "unit_story",
+    "releaseConditionTypeId": 40011
+  },
+  {
+    "id": 50013,
+    "sentence": "Vivid BAD SQUADのメインストーリー第20話を読む",
+    "releaseConditionType": "unit_story",
+    "releaseConditionTypeId": 40020
+  },
+  {
+    "id": 50014,
+    "sentence": "ワンダーランズ×ショウタイムのメインストーリー第1話を読む",
+    "releaseConditionType": "unit_story",
+    "releaseConditionTypeId": 20001
+  },
+  {
+    "id": 50015,
+    "sentence": "ワンダーランズ×ショウタイムのメインストーリー第4話を読む",
+    "releaseConditionType": "unit_story",
+    "releaseConditionTypeId": 20004
+  },
+  {
+    "id": 50016,
+    "sentence": "ワンダーランズ×ショウタイムのメインストーリー第14話を読む",
+    "releaseConditionType": "unit_story",
+    "releaseConditionTypeId": 20014
+  },
+  {
+    "id": 50017,
+    "sentence": "ワンダーランズ×ショウタイムのメインストーリー第20話を読む",
+    "releaseConditionType": "unit_story",
+    "releaseConditionTypeId": 20020
+  },
+  {
+    "id": 50018,
+    "sentence": "25時、ナイトコードで。のメインストーリー第1話を読む",
+    "releaseConditionType": "unit_story",
+    "releaseConditionTypeId": 60001
+  },
+  {
+    "id": 50019,
+    "sentence": "25時、ナイトコードで。のメインストーリー第7話を読む",
+    "releaseConditionType": "unit_story",
+    "releaseConditionTypeId": 60007
+  },
+  {
+    "id": 50020,
+    "sentence": "25時、ナイトコードで。のメインストーリー第14話を読む",
+    "releaseConditionType": "unit_story",
+    "releaseConditionTypeId": 60014
+  },
+  {
+    "id": 50021,
+    "sentence": "25時、ナイトコードで。のメインストーリー第20話を読む",
+    "releaseConditionType": "unit_story",
+    "releaseConditionTypeId": 60020
+  },
+  {
+    "id": 50022,
+    "sentence": "バーチャル・シンガーのメインストーリー「教室のセカイ編」第4話を読む",
+    "releaseConditionType": "unit_story",
+    "releaseConditionTypeId": 7
+  },
+  {
+    "id": 50023,
+    "sentence": "バーチャル・シンガーのメインストーリー「ステージのセカイ編」第4話を読む",
+    "releaseConditionType": "unit_story",
+    "releaseConditionTypeId": 11
+  },
+  {
+    "id": 60010,
+    "sentence": "「[夜明け前の語らい] 星乃 一歌」を入手",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 4,
+    "releaseConditionTypeLevel": 0
+  },
+  {
+    "id": 60011,
+    "sentence": "「[夜明け前の語らい] 星乃 一歌」のマスターランク1で開放",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 4,
+    "releaseConditionTypeLevel": 1
+  },
+  {
+    "id": 60012,
+    "sentence": "「[夜明け前の語らい] 星乃 一歌」のマスターランク3で開放",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 4,
+    "releaseConditionTypeLevel": 3
+  },
+  {
+    "id": 60013,
+    "sentence": "「[夜明け前の語らい] 星乃 一歌」のマスターランク5で開放",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 4,
+    "releaseConditionTypeLevel": 5
+  },
+  {
+    "id": 60020,
+    "sentence": "「[みんなにお披露目] 初音 ミク」を入手",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 88,
+    "releaseConditionTypeLevel": 0
+  },
+  {
+    "id": 60021,
+    "sentence": "「[みんなにお披露目] 初音 ミク」のマスターランク1で開放",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 88,
+    "releaseConditionTypeLevel": 1
+  },
+  {
+    "id": 60022,
+    "sentence": "「[みんなにお披露目] 初音 ミク」のマスターランク3で開放",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 88,
+    "releaseConditionTypeLevel": 3
+  },
+  {
+    "id": 60023,
+    "sentence": "「[みんなにお披露目] 初音 ミク」のマスターランク5で開放",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 88,
+    "releaseConditionTypeLevel": 5
+  },
+  {
+    "id": 60030,
+    "sentence": "「[いがみ合いヒートアップ] 鏡音 リン」を入手",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 92,
+    "releaseConditionTypeLevel": 0
+  },
+  {
+    "id": 60031,
+    "sentence": "「[いがみ合いヒートアップ] 鏡音 リン」のマスターランク1で開放",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 92,
+    "releaseConditionTypeLevel": 1
+  },
+  {
+    "id": 60032,
+    "sentence": "「[いがみ合いヒートアップ] 鏡音 リン」のマスターランク3で開放",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 92,
+    "releaseConditionTypeLevel": 3
+  },
+  {
+    "id": 60033,
+    "sentence": "「[いがみ合いヒートアップ] 鏡音 リン」のマスターランク5で開放",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 92,
+    "releaseConditionTypeLevel": 5
+  },
+  {
+    "id": 60040,
+    "sentence": "「[新団員登場！] 鏡音 レン」を入手",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 96,
+    "releaseConditionTypeLevel": 0
+  },
+  {
+    "id": 60041,
+    "sentence": "「[新団員登場！] 鏡音 レン」のマスターランク1で開放",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 96,
+    "releaseConditionTypeLevel": 1
+  },
+  {
+    "id": 60042,
+    "sentence": "「[新団員登場！] 鏡音 レン」のマスターランク3で開放",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 96,
+    "releaseConditionTypeLevel": 3
+  },
+  {
+    "id": 60043,
+    "sentence": "「[新団員登場！] 鏡音 レン」のマスターランク5で開放",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 96,
+    "releaseConditionTypeLevel": 5
+  },
+  {
+    "id": 70001,
+    "sentence": "｢星乃一歌｣のキャラクターランク1でユニット編成数UP",
+    "releaseConditionType": "character_rank",
+    "releaseConditionTypeId": 1,
+    "releaseConditionTypeLevel": 1
+  },
+  {
+    "id": 70002,
+    "sentence": "｢星乃一歌｣のキャラクターランク13でユニット編成数UP",
+    "releaseConditionType": "character_rank",
+    "releaseConditionTypeId": 1,
+    "releaseConditionTypeLevel": 13
+  },
+  {
+    "id": 70003,
+    "sentence": "｢星乃一歌｣のキャラクターランク18でユニット編成数UP",
+    "releaseConditionType": "character_rank",
+    "releaseConditionTypeId": 1,
+    "releaseConditionTypeLevel": 18
+  },
+  {
+    "id": 70004,
+    "sentence": "｢星乃一歌｣のキャラクターランク22でユニット編成数UP",
+    "releaseConditionType": "character_rank",
+    "releaseConditionTypeId": 1,
+    "releaseConditionTypeLevel": 22
+  },
+  {
+    "id": 70005,
+    "sentence": "｢天馬咲希｣のキャラクターランク1でユニット編成数UP",
+    "releaseConditionType": "character_rank",
+    "releaseConditionTypeId": 2,
+    "releaseConditionTypeLevel": 1
+  },
+  {
+    "id": 70006,
+    "sentence": "｢天馬咲希｣のキャラクターランク13でユニット編成数UP",
+    "releaseConditionType": "character_rank",
+    "releaseConditionTypeId": 2,
+    "releaseConditionTypeLevel": 13
+  },
+  {
+    "id": 70007,
+    "sentence": "｢天馬咲希｣のキャラクターランク18でユニット編成数UP",
+    "releaseConditionType": "character_rank",
+    "releaseConditionTypeId": 2,
+    "releaseConditionTypeLevel": 18
+  },
+  {
+    "id": 70008,
+    "sentence": "｢天馬咲希｣のキャラクターランク22でユニット編成数UP",
+    "releaseConditionType": "character_rank",
+    "releaseConditionTypeId": 2,
+    "releaseConditionTypeLevel": 22
+  },
+  {
+    "id": 70009,
+    "sentence": "｢望月穂波｣のキャラクターランク1でユニット編成数UP",
+    "releaseConditionType": "character_rank",
+    "releaseConditionTypeId": 3,
+    "releaseConditionTypeLevel": 1
+  },
+  {
+    "id": 70010,
+    "sentence": "｢望月穂波｣のキャラクターランク13でユニット編成数UP",
+    "releaseConditionType": "character_rank",
+    "releaseConditionTypeId": 3,
+    "releaseConditionTypeLevel": 13
+  },
+  {
+    "id": 70011,
+    "sentence": "｢望月穂波｣のキャラクターランク18でユニット編成数UP",
+    "releaseConditionType": "character_rank",
+    "releaseConditionTypeId": 3,
+    "releaseConditionTypeLevel": 18
+  },
+  {
+    "id": 70012,
+    "sentence": "｢望月穂波｣のキャラクターランク22でユニット編成数UP",
+    "releaseConditionType": "character_rank",
+    "releaseConditionTypeId": 3,
+    "releaseConditionTypeLevel": 22
+  },
+  {
+    "id": 70013,
+    "sentence": "｢日野森志歩｣のキャラクターランク1でユニット編成数UP",
+    "releaseConditionType": "character_rank",
+    "releaseConditionTypeId": 4,
+    "releaseConditionTypeLevel": 1
+  },
+  {
+    "id": 70014,
+    "sentence": "｢日野森志歩｣のキャラクターランク13でユニット編成数UP",
+    "releaseConditionType": "character_rank",
+    "releaseConditionTypeId": 4,
+    "releaseConditionTypeLevel": 13
+  },
+  {
+    "id": 70015,
+    "sentence": "｢日野森志歩｣のキャラクターランク18でユニット編成数UP",
+    "releaseConditionType": "character_rank",
+    "releaseConditionTypeId": 4,
+    "releaseConditionTypeLevel": 18
+  },
+  {
+    "id": 70016,
+    "sentence": "｢日野森志歩｣のキャラクターランク22でユニット編成数UP",
+    "releaseConditionType": "character_rank",
+    "releaseConditionTypeId": 4,
+    "releaseConditionTypeLevel": 22
+  },
+  {
+    "id": 70017,
+    "sentence": "｢花里みのり｣のキャラクターランク1でユニット編成数UP",
+    "releaseConditionType": "character_rank",
+    "releaseConditionTypeId": 5,
+    "releaseConditionTypeLevel": 1
+  },
+  {
+    "id": 70018,
+    "sentence": "｢花里みのり｣のキャラクターランク13でユニット編成数UP",
+    "releaseConditionType": "character_rank",
+    "releaseConditionTypeId": 5,
+    "releaseConditionTypeLevel": 13
+  },
+  {
+    "id": 70019,
+    "sentence": "｢花里みのり｣のキャラクターランク18でユニット編成数UP",
+    "releaseConditionType": "character_rank",
+    "releaseConditionTypeId": 5,
+    "releaseConditionTypeLevel": 18
+  },
+  {
+    "id": 70020,
+    "sentence": "｢花里みのり｣のキャラクターランク22でユニット編成数UP",
+    "releaseConditionType": "character_rank",
+    "releaseConditionTypeId": 5,
+    "releaseConditionTypeLevel": 22
+  },
+  {
+    "id": 70021,
+    "sentence": "｢桐谷遥｣のキャラクターランク1でユニット編成数UP",
+    "releaseConditionType": "character_rank",
+    "releaseConditionTypeId": 6,
+    "releaseConditionTypeLevel": 1
+  },
+  {
+    "id": 70022,
+    "sentence": "｢桐谷遥｣のキャラクターランク13でユニット編成数UP",
+    "releaseConditionType": "character_rank",
+    "releaseConditionTypeId": 6,
+    "releaseConditionTypeLevel": 13
+  },
+  {
+    "id": 70023,
+    "sentence": "｢桐谷遥｣のキャラクターランク18でユニット編成数UP",
+    "releaseConditionType": "character_rank",
+    "releaseConditionTypeId": 6,
+    "releaseConditionTypeLevel": 18
+  },
+  {
+    "id": 70024,
+    "sentence": "｢桐谷遥｣のキャラクターランク22でユニット編成数UP",
+    "releaseConditionType": "character_rank",
+    "releaseConditionTypeId": 6,
+    "releaseConditionTypeLevel": 22
+  },
+  {
+    "id": 70025,
+    "sentence": "｢桃井愛莉｣のキャラクターランク1でユニット編成数UP",
+    "releaseConditionType": "character_rank",
+    "releaseConditionTypeId": 7,
+    "releaseConditionTypeLevel": 1
+  },
+  {
+    "id": 70026,
+    "sentence": "｢桃井愛莉｣のキャラクターランク13でユニット編成数UP",
+    "releaseConditionType": "character_rank",
+    "releaseConditionTypeId": 7,
+    "releaseConditionTypeLevel": 13
+  },
+  {
+    "id": 70027,
+    "sentence": "｢桃井愛莉｣のキャラクターランク18でユニット編成数UP",
+    "releaseConditionType": "character_rank",
+    "releaseConditionTypeId": 7,
+    "releaseConditionTypeLevel": 18
+  },
+  {
+    "id": 70028,
+    "sentence": "｢桃井愛莉｣のキャラクターランク22でユニット編成数UP",
+    "releaseConditionType": "character_rank",
+    "releaseConditionTypeId": 7,
+    "releaseConditionTypeLevel": 22
+  },
+  {
+    "id": 70029,
+    "sentence": "｢日野森雫｣のキャラクターランク1でユニット編成数UP",
+    "releaseConditionType": "character_rank",
+    "releaseConditionTypeId": 8,
+    "releaseConditionTypeLevel": 1
+  },
+  {
+    "id": 70030,
+    "sentence": "｢日野森雫｣のキャラクターランク13でユニット編成数UP",
+    "releaseConditionType": "character_rank",
+    "releaseConditionTypeId": 8,
+    "releaseConditionTypeLevel": 13
+  },
+  {
+    "id": 70031,
+    "sentence": "｢日野森雫｣のキャラクターランク18でユニット編成数UP",
+    "releaseConditionType": "character_rank",
+    "releaseConditionTypeId": 8,
+    "releaseConditionTypeLevel": 18
+  },
+  {
+    "id": 70032,
+    "sentence": "｢日野森雫｣のキャラクターランク22でユニット編成数UP",
+    "releaseConditionType": "character_rank",
+    "releaseConditionTypeId": 8,
+    "releaseConditionTypeLevel": 22
+  },
+  {
+    "id": 70033,
+    "sentence": "｢小豆沢こはね｣のキャラクターランク1でユニット編成数UP",
+    "releaseConditionType": "character_rank",
+    "releaseConditionTypeId": 9,
+    "releaseConditionTypeLevel": 1
+  },
+  {
+    "id": 70034,
+    "sentence": "｢小豆沢こはね｣のキャラクターランク13でユニット編成数UP",
+    "releaseConditionType": "character_rank",
+    "releaseConditionTypeId": 9,
+    "releaseConditionTypeLevel": 13
+  },
+  {
+    "id": 70035,
+    "sentence": "｢小豆沢こはね｣のキャラクターランク18でユニット編成数UP",
+    "releaseConditionType": "character_rank",
+    "releaseConditionTypeId": 9,
+    "releaseConditionTypeLevel": 18
+  },
+  {
+    "id": 70036,
+    "sentence": "｢小豆沢こはね｣のキャラクターランク22でユニット編成数UP",
+    "releaseConditionType": "character_rank",
+    "releaseConditionTypeId": 9,
+    "releaseConditionTypeLevel": 22
+  },
+  {
+    "id": 70037,
+    "sentence": "｢白石杏｣のキャラクターランク1でユニット編成数UP",
+    "releaseConditionType": "character_rank",
+    "releaseConditionTypeId": 10,
+    "releaseConditionTypeLevel": 1
+  },
+  {
+    "id": 70038,
+    "sentence": "｢白石杏｣のキャラクターランク13でユニット編成数UP",
+    "releaseConditionType": "character_rank",
+    "releaseConditionTypeId": 10,
+    "releaseConditionTypeLevel": 13
+  },
+  {
+    "id": 70039,
+    "sentence": "｢白石杏｣のキャラクターランク18でユニット編成数UP",
+    "releaseConditionType": "character_rank",
+    "releaseConditionTypeId": 10,
+    "releaseConditionTypeLevel": 18
+  },
+  {
+    "id": 70040,
+    "sentence": "｢白石杏｣のキャラクターランク22でユニット編成数UP",
+    "releaseConditionType": "character_rank",
+    "releaseConditionTypeId": 10,
+    "releaseConditionTypeLevel": 22
+  },
+  {
+    "id": 70041,
+    "sentence": "｢東雲彰人｣のキャラクターランク1でユニット編成数UP",
+    "releaseConditionType": "character_rank",
+    "releaseConditionTypeId": 11,
+    "releaseConditionTypeLevel": 1
+  },
+  {
+    "id": 70042,
+    "sentence": "｢東雲彰人｣のキャラクターランク13でユニット編成数UP",
+    "releaseConditionType": "character_rank",
+    "releaseConditionTypeId": 11,
+    "releaseConditionTypeLevel": 13
+  },
+  {
+    "id": 70043,
+    "sentence": "｢東雲彰人｣のキャラクターランク18でユニット編成数UP",
+    "releaseConditionType": "character_rank",
+    "releaseConditionTypeId": 11,
+    "releaseConditionTypeLevel": 18
+  },
+  {
+    "id": 70044,
+    "sentence": "｢東雲彰人｣のキャラクターランク22でユニット編成数UP",
+    "releaseConditionType": "character_rank",
+    "releaseConditionTypeId": 11,
+    "releaseConditionTypeLevel": 22
+  },
+  {
+    "id": 70045,
+    "sentence": "｢青柳冬弥｣のキャラクターランク1でユニット編成数UP",
+    "releaseConditionType": "character_rank",
+    "releaseConditionTypeId": 12,
+    "releaseConditionTypeLevel": 1
+  },
+  {
+    "id": 70046,
+    "sentence": "｢青柳冬弥｣のキャラクターランク13でユニット編成数UP",
+    "releaseConditionType": "character_rank",
+    "releaseConditionTypeId": 12,
+    "releaseConditionTypeLevel": 13
+  },
+  {
+    "id": 70047,
+    "sentence": "｢青柳冬弥｣のキャラクターランク18でユニット編成数UP",
+    "releaseConditionType": "character_rank",
+    "releaseConditionTypeId": 12,
+    "releaseConditionTypeLevel": 18
+  },
+  {
+    "id": 70048,
+    "sentence": "｢青柳冬弥｣のキャラクターランク22でユニット編成数UP",
+    "releaseConditionType": "character_rank",
+    "releaseConditionTypeId": 12,
+    "releaseConditionTypeLevel": 22
+  },
+  {
+    "id": 70049,
+    "sentence": "｢天馬司｣のキャラクターランク1でユニット編成数UP",
+    "releaseConditionType": "character_rank",
+    "releaseConditionTypeId": 13,
+    "releaseConditionTypeLevel": 1
+  },
+  {
+    "id": 70050,
+    "sentence": "｢天馬司｣のキャラクターランク13でユニット編成数UP",
+    "releaseConditionType": "character_rank",
+    "releaseConditionTypeId": 13,
+    "releaseConditionTypeLevel": 13
+  },
+  {
+    "id": 70051,
+    "sentence": "｢天馬司｣のキャラクターランク18でユニット編成数UP",
+    "releaseConditionType": "character_rank",
+    "releaseConditionTypeId": 13,
+    "releaseConditionTypeLevel": 18
+  },
+  {
+    "id": 70052,
+    "sentence": "｢天馬司｣のキャラクターランク22でユニット編成数UP",
+    "releaseConditionType": "character_rank",
+    "releaseConditionTypeId": 13,
+    "releaseConditionTypeLevel": 22
+  },
+  {
+    "id": 70053,
+    "sentence": "｢鳳えむ｣のキャラクターランク1でユニット編成数UP",
+    "releaseConditionType": "character_rank",
+    "releaseConditionTypeId": 14,
+    "releaseConditionTypeLevel": 1
+  },
+  {
+    "id": 70054,
+    "sentence": "｢鳳えむ｣のキャラクターランク13でユニット編成数UP",
+    "releaseConditionType": "character_rank",
+    "releaseConditionTypeId": 14,
+    "releaseConditionTypeLevel": 13
+  },
+  {
+    "id": 70055,
+    "sentence": "｢鳳えむ｣のキャラクターランク18でユニット編成数UP",
+    "releaseConditionType": "character_rank",
+    "releaseConditionTypeId": 14,
+    "releaseConditionTypeLevel": 18
+  },
+  {
+    "id": 70056,
+    "sentence": "｢鳳えむ｣のキャラクターランク22でユニット編成数UP",
+    "releaseConditionType": "character_rank",
+    "releaseConditionTypeId": 14,
+    "releaseConditionTypeLevel": 22
+  },
+  {
+    "id": 70057,
+    "sentence": "｢草薙寧々｣のキャラクターランク1でユニット編成数UP",
+    "releaseConditionType": "character_rank",
+    "releaseConditionTypeId": 15,
+    "releaseConditionTypeLevel": 1
+  },
+  {
+    "id": 70058,
+    "sentence": "｢草薙寧々｣のキャラクターランク13でユニット編成数UP",
+    "releaseConditionType": "character_rank",
+    "releaseConditionTypeId": 15,
+    "releaseConditionTypeLevel": 13
+  },
+  {
+    "id": 70059,
+    "sentence": "｢草薙寧々｣のキャラクターランク18でユニット編成数UP",
+    "releaseConditionType": "character_rank",
+    "releaseConditionTypeId": 15,
+    "releaseConditionTypeLevel": 18
+  },
+  {
+    "id": 70060,
+    "sentence": "｢草薙寧々｣のキャラクターランク22でユニット編成数UP",
+    "releaseConditionType": "character_rank",
+    "releaseConditionTypeId": 15,
+    "releaseConditionTypeLevel": 22
+  },
+  {
+    "id": 70061,
+    "sentence": "｢神代類｣のキャラクターランク1でユニット編成数UP",
+    "releaseConditionType": "character_rank",
+    "releaseConditionTypeId": 16,
+    "releaseConditionTypeLevel": 1
+  },
+  {
+    "id": 70062,
+    "sentence": "｢神代類｣のキャラクターランク13でユニット編成数UP",
+    "releaseConditionType": "character_rank",
+    "releaseConditionTypeId": 16,
+    "releaseConditionTypeLevel": 13
+  },
+  {
+    "id": 70063,
+    "sentence": "｢神代類｣のキャラクターランク18でユニット編成数UP",
+    "releaseConditionType": "character_rank",
+    "releaseConditionTypeId": 16,
+    "releaseConditionTypeLevel": 18
+  },
+  {
+    "id": 70064,
+    "sentence": "｢神代類｣のキャラクターランク22でユニット編成数UP",
+    "releaseConditionType": "character_rank",
+    "releaseConditionTypeId": 16,
+    "releaseConditionTypeLevel": 22
+  },
+  {
+    "id": 70065,
+    "sentence": "｢宵崎奏｣のキャラクターランク1でユニット編成数UP",
+    "releaseConditionType": "character_rank",
+    "releaseConditionTypeId": 17,
+    "releaseConditionTypeLevel": 1
+  },
+  {
+    "id": 70066,
+    "sentence": "｢宵崎奏｣のキャラクターランク13でユニット編成数UP",
+    "releaseConditionType": "character_rank",
+    "releaseConditionTypeId": 17,
+    "releaseConditionTypeLevel": 13
+  },
+  {
+    "id": 70067,
+    "sentence": "｢宵崎奏｣のキャラクターランク18でユニット編成数UP",
+    "releaseConditionType": "character_rank",
+    "releaseConditionTypeId": 17,
+    "releaseConditionTypeLevel": 18
+  },
+  {
+    "id": 70068,
+    "sentence": "｢宵崎奏｣のキャラクターランク22でユニット編成数UP",
+    "releaseConditionType": "character_rank",
+    "releaseConditionTypeId": 17,
+    "releaseConditionTypeLevel": 22
+  },
+  {
+    "id": 70069,
+    "sentence": "｢朝比奈まふゆ｣のキャラクターランク1でユニット編成数UP",
+    "releaseConditionType": "character_rank",
+    "releaseConditionTypeId": 18,
+    "releaseConditionTypeLevel": 1
+  },
+  {
+    "id": 70070,
+    "sentence": "｢朝比奈まふゆ｣のキャラクターランク13でユニット編成数UP",
+    "releaseConditionType": "character_rank",
+    "releaseConditionTypeId": 18,
+    "releaseConditionTypeLevel": 13
+  },
+  {
+    "id": 70071,
+    "sentence": "｢朝比奈まふゆ｣のキャラクターランク18でユニット編成数UP",
+    "releaseConditionType": "character_rank",
+    "releaseConditionTypeId": 18,
+    "releaseConditionTypeLevel": 18
+  },
+  {
+    "id": 70072,
+    "sentence": "｢朝比奈まふゆ｣のキャラクターランク22でユニット編成数UP",
+    "releaseConditionType": "character_rank",
+    "releaseConditionTypeId": 18,
+    "releaseConditionTypeLevel": 22
+  },
+  {
+    "id": 70073,
+    "sentence": "｢東雲絵名｣のキャラクターランク1でユニット編成数UP",
+    "releaseConditionType": "character_rank",
+    "releaseConditionTypeId": 19,
+    "releaseConditionTypeLevel": 1
+  },
+  {
+    "id": 70074,
+    "sentence": "｢東雲絵名｣のキャラクターランク13でユニット編成数UP",
+    "releaseConditionType": "character_rank",
+    "releaseConditionTypeId": 19,
+    "releaseConditionTypeLevel": 13
+  },
+  {
+    "id": 70075,
+    "sentence": "｢東雲絵名｣のキャラクターランク18でユニット編成数UP",
+    "releaseConditionType": "character_rank",
+    "releaseConditionTypeId": 19,
+    "releaseConditionTypeLevel": 18
+  },
+  {
+    "id": 70076,
+    "sentence": "｢東雲絵名｣のキャラクターランク22でユニット編成数UP",
+    "releaseConditionType": "character_rank",
+    "releaseConditionTypeId": 19,
+    "releaseConditionTypeLevel": 22
+  },
+  {
+    "id": 70077,
+    "sentence": "｢暁山瑞希｣のキャラクターランク1でユニット編成数UP",
+    "releaseConditionType": "character_rank",
+    "releaseConditionTypeId": 20,
+    "releaseConditionTypeLevel": 1
+  },
+  {
+    "id": 70078,
+    "sentence": "｢暁山瑞希｣のキャラクターランク13でユニット編成数UP",
+    "releaseConditionType": "character_rank",
+    "releaseConditionTypeId": 20,
+    "releaseConditionTypeLevel": 13
+  },
+  {
+    "id": 70079,
+    "sentence": "｢暁山瑞希｣のキャラクターランク18でユニット編成数UP",
+    "releaseConditionType": "character_rank",
+    "releaseConditionTypeId": 20,
+    "releaseConditionTypeLevel": 18
+  },
+  {
+    "id": 70080,
+    "sentence": "｢暁山瑞希｣のキャラクターランク22でユニット編成数UP",
+    "releaseConditionType": "character_rank",
+    "releaseConditionTypeId": 20,
+    "releaseConditionTypeLevel": 22
+  },
+  {
+    "id": 70081,
+    "sentence": "｢初音ミク｣のキャラクターランク1でユニット編成数UP",
+    "releaseConditionType": "character_rank",
+    "releaseConditionTypeId": 21,
+    "releaseConditionTypeLevel": 1
+  },
+  {
+    "id": 70082,
+    "sentence": "｢初音ミク｣のキャラクターランク13でユニット編成数UP",
+    "releaseConditionType": "character_rank",
+    "releaseConditionTypeId": 21,
+    "releaseConditionTypeLevel": 13
+  },
+  {
+    "id": 70083,
+    "sentence": "｢初音ミク｣のキャラクターランク18でユニット編成数UP",
+    "releaseConditionType": "character_rank",
+    "releaseConditionTypeId": 21,
+    "releaseConditionTypeLevel": 18
+  },
+  {
+    "id": 70084,
+    "sentence": "｢初音ミク｣のキャラクターランク22でユニット編成数UP",
+    "releaseConditionType": "character_rank",
+    "releaseConditionTypeId": 21,
+    "releaseConditionTypeLevel": 22
+  },
+  {
+    "id": 70085,
+    "sentence": "｢鏡音リン｣のキャラクターランク1でユニット編成数UP",
+    "releaseConditionType": "character_rank",
+    "releaseConditionTypeId": 22,
+    "releaseConditionTypeLevel": 1
+  },
+  {
+    "id": 70086,
+    "sentence": "｢鏡音リン｣のキャラクターランク13でユニット編成数UP",
+    "releaseConditionType": "character_rank",
+    "releaseConditionTypeId": 22,
+    "releaseConditionTypeLevel": 13
+  },
+  {
+    "id": 70087,
+    "sentence": "｢鏡音リン｣のキャラクターランク18でユニット編成数UP",
+    "releaseConditionType": "character_rank",
+    "releaseConditionTypeId": 22,
+    "releaseConditionTypeLevel": 18
+  },
+  {
+    "id": 70088,
+    "sentence": "｢鏡音リン｣のキャラクターランク22でユニット編成数UP",
+    "releaseConditionType": "character_rank",
+    "releaseConditionTypeId": 22,
+    "releaseConditionTypeLevel": 22
+  },
+  {
+    "id": 70089,
+    "sentence": "｢鏡音レン｣のキャラクターランク1でユニット編成数UP",
+    "releaseConditionType": "character_rank",
+    "releaseConditionTypeId": 23,
+    "releaseConditionTypeLevel": 1
+  },
+  {
+    "id": 70090,
+    "sentence": "｢鏡音レン｣のキャラクターランク13でユニット編成数UP",
+    "releaseConditionType": "character_rank",
+    "releaseConditionTypeId": 23,
+    "releaseConditionTypeLevel": 13
+  },
+  {
+    "id": 70091,
+    "sentence": "｢鏡音レン｣のキャラクターランク18でユニット編成数UP",
+    "releaseConditionType": "character_rank",
+    "releaseConditionTypeId": 23,
+    "releaseConditionTypeLevel": 18
+  },
+  {
+    "id": 70092,
+    "sentence": "｢鏡音レン｣のキャラクターランク22でユニット編成数UP",
+    "releaseConditionType": "character_rank",
+    "releaseConditionTypeId": 23,
+    "releaseConditionTypeLevel": 22
+  },
+  {
+    "id": 70093,
+    "sentence": "｢巡音ルカ｣のキャラクターランク1でユニット編成数UP",
+    "releaseConditionType": "character_rank",
+    "releaseConditionTypeId": 24,
+    "releaseConditionTypeLevel": 1
+  },
+  {
+    "id": 70094,
+    "sentence": "｢巡音ルカ｣のキャラクターランク13でユニット編成数UP",
+    "releaseConditionType": "character_rank",
+    "releaseConditionTypeId": 24,
+    "releaseConditionTypeLevel": 13
+  },
+  {
+    "id": 70095,
+    "sentence": "｢巡音ルカ｣のキャラクターランク18でユニット編成数UP",
+    "releaseConditionType": "character_rank",
+    "releaseConditionTypeId": 24,
+    "releaseConditionTypeLevel": 18
+  },
+  {
+    "id": 70096,
+    "sentence": "｢巡音ルカ｣のキャラクターランク22でユニット編成数UP",
+    "releaseConditionType": "character_rank",
+    "releaseConditionTypeId": 24,
+    "releaseConditionTypeLevel": 22
+  },
+  {
+    "id": 70097,
+    "sentence": "｢MEIKO｣のキャラクターランク1でユニット編成数UP",
+    "releaseConditionType": "character_rank",
+    "releaseConditionTypeId": 25,
+    "releaseConditionTypeLevel": 1
+  },
+  {
+    "id": 70098,
+    "sentence": "｢MEIKO｣のキャラクターランク13でユニット編成数UP",
+    "releaseConditionType": "character_rank",
+    "releaseConditionTypeId": 25,
+    "releaseConditionTypeLevel": 13
+  },
+  {
+    "id": 70099,
+    "sentence": "｢MEIKO｣のキャラクターランク18でユニット編成数UP",
+    "releaseConditionType": "character_rank",
+    "releaseConditionTypeId": 25,
+    "releaseConditionTypeLevel": 18
+  },
+  {
+    "id": 70100,
+    "sentence": "｢MEIKO｣のキャラクターランク22でユニット編成数UP",
+    "releaseConditionType": "character_rank",
+    "releaseConditionTypeId": 25,
+    "releaseConditionTypeLevel": 22
+  },
+  {
+    "id": 70101,
+    "sentence": "｢KAITO｣のキャラクターランク1でユニット編成数UP",
+    "releaseConditionType": "character_rank",
+    "releaseConditionTypeId": 26,
+    "releaseConditionTypeLevel": 1
+  },
+  {
+    "id": 70102,
+    "sentence": "｢KAITO｣のキャラクターランク13でユニット編成数UP",
+    "releaseConditionType": "character_rank",
+    "releaseConditionTypeId": 26,
+    "releaseConditionTypeLevel": 13
+  },
+  {
+    "id": 70103,
+    "sentence": "｢KAITO｣のキャラクターランク18でユニット編成数UP",
+    "releaseConditionType": "character_rank",
+    "releaseConditionTypeId": 26,
+    "releaseConditionTypeLevel": 18
+  },
+  {
+    "id": 70104,
+    "sentence": "｢KAITO｣のキャラクターランク22でユニット編成数UP",
+    "releaseConditionType": "character_rank",
+    "releaseConditionTypeId": 26,
+    "releaseConditionTypeLevel": 22
+  },
+  {
+    "id": 90000,
+    "sentence": "引き継ぎ完了する",
+    "releaseConditionType": "inherit_complete"
+  },
+  {
+    "id": 800001,
+    "sentence": "バーチャルライブ参加",
+    "releaseConditionType": "virtual_live_participation",
+    "releaseConditionTypeId": 1
+  },
+  {
+    "id": 800002,
+    "sentence": "バーチャルライブ参加",
+    "releaseConditionType": "virtual_live_participation",
+    "releaseConditionTypeId": 2
+  },
+  {
+    "id": 800003,
+    "sentence": "バーチャルライブ参加",
+    "releaseConditionType": "virtual_live_participation",
+    "releaseConditionTypeId": 3
+  },
+  {
+    "id": 800004,
+    "sentence": "バーチャルライブ参加",
+    "releaseConditionType": "virtual_live_participation",
+    "releaseConditionTypeId": 4
+  },
+  {
+    "id": 800005,
+    "sentence": "バーチャルライブ参加",
+    "releaseConditionType": "virtual_live_participation",
+    "releaseConditionTypeId": 5
+  },
+  {
+    "id": 800006,
+    "sentence": "バーチャルライブ参加",
+    "releaseConditionType": "virtual_live_participation",
+    "releaseConditionTypeId": 6
+  },
+  {
+    "id": 800007,
+    "sentence": "バーチャルライブ参加",
+    "releaseConditionType": "virtual_live_participation",
+    "releaseConditionTypeId": 7
+  },
+  {
+    "id": 800008,
+    "sentence": "バーチャルライブ参加",
+    "releaseConditionType": "virtual_live_participation",
+    "releaseConditionTypeId": 8
+  },
+  {
+    "id": 800009,
+    "sentence": "バーチャルライブ参加",
+    "releaseConditionType": "virtual_live_participation",
+    "releaseConditionTypeId": 9
+  },
+  {
+    "id": 800010,
+    "sentence": "バーチャルライブ参加",
+    "releaseConditionType": "virtual_live_participation",
+    "releaseConditionTypeId": 10
+  },
+  {
+    "id": 800011,
+    "sentence": "バーチャルライブ参加",
+    "releaseConditionType": "virtual_live_participation",
+    "releaseConditionTypeId": 11
+  },
+  {
+    "id": 800012,
+    "sentence": "バーチャルライブ参加",
+    "releaseConditionType": "virtual_live_participation",
+    "releaseConditionTypeId": 12
+  },
+  {
+    "id": 800013,
+    "sentence": "バーチャルライブ参加",
+    "releaseConditionType": "virtual_live_participation",
+    "releaseConditionTypeId": 13
+  },
+  {
+    "id": 800014,
+    "sentence": "バーチャルライブ参加",
+    "releaseConditionType": "virtual_live_participation",
+    "releaseConditionTypeId": 14
+  },
+  {
+    "id": 800015,
+    "sentence": "バーチャルライブ参加",
+    "releaseConditionType": "virtual_live_participation",
+    "releaseConditionTypeId": 15
+  },
+  {
+    "id": 800016,
+    "sentence": "バーチャルライブ参加",
+    "releaseConditionType": "virtual_live_participation",
+    "releaseConditionTypeId": 16
+  },
+  {
+    "id": 800017,
+    "sentence": "バーチャルライブ参加",
+    "releaseConditionType": "virtual_live_participation",
+    "releaseConditionTypeId": 17
+  },
+  {
+    "id": 800018,
+    "sentence": "バーチャルライブ参加",
+    "releaseConditionType": "virtual_live_participation",
+    "releaseConditionTypeId": 18
+  },
+  {
+    "id": 800019,
+    "sentence": "バーチャルライブ参加",
+    "releaseConditionType": "virtual_live_participation",
+    "releaseConditionTypeId": 19
+  },
+  {
+    "id": 800020,
+    "sentence": "バーチャルライブ参加",
+    "releaseConditionType": "virtual_live_participation",
+    "releaseConditionTypeId": 20
+  },
+  {
+    "id": 800021,
+    "sentence": "バーチャルライブ参加",
+    "releaseConditionType": "virtual_live_participation",
+    "releaseConditionTypeId": 21
+  },
+  {
+    "id": 800022,
+    "sentence": "バーチャルライブ参加",
+    "releaseConditionType": "virtual_live_participation",
+    "releaseConditionTypeId": 22
+  },
+  {
+    "id": 800023,
+    "sentence": "バーチャルライブ参加",
+    "releaseConditionType": "virtual_live_participation",
+    "releaseConditionTypeId": 23
+  },
+  {
+    "id": 800024,
+    "sentence": "バーチャルライブ参加",
+    "releaseConditionType": "virtual_live_participation",
+    "releaseConditionTypeId": 24
+  },
+  {
+    "id": 800025,
+    "sentence": "バーチャルライブ参加",
+    "releaseConditionType": "virtual_live_participation",
+    "releaseConditionTypeId": 25
+  },
+  {
+    "id": 800026,
+    "sentence": "バーチャルライブ参加",
+    "releaseConditionType": "virtual_live_participation",
+    "releaseConditionTypeId": 26
+  },
+  {
+    "id": 800027,
+    "sentence": "バーチャルライブ参加",
+    "releaseConditionType": "virtual_live_participation",
+    "releaseConditionTypeId": 27
+  },
+  {
+    "id": 800028,
+    "sentence": "バーチャルライブ参加",
+    "releaseConditionType": "virtual_live_participation",
+    "releaseConditionTypeId": 28
+  },
+  {
+    "id": 800029,
+    "sentence": "バーチャルライブ参加",
+    "releaseConditionType": "virtual_live_participation",
+    "releaseConditionTypeId": 29
+  },
+  {
+    "id": 800030,
+    "sentence": "バーチャルライブ参加",
+    "releaseConditionType": "virtual_live_participation",
+    "releaseConditionTypeId": 30
+  },
+  {
+    "id": 800031,
+    "sentence": "バーチャルライブ参加",
+    "releaseConditionType": "virtual_live_participation",
+    "releaseConditionTypeId": 31
+  },
+  {
+    "id": 800032,
+    "sentence": "バーチャルライブ参加",
+    "releaseConditionType": "virtual_live_participation",
+    "releaseConditionTypeId": 32
+  },
+  {
+    "id": 800033,
+    "sentence": "バーチャルライブ参加",
+    "releaseConditionType": "virtual_live_participation",
+    "releaseConditionTypeId": 33
+  },
+  {
+    "id": 800034,
+    "sentence": "バーチャルライブ参加",
+    "releaseConditionType": "virtual_live_participation",
+    "releaseConditionTypeId": 34
+  },
+  {
+    "id": 800035,
+    "sentence": "バーチャルライブ参加",
+    "releaseConditionType": "virtual_live_participation",
+    "releaseConditionTypeId": 35
+  },
+  {
+    "id": 800036,
+    "sentence": "バーチャルライブ参加",
+    "releaseConditionType": "virtual_live_participation",
+    "releaseConditionTypeId": 36
+  },
+  {
+    "id": 800037,
+    "sentence": "バーチャルライブ参加",
+    "releaseConditionType": "virtual_live_participation",
+    "releaseConditionTypeId": 37
+  },
+  {
+    "id": 800038,
+    "sentence": "バーチャルライブ参加",
+    "releaseConditionType": "virtual_live_participation",
+    "releaseConditionTypeId": 38
+  },
+  {
+    "id": 800039,
+    "sentence": "バーチャルライブ参加",
+    "releaseConditionType": "virtual_live_participation",
+    "releaseConditionTypeId": 39
+  },
+  {
+    "id": 800040,
+    "sentence": "バーチャルライブ参加",
+    "releaseConditionType": "virtual_live_participation",
+    "releaseConditionTypeId": 40
+  },
+  {
+    "id": 800041,
+    "sentence": "バーチャルライブ参加",
+    "releaseConditionType": "virtual_live_participation",
+    "releaseConditionTypeId": 41
+  },
+  {
+    "id": 800042,
+    "sentence": "バーチャルライブ参加",
+    "releaseConditionType": "virtual_live_participation",
+    "releaseConditionTypeId": 42
+  },
+  {
+    "id": 800043,
+    "sentence": "バーチャルライブ参加",
+    "releaseConditionType": "virtual_live_participation",
+    "releaseConditionTypeId": 43
+  },
+  {
+    "id": 800044,
+    "sentence": "バーチャルライブ参加",
+    "releaseConditionType": "virtual_live_participation",
+    "releaseConditionTypeId": 44
+  },
+  {
+    "id": 800045,
+    "sentence": "バーチャルライブ参加",
+    "releaseConditionType": "virtual_live_participation",
+    "releaseConditionTypeId": 45
+  },
+  {
+    "id": 800046,
+    "sentence": "バーチャルライブ参加",
+    "releaseConditionType": "virtual_live_participation",
+    "releaseConditionTypeId": 46
+  },
+  {
+    "id": 800047,
+    "sentence": "バーチャルライブ参加",
+    "releaseConditionType": "virtual_live_participation",
+    "releaseConditionTypeId": 47
+  },
+  {
+    "id": 800048,
+    "sentence": "バーチャルライブ参加",
+    "releaseConditionType": "virtual_live_participation",
+    "releaseConditionTypeId": 48
+  },
+  {
+    "id": 800049,
+    "sentence": "バーチャルライブ参加",
+    "releaseConditionType": "virtual_live_participation",
+    "releaseConditionTypeId": 49
+  },
+  {
+    "id": 800050,
+    "sentence": "バーチャルライブ参加",
+    "releaseConditionType": "virtual_live_participation",
+    "releaseConditionTypeId": 50
+  },
+  {
+    "id": 800051,
+    "sentence": "バーチャルライブ参加",
+    "releaseConditionType": "virtual_live_participation",
+    "releaseConditionTypeId": 51
+  },
+  {
+    "id": 800052,
+    "sentence": "バーチャルライブ参加",
+    "releaseConditionType": "virtual_live_participation",
+    "releaseConditionTypeId": 52
+  },
+  {
+    "id": 800053,
+    "sentence": "バーチャルライブ参加",
+    "releaseConditionType": "virtual_live_participation",
+    "releaseConditionTypeId": 53
+  },
+  {
+    "id": 800054,
+    "sentence": "バーチャルライブ参加",
+    "releaseConditionType": "virtual_live_participation",
+    "releaseConditionTypeId": 54
+  },
+  {
+    "id": 800055,
+    "sentence": "バーチャルライブ参加",
+    "releaseConditionType": "virtual_live_participation",
+    "releaseConditionTypeId": 55
+  },
+  {
+    "id": 800056,
+    "sentence": "バーチャルライブ参加",
+    "releaseConditionType": "virtual_live_participation",
+    "releaseConditionTypeId": 56
+  },
+  {
+    "id": 800057,
+    "sentence": "バーチャルライブ参加",
+    "releaseConditionType": "virtual_live_participation",
+    "releaseConditionTypeId": 57
+  },
+  {
+    "id": 800058,
+    "sentence": "バーチャルライブ参加",
+    "releaseConditionType": "virtual_live_participation",
+    "releaseConditionTypeId": 58
+  },
+  {
+    "id": 800059,
+    "sentence": "バーチャルライブ参加",
+    "releaseConditionType": "virtual_live_participation",
+    "releaseConditionTypeId": 59
+  },
+  {
+    "id": 800060,
+    "sentence": "バーチャルライブ参加",
+    "releaseConditionType": "virtual_live_participation",
+    "releaseConditionTypeId": 60
+  },
+  {
+    "id": 800061,
+    "sentence": "バーチャルライブ参加",
+    "releaseConditionType": "virtual_live_participation",
+    "releaseConditionTypeId": 61
+  },
+  {
+    "id": 800062,
+    "sentence": "バーチャルライブ参加",
+    "releaseConditionType": "virtual_live_participation",
+    "releaseConditionTypeId": 62
+  },
+  {
+    "id": 800063,
+    "sentence": "バーチャルライブ参加",
+    "releaseConditionType": "virtual_live_participation",
+    "releaseConditionTypeId": 63
+  },
+  {
+    "id": 800064,
+    "sentence": "バーチャルライブ参加",
+    "releaseConditionType": "virtual_live_participation",
+    "releaseConditionTypeId": 64
+  },
+  {
+    "id": 800065,
+    "sentence": "バーチャルライブ参加",
+    "releaseConditionType": "virtual_live_participation",
+    "releaseConditionTypeId": 1001
+  },
+  {
+    "id": 800066,
+    "sentence": "バーチャルライブ参加",
+    "releaseConditionType": "virtual_live_participation",
+    "releaseConditionTypeId": 1002
+  },
+  {
+    "id": 800067,
+    "sentence": "バーチャルライブ参加",
+    "releaseConditionType": "virtual_live_participation",
+    "releaseConditionTypeId": 1003
+  },
+  {
+    "id": 800068,
+    "sentence": "バーチャルライブ参加",
+    "releaseConditionType": "virtual_live_participation",
+    "releaseConditionTypeId": 1004
+  },
+  {
+    "id": 800069,
+    "sentence": "バーチャルライブ参加",
+    "releaseConditionType": "virtual_live_participation",
+    "releaseConditionTypeId": 1005
+  },
+  {
+    "id": 800070,
+    "sentence": "バーチャルライブ参加",
+    "releaseConditionType": "virtual_live_participation",
+    "releaseConditionTypeId": 1006
+  },
+  {
+    "id": 9980001,
+    "sentence": "「星乃一歌」をリーダーにして30回ライブをしよう",
+    "releaseConditionType": "character_live_usage_leader",
+    "releaseConditionTypeId": 1,
+    "releaseConditionTypeQuantity": 30
+  },
+  {
+    "id": 9980002,
+    "sentence": "「天馬咲希」をリーダーにして30回ライブをしよう",
+    "releaseConditionType": "character_live_usage_leader",
+    "releaseConditionTypeId": 2,
+    "releaseConditionTypeQuantity": 30
+  },
+  {
+    "id": 9980003,
+    "sentence": "「望月穂波」をリーダーにして30回ライブをしよう",
+    "releaseConditionType": "character_live_usage_leader",
+    "releaseConditionTypeId": 3,
+    "releaseConditionTypeQuantity": 30
+  },
+  {
+    "id": 9980004,
+    "sentence": "「日野森志歩」をリーダーにして30回ライブをしよう",
+    "releaseConditionType": "character_live_usage_leader",
+    "releaseConditionTypeId": 4,
+    "releaseConditionTypeQuantity": 30
+  },
+  {
+    "id": 9980005,
+    "sentence": "「花里みのり」をリーダーにして30回ライブをしよう",
+    "releaseConditionType": "character_live_usage_leader",
+    "releaseConditionTypeId": 5,
+    "releaseConditionTypeQuantity": 30
+  },
+  {
+    "id": 9980006,
+    "sentence": "「桐谷遥」をリーダーにして30回ライブをしよう",
+    "releaseConditionType": "character_live_usage_leader",
+    "releaseConditionTypeId": 6,
+    "releaseConditionTypeQuantity": 30
+  },
+  {
+    "id": 9980007,
+    "sentence": "「桃井愛莉」をリーダーにして30回ライブをしよう",
+    "releaseConditionType": "character_live_usage_leader",
+    "releaseConditionTypeId": 7,
+    "releaseConditionTypeQuantity": 30
+  },
+  {
+    "id": 9980008,
+    "sentence": "「日野森雫」をリーダーにして30回ライブをしよう",
+    "releaseConditionType": "character_live_usage_leader",
+    "releaseConditionTypeId": 8,
+    "releaseConditionTypeQuantity": 30
+  },
+  {
+    "id": 9980009,
+    "sentence": "「小豆沢こはね」をリーダーにして30回ライブをしよう",
+    "releaseConditionType": "character_live_usage_leader",
+    "releaseConditionTypeId": 9,
+    "releaseConditionTypeQuantity": 30
+  },
+  {
+    "id": 9980010,
+    "sentence": "「白石杏」をリーダーにして30回ライブをしよう",
+    "releaseConditionType": "character_live_usage_leader",
+    "releaseConditionTypeId": 10,
+    "releaseConditionTypeQuantity": 30
+  },
+  {
+    "id": 9980011,
+    "sentence": "「東雲彰人」をリーダーにして30回ライブをしよう",
+    "releaseConditionType": "character_live_usage_leader",
+    "releaseConditionTypeId": 11,
+    "releaseConditionTypeQuantity": 30
+  },
+  {
+    "id": 9980012,
+    "sentence": "「青柳冬弥」をリーダーにして30回ライブをしよう",
+    "releaseConditionType": "character_live_usage_leader",
+    "releaseConditionTypeId": 12,
+    "releaseConditionTypeQuantity": 30
+  },
+  {
+    "id": 9980013,
+    "sentence": "「天馬司」をリーダーにして30回ライブをしよう",
+    "releaseConditionType": "character_live_usage_leader",
+    "releaseConditionTypeId": 13,
+    "releaseConditionTypeQuantity": 30
+  },
+  {
+    "id": 9980014,
+    "sentence": "「鳳えむ」をリーダーにして30回ライブをしよう",
+    "releaseConditionType": "character_live_usage_leader",
+    "releaseConditionTypeId": 14,
+    "releaseConditionTypeQuantity": 30
+  },
+  {
+    "id": 9980015,
+    "sentence": "「草薙寧々」をリーダーにして30回ライブをしよう",
+    "releaseConditionType": "character_live_usage_leader",
+    "releaseConditionTypeId": 15,
+    "releaseConditionTypeQuantity": 30
+  },
+  {
+    "id": 9980016,
+    "sentence": "「神代類」をリーダーにして30回ライブをしよう",
+    "releaseConditionType": "character_live_usage_leader",
+    "releaseConditionTypeId": 16,
+    "releaseConditionTypeQuantity": 30
+  },
+  {
+    "id": 9980017,
+    "sentence": "「宵崎奏」をリーダーにして30回ライブをしよう",
+    "releaseConditionType": "character_live_usage_leader",
+    "releaseConditionTypeId": 17,
+    "releaseConditionTypeQuantity": 30
+  },
+  {
+    "id": 9980018,
+    "sentence": "「朝比奈まふゆ」をリーダーにして30回ライブをしよう",
+    "releaseConditionType": "character_live_usage_leader",
+    "releaseConditionTypeId": 18,
+    "releaseConditionTypeQuantity": 30
+  },
+  {
+    "id": 9980019,
+    "sentence": "「東雲絵名」をリーダーにして30回ライブをしよう",
+    "releaseConditionType": "character_live_usage_leader",
+    "releaseConditionTypeId": 19,
+    "releaseConditionTypeQuantity": 30
+  },
+  {
+    "id": 9980020,
+    "sentence": "「暁山瑞希」をリーダーにして30回ライブをしよう",
+    "releaseConditionType": "character_live_usage_leader",
+    "releaseConditionTypeId": 20,
+    "releaseConditionTypeQuantity": 30
+  },
+  {
+    "id": 9980021,
+    "sentence": "「初音ミク」をリーダーにして30回ライブをしよう",
+    "releaseConditionType": "character_live_usage_leader",
+    "releaseConditionTypeId": 21,
+    "releaseConditionTypeQuantity": 30
+  },
+  {
+    "id": 9980022,
+    "sentence": "「鏡音リン」をリーダーにして30回ライブをしよう",
+    "releaseConditionType": "character_live_usage_leader",
+    "releaseConditionTypeId": 22,
+    "releaseConditionTypeQuantity": 30
+  },
+  {
+    "id": 9980023,
+    "sentence": "「鏡音レン」をリーダーにして30回ライブをしよう",
+    "releaseConditionType": "character_live_usage_leader",
+    "releaseConditionTypeId": 23,
+    "releaseConditionTypeQuantity": 30
+  },
+  {
+    "id": 9980024,
+    "sentence": "「巡音ルカ」をリーダーにして30回ライブをしよう",
+    "releaseConditionType": "character_live_usage_leader",
+    "releaseConditionTypeId": 24,
+    "releaseConditionTypeQuantity": 30
+  },
+  {
+    "id": 9980025,
+    "sentence": "「MEIKO」をリーダーにして30回ライブをしよう",
+    "releaseConditionType": "character_live_usage_leader",
+    "releaseConditionTypeId": 25,
+    "releaseConditionTypeQuantity": 30
+  },
+  {
+    "id": 9980026,
+    "sentence": "「KAITO」をリーダーにして30回ライブをしよう",
+    "releaseConditionType": "character_live_usage_leader",
+    "releaseConditionTypeId": 26,
+    "releaseConditionTypeQuantity": 30
+  },
+  {
+    "id": 99980001,
+    "sentence": "チャレンジライブ強制開放",
+    "releaseConditionType": "challenge_live_character_force_release"
+  },
+  {
+    "id": 99980002,
+    "sentence": "チャレンジライブ強制開放",
+    "releaseConditionType": "challenge_live_character_force_release"
+  },
+  {
+    "id": 99980003,
+    "sentence": "チャレンジライブ強制開放",
+    "releaseConditionType": "challenge_live_character_force_release"
+  },
+  {
+    "id": 99980004,
+    "sentence": "チャレンジライブ強制開放",
+    "releaseConditionType": "challenge_live_character_force_release"
+  },
+  {
+    "id": 99980005,
+    "sentence": "チャレンジライブ強制開放",
+    "releaseConditionType": "challenge_live_character_force_release"
+  },
+  {
+    "id": 99980006,
+    "sentence": "チャレンジライブ強制開放",
+    "releaseConditionType": "challenge_live_character_force_release"
+  },
+  {
+    "id": 99980007,
+    "sentence": "チャレンジライブ強制開放",
+    "releaseConditionType": "challenge_live_character_force_release"
+  },
+  {
+    "id": 99980008,
+    "sentence": "チャレンジライブ強制開放",
+    "releaseConditionType": "challenge_live_character_force_release"
+  },
+  {
+    "id": 99980009,
+    "sentence": "チャレンジライブ強制開放",
+    "releaseConditionType": "challenge_live_character_force_release"
+  },
+  {
+    "id": 99980010,
+    "sentence": "チャレンジライブ強制開放",
+    "releaseConditionType": "challenge_live_character_force_release"
+  },
+  {
+    "id": 99980011,
+    "sentence": "チャレンジライブ強制開放",
+    "releaseConditionType": "challenge_live_character_force_release"
+  },
+  {
+    "id": 99980012,
+    "sentence": "チャレンジライブ強制開放",
+    "releaseConditionType": "challenge_live_character_force_release"
+  },
+  {
+    "id": 99980013,
+    "sentence": "チャレンジライブ強制開放",
+    "releaseConditionType": "challenge_live_character_force_release"
+  },
+  {
+    "id": 99980014,
+    "sentence": "チャレンジライブ強制開放",
+    "releaseConditionType": "challenge_live_character_force_release"
+  },
+  {
+    "id": 99980015,
+    "sentence": "チャレンジライブ強制開放",
+    "releaseConditionType": "challenge_live_character_force_release"
+  },
+  {
+    "id": 99980016,
+    "sentence": "チャレンジライブ強制開放",
+    "releaseConditionType": "challenge_live_character_force_release"
+  },
+  {
+    "id": 99980017,
+    "sentence": "チャレンジライブ強制開放",
+    "releaseConditionType": "challenge_live_character_force_release"
+  },
+  {
+    "id": 99980018,
+    "sentence": "チャレンジライブ強制開放",
+    "releaseConditionType": "challenge_live_character_force_release"
+  },
+  {
+    "id": 99980019,
+    "sentence": "チャレンジライブ強制開放",
+    "releaseConditionType": "challenge_live_character_force_release"
+  },
+  {
+    "id": 99980020,
+    "sentence": "チャレンジライブ強制開放",
+    "releaseConditionType": "challenge_live_character_force_release"
+  },
+  {
+    "id": 99980021,
+    "sentence": "チャレンジライブ強制開放",
+    "releaseConditionType": "challenge_live_character_force_release"
+  },
+  {
+    "id": 99980022,
+    "sentence": "チャレンジライブ強制開放",
+    "releaseConditionType": "challenge_live_character_force_release"
+  },
+  {
+    "id": 99980023,
+    "sentence": "チャレンジライブ強制開放",
+    "releaseConditionType": "challenge_live_character_force_release"
+  },
+  {
+    "id": 99980024,
+    "sentence": "チャレンジライブ強制開放",
+    "releaseConditionType": "challenge_live_character_force_release"
+  },
+  {
+    "id": 99980025,
+    "sentence": "チャレンジライブ強制開放",
+    "releaseConditionType": "challenge_live_character_force_release"
+  },
+  {
+    "id": 99980026,
+    "sentence": "チャレンジライブ強制開放",
+    "releaseConditionType": "challenge_live_character_force_release"
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "seq": 1,
+    "name": "フリールーム",
+    "photonLobbyName": "0001",
+    "matchingLogic": "random",
+    "totalPower": 0,
+    "assetbundleName": "room1"
+  },
+  {
+    "id": 2,
+    "seq": 2,
+    "name": "ベテランルーム",
+    "photonLobbyName": "0002",
+    "matchingLogic": "power",
+    "totalPower": 150000,
+    "assetbundleName": "room2"
+  }
+]
