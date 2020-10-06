@@ -149,7 +149,7 @@
   },
   {
     "id": 13,
-    "seq": 9920,
+    "seq": 9855,
     "informationType": "normal",
     "informationTag": "event",
     "browseType": "internal",
@@ -326,7 +326,7 @@
     "title": "【9月30日23時00分追記】タイトル画面で「マスタデータの保存に失敗しました。」と表示されログインできない場合がある事象について",
     "path": "information/index.html?id=bug_20200930_1_Ui4J24Ok",
     "startAt": 1601474400000,
-    "endAt": 1602082799000
+    "endAt": 1601974799000
   },
   {
     "id": 42,
@@ -458,13 +458,24 @@
   },
   {
     "id": 53,
-    "seq": 9950,
+    "seq": 9940,
     "informationType": "bug",
     "informationTag": "bug",
     "browseType": "internal",
     "platform": "all",
-    "title": "楽曲「ニア」の3DMV中の演出が一部想定と異なっている事象について",
+    "title": "【10月6日14時00分追記】楽曲「ニア」の3DMV中の演出が一部想定と異なっている事象について",
     "path": "information/index.html?id=bug_3dmv_20201005_K2Hu3oqw",
-    "startAt": 1601884800000
+    "startAt": 1601960400000
+  },
+  {
+    "id": 55,
+    "seq": 9930,
+    "informationType": "bug",
+    "informationTag": "bug",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "未所持楽曲を「みんなでライブ」でプレイした際にクリアデータが正常に反映されない事象について",
+    "path": "information/index.html?id=bug_music_not_possessed_20201006_Jsd8IUGa",
+    "startAt": 1601976600000
   }
 ]
