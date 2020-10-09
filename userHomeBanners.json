@@ -1,13 +1,13 @@
 [
   {
-    "homeBannerId": 6,
-    "seq": 100,
-    "name": "リリース記念ガチャ",
-    "assetbundleName": "banner_gacha1",
-    "transitionDestinationType": "gacha",
+    "homeBannerId": 4,
+    "seq": 99,
+    "name": "雨上がりの一番星",
+    "assetbundleName": "event_stella_2020",
+    "transitionDestinationType": "event",
     "transitionDestinationId": 1,
-    "startAt": 1596261600000,
-    "endAt": 1602223199000
+    "startAt": 1602223200000,
+    "endAt": 1603173599000
   },
   {
     "homeBannerId": 9,
@@ -18,6 +18,16 @@
     "transitionDestinationId": 7,
     "startAt": 1596261600000,
     "endAt": 1603205999000
+  },
+  {
+    "homeBannerId": 11,
+    "seq": 100,
+    "name": "星降る夜空の思い出ガチャ",
+    "assetbundleName": "banner_gacha4",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 4,
+    "startAt": 1602223200000,
+    "endAt": 1603173599000
   },
   {
     "homeBannerId": 17,
