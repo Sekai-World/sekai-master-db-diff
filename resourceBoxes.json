@@ -26373,6 +26373,36 @@
   },
   {
     "resourceBoxPurpose": "gift_detail",
+    "id": 1009,
+    "resourceBoxType": "expand",
+    "details": [
+      {
+        "resourceBoxPurpose": "gift_detail",
+        "resourceBoxId": 1009,
+        "seq": 1,
+        "resourceType": "music",
+        "resourceId": 64,
+        "resourceQuantity": 1
+      }
+    ]
+  },
+  {
+    "resourceBoxPurpose": "gift_detail",
+    "id": 1011,
+    "resourceBoxType": "expand",
+    "details": [
+      {
+        "resourceBoxPurpose": "gift_detail",
+        "resourceBoxId": 1011,
+        "seq": 1,
+        "resourceType": "music",
+        "resourceId": 61,
+        "resourceQuantity": 1
+      }
+    ]
+  },
+  {
+    "resourceBoxPurpose": "gift_detail",
     "id": 1012,
     "resourceBoxType": "expand",
     "details": [
@@ -26396,6 +26426,21 @@
         "seq": 1,
         "resourceType": "jewel",
         "resourceQuantity": 500
+      }
+    ]
+  },
+  {
+    "resourceBoxPurpose": "gift_detail",
+    "id": 1014,
+    "resourceBoxType": "expand",
+    "details": [
+      {
+        "resourceBoxPurpose": "gift_detail",
+        "resourceBoxId": 1014,
+        "seq": 1,
+        "resourceType": "boost_item",
+        "resourceId": 2,
+        "resourceQuantity": 1
       }
     ]
   },
@@ -28191,8 +28236,9 @@
         "resourceBoxPurpose": "login_bonus",
         "resourceBoxId": 17,
         "seq": 1,
-        "resourceType": "jewel",
-        "resourceQuantity": 500
+        "resourceType": "material",
+        "resourceId": 14,
+        "resourceQuantity": 50
       }
     ]
   },
@@ -28484,6 +28530,162 @@
         "seq": 1,
         "resourceType": "costume_3d",
         "resourceId": 32040,
+        "resourceQuantity": 1
+      }
+    ]
+  },
+  {
+    "resourceBoxPurpose": "master_lesson_reward",
+    "id": 13,
+    "resourceBoxType": "expand",
+    "name": "ステラロック[アナザー1]",
+    "description": "ステラロック[アナザー1]",
+    "assetbundleName": "gacha_cos0034_01",
+    "details": [
+      {
+        "resourceBoxPurpose": "master_lesson_reward",
+        "resourceBoxId": 13,
+        "seq": 1,
+        "resourceType": "costume_3d",
+        "resourceId": 34011,
+        "resourceQuantity": 1
+      },
+      {
+        "resourceBoxPurpose": "master_lesson_reward",
+        "resourceBoxId": 13,
+        "seq": 2,
+        "resourceType": "costume_3d",
+        "resourceId": 34012,
+        "resourceQuantity": 1
+      }
+    ]
+  },
+  {
+    "resourceBoxPurpose": "master_lesson_reward",
+    "id": 14,
+    "resourceBoxType": "expand",
+    "name": "ステラロック[アナザー2]",
+    "description": "ステラロック[アナザー2]",
+    "assetbundleName": "gacha_cos0034_02",
+    "details": [
+      {
+        "resourceBoxPurpose": "master_lesson_reward",
+        "resourceBoxId": 14,
+        "seq": 1,
+        "resourceType": "costume_3d",
+        "resourceId": 34013,
+        "resourceQuantity": 1
+      },
+      {
+        "resourceBoxPurpose": "master_lesson_reward",
+        "resourceBoxId": 14,
+        "seq": 2,
+        "resourceType": "costume_3d",
+        "resourceId": 34014,
+        "resourceQuantity": 1
+      }
+    ]
+  },
+  {
+    "resourceBoxPurpose": "master_lesson_reward",
+    "id": 15,
+    "resourceBoxType": "expand",
+    "name": "ステラロック[アナザー3]",
+    "description": "ステラロック[アナザー3]",
+    "assetbundleName": "gacha_cos0034_03",
+    "details": [
+      {
+        "resourceBoxPurpose": "master_lesson_reward",
+        "resourceBoxId": 15,
+        "seq": 1,
+        "resourceType": "costume_3d",
+        "resourceId": 34015,
+        "resourceQuantity": 1
+      },
+      {
+        "resourceBoxPurpose": "master_lesson_reward",
+        "resourceBoxId": 15,
+        "seq": 2,
+        "resourceType": "costume_3d",
+        "resourceId": 34016,
+        "resourceQuantity": 1
+      }
+    ]
+  },
+  {
+    "resourceBoxPurpose": "master_lesson_reward",
+    "id": 16,
+    "resourceBoxType": "expand",
+    "name": "ステラクローバー[アナザー1]",
+    "description": "ステラクローバー[アナザー1]",
+    "assetbundleName": "gacha_cos0035_01",
+    "details": [
+      {
+        "resourceBoxPurpose": "master_lesson_reward",
+        "resourceBoxId": 16,
+        "seq": 1,
+        "resourceType": "costume_3d",
+        "resourceId": 35147,
+        "resourceQuantity": 1
+      },
+      {
+        "resourceBoxPurpose": "master_lesson_reward",
+        "resourceBoxId": 16,
+        "seq": 2,
+        "resourceType": "costume_3d",
+        "resourceId": 35148,
+        "resourceQuantity": 1
+      }
+    ]
+  },
+  {
+    "resourceBoxPurpose": "master_lesson_reward",
+    "id": 17,
+    "resourceBoxType": "expand",
+    "name": "ステラクローバー[アナザー2]",
+    "description": "ステラクローバー[アナザー2]",
+    "assetbundleName": "gacha_cos0035_02",
+    "details": [
+      {
+        "resourceBoxPurpose": "master_lesson_reward",
+        "resourceBoxId": 17,
+        "seq": 1,
+        "resourceType": "costume_3d",
+        "resourceId": 35149,
+        "resourceQuantity": 1
+      },
+      {
+        "resourceBoxPurpose": "master_lesson_reward",
+        "resourceBoxId": 17,
+        "seq": 2,
+        "resourceType": "costume_3d",
+        "resourceId": 35150,
+        "resourceQuantity": 1
+      }
+    ]
+  },
+  {
+    "resourceBoxPurpose": "master_lesson_reward",
+    "id": 18,
+    "resourceBoxType": "expand",
+    "name": "ステラクローバー[アナザー3]",
+    "description": "ステラクローバー[アナザー3]",
+    "assetbundleName": "gacha_cos0035_03",
+    "details": [
+      {
+        "resourceBoxPurpose": "master_lesson_reward",
+        "resourceBoxId": 18,
+        "seq": 1,
+        "resourceType": "costume_3d",
+        "resourceId": 35151,
+        "resourceQuantity": 1
+      },
+      {
+        "resourceBoxPurpose": "master_lesson_reward",
+        "resourceBoxId": 18,
+        "seq": 2,
+        "resourceType": "costume_3d",
+        "resourceId": 35152,
         "resourceQuantity": 1
       }
     ]
@@ -47036,6 +47238,21 @@
         "seq": 1,
         "resourceType": "music_vocal",
         "resourceId": 133,
+        "resourceQuantity": 1
+      }
+    ]
+  },
+  {
+    "resourceBoxPurpose": "shop_item",
+    "id": 10067,
+    "resourceBoxType": "expand",
+    "details": [
+      {
+        "resourceBoxPurpose": "shop_item",
+        "resourceBoxId": 10067,
+        "seq": 1,
+        "resourceType": "music_vocal",
+        "resourceId": 82,
         "resourceQuantity": 1
       }
     ]

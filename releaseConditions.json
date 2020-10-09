@@ -1742,6 +1742,41 @@
     "releaseConditionTypeLevel": 60
   },
   {
+    "id": 30109,
+    "sentence": "前編を解放した状態でレベルが60必要です。",
+    "releaseConditionType": "card_level",
+    "releaseConditionTypeId": 109,
+    "releaseConditionTypeLevel": 60
+  },
+  {
+    "id": 30110,
+    "sentence": "前編を解放した状態でレベルが60必要です。",
+    "releaseConditionType": "card_level",
+    "releaseConditionTypeId": 110,
+    "releaseConditionTypeLevel": 60
+  },
+  {
+    "id": 30111,
+    "sentence": "前編を解放した状態でレベルが60必要です。",
+    "releaseConditionType": "card_level",
+    "releaseConditionTypeId": 111,
+    "releaseConditionTypeLevel": 60
+  },
+  {
+    "id": 30112,
+    "sentence": "前編を解放した状態でレベルが50必要です。",
+    "releaseConditionType": "card_level",
+    "releaseConditionTypeId": 112,
+    "releaseConditionTypeLevel": 50
+  },
+  {
+    "id": 30113,
+    "sentence": "前編を解放した状態でレベルが30必要です。",
+    "releaseConditionType": "card_level",
+    "releaseConditionTypeId": 113,
+    "releaseConditionTypeLevel": 30
+  },
+  {
     "id": 40001,
     "sentence": "GOOD以下を7以内でEXPERTクリア",
     "releaseConditionType": "music_difficulty_better_play",
@@ -4792,6 +4827,62 @@
     "releaseConditionTypeLevel": 5
   },
   {
+    "id": 60050,
+    "sentence": "「[レイニー・ディスタンス] 天馬 咲希」を入手",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 109,
+    "releaseConditionTypeLevel": 0
+  },
+  {
+    "id": 60051,
+    "sentence": "「[レイニー・ディスタンス] 天馬 咲希」のマスターランク1で開放",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 109,
+    "releaseConditionTypeLevel": 1
+  },
+  {
+    "id": 60052,
+    "sentence": "「[レイニー・ディスタンス] 天馬 咲希」のマスターランク3で開放",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 109,
+    "releaseConditionTypeLevel": 3
+  },
+  {
+    "id": 60053,
+    "sentence": "「[レイニー・ディスタンス] 天馬 咲希」のマスターランク5で開放",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 109,
+    "releaseConditionTypeLevel": 5
+  },
+  {
+    "id": 60060,
+    "sentence": "「[黄昏の雨をぬぐって] 巡音 ルカ」を入手",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 110,
+    "releaseConditionTypeLevel": 0
+  },
+  {
+    "id": 60061,
+    "sentence": "「[黄昏の雨をぬぐって] 巡音 ルカ」のマスターランク1で開放",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 110,
+    "releaseConditionTypeLevel": 1
+  },
+  {
+    "id": 60062,
+    "sentence": "「[黄昏の雨をぬぐって] 巡音 ルカ」のマスターランク3で開放",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 110,
+    "releaseConditionTypeLevel": 3
+  },
+  {
+    "id": 60063,
+    "sentence": "「[黄昏の雨をぬぐって] 巡音 ルカ」のマスターランク5で開放",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 110,
+    "releaseConditionTypeLevel": 5
+  },
+  {
     "id": 70001,
     "sentence": "｢星乃一歌｣のキャラクターランク1でユニット編成数UP",
     "releaseConditionType": "character_rank",
@@ -5523,6 +5614,55 @@
     "id": 90000,
     "sentence": "引き継ぎ完了する",
     "releaseConditionType": "inherit_complete"
+  },
+  {
+    "id": 100001,
+    "sentence": "イベントPが6000に到達する",
+    "releaseConditionType": "event_point",
+    "releaseConditionTypeId": 1,
+    "releaseConditionTypeQuantity": 6000
+  },
+  {
+    "id": 100002,
+    "sentence": "イベントPが13000に到達する",
+    "releaseConditionType": "event_point",
+    "releaseConditionTypeId": 1,
+    "releaseConditionTypeQuantity": 13000
+  },
+  {
+    "id": 100003,
+    "sentence": "イベントPが30000に到達する",
+    "releaseConditionType": "event_point",
+    "releaseConditionTypeId": 1,
+    "releaseConditionTypeQuantity": 30000
+  },
+  {
+    "id": 100004,
+    "sentence": "イベントPが60000に到達する",
+    "releaseConditionType": "event_point",
+    "releaseConditionTypeId": 1,
+    "releaseConditionTypeQuantity": 60000
+  },
+  {
+    "id": 100005,
+    "sentence": "イベントPが90000に到達する",
+    "releaseConditionType": "event_point",
+    "releaseConditionTypeId": 1,
+    "releaseConditionTypeQuantity": 90000
+  },
+  {
+    "id": 100006,
+    "sentence": "イベントPが120000に到達する",
+    "releaseConditionType": "event_point",
+    "releaseConditionTypeId": 1,
+    "releaseConditionTypeQuantity": 120000
+  },
+  {
+    "id": 100007,
+    "sentence": "イベントPが150000に到達する",
+    "releaseConditionType": "event_point",
+    "releaseConditionTypeId": 1,
+    "releaseConditionTypeQuantity": 150000
   },
   {
     "id": 800001,

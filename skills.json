@@ -635,5 +635,48 @@
         ]
       }
     ]
+  },
+  {
+    "id": 11,
+    "shortDescription": "PERFECTのときのみ\\nスコア{{17;v}}%ＵＰ",
+    "description": "{{17;d}}秒間  PERFECTのときのみスコアが{{17;v}}%UPする",
+    "descriptionSpriteName": "score_up",
+    "skillEffects": [
+      {
+        "id": 17,
+        "skillEffectType": "score_up",
+        "activateNotesJudgmentType": "perfect",
+        "skillEffectDetails": [
+          {
+            "id": 65,
+            "level": 1,
+            "activateEffectDuration": 5,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 110
+          },
+          {
+            "id": 66,
+            "level": 2,
+            "activateEffectDuration": 5,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 115
+          },
+          {
+            "id": 67,
+            "level": 3,
+            "activateEffectDuration": 5,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 120
+          },
+          {
+            "id": 68,
+            "level": 4,
+            "activateEffectDuration": 5,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 130
+          }
+        ]
+      }
+    ]
   }
 ]
