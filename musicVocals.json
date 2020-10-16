@@ -751,6 +751,14 @@
         "characterType": "game_character",
         "characterId": 16,
         "seq": 364
+      },
+      {
+        "id": 301,
+        "musicId": 36,
+        "musicVocalId": 34,
+        "characterType": "game_character",
+        "characterId": 21,
+        "seq": 360
       }
     ],
     "assetbundleName": "0036_02"
@@ -916,6 +924,25 @@
       }
     ],
     "assetbundleName": "0044_01"
+  },
+  {
+    "id": 41,
+    "musicId": 45,
+    "musicVocalType": "original_song",
+    "seq": 1,
+    "releaseConditionId": 5,
+    "caption": "バーチャル・シンガーver.",
+    "characters": [
+      {
+        "id": 82,
+        "musicId": 45,
+        "musicVocalId": 41,
+        "characterType": "game_character",
+        "characterId": 21,
+        "seq": 450
+      }
+    ],
+    "assetbundleName": "0045_01"
   },
   {
     "id": 43,
@@ -1805,6 +1832,25 @@
     "assetbundleName": "an_0006_01"
   },
   {
+    "id": 81,
+    "musicId": 85,
+    "musicVocalType": "original_song",
+    "seq": 1,
+    "releaseConditionId": 5,
+    "caption": "バーチャル・シンガーver.",
+    "characters": [
+      {
+        "id": 176,
+        "musicId": 85,
+        "musicVocalId": 81,
+        "characterType": "game_character",
+        "characterId": 24,
+        "seq": 850
+      }
+    ],
+    "assetbundleName": "vs_0085_01"
+  },
+  {
     "id": 82,
     "musicId": 11,
     "musicVocalType": "another_vocal",
@@ -2676,6 +2722,33 @@
       }
     ],
     "assetbundleName": "se_0073_01"
+  },
+  {
+    "id": 121,
+    "musicId": 93,
+    "musicVocalType": "sekai",
+    "seq": 1,
+    "releaseConditionId": 5,
+    "caption": "セカイver.",
+    "characters": [
+      {
+        "id": 246,
+        "musicId": 93,
+        "musicVocalId": 121,
+        "characterType": "game_character",
+        "characterId": 21,
+        "seq": 930
+      },
+      {
+        "id": 247,
+        "musicId": 93,
+        "musicVocalId": 121,
+        "characterType": "game_character",
+        "characterId": 1,
+        "seq": 931
+      }
+    ],
+    "assetbundleName": "se_0093_01"
   },
   {
     "id": 122,
