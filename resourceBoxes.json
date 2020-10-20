@@ -22847,10 +22847,8 @@
         "resourceBoxPurpose": "event_exchange",
         "resourceBoxId": 16,
         "seq": 1,
-        "resourceType": "card",
-        "resourceId": 118,
-        "resourceLevel": 1,
-        "resourceQuantity": 1
+        "resourceType": "coin",
+        "resourceQuantity": 100000
       }
     ]
   },
@@ -22863,9 +22861,8 @@
         "resourceBoxPurpose": "event_exchange",
         "resourceBoxId": 17,
         "seq": 1,
-        "resourceType": "card",
-        "resourceId": 117,
-        "resourceLevel": 1,
+        "resourceType": "boost_item",
+        "resourceId": 1,
         "resourceQuantity": 1
       }
     ]
@@ -22879,9 +22876,9 @@
         "resourceBoxPurpose": "event_exchange",
         "resourceBoxId": 18,
         "seq": 1,
-        "resourceType": "material",
+        "resourceType": "practice_ticket",
         "resourceId": 2,
-        "resourceQuantity": 10
+        "resourceQuantity": 1
       }
     ]
   },
@@ -22895,8 +22892,8 @@
         "resourceBoxId": 19,
         "seq": 1,
         "resourceType": "material",
-        "resourceId": 7,
-        "resourceQuantity": 1
+        "resourceId": 1,
+        "resourceQuantity": 10
       }
     ]
   },
@@ -22909,9 +22906,8 @@
         "resourceBoxPurpose": "event_exchange",
         "resourceBoxId": 20,
         "seq": 1,
-        "resourceType": "card",
-        "resourceId": 123,
-        "resourceLevel": 1,
+        "resourceType": "material",
+        "resourceId": 6,
         "resourceQuantity": 1
       }
     ]
@@ -22925,10 +22921,9 @@
         "resourceBoxPurpose": "event_exchange",
         "resourceBoxId": 21,
         "seq": 1,
-        "resourceType": "card",
-        "resourceId": 122,
-        "resourceLevel": 1,
-        "resourceQuantity": 1
+        "resourceType": "material",
+        "resourceId": 2,
+        "resourceQuantity": 10
       }
     ]
   },
@@ -22942,8 +22937,8 @@
         "resourceBoxId": 22,
         "seq": 1,
         "resourceType": "material",
-        "resourceId": 4,
-        "resourceQuantity": 10
+        "resourceId": 7,
+        "resourceQuantity": 1
       }
     ]
   },
@@ -22957,7 +22952,116 @@
         "resourceBoxId": 23,
         "seq": 1,
         "resourceType": "material",
+        "resourceId": 3,
+        "resourceQuantity": 10
+      }
+    ]
+  },
+  {
+    "resourceBoxPurpose": "event_exchange",
+    "id": 24,
+    "resourceBoxType": "expand",
+    "details": [
+      {
+        "resourceBoxPurpose": "event_exchange",
+        "resourceBoxId": 24,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 8,
+        "resourceQuantity": 1
+      }
+    ]
+  },
+  {
+    "resourceBoxPurpose": "event_exchange",
+    "id": 25,
+    "resourceBoxType": "expand",
+    "details": [
+      {
+        "resourceBoxPurpose": "event_exchange",
+        "resourceBoxId": 25,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 4,
+        "resourceQuantity": 10
+      }
+    ]
+  },
+  {
+    "resourceBoxPurpose": "event_exchange",
+    "id": 26,
+    "resourceBoxType": "expand",
+    "details": [
+      {
+        "resourceBoxPurpose": "event_exchange",
+        "resourceBoxId": 26,
+        "seq": 1,
+        "resourceType": "material",
         "resourceId": 9,
+        "resourceQuantity": 1
+      }
+    ]
+  },
+  {
+    "resourceBoxPurpose": "event_exchange",
+    "id": 27,
+    "resourceBoxType": "expand",
+    "details": [
+      {
+        "resourceBoxPurpose": "event_exchange",
+        "resourceBoxId": 27,
+        "seq": 1,
+        "resourceType": "card",
+        "resourceId": 118,
+        "resourceLevel": 1,
+        "resourceQuantity": 1
+      }
+    ]
+  },
+  {
+    "resourceBoxPurpose": "event_exchange",
+    "id": 28,
+    "resourceBoxType": "expand",
+    "details": [
+      {
+        "resourceBoxPurpose": "event_exchange",
+        "resourceBoxId": 28,
+        "seq": 1,
+        "resourceType": "card",
+        "resourceId": 117,
+        "resourceLevel": 1,
+        "resourceQuantity": 1
+      }
+    ]
+  },
+  {
+    "resourceBoxPurpose": "event_exchange",
+    "id": 29,
+    "resourceBoxType": "expand",
+    "details": [
+      {
+        "resourceBoxPurpose": "event_exchange",
+        "resourceBoxId": 29,
+        "seq": 1,
+        "resourceType": "card",
+        "resourceId": 123,
+        "resourceLevel": 1,
+        "resourceQuantity": 1
+      }
+    ]
+  },
+  {
+    "resourceBoxPurpose": "event_exchange",
+    "id": 30,
+    "resourceBoxType": "expand",
+    "details": [
+      {
+        "resourceBoxPurpose": "event_exchange",
+        "resourceBoxId": 30,
+        "seq": 1,
+        "resourceType": "card",
+        "resourceId": 122,
+        "resourceLevel": 1,
         "resourceQuantity": 1
       }
     ]
@@ -27426,6 +27530,21 @@
   },
   {
     "resourceBoxPurpose": "gift_detail",
+    "id": 1010,
+    "resourceBoxType": "expand",
+    "details": [
+      {
+        "resourceBoxPurpose": "gift_detail",
+        "resourceBoxId": 1010,
+        "seq": 1,
+        "resourceType": "music",
+        "resourceId": 62,
+        "resourceQuantity": 1
+      }
+    ]
+  },
+  {
+    "resourceBoxPurpose": "gift_detail",
     "id": 1011,
     "resourceBoxType": "expand",
     "details": [
@@ -29783,6 +29902,162 @@
         "seq": 2,
         "resourceType": "costume_3d",
         "resourceId": 35152,
+        "resourceQuantity": 1
+      }
+    ]
+  },
+  {
+    "resourceBoxPurpose": "master_lesson_reward",
+    "id": 19,
+    "resourceBoxType": "expand",
+    "name": "マスカレードドール[アナザー1]",
+    "description": "マスカレードドール[アナザー1]",
+    "assetbundleName": "gacha_cos0036_01",
+    "details": [
+      {
+        "resourceBoxPurpose": "master_lesson_reward",
+        "resourceBoxId": 19,
+        "seq": 1,
+        "resourceType": "costume_3d",
+        "resourceId": 36107,
+        "resourceQuantity": 1
+      },
+      {
+        "resourceBoxPurpose": "master_lesson_reward",
+        "resourceBoxId": 19,
+        "seq": 2,
+        "resourceType": "costume_3d",
+        "resourceId": 36108,
+        "resourceQuantity": 1
+      }
+    ]
+  },
+  {
+    "resourceBoxPurpose": "master_lesson_reward",
+    "id": 20,
+    "resourceBoxType": "expand",
+    "name": "マスカレードドール[アナザー2]",
+    "description": "マスカレードドール[アナザー2]",
+    "assetbundleName": "gacha_cos0036_02",
+    "details": [
+      {
+        "resourceBoxPurpose": "master_lesson_reward",
+        "resourceBoxId": 20,
+        "seq": 1,
+        "resourceType": "costume_3d",
+        "resourceId": 36109,
+        "resourceQuantity": 1
+      },
+      {
+        "resourceBoxPurpose": "master_lesson_reward",
+        "resourceBoxId": 20,
+        "seq": 2,
+        "resourceType": "costume_3d",
+        "resourceId": 36110,
+        "resourceQuantity": 1
+      }
+    ]
+  },
+  {
+    "resourceBoxPurpose": "master_lesson_reward",
+    "id": 21,
+    "resourceBoxType": "expand",
+    "name": "マスカレードドール[アナザー3]",
+    "description": "マスカレードドール[アナザー3]",
+    "assetbundleName": "gacha_cos0036_03",
+    "details": [
+      {
+        "resourceBoxPurpose": "master_lesson_reward",
+        "resourceBoxId": 21,
+        "seq": 1,
+        "resourceType": "costume_3d",
+        "resourceId": 36111,
+        "resourceQuantity": 1
+      },
+      {
+        "resourceBoxPurpose": "master_lesson_reward",
+        "resourceBoxId": 21,
+        "seq": 2,
+        "resourceType": "costume_3d",
+        "resourceId": 36112,
+        "resourceQuantity": 1
+      }
+    ]
+  },
+  {
+    "resourceBoxPurpose": "master_lesson_reward",
+    "id": 22,
+    "resourceBoxType": "expand",
+    "name": "マスク・オブ・ティア[アナザー1]",
+    "description": "マスク・オブ・ティア[アナザー1]",
+    "assetbundleName": "gacha_cos0037_01",
+    "details": [
+      {
+        "resourceBoxPurpose": "master_lesson_reward",
+        "resourceBoxId": 22,
+        "seq": 1,
+        "resourceType": "costume_3d",
+        "resourceId": 37099,
+        "resourceQuantity": 1
+      },
+      {
+        "resourceBoxPurpose": "master_lesson_reward",
+        "resourceBoxId": 22,
+        "seq": 2,
+        "resourceType": "costume_3d",
+        "resourceId": 37100,
+        "resourceQuantity": 1
+      }
+    ]
+  },
+  {
+    "resourceBoxPurpose": "master_lesson_reward",
+    "id": 23,
+    "resourceBoxType": "expand",
+    "name": "マスク・オブ・ティア[アナザー2]",
+    "description": "マスク・オブ・ティア[アナザー2]",
+    "assetbundleName": "gacha_cos0037_02",
+    "details": [
+      {
+        "resourceBoxPurpose": "master_lesson_reward",
+        "resourceBoxId": 23,
+        "seq": 1,
+        "resourceType": "costume_3d",
+        "resourceId": 37101,
+        "resourceQuantity": 1
+      },
+      {
+        "resourceBoxPurpose": "master_lesson_reward",
+        "resourceBoxId": 23,
+        "seq": 2,
+        "resourceType": "costume_3d",
+        "resourceId": 37102,
+        "resourceQuantity": 1
+      }
+    ]
+  },
+  {
+    "resourceBoxPurpose": "master_lesson_reward",
+    "id": 24,
+    "resourceBoxType": "expand",
+    "name": "マスク・オブ・ティア[アナザー3]",
+    "description": "マスク・オブ・ティア[アナザー3]",
+    "assetbundleName": "gacha_cos0037_03",
+    "details": [
+      {
+        "resourceBoxPurpose": "master_lesson_reward",
+        "resourceBoxId": 24,
+        "seq": 1,
+        "resourceType": "costume_3d",
+        "resourceId": 37103,
+        "resourceQuantity": 1
+      },
+      {
+        "resourceBoxPurpose": "master_lesson_reward",
+        "resourceBoxId": 24,
+        "seq": 2,
+        "resourceType": "costume_3d",
+        "resourceId": 37104,
         "resourceQuantity": 1
       }
     ]
@@ -48350,6 +48625,21 @@
         "seq": 1,
         "resourceType": "music_vocal",
         "resourceId": 82,
+        "resourceQuantity": 1
+      }
+    ]
+  },
+  {
+    "resourceBoxPurpose": "shop_item",
+    "id": 10068,
+    "resourceBoxType": "expand",
+    "details": [
+      {
+        "resourceBoxPurpose": "shop_item",
+        "resourceBoxId": 10068,
+        "seq": 1,
+        "resourceType": "music_vocal",
+        "resourceId": 135,
         "resourceQuantity": 1
       }
     ]
