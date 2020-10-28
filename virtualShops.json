@@ -570,5 +570,33 @@
         "endAt": 1603864799000
       }
     ]
+  },
+  {
+    "id": 5,
+    "seq": 5,
+    "name": "ハロウィンライブ",
+    "virtualShopItems": [
+      {
+        "id": 56,
+        "virtualShopId": 5,
+        "virtualShopItemType": "coordinate",
+        "seq": 1,
+        "resourceBoxId": 54,
+        "costPaidJewel": 3000,
+        "startAt": 1603951200000,
+        "endAt": 1604296799000
+      },
+      {
+        "id": 57,
+        "virtualShopId": 5,
+        "virtualShopItemType": "accessory",
+        "seq": 2,
+        "resourceBoxId": 52,
+        "costVirtualCoin": 3000,
+        "costJewel": 1000,
+        "startAt": 1603951200000,
+        "endAt": 1604296799000
+      }
+    ]
   }
 ]
