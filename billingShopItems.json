@@ -194,7 +194,8 @@
     "billingProductGroupId": 12,
     "name": "ライブP購入",
     "description": "ライブP×100",
-    "billableLimitType": "unlimited",
+    "billableLimitType": "live_point",
+    "billableLimitValue": 8000,
     "billableLimitResetIntervalType": "monthly",
     "assetbundleName": "shop_12",
     "resourceBoxId": 21
@@ -224,6 +225,35 @@
     "assetbundleName": "shop_16",
     "resourceBoxId": 16,
     "startAt": 1601478000000,
+    "endAt": 1604156399000
+  },
+  {
+    "id": 23,
+    "billingShopItemType": "value_set",
+    "billingProductGroupId": 23,
+    "name": "初心者特訓セット",
+    "description": "クリスタル×450\nミラクルジェム×50\nキュートジェム×100\nクールジェム×100\nピュアジェム×100\nハッピージェム×100\nミステリアスジェム×100",
+    "billableLimitType": "count",
+    "billableLimitValue": 2,
+    "billableLimitResetIntervalType": "none",
+    "assetbundleName": "shop_23",
+    "resourceBoxId": 23,
+    "bonusResourceBoxId": 9,
+    "startAt": 1604156400000
+  },
+  {
+    "id": 24,
+    "billingShopItemType": "live_mission_pass",
+    "billingProductGroupId": 24,
+    "name": "プレミアムミッションパス",
+    "description": "クリスタル×1800\nバーチャルコイン×1800\n今月のプレミアム報酬枠解放",
+    "billableLimitType": "count",
+    "billableLimitValue": 1,
+    "billableLimitResetIntervalType": "monthly",
+    "assetbundleName": "shop_24",
+    "resourceBoxId": 24,
+    "bonusResourceBoxId": 10,
+    "startAt": 1604156400000,
     "endAt": 4097141999000
   }
 ]

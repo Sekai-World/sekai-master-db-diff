@@ -570,5 +570,31 @@
     "cheerPoint": 1500,
     "effectAssetbundleName": "event_halloween_2020",
     "effectExpressionType": "throw_effect"
+  },
+  {
+    "id": 50,
+    "virtualItemCategory": "normal",
+    "seq": 500,
+    "priority": 500,
+    "name": "ロボットゾンビ",
+    "assetbundleName": "event_zombie",
+    "costVirtualCoin": 1500,
+    "costJewel": 1500,
+    "cheerPoint": 1500,
+    "effectAssetbundleName": "event_zombie",
+    "effectExpressionType": "throw_effect"
+  },
+  {
+    "id": 51,
+    "virtualItemCategory": "normal",
+    "seq": 510,
+    "priority": 510,
+    "name": "HAPPY ANNIVERSARY MEIKO",
+    "assetbundleName": "chara_meiko_birthday",
+    "costVirtualCoin": 3000,
+    "costJewel": 3000,
+    "cheerPoint": 3000,
+    "effectAssetbundleName": "chara_meiko_birthday",
+    "effectExpressionType": "throw_effect"
   }
 ]

@@ -1812,6 +1812,41 @@
     "releaseConditionTypeLevel": 30
   },
   {
+    "id": 30119,
+    "sentence": "前編を解放した状態でレベルが60必要です。",
+    "releaseConditionType": "card_level",
+    "releaseConditionTypeId": 119,
+    "releaseConditionTypeLevel": 60
+  },
+  {
+    "id": 30120,
+    "sentence": "前編を解放した状態でレベルが60必要です。",
+    "releaseConditionType": "card_level",
+    "releaseConditionTypeId": 120,
+    "releaseConditionTypeLevel": 60
+  },
+  {
+    "id": 30121,
+    "sentence": "前編を解放した状態でレベルが60必要です。",
+    "releaseConditionType": "card_level",
+    "releaseConditionTypeId": 121,
+    "releaseConditionTypeLevel": 60
+  },
+  {
+    "id": 30122,
+    "sentence": "前編を解放した状態でレベルが50必要です。",
+    "releaseConditionType": "card_level",
+    "releaseConditionTypeId": 122,
+    "releaseConditionTypeLevel": 50
+  },
+  {
+    "id": 30123,
+    "sentence": "前編を解放した状態でレベルが30必要です。",
+    "releaseConditionType": "card_level",
+    "releaseConditionTypeId": 123,
+    "releaseConditionTypeLevel": 30
+  },
+  {
     "id": 40001,
     "sentence": "GOOD以下を7以内でEXPERTクリア",
     "releaseConditionType": "music_difficulty_better_play",
@@ -4974,6 +5009,62 @@
     "releaseConditionTypeLevel": 5
   },
   {
+    "id": 60090,
+    "sentence": "「[思わぬ指摘] 神代 類」を入手",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 119,
+    "releaseConditionTypeLevel": 0
+  },
+  {
+    "id": 60091,
+    "sentence": "「[思わぬ指摘] 神代 類」のマスターランク1で開放",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 119,
+    "releaseConditionTypeLevel": 1
+  },
+  {
+    "id": 60092,
+    "sentence": "「[思わぬ指摘] 神代 類」のマスターランク3で開放",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 119,
+    "releaseConditionTypeLevel": 3
+  },
+  {
+    "id": 60093,
+    "sentence": "「[思わぬ指摘] 神代 類」のマスターランク5で開放",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 119,
+    "releaseConditionTypeLevel": 5
+  },
+  {
+    "id": 60100,
+    "sentence": "「[ハラハラ！？ゾンビパニック！] 天馬 司」を入手",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 120,
+    "releaseConditionTypeLevel": 0
+  },
+  {
+    "id": 60101,
+    "sentence": "「[ハラハラ！？ゾンビパニック！] 天馬 司」のマスターランク1で開放",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 120,
+    "releaseConditionTypeLevel": 1
+  },
+  {
+    "id": 60102,
+    "sentence": "「[ハラハラ！？ゾンビパニック！] 天馬 司」のマスターランク3で開放",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 120,
+    "releaseConditionTypeLevel": 3
+  },
+  {
+    "id": 60103,
+    "sentence": "「[ハラハラ！？ゾンビパニック！] 天馬 司」のマスターランク5で開放",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 120,
+    "releaseConditionTypeLevel": 5
+  },
+  {
     "id": 70001,
     "sentence": "｢星乃一歌｣のキャラクターランク1でユニット編成数UP",
     "releaseConditionType": "character_rank",
@@ -5809,6 +5900,61 @@
     "sentence": "「囚われのマリオネット」 のエンディングを読む",
     "releaseConditionType": "event_story",
     "releaseConditionTypeId": 1000016
+  },
+  {
+    "id": 100201,
+    "sentence": "イベントPが6000に到達する",
+    "releaseConditionType": "event_point",
+    "releaseConditionTypeId": 3,
+    "releaseConditionTypeQuantity": 6000
+  },
+  {
+    "id": 100202,
+    "sentence": "イベントPが13000に到達する",
+    "releaseConditionType": "event_point",
+    "releaseConditionTypeId": 3,
+    "releaseConditionTypeQuantity": 13000
+  },
+  {
+    "id": 100203,
+    "sentence": "イベントPが30000に到達する",
+    "releaseConditionType": "event_point",
+    "releaseConditionTypeId": 3,
+    "releaseConditionTypeQuantity": 30000
+  },
+  {
+    "id": 100204,
+    "sentence": "イベントPが60000に到達する",
+    "releaseConditionType": "event_point",
+    "releaseConditionTypeId": 3,
+    "releaseConditionTypeQuantity": 60000
+  },
+  {
+    "id": 100205,
+    "sentence": "イベントPが90000に到達する",
+    "releaseConditionType": "event_point",
+    "releaseConditionTypeId": 3,
+    "releaseConditionTypeQuantity": 90000
+  },
+  {
+    "id": 100206,
+    "sentence": "イベントPが120000に到達する",
+    "releaseConditionType": "event_point",
+    "releaseConditionTypeId": 3,
+    "releaseConditionTypeQuantity": 120000
+  },
+  {
+    "id": 100207,
+    "sentence": "イベントPが150000に到達する",
+    "releaseConditionType": "event_point",
+    "releaseConditionTypeId": 3,
+    "releaseConditionTypeQuantity": 150000
+  },
+  {
+    "id": 100208,
+    "sentence": "「全力！ワンダーハロウィン！」の エンディングを読む",
+    "releaseConditionType": "event_story",
+    "releaseConditionTypeId": 1000024
   },
   {
     "id": 800001,

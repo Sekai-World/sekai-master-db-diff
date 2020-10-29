@@ -36,6 +36,10 @@
     "value": "いつもご利用いただきありがとうございます。\nこのアプリを使ってお楽しみいただいた方は、\n評価をお願いいたします。"
   },
   {
+    "wordingKey": "MSG_AND_NAVY",
+    "value": "<color=#444466>と</color>{0}"
+  },
+  {
     "wordingKey": "MSG_ANOTHER_COLOR_ACQUISITION_CONDITIONS_NL",
     "value": "「{0}　{1}」の\n<color=#00CCBB>マスターランク</color>を上げると\nアナザーカラーが解放されます。"
   },
@@ -52,6 +56,10 @@
     "value": "およそ{0}MB"
   },
   {
+    "wordingKey": "MSG_AUTO_LIVE_NOT_ALLOWED",
+    "value": "オートライブをプレイするには\nライブボーナスを最低1つ消費する必要があります。"
+  },
+  {
     "wordingKey": "MSG_B1_TMP_NONE_MEMBER",
     "value": "メンバー不足"
   },
@@ -60,28 +68,32 @@
     "value": "該当キャラクターのメンバーを所持していないため \nライブが出来ません。"
   },
   {
+    "wordingKey": "MSG_BECAUSE_AUTO_LIVE_NO_JUDGEMENT_RESULT",
+    "value": "オートライブのため、\nリズムゲームの判定結果はありません。"
+  },
+  {
     "wordingKey": "MSG_BG _BRIGHTNESS",
     "value": "背景の明るさ"
   },
   {
     "wordingKey": "MSG_BILLING_REFUND_DIALOG_TEXT_1",
-    "value": "お客様によりストアで返金処理が行われたため、\n返金分の有償クリスタルを回収させていただきました。\nご了承ください。"
+    "value": "返金分の有償クリスタルを回収いたしました。\n\n{0}個 -> {1}個"
   },
   {
     "wordingKey": "MSG_BILLING_REFUND_DIALOG_TEXT_2",
-    "value": "お客様によりストアで返金処理が行われたため、\n返金分と同数の有償クリスタルを回収させていただきました。\nご了承ください。"
+    "value": "返金分の有償クリスタルを回収いたしました。\n\n{0}個 -> {1}個\n<color=#FF55AA>※ご購入時の単価不足分は、ご購入が古いものより同数の有償クリスタルを回収しております。</color>"
   },
   {
     "wordingKey": "MSG_BILLING_REFUND_DIALOG_TEXT_3",
-    "value": "お客様によりストアで返金処理が行われましたが、\n返金分の有償クリスタルを一部回収できませんでした。\n同事象が続く場合、ショップ停止等のペナルティが発生します。"
+    "value": "返金分の有償クリスタルが回収できませんでした。\n\n※悪質な行為と判断した場合、アカウントを停止いたします。\n※アカウント停止は、予告なく実施される場合がございます。\n※ご不明な点がございましたら、「サポート」よりお問い合わせください。"
   },
   {
     "wordingKey": "MSG_BILLING_REFUND_DIALOG_TEXT_4",
-    "value": "お客様による故意の返金処理の繰り返しを確認したため、\nクリスタルショップのご利用を1ヵ月間停止させていただきます。\n同事象が続く場合、アカウント停止のペナルティが発生します。"
+    "value": "返金分の有償クリスタルが再度回収できなかったため、\nクリスタルショップでの課金停止を実施しました。\n停止期間：{0}まで\n\n※悪質な行為と判断した場合、アカウントを停止いたします。\n※ご不明な点がございましたら、「サポート」よりお問い合わせください。"
   },
   {
     "wordingKey": "MSG_BILLING_REFUND_DIALOG_TEXT_5",
-    "value": "お客様による故意の返金処理の繰り返しを確認したため、\nクリスタルショップのご利用を停止させていただいております。\n次回以降、アカウント停止をいたしますのでご注意ください。"
+    "value": "返金分の有償クリスタルが再度回収できなかっため、\nクリスタルショップでの課金停止を実施しました。\n調査結果に応じて、アカウント停止を実施します。\n\n※ご不明な点がございましたら、「サポート」よりお問い合わせください。"
   },
   {
     "wordingKey": "MSG_BILLING_REFUND_ERROR",
@@ -604,6 +616,10 @@
     "value": "メンバーの成績"
   },
   {
+    "wordingKey": "MSG_MESSAGE_EMPTY",
+    "value": "応援メッセージを記入せずそのまま送ります。\nよろしいですか？"
+  },
+  {
     "wordingKey": "MSG_MISSION_NOTICE_COUNT",
     "value": "他{0}件"
   },
@@ -649,7 +665,7 @@
   },
   {
     "wordingKey": "MSG_MULTIPLAY_ERROR_NOTFOUND",
-    "value": "ルームが満員か見つからなかったため、 \n入室できませんでした。"
+    "value": "指定のルームへ入室することができませんでした。"
   },
   {
     "wordingKey": "MSG_MULTI_DISSOLUSION",
@@ -698,6 +714,10 @@
   {
     "wordingKey": "MSG_NEAR_RANKING",
     "value": "近くの順位"
+  },
+  {
+    "wordingKey": "MSG_NGWORD_BALLOON",
+    "value": "使用できないワードが含まれています"
   },
   {
     "wordingKey": "MSG_NG_WORD",
@@ -1054,6 +1074,10 @@
   {
     "wordingKey": "MSG_SHOP_NUMBER_OF_PURCHASE",
     "value": "あと{0}回"
+  },
+  {
+    "wordingKey": "MSG_SHOP_PRODUCT_UPDATE",
+    "value": "商品のラインナップが更新されました。\nタイトルに戻ります。"
   },
   {
     "wordingKey": "MSG_SHOP_PURCHASE_CANCEL",
@@ -1420,6 +1444,10 @@
     "value": "プロセカの評価をしてください"
   },
   {
+    "wordingKey": "WORD_ANNONYMOUS_SEND",
+    "value": "匿名で送る"
+  },
+  {
     "wordingKey": "WORD_ANOTHER_COLOR",
     "value": "アナザーカラー"
   },
@@ -1482,6 +1510,14 @@
   {
     "wordingKey": "WORD_AUTO",
     "value": "オート"
+  },
+  {
+    "wordingKey": "WORD_AUTO_LIVE_LIMIT",
+    "value": "本日分終了"
+  },
+  {
+    "wordingKey": "WORD_AUTO_LIVE_NUMBER_OF_PLAY",
+    "value": "あと{0}回"
   },
   {
     "wordingKey": "WORD_AVATAR_COSTUME",
@@ -1682,6 +1718,14 @@
   {
     "wordingKey": "WORD_CHARACTER_VOICE",
     "value": "CV"
+  },
+  {
+    "wordingKey": "WORD_CHEER_MESSAGE",
+    "value": "応援メッセージ"
+  },
+  {
+    "wordingKey": "WORD_CHEER_MESSAGE_PLACEHOLDER",
+    "value": "最大{0}文字をご記入ください"
   },
   {
     "wordingKey": "WORD_CHEER_RANKING",
@@ -2404,6 +2448,10 @@
     "value": "ホーム"
   },
   {
+    "wordingKey": "WORD_HOME_BACK",
+    "value": "ホームに戻る"
+  },
+  {
     "wordingKey": "WORD_HONOR",
     "value": "称号"
   },
@@ -2920,6 +2968,10 @@
     "value": "楽曲選択"
   },
   {
+    "wordingKey": "WORD_MUSIC_SELECT_BACK",
+    "value": "楽曲選択に戻る"
+  },
+  {
     "wordingKey": "WORD_MUSIC_SELECT_FILTER",
     "value": "楽曲選択絞り込み"
   },
@@ -3097,6 +3149,10 @@
   },
   {
     "wordingKey": "WORD_ORIGINAL_MV",
+    "value": "原曲MV"
+  },
+  {
+    "wordingKey": "WORD_ORIGINAL_MV_NL",
     "value": "原曲\nMV"
   },
   {
@@ -3552,12 +3608,20 @@
     "value": "ライブ衣装選択"
   },
   {
+    "wordingKey": "WORD_SELECT_RANK",
+    "value": "ランク選択"
+  },
+  {
     "wordingKey": "WORD_SEND",
     "value": "送る"
   },
   {
     "wordingKey": "WORD_SEND_COMPLETE",
     "value": "送信完了"
+  },
+  {
+    "wordingKey": "WORD_SEND_MESSAGE",
+    "value": "メッセージを送る"
   },
   {
     "wordingKey": "WORD_SETTING",
@@ -3842,6 +3906,10 @@
   {
     "wordingKey": "WORD_TITLE",
     "value": "タイトル"
+  },
+  {
+    "wordingKey": "WORD_TITLE_AUTO_LIVE_NOT_ALLOWED",
+    "value": "ライブボーナス不足"
   },
   {
     "wordingKey": "WORD_TITLE_CLOSE_EVENT_EXCHANGE",
@@ -4129,7 +4197,7 @@
   },
   {
     "wordingKey": "WORD_VIRTUAL_LIVE_SETTINGS_OTHER_PLAYER_MESSAGE",
-    "value": "他プレイヤーの応援メッセージ表示"
+    "value": "他プレイヤーの応援メッセージ"
   },
   {
     "wordingKey": "WORD_VIRTUAL_LIVE_SETTINGS_OTHER_PLAYER_STAMP",
@@ -4138,6 +4206,10 @@
   {
     "wordingKey": "WORD_VIRTUAL_LIVE_SETTINGS_OTHER_ROOM_ITEM",
     "value": "他ルームのバーチャルアイテム"
+  },
+  {
+    "wordingKey": "WORD_VIRTUAL_LIVE_SETTINGS_OTHER_ROOM_MESSAGE",
+    "value": "他ルームの応援メッセージ"
   },
   {
     "wordingKey": "WORD_VIRTUAL_LIVE_SETTINGS_PLAYER_NAME",

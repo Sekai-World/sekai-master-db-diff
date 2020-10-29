@@ -1,0 +1,46 @@
+[
+  {
+    "id": 1,
+    "fromCostVirtualCoin": 100,
+    "toCostVirtualCoin": 999,
+    "assetbundleName": "small",
+    "messageLengthLimit": 8,
+    "displaySec": 1,
+    "messageSize": "small",
+    "colorCode": "#ffffff",
+    "virtualLiveCheerMessageDisplayLimitId": 1
+  },
+  {
+    "id": 2,
+    "fromCostVirtualCoin": 1000,
+    "toCostVirtualCoin": 4999,
+    "assetbundleName": "medium",
+    "messageLengthLimit": 16,
+    "displaySec": 2,
+    "messageSize": "medium",
+    "colorCode": "#00ccbb",
+    "virtualLiveCheerMessageDisplayLimitId": 2
+  },
+  {
+    "id": 3,
+    "fromCostVirtualCoin": 5000,
+    "toCostVirtualCoin": 9999,
+    "assetbundleName": "large",
+    "messageLengthLimit": 24,
+    "displaySec": 3,
+    "messageSize": "large",
+    "colorCode": "#ffbb00",
+    "virtualLiveCheerMessageDisplayLimitId": 3
+  },
+  {
+    "id": 4,
+    "fromCostVirtualCoin": 10000,
+    "toCostVirtualCoin": 50000,
+    "assetbundleName": "x_large",
+    "messageLengthLimit": 32,
+    "displaySec": 5,
+    "messageSize": "x_large",
+    "colorCode": "#ff55aa",
+    "virtualLiveCheerMessageDisplayLimitId": 4
+  }
+]
