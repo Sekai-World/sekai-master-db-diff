@@ -674,7 +674,7 @@
     "gachaInformation": {
       "gachaId": 2,
       "summary": "★3以上確定チケットでのみ引けるガチャです。\n\n★3以上のメンバーが必ず出現するガチャです。\n初めて獲得する一部の★4メンバーには「ライブ衣装」が付きます。\nまた、「ライブ衣装」を獲得することで、他の着用可能メンバーが着用できる衣装が「衣装ショップ」で作成可能になります。\n他の着用可能キャラクターの「ライブ衣装」は一部デザインやアクセサリの有無が異なることがあります。\n内容は[メンバー]->[ライブ衣装]画面よりご確認いただけます。\n",
-      "description": "・本ガチャで出現するメンバーは定期的に更新されます。\n・出現するメンバーはすべて特訓前の状態になります。\n・ガチャで出現するメンバーは重複する場合があります。\n・重複して獲得されたメンバーは自動的に控え室に送られます。\n・ガチャは提供割合に基づき1回ごとに抽選を行います。例えば提供割合1%のメンバーが100回中1回必ず出現するという仕組みではありません。\n・提供割合につきましては、提供割合タブにてご確認ください。\n・出現メンバーのパラメータやスキルはガチャページのメンバー詳細にてご確認ください。\n・ライブ衣装付きのメンバーは、ガチャページの提供割合にてご確認ください。\n・ガチャ実行後に強制終了、もしくは回線が切断され正常にガチャの結果画面が表示されなかった場合でも、メンバーは獲得されております。メンバー一覧、または控え室をご確認ください。"
+      "description": "・本ガチャで出現するメンバーは定期的に更新されます。\n・出現するメンバーはすべて特訓前の状態になります。\n・ガチャで出現するメンバーは重複する場合があります。\n・重複して獲得されたメンバーは自動的に控え室に送られます。\n・ガチャは提供割合に基づき1回ごとに抽選を行います。例えば提供割合1%のメンバーが100回中1回必ず出現するという仕組みではありません。\n・提供割合につきましては、提供割合タブにてご確認ください。\n・出現メンバーのパラメータやスキルはガチャページのメンバー詳細にてご確認ください。\n・ライブ衣装付きのメンバーは、提供割合タブにてご確認ください。\n・ガチャ実行後に強制終了、もしくは回線が切断され正常にガチャの結果画面が表示されなかった場合でも、メンバーは獲得されております。メンバー一覧、または控え室をご確認ください。"
     }
   },
   {
@@ -2902,6 +2902,1313 @@
       "gachaId": 8,
       "summary": "「イベントメンバー出現率UPガチャ」が登場！\nイベント「全力！ワンダーハロウィン！」のボーナスキャラクターとボーナスタイプのメンバーは、同レアリティ内の他のメンバーよりも出現率が高くなっています。\n\n★2以上のメンバーが必ず出現するガチャです。\n「10回引く」では★3以上のメンバーが1人確定で出現します。\n初めて獲得する一部の★4メンバーには「ライブ衣装」が付きます。\nまた、「ライブ衣装」を獲得することで、他の着用可能メンバーが着用できる衣装が「衣装ショップ」で作成可能になります。\n他の着用可能キャラクターの「ライブ衣装」は一部デザインやアクセサリの有無が異なることがあります。\n内容は[メンバー]->[ライブ衣装]画面よりご確認いただけます。\n",
       "description": "・クリスタルは無償分から先に消費されます。\n・出現するメンバーはすべて特訓前の状態になります。\n・ガチャで出現するメンバーは重複する場合があります。\n・重複して獲得されたメンバーは自動的に控え室に送られます。\n・ガチャは提供割合に基づき1回ごとに抽選を行います。例えば提供割合1%のメンバーが100回中1回必ず出現するという仕組みではありません。\n・[10回引く]をご利用いただき抽選した結果、★3以上のメンバーが1人も出現しなかった場合は、10回目の枠を確定枠提供割合から再度抽選いたします。\n・提供割合につきましては、提供割合タブにてご確認ください。\n・新メンバーのパラメータやスキルはガチャページのメンバー詳細にてご確認ください。\n・ライブ衣装付きのメンバーは、ガチャページの提供割合にてご確認ください。\n・ガチャ実行後に強制終了、もしくは回線が切断され正常にガチャの結果画面が表示されなかった場合でも、メンバーは獲得されております。メンバー一覧、または控え室をご確認ください。\n・本ガチャからは「ジェントル★ポテトスターガチャシール」は獲得できません。\n・開催スケジュールは予告なく変更する場合がございます。"
+    }
+  },
+  {
+    "id": 9,
+    "gachaType": "ceil",
+    "name": "げんきはつらつ♪応援団ガチャ",
+    "seq": 10,
+    "assetbundleName": "ab_gacha_9",
+    "rarity1Rate": 0,
+    "rarity2Rate": 88.5,
+    "rarity3Rate": 8.5,
+    "rarity4Rate": 3,
+    "startAt": 1604901600000,
+    "endAt": 1605765599000,
+    "gachaDetails": [
+      {
+        "id": 396,
+        "gachaId": 9,
+        "cardId": 2,
+        "weight": 1
+      },
+      {
+        "id": 397,
+        "gachaId": 9,
+        "cardId": 3,
+        "weight": 1
+      },
+      {
+        "id": 398,
+        "gachaId": 9,
+        "cardId": 4,
+        "weight": 138461
+      },
+      {
+        "id": 399,
+        "gachaId": 9,
+        "cardId": 6,
+        "weight": 1
+      },
+      {
+        "id": 400,
+        "gachaId": 9,
+        "cardId": 7,
+        "weight": 1
+      },
+      {
+        "id": 401,
+        "gachaId": 9,
+        "cardId": 10,
+        "weight": 1
+      },
+      {
+        "id": 402,
+        "gachaId": 9,
+        "cardId": 11,
+        "weight": 1
+      },
+      {
+        "id": 403,
+        "gachaId": 9,
+        "cardId": 14,
+        "weight": 1
+      },
+      {
+        "id": 404,
+        "gachaId": 9,
+        "cardId": 15,
+        "weight": 1
+      },
+      {
+        "id": 405,
+        "gachaId": 9,
+        "cardId": 18,
+        "weight": 1
+      },
+      {
+        "id": 406,
+        "gachaId": 9,
+        "cardId": 19,
+        "weight": 1
+      },
+      {
+        "id": 407,
+        "gachaId": 9,
+        "cardId": 22,
+        "weight": 1
+      },
+      {
+        "id": 408,
+        "gachaId": 9,
+        "cardId": 23,
+        "weight": 1
+      },
+      {
+        "id": 409,
+        "gachaId": 9,
+        "cardId": 26,
+        "weight": 1
+      },
+      {
+        "id": 410,
+        "gachaId": 9,
+        "cardId": 27,
+        "weight": 1
+      },
+      {
+        "id": 411,
+        "gachaId": 9,
+        "cardId": 30,
+        "weight": 1
+      },
+      {
+        "id": 412,
+        "gachaId": 9,
+        "cardId": 31,
+        "weight": 1
+      },
+      {
+        "id": 413,
+        "gachaId": 9,
+        "cardId": 34,
+        "weight": 1
+      },
+      {
+        "id": 414,
+        "gachaId": 9,
+        "cardId": 35,
+        "weight": 1
+      },
+      {
+        "id": 415,
+        "gachaId": 9,
+        "cardId": 38,
+        "weight": 1
+      },
+      {
+        "id": 416,
+        "gachaId": 9,
+        "cardId": 39,
+        "weight": 1
+      },
+      {
+        "id": 417,
+        "gachaId": 9,
+        "cardId": 42,
+        "weight": 1
+      },
+      {
+        "id": 418,
+        "gachaId": 9,
+        "cardId": 43,
+        "weight": 1
+      },
+      {
+        "id": 419,
+        "gachaId": 9,
+        "cardId": 46,
+        "weight": 1
+      },
+      {
+        "id": 420,
+        "gachaId": 9,
+        "cardId": 47,
+        "weight": 1
+      },
+      {
+        "id": 421,
+        "gachaId": 9,
+        "cardId": 50,
+        "weight": 1
+      },
+      {
+        "id": 422,
+        "gachaId": 9,
+        "cardId": 51,
+        "weight": 1
+      },
+      {
+        "id": 423,
+        "gachaId": 9,
+        "cardId": 54,
+        "weight": 1
+      },
+      {
+        "id": 424,
+        "gachaId": 9,
+        "cardId": 55,
+        "weight": 1
+      },
+      {
+        "id": 425,
+        "gachaId": 9,
+        "cardId": 58,
+        "weight": 1
+      },
+      {
+        "id": 426,
+        "gachaId": 9,
+        "cardId": 59,
+        "weight": 1
+      },
+      {
+        "id": 427,
+        "gachaId": 9,
+        "cardId": 62,
+        "weight": 1
+      },
+      {
+        "id": 428,
+        "gachaId": 9,
+        "cardId": 63,
+        "weight": 1
+      },
+      {
+        "id": 429,
+        "gachaId": 9,
+        "cardId": 66,
+        "weight": 1
+      },
+      {
+        "id": 430,
+        "gachaId": 9,
+        "cardId": 67,
+        "weight": 1
+      },
+      {
+        "id": 431,
+        "gachaId": 9,
+        "cardId": 70,
+        "weight": 1
+      },
+      {
+        "id": 432,
+        "gachaId": 9,
+        "cardId": 71,
+        "weight": 1
+      },
+      {
+        "id": 433,
+        "gachaId": 9,
+        "cardId": 74,
+        "weight": 1
+      },
+      {
+        "id": 434,
+        "gachaId": 9,
+        "cardId": 75,
+        "weight": 1
+      },
+      {
+        "id": 435,
+        "gachaId": 9,
+        "cardId": 78,
+        "weight": 1
+      },
+      {
+        "id": 436,
+        "gachaId": 9,
+        "cardId": 79,
+        "weight": 1
+      },
+      {
+        "id": 437,
+        "gachaId": 9,
+        "cardId": 87,
+        "weight": 1
+      },
+      {
+        "id": 438,
+        "gachaId": 9,
+        "cardId": 88,
+        "weight": 138461
+      },
+      {
+        "id": 439,
+        "gachaId": 9,
+        "cardId": 91,
+        "weight": 1
+      },
+      {
+        "id": 440,
+        "gachaId": 9,
+        "cardId": 92,
+        "weight": 138461
+      },
+      {
+        "id": 441,
+        "gachaId": 9,
+        "cardId": 95,
+        "weight": 1
+      },
+      {
+        "id": 442,
+        "gachaId": 9,
+        "cardId": 96,
+        "weight": 138461
+      },
+      {
+        "id": 443,
+        "gachaId": 9,
+        "cardId": 99,
+        "weight": 1
+      },
+      {
+        "id": 444,
+        "gachaId": 9,
+        "cardId": 103,
+        "weight": 1
+      },
+      {
+        "id": 445,
+        "gachaId": 9,
+        "cardId": 107,
+        "weight": 1
+      },
+      {
+        "id": 446,
+        "gachaId": 9,
+        "cardId": 109,
+        "weight": 138461
+      },
+      {
+        "id": 447,
+        "gachaId": 9,
+        "cardId": 110,
+        "weight": 138461
+      },
+      {
+        "id": 448,
+        "gachaId": 9,
+        "cardId": 111,
+        "weight": 138461
+      },
+      {
+        "id": 449,
+        "gachaId": 9,
+        "cardId": 114,
+        "weight": 138461
+      },
+      {
+        "id": 450,
+        "gachaId": 9,
+        "cardId": 115,
+        "weight": 138461
+      },
+      {
+        "id": 451,
+        "gachaId": 9,
+        "cardId": 116,
+        "weight": 138461
+      },
+      {
+        "id": 452,
+        "gachaId": 9,
+        "cardId": 119,
+        "weight": 138461
+      },
+      {
+        "id": 453,
+        "gachaId": 9,
+        "cardId": 120,
+        "weight": 138461
+      },
+      {
+        "id": 454,
+        "gachaId": 9,
+        "cardId": 121,
+        "weight": 138461
+      },
+      {
+        "id": 455,
+        "gachaId": 9,
+        "cardId": 124,
+        "weight": 400000
+      },
+      {
+        "id": 456,
+        "gachaId": 9,
+        "cardId": 125,
+        "weight": 400000
+      },
+      {
+        "id": 457,
+        "gachaId": 9,
+        "cardId": 126,
+        "weight": 400000
+      }
+    ],
+    "gachaBehaviors": [
+      {
+        "id": 18,
+        "gachaId": 9,
+        "gachaBehaviorType": "once_a_day",
+        "costResourceType": "paid_jewel",
+        "costResourceQuantity": 100,
+        "spinCount": 1,
+        "spinLimit": 1
+      },
+      {
+        "id": 19,
+        "gachaId": 9,
+        "gachaBehaviorType": "normal",
+        "costResourceType": "jewel",
+        "costResourceQuantity": 300,
+        "spinCount": 1
+      },
+      {
+        "id": 20,
+        "gachaId": 9,
+        "gachaBehaviorType": "over_rarity_3_once",
+        "costResourceType": "jewel",
+        "costResourceQuantity": 3000,
+        "spinCount": 10
+      }
+    ],
+    "gachaPickups": [
+      {
+        "id": 33,
+        "gachaId": 9,
+        "cardId": 124,
+        "gachaPickupType": "normal"
+      },
+      {
+        "id": 34,
+        "gachaId": 9,
+        "cardId": 125,
+        "gachaPickupType": "normal"
+      },
+      {
+        "id": 35,
+        "gachaId": 9,
+        "cardId": 126,
+        "gachaPickupType": "normal"
+      }
+    ],
+    "gachaPickupCostumes": [],
+    "gachaInformation": {
+      "gachaId": 9,
+      "summary": "「げんきはつらつ♪応援団ガチャ」が登場！\n\n★2以上のメンバーが必ず出現するガチャです。\n「10回引く」では★3以上のメンバーが1人確定で出現します。\n初めて獲得する一部の★4メンバーには「ライブ衣装」が付きます。\nまた、「ライブ衣装」を獲得することで、他の着用可能メンバーが着用できる衣装が「衣装ショップ」で作成可能になります。\n他の着用可能キャラクターの「ライブ衣装」は一部デザインやアクセサリの有無が異なることがあります。\n内容は[メンバー]->[ライブ衣装]画面よりご確認いただけます。\n\n「げんきはつらつ♪応援団ガチャ」からメンバーを1人獲得するごとに「げんきはつらつ♪応援団ガチャシール」を1個獲得できます。\n「げんきはつらつ♪応援団ガチャシール」を300個消費して「げんきはつらつ♪応援団ガチャシール」の交換所内のメンバーと交換できます。\n",
+      "description": "・1日1回限定のガチャは有償クリスタルでのみご利用いただけます。\n・カラフルパスの有効期間中は1日1回限定ガチャが1日2回ご利用いただけます。\n・1日1回限定のガチャは毎日4時にリセットされます。\n・クリスタルは無償分から先に消費されます。\n・出現するメンバーはすべて特訓前の状態になります。\n・ガチャで出現するメンバーは重複する場合があります。\n・重複して獲得されたメンバーは自動的に控え室に送られます。\n・ガチャは提供割合に基づき1回ごとに抽選を行います。例えば提供割合1%のメンバーが100回中1回必ず出現するという仕組みではありません。\n・[10回引く]をご利用いただき抽選した結果、★3以上のメンバーが1人も出現しなかった場合は、10回目の枠を確定枠提供割合から再度抽選いたします。\n・提供割合につきましては、提供割合タブにてご確認ください。\n・新メンバーのパラメータやスキルはガチャページのメンバー詳細にてご確認ください。\n・ライブ衣装付きのメンバーは、提供割合タブにてご確認ください。\n・ガチャ実行後に強制終了、もしくは回線が切断され正常にガチャの結果画面が表示されなかった場合でも、メンバーは獲得されております。メンバー一覧、または控え室をご確認ください。\n・「げんきはつらつ♪応援団ガチャシール」は2020/12/19 14:59までの交換期間があります。交換期間をすぎると同数の「想いのカケラ」へ変換されます。\n・本ガチャで登場した新メンバーは次回以降のガチャにも出現いたしますが、提供割合については本ガチャと異なる場合があります。\n・開催スケジュールは予告なく変更する場合がございます。"
+    }
+  },
+  {
+    "id": 10,
+    "gachaType": "normal",
+    "name": "[1回限定]げんきはつらつ♪応援団ガチャ",
+    "seq": 20,
+    "assetbundleName": "ab_gacha_10",
+    "rarity1Rate": 0,
+    "rarity2Rate": 88.5,
+    "rarity3Rate": 8.5,
+    "rarity4Rate": 3,
+    "startAt": 1604901600000,
+    "endAt": 1605765599000,
+    "gachaDetails": [
+      {
+        "id": 458,
+        "gachaId": 10,
+        "cardId": 2,
+        "weight": 1
+      },
+      {
+        "id": 459,
+        "gachaId": 10,
+        "cardId": 3,
+        "weight": 1
+      },
+      {
+        "id": 460,
+        "gachaId": 10,
+        "cardId": 4,
+        "weight": 138461
+      },
+      {
+        "id": 461,
+        "gachaId": 10,
+        "cardId": 6,
+        "weight": 1
+      },
+      {
+        "id": 462,
+        "gachaId": 10,
+        "cardId": 7,
+        "weight": 1
+      },
+      {
+        "id": 463,
+        "gachaId": 10,
+        "cardId": 10,
+        "weight": 1
+      },
+      {
+        "id": 464,
+        "gachaId": 10,
+        "cardId": 11,
+        "weight": 1
+      },
+      {
+        "id": 465,
+        "gachaId": 10,
+        "cardId": 14,
+        "weight": 1
+      },
+      {
+        "id": 466,
+        "gachaId": 10,
+        "cardId": 15,
+        "weight": 1
+      },
+      {
+        "id": 467,
+        "gachaId": 10,
+        "cardId": 18,
+        "weight": 1
+      },
+      {
+        "id": 468,
+        "gachaId": 10,
+        "cardId": 19,
+        "weight": 1
+      },
+      {
+        "id": 469,
+        "gachaId": 10,
+        "cardId": 22,
+        "weight": 1
+      },
+      {
+        "id": 470,
+        "gachaId": 10,
+        "cardId": 23,
+        "weight": 1
+      },
+      {
+        "id": 471,
+        "gachaId": 10,
+        "cardId": 26,
+        "weight": 1
+      },
+      {
+        "id": 472,
+        "gachaId": 10,
+        "cardId": 27,
+        "weight": 1
+      },
+      {
+        "id": 473,
+        "gachaId": 10,
+        "cardId": 30,
+        "weight": 1
+      },
+      {
+        "id": 474,
+        "gachaId": 10,
+        "cardId": 31,
+        "weight": 1
+      },
+      {
+        "id": 475,
+        "gachaId": 10,
+        "cardId": 34,
+        "weight": 1
+      },
+      {
+        "id": 476,
+        "gachaId": 10,
+        "cardId": 35,
+        "weight": 1
+      },
+      {
+        "id": 477,
+        "gachaId": 10,
+        "cardId": 38,
+        "weight": 1
+      },
+      {
+        "id": 478,
+        "gachaId": 10,
+        "cardId": 39,
+        "weight": 1
+      },
+      {
+        "id": 479,
+        "gachaId": 10,
+        "cardId": 42,
+        "weight": 1
+      },
+      {
+        "id": 480,
+        "gachaId": 10,
+        "cardId": 43,
+        "weight": 1
+      },
+      {
+        "id": 481,
+        "gachaId": 10,
+        "cardId": 46,
+        "weight": 1
+      },
+      {
+        "id": 482,
+        "gachaId": 10,
+        "cardId": 47,
+        "weight": 1
+      },
+      {
+        "id": 483,
+        "gachaId": 10,
+        "cardId": 50,
+        "weight": 1
+      },
+      {
+        "id": 484,
+        "gachaId": 10,
+        "cardId": 51,
+        "weight": 1
+      },
+      {
+        "id": 485,
+        "gachaId": 10,
+        "cardId": 54,
+        "weight": 1
+      },
+      {
+        "id": 486,
+        "gachaId": 10,
+        "cardId": 55,
+        "weight": 1
+      },
+      {
+        "id": 487,
+        "gachaId": 10,
+        "cardId": 58,
+        "weight": 1
+      },
+      {
+        "id": 488,
+        "gachaId": 10,
+        "cardId": 59,
+        "weight": 1
+      },
+      {
+        "id": 489,
+        "gachaId": 10,
+        "cardId": 62,
+        "weight": 1
+      },
+      {
+        "id": 490,
+        "gachaId": 10,
+        "cardId": 63,
+        "weight": 1
+      },
+      {
+        "id": 491,
+        "gachaId": 10,
+        "cardId": 66,
+        "weight": 1
+      },
+      {
+        "id": 492,
+        "gachaId": 10,
+        "cardId": 67,
+        "weight": 1
+      },
+      {
+        "id": 493,
+        "gachaId": 10,
+        "cardId": 70,
+        "weight": 1
+      },
+      {
+        "id": 494,
+        "gachaId": 10,
+        "cardId": 71,
+        "weight": 1
+      },
+      {
+        "id": 495,
+        "gachaId": 10,
+        "cardId": 74,
+        "weight": 1
+      },
+      {
+        "id": 496,
+        "gachaId": 10,
+        "cardId": 75,
+        "weight": 1
+      },
+      {
+        "id": 497,
+        "gachaId": 10,
+        "cardId": 78,
+        "weight": 1
+      },
+      {
+        "id": 498,
+        "gachaId": 10,
+        "cardId": 79,
+        "weight": 1
+      },
+      {
+        "id": 499,
+        "gachaId": 10,
+        "cardId": 87,
+        "weight": 1
+      },
+      {
+        "id": 500,
+        "gachaId": 10,
+        "cardId": 88,
+        "weight": 138461
+      },
+      {
+        "id": 501,
+        "gachaId": 10,
+        "cardId": 91,
+        "weight": 1
+      },
+      {
+        "id": 502,
+        "gachaId": 10,
+        "cardId": 92,
+        "weight": 138461
+      },
+      {
+        "id": 503,
+        "gachaId": 10,
+        "cardId": 95,
+        "weight": 1
+      },
+      {
+        "id": 504,
+        "gachaId": 10,
+        "cardId": 96,
+        "weight": 138461
+      },
+      {
+        "id": 505,
+        "gachaId": 10,
+        "cardId": 99,
+        "weight": 1
+      },
+      {
+        "id": 506,
+        "gachaId": 10,
+        "cardId": 103,
+        "weight": 1
+      },
+      {
+        "id": 507,
+        "gachaId": 10,
+        "cardId": 107,
+        "weight": 1
+      },
+      {
+        "id": 508,
+        "gachaId": 10,
+        "cardId": 109,
+        "weight": 138461
+      },
+      {
+        "id": 509,
+        "gachaId": 10,
+        "cardId": 110,
+        "weight": 138461
+      },
+      {
+        "id": 510,
+        "gachaId": 10,
+        "cardId": 111,
+        "weight": 138461
+      },
+      {
+        "id": 511,
+        "gachaId": 10,
+        "cardId": 114,
+        "weight": 138461
+      },
+      {
+        "id": 512,
+        "gachaId": 10,
+        "cardId": 115,
+        "weight": 138461
+      },
+      {
+        "id": 513,
+        "gachaId": 10,
+        "cardId": 116,
+        "weight": 138461
+      },
+      {
+        "id": 514,
+        "gachaId": 10,
+        "cardId": 119,
+        "weight": 138461
+      },
+      {
+        "id": 515,
+        "gachaId": 10,
+        "cardId": 120,
+        "weight": 138461
+      },
+      {
+        "id": 516,
+        "gachaId": 10,
+        "cardId": 121,
+        "weight": 138461
+      },
+      {
+        "id": 517,
+        "gachaId": 10,
+        "cardId": 124,
+        "weight": 400000
+      },
+      {
+        "id": 518,
+        "gachaId": 10,
+        "cardId": 125,
+        "weight": 400000
+      },
+      {
+        "id": 519,
+        "gachaId": 10,
+        "cardId": 126,
+        "weight": 400000
+      }
+    ],
+    "gachaBehaviors": [
+      {
+        "id": 21,
+        "gachaId": 10,
+        "gachaBehaviorType": "over_rarity_3_once",
+        "costResourceType": "paid_jewel",
+        "costResourceQuantity": 1500,
+        "spinCount": 10,
+        "spinLimit": 1
+      }
+    ],
+    "gachaPickups": [
+      {
+        "id": 36,
+        "gachaId": 10,
+        "cardId": 124,
+        "gachaPickupType": "normal"
+      },
+      {
+        "id": 37,
+        "gachaId": 10,
+        "cardId": 125,
+        "gachaPickupType": "normal"
+      },
+      {
+        "id": 38,
+        "gachaId": 10,
+        "cardId": 126,
+        "gachaPickupType": "normal"
+      }
+    ],
+    "gachaPickupCostumes": [],
+    "gachaInformation": {
+      "gachaId": 10,
+      "summary": "「[1回限定]げんきはつらつ♪応援団ガチャ」が登場！\n\n有償クリスタル限定でお一人様1回のみ引くことができます。\n★2以上のメンバーが必ず出現するガチャです。\n「10回引く」では★3以上のメンバーが1人確定で出現します。\n初めて獲得する一部の★4メンバーには「ライブ衣装」が付きます。\nまた、「ライブ衣装」を獲得することで、他の着用可能メンバーが着用できる衣装が「衣装ショップ」で作成可能になります。\n他の着用可能キャラクターの「ライブ衣装」は一部デザインやアクセサリの有無が異なることがあります。\n内容は[メンバー]->[ライブ衣装]画面よりご確認いただけます。\n",
+      "description": "・本ガチャは有償クリスタルでのみ引くことができる1回限定のガチャです。\n・出現するメンバーはすべて特訓前の状態になります。\n・ガチャで出現するメンバーは重複する場合があります。\n・重複して獲得されたメンバーは自動的に控え室に送られます。\n・ガチャは提供割合に基づき1回ごとに抽選を行います。例えば提供割合1%のメンバーが100回中1回必ず出現するという仕組みではありません。\n・[10回引く]をご利用いただき抽選した結果、★3以上のメンバーが1人も出現しなかった場合は、10回目の枠を確定枠提供割合から再度抽選いたします。\n・提供割合につきましては、提供割合タブにてご確認ください。\n・新メンバーのパラメータやスキルはガチャページのメンバー詳細にてご確認ください。\n・ライブ衣装付きのメンバーは、提供割合タブにてご確認ください。\n・ガチャ実行後に強制終了、もしくは回線が切断され正常にガチャの結果画面が表示されなかった場合でも、メンバーは獲得されております。メンバー一覧、または控え室をご確認ください。\n・本ガチャからは「げんきはつらつ♪応援団ガチャシール」は獲得できません。\n・本ガチャで登場した新メンバーは次回以降のガチャにも出現いたしますが、提供割合については本ガチャと異なる場合があります。\n・開催スケジュールは予告なく変更する場合がございます。"
+    }
+  },
+  {
+    "id": 11,
+    "gachaType": "normal",
+    "name": "イベントメンバー出現率UPガチャ",
+    "seq": 30,
+    "assetbundleName": "ab_gacha_11",
+    "rarity1Rate": 0,
+    "rarity2Rate": 88.5,
+    "rarity3Rate": 8.5,
+    "rarity4Rate": 3,
+    "startAt": 1605247200000,
+    "endAt": 1605614399000,
+    "gachaDetails": [
+      {
+        "id": 520,
+        "gachaId": 11,
+        "cardId": 2,
+        "weight": 1
+      },
+      {
+        "id": 521,
+        "gachaId": 11,
+        "cardId": 3,
+        "weight": 1
+      },
+      {
+        "id": 522,
+        "gachaId": 11,
+        "cardId": 4,
+        "weight": 1
+      },
+      {
+        "id": 523,
+        "gachaId": 11,
+        "cardId": 6,
+        "weight": 2
+      },
+      {
+        "id": 524,
+        "gachaId": 11,
+        "cardId": 7,
+        "weight": 2
+      },
+      {
+        "id": 525,
+        "gachaId": 11,
+        "cardId": 10,
+        "weight": 1
+      },
+      {
+        "id": 526,
+        "gachaId": 11,
+        "cardId": 11,
+        "weight": 1
+      },
+      {
+        "id": 527,
+        "gachaId": 11,
+        "cardId": 14,
+        "weight": 1
+      },
+      {
+        "id": 528,
+        "gachaId": 11,
+        "cardId": 15,
+        "weight": 1
+      },
+      {
+        "id": 529,
+        "gachaId": 11,
+        "cardId": 18,
+        "weight": 1
+      },
+      {
+        "id": 530,
+        "gachaId": 11,
+        "cardId": 19,
+        "weight": 1
+      },
+      {
+        "id": 531,
+        "gachaId": 11,
+        "cardId": 22,
+        "weight": 2
+      },
+      {
+        "id": 532,
+        "gachaId": 11,
+        "cardId": 23,
+        "weight": 2
+      },
+      {
+        "id": 533,
+        "gachaId": 11,
+        "cardId": 26,
+        "weight": 1
+      },
+      {
+        "id": 534,
+        "gachaId": 11,
+        "cardId": 27,
+        "weight": 2
+      },
+      {
+        "id": 535,
+        "gachaId": 11,
+        "cardId": 30,
+        "weight": 1
+      },
+      {
+        "id": 536,
+        "gachaId": 11,
+        "cardId": 31,
+        "weight": 1
+      },
+      {
+        "id": 537,
+        "gachaId": 11,
+        "cardId": 34,
+        "weight": 1
+      },
+      {
+        "id": 538,
+        "gachaId": 11,
+        "cardId": 35,
+        "weight": 1
+      },
+      {
+        "id": 539,
+        "gachaId": 11,
+        "cardId": 38,
+        "weight": 1
+      },
+      {
+        "id": 540,
+        "gachaId": 11,
+        "cardId": 39,
+        "weight": 2
+      },
+      {
+        "id": 541,
+        "gachaId": 11,
+        "cardId": 42,
+        "weight": 1
+      },
+      {
+        "id": 542,
+        "gachaId": 11,
+        "cardId": 43,
+        "weight": 1
+      },
+      {
+        "id": 543,
+        "gachaId": 11,
+        "cardId": 46,
+        "weight": 1
+      },
+      {
+        "id": 544,
+        "gachaId": 11,
+        "cardId": 47,
+        "weight": 1
+      },
+      {
+        "id": 545,
+        "gachaId": 11,
+        "cardId": 50,
+        "weight": 1
+      },
+      {
+        "id": 546,
+        "gachaId": 11,
+        "cardId": 51,
+        "weight": 1
+      },
+      {
+        "id": 547,
+        "gachaId": 11,
+        "cardId": 54,
+        "weight": 2
+      },
+      {
+        "id": 548,
+        "gachaId": 11,
+        "cardId": 55,
+        "weight": 2
+      },
+      {
+        "id": 549,
+        "gachaId": 11,
+        "cardId": 58,
+        "weight": 1
+      },
+      {
+        "id": 550,
+        "gachaId": 11,
+        "cardId": 59,
+        "weight": 2
+      },
+      {
+        "id": 551,
+        "gachaId": 11,
+        "cardId": 62,
+        "weight": 2
+      },
+      {
+        "id": 552,
+        "gachaId": 11,
+        "cardId": 63,
+        "weight": 1
+      },
+      {
+        "id": 553,
+        "gachaId": 11,
+        "cardId": 66,
+        "weight": 1
+      },
+      {
+        "id": 554,
+        "gachaId": 11,
+        "cardId": 67,
+        "weight": 1
+      },
+      {
+        "id": 555,
+        "gachaId": 11,
+        "cardId": 70,
+        "weight": 2
+      },
+      {
+        "id": 556,
+        "gachaId": 11,
+        "cardId": 71,
+        "weight": 2
+      },
+      {
+        "id": 557,
+        "gachaId": 11,
+        "cardId": 74,
+        "weight": 1
+      },
+      {
+        "id": 558,
+        "gachaId": 11,
+        "cardId": 75,
+        "weight": 1
+      },
+      {
+        "id": 559,
+        "gachaId": 11,
+        "cardId": 78,
+        "weight": 1
+      },
+      {
+        "id": 560,
+        "gachaId": 11,
+        "cardId": 79,
+        "weight": 1
+      },
+      {
+        "id": 561,
+        "gachaId": 11,
+        "cardId": 87,
+        "weight": 2
+      },
+      {
+        "id": 562,
+        "gachaId": 11,
+        "cardId": 88,
+        "weight": 1
+      },
+      {
+        "id": 563,
+        "gachaId": 11,
+        "cardId": 91,
+        "weight": 1
+      },
+      {
+        "id": 564,
+        "gachaId": 11,
+        "cardId": 92,
+        "weight": 2
+      },
+      {
+        "id": 565,
+        "gachaId": 11,
+        "cardId": 95,
+        "weight": 1
+      },
+      {
+        "id": 566,
+        "gachaId": 11,
+        "cardId": 96,
+        "weight": 1
+      },
+      {
+        "id": 567,
+        "gachaId": 11,
+        "cardId": 99,
+        "weight": 2
+      },
+      {
+        "id": 568,
+        "gachaId": 11,
+        "cardId": 103,
+        "weight": 1
+      },
+      {
+        "id": 569,
+        "gachaId": 11,
+        "cardId": 107,
+        "weight": 1
+      },
+      {
+        "id": 570,
+        "gachaId": 11,
+        "cardId": 109,
+        "weight": 2
+      },
+      {
+        "id": 571,
+        "gachaId": 11,
+        "cardId": 110,
+        "weight": 1
+      },
+      {
+        "id": 572,
+        "gachaId": 11,
+        "cardId": 111,
+        "weight": 1
+      },
+      {
+        "id": 573,
+        "gachaId": 11,
+        "cardId": 114,
+        "weight": 2
+      },
+      {
+        "id": 574,
+        "gachaId": 11,
+        "cardId": 115,
+        "weight": 1
+      },
+      {
+        "id": 575,
+        "gachaId": 11,
+        "cardId": 116,
+        "weight": 1
+      },
+      {
+        "id": 576,
+        "gachaId": 11,
+        "cardId": 119,
+        "weight": 1
+      },
+      {
+        "id": 577,
+        "gachaId": 11,
+        "cardId": 120,
+        "weight": 1
+      },
+      {
+        "id": 578,
+        "gachaId": 11,
+        "cardId": 121,
+        "weight": 1
+      },
+      {
+        "id": 579,
+        "gachaId": 11,
+        "cardId": 124,
+        "weight": 2
+      },
+      {
+        "id": 580,
+        "gachaId": 11,
+        "cardId": 125,
+        "weight": 2
+      },
+      {
+        "id": 581,
+        "gachaId": 11,
+        "cardId": 126,
+        "weight": 2
+      }
+    ],
+    "gachaBehaviors": [
+      {
+        "id": 22,
+        "gachaId": 11,
+        "gachaBehaviorType": "normal",
+        "costResourceType": "jewel",
+        "costResourceQuantity": 300,
+        "spinCount": 1
+      },
+      {
+        "id": 23,
+        "gachaId": 11,
+        "gachaBehaviorType": "over_rarity_3_once",
+        "costResourceType": "jewel",
+        "costResourceQuantity": 3000,
+        "spinCount": 10
+      }
+    ],
+    "gachaPickups": [
+      {
+        "id": 39,
+        "gachaId": 11,
+        "cardId": 124,
+        "gachaPickupType": "normal"
+      },
+      {
+        "id": 40,
+        "gachaId": 11,
+        "cardId": 125,
+        "gachaPickupType": "normal"
+      },
+      {
+        "id": 41,
+        "gachaId": 11,
+        "cardId": 126,
+        "gachaPickupType": "normal"
+      },
+      {
+        "id": 42,
+        "gachaId": 11,
+        "cardId": 71,
+        "gachaPickupType": "normal"
+      },
+      {
+        "id": 43,
+        "gachaId": 11,
+        "cardId": 7,
+        "gachaPickupType": "normal"
+      }
+    ],
+    "gachaPickupCostumes": [],
+    "gachaInformation": {
+      "gachaId": 11,
+      "summary": "「イベントメンバー出現率UPガチャ」が登場！\nイベント「走れ！体育祭！～実行委員は大忙し～」のボーナスキャラクターとボーナスタイプのメンバーは、同レアリティ内の他のメンバーよりも出現率が高くなっています。\n\n★2以上のメンバーが必ず出現するガチャです。\n「10回引く」では★3以上のメンバーが1人確定で出現します。\n初めて獲得する一部の★4メンバーには「ライブ衣装」が付きます。\nまた、「ライブ衣装」を獲得することで、他の着用可能メンバーが着用できる衣装が「衣装ショップ」で作成可能になります。\n他の着用可能キャラクターの「ライブ衣装」は一部デザインやアクセサリの有無が異なることがあります。\n内容は[メンバー]->[ライブ衣装]画面よりご確認いただけます。\n",
+      "description": "・クリスタルは無償分から先に消費されます。\n・出現するメンバーはすべて特訓前の状態になります。\n・ガチャで出現するメンバーは重複する場合があります。\n・重複して獲得されたメンバーは自動的に控え室に送られます。\n・ガチャは提供割合に基づき1回ごとに抽選を行います。例えば提供割合1%のメンバーが100回中1回必ず出現するという仕組みではありません。\n・[10回引く]をご利用いただき抽選した結果、★3以上のメンバーが1人も出現しなかった場合は、10回目の枠を確定枠提供割合から再度抽選いたします。\n・提供割合につきましては、提供割合タブにてご確認ください。\n・新メンバーのパラメータやスキルはガチャページのメンバー詳細にてご確認ください。\n・ライブ衣装付きのメンバーは、提供割合タブにてご確認ください。\n・ガチャ実行後に強制終了、もしくは回線が切断され正常にガチャの結果画面が表示されなかった場合でも、メンバーは獲得されております。メンバー一覧、または控え室をご確認ください。\n・本ガチャからは「げんきはつらつ♪応援団ガチャシール」は獲得できません。\n・開催スケジュールは予告なく変更する場合がございます。"
     }
   }
 ]

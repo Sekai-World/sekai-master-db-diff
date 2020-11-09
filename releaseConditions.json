@@ -1847,6 +1847,41 @@
     "releaseConditionTypeLevel": 30
   },
   {
+    "id": 30124,
+    "sentence": "前編を解放した状態でレベルが60必要です。",
+    "releaseConditionType": "card_level",
+    "releaseConditionTypeId": 124,
+    "releaseConditionTypeLevel": 60
+  },
+  {
+    "id": 30125,
+    "sentence": "前編を解放した状態でレベルが60必要です。",
+    "releaseConditionType": "card_level",
+    "releaseConditionTypeId": 125,
+    "releaseConditionTypeLevel": 60
+  },
+  {
+    "id": 30126,
+    "sentence": "前編を解放した状態でレベルが60必要です。",
+    "releaseConditionType": "card_level",
+    "releaseConditionTypeId": 126,
+    "releaseConditionTypeLevel": 60
+  },
+  {
+    "id": 30127,
+    "sentence": "前編を解放した状態でレベルが50必要です。",
+    "releaseConditionType": "card_level",
+    "releaseConditionTypeId": 127,
+    "releaseConditionTypeLevel": 50
+  },
+  {
+    "id": 30128,
+    "sentence": "前編を解放した状態でレベルが30必要です。",
+    "releaseConditionType": "card_level",
+    "releaseConditionTypeId": 128,
+    "releaseConditionTypeLevel": 30
+  },
+  {
     "id": 40001,
     "sentence": "GOOD以下を7以内でEXPERTクリア",
     "releaseConditionType": "music_difficulty_better_play",
@@ -5065,6 +5100,62 @@
     "releaseConditionTypeLevel": 5
   },
   {
+    "id": 60110,
+    "sentence": "「[激走！アンカー☆] 鳳 えむ」を入手",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 124,
+    "releaseConditionTypeLevel": 0
+  },
+  {
+    "id": 60111,
+    "sentence": "「[激走！アンカー☆] 鳳 えむ」のマスターランク1で開放",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 124,
+    "releaseConditionTypeLevel": 1
+  },
+  {
+    "id": 60112,
+    "sentence": "「[激走！アンカー☆] 鳳 えむ」のマスターランク3で開放",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 124,
+    "releaseConditionTypeLevel": 3
+  },
+  {
+    "id": 60113,
+    "sentence": "「[激走！アンカー☆] 鳳 えむ」のマスターランク5で開放",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 124,
+    "releaseConditionTypeLevel": 5
+  },
+  {
+    "id": 60120,
+    "sentence": "「[いっぱいの祝福] 桐谷 遥」を入手",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 125,
+    "releaseConditionTypeLevel": 0
+  },
+  {
+    "id": 60121,
+    "sentence": "「[いっぱいの祝福] 桐谷 遥」のマスターランク1で開放",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 125,
+    "releaseConditionTypeLevel": 1
+  },
+  {
+    "id": 60122,
+    "sentence": "「[いっぱいの祝福] 桐谷 遥」のマスターランク3で開放",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 125,
+    "releaseConditionTypeLevel": 3
+  },
+  {
+    "id": 60123,
+    "sentence": "「[いっぱいの祝福] 桐谷 遥」のマスターランク5で開放",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 125,
+    "releaseConditionTypeLevel": 5
+  },
+  {
     "id": 70001,
     "sentence": "｢星乃一歌｣のキャラクターランク1でユニット編成数UP",
     "releaseConditionType": "character_rank",
@@ -5955,6 +6046,61 @@
     "sentence": "「全力！ワンダーハロウィン！」の エンディングを読む",
     "releaseConditionType": "event_story",
     "releaseConditionTypeId": 1000024
+  },
+  {
+    "id": 100301,
+    "sentence": "イベントPが6000に到達する",
+    "releaseConditionType": "event_point",
+    "releaseConditionTypeId": 4,
+    "releaseConditionTypeQuantity": 6000
+  },
+  {
+    "id": 100302,
+    "sentence": "イベントPが13000に到達する",
+    "releaseConditionType": "event_point",
+    "releaseConditionTypeId": 4,
+    "releaseConditionTypeQuantity": 13000
+  },
+  {
+    "id": 100303,
+    "sentence": "イベントPが30000に到達する",
+    "releaseConditionType": "event_point",
+    "releaseConditionTypeId": 4,
+    "releaseConditionTypeQuantity": 30000
+  },
+  {
+    "id": 100304,
+    "sentence": "イベントPが60000に到達する",
+    "releaseConditionType": "event_point",
+    "releaseConditionTypeId": 4,
+    "releaseConditionTypeQuantity": 60000
+  },
+  {
+    "id": 100305,
+    "sentence": "イベントPが90000に到達する",
+    "releaseConditionType": "event_point",
+    "releaseConditionTypeId": 4,
+    "releaseConditionTypeQuantity": 90000
+  },
+  {
+    "id": 100306,
+    "sentence": "イベントPが120000に到達する",
+    "releaseConditionType": "event_point",
+    "releaseConditionTypeId": 4,
+    "releaseConditionTypeQuantity": 120000
+  },
+  {
+    "id": 100307,
+    "sentence": "イベントPが150000に到達する",
+    "releaseConditionType": "event_point",
+    "releaseConditionTypeId": 4,
+    "releaseConditionTypeQuantity": 150000
+  },
+  {
+    "id": 100308,
+    "sentence": "「走れ！体育祭！～実行委員は大忙し～」の エンディングを読む",
+    "releaseConditionType": "event_story",
+    "releaseConditionTypeId": 1000032
   },
   {
     "id": 800001,

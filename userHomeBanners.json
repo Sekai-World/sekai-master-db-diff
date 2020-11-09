@@ -1,33 +1,23 @@
 [
   {
-    "homeBannerId": 13,
+    "homeBannerId": 15,
     "seq": 99,
-    "name": "ニーゴイベント",
-    "assetbundleName": "event_jackpod_2020",
+    "name": "ワンダショイベント",
+    "assetbundleName": "event_potato_2020",
     "transitionDestinationType": "event",
-    "transitionDestinationId": 2,
-    "startAt": 1603173600000,
-    "endAt": 1604123999000
+    "transitionDestinationId": 3,
+    "startAt": 1604124000000,
+    "endAt": 1604901599000
   },
   {
-    "homeBannerId": 14,
+    "homeBannerId": 16,
     "seq": 100,
-    "name": "ニーゴイベガチャ",
-    "assetbundleName": "banner_gacha5",
+    "name": "ワンダショイベガチャ",
+    "assetbundleName": "banner_gacha6",
     "transitionDestinationType": "gacha",
-    "transitionDestinationId": 5,
-    "startAt": 1603173600000,
-    "endAt": 1604123999000
-  },
-  {
-    "homeBannerId": 17,
-    "seq": 135,
-    "name": "お得なセット",
-    "assetbundleName": "banner_beta_shopsetappeal",
-    "transitionDestinationType": "information",
-    "transitionDestinationId": 10,
-    "startAt": 1596261600000,
-    "endAt": 1604156399000
+    "transitionDestinationId": 6,
+    "startAt": 1604124000000,
+    "endAt": 1604901599000
   },
   {
     "homeBannerId": 18,
@@ -40,23 +30,13 @@
     "endAt": 4102412399000
   },
   {
-    "homeBannerId": 22,
-    "seq": 120,
-    "name": "公式Twitterフォローキャンペーン",
-    "assetbundleName": "banner_cp3",
+    "homeBannerId": 32,
+    "seq": 200,
+    "name": "プレミアムミッションパス",
+    "assetbundleName": "banner_premiummissionpass_2020_11",
     "transitionDestinationType": "information",
-    "transitionDestinationId": 76,
-    "startAt": 1603638000000,
-    "endAt": 1604044799000
-  },
-  {
-    "homeBannerId": 27,
-    "seq": 110,
-    "name": "ハロウィン2020ライブ",
-    "assetbundleName": "banner_virtuallive12",
-    "transitionDestinationType": "virtual_live",
-    "transitionDestinationId": 12,
-    "startAt": 1603951200000,
-    "endAt": 1604296799000
+    "transitionDestinationId": 92,
+    "startAt": 1604156400000,
+    "endAt": 1606748399000
   }
 ]

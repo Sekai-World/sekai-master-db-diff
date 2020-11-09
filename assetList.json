@@ -1,5 +1,5 @@
 {
-  "version": "1.1.0.10",
+  "version": "1.1.0.20",
   "os": "ios",
   "bundles": {
     "live_pv/model/penlight/0071": {
@@ -716,14 +716,14 @@
       "bundleName": "live2d/model/06haruka_unit",
       "cacheFileName": "dd861cb27e9f9f4eb568cc8b28366796",
       "cacheDirectoryName": "9efc",
-      "hash": "2062897ecdefe688f80ad5c366fd1d6d",
+      "hash": "25a9977b464aaf51aefcf7583894eaf1",
       "category": "StartApp",
-      "crc": 577999462,
-      "fileSize": 1269387,
+      "crc": 1354033576,
+      "fileSize": 1272474,
       "dependencies": [],
       "paths": [
         "StartApp/live2d/model/06haruka_unit",
-        "StartApp/live2d/model/06haruka_unit/06haruka_unit_3.0_f_t01.2048"
+        "StartApp/live2d/model/06haruka_unit/06haruka_unit_3.0_f_t02.2048"
       ],
       "isBuiltin": false
     },
@@ -1435,6 +1435,20 @@
       ],
       "isBuiltin": false
     },
+    "live_pv/model/character/color_variation/body/99/0048/ladies_s/01": {
+      "bundleName": "live_pv/model/character/color_variation/body/99/0048/ladies_s/01",
+      "cacheFileName": "bc2f7f55ef9e4a323229a09e2bca0eaa",
+      "cacheDirectoryName": "3ada",
+      "hash": "24410cf55abb2011adc1da2c4e7b05b7",
+      "category": "OnDemand",
+      "crc": 3274587723,
+      "fileSize": 110972,
+      "dependencies": [],
+      "paths": [
+        "OnDemand/live_pv/model/character/color_variation/body/99/0048/ladies_s/01"
+      ],
+      "isBuiltin": false
+    },
     "scenario/background/bg_a000016": {
       "bundleName": "scenario/background/bg_a000016",
       "cacheFileName": "932272a15d4b99f74b18d11a2cbd59f1",
@@ -1463,6 +1477,20 @@
       ],
       "isBuiltin": false
     },
+    "live_pv/model/character/color_variation/body/99/0048/ladies_s/02": {
+      "bundleName": "live_pv/model/character/color_variation/body/99/0048/ladies_s/02",
+      "cacheFileName": "178f1a7e4a7e2456301ae594240bbc40",
+      "cacheDirectoryName": "3ada",
+      "hash": "ec11cd8b2839c85c7f2c8a29e4fcc416",
+      "category": "OnDemand",
+      "crc": 842390632,
+      "fileSize": 111698,
+      "dependencies": [],
+      "paths": [
+        "OnDemand/live_pv/model/character/color_variation/body/99/0048/ladies_s/02"
+      ],
+      "isBuiltin": false
+    },
     "scenario/background/bg_a000015": {
       "bundleName": "scenario/background/bg_a000015",
       "cacheFileName": "e2e5b3bb410ce11bab5cf1cd3d20ba0a",
@@ -1474,6 +1502,20 @@
       "dependencies": [],
       "paths": [
         "OnDemand/scenario/background/bg_a000015"
+      ],
+      "isBuiltin": false
+    },
+    "live_pv/model/character/color_variation/body/99/0048/ladies_s/03": {
+      "bundleName": "live_pv/model/character/color_variation/body/99/0048/ladies_s/03",
+      "cacheFileName": "c2a15057ea63f67679b24fbef322b0d6",
+      "cacheDirectoryName": "3ada",
+      "hash": "dcc4c0cdde3f57d2c5ad7c2130b34fb0",
+      "category": "OnDemand",
+      "crc": 3803010774,
+      "fileSize": 110699,
+      "dependencies": [],
+      "paths": [
+        "OnDemand/live_pv/model/character/color_variation/body/99/0048/ladies_s/03"
       ],
       "isBuiltin": false
     },
@@ -1800,6 +1842,34 @@
         "OnDemand/model3d/model/stage_object/keyboard01",
         "OnDemand/model3d/model/stage_object/keyboard01/fbx",
         "OnDemand/model3d/model/stage_object/keyboard01/sourceimage"
+      ],
+      "isBuiltin": false
+    },
+    "scenario/background/bg_a000029": {
+      "bundleName": "scenario/background/bg_a000029",
+      "cacheFileName": "fcc915512db259b9825f0624154ee855",
+      "cacheDirectoryName": "9254",
+      "hash": "46abe3d22ffd8f50b2672a0fe50578b0",
+      "category": "OnDemand",
+      "crc": 2183910133,
+      "fileSize": 1035104,
+      "dependencies": [],
+      "paths": [
+        "OnDemand/scenario/background/bg_a000029"
+      ],
+      "isBuiltin": false
+    },
+    "scenario/background/bg_a000028": {
+      "bundleName": "scenario/background/bg_a000028",
+      "cacheFileName": "96d78623031626572af83ed0dee2f287",
+      "cacheDirectoryName": "9254",
+      "hash": "8775de6b312f31028e6c357ac77c000e",
+      "category": "OnDemand",
+      "crc": 1642518108,
+      "fileSize": 898936,
+      "dependencies": [],
+      "paths": [
+        "OnDemand/scenario/background/bg_a000028"
       ],
       "isBuiltin": false
     },
@@ -2372,6 +2442,20 @@
       "dependencies": [],
       "paths": [
         "OnDemand/sound/scenario/voice/self_shiho"
+      ],
+      "isBuiltin": false
+    },
+    "scenario/background/bg_a000030": {
+      "bundleName": "scenario/background/bg_a000030",
+      "cacheFileName": "ad1e77e87ebdb574448fac752c0e4a32",
+      "cacheDirectoryName": "9254",
+      "hash": "9f140814806c04ee45301ee53f4dc540",
+      "category": "OnDemand",
+      "crc": 1248206225,
+      "fileSize": 1060066,
+      "dependencies": [],
+      "paths": [
+        "OnDemand/scenario/background/bg_a000030"
       ],
       "isBuiltin": false
     },
@@ -3504,6 +3588,34 @@
       ],
       "isBuiltin": false
     },
+    "scenario/background/bg_a000904": {
+      "bundleName": "scenario/background/bg_a000904",
+      "cacheFileName": "28647a86be7d51445ee6d989fbda8114",
+      "cacheDirectoryName": "9254",
+      "hash": "88b607291398f338cf7f1c0e3acd7fb5",
+      "category": "OnDemand",
+      "crc": 3409459160,
+      "fileSize": 1027241,
+      "dependencies": [],
+      "paths": [
+        "OnDemand/scenario/background/bg_a000904"
+      ],
+      "isBuiltin": false
+    },
+    "scenario/background/bg_a000902": {
+      "bundleName": "scenario/background/bg_a000902",
+      "cacheFileName": "717cf25482c1bdf094c721d97c43b3da",
+      "cacheDirectoryName": "9254",
+      "hash": "a8bb70f0437f198785607d7adaac701b",
+      "category": "OnDemand",
+      "crc": 1499315706,
+      "fileSize": 1033370,
+      "dependencies": [],
+      "paths": [
+        "OnDemand/scenario/background/bg_a000902"
+      ],
+      "isBuiltin": false
+    },
     "sound/card_scenario/voice/016001_rui01": {
       "bundleName": "sound/card_scenario/voice/016001_rui01",
       "cacheFileName": "48f41aa8f17a5778640745d229df386b",
@@ -3515,6 +3627,20 @@
       "dependencies": [],
       "paths": [
         "OnDemand/sound/card_scenario/voice/016001_rui01"
+      ],
+      "isBuiltin": false
+    },
+    "scenario/background/bg_a000901": {
+      "bundleName": "scenario/background/bg_a000901",
+      "cacheFileName": "c657b268df6802a8468d6ec638560ea0",
+      "cacheDirectoryName": "9254",
+      "hash": "6c9ea7c780d0a2fedb8740b6429a19ff",
+      "category": "OnDemand",
+      "crc": 1952893459,
+      "fileSize": 1028710,
+      "dependencies": [],
+      "paths": [
+        "OnDemand/scenario/background/bg_a000901"
       ],
       "isBuiltin": false
     },
@@ -5482,6 +5608,34 @@
       ],
       "isBuiltin": false
     },
+    "sound/card_scenario/voice/021010_miku02": {
+      "bundleName": "sound/card_scenario/voice/021010_miku02",
+      "cacheFileName": "133296e8b5916a28a008527d4000d9da",
+      "cacheDirectoryName": "e0f0",
+      "hash": "fd83206910a2b3cf2d88fc8322ea5eb6",
+      "category": "OnDemand",
+      "crc": 2957287098,
+      "fileSize": 679167,
+      "dependencies": [],
+      "paths": [
+        "OnDemand/sound/card_scenario/voice/021010_miku02"
+      ],
+      "isBuiltin": false
+    },
+    "sound/card_scenario/voice/021010_miku01": {
+      "bundleName": "sound/card_scenario/voice/021010_miku01",
+      "cacheFileName": "a5507bf8599aa2ad63884cdadf158ad1",
+      "cacheDirectoryName": "e0f0",
+      "hash": "a4ede604e0ed2667e72588bc1abc6901",
+      "category": "OnDemand",
+      "crc": 2162750059,
+      "fileSize": 427739,
+      "dependencies": [],
+      "paths": [
+        "OnDemand/sound/card_scenario/voice/021010_miku01"
+      ],
+      "isBuiltin": false
+    },
     "live_pv/model/character/color_variation/body/99/0001/ladies_m/03": {
       "bundleName": "live_pv/model/character/color_variation/body/99/0001/ladies_m/03",
       "cacheFileName": "3d9351d18601ae46b39ea76400c13c0d",
@@ -6718,6 +6872,34 @@
       ],
       "isBuiltin": false
     },
+    "honor/honor_0305": {
+      "bundleName": "honor/honor_0305",
+      "cacheFileName": "00053fd2c65d774c24872df2e4df0f2d",
+      "cacheDirectoryName": "b2f3",
+      "hash": "af58a71e1caeca66e00a00748c5cff54",
+      "category": "StartApp",
+      "crc": 4005966690,
+      "fileSize": 21760,
+      "dependencies": [],
+      "paths": [
+        "StartApp/honor/honor_0305"
+      ],
+      "isBuiltin": false
+    },
+    "honor/honor_0306": {
+      "bundleName": "honor/honor_0306",
+      "cacheFileName": "4995165f2491d3f8e4ba6cdc520853c7",
+      "cacheDirectoryName": "b2f3",
+      "hash": "6f59f172e43971d2d9a49d4cccc99894",
+      "category": "StartApp",
+      "crc": 1920732843,
+      "fileSize": 22120,
+      "dependencies": [],
+      "paths": [
+        "StartApp/honor/honor_0306"
+      ],
+      "isBuiltin": false
+    },
     "honor/honor_0303": {
       "bundleName": "honor/honor_0303",
       "cacheFileName": "01a0a999421647f3b60a0681fba67d4c",
@@ -6774,6 +6956,20 @@
       ],
       "isBuiltin": false
     },
+    "honor/honor_0309": {
+      "bundleName": "honor/honor_0309",
+      "cacheFileName": "deb01ae962a5636f41c18518d49fd8ab",
+      "cacheDirectoryName": "b2f3",
+      "hash": "afd4d2369a9c8633efc8cebf0eac8eb1",
+      "category": "StartApp",
+      "crc": 3160287055,
+      "fileSize": 21743,
+      "dependencies": [],
+      "paths": [
+        "StartApp/honor/honor_0309"
+      ],
+      "isBuiltin": false
+    },
     "virtual_live/performer/motion/m_normal_greeting_03": {
       "bundleName": "virtual_live/performer/motion/m_normal_greeting_03",
       "cacheFileName": "e7af72930b7c66ad5d9c79af351b68e1",
@@ -6785,6 +6981,34 @@
       "dependencies": [],
       "paths": [
         "OnDemand/virtual_live/performer/motion/m_normal_greeting_03"
+      ],
+      "isBuiltin": false
+    },
+    "honor/honor_0307": {
+      "bundleName": "honor/honor_0307",
+      "cacheFileName": "78ea31e5887f51e6842100c1723a59c3",
+      "cacheDirectoryName": "b2f3",
+      "hash": "8fb723ed97c63fd3f1e204fe5fdb7ca7",
+      "category": "StartApp",
+      "crc": 2365517573,
+      "fileSize": 22230,
+      "dependencies": [],
+      "paths": [
+        "StartApp/honor/honor_0307"
+      ],
+      "isBuiltin": false
+    },
+    "honor/honor_0308": {
+      "bundleName": "honor/honor_0308",
+      "cacheFileName": "ff704bf2bc52871a478e254fbd256b77",
+      "cacheDirectoryName": "b2f3",
+      "hash": "7c4c5b0a61e7e02db926736d7b7db29e",
+      "category": "StartApp",
+      "crc": 31199895,
+      "fileSize": 21607,
+      "dependencies": [],
+      "paths": [
+        "StartApp/honor/honor_0308"
       ],
       "isBuiltin": false
     },
@@ -6816,6 +7040,48 @@
       ],
       "isBuiltin": false
     },
+    "honor/honor_0312": {
+      "bundleName": "honor/honor_0312",
+      "cacheFileName": "e466b6c450a8f10df4cfc6133eb252bf",
+      "cacheDirectoryName": "b2f3",
+      "hash": "47a8267a9fd85400fb68fe29a64f8dda",
+      "category": "StartApp",
+      "crc": 162985078,
+      "fileSize": 21794,
+      "dependencies": [],
+      "paths": [
+        "StartApp/honor/honor_0312"
+      ],
+      "isBuiltin": false
+    },
+    "honor/honor_0313": {
+      "bundleName": "honor/honor_0313",
+      "cacheFileName": "8041cc407becbcca58925d56e5e4adbb",
+      "cacheDirectoryName": "b2f3",
+      "hash": "a7b99d368a9f9ab58bbc6b86252a00ba",
+      "category": "StartApp",
+      "crc": 1929091061,
+      "fileSize": 21244,
+      "dependencies": [],
+      "paths": [
+        "StartApp/honor/honor_0313"
+      ],
+      "isBuiltin": false
+    },
+    "honor/honor_0310": {
+      "bundleName": "honor/honor_0310",
+      "cacheFileName": "0a486536d0c42cd54dd223c480f7fab6",
+      "cacheDirectoryName": "b2f3",
+      "hash": "ea3892fa31a3041385aaf384517d1935",
+      "category": "StartApp",
+      "crc": 3154889517,
+      "fileSize": 21898,
+      "dependencies": [],
+      "paths": [
+        "StartApp/honor/honor_0310"
+      ],
+      "isBuiltin": false
+    },
     "live/voice/cutin/system_bondscp_001_003_second_1": {
       "bundleName": "live/voice/cutin/system_bondscp_001_003_second_1",
       "cacheFileName": "4ce521bd785cb1abdd685c7aaa4b58c3",
@@ -6841,6 +7107,20 @@
       "dependencies": [],
       "paths": [
         "StartApp/sound/gacha/get_voice/res004_no005"
+      ],
+      "isBuiltin": false
+    },
+    "honor/honor_0311": {
+      "bundleName": "honor/honor_0311",
+      "cacheFileName": "b12503426d07dcdf1f92f64cc3a3f645",
+      "cacheDirectoryName": "b2f3",
+      "hash": "19613c378b009ee84c0392abd869610d",
+      "category": "StartApp",
+      "crc": 1953174578,
+      "fileSize": 21651,
+      "dependencies": [],
+      "paths": [
+        "StartApp/honor/honor_0311"
       ],
       "isBuiltin": false
     },
@@ -6873,6 +7153,62 @@
       ],
       "isBuiltin": false
     },
+    "honor/honor_0316": {
+      "bundleName": "honor/honor_0316",
+      "cacheFileName": "9f697e3ca401d10f4f7355180ae79288",
+      "cacheDirectoryName": "b2f3",
+      "hash": "36c9a5b73829672f3d6ee80335ede6ea",
+      "category": "StartApp",
+      "crc": 4153738972,
+      "fileSize": 21494,
+      "dependencies": [],
+      "paths": [
+        "StartApp/honor/honor_0316"
+      ],
+      "isBuiltin": false
+    },
+    "honor/honor_0317": {
+      "bundleName": "honor/honor_0317",
+      "cacheFileName": "a064ab1379870c157cbe7e01032b9511",
+      "cacheDirectoryName": "b2f3",
+      "hash": "39d54bf1f68920849a51d9d0b6a75baf",
+      "category": "StartApp",
+      "crc": 1770083261,
+      "fileSize": 21560,
+      "dependencies": [],
+      "paths": [
+        "StartApp/honor/honor_0317"
+      ],
+      "isBuiltin": false
+    },
+    "honor/honor_0314": {
+      "bundleName": "honor/honor_0314",
+      "cacheFileName": "49e21490d0732db8b7803e1d9f26d829",
+      "cacheDirectoryName": "b2f3",
+      "hash": "439c207793d703a305f55a74f3b46531",
+      "category": "StartApp",
+      "crc": 287520951,
+      "fileSize": 21495,
+      "dependencies": [],
+      "paths": [
+        "StartApp/honor/honor_0314"
+      ],
+      "isBuiltin": false
+    },
+    "honor/honor_0315": {
+      "bundleName": "honor/honor_0315",
+      "cacheFileName": "4d3dbb9fd65b61404a73640406568bc7",
+      "cacheDirectoryName": "b2f3",
+      "hash": "e2d91fce6dcdb7f4cf05e43f37e6c7a6",
+      "category": "StartApp",
+      "crc": 627122634,
+      "fileSize": 21578,
+      "dependencies": [],
+      "paths": [
+        "StartApp/honor/honor_0315"
+      ],
+      "isBuiltin": false
+    },
     "home/banner/content_banner_pjsekai_twitter": {
       "bundleName": "home/banner/content_banner_pjsekai_twitter",
       "cacheFileName": "65a1fa435fb4f840ec4577c9c6950dad",
@@ -6887,6 +7223,62 @@
       ],
       "isBuiltin": false
     },
+    "honor/honor_0318": {
+      "bundleName": "honor/honor_0318",
+      "cacheFileName": "937c95f8372d48111a798ba90cc52eea",
+      "cacheDirectoryName": "b2f3",
+      "hash": "b305f291160782dc9841f996e77ff38b",
+      "category": "StartApp",
+      "crc": 529703747,
+      "fileSize": 21940,
+      "dependencies": [],
+      "paths": [
+        "StartApp/honor/honor_0318"
+      ],
+      "isBuiltin": false
+    },
+    "honor/honor_0319": {
+      "bundleName": "honor/honor_0319",
+      "cacheFileName": "06bafadf92cb7b6afdd1f021662bbfdc",
+      "cacheDirectoryName": "b2f3",
+      "hash": "a18368617689e65730234a62241e9b9d",
+      "category": "StartApp",
+      "crc": 1584684318,
+      "fileSize": 21590,
+      "dependencies": [],
+      "paths": [
+        "StartApp/honor/honor_0319"
+      ],
+      "isBuiltin": false
+    },
+    "honor/honor_0320": {
+      "bundleName": "honor/honor_0320",
+      "cacheFileName": "b99316b8e24b5255ebe48ef3d47fa68e",
+      "cacheDirectoryName": "b2f3",
+      "hash": "3aaf0c71f83056882967982a22690944",
+      "category": "StartApp",
+      "crc": 1713574047,
+      "fileSize": 21676,
+      "dependencies": [],
+      "paths": [
+        "StartApp/honor/honor_0320"
+      ],
+      "isBuiltin": false
+    },
+    "honor/honor_0323": {
+      "bundleName": "honor/honor_0323",
+      "cacheFileName": "be72e1b4f38ce79288b7136889aa63cb",
+      "cacheDirectoryName": "b2f3",
+      "hash": "08479ab89346ef6c8f55255f3918f941",
+      "category": "StartApp",
+      "crc": 4287837686,
+      "fileSize": 21878,
+      "dependencies": [],
+      "paths": [
+        "StartApp/honor/honor_0323"
+      ],
+      "isBuiltin": false
+    },
     "event/event_potato_2020/icon": {
       "bundleName": "event/event_potato_2020/icon",
       "cacheFileName": "ecba34301b46a7fdb9e126c3621911d1",
@@ -6898,6 +7290,48 @@
       "dependencies": [],
       "paths": [
         "OnDemand/event/event_potato_2020/icon"
+      ],
+      "isBuiltin": false
+    },
+    "honor/honor_0324": {
+      "bundleName": "honor/honor_0324",
+      "cacheFileName": "24dec8c6649f81354cb63a8e9ca1edbe",
+      "cacheDirectoryName": "b2f3",
+      "hash": "5e4dfdd7539e9d3e162dd8873d058081",
+      "category": "StartApp",
+      "crc": 3000328261,
+      "fileSize": 21194,
+      "dependencies": [],
+      "paths": [
+        "StartApp/honor/honor_0324"
+      ],
+      "isBuiltin": false
+    },
+    "honor/honor_0321": {
+      "bundleName": "honor/honor_0321",
+      "cacheFileName": "3648ac86a4eb5a20a3a928c07b0a4f49",
+      "cacheDirectoryName": "b2f3",
+      "hash": "52bb6b8b20124c88435a1a52cb91c526",
+      "category": "StartApp",
+      "crc": 2089086984,
+      "fileSize": 21623,
+      "dependencies": [],
+      "paths": [
+        "StartApp/honor/honor_0321"
+      ],
+      "isBuiltin": false
+    },
+    "honor/honor_0322": {
+      "bundleName": "honor/honor_0322",
+      "cacheFileName": "483879a2324ad2586b945c2e760e2581",
+      "cacheDirectoryName": "b2f3",
+      "hash": "5e9a5e7c44dac974e731bf0211cb138c",
+      "category": "StartApp",
+      "crc": 1261079880,
+      "fileSize": 21663,
+      "dependencies": [],
+      "paths": [
+        "StartApp/honor/honor_0322"
       ],
       "isBuiltin": false
     },
@@ -8491,6 +8925,25 @@
       ],
       "isBuiltin": false
     },
+    "live_pv/model/character/body/99/0048/ladies_ss": {
+      "bundleName": "live_pv/model/character/body/99/0048/ladies_ss",
+      "cacheFileName": "28aaa51a3e23f5b9b420a8dc8848b390",
+      "cacheDirectoryName": "3bfd",
+      "hash": "40d592f890e988ea769eaee34161be30",
+      "category": "OnDemand",
+      "crc": 301291423,
+      "fileSize": 350953,
+      "dependencies": [
+        "shader/live"
+      ],
+      "paths": [
+        "OnDemand/live_pv/model/character/body/99/0048/ladies_ss",
+        "OnDemand/live_pv/model/character/body/99/0048/ladies_ss/fbx",
+        "OnDemand/live_pv/model/character/body/99/0048/ladies_ss/fbx/Materials",
+        "OnDemand/live_pv/model/character/body/99/0048/ladies_ss/sourceimages"
+      ],
+      "isBuiltin": false
+    },
     "virtual_live/performer/motion/w_cute_shy_01": {
       "bundleName": "virtual_live/performer/motion/w_cute_shy_01",
       "cacheFileName": "a406234ba8d03606b4ce449b4a5cadc0",
@@ -8670,6 +9123,20 @@
       "dependencies": [],
       "paths": [
         "OnDemand/live_pv/timeline/0071/character"
+      ],
+      "isBuiltin": false
+    },
+    "character/member_small/res021_no010": {
+      "bundleName": "character/member_small/res021_no010",
+      "cacheFileName": "b5745a76c8745e4ae161aaaedcc035eb",
+      "cacheDirectoryName": "c553",
+      "hash": "8c29c938892ae0bcecf7828a2e1ab132",
+      "category": "StartApp",
+      "crc": 111995070,
+      "fileSize": 425327,
+      "dependencies": [],
+      "paths": [
+        "StartApp/character/member_small/res021_no010"
       ],
       "isBuiltin": false
     },
@@ -8870,6 +9337,44 @@
       ],
       "isBuiltin": false
     },
+    "live_pv/model/character/face/06/0048c": {
+      "bundleName": "live_pv/model/character/face/06/0048c",
+      "cacheFileName": "2b53c6f2c64898b8a282cdda796e494a",
+      "cacheDirectoryName": "ee56",
+      "hash": "e9a0284e6dc8060c057f04cdf2efbc6c",
+      "category": "OnDemand",
+      "crc": 354953271,
+      "fileSize": 869180,
+      "dependencies": [
+        "shader/live"
+      ],
+      "paths": [
+        "OnDemand/live_pv/model/character/face/06/0048c",
+        "OnDemand/live_pv/model/character/face/06/0048c/fbx",
+        "OnDemand/live_pv/model/character/face/06/0048c/fbx/Materials",
+        "OnDemand/live_pv/model/character/face/06/0048c/sourceimages"
+      ],
+      "isBuiltin": false
+    },
+    "live_pv/model/character/face/06/0048a": {
+      "bundleName": "live_pv/model/character/face/06/0048a",
+      "cacheFileName": "2f00b95f47559fba12f1db7c851c9c51",
+      "cacheDirectoryName": "ee56",
+      "hash": "eae4ad68c241248f4509e8e8b476218b",
+      "category": "OnDemand",
+      "crc": 4266231260,
+      "fileSize": 836265,
+      "dependencies": [
+        "shader/live"
+      ],
+      "paths": [
+        "OnDemand/live_pv/model/character/face/06/0048a",
+        "OnDemand/live_pv/model/character/face/06/0048a/fbx",
+        "OnDemand/live_pv/model/character/face/06/0048a/fbx/Materials",
+        "OnDemand/live_pv/model/character/face/06/0048a/sourceimages"
+      ],
+      "isBuiltin": false
+    },
     "live2d/model/26kaito_normal": {
       "bundleName": "live2d/model/26kaito_normal",
       "cacheFileName": "0bf65bd2ed46e8771fddb0292e134e6b",
@@ -8882,6 +9387,25 @@
       "paths": [
         "StartApp/live2d/model/26kaito_normal",
         "StartApp/live2d/model/26kaito_normal/26kaito_normal_3.0_f_t01.2048"
+      ],
+      "isBuiltin": false
+    },
+    "live_pv/model/character/face/06/0048b": {
+      "bundleName": "live_pv/model/character/face/06/0048b",
+      "cacheFileName": "b68f020fd122d0c2367a4a64487cd4de",
+      "cacheDirectoryName": "ee56",
+      "hash": "769be2928c3681c9a0b6bb2844ce2f4f",
+      "category": "OnDemand",
+      "crc": 2562784437,
+      "fileSize": 860346,
+      "dependencies": [
+        "shader/live"
+      ],
+      "paths": [
+        "OnDemand/live_pv/model/character/face/06/0048b",
+        "OnDemand/live_pv/model/character/face/06/0048b/fbx",
+        "OnDemand/live_pv/model/character/face/06/0048b/fbx/Materials",
+        "OnDemand/live_pv/model/character/face/06/0048b/sourceimages"
       ],
       "isBuiltin": false
     },
@@ -9302,6 +9826,20 @@
       ],
       "isBuiltin": false
     },
+    "honor/honor_0327": {
+      "bundleName": "honor/honor_0327",
+      "cacheFileName": "83d9f43841be14196e5963f720508387",
+      "cacheDirectoryName": "b2f3",
+      "hash": "007af90506320b3abaa74daf7dce60c8",
+      "category": "StartApp",
+      "crc": 2358389998,
+      "fileSize": 21336,
+      "dependencies": [],
+      "paths": [
+        "StartApp/honor/honor_0327"
+      ],
+      "isBuiltin": false
+    },
     "character/member_gacha/res022_no002": {
       "bundleName": "character/member_gacha/res022_no002",
       "cacheFileName": "e22d82acec8d5bac3f8016b945f68e1d",
@@ -9313,6 +9851,48 @@
       "dependencies": [],
       "paths": [
         "StartApp/character/member_gacha/res022_no002"
+      ],
+      "isBuiltin": false
+    },
+    "honor/honor_0328": {
+      "bundleName": "honor/honor_0328",
+      "cacheFileName": "4443ba15214791927361818ec45fe4d8",
+      "cacheDirectoryName": "b2f3",
+      "hash": "02f24604d28a7df1fda820faebfbb758",
+      "category": "StartApp",
+      "crc": 3682606308,
+      "fileSize": 21140,
+      "dependencies": [],
+      "paths": [
+        "StartApp/honor/honor_0328"
+      ],
+      "isBuiltin": false
+    },
+    "honor/honor_0325": {
+      "bundleName": "honor/honor_0325",
+      "cacheFileName": "05bf5c86de60601e814c489ce8257da6",
+      "cacheDirectoryName": "b2f3",
+      "hash": "474ed671818d45b78190f844a348bd01",
+      "category": "StartApp",
+      "crc": 184752308,
+      "fileSize": 21242,
+      "dependencies": [],
+      "paths": [
+        "StartApp/honor/honor_0325"
+      ],
+      "isBuiltin": false
+    },
+    "honor/honor_0326": {
+      "bundleName": "honor/honor_0326",
+      "cacheFileName": "22cc471c2f95e36d04ac9b68938ea9c1",
+      "cacheDirectoryName": "b2f3",
+      "hash": "f1d524ae54403dec61e8cea000894797",
+      "category": "StartApp",
+      "crc": 3563172012,
+      "fileSize": 21109,
+      "dependencies": [],
+      "paths": [
+        "StartApp/honor/honor_0326"
       ],
       "isBuiltin": false
     },
@@ -9694,6 +10274,20 @@
       "dependencies": [],
       "paths": [
         "StartApp/live/voice/cutin/system_bondscp_004_001"
+      ],
+      "isBuiltin": false
+    },
+    "virtual_live/live/stage_animation/street_fralight_off": {
+      "bundleName": "virtual_live/live/stage_animation/street_fralight_off",
+      "cacheFileName": "888e429a9a0bb2f7716ffc652f699ff5",
+      "cacheDirectoryName": "2337",
+      "hash": "29d1f1ba980a1db814ab62123dc5c461",
+      "category": "OnDemand",
+      "crc": 1976516085,
+      "fileSize": 6484,
+      "dependencies": [],
+      "paths": [
+        "OnDemand/virtual_live/live/stage_animation/street_fralight_off"
       ],
       "isBuiltin": false
     },
@@ -10098,6 +10692,44 @@
       ],
       "isBuiltin": false
     },
+    "live_pv/model/character/body/99/0047/ladies_m": {
+      "bundleName": "live_pv/model/character/body/99/0047/ladies_m",
+      "cacheFileName": "58fdb1f384dece76c9f03ff1ae99ce6a",
+      "cacheDirectoryName": "d9f3",
+      "hash": "10f58cd09f27ad950a0019c1a22e71b2",
+      "category": "OnDemand",
+      "crc": 131894039,
+      "fileSize": 361283,
+      "dependencies": [
+        "shader/live"
+      ],
+      "paths": [
+        "OnDemand/live_pv/model/character/body/99/0047/ladies_m",
+        "OnDemand/live_pv/model/character/body/99/0047/ladies_m/fbx",
+        "OnDemand/live_pv/model/character/body/99/0047/ladies_m/fbx/Materials",
+        "OnDemand/live_pv/model/character/body/99/0047/ladies_m/sourceimages"
+      ],
+      "isBuiltin": false
+    },
+    "live_pv/model/character/body/99/0047/ladies_l": {
+      "bundleName": "live_pv/model/character/body/99/0047/ladies_l",
+      "cacheFileName": "88f73db565cae29ee64b85aabed2998b",
+      "cacheDirectoryName": "d9f3",
+      "hash": "7c8427f43ad604a98d685318319e1e12",
+      "category": "OnDemand",
+      "crc": 2804410490,
+      "fileSize": 362664,
+      "dependencies": [
+        "shader/live"
+      ],
+      "paths": [
+        "OnDemand/live_pv/model/character/body/99/0047/ladies_l",
+        "OnDemand/live_pv/model/character/body/99/0047/ladies_l/fbx",
+        "OnDemand/live_pv/model/character/body/99/0047/ladies_l/fbx/Materials",
+        "OnDemand/live_pv/model/character/body/99/0047/ladies_l/sourceimages"
+      ],
+      "isBuiltin": false
+    },
     "virtual_live/item/chara_minori": {
       "bundleName": "virtual_live/item/chara_minori",
       "cacheFileName": "501f0b617366b7b44a3417d8f5f6032d",
@@ -10285,6 +10917,24 @@
       "dependencies": [],
       "paths": [
         "StartApp/stamp/stamp0422"
+      ],
+      "isBuiltin": false
+    },
+    "virtual_live/live/effect/stage_floor_foot_kira_blue": {
+      "bundleName": "virtual_live/live/effect/stage_floor_foot_kira_blue",
+      "cacheFileName": "66a1a13108a15611bfd1bf00aeb43e1a",
+      "cacheDirectoryName": "bbb8",
+      "hash": "b5f97bd6c4446954909d97e9a95bc528",
+      "category": "OnDemand",
+      "crc": 708637141,
+      "fileSize": 82135,
+      "dependencies": [
+        "shader/particles"
+      ],
+      "paths": [
+        "OnDemand/virtual_live/live/effect/stage_floor_foot_kira_blue",
+        "OnDemand/virtual_live/live/effect/stage_floor_foot_kira_blue/material",
+        "OnDemand/virtual_live/live/effect/stage_floor_foot_kira_blue/texture"
       ],
       "isBuiltin": false
     },
@@ -10666,6 +11316,25 @@
       ],
       "isBuiltin": false
     },
+    "live_pv/model/character/body/99/0047/ladies_s": {
+      "bundleName": "live_pv/model/character/body/99/0047/ladies_s",
+      "cacheFileName": "84d0fbf0bf1aaff0de61ecb37a134403",
+      "cacheDirectoryName": "d9f3",
+      "hash": "5361f483faeb00a1eb9d8986c17cf33e",
+      "category": "OnDemand",
+      "crc": 3768310253,
+      "fileSize": 367469,
+      "dependencies": [
+        "shader/live"
+      ],
+      "paths": [
+        "OnDemand/live_pv/model/character/body/99/0047/ladies_s",
+        "OnDemand/live_pv/model/character/body/99/0047/ladies_s/fbx",
+        "OnDemand/live_pv/model/character/body/99/0047/ladies_s/fbx/Materials",
+        "OnDemand/live_pv/model/character/body/99/0047/ladies_s/sourceimages"
+      ],
+      "isBuiltin": false
+    },
     "stamp/stamp0413": {
       "bundleName": "stamp/stamp0413",
       "cacheFileName": "207cdd326db9bf64faca3b206b2d978c",
@@ -10849,8 +11518,8 @@
       "cacheDirectoryName": "79b7",
       "hash": "f66d51b0468bf834a39ceb275c74afdf",
       "category": "OnDemand",
-      "crc": 2051105631,
-      "fileSize": 5084675,
+      "crc": 3146373751,
+      "fileSize": 5084703,
       "dependencies": [
         "gacha/ab_gacha_1/screen",
         "gacha/ab_gacha_4/screen",
@@ -11592,6 +12261,20 @@
       "dependencies": [],
       "paths": [
         "StartApp/live/voice/cutin/system_bondscp_017_003_second_1"
+      ],
+      "isBuiltin": false
+    },
+    "event/event_sportsfestival_2020/slide/deck": {
+      "bundleName": "event/event_sportsfestival_2020/slide/deck",
+      "cacheFileName": "a3bdd9141267821ed49bcd6ab2881ca7",
+      "cacheDirectoryName": "fb89",
+      "hash": "4e94f91c055b44f2fc8806e6410b4931",
+      "category": "OnDemand",
+      "crc": 13783467,
+      "fileSize": 91147,
+      "dependencies": [],
+      "paths": [
+        "OnDemand/event/event_sportsfestival_2020/slide/deck"
       ],
       "isBuiltin": false
     },
@@ -12597,6 +13280,21 @@
       ],
       "isBuiltin": false
     },
+    "live2d/model/09kohane_sports": {
+      "bundleName": "live2d/model/09kohane_sports",
+      "cacheFileName": "c7d95d71f7ff02e6b3cc56e6f8d96164",
+      "cacheDirectoryName": "9efc",
+      "hash": "53dbb6f8f1b89e8ca2443e2b08a0d323",
+      "category": "StartApp",
+      "crc": 69279116,
+      "fileSize": 954827,
+      "dependencies": [],
+      "paths": [
+        "StartApp/live2d/model/09kohane_sports",
+        "StartApp/live2d/model/09kohane_sports/09kohane_sports_t01.2048"
+      ],
+      "isBuiltin": false
+    },
     "sound/actionset/voice/areatalk03_049": {
       "bundleName": "sound/actionset/voice/areatalk03_049",
       "cacheFileName": "f4f1dddb04fdfd834dddc73d1a5a1dd8",
@@ -13468,6 +14166,21 @@
       ],
       "isBuiltin": false
     },
+    "live2d/model/04shiho_sports": {
+      "bundleName": "live2d/model/04shiho_sports",
+      "cacheFileName": "7ddd5a747605cb588c7a7eaec0669297",
+      "cacheDirectoryName": "9efc",
+      "hash": "e41c0f1e93208cd3d1d46bee37dfbe37",
+      "category": "StartApp",
+      "crc": 805274433,
+      "fileSize": 963718,
+      "dependencies": [],
+      "paths": [
+        "StartApp/live2d/model/04shiho_sports",
+        "StartApp/live2d/model/04shiho_sports/04shiho_sports_t01.2048"
+      ],
+      "isBuiltin": false
+    },
     "sound/actionset/voice/areatalk03_053": {
       "bundleName": "sound/actionset/voice/areatalk03_053",
       "cacheFileName": "d015fcf1728a2b1bf452de4da583a61a",
@@ -13743,10 +14456,10 @@
       "bundleName": "thumbnail/chara",
       "cacheFileName": "9eed21697a8260b02a7505d3c259a3d5",
       "cacheDirectoryName": "951d",
-      "hash": "68e861494285377583ddb7064ed22e4a",
+      "hash": "be64b24fa88712efebc4a525f653051c",
       "category": "StartApp",
-      "crc": 4051619308,
-      "fileSize": 1069427,
+      "crc": 3297200797,
+      "fileSize": 1136477,
       "dependencies": [],
       "paths": [
         "StartApp/thumbnail/chara"
@@ -14751,6 +15464,20 @@
       ],
       "isBuiltin": false
     },
+    "character/member/res002_no006": {
+      "bundleName": "character/member/res002_no006",
+      "cacheFileName": "363c2665dd95f5e19750776922c6614e",
+      "cacheDirectoryName": "6a6b",
+      "hash": "7a0a955661f4bda1e1b0768dbdcee87b",
+      "category": "StartApp",
+      "crc": 2656079414,
+      "fileSize": 840783,
+      "dependencies": [],
+      "paths": [
+        "StartApp/character/member/res002_no006"
+      ],
+      "isBuiltin": false
+    },
     "virtual_live/live/effect/stage_pictures_needle": {
       "bundleName": "virtual_live/live/effect/stage_pictures_needle",
       "cacheFileName": "74b1d45181c3f6381a04b469281514e1",
@@ -15749,6 +16476,20 @@
       ],
       "isBuiltin": false
     },
+    "character/member/res006_no005": {
+      "bundleName": "character/member/res006_no005",
+      "cacheFileName": "2078f64597a6f5a84ef1df54c6ba51d0",
+      "cacheDirectoryName": "6a6b",
+      "hash": "33ec0df29612dff0d0e4bc14b95f2ea0",
+      "category": "StartApp",
+      "crc": 3962001308,
+      "fileSize": 1952579,
+      "dependencies": [],
+      "paths": [
+        "StartApp/character/member/res006_no005"
+      ],
+      "isBuiltin": false
+    },
     "live_pv/model/character/color_variation/head_optional/0035/a02/02": {
       "bundleName": "live_pv/model/character/color_variation/head_optional/0035/a02/02",
       "cacheFileName": "4f86727741f83b6726ebda232ce17068",
@@ -15836,6 +16577,20 @@
       "dependencies": [],
       "paths": [
         "StartApp/character/member/res006_no002"
+      ],
+      "isBuiltin": false
+    },
+    "event_story/event_sportsfestival_2020/episode_image": {
+      "bundleName": "event_story/event_sportsfestival_2020/episode_image",
+      "cacheFileName": "dc4276402900e5ee3c85b051303475a9",
+      "cacheDirectoryName": "af4f",
+      "hash": "25acf29bb6f49ffa6238c55607c592c8",
+      "category": "OnDemand",
+      "crc": 11372276,
+      "fileSize": 143583,
+      "dependencies": [],
+      "paths": [
+        "OnDemand/event_story/event_sportsfestival_2020/episode_image"
       ],
       "isBuiltin": false
     },
@@ -16709,6 +17464,34 @@
       ],
       "isBuiltin": false
     },
+    "sound/card_scenario/voice/002006_saki01": {
+      "bundleName": "sound/card_scenario/voice/002006_saki01",
+      "cacheFileName": "71180f21148389063e750352d427d6ba",
+      "cacheDirectoryName": "e0f0",
+      "hash": "e9005e619d8bc6f264a523931fde6a31",
+      "category": "OnDemand",
+      "crc": 3817069256,
+      "fileSize": 2477084,
+      "dependencies": [],
+      "paths": [
+        "OnDemand/sound/card_scenario/voice/002006_saki01"
+      ],
+      "isBuiltin": false
+    },
+    "sound/card_scenario/voice/002006_saki02": {
+      "bundleName": "sound/card_scenario/voice/002006_saki02",
+      "cacheFileName": "d60a04bd6e584b2566994eed110b4e73",
+      "cacheDirectoryName": "e0f0",
+      "hash": "2525d1be4f2d12f31ecdf318ca1b564b",
+      "category": "OnDemand",
+      "crc": 829689921,
+      "fileSize": 1901506,
+      "dependencies": [],
+      "paths": [
+        "OnDemand/sound/card_scenario/voice/002006_saki02"
+      ],
+      "isBuiltin": false
+    },
     "virtual_live/live/effect/stage_smoke_back_wonder": {
       "bundleName": "virtual_live/live/effect/stage_smoke_back_wonder",
       "cacheFileName": "d778ea7ca68acbac0cb001267b375604",
@@ -16722,6 +17505,48 @@
       ],
       "paths": [
         "OnDemand/virtual_live/live/effect/stage_smoke_back_wonder"
+      ],
+      "isBuiltin": false
+    },
+    "live_pv/model/character/color_variation/body/99/0048/ladies_m/01": {
+      "bundleName": "live_pv/model/character/color_variation/body/99/0048/ladies_m/01",
+      "cacheFileName": "4bccd643acacf10dc8736feb1d41fbf1",
+      "cacheDirectoryName": "9ecf",
+      "hash": "0f0ca4cc779fc4d5fa676b3f10cc5343",
+      "category": "OnDemand",
+      "crc": 3795798628,
+      "fileSize": 110956,
+      "dependencies": [],
+      "paths": [
+        "OnDemand/live_pv/model/character/color_variation/body/99/0048/ladies_m/01"
+      ],
+      "isBuiltin": false
+    },
+    "live_pv/model/character/color_variation/body/99/0048/ladies_m/03": {
+      "bundleName": "live_pv/model/character/color_variation/body/99/0048/ladies_m/03",
+      "cacheFileName": "2cfc312ffdf9bc627969f52b130d1281",
+      "cacheDirectoryName": "9ecf",
+      "hash": "91ccfca6d06928555b6b6df3c24c841d",
+      "category": "OnDemand",
+      "crc": 2383692406,
+      "fileSize": 110677,
+      "dependencies": [],
+      "paths": [
+        "OnDemand/live_pv/model/character/color_variation/body/99/0048/ladies_m/03"
+      ],
+      "isBuiltin": false
+    },
+    "live_pv/model/character/color_variation/body/99/0048/ladies_m/02": {
+      "bundleName": "live_pv/model/character/color_variation/body/99/0048/ladies_m/02",
+      "cacheFileName": "15c8a6425569c8979170bf3db21a2237",
+      "cacheDirectoryName": "9ecf",
+      "hash": "868d29c50fdf72d09f896ecc08fe8c5c",
+      "category": "OnDemand",
+      "crc": 3322866548,
+      "fileSize": 111803,
+      "dependencies": [],
+      "paths": [
+        "OnDemand/live_pv/model/character/color_variation/body/99/0048/ladies_m/02"
       ],
       "isBuiltin": false
     },
@@ -16953,10 +17778,10 @@
       "bundleName": "virtual_live/lobby/default",
       "cacheFileName": "c15d6cd4a11455c764e772dfff80d94d",
       "cacheDirectoryName": "0bd6",
-      "hash": "69b16dc3d882f5c770072249fecde494",
+      "hash": "c30d66d03f184febd746059ff382abc8",
       "category": "OnDemand",
-      "crc": 617998346,
-      "fileSize": 1484179,
+      "crc": 2005127538,
+      "fileSize": 1281942,
       "dependencies": [],
       "paths": [
         "OnDemand/virtual_live/lobby/default",
@@ -17133,6 +17958,20 @@
       "dependencies": [],
       "paths": [
         "StartApp/character/member_cutout/res014_no006"
+      ],
+      "isBuiltin": false
+    },
+    "character/member_cutout/res014_no007": {
+      "bundleName": "character/member_cutout/res014_no007",
+      "cacheFileName": "27c537f9da9f20ab55729ab2948716b2",
+      "cacheDirectoryName": "c35b",
+      "hash": "c97767338e8ca87cd6c13975ede3175f",
+      "category": "StartApp",
+      "crc": 1242103006,
+      "fileSize": 289125,
+      "dependencies": [],
+      "paths": [
+        "StartApp/character/member_cutout/res014_no007"
       ],
       "isBuiltin": false
     },
@@ -18300,10 +19139,10 @@
       "bundleName": "virtual_live/item/chara_akito",
       "cacheFileName": "574f1b592e090599a9d0d237c7dcd2f6",
       "cacheDirectoryName": "207c",
-      "hash": "4e1c27fe81bb878e14f6ed5d186c4f6e",
+      "hash": "942b398940f560e77a242a193a898446",
       "category": "StartApp",
-      "crc": 1217570761,
-      "fileSize": 148650,
+      "crc": 2997578459,
+      "fileSize": 148657,
       "dependencies": [
         "shader/particles"
       ],
@@ -18323,6 +19162,20 @@
       "dependencies": [],
       "paths": [
         "OnDemand/virtual_live/live/stage_performance_animation/piapro_slbottom_sway01-b01"
+      ],
+      "isBuiltin": false
+    },
+    "character/member_cutout/res018_no006": {
+      "bundleName": "character/member_cutout/res018_no006",
+      "cacheFileName": "9abe54a1a52af417353d5b0c41ed3598",
+      "cacheDirectoryName": "c35b",
+      "hash": "5b47d89863bb45feb43dcd6f3a330416",
+      "category": "StartApp",
+      "crc": 3501798327,
+      "fileSize": 290673,
+      "dependencies": [],
+      "paths": [
+        "StartApp/character/member_cutout/res018_no006"
       ],
       "isBuiltin": false
     },
@@ -20272,6 +21125,20 @@
       ],
       "isBuiltin": false
     },
+    "honor/honor_0240": {
+      "bundleName": "honor/honor_0240",
+      "cacheFileName": "03ff7ae0e2eba7c1858d722c87eef573",
+      "cacheDirectoryName": "b2f3",
+      "hash": "3c2ae67a94512f5e9164b38e2b17e982",
+      "category": "StartApp",
+      "crc": 173102512,
+      "fileSize": 17034,
+      "dependencies": [],
+      "paths": [
+        "StartApp/honor/honor_0240"
+      ],
+      "isBuiltin": false
+    },
     "story/background/piapro-story-chapter": {
       "bundleName": "story/background/piapro-story-chapter",
       "cacheFileName": "6afde2eeedb7ba87a1f35b2763907d9f",
@@ -20716,6 +21583,22 @@
       ],
       "isBuiltin": false
     },
+    "virtual_live/live/effect/stage_fireworks_orange": {
+      "bundleName": "virtual_live/live/effect/stage_fireworks_orange",
+      "cacheFileName": "640e8bed8d3fe77ef56a63959eece8c4",
+      "cacheDirectoryName": "bbb8",
+      "hash": "fda06a2df07bdcbf27e17040d76d49a0",
+      "category": "OnDemand",
+      "crc": 1938244864,
+      "fileSize": 91069,
+      "dependencies": [
+        "shader/particles"
+      ],
+      "paths": [
+        "OnDemand/virtual_live/live/effect/stage_fireworks_orange"
+      ],
+      "isBuiltin": false
+    },
     "virtual_live/mc/scenario/mc_release_04_2": {
       "bundleName": "virtual_live/mc/scenario/mc_release_04_2",
       "cacheFileName": "a2b929dffb6ddfe525970d70ce4a073e",
@@ -21014,6 +21897,20 @@
       ],
       "isBuiltin": false
     },
+    "virtual_live/mc/scenario/mc_bd_2020akito_2": {
+      "bundleName": "virtual_live/mc/scenario/mc_bd_2020akito_2",
+      "cacheFileName": "1db724eba0cae37756703e84b29d26d5",
+      "cacheDirectoryName": "c82d",
+      "hash": "aa363437fe5cbe08c331952441c3739a",
+      "category": "OnDemand",
+      "crc": 4052087101,
+      "fileSize": 7716,
+      "dependencies": [],
+      "paths": [
+        "OnDemand/virtual_live/mc/scenario/mc_bd_2020akito_2"
+      ],
+      "isBuiltin": false
+    },
     "live_pv/model/character/body/06/0001/ladies_m": {
       "bundleName": "live_pv/model/character/body/06/0001/ladies_m",
       "cacheFileName": "0bad920e831ea27854555357848d067e",
@@ -21075,6 +21972,20 @@
       ],
       "isBuiltin": false
     },
+    "virtual_live/mc/scenario/mc_bd_2020akito_1": {
+      "bundleName": "virtual_live/mc/scenario/mc_bd_2020akito_1",
+      "cacheFileName": "097ce3598036ba6448cf09cb09460926",
+      "cacheDirectoryName": "c82d",
+      "hash": "dd5bc39773bea3e2ee2e4b17ee5e9f1c",
+      "category": "OnDemand",
+      "crc": 2961792981,
+      "fileSize": 9604,
+      "dependencies": [],
+      "paths": [
+        "OnDemand/virtual_live/mc/scenario/mc_bd_2020akito_1"
+      ],
+      "isBuiltin": false
+    },
     "event/event_stella_2020/screen": {
       "bundleName": "event/event_stella_2020/screen",
       "cacheFileName": "68b6dd8e75fcbfe9295fae345c561feb",
@@ -21133,6 +22044,20 @@
         "OnDemand/live_pv/model/character/body/07/0001/ladies_m/fbx",
         "OnDemand/live_pv/model/character/body/07/0001/ladies_m/fbx/Materials",
         "OnDemand/live_pv/model/character/body/07/0001/ladies_m/sourceimages"
+      ],
+      "isBuiltin": false
+    },
+    "event_story/event_sportsfestival_2020/screen_image": {
+      "bundleName": "event_story/event_sportsfestival_2020/screen_image",
+      "cacheFileName": "5dd2c7e74f00c4803c0362efbeb89768",
+      "cacheDirectoryName": "af4f",
+      "hash": "58976e00a601ffd8a7389a9cda542add",
+      "category": "OnDemand",
+      "crc": 4207267237,
+      "fileSize": 1167249,
+      "dependencies": [],
+      "paths": [
+        "OnDemand/event_story/event_sportsfestival_2020/screen_image"
       ],
       "isBuiltin": false
     },
@@ -21330,6 +22255,20 @@
       "paths": [
         "StartApp/live2d/model/02saki_jc",
         "StartApp/live2d/model/02saki_jc/02saki_jc_3.0_f_t02.2048"
+      ],
+      "isBuiltin": false
+    },
+    "character/member/res021_no010": {
+      "bundleName": "character/member/res021_no010",
+      "cacheFileName": "85f344ceedb3c882c6b649912f54a8e1",
+      "cacheDirectoryName": "6a6b",
+      "hash": "8321a6e15613ad818847eb5ccb41cfa2",
+      "category": "StartApp",
+      "crc": 184538036,
+      "fileSize": 2104998,
+      "dependencies": [],
+      "paths": [
+        "StartApp/character/member/res021_no010"
       ],
       "isBuiltin": false
     },
@@ -22760,10 +23699,10 @@
       "bundleName": "sound/scenario/se/se_pack00001",
       "cacheFileName": "e7e35a32d7203b0630cee0f78aeda741",
       "cacheDirectoryName": "b28e",
-      "hash": "e8b998b3a518898d8a8cb6cc258224bf",
+      "hash": "3eae50a07cae22d7a4da4bd5708dfac1",
       "category": "StartApp",
-      "crc": 2658874082,
-      "fileSize": 5187276,
+      "crc": 3543682401,
+      "fileSize": 5325227,
       "dependencies": [],
       "paths": [
         "StartApp/sound/scenario/se/se_pack00001"
@@ -23603,6 +24542,21 @@
       ],
       "isBuiltin": false
     },
+    "live2d/model/18mafuyu_sports": {
+      "bundleName": "live2d/model/18mafuyu_sports",
+      "cacheFileName": "1c957663f56baa68c8b7bf6af2a1ea9f",
+      "cacheDirectoryName": "9efc",
+      "hash": "8743615520381188d25dd0abf0a36e51",
+      "category": "StartApp",
+      "crc": 1352764986,
+      "fileSize": 1052627,
+      "dependencies": [],
+      "paths": [
+        "StartApp/live2d/model/18mafuyu_sports",
+        "StartApp/live2d/model/18mafuyu_sports/18mafuyu_sports_t02.2048"
+      ],
+      "isBuiltin": false
+    },
     "music/jacket/jacket_s_041": {
       "bundleName": "music/jacket/jacket_s_041",
       "cacheFileName": "939e578aef8d5593257a8de9c15e376b",
@@ -24311,6 +25265,21 @@
       ],
       "isBuiltin": false
     },
+    "live2d/model/14emu_sports": {
+      "bundleName": "live2d/model/14emu_sports",
+      "cacheFileName": "19a9c61c57afc40e1e2ac8ecf8400c69",
+      "cacheDirectoryName": "9efc",
+      "hash": "5a3b84d418c89d5398c8dc206644e37d",
+      "category": "StartApp",
+      "crc": 1311445056,
+      "fileSize": 1053868,
+      "dependencies": [],
+      "paths": [
+        "StartApp/live2d/model/14emu_sports",
+        "StartApp/live2d/model/14emu_sports/14emu_sports_t03.2048"
+      ],
+      "isBuiltin": false
+    },
     "music/jacket/jacket_s_027": {
       "bundleName": "music/jacket/jacket_s_027",
       "cacheFileName": "745c0a5ea6a9fca33e1a103db00ef77c",
@@ -24420,6 +25389,20 @@
       "dependencies": [],
       "paths": [
         "OnDemand/virtual_live/live/performance_data/0022_meltyland"
+      ],
+      "isBuiltin": false
+    },
+    "character/member_cutout/res006_no005": {
+      "bundleName": "character/member_cutout/res006_no005",
+      "cacheFileName": "0219099a790a4efa836328c1bdc55387",
+      "cacheDirectoryName": "c35b",
+      "hash": "fd266fd6b97f2608de6e8aa6a93cdae1",
+      "category": "StartApp",
+      "crc": 2202106240,
+      "fileSize": 274323,
+      "dependencies": [],
+      "paths": [
+        "StartApp/character/member_cutout/res006_no005"
       ],
       "isBuiltin": false
     },
@@ -24768,6 +25751,34 @@
       "dependencies": [],
       "paths": [
         "OnDemand/virtual_live/live/stage_animation/piapro_speakerlight_on"
+      ],
+      "isBuiltin": false
+    },
+    "movie/gacha/ab_gacha_9_mv2": {
+      "bundleName": "movie/gacha/ab_gacha_9_mv2",
+      "cacheFileName": "a647615bcbd8ee87a2b27cef5bcd2409",
+      "cacheDirectoryName": "8aa9",
+      "hash": "c8562c897eff0229cfdec710239aeb87",
+      "category": "OnDemand",
+      "crc": 2514490863,
+      "fileSize": 27737723,
+      "dependencies": [],
+      "paths": [
+        "OnDemand/movie/gacha/ab_gacha_9_mv2"
+      ],
+      "isBuiltin": false
+    },
+    "movie/gacha/ab_gacha_9_mv1": {
+      "bundleName": "movie/gacha/ab_gacha_9_mv1",
+      "cacheFileName": "b12cc2bd7899d043141f630a4ccf790e",
+      "cacheDirectoryName": "8aa9",
+      "hash": "607fe5c1afc3308be7e34a74a5a66a09",
+      "category": "OnDemand",
+      "crc": 2918402281,
+      "fileSize": 27837796,
+      "dependencies": [],
+      "paths": [
+        "OnDemand/movie/gacha/ab_gacha_9_mv1"
       ],
       "isBuiltin": false
     },
@@ -25767,6 +26778,20 @@
       ],
       "isBuiltin": false
     },
+    "virtual_live/avatar/skin/fullset_0012": {
+      "bundleName": "virtual_live/avatar/skin/fullset_0012",
+      "cacheFileName": "78b6b9ec6a7495902df02aa35af8c75b",
+      "cacheDirectoryName": "8d76",
+      "hash": "cd4fea8549b29bb23b09e31820c94c63",
+      "category": "StartApp",
+      "crc": 2201383877,
+      "fileSize": 40683,
+      "dependencies": [],
+      "paths": [
+        "StartApp/virtual_live/avatar/skin/fullset_0012"
+      ],
+      "isBuiltin": false
+    },
     "live_pv/model/character/color_variation/body/99/0036/ladies_l/02": {
       "bundleName": "live_pv/model/character/color_variation/body/99/0036/ladies_l/02",
       "cacheFileName": "9220cf564976bc7fa1f1098cf985b6c1",
@@ -25781,6 +26806,52 @@
       ],
       "isBuiltin": false
     },
+    "live_pv/model/character/color_variation/body/99/0047/ladies_l/02": {
+      "bundleName": "live_pv/model/character/color_variation/body/99/0047/ladies_l/02",
+      "cacheFileName": "66a2ff17d829c8f337718a693d7173d1",
+      "cacheDirectoryName": "44a7",
+      "hash": "b3302c44a75873f46a31763c4d7a3993",
+      "category": "OnDemand",
+      "crc": 2723957413,
+      "fileSize": 126239,
+      "dependencies": [],
+      "paths": [
+        "OnDemand/live_pv/model/character/color_variation/body/99/0047/ladies_l/02"
+      ],
+      "isBuiltin": false
+    },
+    "virtual_live/live/effect/stage_kira_fragile_last_blue": {
+      "bundleName": "virtual_live/live/effect/stage_kira_fragile_last_blue",
+      "cacheFileName": "0b6e25203e44cb88ca721e75ec8c375c",
+      "cacheDirectoryName": "bbb8",
+      "hash": "9b7b699ceba04e20ddd6c51d543c5ae3",
+      "category": "OnDemand",
+      "crc": 965360989,
+      "fileSize": 82468,
+      "dependencies": [
+        "shader/particles"
+      ],
+      "paths": [
+        "OnDemand/virtual_live/live/effect/stage_kira_fragile_last_blue",
+        "OnDemand/virtual_live/live/effect/stage_kira_fragile_last_blue/material",
+        "OnDemand/virtual_live/live/effect/stage_kira_fragile_last_blue/texture"
+      ],
+      "isBuiltin": false
+    },
+    "live_pv/model/character/color_variation/body/99/0047/ladies_l/03": {
+      "bundleName": "live_pv/model/character/color_variation/body/99/0047/ladies_l/03",
+      "cacheFileName": "085e2dd3a4945be9df739994f783a7d3",
+      "cacheDirectoryName": "44a7",
+      "hash": "b0aff25ce43899ddf8b7213dd9877793",
+      "category": "OnDemand",
+      "crc": 4229970578,
+      "fileSize": 126207,
+      "dependencies": [],
+      "paths": [
+        "OnDemand/live_pv/model/character/color_variation/body/99/0047/ladies_l/03"
+      ],
+      "isBuiltin": false
+    },
     "virtual_live/performer/motion/w_normal_refuse_01": {
       "bundleName": "virtual_live/performer/motion/w_normal_refuse_01",
       "cacheFileName": "449da47ca8256afcf92f534eee808383",
@@ -25792,6 +26863,20 @@
       "dependencies": [],
       "paths": [
         "OnDemand/virtual_live/performer/motion/w_normal_refuse_01"
+      ],
+      "isBuiltin": false
+    },
+    "live_pv/model/character/color_variation/body/99/0047/ladies_l/01": {
+      "bundleName": "live_pv/model/character/color_variation/body/99/0047/ladies_l/01",
+      "cacheFileName": "37e5eb5301221704dcdfe952d0783531",
+      "cacheDirectoryName": "44a7",
+      "hash": "093fe780e8f7889cc981a62992ae3a00",
+      "category": "OnDemand",
+      "crc": 1374725232,
+      "fileSize": 127691,
+      "dependencies": [],
+      "paths": [
+        "OnDemand/live_pv/model/character/color_variation/body/99/0047/ladies_l/01"
       ],
       "isBuiltin": false
     },
@@ -25953,10 +27038,10 @@
       "bundleName": "music/long/an_0060_01",
       "cacheFileName": "b158a473bac8dce2cf51aaaa35e4c818",
       "cacheDirectoryName": "4901",
-      "hash": "74647f565a7159ae2ae2fc4e81be158f",
+      "hash": "515a5767cc89224cbfcb5287a7a910b9",
       "category": "OnDemand",
-      "crc": 1870743598,
-      "fileSize": 1462167,
+      "crc": 847367768,
+      "fileSize": 1461929,
       "dependencies": [],
       "paths": [
         "OnDemand/music/long/an_0060_01"
@@ -26655,6 +27740,20 @@
       ],
       "isBuiltin": false
     },
+    "character/member_small/res002_no006": {
+      "bundleName": "character/member_small/res002_no006",
+      "cacheFileName": "b21c95bf1be828703f0de5b59c8d2dc7",
+      "cacheDirectoryName": "c553",
+      "hash": "4f7fba682a26c8155e46cd59428b766b",
+      "category": "StartApp",
+      "crc": 2803053686,
+      "fileSize": 177703,
+      "dependencies": [],
+      "paths": [
+        "StartApp/character/member_small/res002_no006"
+      ],
+      "isBuiltin": false
+    },
     "character/member_small/res002_no001": {
       "bundleName": "character/member_small/res002_no001",
       "cacheFileName": "a0b05b5e2e71f5da09c14977dc083c72",
@@ -26914,10 +28013,10 @@
       "bundleName": "virtual_live/live/stage_settings/0005",
       "cacheFileName": "378f0a914b647675bca692cf1575bd64",
       "cacheDirectoryName": "b7b8",
-      "hash": "64dd45ef33361264cedc10ec2288e80a",
+      "hash": "1d0a619564b48ebc0843a8c1a02a17b2",
       "category": "OnDemand",
-      "crc": 1785982122,
-      "fileSize": 2458,
+      "crc": 501799215,
+      "fileSize": 2531,
       "dependencies": [],
       "paths": [
         "OnDemand/virtual_live/live/stage_settings/0005"
@@ -27352,6 +28451,25 @@
       ],
       "isBuiltin": false
     },
+    "live_pv/model/character/face/06/0048": {
+      "bundleName": "live_pv/model/character/face/06/0048",
+      "cacheFileName": "e5e9107d37ec0c9ac2d3183599ceb1c1",
+      "cacheDirectoryName": "ee56",
+      "hash": "d9fd49ef53701c46e976435b040ef29d",
+      "category": "OnDemand",
+      "crc": 2495495788,
+      "fileSize": 862842,
+      "dependencies": [
+        "shader/live"
+      ],
+      "paths": [
+        "OnDemand/live_pv/model/character/face/06/0048",
+        "OnDemand/live_pv/model/character/face/06/0048/fbx",
+        "OnDemand/live_pv/model/character/face/06/0048/fbx/Materials",
+        "OnDemand/live_pv/model/character/face/06/0048/sourceimages"
+      ],
+      "isBuiltin": false
+    },
     "music/long/0027_01": {
       "bundleName": "music/long/0027_01",
       "cacheFileName": "3afe92898f29693d9b414b7bfbbab444",
@@ -27759,6 +28877,20 @@
       "dependencies": [],
       "paths": [
         "StartApp/character/member/res014_no002"
+      ],
+      "isBuiltin": false
+    },
+    "character/member/res014_no007": {
+      "bundleName": "character/member/res014_no007",
+      "cacheFileName": "04f08dd944a9c91b49ad6c3244ba9156",
+      "cacheDirectoryName": "6a6b",
+      "hash": "9b92300298a75e4f8460bec74476d90e",
+      "category": "StartApp",
+      "crc": 3596785868,
+      "fileSize": 2099407,
+      "dependencies": [],
+      "paths": [
+        "StartApp/character/member/res014_no007"
       ],
       "isBuiltin": false
     },
@@ -28231,6 +29363,20 @@
       ],
       "isBuiltin": false
     },
+    "gacha/ab_gacha_11/logo": {
+      "bundleName": "gacha/ab_gacha_11/logo",
+      "cacheFileName": "7c7c3f4bb494c80bb1bdf3c3985babb8",
+      "cacheDirectoryName": "01ba",
+      "hash": "adfd880e3933b80d074689745cef5b3e",
+      "category": "OnDemand",
+      "crc": 1156518304,
+      "fileSize": 72210,
+      "dependencies": [],
+      "paths": [
+        "OnDemand/gacha/ab_gacha_11/logo"
+      ],
+      "isBuiltin": false
+    },
     "live/voice/cutin/system_bondscp_006_008_first_1": {
       "bundleName": "live/voice/cutin/system_bondscp_006_008_first_1",
       "cacheFileName": "753b156910d4185987f1904a589e7252",
@@ -28542,6 +29688,20 @@
       ],
       "isBuiltin": false
     },
+    "scenario/effect/eye_open_short": {
+      "bundleName": "scenario/effect/eye_open_short",
+      "cacheFileName": "f4117ca7810b05d855df9af01f0665e2",
+      "cacheDirectoryName": "725a",
+      "hash": "7f62557ca3c662d501aa43905afda397",
+      "category": "OnDemand",
+      "crc": 373713892,
+      "fileSize": 87314,
+      "dependencies": [],
+      "paths": [
+        "OnDemand/scenario/effect/eye_open_short"
+      ],
+      "isBuiltin": false
+    },
     "story/title_image/street-story-chapter": {
       "bundleName": "story/title_image/street-story-chapter",
       "cacheFileName": "b66e8971fc77a1e716476d7993969126",
@@ -28556,6 +29716,20 @@
       ],
       "isBuiltin": false
     },
+    "sound/card_scenario/voice/014007_emu02": {
+      "bundleName": "sound/card_scenario/voice/014007_emu02",
+      "cacheFileName": "9e0d10738abc8a16a16caa96969783e7",
+      "cacheDirectoryName": "e0f0",
+      "hash": "f1333858f9c4bcaa8b877bf309f1b8ee",
+      "category": "OnDemand",
+      "crc": 568807767,
+      "fileSize": 2780746,
+      "dependencies": [],
+      "paths": [
+        "OnDemand/sound/card_scenario/voice/014007_emu02"
+      ],
+      "isBuiltin": false
+    },
     "character/member_small/res020_no003": {
       "bundleName": "character/member_small/res020_no003",
       "cacheFileName": "c72998a417a2f0cd84c70761bdb7ecc6",
@@ -28567,6 +29741,20 @@
       "dependencies": [],
       "paths": [
         "StartApp/character/member_small/res020_no003"
+      ],
+      "isBuiltin": false
+    },
+    "sound/card_scenario/voice/014007_emu01": {
+      "bundleName": "sound/card_scenario/voice/014007_emu01",
+      "cacheFileName": "d91b64918f4a8605d37be9871c313264",
+      "cacheDirectoryName": "e0f0",
+      "hash": "2385ed5fec58807551047a6d4301a273",
+      "category": "OnDemand",
+      "crc": 2843842237,
+      "fileSize": 2737039,
+      "dependencies": [],
+      "paths": [
+        "OnDemand/sound/card_scenario/voice/014007_emu01"
       ],
       "isBuiltin": false
     },
@@ -28735,6 +29923,20 @@
       "dependencies": [],
       "paths": [
         "StartApp/home/banner/banner_gacha6"
+      ],
+      "isBuiltin": false
+    },
+    "home/banner/banner_gacha9": {
+      "bundleName": "home/banner/banner_gacha9",
+      "cacheFileName": "173ada242a0a580e7844fe79eb813806",
+      "cacheDirectoryName": "0095",
+      "hash": "b581526899b450f4fa801527c0ba146d",
+      "category": "StartApp",
+      "crc": 977960958,
+      "fileSize": 41081,
+      "dependencies": [],
+      "paths": [
+        "StartApp/home/banner/banner_gacha9"
       ],
       "isBuiltin": false
     },
@@ -30116,6 +31318,20 @@
       ],
       "isBuiltin": false
     },
+    "live_pv/model/character/color_variation/body/99/0047/ladies_ss/03": {
+      "bundleName": "live_pv/model/character/color_variation/body/99/0047/ladies_ss/03",
+      "cacheFileName": "96fd67e7388bf08bab0386ae1cfa3b43",
+      "cacheDirectoryName": "dc53",
+      "hash": "bbfb61d60aeb87726bc0993254780712",
+      "category": "OnDemand",
+      "crc": 796643140,
+      "fileSize": 126166,
+      "dependencies": [],
+      "paths": [
+        "OnDemand/live_pv/model/character/color_variation/body/99/0047/ladies_ss/03"
+      ],
+      "isBuiltin": false
+    },
     "virtual_live/live/effect/stage_smoke_front_morej": {
       "bundleName": "virtual_live/live/effect/stage_smoke_front_morej",
       "cacheFileName": "a005e70ec0907f6c1d221ce141e3c39d",
@@ -30132,6 +31348,20 @@
       ],
       "isBuiltin": false
     },
+    "live_pv/model/character/color_variation/body/99/0047/ladies_ss/02": {
+      "bundleName": "live_pv/model/character/color_variation/body/99/0047/ladies_ss/02",
+      "cacheFileName": "d28d107c4466601f6baf94fd6fa1901a",
+      "cacheDirectoryName": "dc53",
+      "hash": "01323faf5d657c5d4b08fbc54c71c6f1",
+      "category": "OnDemand",
+      "crc": 1892678589,
+      "fileSize": 126340,
+      "dependencies": [],
+      "paths": [
+        "OnDemand/live_pv/model/character/color_variation/body/99/0047/ladies_ss/02"
+      ],
+      "isBuiltin": false
+    },
     "virtual_live/live/stage_animation/wonder_streetlight_potato_on": {
       "bundleName": "virtual_live/live/stage_animation/wonder_streetlight_potato_on",
       "cacheFileName": "235af8ec35310858ead21cafbc6216d4",
@@ -30143,6 +31373,20 @@
       "dependencies": [],
       "paths": [
         "OnDemand/virtual_live/live/stage_animation/wonder_streetlight_potato_on"
+      ],
+      "isBuiltin": false
+    },
+    "live_pv/model/character/color_variation/body/99/0047/ladies_ss/01": {
+      "bundleName": "live_pv/model/character/color_variation/body/99/0047/ladies_ss/01",
+      "cacheFileName": "76f25745ae60b951fa5578618421a292",
+      "cacheDirectoryName": "dc53",
+      "hash": "1633a537b7b67b1930780ded6fd29342",
+      "category": "OnDemand",
+      "crc": 2497624934,
+      "fileSize": 127600,
+      "dependencies": [],
+      "paths": [
+        "OnDemand/live_pv/model/character/color_variation/body/99/0047/ladies_ss/01"
       ],
       "isBuiltin": false
     },
@@ -30332,6 +31576,20 @@
       "dependencies": [],
       "paths": [
         "OnDemand/virtual_live/performer/motion/w_cool_wait_01"
+      ],
+      "isBuiltin": false
+    },
+    "scenario/effect/eye_open_long": {
+      "bundleName": "scenario/effect/eye_open_long",
+      "cacheFileName": "39b7aefdb9d0883290296801972a976e",
+      "cacheDirectoryName": "725a",
+      "hash": "2b9c914cefc46b6c23cc8407b81e1451",
+      "category": "OnDemand",
+      "crc": 486664819,
+      "fileSize": 86917,
+      "dependencies": [],
+      "paths": [
+        "OnDemand/scenario/effect/eye_open_long"
       ],
       "isBuiltin": false
     },
@@ -30818,6 +32076,24 @@
       "dependencies": [],
       "paths": [
         "AdditionalVoice/sound/actionset/voice/areatalk03_209"
+      ],
+      "isBuiltin": false
+    },
+    "virtual_live/live/effect/stage_kira_fragile_last_orange": {
+      "bundleName": "virtual_live/live/effect/stage_kira_fragile_last_orange",
+      "cacheFileName": "be1ab5da3454bf1cad9214a04fa7e1c4",
+      "cacheDirectoryName": "bbb8",
+      "hash": "b400e997c56934470f64edafaa373129",
+      "category": "OnDemand",
+      "crc": 3498283764,
+      "fileSize": 81915,
+      "dependencies": [
+        "shader/particles"
+      ],
+      "paths": [
+        "OnDemand/virtual_live/live/effect/stage_kira_fragile_last_orange",
+        "OnDemand/virtual_live/live/effect/stage_kira_fragile_last_orange/material",
+        "OnDemand/virtual_live/live/effect/stage_kira_fragile_last_orange/texture"
       ],
       "isBuiltin": false
     },
@@ -31488,6 +32764,20 @@
       ],
       "isBuiltin": false
     },
+    "sound/actionset/voice/areatalk_ev_shuffle_01_002": {
+      "bundleName": "sound/actionset/voice/areatalk_ev_shuffle_01_002",
+      "cacheFileName": "32ffce3bd04fb559b2284b1a515ea3fc",
+      "cacheDirectoryName": "9d40",
+      "hash": "97df9369dd1482ebdecb463413b7545c",
+      "category": "AdditionalVoice",
+      "crc": 4238473518,
+      "fileSize": 229262,
+      "dependencies": [],
+      "paths": [
+        "AdditionalVoice/sound/actionset/voice/areatalk_ev_shuffle_01_002"
+      ],
+      "isBuiltin": false
+    },
     "sound/scenario/voice/leo_01_17": {
       "bundleName": "sound/scenario/voice/leo_01_17",
       "cacheFileName": "0176a8239cdea115e6c36ed1c352b2ac",
@@ -31499,6 +32789,20 @@
       "dependencies": [],
       "paths": [
         "OnDemand/sound/scenario/voice/leo_01_17"
+      ],
+      "isBuiltin": false
+    },
+    "sound/actionset/voice/areatalk_ev_shuffle_01_003": {
+      "bundleName": "sound/actionset/voice/areatalk_ev_shuffle_01_003",
+      "cacheFileName": "b72e7880b7b7e461d8d263d542afdab2",
+      "cacheDirectoryName": "9d40",
+      "hash": "efaccf380542eb8f78e58f6ccbffd201",
+      "category": "AdditionalVoice",
+      "crc": 3955966761,
+      "fileSize": 270023,
+      "dependencies": [],
+      "paths": [
+        "AdditionalVoice/sound/actionset/voice/areatalk_ev_shuffle_01_003"
       ],
       "isBuiltin": false
     },
@@ -31586,6 +32890,20 @@
       ],
       "isBuiltin": false
     },
+    "sound/actionset/voice/areatalk_ev_shuffle_01_001": {
+      "bundleName": "sound/actionset/voice/areatalk_ev_shuffle_01_001",
+      "cacheFileName": "07c72735ee7e6a072aecac9b7dc0737e",
+      "cacheDirectoryName": "9d40",
+      "hash": "366837dc6fae71c415e582fa13b211ef",
+      "category": "AdditionalVoice",
+      "crc": 1319863094,
+      "fileSize": 317849,
+      "dependencies": [],
+      "paths": [
+        "AdditionalVoice/sound/actionset/voice/areatalk_ev_shuffle_01_001"
+      ],
+      "isBuiltin": false
+    },
     "sound/scenario/voice/leo_01_14": {
       "bundleName": "sound/scenario/voice/leo_01_14",
       "cacheFileName": "80307e96a24c6d9b38005f37b2bc1e46",
@@ -31597,6 +32915,20 @@
       "dependencies": [],
       "paths": [
         "OnDemand/sound/scenario/voice/leo_01_14"
+      ],
+      "isBuiltin": false
+    },
+    "sound/actionset/voice/areatalk_ev_shuffle_01_006": {
+      "bundleName": "sound/actionset/voice/areatalk_ev_shuffle_01_006",
+      "cacheFileName": "c402d26b02919d10561db81231fa1856",
+      "cacheDirectoryName": "9d40",
+      "hash": "a4395c65e8631616f4ea175f99642e35",
+      "category": "AdditionalVoice",
+      "crc": 2421154841,
+      "fileSize": 335341,
+      "dependencies": [],
+      "paths": [
+        "AdditionalVoice/sound/actionset/voice/areatalk_ev_shuffle_01_006"
       ],
       "isBuiltin": false
     },
@@ -31628,6 +32960,20 @@
       ],
       "isBuiltin": false
     },
+    "sound/actionset/voice/areatalk_ev_shuffle_01_007": {
+      "bundleName": "sound/actionset/voice/areatalk_ev_shuffle_01_007",
+      "cacheFileName": "3f94d3011d4a64fa62227b859a8b489c",
+      "cacheDirectoryName": "9d40",
+      "hash": "af8f853d3a43bcac7ba2de0c1ebd8226",
+      "category": "AdditionalVoice",
+      "crc": 1644826819,
+      "fileSize": 304861,
+      "dependencies": [],
+      "paths": [
+        "AdditionalVoice/sound/actionset/voice/areatalk_ev_shuffle_01_007"
+      ],
+      "isBuiltin": false
+    },
     "sound/scenario/voice/leo_01_12": {
       "bundleName": "sound/scenario/voice/leo_01_12",
       "cacheFileName": "e0fe0fd92a279982421da31c7e73c86e",
@@ -31653,6 +32999,20 @@
       "dependencies": [],
       "paths": [
         "OnDemand/live/2dmode/original_mv/0018"
+      ],
+      "isBuiltin": false
+    },
+    "sound/actionset/voice/areatalk_ev_shuffle_01_004": {
+      "bundleName": "sound/actionset/voice/areatalk_ev_shuffle_01_004",
+      "cacheFileName": "bcb27cb8d5e1eefce0d2d80e0879b06e",
+      "cacheDirectoryName": "9d40",
+      "hash": "e218f175db1a61d65178782546472018",
+      "category": "AdditionalVoice",
+      "crc": 1714354736,
+      "fileSize": 226196,
+      "dependencies": [],
+      "paths": [
+        "AdditionalVoice/sound/actionset/voice/areatalk_ev_shuffle_01_004"
       ],
       "isBuiltin": false
     },
@@ -31682,6 +33042,20 @@
       "paths": [
         "StartApp/live2d/model/01ichika_cloth001",
         "StartApp/live2d/model/01ichika_cloth001/01ichika_cloth001_3.0_f_t01.2048"
+      ],
+      "isBuiltin": false
+    },
+    "sound/actionset/voice/areatalk_ev_shuffle_01_005": {
+      "bundleName": "sound/actionset/voice/areatalk_ev_shuffle_01_005",
+      "cacheFileName": "efdce4a5fc27b0799e02f3d273b127e6",
+      "cacheDirectoryName": "9d40",
+      "hash": "d63bbd268d30172ae61a255a37de5330",
+      "category": "AdditionalVoice",
+      "crc": 599189288,
+      "fileSize": 275585,
+      "dependencies": [],
+      "paths": [
+        "AdditionalVoice/sound/actionset/voice/areatalk_ev_shuffle_01_005"
       ],
       "isBuiltin": false
     },
@@ -31716,6 +33090,20 @@
         "OnDemand/live_pv/model/character/body/99/0014/ladies_l/fbx",
         "OnDemand/live_pv/model/character/body/99/0014/ladies_l/fbx/Materials",
         "OnDemand/live_pv/model/character/body/99/0014/ladies_l/sourceimages"
+      ],
+      "isBuiltin": false
+    },
+    "sound/actionset/voice/areatalk_ev_shuffle_01_008": {
+      "bundleName": "sound/actionset/voice/areatalk_ev_shuffle_01_008",
+      "cacheFileName": "7fa41b0f81a9fb4d9ac646ef06f0d41f",
+      "cacheDirectoryName": "9d40",
+      "hash": "af3d9a612499b59840b44ebfb1f60960",
+      "category": "AdditionalVoice",
+      "crc": 180958045,
+      "fileSize": 384141,
+      "dependencies": [],
+      "paths": [
+        "AdditionalVoice/sound/actionset/voice/areatalk_ev_shuffle_01_008"
       ],
       "isBuiltin": false
     },
@@ -31770,6 +33158,20 @@
       "dependencies": [],
       "paths": [
         "OnDemand/music/long/vs_0057_01"
+      ],
+      "isBuiltin": false
+    },
+    "sound/actionset/voice/areatalk_ev_shuffle_01_009": {
+      "bundleName": "sound/actionset/voice/areatalk_ev_shuffle_01_009",
+      "cacheFileName": "b227a34112d424f3370a900e2d278da7",
+      "cacheDirectoryName": "9d40",
+      "hash": "d3efccf995a35743932e15f0cfa2d911",
+      "category": "AdditionalVoice",
+      "crc": 430843114,
+      "fileSize": 448277,
+      "dependencies": [],
+      "paths": [
+        "AdditionalVoice/sound/actionset/voice/areatalk_ev_shuffle_01_009"
       ],
       "isBuiltin": false
     },
@@ -32902,6 +34304,20 @@
       ],
       "isBuiltin": false
     },
+    "character/member_cutout_trm/res018_no006": {
+      "bundleName": "character/member_cutout_trm/res018_no006",
+      "cacheFileName": "85d1fb023a3904d2daf78aa6b5464771",
+      "cacheDirectoryName": "60a1",
+      "hash": "bd443dfcb80d516fee1f023b9655ec82",
+      "category": "StartApp",
+      "crc": 1594530148,
+      "fileSize": 270198,
+      "dependencies": [],
+      "paths": [
+        "StartApp/character/member_cutout_trm/res018_no006"
+      ],
+      "isBuiltin": false
+    },
     "sound/card_scenario/voice/012003_touya01": {
       "bundleName": "sound/card_scenario/voice/012003_touya01",
       "cacheFileName": "f33424c45dafd53d84f6aac78a1584cb",
@@ -33358,14 +34774,14 @@
       "bundleName": "live2d/model/14emu_cloth001",
       "cacheFileName": "9e1d4443a34e6a96e52858dc211a1dfe",
       "cacheDirectoryName": "9efc",
-      "hash": "36cb347eb79952b0217696165365a991",
+      "hash": "d9230053bdbbf012f83e57832ef85148",
       "category": "StartApp",
-      "crc": 424910723,
-      "fileSize": 1284993,
+      "crc": 2275409094,
+      "fileSize": 1285175,
       "dependencies": [],
       "paths": [
         "StartApp/live2d/model/14emu_cloth001",
-        "StartApp/live2d/model/14emu_cloth001/14emu_cloth001_3.0_f_t02.2048"
+        "StartApp/live2d/model/14emu_cloth001/14emu_cloth001_3.0_f_t03.2048"
       ],
       "isBuiltin": false
     },
@@ -33927,14 +35343,14 @@
       "bundleName": "live2d/model/14emu_unit",
       "cacheFileName": "b2292ffa50a7a141bb3a5f2abe15b733",
       "cacheDirectoryName": "9efc",
-      "hash": "40666657d9133ac27e9a1c4da7889d75",
+      "hash": "1b162e925ab4353c6bf36cf3ccc05fb6",
       "category": "StartApp",
-      "crc": 901631733,
-      "fileSize": 1330331,
+      "crc": 1389873268,
+      "fileSize": 1330822,
       "dependencies": [],
       "paths": [
         "StartApp/live2d/model/14emu_unit",
-        "StartApp/live2d/model/14emu_unit/14emu_unit_3.0_f_t01.2048"
+        "StartApp/live2d/model/14emu_unit/14emu_unit_3.0_f_t02.2048"
       ],
       "isBuiltin": false
     },
@@ -33956,10 +35372,10 @@
       "bundleName": "sound/system_live2d/voice/voicepack_19",
       "cacheFileName": "a9867352b880fc36fbc97d869988776f",
       "cacheDirectoryName": "adf5",
-      "hash": "979e3a11859231172a6a759aa2d3d3ec",
+      "hash": "f2c0c9b2853899f80b8b04d8d3ad9444",
       "category": "AdditionalVoice",
-      "crc": 2268172679,
-      "fileSize": 1709840,
+      "crc": 3644852967,
+      "fileSize": 1782879,
       "dependencies": [],
       "paths": [
         "AdditionalVoice/sound/system_live2d/voice/voicepack_19"
@@ -34097,10 +35513,10 @@
       "bundleName": "sound/system_live2d/voice/voicepack_13",
       "cacheFileName": "46f3c356ded0098004f9a534152a6579",
       "cacheDirectoryName": "adf5",
-      "hash": "8958fe4e330f8597b3a73df46d6dbc41",
+      "hash": "bfcc10799f9ac2d3176f135fdfa97681",
       "category": "AdditionalVoice",
-      "crc": 230830482,
-      "fileSize": 1694896,
+      "crc": 2248859334,
+      "fileSize": 1775579,
       "dependencies": [],
       "paths": [
         "AdditionalVoice/sound/system_live2d/voice/voicepack_13"
@@ -34494,14 +35910,29 @@
       ],
       "isBuiltin": false
     },
+    "live2d/model/03honami_sports": {
+      "bundleName": "live2d/model/03honami_sports",
+      "cacheFileName": "990b749266e9cf92daf6829aa6698b5b",
+      "cacheDirectoryName": "9efc",
+      "hash": "5c97e21d6027a633e1d7e513b19a8319",
+      "category": "StartApp",
+      "crc": 3176301986,
+      "fileSize": 1051644,
+      "dependencies": [],
+      "paths": [
+        "StartApp/live2d/model/03honami_sports",
+        "StartApp/live2d/model/03honami_sports/03honami_sports_t01.2048"
+      ],
+      "isBuiltin": false
+    },
     "sound/system_live2d/voice/voicepack_20": {
       "bundleName": "sound/system_live2d/voice/voicepack_20",
       "cacheFileName": "f6dee6b1dce146c0a488fdf007fb7372",
       "cacheDirectoryName": "adf5",
-      "hash": "a520dfd51c5d39b580a204133106fac2",
+      "hash": "f4199ea261630d1e2e1a0d3889c5da32",
       "category": "AdditionalVoice",
-      "crc": 2870592931,
-      "fileSize": 1550177,
+      "crc": 1494985721,
+      "fileSize": 1545542,
       "dependencies": [],
       "paths": [
         "AdditionalVoice/sound/system_live2d/voice/voicepack_20"
@@ -35036,13 +36467,27 @@
       "bundleName": "character/member_cutout_trm/res014_no006",
       "cacheFileName": "65250f94f8a742bce216875e6f1cd403",
       "cacheDirectoryName": "60a1",
-      "hash": "5b21d0c9438d43d9fd7bb06c1133d494",
+      "hash": "bd57c561169c2ccb62fb982abbe9fbb5",
       "category": "StartApp",
-      "crc": 2148632389,
-      "fileSize": 198309,
+      "crc": 2656532081,
+      "fileSize": 198563,
       "dependencies": [],
       "paths": [
         "StartApp/character/member_cutout_trm/res014_no006"
+      ],
+      "isBuiltin": false
+    },
+    "character/member_cutout_trm/res014_no007": {
+      "bundleName": "character/member_cutout_trm/res014_no007",
+      "cacheFileName": "0e8986fd2e5af0e4394ee81d98691ae9",
+      "cacheDirectoryName": "60a1",
+      "hash": "b56192ca5ed706f716ad53946d9d5785",
+      "category": "StartApp",
+      "crc": 1443254429,
+      "fileSize": 226903,
+      "dependencies": [],
+      "paths": [
+        "StartApp/character/member_cutout_trm/res014_no007"
       ],
       "isBuiltin": false
     },
@@ -36539,8 +37984,8 @@
       "cacheDirectoryName": "d892",
       "hash": "c82855951e4bf584e9c4437210c772a6",
       "category": "OnDemand",
-      "crc": 932884030,
-      "fileSize": 5479013,
+      "crc": 1775246120,
+      "fileSize": 5479019,
       "dependencies": [
         "gacha/ab_gacha_1/screen",
         "gacha/ab_gacha_4/screen"
@@ -36870,6 +38315,22 @@
       "paths": [
         "StartApp/live2d/model/normal_1_model",
         "StartApp/live2d/model/normal_1_model/l2d_0a_hatsune_miku_t05.2048"
+      ],
+      "isBuiltin": false
+    },
+    "gacha/ab_gacha_11/screen": {
+      "bundleName": "gacha/ab_gacha_11/screen",
+      "cacheFileName": "77a123e1176f64022c5222beaaa778a6",
+      "cacheDirectoryName": "01ba",
+      "hash": "ed75058bd3cc535a4d6c8df0c36af96a",
+      "category": "OnDemand",
+      "crc": 2907724910,
+      "fileSize": 2636509,
+      "dependencies": [],
+      "paths": [
+        "OnDemand/gacha/ab_gacha_11/screen/container",
+        "OnDemand/gacha/ab_gacha_11/screen/material",
+        "OnDemand/gacha/ab_gacha_11/screen/texture"
       ],
       "isBuiltin": false
     },
@@ -37771,6 +39232,25 @@
       "dependencies": [],
       "paths": [
         "OnDemand/sound/scenario/voice/self_intro_ichika"
+      ],
+      "isBuiltin": false
+    },
+    "live_pv/model/character/face/14/0047": {
+      "bundleName": "live_pv/model/character/face/14/0047",
+      "cacheFileName": "0f099190a33682e75b0e3cb5cfda873d",
+      "cacheDirectoryName": "a102",
+      "hash": "ddc68bdf73a7f0edd363f0b4dde59850",
+      "category": "OnDemand",
+      "crc": 52982284,
+      "fileSize": 821319,
+      "dependencies": [
+        "shader/live"
+      ],
+      "paths": [
+        "OnDemand/live_pv/model/character/face/14/0047",
+        "OnDemand/live_pv/model/character/face/14/0047/fbx",
+        "OnDemand/live_pv/model/character/face/14/0047/fbx/Materials",
+        "OnDemand/live_pv/model/character/face/14/0047/sourceimages"
       ],
       "isBuiltin": false
     },
@@ -38885,6 +40365,20 @@
       "dependencies": [],
       "paths": [
         "OnDemand/event_story/event_jackpod_2020/episode_image"
+      ],
+      "isBuiltin": false
+    },
+    "event/event_sportsfestival_2020/logo": {
+      "bundleName": "event/event_sportsfestival_2020/logo",
+      "cacheFileName": "4cb3de84204d7079033007b839ee5eb4",
+      "cacheDirectoryName": "cda9",
+      "hash": "431cef9546cbb95b93bdd421f3fb423a",
+      "category": "OnDemand",
+      "crc": 1937404420,
+      "fileSize": 37908,
+      "dependencies": [],
+      "paths": [
+        "OnDemand/event/event_sportsfestival_2020/logo"
       ],
       "isBuiltin": false
     },
@@ -41646,10 +43140,10 @@
       "bundleName": "live2d/motion/21miku_motion_base",
       "cacheFileName": "440e2f5e8436aeb68ca6b9077424ef93",
       "cacheDirectoryName": "6b2d",
-      "hash": "28ca409d54981ad2c4362ba5c73a6171",
+      "hash": "8a028b183332bd1b7ba8c99323165bf2",
       "category": "StartApp",
-      "crc": 3036180561,
-      "fileSize": 288147,
+      "crc": 661899326,
+      "fileSize": 290338,
       "dependencies": [],
       "paths": [
         "StartApp/live2d/motion/21miku_motion_base",
@@ -42232,6 +43726,21 @@
       ],
       "isBuiltin": false
     },
+    "live2d/model/02saki_sports": {
+      "bundleName": "live2d/model/02saki_sports",
+      "cacheFileName": "127ad76c7d6be403f1f368c2d03d7e34",
+      "cacheDirectoryName": "9efc",
+      "hash": "fd71aa9b7ee5371c04623767e92453ae",
+      "category": "StartApp",
+      "crc": 2706809097,
+      "fileSize": 992523,
+      "dependencies": [],
+      "paths": [
+        "StartApp/live2d/model/02saki_sports",
+        "StartApp/live2d/model/02saki_sports/02saki_sports_t01.2048"
+      ],
+      "isBuiltin": false
+    },
     "live/voice/cutin/system_bondscp_015_016_first_1": {
       "bundleName": "live/voice/cutin/system_bondscp_015_016_first_1",
       "cacheFileName": "fa61c778a8e9623795006f4e3d4075c6",
@@ -42498,10 +44007,10 @@
       "bundleName": "virtual_live/sound/se/se_vl",
       "cacheFileName": "fca088c80d6c66d3a9304b1001c64d82",
       "cacheDirectoryName": "e6a6",
-      "hash": "e816399f73e6a257069d4139e44583c2",
+      "hash": "811d4a27e620aa6bfdfc47826758d0a8",
       "category": "StartApp",
-      "crc": 789312671,
-      "fileSize": 6026750,
+      "crc": 2339534593,
+      "fileSize": 6026809,
       "dependencies": [],
       "paths": [
         "StartApp/virtual_live/sound/se/se_vl"
@@ -42547,6 +44056,20 @@
       "dependencies": [],
       "paths": [
         "StartApp/area_sd/sd_08shizuku_cloth001"
+      ],
+      "isBuiltin": false
+    },
+    "event_story/event_sportsfestival_2020/scenario": {
+      "bundleName": "event_story/event_sportsfestival_2020/scenario",
+      "cacheFileName": "f9395a7b61783f38618919c7c1eab0c7",
+      "cacheDirectoryName": "af4f",
+      "hash": "4b7c55c4f7c7586a8249d82d29c06fe8",
+      "category": "OnDemand",
+      "crc": 3681174052,
+      "fileSize": 43812,
+      "dependencies": [],
+      "paths": [
+        "OnDemand/event_story/event_sportsfestival_2020/scenario"
       ],
       "isBuiltin": false
     },
@@ -42636,6 +44159,20 @@
         "OnDemand/virtual_live/live/effect/stage_spot_light_big_floor",
         "OnDemand/virtual_live/live/effect/stage_spot_light_big_floor/material",
         "OnDemand/virtual_live/live/effect/stage_spot_light_big_floor/texture"
+      ],
+      "isBuiltin": false
+    },
+    "character/member/res018_no006": {
+      "bundleName": "character/member/res018_no006",
+      "cacheFileName": "303355e7411a3eadeef9c7cabdff8083",
+      "cacheDirectoryName": "6a6b",
+      "hash": "d65d484c20f629227feef5c18054e3f2",
+      "category": "StartApp",
+      "crc": 3666519035,
+      "fileSize": 2083933,
+      "dependencies": [],
+      "paths": [
+        "StartApp/character/member/res018_no006"
       ],
       "isBuiltin": false
     },
@@ -42940,10 +44477,10 @@
       "bundleName": "scenario/effect/line",
       "cacheFileName": "5e1e88137c4b0081892a7cc8552412c4",
       "cacheDirectoryName": "725a",
-      "hash": "cf298c0ca933e0d27c857510cd20be77",
+      "hash": "60fe5fe63652839f34a371c526294f94",
       "category": "OnDemand",
-      "crc": 3754626283,
-      "fileSize": 71915,
+      "crc": 3273188932,
+      "fileSize": 85162,
       "dependencies": [],
       "paths": [
         "OnDemand/scenario/effect/line"
@@ -44784,6 +46321,20 @@
       ],
       "isBuiltin": false
     },
+    "sound/gacha/get_voice/res006_no005": {
+      "bundleName": "sound/gacha/get_voice/res006_no005",
+      "cacheFileName": "7269ab3f537d64f09919479d40f2b59e",
+      "cacheDirectoryName": "8134",
+      "hash": "137511942bbbe6c1f6c6fedf6dba9397",
+      "category": "StartApp",
+      "crc": 3166704143,
+      "fileSize": 28092,
+      "dependencies": [],
+      "paths": [
+        "StartApp/sound/gacha/get_voice/res006_no005"
+      ],
+      "isBuiltin": false
+    },
     "sound/card_scenario/voice/023002_len01": {
       "bundleName": "sound/card_scenario/voice/023002_len01",
       "cacheFileName": "9dd4c28f98e70bdfd6e2f57fcb9c05dd",
@@ -45096,14 +46647,14 @@
       "bundleName": "live2d/model/06haruka_asuran",
       "cacheFileName": "b0899b1177de60cc015f09ede2f9691d",
       "cacheDirectoryName": "9efc",
-      "hash": "d53992aec1dcaa6f2bf9cd390792f482",
+      "hash": "fca13a20718ca2f4f7ce11777520a9cb",
       "category": "StartApp",
-      "crc": 255306774,
-      "fileSize": 1220216,
+      "crc": 1560665548,
+      "fileSize": 1192498,
       "dependencies": [],
       "paths": [
         "StartApp/live2d/model/06haruka_asuran",
-        "StartApp/live2d/model/06haruka_asuran/06haruka_asuran_t01.2048"
+        "StartApp/live2d/model/06haruka_asuran/06haruka_asuran_f_t01.2048"
       ],
       "isBuiltin": false
     },
@@ -46638,6 +48189,34 @@
       ],
       "isBuiltin": false
     },
+    "sound/card_scenario/voice/006005_haruka02": {
+      "bundleName": "sound/card_scenario/voice/006005_haruka02",
+      "cacheFileName": "8d309098ace38913480589c249fff7c9",
+      "cacheDirectoryName": "e0f0",
+      "hash": "c4e9117bdb563b8aa747ee90f040d47b",
+      "category": "OnDemand",
+      "crc": 2737847436,
+      "fileSize": 2809044,
+      "dependencies": [],
+      "paths": [
+        "OnDemand/sound/card_scenario/voice/006005_haruka02"
+      ],
+      "isBuiltin": false
+    },
+    "sound/card_scenario/voice/006005_haruka01": {
+      "bundleName": "sound/card_scenario/voice/006005_haruka01",
+      "cacheFileName": "2d4c14526b2a401f6a2c6a2c6d2274a8",
+      "cacheDirectoryName": "e0f0",
+      "hash": "c9ce9d7341875f26e777a1dbd161645f",
+      "category": "OnDemand",
+      "crc": 1278535166,
+      "fileSize": 2202527,
+      "dependencies": [],
+      "paths": [
+        "OnDemand/sound/card_scenario/voice/006005_haruka01"
+      ],
+      "isBuiltin": false
+    },
     "sound/scenario/voice/street_01_09": {
       "bundleName": "sound/scenario/voice/street_01_09",
       "cacheFileName": "6c171b3031286f53b6e6dfe3d4bd2c85",
@@ -47044,10 +48623,10 @@
       "bundleName": "actionset/group8",
       "cacheFileName": "a34aea42e843e46e8200a9606fa381eb",
       "cacheDirectoryName": "975a",
-      "hash": "11d27a41893b4dd8e4fe7290b3f63e7f",
+      "hash": "923ccb9c3d62969c96ee71ff7b740abc",
       "category": "StartApp",
-      "crc": 261195352,
-      "fileSize": 8401,
+      "crc": 3716164643,
+      "fileSize": 9161,
       "dependencies": [],
       "paths": [
         "StartApp/actionset/group8"
@@ -47231,6 +48810,20 @@
       ],
       "isBuiltin": false
     },
+    "live_pv/model/character/color_variation/body/99/0047/ladies_m/03": {
+      "bundleName": "live_pv/model/character/color_variation/body/99/0047/ladies_m/03",
+      "cacheFileName": "609e30ca0d8fecfcba1fb2ef0228b480",
+      "cacheDirectoryName": "7fa7",
+      "hash": "cc97ec230bfc30574a3334756d1e98f7",
+      "category": "OnDemand",
+      "crc": 3763729340,
+      "fileSize": 126153,
+      "dependencies": [],
+      "paths": [
+        "OnDemand/live_pv/model/character/color_variation/body/99/0047/ladies_m/03"
+      ],
+      "isBuiltin": false
+    },
     "live/voice/cutin/system_bondscp_017_019_first_1": {
       "bundleName": "live/voice/cutin/system_bondscp_017_019_first_1",
       "cacheFileName": "115ef266a2ec3ac092e8a3308b949388",
@@ -47242,6 +48835,34 @@
       "dependencies": [],
       "paths": [
         "StartApp/live/voice/cutin/system_bondscp_017_019_first_1"
+      ],
+      "isBuiltin": false
+    },
+    "live_pv/model/character/color_variation/body/99/0047/ladies_m/01": {
+      "bundleName": "live_pv/model/character/color_variation/body/99/0047/ladies_m/01",
+      "cacheFileName": "aaa2f79628b4142f8cae1c603f67f1a4",
+      "cacheDirectoryName": "7fa7",
+      "hash": "9027466108e0e3c4a83f10b3f49e270e",
+      "category": "OnDemand",
+      "crc": 2998263451,
+      "fileSize": 127595,
+      "dependencies": [],
+      "paths": [
+        "OnDemand/live_pv/model/character/color_variation/body/99/0047/ladies_m/01"
+      ],
+      "isBuiltin": false
+    },
+    "live_pv/model/character/color_variation/body/99/0047/ladies_m/02": {
+      "bundleName": "live_pv/model/character/color_variation/body/99/0047/ladies_m/02",
+      "cacheFileName": "31a5b6c3c06bda89a5da94e6ab29aa1e",
+      "cacheDirectoryName": "7fa7",
+      "hash": "3059ba1ddbc33170c09b2467d267a676",
+      "category": "OnDemand",
+      "crc": 1879026528,
+      "fileSize": 126281,
+      "dependencies": [],
+      "paths": [
+        "OnDemand/live_pv/model/character/color_variation/body/99/0047/ladies_m/02"
       ],
       "isBuiltin": false
     },
@@ -47704,6 +49325,20 @@
       "dependencies": [],
       "paths": [
         "AdditionalVoice/sound/actionset/voice/areatalk02_348"
+      ],
+      "isBuiltin": false
+    },
+    "character/member_cutout/res002_no006": {
+      "bundleName": "character/member_cutout/res002_no006",
+      "cacheFileName": "a3cb123a735f37bbb926fb2c2b21e854",
+      "cacheDirectoryName": "c35b",
+      "hash": "c3547ad422b243e79192aaeea6e4f0b9",
+      "category": "StartApp",
+      "crc": 806796692,
+      "fileSize": 134914,
+      "dependencies": [],
+      "paths": [
+        "StartApp/character/member_cutout/res002_no006"
       ],
       "isBuiltin": false
     },
@@ -48899,6 +50534,20 @@
       ],
       "isBuiltin": false
     },
+    "live_pv/model/character/color_variation/body/99/0048/ladies_l/02": {
+      "bundleName": "live_pv/model/character/color_variation/body/99/0048/ladies_l/02",
+      "cacheFileName": "f833c32d0428113e75f86328c5a9915d",
+      "cacheDirectoryName": "2285",
+      "hash": "f0796286b028f0941b9faebd88f6fe47",
+      "category": "OnDemand",
+      "crc": 549815702,
+      "fileSize": 111702,
+      "dependencies": [],
+      "paths": [
+        "OnDemand/live_pv/model/character/color_variation/body/99/0048/ladies_l/02"
+      ],
+      "isBuiltin": false
+    },
     "areaitem/areaitem0801": {
       "bundleName": "areaitem/areaitem0801",
       "cacheFileName": "bdaffcc7b20a124fd70887d982570700",
@@ -48933,6 +50582,20 @@
       ],
       "isBuiltin": false
     },
+    "live_pv/model/character/color_variation/body/99/0048/ladies_l/01": {
+      "bundleName": "live_pv/model/character/color_variation/body/99/0048/ladies_l/01",
+      "cacheFileName": "ccfc780fcb7fdfa6689bb0b45f6da715",
+      "cacheDirectoryName": "2285",
+      "hash": "95f3f4e3855b77d321e4dd8c1970b11b",
+      "category": "OnDemand",
+      "crc": 541414854,
+      "fileSize": 110879,
+      "dependencies": [],
+      "paths": [
+        "OnDemand/live_pv/model/character/color_variation/body/99/0048/ladies_l/01"
+      ],
+      "isBuiltin": false
+    },
     "areaitem/areaitem0804": {
       "bundleName": "areaitem/areaitem0804",
       "cacheFileName": "dac80128a8c91164c4ac12db78ffb58d",
@@ -48958,6 +50621,20 @@
       "dependencies": [],
       "paths": [
         "StartApp/areaitem/areaitem0803"
+      ],
+      "isBuiltin": false
+    },
+    "live_pv/model/character/color_variation/body/99/0048/ladies_l/03": {
+      "bundleName": "live_pv/model/character/color_variation/body/99/0048/ladies_l/03",
+      "cacheFileName": "940ac66fc8b1339d5de979daf8801ac4",
+      "cacheDirectoryName": "2285",
+      "hash": "766c586d07daa2d357d590df7722041d",
+      "category": "OnDemand",
+      "crc": 1658739425,
+      "fileSize": 110755,
+      "dependencies": [],
+      "paths": [
+        "OnDemand/live_pv/model/character/color_variation/body/99/0048/ladies_l/03"
       ],
       "isBuiltin": false
     },
@@ -50133,6 +51810,20 @@
       ],
       "isBuiltin": false
     },
+    "sound/card_scenario/voice/018006_mafuyu01": {
+      "bundleName": "sound/card_scenario/voice/018006_mafuyu01",
+      "cacheFileName": "852f19227a95c5931f89a002cbc7dce1",
+      "cacheDirectoryName": "e0f0",
+      "hash": "7de7c8af2aa60037b3884eb3d1dc4af5",
+      "category": "OnDemand",
+      "crc": 571356617,
+      "fileSize": 1394297,
+      "dependencies": [],
+      "paths": [
+        "OnDemand/sound/card_scenario/voice/018006_mafuyu01"
+      ],
+      "isBuiltin": false
+    },
     "live_pv/model/character/body/99/0012/ladies_s": {
       "bundleName": "live_pv/model/character/body/99/0012/ladies_s",
       "cacheFileName": "b1bf5d31b907bfda43fabad51cd67d61",
@@ -50150,6 +51841,20 @@
         "OnDemand/live_pv/model/character/body/99/0012/ladies_s/fbx",
         "OnDemand/live_pv/model/character/body/99/0012/ladies_s/fbx/Materials",
         "OnDemand/live_pv/model/character/body/99/0012/ladies_s/sourceimages"
+      ],
+      "isBuiltin": false
+    },
+    "sound/card_scenario/voice/018006_mafuyu02": {
+      "bundleName": "sound/card_scenario/voice/018006_mafuyu02",
+      "cacheFileName": "b1071d559c1280b7d027157cc3f8fca9",
+      "cacheDirectoryName": "e0f0",
+      "hash": "b822849b45f99ea23ddc8695174d514a",
+      "category": "OnDemand",
+      "crc": 2332735625,
+      "fileSize": 1497452,
+      "dependencies": [],
+      "paths": [
+        "OnDemand/sound/card_scenario/voice/018006_mafuyu02"
       ],
       "isBuiltin": false
     },
@@ -50485,6 +52190,34 @@
       ],
       "isBuiltin": false
     },
+    "sound/scenario/bgm/bgm00052": {
+      "bundleName": "sound/scenario/bgm/bgm00052",
+      "cacheFileName": "43263086dfb548bbcde7034d5b406f6d",
+      "cacheDirectoryName": "414f",
+      "hash": "b35c2bb7d3dd9a6e3544af072f223fe2",
+      "category": "OnDemand",
+      "crc": 4200115116,
+      "fileSize": 494307,
+      "dependencies": [],
+      "paths": [
+        "OnDemand/sound/scenario/bgm/bgm00052"
+      ],
+      "isBuiltin": false
+    },
+    "sound/scenario/bgm/bgm00051": {
+      "bundleName": "sound/scenario/bgm/bgm00051",
+      "cacheFileName": "257131004f72e7a2c8d7898345f2b001",
+      "cacheDirectoryName": "414f",
+      "hash": "3f22edb5d6e8c14a2dddc8938cf8f960",
+      "category": "OnDemand",
+      "crc": 1513351904,
+      "fileSize": 949152,
+      "dependencies": [],
+      "paths": [
+        "OnDemand/sound/scenario/bgm/bgm00051"
+      ],
+      "isBuiltin": false
+    },
     "live_pv/timeline/0041/stage": {
       "bundleName": "live_pv/timeline/0041/stage",
       "cacheFileName": "9f78518789d07bff8ccbcd87e16ccf94",
@@ -50496,6 +52229,20 @@
       "dependencies": [],
       "paths": [
         "OnDemand/live_pv/timeline/0041/stage"
+      ],
+      "isBuiltin": false
+    },
+    "sound/scenario/bgm/bgm00053": {
+      "bundleName": "sound/scenario/bgm/bgm00053",
+      "cacheFileName": "f2315b4e3687a922a54e6019c341af55",
+      "cacheDirectoryName": "414f",
+      "hash": "4e1f75462d526580d8c24166df080e0f",
+      "category": "OnDemand",
+      "crc": 4142570977,
+      "fileSize": 1025645,
+      "dependencies": [],
+      "paths": [
+        "OnDemand/sound/scenario/bgm/bgm00053"
       ],
       "isBuiltin": false
     },
@@ -50602,6 +52349,20 @@
       ],
       "isBuiltin": false
     },
+    "movie/gacha/ab_gacha_10_mv2": {
+      "bundleName": "movie/gacha/ab_gacha_10_mv2",
+      "cacheFileName": "93a24a6472f5df3737aeeaf9438319fa",
+      "cacheDirectoryName": "8aa9",
+      "hash": "b51527a66bbbf5648c87dd3a6c0bbf11",
+      "category": "OnDemand",
+      "crc": 1561081433,
+      "fileSize": 27734852,
+      "dependencies": [],
+      "paths": [
+        "OnDemand/movie/gacha/ab_gacha_10_mv2"
+      ],
+      "isBuiltin": false
+    },
     "live2d/model/15nene_jc": {
       "bundleName": "live2d/model/15nene_jc",
       "cacheFileName": "9672c13f8262b7a6da6a3f1ad8c54650",
@@ -50628,6 +52389,20 @@
       "dependencies": [],
       "paths": [
         "OnDemand/live_pv/model/character/color_variation/body/99/0018/ladies_m/03"
+      ],
+      "isBuiltin": false
+    },
+    "movie/gacha/ab_gacha_10_mv1": {
+      "bundleName": "movie/gacha/ab_gacha_10_mv1",
+      "cacheFileName": "ead5fe10a9d4d3d8b442c6248052652c",
+      "cacheDirectoryName": "8aa9",
+      "hash": "5f28338f630b258b6b42a3ba203658d0",
+      "category": "OnDemand",
+      "crc": 2991082618,
+      "fileSize": 27826438,
+      "dependencies": [],
+      "paths": [
+        "OnDemand/movie/gacha/ab_gacha_10_mv1"
       ],
       "isBuiltin": false
     },
@@ -50684,6 +52459,20 @@
       "dependencies": [],
       "paths": [
         "OnDemand/virtual_live/performer/motion/w_happy_sad_01"
+      ],
+      "isBuiltin": false
+    },
+    "character/member_small/res006_no005": {
+      "bundleName": "character/member_small/res006_no005",
+      "cacheFileName": "038a5c336d092baf80a5a0c756f4efb4",
+      "cacheDirectoryName": "c553",
+      "hash": "7b30f8848437d296633ade83383be770",
+      "category": "StartApp",
+      "crc": 1682594790,
+      "fileSize": 398696,
+      "dependencies": [],
+      "paths": [
+        "StartApp/character/member_small/res006_no005"
       ],
       "isBuiltin": false
     },
@@ -53109,6 +54898,20 @@
       ],
       "isBuiltin": false
     },
+    "gacha/ab_gacha_10/logo": {
+      "bundleName": "gacha/ab_gacha_10/logo",
+      "cacheFileName": "0b073be3630b32ae3db7835805426bfd",
+      "cacheDirectoryName": "30df",
+      "hash": "ab500c983f1e17dc0554bdbe2d4b270e",
+      "category": "OnDemand",
+      "crc": 3594675091,
+      "fileSize": 123762,
+      "dependencies": [],
+      "paths": [
+        "OnDemand/gacha/ab_gacha_10/logo"
+      ],
+      "isBuiltin": false
+    },
     "music/long/vs_0092_01": {
       "bundleName": "music/long/vs_0092_01",
       "cacheFileName": "7cc4ad56bb7e28d448b5f23faad26424",
@@ -53123,6 +54926,62 @@
       ],
       "isBuiltin": false
     },
+    "sound/scenario/voice/event_04_01": {
+      "bundleName": "sound/scenario/voice/event_04_01",
+      "cacheFileName": "e826a48f23810f3a2d768fd5ee12d5e1",
+      "cacheDirectoryName": "c649",
+      "hash": "111081ba5b96baaf743c6bb0185d79ed",
+      "category": "OnDemand",
+      "crc": 3894533369,
+      "fileSize": 3865904,
+      "dependencies": [],
+      "paths": [
+        "OnDemand/sound/scenario/voice/event_04_01"
+      ],
+      "isBuiltin": false
+    },
+    "sound/scenario/voice/event_04_03": {
+      "bundleName": "sound/scenario/voice/event_04_03",
+      "cacheFileName": "60a7e0cec76994e98929f29dc9110ae2",
+      "cacheDirectoryName": "c649",
+      "hash": "3ea8d25232b3a5b6e3166d4741d54f55",
+      "category": "OnDemand",
+      "crc": 2085628402,
+      "fileSize": 3643657,
+      "dependencies": [],
+      "paths": [
+        "OnDemand/sound/scenario/voice/event_04_03"
+      ],
+      "isBuiltin": false
+    },
+    "sound/scenario/voice/event_04_02": {
+      "bundleName": "sound/scenario/voice/event_04_02",
+      "cacheFileName": "a905e6612ddceb07fd30044ff16c72dc",
+      "cacheDirectoryName": "c649",
+      "hash": "5e3f4494e3ec90368ff746fb89eba3e5",
+      "category": "OnDemand",
+      "crc": 2822626398,
+      "fileSize": 2630013,
+      "dependencies": [],
+      "paths": [
+        "OnDemand/sound/scenario/voice/event_04_02"
+      ],
+      "isBuiltin": false
+    },
+    "sound/scenario/voice/event_04_05": {
+      "bundleName": "sound/scenario/voice/event_04_05",
+      "cacheFileName": "cd5ad1f3075a8b10582f02eabe19c011",
+      "cacheDirectoryName": "c649",
+      "hash": "0a98eb35c522bf1fc9943fae947ba893",
+      "category": "OnDemand",
+      "crc": 1284192184,
+      "fileSize": 2911257,
+      "dependencies": [],
+      "paths": [
+        "OnDemand/sound/scenario/voice/event_04_05"
+      ],
+      "isBuiltin": false
+    },
     "virtual_live/mc/voice/mc_release_02_3": {
       "bundleName": "virtual_live/mc/voice/mc_release_02_3",
       "cacheFileName": "35f24f4fa53166e5348a698733124f15",
@@ -53134,6 +54993,20 @@
       "dependencies": [],
       "paths": [
         "OnDemand/virtual_live/mc/voice/mc_release_02_3"
+      ],
+      "isBuiltin": false
+    },
+    "sound/scenario/voice/event_04_04": {
+      "bundleName": "sound/scenario/voice/event_04_04",
+      "cacheFileName": "793a9071728e409b49b0efa6292fe6a4",
+      "cacheDirectoryName": "c649",
+      "hash": "138d31ff8a2f358361a7bcc96bb9cec0",
+      "category": "OnDemand",
+      "crc": 2266391782,
+      "fileSize": 3227889,
+      "dependencies": [],
+      "paths": [
+        "OnDemand/sound/scenario/voice/event_04_04"
       ],
       "isBuiltin": false
     },
@@ -53326,6 +55199,20 @@
       ],
       "isBuiltin": false
     },
+    "sound/scenario/voice/event_04_07": {
+      "bundleName": "sound/scenario/voice/event_04_07",
+      "cacheFileName": "6c4c8ae02b5129d30ac8ee4a7501900a",
+      "cacheDirectoryName": "c649",
+      "hash": "bf3d840a3d1475ca3b8924cb8419b557",
+      "category": "OnDemand",
+      "crc": 19180961,
+      "fileSize": 2176599,
+      "dependencies": [],
+      "paths": [
+        "OnDemand/sound/scenario/voice/event_04_07"
+      ],
+      "isBuiltin": false
+    },
     "live2d/motion/13tsukasa_motion_base": {
       "bundleName": "live2d/motion/13tsukasa_motion_base",
       "cacheFileName": "f0803563f774204887785b4c9797ff9f",
@@ -53339,6 +55226,20 @@
         "StartApp/live2d/motion/13tsukasa_motion_base",
         "StartApp/live2d/motion/13tsukasa_motion_base/facial",
         "StartApp/live2d/motion/13tsukasa_motion_base/motion"
+      ],
+      "isBuiltin": false
+    },
+    "sound/scenario/voice/event_04_06": {
+      "bundleName": "sound/scenario/voice/event_04_06",
+      "cacheFileName": "e76713c5cd856a4b2c3c503ce4110954",
+      "cacheDirectoryName": "c649",
+      "hash": "b84c0708621cebb86b0f3c617a9bd978",
+      "category": "OnDemand",
+      "crc": 728370798,
+      "fileSize": 2490463,
+      "dependencies": [],
+      "paths": [
+        "OnDemand/sound/scenario/voice/event_04_06"
       ],
       "isBuiltin": false
     },
@@ -53359,6 +55260,20 @@
         "OnDemand/live_pv/model/character/face/15/0001/fbx",
         "OnDemand/live_pv/model/character/face/15/0001/fbx/Materials",
         "OnDemand/live_pv/model/character/face/15/0001/sourceimages"
+      ],
+      "isBuiltin": false
+    },
+    "sound/scenario/voice/event_04_08": {
+      "bundleName": "sound/scenario/voice/event_04_08",
+      "cacheFileName": "9ff4fd986418b828883983bc20b0584f",
+      "cacheDirectoryName": "c649",
+      "hash": "4390c37a1e2f966b2fd00eee47a2988d",
+      "category": "OnDemand",
+      "crc": 90869897,
+      "fileSize": 2313829,
+      "dependencies": [],
+      "paths": [
+        "OnDemand/sound/scenario/voice/event_04_08"
       ],
       "isBuiltin": false
     },
@@ -53599,10 +55514,10 @@
       "bundleName": "thumbnail/avatar_coordinate",
       "cacheFileName": "19e6d1c230f7ca6038040509f74e11f8",
       "cacheDirectoryName": "951d",
-      "hash": "8e218d2ee496a9e174e0f1e612ba18bf",
+      "hash": "4a186c13c45406aff45884af5db7d58a",
       "category": "StartApp",
-      "crc": 2161759900,
-      "fileSize": 49297,
+      "crc": 1686646098,
+      "fileSize": 53682,
       "dependencies": [],
       "paths": [
         "StartApp/thumbnail/avatar_coordinate"
@@ -54060,6 +55975,20 @@
       ],
       "isBuiltin": false
     },
+    "character/member_cutout/res021_no010": {
+      "bundleName": "character/member_cutout/res021_no010",
+      "cacheFileName": "cb134e243dce760e2cdd2d60a6c3fc77",
+      "cacheDirectoryName": "c35b",
+      "hash": "37af48ae56269e0866b35edcdd0badf7",
+      "category": "StartApp",
+      "crc": 1007344368,
+      "fileSize": 287000,
+      "dependencies": [],
+      "paths": [
+        "StartApp/character/member_cutout/res021_no010"
+      ],
+      "isBuiltin": false
+    },
     "live/voice/cutin/system_commoncp_011_second_2": {
       "bundleName": "live/voice/cutin/system_commoncp_011_second_2",
       "cacheFileName": "1b288626d9fc2d34260ee8f1269ce011",
@@ -54092,10 +56021,10 @@
       "bundleName": "virtual_live/live/effect/stage_smoke_back_street",
       "cacheFileName": "ced2d53ddcab7eaa74d506c24f67303f",
       "cacheDirectoryName": "bbb8",
-      "hash": "c2ccea161475cc5a816194914a0ea7b4",
+      "hash": "0530dfff6b0496d07786e664f7a8641b",
       "category": "OnDemand",
-      "crc": 1400860983,
-      "fileSize": 71715,
+      "crc": 856017270,
+      "fileSize": 71700,
       "dependencies": [
         "shader/particles"
       ],
@@ -55026,6 +56955,20 @@
       ],
       "isBuiltin": false
     },
+    "character/member_cutout_trm/res021_no010": {
+      "bundleName": "character/member_cutout_trm/res021_no010",
+      "cacheFileName": "3f90f75c63616d91368948fef1cd66b0",
+      "cacheDirectoryName": "60a1",
+      "hash": "e0035521528da106ee58bb4228194aaa",
+      "category": "StartApp",
+      "crc": 842909076,
+      "fileSize": 283991,
+      "dependencies": [],
+      "paths": [
+        "StartApp/character/member_cutout_trm/res021_no010"
+      ],
+      "isBuiltin": false
+    },
     "character/member_cutout_trm/res022_no004": {
       "bundleName": "character/member_cutout_trm/res022_no004",
       "cacheFileName": "eb5136d91fca2be5b9d0394eaf4448c1",
@@ -55519,6 +57462,20 @@
       ],
       "isBuiltin": false
     },
+    "event/event_sportsfestival_2020/icon": {
+      "bundleName": "event/event_sportsfestival_2020/icon",
+      "cacheFileName": "8f519e9f7a07b778ea58494edf1fd401",
+      "cacheDirectoryName": "cda9",
+      "hash": "ceac1536ed900912aa36e5b2929a10d6",
+      "category": "OnDemand",
+      "crc": 4029190912,
+      "fileSize": 10893,
+      "dependencies": [],
+      "paths": [
+        "OnDemand/event/event_sportsfestival_2020/icon"
+      ],
+      "isBuiltin": false
+    },
     "sound/actionset/voice/areatalk02_235": {
       "bundleName": "sound/actionset/voice/areatalk02_235",
       "cacheFileName": "6183a00c0c0b48ef9ec348f08103168f",
@@ -55733,14 +57690,14 @@
       "bundleName": "live2d/model/21miku_wonder",
       "cacheFileName": "e7f3028544d599360b6278ae82af5983",
       "cacheDirectoryName": "9efc",
-      "hash": "d53ca72b2c2ea098a1716e88e40e94dd",
+      "hash": "0b6259e0e0ecc6518527b78ec859dea0",
       "category": "StartApp",
-      "crc": 1221889742,
-      "fileSize": 1369947,
+      "crc": 205453965,
+      "fileSize": 1415547,
       "dependencies": [],
       "paths": [
         "StartApp/live2d/model/21miku_wonder",
-        "StartApp/live2d/model/21miku_wonder/21miku_wonder_3.0_f_t01.2048"
+        "StartApp/live2d/model/21miku_wonder/21miku_wonder_3.0_f_t02.2048"
       ],
       "isBuiltin": false
     },
@@ -56638,6 +58595,20 @@
       ],
       "isBuiltin": false
     },
+    "virtual_live/select/banner/vlentrance_00036": {
+      "bundleName": "virtual_live/select/banner/vlentrance_00036",
+      "cacheFileName": "b1d0f6277d5f7692982f2edf03a2396f",
+      "cacheDirectoryName": "3282",
+      "hash": "4f1c1784f006a53f01e7675bd7e82e06",
+      "category": "OnDemand",
+      "crc": 3683522846,
+      "fileSize": 58872,
+      "dependencies": [],
+      "paths": [
+        "OnDemand/virtual_live/select/banner/vlentrance_00036"
+      ],
+      "isBuiltin": false
+    },
     "sound/actionset/voice/areatalk02_257": {
       "bundleName": "sound/actionset/voice/areatalk02_257",
       "cacheFileName": "d3eddeb89864fb9b3738c6d680818451",
@@ -56824,10 +58795,10 @@
       "bundleName": "live2d/model/06haruka_normal",
       "cacheFileName": "ff394f2cddfe53adb09b5ddd4ee53e6f",
       "cacheDirectoryName": "9efc",
-      "hash": "c814ad7cdd90e5c6ff2e3adaeed81b66",
+      "hash": "3d8161c1409158184f508e6ebf3951f8",
       "category": "StartApp",
-      "crc": 3413957034,
-      "fileSize": 909450,
+      "crc": 2103665344,
+      "fileSize": 905779,
       "dependencies": [],
       "paths": [
         "StartApp/live2d/model/06haruka_normal",
@@ -56937,10 +58908,10 @@
       "bundleName": "virtual_live/live/effect/stage_smoke_front_street",
       "cacheFileName": "7b1d3d793804c06f29ecaf0d85502791",
       "cacheDirectoryName": "bbb8",
-      "hash": "3ae6628b0859ea95d2ba4b4d56152a4a",
+      "hash": "d78014b7583e5ef0235af909509fbbe8",
       "category": "OnDemand",
-      "crc": 3744678776,
-      "fileSize": 71564,
+      "crc": 1549388577,
+      "fileSize": 71762,
       "dependencies": [
         "shader/particles"
       ],
@@ -57784,14 +59755,14 @@
       "bundleName": "live2d/model/14emu_normal",
       "cacheFileName": "e81ed601af33c4724223309346582f1a",
       "cacheDirectoryName": "9efc",
-      "hash": "bcac99b4647a6a7d5f84babc2b6a88a4",
+      "hash": "191b3a609c451a6bfc6f7cf2fe0d1b12",
       "category": "StartApp",
-      "crc": 2979916176,
-      "fileSize": 1102128,
+      "crc": 538745426,
+      "fileSize": 1101662,
       "dependencies": [],
       "paths": [
         "StartApp/live2d/model/14emu_normal",
-        "StartApp/live2d/model/14emu_normal/14emu_normal_3.0_f_t02.2048"
+        "StartApp/live2d/model/14emu_normal/14emu_normal_3.0_f_t03.2048"
       ],
       "isBuiltin": false
     },
@@ -59408,6 +61379,20 @@
       ],
       "isBuiltin": false
     },
+    "home/banner/banner_virtuallive36": {
+      "bundleName": "home/banner/banner_virtuallive36",
+      "cacheFileName": "8276026f044f50837cbf6f04fee760f9",
+      "cacheDirectoryName": "0095",
+      "hash": "0063399dd4352290ea1d16f007a20ff7",
+      "category": "StartApp",
+      "crc": 3117059328,
+      "fileSize": 37011,
+      "dependencies": [],
+      "paths": [
+        "StartApp/home/banner/banner_virtuallive36"
+      ],
+      "isBuiltin": false
+    },
     "live/voice/cutin/system_bondscp_001_004_first_1": {
       "bundleName": "live/voice/cutin/system_bondscp_001_004_first_1",
       "cacheFileName": "ed21e70445389899ce96934dc3997f87",
@@ -59955,10 +61940,10 @@
       "bundleName": "live2d/motion/14emu_motion_base",
       "cacheFileName": "fb0b0fa051ad0002e6adca14b2989d1f",
       "cacheDirectoryName": "6b2d",
-      "hash": "ae025688c664764f9157dc64a81e003c",
+      "hash": "78e0bd9eabe36b4373739a5e6766580b",
       "category": "StartApp",
-      "crc": 2751841401,
-      "fileSize": 287645,
+      "crc": 4098784941,
+      "fileSize": 290285,
       "dependencies": [],
       "paths": [
         "StartApp/live2d/motion/14emu_motion_base",
@@ -60258,6 +62243,20 @@
       ],
       "isBuiltin": false
     },
+    "music/long/vs_0052_01": {
+      "bundleName": "music/long/vs_0052_01",
+      "cacheFileName": "fb30dd44cddfb8dddaee6254063bf930",
+      "cacheDirectoryName": "4901",
+      "hash": "aea2c8ba6c962f04b4a816cb80142ca4",
+      "category": "OnDemand",
+      "crc": 3503774141,
+      "fileSize": 1579234,
+      "dependencies": [],
+      "paths": [
+        "OnDemand/music/long/vs_0052_01"
+      ],
+      "isBuiltin": false
+    },
     "live_pv/model/character/face/22/0000": {
       "bundleName": "live_pv/model/character/face/22/0000",
       "cacheFileName": "ea5e29b801b4521c15ed71b109f3534e",
@@ -60319,6 +62318,20 @@
       "dependencies": [],
       "paths": [
         "OnDemand/live_pv/model/character/color_variation/body/99/0028/ladies_ss/02"
+      ],
+      "isBuiltin": false
+    },
+    "event/event_sportsfestival_2020/slide/top": {
+      "bundleName": "event/event_sportsfestival_2020/slide/top",
+      "cacheFileName": "65be03dd13b8b2016315894fae1cbf02",
+      "cacheDirectoryName": "fb89",
+      "hash": "1687f6e694985d6cd0d4ecea86388330",
+      "category": "OnDemand",
+      "crc": 2328119704,
+      "fileSize": 482203,
+      "dependencies": [],
+      "paths": [
+        "OnDemand/event/event_sportsfestival_2020/slide/top"
       ],
       "isBuiltin": false
     },
@@ -61981,6 +63994,24 @@
       ],
       "isBuiltin": false
     },
+    "virtual_live/live/effect/stage_spot_light_fragile_high_akito": {
+      "bundleName": "virtual_live/live/effect/stage_spot_light_fragile_high_akito",
+      "cacheFileName": "d8e0bf1d05d60f45ac748701105b2ad8",
+      "cacheDirectoryName": "bbb8",
+      "hash": "43688b89408444b4982806d48ed21d93",
+      "category": "OnDemand",
+      "crc": 149873522,
+      "fileSize": 105548,
+      "dependencies": [
+        "shader/particles"
+      ],
+      "paths": [
+        "OnDemand/virtual_live/live/effect/stage_spot_light_fragile_high_akito",
+        "OnDemand/virtual_live/live/effect/stage_spot_light_fragile_high_akito/material",
+        "OnDemand/virtual_live/live/effect/stage_spot_light_fragile_high_akito/texture"
+      ],
+      "isBuiltin": false
+    },
     "scenario/background/bg_a001801": {
       "bundleName": "scenario/background/bg_a001801",
       "cacheFileName": "eb30f7e9c6ccad7390f013f803fccfc1",
@@ -62349,10 +64380,10 @@
       "bundleName": "scenario/actionset/group8",
       "cacheFileName": "06654ee96af033785f361658324c08ef",
       "cacheDirectoryName": "a534",
-      "hash": "1c98a4bbadf69fa9c29fa92f06d02b41",
+      "hash": "ef65a3443771e165f831ca877b2557a0",
       "category": "StartApp",
-      "crc": 1489748793,
-      "fileSize": 31801,
+      "crc": 3326544020,
+      "fileSize": 37639,
       "dependencies": [],
       "paths": [
         "StartApp/scenario/actionset/group8"
@@ -62961,6 +64992,20 @@
       ],
       "isBuiltin": false
     },
+    "event/event_sportsfestival_2020/screen": {
+      "bundleName": "event/event_sportsfestival_2020/screen",
+      "cacheFileName": "1c1f22399212b908ac64eca537532f8a",
+      "cacheDirectoryName": "cda9",
+      "hash": "262147e92aa899946c0fc7c30ae741db",
+      "category": "OnDemand",
+      "crc": 2764894257,
+      "fileSize": 1241551,
+      "dependencies": [],
+      "paths": [
+        "OnDemand/event/event_sportsfestival_2020/screen"
+      ],
+      "isBuiltin": false
+    },
     "virtual_live/mc/voice/mc_template2": {
       "bundleName": "virtual_live/mc/voice/mc_template2",
       "cacheFileName": "202aaecfee22078f614add8ff82e5aaa",
@@ -63047,6 +65092,24 @@
       "dependencies": [],
       "paths": [
         "OnDemand/live_pv/timeline/0003/character"
+      ],
+      "isBuiltin": false
+    },
+    "virtual_live/live/effect/stage_floor_foot_kira_orange": {
+      "bundleName": "virtual_live/live/effect/stage_floor_foot_kira_orange",
+      "cacheFileName": "7181f59b46ab724aed42c1a551ed775e",
+      "cacheDirectoryName": "bbb8",
+      "hash": "836ab25ae55d2d13502452f93cfc71fa",
+      "category": "OnDemand",
+      "crc": 3156880208,
+      "fileSize": 82704,
+      "dependencies": [
+        "shader/particles"
+      ],
+      "paths": [
+        "OnDemand/virtual_live/live/effect/stage_floor_foot_kira_orange",
+        "OnDemand/virtual_live/live/effect/stage_floor_foot_kira_orange/material",
+        "OnDemand/virtual_live/live/effect/stage_floor_foot_kira_orange/texture"
       ],
       "isBuiltin": false
     },
@@ -63258,6 +65321,34 @@
       ],
       "isBuiltin": false
     },
+    "virtual_live/mc/voice/mc_bd_2020akito_2": {
+      "bundleName": "virtual_live/mc/voice/mc_bd_2020akito_2",
+      "cacheFileName": "8524f0cf5b4cf68e15b31a88cc465f42",
+      "cacheDirectoryName": "6e69",
+      "hash": "834e8fa1aaf03a521f33cc26cdc1a71c",
+      "category": "OnDemand",
+      "crc": 2903467583,
+      "fileSize": 611396,
+      "dependencies": [],
+      "paths": [
+        "OnDemand/virtual_live/mc/voice/mc_bd_2020akito_2"
+      ],
+      "isBuiltin": false
+    },
+    "virtual_live/mc/voice/mc_bd_2020akito_1": {
+      "bundleName": "virtual_live/mc/voice/mc_bd_2020akito_1",
+      "cacheFileName": "6ca32938f3377c08a711af9755d01a96",
+      "cacheDirectoryName": "6e69",
+      "hash": "5b882f7248214e79b2164b54459f513d",
+      "category": "OnDemand",
+      "crc": 3176302743,
+      "fileSize": 962328,
+      "dependencies": [],
+      "paths": [
+        "OnDemand/virtual_live/mc/voice/mc_bd_2020akito_1"
+      ],
+      "isBuiltin": false
+    },
     "live_pv/model/character/body/99/0033/ladies_s": {
       "bundleName": "live_pv/model/character/body/99/0033/ladies_s",
       "cacheFileName": "c95b18e7af62261d1b1cb656d690ecb1",
@@ -63326,6 +65417,21 @@
         "OnDemand/live_pv/model/character/body/99/0033/ladies_l/fbx",
         "OnDemand/live_pv/model/character/body/99/0033/ladies_l/fbx/Materials",
         "OnDemand/live_pv/model/character/body/99/0033/ladies_l/sourceimages"
+      ],
+      "isBuiltin": false
+    },
+    "live2d/model/06haruka_sports": {
+      "bundleName": "live2d/model/06haruka_sports",
+      "cacheFileName": "47f4c159871aca5e23d6b293b2b0018e",
+      "cacheDirectoryName": "9efc",
+      "hash": "85decd80e7c479ea215af2695188864f",
+      "category": "StartApp",
+      "crc": 1491154480,
+      "fileSize": 933084,
+      "dependencies": [],
+      "paths": [
+        "StartApp/live2d/model/06haruka_sports",
+        "StartApp/live2d/model/06haruka_sports/06haruka_sports_t04.2048"
       ],
       "isBuiltin": false
     },
@@ -65875,6 +67981,20 @@
       ],
       "isBuiltin": false
     },
+    "character/member_gacha/res002_no006": {
+      "bundleName": "character/member_gacha/res002_no006",
+      "cacheFileName": "6f438d364ee2fd556afeb1b1331f00b5",
+      "cacheDirectoryName": "8e63",
+      "hash": "b79fea1f5cbf4d68900b51971880d9d1",
+      "category": "StartApp",
+      "crc": 2414007720,
+      "fileSize": 279350,
+      "dependencies": [],
+      "paths": [
+        "StartApp/character/member_gacha/res002_no006"
+      ],
+      "isBuiltin": false
+    },
     "gacha/ab_gacha_2/logo": {
       "bundleName": "gacha/ab_gacha_2/logo",
       "cacheFileName": "49689b2368c4c2e900f688506fd8c7dd",
@@ -66354,8 +68474,8 @@
       "cacheDirectoryName": "c92f",
       "hash": "e76a1141ed03760bdbab799cb13e1c51",
       "category": "OnDemand",
-      "crc": 312524946,
-      "fileSize": 5090524,
+      "crc": 4125949832,
+      "fileSize": 5090551,
       "dependencies": [
         "gacha/ab_gacha_1/screen",
         "gacha/ab_gacha_4/screen",
@@ -66447,10 +68567,10 @@
       "bundleName": "gacha/meta_data",
       "cacheFileName": "371563ef189f15888ea07555ac272df4",
       "cacheDirectoryName": "3c25",
-      "hash": "7bfa1ef4304f777e080ada89160485f2",
+      "hash": "c9db6fcc4aa69074855ae29a92dde924",
       "category": "StartApp",
-      "crc": 815690380,
-      "fileSize": 2302,
+      "crc": 2259407515,
+      "fileSize": 2449,
       "dependencies": [],
       "paths": [
         "OnDemand/gacha/meta_data"
@@ -67609,6 +69729,20 @@
       ],
       "isBuiltin": false
     },
+    "gacha/ab_gacha_9/logo": {
+      "bundleName": "gacha/ab_gacha_9/logo",
+      "cacheFileName": "0a505e4c82830ac46767bb9b90c37215",
+      "cacheDirectoryName": "e566",
+      "hash": "fea4ce89ea6bd3e521ce5699b66f62bc",
+      "category": "OnDemand",
+      "crc": 2094814557,
+      "fileSize": 83662,
+      "dependencies": [],
+      "paths": [
+        "OnDemand/gacha/ab_gacha_9/logo"
+      ],
+      "isBuiltin": false
+    },
     "virtual_live/live/stage_animation/street_fralight_pv": {
       "bundleName": "virtual_live/live/stage_animation/street_fralight_pv",
       "cacheFileName": "a7c494cda94aa897f464439e85540e40",
@@ -67853,6 +69987,25 @@
       "dependencies": [],
       "paths": [
         "StartApp/area_sd/sd_02saki_cloth001"
+      ],
+      "isBuiltin": false
+    },
+    "live_pv/model/character/body/99/0048/ladies_s": {
+      "bundleName": "live_pv/model/character/body/99/0048/ladies_s",
+      "cacheFileName": "96f4991b2d2d4d5292d44acd575f021c",
+      "cacheDirectoryName": "3bfd",
+      "hash": "408326713c62712a69c52d60300cef3a",
+      "category": "OnDemand",
+      "crc": 958159516,
+      "fileSize": 344875,
+      "dependencies": [
+        "shader/live"
+      ],
+      "paths": [
+        "OnDemand/live_pv/model/character/body/99/0048/ladies_s",
+        "OnDemand/live_pv/model/character/body/99/0048/ladies_s/fbx",
+        "OnDemand/live_pv/model/character/body/99/0048/ladies_s/fbx/Materials",
+        "OnDemand/live_pv/model/character/body/99/0048/ladies_s/sourceimages"
       ],
       "isBuiltin": false
     },
@@ -68573,6 +70726,20 @@
       ],
       "isBuiltin": false
     },
+    "character/member_cutout_trm/res002_no006": {
+      "bundleName": "character/member_cutout_trm/res002_no006",
+      "cacheFileName": "e019b179ac053a42541e5d98b7c6fb36",
+      "cacheDirectoryName": "60a1",
+      "hash": "2ad8d008daf447bbca3800860a55a42c",
+      "category": "StartApp",
+      "crc": 630822955,
+      "fileSize": 151228,
+      "dependencies": [],
+      "paths": [
+        "StartApp/character/member_cutout_trm/res002_no006"
+      ],
+      "isBuiltin": false
+    },
     "live_pv/model/stage_override_texture/0057": {
       "bundleName": "live_pv/model/stage_override_texture/0057",
       "cacheFileName": "3f34edbfe1f43e50f038c77516a1962b",
@@ -68584,6 +70751,20 @@
       "dependencies": [],
       "paths": [
         "OnDemand/live_pv/model/stage_override_texture/0057"
+      ],
+      "isBuiltin": false
+    },
+    "sound/gacha/get_voice/res021_no010": {
+      "bundleName": "sound/gacha/get_voice/res021_no010",
+      "cacheFileName": "48868f7f2dc6c538b81196d390f01f1c",
+      "cacheDirectoryName": "8134",
+      "hash": "150eeb95c85b6c9ed3e81545d08f6fbc",
+      "category": "StartApp",
+      "crc": 3359726467,
+      "fileSize": 29216,
+      "dependencies": [],
+      "paths": [
+        "StartApp/sound/gacha/get_voice/res021_no010"
       ],
       "isBuiltin": false
     },
@@ -69836,6 +72017,20 @@
       ],
       "isBuiltin": false
     },
+    "virtual_live/live/performance_data/0021_akitofurajiru": {
+      "bundleName": "virtual_live/live/performance_data/0021_akitofurajiru",
+      "cacheFileName": "9b905b1cf4e8107b7a299422a7313879",
+      "cacheDirectoryName": "0ba3",
+      "hash": "6d3ea44302db7a1e41f04134196c20f5",
+      "category": "OnDemand",
+      "crc": 694497294,
+      "fileSize": 4375,
+      "dependencies": [],
+      "paths": [
+        "OnDemand/virtual_live/live/performance_data/0021_akitofurajiru"
+      ],
+      "isBuiltin": false
+    },
     "story/background/school-refusal-story-chapter": {
       "bundleName": "story/background/school-refusal-story-chapter",
       "cacheFileName": "50c7307e0f4d7517810bd4a91ec64bf7",
@@ -69850,17 +72045,55 @@
       ],
       "isBuiltin": false
     },
+    "live_pv/model/character/body/99/0048/ladies_m": {
+      "bundleName": "live_pv/model/character/body/99/0048/ladies_m",
+      "cacheFileName": "6ea3697e8e2bf44b20d95ea2e40b555a",
+      "cacheDirectoryName": "3bfd",
+      "hash": "9117295ff94644c8a6a058ad6d11801e",
+      "category": "OnDemand",
+      "crc": 2363727442,
+      "fileSize": 340295,
+      "dependencies": [
+        "shader/live"
+      ],
+      "paths": [
+        "OnDemand/live_pv/model/character/body/99/0048/ladies_m",
+        "OnDemand/live_pv/model/character/body/99/0048/ladies_m/fbx",
+        "OnDemand/live_pv/model/character/body/99/0048/ladies_m/fbx/Materials",
+        "OnDemand/live_pv/model/character/body/99/0048/ladies_m/sourceimages"
+      ],
+      "isBuiltin": false
+    },
     "thumbnail/costume": {
       "bundleName": "thumbnail/costume",
       "cacheFileName": "dae5a704cf854efb9e7825e635f28c86",
       "cacheDirectoryName": "951d",
-      "hash": "77377b4dfe59d4d96bfbfc26952fc3d0",
+      "hash": "0286a53f71e6a76b97c70bc19435ffec",
       "category": "StartApp",
-      "crc": 757768976,
-      "fileSize": 1508061,
+      "crc": 2493514349,
+      "fileSize": 1569903,
       "dependencies": [],
       "paths": [
         "StartApp/thumbnail/costume"
+      ],
+      "isBuiltin": false
+    },
+    "live_pv/model/character/body/99/0048/ladies_l": {
+      "bundleName": "live_pv/model/character/body/99/0048/ladies_l",
+      "cacheFileName": "39d2129751df5deecf109a86104804d4",
+      "cacheDirectoryName": "3bfd",
+      "hash": "25d4a9b64454ce0c8464c56c8e973bb6",
+      "category": "OnDemand",
+      "crc": 2507357690,
+      "fileSize": 341253,
+      "dependencies": [
+        "shader/live"
+      ],
+      "paths": [
+        "OnDemand/live_pv/model/character/body/99/0048/ladies_l",
+        "OnDemand/live_pv/model/character/body/99/0048/ladies_l/fbx",
+        "OnDemand/live_pv/model/character/body/99/0048/ladies_l/fbx/Materials",
+        "OnDemand/live_pv/model/character/body/99/0048/ladies_l/sourceimages"
       ],
       "isBuiltin": false
     },
@@ -69891,6 +72124,20 @@
       ],
       "paths": [
         "StartApp/effect_asset/virtual_live/item/unit_record_vivibad"
+      ],
+      "isBuiltin": false
+    },
+    "sound/gacha/get_voice/res014_no007": {
+      "bundleName": "sound/gacha/get_voice/res014_no007",
+      "cacheFileName": "8230f9594ecfa7101fa36711087c19ee",
+      "cacheDirectoryName": "8134",
+      "hash": "6e7ed8e0ee302eeacd0f342fc1c60463",
+      "category": "StartApp",
+      "crc": 2843346806,
+      "fileSize": 22375,
+      "dependencies": [],
+      "paths": [
+        "StartApp/sound/gacha/get_voice/res014_no007"
       ],
       "isBuiltin": false
     },
@@ -70997,6 +73244,28 @@
       ],
       "isBuiltin": false
     },
+    "gacha/ab_gacha_9/screen": {
+      "bundleName": "gacha/ab_gacha_9/screen",
+      "cacheFileName": "4f0c1dec9798eae2a9d81528d89077e5",
+      "cacheDirectoryName": "e566",
+      "hash": "fea1263d8490598eaade47ccb5d975af",
+      "category": "OnDemand",
+      "crc": 267309219,
+      "fileSize": 4911418,
+      "dependencies": [
+        "gacha/ab_gacha_1/screen",
+        "gacha/ab_gacha_4/screen",
+        "gacha/ab_gacha_5/screen",
+        "gacha/ab_gacha_6/screen"
+      ],
+      "paths": [
+        "OnDemand/gacha/ab_gacha_9/screen/animation",
+        "OnDemand/gacha/ab_gacha_9/screen/container",
+        "OnDemand/gacha/ab_gacha_9/screen/material",
+        "OnDemand/gacha/ab_gacha_9/screen/texture"
+      ],
+      "isBuiltin": false
+    },
     "stamp/stamp0096": {
       "bundleName": "stamp/stamp0096",
       "cacheFileName": "377b98d7b849d48cd6a48f5638a5192e",
@@ -71654,10 +73923,10 @@
       "bundleName": "live2d/model/06haruka_cloth002",
       "cacheFileName": "cbecc95576297acf29e5d4f30130a08d",
       "cacheDirectoryName": "9efc",
-      "hash": "b505ea70a1110c4d28bd1e9672bbd764",
+      "hash": "c8cdedcb91a2ba8e5faa5c30955309ff",
       "category": "StartApp",
-      "crc": 4222336898,
-      "fileSize": 991605,
+      "crc": 2866986436,
+      "fileSize": 990724,
       "dependencies": [],
       "paths": [
         "StartApp/live2d/model/06haruka_cloth002",
@@ -71669,10 +73938,10 @@
       "bundleName": "live2d/model/06haruka_cloth001",
       "cacheFileName": "13eca21a38025574ed7405c9aeb62ac1",
       "cacheDirectoryName": "9efc",
-      "hash": "46fee6637694bbcc090e0b763d0974f4",
+      "hash": "c9fd57e13fbfbf3e8bb1d15cda5a7ea1",
       "category": "StartApp",
-      "crc": 1810329261,
-      "fileSize": 1063356,
+      "crc": 3446383217,
+      "fileSize": 1057344,
       "dependencies": [],
       "paths": [
         "StartApp/live2d/model/06haruka_cloth001",
@@ -71684,10 +73953,10 @@
       "bundleName": "thumbnail/virtual_live_item",
       "cacheFileName": "4def7e8720fdd0b15fd751aa8f61d024",
       "cacheDirectoryName": "951d",
-      "hash": "08745592f5c1e206340d737a64944fea",
+      "hash": "f3c8b1dc891b84ac878e1f5e60104e39",
       "category": "StartApp",
-      "crc": 1473439227,
-      "fileSize": 157422,
+      "crc": 2335052819,
+      "fileSize": 160971,
       "dependencies": [],
       "paths": [
         "StartApp/thumbnail/virtual_live_item"
@@ -71738,6 +74007,21 @@
         "OnDemand/virtual_live/live/effect/stage_spot_light_high_mikucolor",
         "OnDemand/virtual_live/live/effect/stage_spot_light_high_mikucolor/material",
         "OnDemand/virtual_live/live/effect/stage_spot_light_high_mikucolor/texture"
+      ],
+      "isBuiltin": false
+    },
+    "live2d/model/05minori_sports": {
+      "bundleName": "live2d/model/05minori_sports",
+      "cacheFileName": "1c5d575abadd06f64e971e2e5da50066",
+      "cacheDirectoryName": "9efc",
+      "hash": "d75664b1127a41c34af6b12bd7b34c51",
+      "category": "StartApp",
+      "crc": 1780152160,
+      "fileSize": 925159,
+      "dependencies": [],
+      "paths": [
+        "StartApp/live2d/model/05minori_sports",
+        "StartApp/live2d/model/05minori_sports/05minori_ｍ_sports_t01.2048"
       ],
       "isBuiltin": false
     },
@@ -71881,6 +74165,20 @@
       ],
       "paths": [
         "StartApp/effect_asset/virtual_live/item/chara_airi"
+      ],
+      "isBuiltin": false
+    },
+    "scenario/effect/dash_l": {
+      "bundleName": "scenario/effect/dash_l",
+      "cacheFileName": "8d4c9549b464e80693eb6ab75b03320c",
+      "cacheDirectoryName": "725a",
+      "hash": "d3d55a30a091238e8eadd1db03f76f23",
+      "category": "OnDemand",
+      "crc": 2690174582,
+      "fileSize": 72957,
+      "dependencies": [],
+      "paths": [
+        "OnDemand/scenario/effect/dash_l"
       ],
       "isBuiltin": false
     },
@@ -72158,6 +74456,29 @@
       "dependencies": [],
       "paths": [
         "OnDemand/scenario/background/bg_f000201"
+      ],
+      "isBuiltin": false
+    },
+    "gacha/ab_gacha_10/screen": {
+      "bundleName": "gacha/ab_gacha_10/screen",
+      "cacheFileName": "f24602a6eb36cbf9891d45f924d30c32",
+      "cacheDirectoryName": "30df",
+      "hash": "4f810803e5fccdff311f30ce26ab9143",
+      "category": "OnDemand",
+      "crc": 959414636,
+      "fileSize": 4927531,
+      "dependencies": [
+        "gacha/ab_gacha_1/screen",
+        "gacha/ab_gacha_4/screen",
+        "gacha/ab_gacha_5/screen",
+        "gacha/ab_gacha_6/screen",
+        "gacha/ab_gacha_9/screen"
+      ],
+      "paths": [
+        "OnDemand/gacha/ab_gacha_10/screen/animation",
+        "OnDemand/gacha/ab_gacha_10/screen/container",
+        "OnDemand/gacha/ab_gacha_10/screen/material",
+        "OnDemand/gacha/ab_gacha_10/screen/texture"
       ],
       "isBuiltin": false
     },
@@ -73181,6 +75502,25 @@
       ],
       "isBuiltin": false
     },
+    "live_pv/model/character/body/99/0047/ladies_ss": {
+      "bundleName": "live_pv/model/character/body/99/0047/ladies_ss",
+      "cacheFileName": "169e43828fa7e8042004aa6629de2e0e",
+      "cacheDirectoryName": "d9f3",
+      "hash": "b3ac4902ffe61669b4636a0ede831b28",
+      "category": "OnDemand",
+      "crc": 3169870282,
+      "fileSize": 364579,
+      "dependencies": [
+        "shader/live"
+      ],
+      "paths": [
+        "OnDemand/live_pv/model/character/body/99/0047/ladies_ss",
+        "OnDemand/live_pv/model/character/body/99/0047/ladies_ss/fbx",
+        "OnDemand/live_pv/model/character/body/99/0047/ladies_ss/fbx/Materials",
+        "OnDemand/live_pv/model/character/body/99/0047/ladies_ss/sourceimages"
+      ],
+      "isBuiltin": false
+    },
     "sound/scenario/voice/wonder_01_12": {
       "bundleName": "sound/scenario/voice/wonder_01_12",
       "cacheFileName": "73351c6bf08b90b796872191752951a6",
@@ -74116,6 +76456,20 @@
       ],
       "isBuiltin": false
     },
+    "scenario/effect/dash_r": {
+      "bundleName": "scenario/effect/dash_r",
+      "cacheFileName": "78338247fb431f06898e924c5516194d",
+      "cacheDirectoryName": "725a",
+      "hash": "220c1e40be144875a05d12c093f69b8d",
+      "category": "OnDemand",
+      "crc": 2167476440,
+      "fileSize": 72860,
+      "dependencies": [],
+      "paths": [
+        "OnDemand/scenario/effect/dash_r"
+      ],
+      "isBuiltin": false
+    },
     "character/character_select": {
       "bundleName": "character/character_select",
       "cacheFileName": "1d2fe4a46bf36bb8f3586ce273d92aeb",
@@ -74444,6 +76798,20 @@
       ],
       "isBuiltin": false
     },
+    "live_pv/model/character/color_variation/body/99/0047/ladies_s/02": {
+      "bundleName": "live_pv/model/character/color_variation/body/99/0047/ladies_s/02",
+      "cacheFileName": "e81f7d686aa00315444c874f27b7d7d0",
+      "cacheDirectoryName": "2dc6",
+      "hash": "c39af8d00e1d225f0facb441b40998d8",
+      "category": "OnDemand",
+      "crc": 3371743998,
+      "fileSize": 126197,
+      "dependencies": [],
+      "paths": [
+        "OnDemand/live_pv/model/character/color_variation/body/99/0047/ladies_s/02"
+      ],
+      "isBuiltin": false
+    },
     "areaitem/areaitem1002": {
       "bundleName": "areaitem/areaitem1002",
       "cacheFileName": "b3684ec0c5810c12dd98d22c717a454c",
@@ -74455,6 +76823,20 @@
       "dependencies": [],
       "paths": [
         "StartApp/areaitem/areaitem1002"
+      ],
+      "isBuiltin": false
+    },
+    "live_pv/model/character/color_variation/body/99/0047/ladies_s/01": {
+      "bundleName": "live_pv/model/character/color_variation/body/99/0047/ladies_s/01",
+      "cacheFileName": "5fc8aba1e59f005e7afeb287f424388f",
+      "cacheDirectoryName": "2dc6",
+      "hash": "e39258b1c2cc5138691b7d5db9b55465",
+      "category": "OnDemand",
+      "crc": 669372557,
+      "fileSize": 127577,
+      "dependencies": [],
+      "paths": [
+        "OnDemand/live_pv/model/character/color_variation/body/99/0047/ladies_s/01"
       ],
       "isBuiltin": false
     },
@@ -74497,6 +76879,20 @@
       "dependencies": [],
       "paths": [
         "StartApp/areaitem/areaitem1004"
+      ],
+      "isBuiltin": false
+    },
+    "live_pv/model/character/color_variation/body/99/0047/ladies_s/03": {
+      "bundleName": "live_pv/model/character/color_variation/body/99/0047/ladies_s/03",
+      "cacheFileName": "5fad0d12f93b102a46244145902dc547",
+      "cacheDirectoryName": "2dc6",
+      "hash": "d17966495bacd5d6f67a71350010dd4b",
+      "category": "OnDemand",
+      "crc": 2568458003,
+      "fileSize": 126213,
+      "dependencies": [],
+      "paths": [
+        "OnDemand/live_pv/model/character/color_variation/body/99/0047/ladies_s/03"
       ],
       "isBuiltin": false
     },
@@ -75044,6 +77440,20 @@
       "dependencies": [],
       "paths": [
         "OnDemand/live_pv/model/character/color_variation/body/99/0036/ladies_s/03"
+      ],
+      "isBuiltin": false
+    },
+    "music/long/an_0092_01": {
+      "bundleName": "music/long/an_0092_01",
+      "cacheFileName": "dc312d84d5ac87ce8bc31fa992cbf1e3",
+      "cacheDirectoryName": "4901",
+      "hash": "46c5529db80f6642b09026fc74c9afb3",
+      "category": "OnDemand",
+      "crc": 1476095198,
+      "fileSize": 1627378,
+      "dependencies": [],
+      "paths": [
+        "OnDemand/music/long/an_0092_01"
       ],
       "isBuiltin": false
     },
@@ -75918,6 +78328,22 @@
       ],
       "isBuiltin": false
     },
+    "virtual_live/item/chara_akito_birthday": {
+      "bundleName": "virtual_live/item/chara_akito_birthday",
+      "cacheFileName": "52aacdb66a84d75d9923ad6d079f9c9d",
+      "cacheDirectoryName": "207c",
+      "hash": "4edb41bd5f832ee8a1e519da27e7a2ab",
+      "category": "StartApp",
+      "crc": 3717248797,
+      "fileSize": 213704,
+      "dependencies": [
+        "shader/particles"
+      ],
+      "paths": [
+        "StartApp/effect_asset/virtual_live/item/chara_akito_birthday"
+      ],
+      "isBuiltin": false
+    },
     "live/voice/cutin/system_commoncp_007_2": {
       "bundleName": "live/voice/cutin/system_commoncp_007_2",
       "cacheFileName": "4a4d3e2ee135a9e700107965320d91aa",
@@ -76462,6 +78888,20 @@
       "dependencies": [],
       "paths": [
         "OnDemand/music/long/an_0010_02"
+      ],
+      "isBuiltin": false
+    },
+    "music/short/vs_0052_01": {
+      "bundleName": "music/short/vs_0052_01",
+      "cacheFileName": "65c19a2dc3a2ab99dae707eb256e00a3",
+      "cacheDirectoryName": "5cb3",
+      "hash": "f8cbccf0025f7ab68ff480d7e17154a4",
+      "category": "StartApp",
+      "crc": 760226908,
+      "fileSize": 438426,
+      "dependencies": [],
+      "paths": [
+        "StartApp/music/short/vs_0052_01"
       ],
       "isBuiltin": false
     },
@@ -77257,6 +79697,20 @@
       ],
       "isBuiltin": false
     },
+    "character/member_small/res018_no006": {
+      "bundleName": "character/member_small/res018_no006",
+      "cacheFileName": "7b1a4aaba672b7a258f65e06f91eb639",
+      "cacheDirectoryName": "c553",
+      "hash": "acc2db6e614c48be8e476038050fd96e",
+      "category": "StartApp",
+      "crc": 2195473841,
+      "fileSize": 418800,
+      "dependencies": [],
+      "paths": [
+        "StartApp/character/member_small/res018_no006"
+      ],
+      "isBuiltin": false
+    },
     "stamp/stamp0210": {
       "bundleName": "stamp/stamp0210",
       "cacheFileName": "90c419a1d61ecc925e4b765857cb69c3",
@@ -77832,6 +80286,63 @@
       "dependencies": [],
       "paths": [
         "OnDemand/event/event_stella_2020/bgm"
+      ],
+      "isBuiltin": false
+    },
+    "live_pv/model/character/face/14/0047c": {
+      "bundleName": "live_pv/model/character/face/14/0047c",
+      "cacheFileName": "fab52ce9c4a3e0197b769425236c2e7f",
+      "cacheDirectoryName": "a102",
+      "hash": "5f1936366a89d9d3d7d9aabb59862890",
+      "category": "OnDemand",
+      "crc": 1422917633,
+      "fileSize": 835129,
+      "dependencies": [
+        "shader/live"
+      ],
+      "paths": [
+        "OnDemand/live_pv/model/character/face/14/0047c",
+        "OnDemand/live_pv/model/character/face/14/0047c/fbx",
+        "OnDemand/live_pv/model/character/face/14/0047c/fbx/Materials",
+        "OnDemand/live_pv/model/character/face/14/0047c/sourceimages"
+      ],
+      "isBuiltin": false
+    },
+    "live_pv/model/character/face/14/0047b": {
+      "bundleName": "live_pv/model/character/face/14/0047b",
+      "cacheFileName": "7c92608c1fc1786ec7ce733f74af74c5",
+      "cacheDirectoryName": "a102",
+      "hash": "b6d1a71b90512b6e9a308731088e2aec",
+      "category": "OnDemand",
+      "crc": 1594880793,
+      "fileSize": 835091,
+      "dependencies": [
+        "shader/live"
+      ],
+      "paths": [
+        "OnDemand/live_pv/model/character/face/14/0047b",
+        "OnDemand/live_pv/model/character/face/14/0047b/fbx",
+        "OnDemand/live_pv/model/character/face/14/0047b/fbx/Materials",
+        "OnDemand/live_pv/model/character/face/14/0047b/sourceimages"
+      ],
+      "isBuiltin": false
+    },
+    "live_pv/model/character/face/14/0047a": {
+      "bundleName": "live_pv/model/character/face/14/0047a",
+      "cacheFileName": "1121017253f761d5247d8bc6d1ed5d8d",
+      "cacheDirectoryName": "a102",
+      "hash": "7c6a05c13145233cea91e3d990fa6487",
+      "category": "OnDemand",
+      "crc": 989321449,
+      "fileSize": 832180,
+      "dependencies": [
+        "shader/live"
+      ],
+      "paths": [
+        "OnDemand/live_pv/model/character/face/14/0047a",
+        "OnDemand/live_pv/model/character/face/14/0047a/fbx",
+        "OnDemand/live_pv/model/character/face/14/0047a/fbx/Materials",
+        "OnDemand/live_pv/model/character/face/14/0047a/sourceimages"
       ],
       "isBuiltin": false
     },
@@ -78837,8 +81348,8 @@
       "cacheDirectoryName": "ad4b",
       "hash": "a93bdff458c12670e991d9261e7c87bd",
       "category": "OnDemand",
-      "crc": 1287052118,
-      "fileSize": 5401735,
+      "crc": 2436954268,
+      "fileSize": 5401729,
       "dependencies": [
         "gacha/ab_gacha_1/screen"
       ],
@@ -79751,6 +82262,20 @@
       ],
       "isBuiltin": false
     },
+    "character/member_cutout_trm/res006_no005": {
+      "bundleName": "character/member_cutout_trm/res006_no005",
+      "cacheFileName": "4d8dc58e0c2f38bc457e22b9fddeccde",
+      "cacheDirectoryName": "60a1",
+      "hash": "17111798c64d73a4bce363e8bed4d42f",
+      "category": "StartApp",
+      "crc": 1068922779,
+      "fileSize": 239490,
+      "dependencies": [],
+      "paths": [
+        "StartApp/character/member_cutout_trm/res006_no005"
+      ],
+      "isBuiltin": false
+    },
     "live_pv/model/character/body/99/0017/ladies_s": {
       "bundleName": "live_pv/model/character/body/99/0017/ladies_s",
       "cacheFileName": "d8c3a16677ed682d9f4ef9da2371c973",
@@ -80522,6 +83047,23 @@
       ],
       "isBuiltin": false
     },
+    "virtual_live/avatar/decoration/fullset_0012": {
+      "bundleName": "virtual_live/avatar/decoration/fullset_0012",
+      "cacheFileName": "53e8d5773f96025403150b647e6c19bc",
+      "cacheDirectoryName": "dcf5",
+      "hash": "86760b7504b35be9d848d25f5b75e533",
+      "category": "StartApp",
+      "crc": 368988713,
+      "fileSize": 69325,
+      "dependencies": [
+        "shader/live"
+      ],
+      "paths": [
+        "StartApp/virtual_live/avatar/decoration/fullset_0012",
+        "StartApp/virtual_live/avatar/decoration/fullset_0012/fbx"
+      ],
+      "isBuiltin": false
+    },
     "sound/system/voice/09kohane": {
       "bundleName": "sound/system/voice/09kohane",
       "cacheFileName": "84a85407ae5bb0cf2f4b37a1a56a5c78",
@@ -81094,6 +83636,20 @@
       "dependencies": [],
       "paths": [
         "StartApp/sound/gacha/get_voice/res023_no003"
+      ],
+      "isBuiltin": false
+    },
+    "music/short/an_0092_01": {
+      "bundleName": "music/short/an_0092_01",
+      "cacheFileName": "2986dc855c4a035a833965c1dbd6b620",
+      "cacheDirectoryName": "5cb3",
+      "hash": "391751e7cab26df92eab75492298592a",
+      "category": "StartApp",
+      "crc": 3457879192,
+      "fileSize": 462110,
+      "dependencies": [],
+      "paths": [
+        "StartApp/music/short/an_0092_01"
       ],
       "isBuiltin": false
     },
@@ -82182,8 +84738,8 @@
       "cacheDirectoryName": "5e53",
       "hash": "42c7efeb9408f5073d1a01234f396103",
       "category": "OnDemand",
-      "crc": 106367222,
-      "fileSize": 5655630,
+      "crc": 280151042,
+      "fileSize": 5655661,
       "dependencies": [],
       "paths": [
         "OnDemand/gacha/ab_gacha_1/screen/animation",
@@ -82280,6 +84836,35 @@
         "OnDemand/live_pv/model/character/body/99/0009/ladies_l/fbx",
         "OnDemand/live_pv/model/character/body/99/0009/ladies_l/fbx/Materials",
         "OnDemand/live_pv/model/character/body/99/0009/ladies_l/sourceimages"
+      ],
+      "isBuiltin": false
+    },
+    "home/banner/event_sportsfestival_2020": {
+      "bundleName": "home/banner/event_sportsfestival_2020",
+      "cacheFileName": "4ee0e06c4400059df23bde46e3a811c2",
+      "cacheDirectoryName": "0095",
+      "hash": "2e9baae6bfcdf8fec4321b3a887b3081",
+      "category": "StartApp",
+      "crc": 4071152692,
+      "fileSize": 40368,
+      "dependencies": [],
+      "paths": [
+        "StartApp/home/banner/event_sportsfestival_2020"
+      ],
+      "isBuiltin": false
+    },
+    "live2d/model/01ichika_sports": {
+      "bundleName": "live2d/model/01ichika_sports",
+      "cacheFileName": "ba3b1283329d8601570c2ba624ebc3f3",
+      "cacheDirectoryName": "9efc",
+      "hash": "661dc2b529ac55f2e6eb067877a77e40",
+      "category": "StartApp",
+      "crc": 2952149944,
+      "fileSize": 990824,
+      "dependencies": [],
+      "paths": [
+        "StartApp/live2d/model/01ichika_sports",
+        "StartApp/live2d/model/01ichika_sports/01ichika_sports_t01.2048"
       ],
       "isBuiltin": false
     },
@@ -82651,6 +85236,20 @@
       ],
       "isBuiltin": false
     },
+    "live_pv/model/character/color_variation/body/99/0048/ladies_ss/02": {
+      "bundleName": "live_pv/model/character/color_variation/body/99/0048/ladies_ss/02",
+      "cacheFileName": "32b92aa00b8463c1293929844455fdcd",
+      "cacheDirectoryName": "9de3",
+      "hash": "0d8900abd05696d12c9815a2e8aecc0e",
+      "category": "OnDemand",
+      "crc": 1969257266,
+      "fileSize": 111701,
+      "dependencies": [],
+      "paths": [
+        "OnDemand/live_pv/model/character/color_variation/body/99/0048/ladies_ss/02"
+      ],
+      "isBuiltin": false
+    },
     "honor/honor_0009": {
       "bundleName": "honor/honor_0009",
       "cacheFileName": "052a05c456cd24cabf8ca7da0d5c63c2",
@@ -82679,6 +85278,20 @@
       ],
       "isBuiltin": false
     },
+    "live_pv/model/character/color_variation/body/99/0048/ladies_ss/01": {
+      "bundleName": "live_pv/model/character/color_variation/body/99/0048/ladies_ss/01",
+      "cacheFileName": "ffda6ca9170e5ae34336c4a6f88e8947",
+      "cacheDirectoryName": "9de3",
+      "hash": "40b4ce8617723bb20e7515e6f9c573ee",
+      "category": "OnDemand",
+      "crc": 3126723200,
+      "fileSize": 110981,
+      "dependencies": [],
+      "paths": [
+        "OnDemand/live_pv/model/character/color_variation/body/99/0048/ladies_ss/01"
+      ],
+      "isBuiltin": false
+    },
     "music/music_score/0083_01": {
       "bundleName": "music/music_score/0083_01",
       "cacheFileName": "728d919f3946fd23903efcbd0cc5480b",
@@ -82704,6 +85317,20 @@
       "dependencies": [],
       "paths": [
         "StartApp/honor/honor_0006"
+      ],
+      "isBuiltin": false
+    },
+    "live_pv/model/character/color_variation/body/99/0048/ladies_ss/03": {
+      "bundleName": "live_pv/model/character/color_variation/body/99/0048/ladies_ss/03",
+      "cacheFileName": "247755c0fefd22c3699ace2911264e8f",
+      "cacheDirectoryName": "9de3",
+      "hash": "fb1ff56755c99e9dc32b867e1fd2e64a",
+      "category": "OnDemand",
+      "crc": 3283329624,
+      "fileSize": 110765,
+      "dependencies": [],
+      "paths": [
+        "OnDemand/live_pv/model/character/color_variation/body/99/0048/ladies_ss/03"
       ],
       "isBuiltin": false
     },
@@ -84616,6 +87243,20 @@
       ],
       "isBuiltin": false
     },
+    "character/member_small/res014_no007": {
+      "bundleName": "character/member_small/res014_no007",
+      "cacheFileName": "e676a53974c6fac1a66f3f4d729fa1d8",
+      "cacheDirectoryName": "c553",
+      "hash": "203d25714b05e484454c96463f307b30",
+      "category": "StartApp",
+      "crc": 3153650061,
+      "fileSize": 424441,
+      "dependencies": [],
+      "paths": [
+        "StartApp/character/member_small/res014_no007"
+      ],
+      "isBuiltin": false
+    },
     "live_pv/model/character/color_variation/body/99/0003/ladies_m/02": {
       "bundleName": "live_pv/model/character/color_variation/body/99/0003/ladies_m/02",
       "cacheFileName": "07a26c20c2f5c06e14584dddefc1c5b8",
@@ -84930,6 +87571,20 @@
       "dependencies": [],
       "paths": [
         "StartApp/character/member_small/res014_no002"
+      ],
+      "isBuiltin": false
+    },
+    "home/banner/banner_gacha11": {
+      "bundleName": "home/banner/banner_gacha11",
+      "cacheFileName": "7c96fbf31c246c47c09d63f1338a0f7c",
+      "cacheDirectoryName": "0095",
+      "hash": "fdf7ba6bb1c0ac91407ab61b73ab9775",
+      "category": "StartApp",
+      "crc": 3119279140,
+      "fileSize": 41812,
+      "dependencies": [],
+      "paths": [
+        "StartApp/home/banner/banner_gacha11"
       ],
       "isBuiltin": false
     },
