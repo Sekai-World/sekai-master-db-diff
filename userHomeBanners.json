@@ -1,25 +1,5 @@
 [
   {
-    "homeBannerId": 15,
-    "seq": 99,
-    "name": "ワンダショイベント",
-    "assetbundleName": "event_potato_2020",
-    "transitionDestinationType": "event",
-    "transitionDestinationId": 3,
-    "startAt": 1604124000000,
-    "endAt": 1604901599000
-  },
-  {
-    "homeBannerId": 16,
-    "seq": 100,
-    "name": "ワンダショイベガチャ",
-    "assetbundleName": "banner_gacha6",
-    "transitionDestinationType": "gacha",
-    "transitionDestinationId": 6,
-    "startAt": 1604124000000,
-    "endAt": 1604901599000
-  },
-  {
     "homeBannerId": 18,
     "seq": 9999,
     "name": "初心者ガイド",
@@ -28,6 +8,26 @@
     "transitionDestinationId": 16,
     "startAt": 1596261600000,
     "endAt": 4102412399000
+  },
+  {
+    "homeBannerId": 23,
+    "seq": 99,
+    "name": "体育祭イベント",
+    "assetbundleName": "event_sportsfestival_2020",
+    "transitionDestinationType": "event",
+    "transitionDestinationId": 4,
+    "startAt": 1604901600000,
+    "endAt": 1605765599000
+  },
+  {
+    "homeBannerId": 24,
+    "seq": 100,
+    "name": "体育祭ガチャ",
+    "assetbundleName": "banner_gacha9",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 9,
+    "startAt": 1604901600000,
+    "endAt": 1605765599000
   },
   {
     "homeBannerId": 32,
