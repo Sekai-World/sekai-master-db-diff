@@ -140,6 +140,10 @@
     "value": "キャラクターを選択してください"
   },
   {
+    "wordingKey": "MSG_CHARA_NOT_HAVE",
+    "value": "未獲得"
+  },
+  {
     "wordingKey": "MSG_CHEAT_MULTILIVE",
     "value": "不正行為が検出されたため、\n今回のライブ結果が無効になります。\n\n不正行為が再度検出された場合、\nアカウントが停止される可能性があります。"
   },
@@ -148,12 +152,16 @@
     "value": "現在開催中のイベント交換所はありません。"
   },
   {
+    "wordingKey": "MSG_CLOSE_TICKET_EXCHANGE",
+    "value": "現在開催中のチケット交換所はありません。"
+  },
+  {
     "wordingKey": "MSG_COIN_DESCRIPTION",
     "value": "各エリアのショップで様々なアイテムと交換できるコイン。ライブなどで手に入る。"
   },
   {
     "wordingKey": "MSG_CONDITION_GET_CARD",
-    "value": "「{0} {1}」を入手"
+    "value": "「[{0}] {1}」を入手"
   },
   {
     "wordingKey": "MSG_CONFIRM_DATA_LINK",
@@ -348,6 +356,10 @@
     "value": "イベント期間中は消費数を<color=#ff55AA>最大{0}</color>まで設定できます。"
   },
   {
+    "wordingKey": "MSG_EXCHANGE_ERROR",
+    "value": "交換できるアイテムがありません。\nホームに戻ります"
+  },
+  {
     "wordingKey": "MSG_EXCHANGE_JEWEL",
     "value": "クリスタルで交換"
   },
@@ -386,6 +398,10 @@
   {
     "wordingKey": "MSG_FEEDBACK_THANKS",
     "value": "貴重なご意見をありがとうございました。\n引き続き『プロジェクトセカイ』をよろしくお願いいたします。"
+  },
+  {
+    "wordingKey": "MSG_FINAL_CHARA_TICKET_CONFIRM",
+    "value": "既に獲得済みですが、交換しますか？"
   },
   {
     "wordingKey": "MSG_FINISHED_TODAY_CHALLENGE",
@@ -861,7 +877,7 @@
   },
   {
     "wordingKey": "MSG_OVER_RARITY_4_ONCE",
-    "value": "★4以上1人確定!"
+    "value": "★4メンバー1人確定!"
   },
   {
     "wordingKey": "MSG_OVER_RECOVER",
@@ -1014,6 +1030,10 @@
   {
     "wordingKey": "MSG_SEND_WAIT_ROOM",
     "value": "獲得済みのメンバーは控え室に送られました。"
+  },
+  {
+    "wordingKey": "MSG_SEND_WAIT_ROOM_CONFIRM",
+    "value": "※獲得済みメンバーは控え室に送られます。"
   },
   {
     "wordingKey": "MSG_SETTABLE_FROM_OPTION",
@@ -1309,7 +1329,7 @@
   },
   {
     "wordingKey": "MSG_WEARABLE_MEMBER_2_1",
-    "value": "・「<color=#00CCBB>[{0}]{1}</color>」を獲得すると、\n衣装ショップに「<color=#00CCBB>{1}</color>」が追加されます。\n\n衣装ショップで「<color=#00CCBB>{2}</color>」の着用メンバーを指定して衣装を製作すると、"
+    "value": "・「<color=#00CCBB>[{0}]{1}</color>」を獲得すると、\n衣装ショップに「<color=#00CCBB>{1}</color>」が追加されます。\n\n衣装ショップで「<color=#00CCBB>{2}</color>」の着用可能キャラクターを指定して衣装を製作すると、"
   },
   {
     "wordingKey": "MSG_WEARABLE_MEMBER_2_2",
@@ -1718,6 +1738,18 @@
   {
     "wordingKey": "WORD_CHARACTER_VOICE",
     "value": "CV"
+  },
+  {
+    "wordingKey": "WORD_CHARA_OWN_FILTER",
+    "value": "獲得状況"
+  },
+  {
+    "wordingKey": "WORD_CHARA_TICKET_STAR_FOUR",
+    "value": "★４メンバー"
+  },
+  {
+    "wordingKey": "WORD_CHARA_TICKET_STAR_THREE",
+    "value": "★３メンバー"
   },
   {
     "wordingKey": "WORD_CHEER_MESSAGE",
@@ -2166,6 +2198,10 @@
   {
     "wordingKey": "WORD_EXCHANGE_COMPLETE",
     "value": "交換完了"
+  },
+  {
+    "wordingKey": "WORD_EXCHANGE_ERROR_TITLE",
+    "value": "交換エラー"
   },
   {
     "wordingKey": "WORD_EXCHANGE_SELECT_ALL_MEMBER",
@@ -3900,6 +3936,10 @@
     "value": "ありがとうございました！"
   },
   {
+    "wordingKey": "WORD_TICKET_EXCHANGE_SHOP",
+    "value": "チケット交換所"
+  },
+  {
     "wordingKey": "WORD_TIMING_ADJUSTMENT",
     "value": "タイミング調整"
   },
@@ -4285,7 +4325,7 @@
   },
   {
     "wordingKey": "WORD_WARERABLE_MEMBER",
-    "value": "着用可能メンバー"
+    "value": "着用可能キャラクター"
   },
   {
     "wordingKey": "WORD_WARNING",
@@ -4297,7 +4337,7 @@
   },
   {
     "wordingKey": "WORD_WEARABLE_MEMBER",
-    "value": "着用可能メンバー"
+    "value": "着用可能キャラクター"
   },
   {
     "wordingKey": "WORD_WEEK_FRY",
@@ -4326,5 +4366,13 @@
   {
     "wordingKey": "WORD_WEEK_WED",
     "value": "(水)"
+  },
+  {
+    "wordingKey": "WORD_WITHOUT_COSTUME",
+    "value": "衣装なし"
+  },
+  {
+    "wordingKey": "WORD_WITH_COSTUME",
+    "value": "衣装付き"
   }
 ]

@@ -37,7 +37,7 @@
   },
   {
     "configKey": "max_user_level",
-    "value": "100"
+    "value": "200"
   },
   {
     "configKey": "max_unit_level",
@@ -224,6 +224,10 @@
     "value": "60"
   },
   {
+    "configKey": "virtual_live_beginner_valid_day",
+    "value": "15"
+  },
+  {
     "configKey": "snapshot_asset_hash",
     "value": "develop"
   },
@@ -238,6 +242,10 @@
   {
     "configKey": "beginner_login_bonus_enable",
     "value": "true"
+  },
+  {
+    "configKey": "beginner_login_bonus_start_at",
+    "value": "2099/12/15 04:00:00"
   },
   {
     "configKey": "under_13_billing_limit",

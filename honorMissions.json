@@ -64,6 +64,22 @@
     ]
   },
   {
+    "id": 203,
+    "seq": 3,
+    "honorMissionType": "player_rank",
+    "requirement": 200,
+    "sentence": "プレイヤーランクを200まで上げよう。",
+    "rewards": [
+      {
+        "id": 689,
+        "missionType": "honor_mission",
+        "missionId": 203,
+        "seq": 1,
+        "resourceBoxId": 1131
+      }
+    ]
+  },
+  {
     "id": 301,
     "seq": 1,
     "honorMissionType": "login_continued",

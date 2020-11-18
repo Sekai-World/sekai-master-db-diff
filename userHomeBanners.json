@@ -30,16 +30,6 @@
     "endAt": 1605765599000
   },
   {
-    "homeBannerId": 30,
-    "seq": 110,
-    "name": "HAPPY BIRTHDAYライブ 彰人",
-    "assetbundleName": "banner_virtuallive36",
-    "transitionDestinationType": "virtual_live",
-    "transitionDestinationId": 36,
-    "startAt": 1604988000000,
-    "endAt": 1605247199000
-  },
-  {
     "homeBannerId": 32,
     "seq": 200,
     "name": "プレミアムミッションパス",
@@ -48,5 +38,15 @@
     "transitionDestinationId": 92,
     "startAt": 1604156400000,
     "endAt": 1606748399000
+  },
+  {
+    "homeBannerId": 37,
+    "seq": 70,
+    "name": "11月生放送（事前告知",
+    "assetbundleName": "banner_livebroadcast_notice",
+    "transitionDestinationType": "information",
+    "transitionDestinationId": 145,
+    "startAt": 1605675600000,
+    "endAt": 1606229999000
   }
 ]

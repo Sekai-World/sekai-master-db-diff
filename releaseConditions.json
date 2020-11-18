@@ -1882,6 +1882,41 @@
     "releaseConditionTypeLevel": 30
   },
   {
+    "id": 30129,
+    "sentence": "前編を解放した状態でレベルが60必要です。",
+    "releaseConditionType": "card_level",
+    "releaseConditionTypeId": 129,
+    "releaseConditionTypeLevel": 60
+  },
+  {
+    "id": 30130,
+    "sentence": "前編を解放した状態でレベルが60必要です。",
+    "releaseConditionType": "card_level",
+    "releaseConditionTypeId": 130,
+    "releaseConditionTypeLevel": 60
+  },
+  {
+    "id": 30131,
+    "sentence": "前編を解放した状態でレベルが60必要です。",
+    "releaseConditionType": "card_level",
+    "releaseConditionTypeId": 131,
+    "releaseConditionTypeLevel": 60
+  },
+  {
+    "id": 30132,
+    "sentence": "前編を解放した状態でレベルが50必要です。",
+    "releaseConditionType": "card_level",
+    "releaseConditionTypeId": 132,
+    "releaseConditionTypeLevel": 50
+  },
+  {
+    "id": 30133,
+    "sentence": "前編を解放した状態でレベルが30必要です。",
+    "releaseConditionType": "card_level",
+    "releaseConditionTypeId": 133,
+    "releaseConditionTypeLevel": 30
+  },
+  {
     "id": 40001,
     "sentence": "GOOD以下を7以内でEXPERTクリア",
     "releaseConditionType": "music_difficulty_better_play",
@@ -5156,6 +5191,62 @@
     "releaseConditionTypeLevel": 5
   },
   {
+    "id": 60130,
+    "sentence": "「[いつでも前を向いて] 桃井 愛莉」を入手",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 129,
+    "releaseConditionTypeLevel": 0
+  },
+  {
+    "id": 60131,
+    "sentence": "「[いつでも前を向いて] 桃井 愛莉」のマスターランク1で開放",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 129,
+    "releaseConditionTypeLevel": 1
+  },
+  {
+    "id": 60132,
+    "sentence": "「[いつでも前を向いて] 桃井 愛莉」のマスターランク3で開放",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 129,
+    "releaseConditionTypeLevel": 3
+  },
+  {
+    "id": 60133,
+    "sentence": "「[いつでも前を向いて] 桃井 愛莉」のマスターランク5で開放",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 129,
+    "releaseConditionTypeLevel": 5
+  },
+  {
+    "id": 60140,
+    "sentence": "「[あわわわわっ！？] 花里 みのり」を入手",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 130,
+    "releaseConditionTypeLevel": 0
+  },
+  {
+    "id": 60141,
+    "sentence": "「[あわわわわっ！？] 花里 みのり」のマスターランク1で開放",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 130,
+    "releaseConditionTypeLevel": 1
+  },
+  {
+    "id": 60142,
+    "sentence": "「[あわわわわっ！？] 花里 みのり」のマスターランク3で開放",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 130,
+    "releaseConditionTypeLevel": 3
+  },
+  {
+    "id": 60143,
+    "sentence": "「[あわわわわっ！？] 花里 みのり」のマスターランク5で開放",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 130,
+    "releaseConditionTypeLevel": 5
+  },
+  {
     "id": 70001,
     "sentence": "｢星乃一歌｣のキャラクターランク1でユニット編成数UP",
     "releaseConditionType": "character_rank",
@@ -6101,6 +6192,61 @@
     "sentence": "「走れ！体育祭！～実行委員は大忙し～」の エンディングを読む",
     "releaseConditionType": "event_story",
     "releaseConditionTypeId": 1000032
+  },
+  {
+    "id": 100401,
+    "sentence": "イベントPが6000に到達する",
+    "releaseConditionType": "event_point",
+    "releaseConditionTypeId": 5,
+    "releaseConditionTypeQuantity": 6000
+  },
+  {
+    "id": 100402,
+    "sentence": "イベントPが13000に到達する",
+    "releaseConditionType": "event_point",
+    "releaseConditionTypeId": 5,
+    "releaseConditionTypeQuantity": 13000
+  },
+  {
+    "id": 100403,
+    "sentence": "イベントPが30000に到達する",
+    "releaseConditionType": "event_point",
+    "releaseConditionTypeId": 5,
+    "releaseConditionTypeQuantity": 30000
+  },
+  {
+    "id": 100404,
+    "sentence": "イベントPが60000に到達する",
+    "releaseConditionType": "event_point",
+    "releaseConditionTypeId": 5,
+    "releaseConditionTypeQuantity": 60000
+  },
+  {
+    "id": 100405,
+    "sentence": "イベントPが90000に到達する",
+    "releaseConditionType": "event_point",
+    "releaseConditionTypeId": 5,
+    "releaseConditionTypeQuantity": 90000
+  },
+  {
+    "id": 100406,
+    "sentence": "イベントPが120000に到達する",
+    "releaseConditionType": "event_point",
+    "releaseConditionTypeId": 5,
+    "releaseConditionTypeQuantity": 120000
+  },
+  {
+    "id": 100407,
+    "sentence": "イベントPが150000に到達する",
+    "releaseConditionType": "event_point",
+    "releaseConditionTypeId": 5,
+    "releaseConditionTypeQuantity": 150000
+  },
+  {
+    "id": 100408,
+    "sentence": "「ここからRE:START！」の エンディングを読む",
+    "releaseConditionType": "event_story",
+    "releaseConditionTypeId": 1000040
   },
   {
     "id": 800001,
