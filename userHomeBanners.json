@@ -10,26 +10,6 @@
     "endAt": 4102412399000
   },
   {
-    "homeBannerId": 23,
-    "seq": 99,
-    "name": "体育祭イベント",
-    "assetbundleName": "event_sportsfestival_2020",
-    "transitionDestinationType": "event",
-    "transitionDestinationId": 4,
-    "startAt": 1604901600000,
-    "endAt": 1605765599000
-  },
-  {
-    "homeBannerId": 24,
-    "seq": 100,
-    "name": "体育祭ガチャ",
-    "assetbundleName": "banner_gacha9",
-    "transitionDestinationType": "gacha",
-    "transitionDestinationId": 9,
-    "startAt": 1604901600000,
-    "endAt": 1605765599000
-  },
-  {
     "homeBannerId": 32,
     "seq": 200,
     "name": "プレミアムミッションパス",
@@ -40,13 +20,53 @@
     "endAt": 1606748399000
   },
   {
-    "homeBannerId": 37,
-    "seq": 70,
-    "name": "11月生放送（事前告知",
-    "assetbundleName": "banner_livebroadcast_notice",
+    "homeBannerId": 33,
+    "seq": 30,
+    "name": "250万突破記念★4メンバー1人確定ガチャ",
+    "assetbundleName": "banner_gacha15",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 15,
+    "startAt": 1605938400000,
+    "endAt": 1607061599000
+  },
+  {
+    "homeBannerId": 34,
+    "seq": 40,
+    "name": "モモジャンイベント_イベント",
+    "assetbundleName": "event_restart_2020",
+    "transitionDestinationType": "event",
+    "transitionDestinationId": 5,
+    "startAt": 1605765600000,
+    "endAt": 1606715999000
+  },
+  {
+    "homeBannerId": 35,
+    "seq": 50,
+    "name": "モモジャンイベント_定常ガチャ",
+    "assetbundleName": "banner_gacha12",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 12,
+    "startAt": 1605765600000,
+    "endAt": 1606715999000
+  },
+  {
+    "homeBannerId": 36,
+    "seq": 60,
+    "name": "モモジャンイベント_メンバー出現率UPガチャ",
+    "assetbundleName": "banner_gacha14",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 14,
+    "startAt": 1606197600000,
+    "endAt": 1606564799000
+  },
+  {
+    "homeBannerId": 38,
+    "seq": 20,
+    "name": "11月生放送（当日",
+    "assetbundleName": "banner_livebroadcast_held",
     "transitionDestinationType": "information",
     "transitionDestinationId": 145,
-    "startAt": 1605675600000,
-    "endAt": 1606229999000
+    "startAt": 1606230000000,
+    "endAt": 1606305599000
   }
 ]
