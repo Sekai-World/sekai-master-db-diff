@@ -622,5 +622,31 @@
     "cheerPoint": 1500,
     "effectAssetbundleName": "event_restart",
     "effectExpressionType": "throw_effect"
+  },
+  {
+    "id": 54,
+    "virtualItemCategory": "normal",
+    "seq": 540,
+    "priority": 540,
+    "name": "ミュージックバトル",
+    "assetbundleName": "event_forward",
+    "costVirtualCoin": 1500,
+    "costJewel": 1500,
+    "cheerPoint": 1500,
+    "effectAssetbundleName": "event_forward",
+    "effectExpressionType": "throw_effect"
+  },
+  {
+    "id": 55,
+    "virtualItemCategory": "normal",
+    "seq": 550,
+    "priority": 550,
+    "name": "HAPPY BIRTHDAY 雫",
+    "assetbundleName": "chara_shizuku_birthday",
+    "costVirtualCoin": 3000,
+    "costJewel": 3000,
+    "cheerPoint": 3000,
+    "effectAssetbundleName": "chara_shizuku_birthday",
+    "effectExpressionType": "throw_effect"
   }
 ]

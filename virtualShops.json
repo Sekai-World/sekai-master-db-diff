@@ -666,5 +666,40 @@
         "endAt": 1606802399000
       }
     ]
+  },
+  {
+    "id": 10,
+    "seq": 10,
+    "name": "第6回イベント物販",
+    "virtualShopItems": [
+      {
+        "id": 62,
+        "virtualShopId": 10,
+        "virtualShopItemType": "accessory",
+        "seq": 1,
+        "resourceBoxId": 56,
+        "costVirtualCoin": 3000,
+        "costJewel": 1000,
+        "startAt": 1606716000000,
+        "endAt": 1607666399000
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "seq": 11,
+    "name": "雫BIRTHDAY",
+    "virtualShopItems": [
+      {
+        "id": 63,
+        "virtualShopId": 11,
+        "virtualShopItemType": "coordinate",
+        "seq": 1,
+        "resourceBoxId": 64,
+        "costPaidJewel": 3000,
+        "startAt": 1607061600000,
+        "endAt": 1607320799000
+      }
+    ]
   }
 ]

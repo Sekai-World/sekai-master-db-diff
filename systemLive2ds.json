@@ -1803,7 +1803,7 @@
     "motion": "m-cool-nod02",
     "expression": "face_smile_03",
     "publishedAt": 1606716000000,
-    "closedAt": 1614492000000,
+    "closedAt": 1609426799000,
     "weight": 1
   },
   {
@@ -2343,7 +2343,7 @@
     "id": 181,
     "characterId": 25,
     "unit": "piapro",
-    "serif": "あんまりムリしないように、\n温かくして過ごしてね",
+    "serif": "あんまりムリしないように、\n暖かくして過ごしてね",
     "assetbundleName": "voicepack_25",
     "voice": "partvoice_03_025",
     "motion": "w-cool-tilthead01",
@@ -2408,7 +2408,7 @@
     "id": 186,
     "characterId": 26,
     "unit": "piapro",
-    "serif": "冬といえば、温かい部屋で冷たい\nアイスを食べるのが楽しみ、\nっていう人いるんじゃないかな？",
+    "serif": "冬といえば、暖かい部屋で冷たい\nアイスを食べるのが楽しみ、\nっていう人いるんじゃないかな？",
     "assetbundleName": "voicepack_26",
     "voice": "partvoice_02_026",
     "motion": "m-normal-tilthead03",
@@ -2863,7 +2863,7 @@
     "id": 221,
     "characterId": 12,
     "unit": "street",
-    "serif": "レン達とあちらで花見をすると\n白石が言っているが……...。\nあのセカイ、花なんてあったか?",
+    "serif": "レン達とあちらで花見をすると\n白石が言っているが……。\nあのセカイ、花なんてあったか？",
     "assetbundleName": "voicepack_12",
     "voice": "system_spring_012_002",
     "motion": "m-adult-tilthead01",
@@ -3058,7 +3058,7 @@
     "id": 236,
     "characterId": 17,
     "unit": "school_refusal",
-    "serif": "『１日２粒で丸一日パワフルに\n働ける行者ニンニク』……。\n興味あるけど、ニンニクか……",
+    "serif": "『１日２粒で丸１日パワフルに\n働ける行者ニンニク』……。\n興味あるけど、ニンニクか……",
     "assetbundleName": "voicepack_17",
     "voice": "system_spring_017_002",
     "motion": "w-kanade-sad02",
@@ -8317,6 +8317,32 @@
     "expression": "face_smile_02",
     "publishedAt": 1605106800000,
     "closedAt": 1605193199000,
+    "weight": 1
+  },
+  {
+    "id": 641,
+    "characterId": 3,
+    "unit": "light_sound",
+    "serif": "お誕生日おめでとうございます、\n雫先輩！　あとで一歌ちゃん達と\nお祝いに行きますね！",
+    "assetbundleName": "voicepack_3",
+    "voice": "system_birthday_003_005",
+    "motion": "w-adult-glad01",
+    "expression": "face_smile_01",
+    "publishedAt": 1607180400000,
+    "closedAt": 1607266799000,
+    "weight": 1
+  },
+  {
+    "id": 642,
+    "characterId": 4,
+    "unit": "light_sound",
+    "serif": "お姉ちゃん、誕生日おめでと。\nこれプレゼント……って、\nちょ、ちょっと、抱き着かないで！",
+    "assetbundleName": "voicepack_4",
+    "voice": "system_birthday_004_005",
+    "motion": "w-cool-tilthead04",
+    "expression": "face_shy_01",
+    "publishedAt": 1607180400000,
+    "closedAt": 1607266799000,
     "weight": 1
   }
 ]
