@@ -10,16 +10,6 @@
     "endAt": 4102412399000
   },
   {
-    "homeBannerId": 32,
-    "seq": 200,
-    "name": "プレミアムミッションパス",
-    "assetbundleName": "banner_premiummissionpass_2020_11",
-    "transitionDestinationType": "information",
-    "transitionDestinationId": 92,
-    "startAt": 1604156400000,
-    "endAt": 1606748399000
-  },
-  {
     "homeBannerId": 33,
     "seq": 30,
     "name": "250万突破記念★4メンバー1人確定ガチャ",
@@ -30,23 +20,33 @@
     "endAt": 1607061599000
   },
   {
-    "homeBannerId": 34,
-    "seq": 40,
-    "name": "モモジャンイベント_イベント",
-    "assetbundleName": "event_restart_2020",
+    "homeBannerId": 39,
+    "seq": 99,
+    "name": "ビビバスイベント_イベントバナー",
+    "assetbundleName": "event_forward_2020",
     "transitionDestinationType": "event",
-    "transitionDestinationId": 5,
-    "startAt": 1605765600000,
-    "endAt": 1606715999000
+    "transitionDestinationId": 6,
+    "startAt": 1606716000000,
+    "endAt": 1607579999000
   },
   {
-    "homeBannerId": 35,
-    "seq": 50,
-    "name": "モモジャンイベント_定常ガチャ",
-    "assetbundleName": "banner_gacha12",
+    "homeBannerId": 40,
+    "seq": 100,
+    "name": "ビビバスイベント_定常ガチャバナー",
+    "assetbundleName": "banner_gacha17",
     "transitionDestinationType": "gacha",
-    "transitionDestinationId": 12,
-    "startAt": 1605765600000,
-    "endAt": 1606715999000
+    "transitionDestinationId": 17,
+    "startAt": 1606716000000,
+    "endAt": 1607579999000
+  },
+  {
+    "homeBannerId": 43,
+    "seq": 80,
+    "name": "プレミアムミッションパス（月初優先度UP用）",
+    "assetbundleName": "banner_premiummissionpass_2020_12",
+    "transitionDestinationType": "information",
+    "transitionDestinationId": 179,
+    "startAt": 1606748400000,
+    "endAt": 1609426799000
   }
 ]

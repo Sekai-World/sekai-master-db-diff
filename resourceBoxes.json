@@ -241,7 +241,7 @@
         "resourceBoxId": 18,
         "seq": 1,
         "resourceType": "paid_jewel",
-        "resourceQuantity": 1400
+        "resourceQuantity": 1800
       }
     ]
   },
@@ -255,7 +255,7 @@
         "resourceBoxId": 19,
         "seq": 1,
         "resourceType": "paid_jewel",
-        "resourceQuantity": 4500
+        "resourceQuantity": 5000
       }
     ]
   },
@@ -269,7 +269,7 @@
         "resourceBoxId": 20,
         "seq": 1,
         "resourceType": "paid_jewel",
-        "resourceQuantity": 15000
+        "resourceQuantity": 10500
       }
     ]
   },
@@ -32512,6 +32512,82 @@
     ]
   },
   {
+    "resourceBoxPurpose": "login_bonus",
+    "id": 22,
+    "resourceBoxType": "list",
+    "name": "★3メンバーセレクトチケット",
+    "assetbundleName": "item_memberTicket_star3",
+    "details": [
+      {
+        "resourceBoxPurpose": "login_bonus",
+        "resourceBoxId": 22,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 45,
+        "resourceQuantity": 1
+      },
+      {
+        "resourceBoxPurpose": "login_bonus",
+        "resourceBoxId": 22,
+        "seq": 2,
+        "resourceType": "jewel",
+        "resourceQuantity": 300
+      }
+    ]
+  },
+  {
+    "resourceBoxPurpose": "login_bonus",
+    "id": 23,
+    "resourceBoxType": "expand",
+    "details": [
+      {
+        "resourceBoxPurpose": "login_bonus",
+        "resourceBoxId": 23,
+        "seq": 1,
+        "resourceType": "jewel",
+        "resourceQuantity": 300
+      }
+    ]
+  },
+  {
+    "resourceBoxPurpose": "login_bonus",
+    "id": 24,
+    "resourceBoxType": "list",
+    "name": "★3メンバーセレクトチケット",
+    "assetbundleName": "item_memberTicket_star3",
+    "details": [
+      {
+        "resourceBoxPurpose": "login_bonus",
+        "resourceBoxId": 24,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 45,
+        "resourceQuantity": 1
+      },
+      {
+        "resourceBoxPurpose": "login_bonus",
+        "resourceBoxId": 24,
+        "seq": 2,
+        "resourceType": "jewel",
+        "resourceQuantity": 300
+      }
+    ]
+  },
+  {
+    "resourceBoxPurpose": "login_bonus",
+    "id": 25,
+    "resourceBoxType": "expand",
+    "details": [
+      {
+        "resourceBoxPurpose": "login_bonus",
+        "resourceBoxId": 25,
+        "seq": 1,
+        "resourceType": "jewel",
+        "resourceQuantity": 300
+      }
+    ]
+  },
+  {
     "resourceBoxPurpose": "master_lesson_reward",
     "id": 1,
     "resourceBoxType": "expand",
@@ -33891,6 +33967,396 @@
         "resourceType": "material",
         "resourceId": 5,
         "resourceQuantity": 15
+      }
+    ]
+  },
+  {
+    "resourceBoxPurpose": "material_exchange",
+    "id": 20001,
+    "resourceBoxType": "expand",
+    "details": [
+      {
+        "resourceBoxPurpose": "material_exchange",
+        "resourceBoxId": 20001,
+        "seq": 10,
+        "resourceType": "card",
+        "resourceId": 3,
+        "resourceQuantity": 1
+      }
+    ]
+  },
+  {
+    "resourceBoxPurpose": "material_exchange",
+    "id": 20002,
+    "resourceBoxType": "expand",
+    "details": [
+      {
+        "resourceBoxPurpose": "material_exchange",
+        "resourceBoxId": 20002,
+        "seq": 20,
+        "resourceType": "card",
+        "resourceId": 7,
+        "resourceQuantity": 1
+      }
+    ]
+  },
+  {
+    "resourceBoxPurpose": "material_exchange",
+    "id": 20003,
+    "resourceBoxType": "expand",
+    "details": [
+      {
+        "resourceBoxPurpose": "material_exchange",
+        "resourceBoxId": 20003,
+        "seq": 30,
+        "resourceType": "card",
+        "resourceId": 11,
+        "resourceQuantity": 1
+      }
+    ]
+  },
+  {
+    "resourceBoxPurpose": "material_exchange",
+    "id": 20004,
+    "resourceBoxType": "expand",
+    "details": [
+      {
+        "resourceBoxPurpose": "material_exchange",
+        "resourceBoxId": 20004,
+        "seq": 40,
+        "resourceType": "card",
+        "resourceId": 15,
+        "resourceQuantity": 1
+      }
+    ]
+  },
+  {
+    "resourceBoxPurpose": "material_exchange",
+    "id": 20005,
+    "resourceBoxType": "expand",
+    "details": [
+      {
+        "resourceBoxPurpose": "material_exchange",
+        "resourceBoxId": 20005,
+        "seq": 50,
+        "resourceType": "card",
+        "resourceId": 19,
+        "resourceQuantity": 1
+      }
+    ]
+  },
+  {
+    "resourceBoxPurpose": "material_exchange",
+    "id": 20006,
+    "resourceBoxType": "expand",
+    "details": [
+      {
+        "resourceBoxPurpose": "material_exchange",
+        "resourceBoxId": 20006,
+        "seq": 60,
+        "resourceType": "card",
+        "resourceId": 23,
+        "resourceQuantity": 1
+      }
+    ]
+  },
+  {
+    "resourceBoxPurpose": "material_exchange",
+    "id": 20007,
+    "resourceBoxType": "expand",
+    "details": [
+      {
+        "resourceBoxPurpose": "material_exchange",
+        "resourceBoxId": 20007,
+        "seq": 70,
+        "resourceType": "card",
+        "resourceId": 27,
+        "resourceQuantity": 1
+      }
+    ]
+  },
+  {
+    "resourceBoxPurpose": "material_exchange",
+    "id": 20008,
+    "resourceBoxType": "expand",
+    "details": [
+      {
+        "resourceBoxPurpose": "material_exchange",
+        "resourceBoxId": 20008,
+        "seq": 80,
+        "resourceType": "card",
+        "resourceId": 31,
+        "resourceQuantity": 1
+      }
+    ]
+  },
+  {
+    "resourceBoxPurpose": "material_exchange",
+    "id": 20009,
+    "resourceBoxType": "expand",
+    "details": [
+      {
+        "resourceBoxPurpose": "material_exchange",
+        "resourceBoxId": 20009,
+        "seq": 90,
+        "resourceType": "card",
+        "resourceId": 35,
+        "resourceQuantity": 1
+      }
+    ]
+  },
+  {
+    "resourceBoxPurpose": "material_exchange",
+    "id": 20010,
+    "resourceBoxType": "expand",
+    "details": [
+      {
+        "resourceBoxPurpose": "material_exchange",
+        "resourceBoxId": 20010,
+        "seq": 100,
+        "resourceType": "card",
+        "resourceId": 39,
+        "resourceQuantity": 1
+      }
+    ]
+  },
+  {
+    "resourceBoxPurpose": "material_exchange",
+    "id": 20011,
+    "resourceBoxType": "expand",
+    "details": [
+      {
+        "resourceBoxPurpose": "material_exchange",
+        "resourceBoxId": 20011,
+        "seq": 110,
+        "resourceType": "card",
+        "resourceId": 43,
+        "resourceQuantity": 1
+      }
+    ]
+  },
+  {
+    "resourceBoxPurpose": "material_exchange",
+    "id": 20012,
+    "resourceBoxType": "expand",
+    "details": [
+      {
+        "resourceBoxPurpose": "material_exchange",
+        "resourceBoxId": 20012,
+        "seq": 120,
+        "resourceType": "card",
+        "resourceId": 47,
+        "resourceQuantity": 1
+      }
+    ]
+  },
+  {
+    "resourceBoxPurpose": "material_exchange",
+    "id": 20013,
+    "resourceBoxType": "expand",
+    "details": [
+      {
+        "resourceBoxPurpose": "material_exchange",
+        "resourceBoxId": 20013,
+        "seq": 130,
+        "resourceType": "card",
+        "resourceId": 51,
+        "resourceQuantity": 1
+      }
+    ]
+  },
+  {
+    "resourceBoxPurpose": "material_exchange",
+    "id": 20014,
+    "resourceBoxType": "expand",
+    "details": [
+      {
+        "resourceBoxPurpose": "material_exchange",
+        "resourceBoxId": 20014,
+        "seq": 140,
+        "resourceType": "card",
+        "resourceId": 55,
+        "resourceQuantity": 1
+      }
+    ]
+  },
+  {
+    "resourceBoxPurpose": "material_exchange",
+    "id": 20015,
+    "resourceBoxType": "expand",
+    "details": [
+      {
+        "resourceBoxPurpose": "material_exchange",
+        "resourceBoxId": 20015,
+        "seq": 150,
+        "resourceType": "card",
+        "resourceId": 59,
+        "resourceQuantity": 1
+      }
+    ]
+  },
+  {
+    "resourceBoxPurpose": "material_exchange",
+    "id": 20016,
+    "resourceBoxType": "expand",
+    "details": [
+      {
+        "resourceBoxPurpose": "material_exchange",
+        "resourceBoxId": 20016,
+        "seq": 160,
+        "resourceType": "card",
+        "resourceId": 63,
+        "resourceQuantity": 1
+      }
+    ]
+  },
+  {
+    "resourceBoxPurpose": "material_exchange",
+    "id": 20017,
+    "resourceBoxType": "expand",
+    "details": [
+      {
+        "resourceBoxPurpose": "material_exchange",
+        "resourceBoxId": 20017,
+        "seq": 170,
+        "resourceType": "card",
+        "resourceId": 67,
+        "resourceQuantity": 1
+      }
+    ]
+  },
+  {
+    "resourceBoxPurpose": "material_exchange",
+    "id": 20018,
+    "resourceBoxType": "expand",
+    "details": [
+      {
+        "resourceBoxPurpose": "material_exchange",
+        "resourceBoxId": 20018,
+        "seq": 180,
+        "resourceType": "card",
+        "resourceId": 71,
+        "resourceQuantity": 1
+      }
+    ]
+  },
+  {
+    "resourceBoxPurpose": "material_exchange",
+    "id": 20019,
+    "resourceBoxType": "expand",
+    "details": [
+      {
+        "resourceBoxPurpose": "material_exchange",
+        "resourceBoxId": 20019,
+        "seq": 190,
+        "resourceType": "card",
+        "resourceId": 75,
+        "resourceQuantity": 1
+      }
+    ]
+  },
+  {
+    "resourceBoxPurpose": "material_exchange",
+    "id": 20020,
+    "resourceBoxType": "expand",
+    "details": [
+      {
+        "resourceBoxPurpose": "material_exchange",
+        "resourceBoxId": 20020,
+        "seq": 200,
+        "resourceType": "card",
+        "resourceId": 79,
+        "resourceQuantity": 1
+      }
+    ]
+  },
+  {
+    "resourceBoxPurpose": "material_exchange",
+    "id": 20021,
+    "resourceBoxType": "expand",
+    "details": [
+      {
+        "resourceBoxPurpose": "material_exchange",
+        "resourceBoxId": 20021,
+        "seq": 210,
+        "resourceType": "card",
+        "resourceId": 87,
+        "resourceQuantity": 1
+      }
+    ]
+  },
+  {
+    "resourceBoxPurpose": "material_exchange",
+    "id": 20022,
+    "resourceBoxType": "expand",
+    "details": [
+      {
+        "resourceBoxPurpose": "material_exchange",
+        "resourceBoxId": 20022,
+        "seq": 220,
+        "resourceType": "card",
+        "resourceId": 91,
+        "resourceQuantity": 1
+      }
+    ]
+  },
+  {
+    "resourceBoxPurpose": "material_exchange",
+    "id": 20023,
+    "resourceBoxType": "expand",
+    "details": [
+      {
+        "resourceBoxPurpose": "material_exchange",
+        "resourceBoxId": 20023,
+        "seq": 230,
+        "resourceType": "card",
+        "resourceId": 95,
+        "resourceQuantity": 1
+      }
+    ]
+  },
+  {
+    "resourceBoxPurpose": "material_exchange",
+    "id": 20024,
+    "resourceBoxType": "expand",
+    "details": [
+      {
+        "resourceBoxPurpose": "material_exchange",
+        "resourceBoxId": 20024,
+        "seq": 240,
+        "resourceType": "card",
+        "resourceId": 99,
+        "resourceQuantity": 1
+      }
+    ]
+  },
+  {
+    "resourceBoxPurpose": "material_exchange",
+    "id": 20025,
+    "resourceBoxType": "expand",
+    "details": [
+      {
+        "resourceBoxPurpose": "material_exchange",
+        "resourceBoxId": 20025,
+        "seq": 250,
+        "resourceType": "card",
+        "resourceId": 103,
+        "resourceQuantity": 1
+      }
+    ]
+  },
+  {
+    "resourceBoxPurpose": "material_exchange",
+    "id": 20026,
+    "resourceBoxType": "expand",
+    "details": [
+      {
+        "resourceBoxPurpose": "material_exchange",
+        "resourceBoxId": 20026,
+        "seq": 260,
+        "resourceType": "card",
+        "resourceId": 107,
+        "resourceQuantity": 1
       }
     ]
   },
