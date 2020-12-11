@@ -10,26 +10,6 @@
     "endAt": 4102412399000
   },
   {
-    "homeBannerId": 39,
-    "seq": 99,
-    "name": "ビビバスイベント_イベントバナー",
-    "assetbundleName": "event_forward_2020",
-    "transitionDestinationType": "event",
-    "transitionDestinationId": 6,
-    "startAt": 1606716000000,
-    "endAt": 1607579999000
-  },
-  {
-    "homeBannerId": 40,
-    "seq": 100,
-    "name": "ビビバスイベント_定常ガチャバナー",
-    "assetbundleName": "banner_gacha17",
-    "transitionDestinationType": "gacha",
-    "transitionDestinationId": 17,
-    "startAt": 1606716000000,
-    "endAt": 1607579999000
-  },
-  {
     "homeBannerId": 44,
     "seq": 200,
     "name": "プレミアムミッションパス",
@@ -38,5 +18,25 @@
     "transitionDestinationId": 179,
     "startAt": 1606748400000,
     "endAt": 1609426799000
+  },
+  {
+    "homeBannerId": 45,
+    "seq": 99,
+    "name": "文化祭イベント_イベントバナー",
+    "assetbundleName": "event_culturalfestival_2020",
+    "transitionDestinationType": "event",
+    "transitionDestinationId": 7,
+    "startAt": 1607580000000,
+    "endAt": 1608443999000
+  },
+  {
+    "homeBannerId": 46,
+    "seq": 100,
+    "name": "文化祭イベント_定常ガチャバナー",
+    "assetbundleName": "banner_gacha20",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 20,
+    "startAt": 1607580000000,
+    "endAt": 1608443999000
   }
 ]
