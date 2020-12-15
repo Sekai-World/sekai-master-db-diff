@@ -263,9 +263,18 @@
     ],
     "virtualLiveReward": {
       "id": 1,
+      "virtualLiveType": "normal",
       "virtualLiveId": 1,
       "resourceBoxId": 1
     },
+    "virtualLiveRewards": [
+      {
+        "id": 1,
+        "virtualLiveType": "normal",
+        "virtualLiveId": 1,
+        "resourceBoxId": 1
+      }
+    ],
     "virtualLiveCheerPointRewards": [],
     "virtualLiveWaitingRoom": {
       "id": 1,
@@ -955,9 +964,18 @@
     ],
     "virtualLiveReward": {
       "id": 2,
+      "virtualLiveType": "normal",
       "virtualLiveId": 2,
       "resourceBoxId": 1
     },
+    "virtualLiveRewards": [
+      {
+        "id": 2,
+        "virtualLiveType": "normal",
+        "virtualLiveId": 2,
+        "resourceBoxId": 1
+      }
+    ],
     "virtualLiveCheerPointRewards": [],
     "virtualLiveWaitingRoom": {
       "id": 2,
@@ -1646,9 +1664,18 @@
     ],
     "virtualLiveReward": {
       "id": 3,
+      "virtualLiveType": "normal",
       "virtualLiveId": 3,
       "resourceBoxId": 1
     },
+    "virtualLiveRewards": [
+      {
+        "id": 3,
+        "virtualLiveType": "normal",
+        "virtualLiveId": 3,
+        "resourceBoxId": 1
+      }
+    ],
     "virtualLiveCheerPointRewards": [],
     "virtualLiveWaitingRoom": {
       "id": 3,
@@ -2349,9 +2376,18 @@
     ],
     "virtualLiveReward": {
       "id": 4,
+      "virtualLiveType": "normal",
       "virtualLiveId": 4,
       "resourceBoxId": 1
     },
+    "virtualLiveRewards": [
+      {
+        "id": 4,
+        "virtualLiveType": "normal",
+        "virtualLiveId": 4,
+        "resourceBoxId": 1
+      }
+    ],
     "virtualLiveCheerPointRewards": [],
     "virtualLiveWaitingRoom": {
       "id": 4,
@@ -3047,9 +3083,18 @@
     ],
     "virtualLiveReward": {
       "id": 5,
+      "virtualLiveType": "normal",
       "virtualLiveId": 5,
       "resourceBoxId": 1
     },
+    "virtualLiveRewards": [
+      {
+        "id": 5,
+        "virtualLiveType": "normal",
+        "virtualLiveId": 5,
+        "resourceBoxId": 1
+      }
+    ],
     "virtualLiveCheerPointRewards": [],
     "virtualLiveWaitingRoom": {
       "id": 5,
@@ -3731,9 +3776,18 @@
     ],
     "virtualLiveReward": {
       "id": 6,
+      "virtualLiveType": "normal",
       "virtualLiveId": 6,
       "resourceBoxId": 1
     },
+    "virtualLiveRewards": [
+      {
+        "id": 6,
+        "virtualLiveType": "normal",
+        "virtualLiveId": 6,
+        "resourceBoxId": 1
+      }
+    ],
     "virtualLiveCheerPointRewards": [],
     "virtualLiveWaitingRoom": {
       "id": 6,
@@ -4439,9 +4493,18 @@
     ],
     "virtualLiveReward": {
       "id": 7,
+      "virtualLiveType": "normal",
       "virtualLiveId": 7,
       "resourceBoxId": 1
     },
+    "virtualLiveRewards": [
+      {
+        "id": 7,
+        "virtualLiveType": "normal",
+        "virtualLiveId": 7,
+        "resourceBoxId": 1
+      }
+    ],
     "virtualLiveCheerPointRewards": [],
     "virtualLiveWaitingRoom": {
       "id": 7,
@@ -5106,9 +5169,18 @@
     ],
     "virtualLiveReward": {
       "id": 8,
+      "virtualLiveType": "normal",
       "virtualLiveId": 8,
       "resourceBoxId": 8
     },
+    "virtualLiveRewards": [
+      {
+        "id": 8,
+        "virtualLiveType": "normal",
+        "virtualLiveId": 8,
+        "resourceBoxId": 8
+      }
+    ],
     "virtualLiveCheerPointRewards": [],
     "virtualLiveWaitingRoom": {
       "id": 8,
@@ -5650,6 +5722,7 @@
     "startAt": 1602223200000,
     "endAt": 1603259999000,
     "rankingAnnounceAt": 4102412399000,
+    "archiveReleaseConditionId": 100008,
     "virtualLiveSetlists": [
       {
         "id": 47,
@@ -5859,9 +5932,24 @@
     ],
     "virtualLiveReward": {
       "id": 9,
+      "virtualLiveType": "normal",
       "virtualLiveId": 9,
       "resourceBoxId": 9
     },
+    "virtualLiveRewards": [
+      {
+        "id": 9,
+        "virtualLiveType": "normal",
+        "virtualLiveId": 9,
+        "resourceBoxId": 9
+      },
+      {
+        "id": 40,
+        "virtualLiveType": "archive",
+        "virtualLiveId": 9,
+        "resourceBoxId": 20
+      }
+    ],
     "virtualLiveCheerPointRewards": [],
     "virtualLiveWaitingRoom": {
       "id": 9,
@@ -6403,6 +6491,7 @@
     "startAt": 1603173600000,
     "endAt": 1604210399000,
     "rankingAnnounceAt": 4102412399000,
+    "archiveReleaseConditionId": 100108,
     "virtualLiveSetlists": [
       {
         "id": 50,
@@ -6599,9 +6688,24 @@
     ],
     "virtualLiveReward": {
       "id": 10,
+      "virtualLiveType": "normal",
       "virtualLiveId": 10,
       "resourceBoxId": 10
     },
+    "virtualLiveRewards": [
+      {
+        "id": 10,
+        "virtualLiveType": "normal",
+        "virtualLiveId": 10,
+        "resourceBoxId": 10
+      },
+      {
+        "id": 41,
+        "virtualLiveType": "archive",
+        "virtualLiveId": 10,
+        "resourceBoxId": 21
+      }
+    ],
     "virtualLiveCheerPointRewards": [],
     "virtualLiveWaitingRoom": {
       "id": 10,
@@ -7282,9 +7386,18 @@
     ],
     "virtualLiveReward": {
       "id": 11,
+      "virtualLiveType": "normal",
       "virtualLiveId": 11,
       "resourceBoxId": 11
     },
+    "virtualLiveRewards": [
+      {
+        "id": 11,
+        "virtualLiveType": "normal",
+        "virtualLiveId": 11,
+        "resourceBoxId": 11
+      }
+    ],
     "virtualLiveCheerPointRewards": [],
     "virtualLiveWaitingRoom": {
       "id": 11,
@@ -8099,9 +8212,18 @@
     ],
     "virtualLiveReward": {
       "id": 12,
+      "virtualLiveType": "normal",
       "virtualLiveId": 12,
       "resourceBoxId": 12
     },
+    "virtualLiveRewards": [
+      {
+        "id": 12,
+        "virtualLiveType": "normal",
+        "virtualLiveId": 12,
+        "resourceBoxId": 12
+      }
+    ],
     "virtualLiveCheerPointRewards": [],
     "virtualLiveWaitingRoom": {
       "id": 12,
@@ -8643,6 +8765,7 @@
     "startAt": 1604124000000,
     "endAt": 1604987999000,
     "rankingAnnounceAt": 4102412399000,
+    "archiveReleaseConditionId": 100208,
     "virtualLiveSetlists": [
       {
         "id": 64,
@@ -8845,9 +8968,24 @@
     ],
     "virtualLiveReward": {
       "id": 13,
+      "virtualLiveType": "normal",
       "virtualLiveId": 13,
       "resourceBoxId": 13
     },
+    "virtualLiveRewards": [
+      {
+        "id": 13,
+        "virtualLiveType": "normal",
+        "virtualLiveId": 13,
+        "resourceBoxId": 13
+      },
+      {
+        "id": 42,
+        "virtualLiveType": "archive",
+        "virtualLiveId": 13,
+        "resourceBoxId": 22
+      }
+    ],
     "virtualLiveCheerPointRewards": [],
     "virtualLiveWaitingRoom": {
       "id": 13,
@@ -9535,9 +9673,18 @@
     ],
     "virtualLiveReward": {
       "id": 14,
+      "virtualLiveType": "normal",
       "virtualLiveId": 14,
       "resourceBoxId": 14
     },
+    "virtualLiveRewards": [
+      {
+        "id": 14,
+        "virtualLiveType": "normal",
+        "virtualLiveId": 14,
+        "resourceBoxId": 14
+      }
+    ],
     "virtualLiveCheerPointRewards": [],
     "virtualLiveWaitingRoom": {
       "id": 14,
@@ -10292,9 +10439,18 @@
     ],
     "virtualLiveReward": {
       "id": 15,
+      "virtualLiveType": "normal",
       "virtualLiveId": 15,
       "resourceBoxId": 15
     },
+    "virtualLiveRewards": [
+      {
+        "id": 15,
+        "virtualLiveType": "normal",
+        "virtualLiveId": 15,
+        "resourceBoxId": 15
+      }
+    ],
     "virtualLiveCheerPointRewards": [],
     "virtualLiveWaitingRoom": {
       "id": 15,
@@ -10984,9 +11140,18 @@
     ],
     "virtualLiveReward": {
       "id": 16,
+      "virtualLiveType": "normal",
       "virtualLiveId": 16,
       "resourceBoxId": 15
     },
+    "virtualLiveRewards": [
+      {
+        "id": 16,
+        "virtualLiveType": "normal",
+        "virtualLiveId": 16,
+        "resourceBoxId": 15
+      }
+    ],
     "virtualLiveCheerPointRewards": [],
     "virtualLiveWaitingRoom": {
       "id": 16,
@@ -11675,9 +11840,18 @@
     ],
     "virtualLiveReward": {
       "id": 17,
+      "virtualLiveType": "normal",
       "virtualLiveId": 17,
       "resourceBoxId": 15
     },
+    "virtualLiveRewards": [
+      {
+        "id": 17,
+        "virtualLiveType": "normal",
+        "virtualLiveId": 17,
+        "resourceBoxId": 15
+      }
+    ],
     "virtualLiveCheerPointRewards": [],
     "virtualLiveWaitingRoom": {
       "id": 17,
@@ -12378,9 +12552,18 @@
     ],
     "virtualLiveReward": {
       "id": 18,
+      "virtualLiveType": "normal",
       "virtualLiveId": 18,
       "resourceBoxId": 15
     },
+    "virtualLiveRewards": [
+      {
+        "id": 18,
+        "virtualLiveType": "normal",
+        "virtualLiveId": 18,
+        "resourceBoxId": 15
+      }
+    ],
     "virtualLiveCheerPointRewards": [],
     "virtualLiveWaitingRoom": {
       "id": 18,
@@ -13076,9 +13259,18 @@
     ],
     "virtualLiveReward": {
       "id": 19,
+      "virtualLiveType": "normal",
       "virtualLiveId": 19,
       "resourceBoxId": 15
     },
+    "virtualLiveRewards": [
+      {
+        "id": 19,
+        "virtualLiveType": "normal",
+        "virtualLiveId": 19,
+        "resourceBoxId": 15
+      }
+    ],
     "virtualLiveCheerPointRewards": [],
     "virtualLiveWaitingRoom": {
       "id": 19,
@@ -13760,9 +13952,18 @@
     ],
     "virtualLiveReward": {
       "id": 20,
+      "virtualLiveType": "normal",
       "virtualLiveId": 20,
       "resourceBoxId": 15
     },
+    "virtualLiveRewards": [
+      {
+        "id": 20,
+        "virtualLiveType": "normal",
+        "virtualLiveId": 20,
+        "resourceBoxId": 15
+      }
+    ],
     "virtualLiveCheerPointRewards": [],
     "virtualLiveWaitingRoom": {
       "id": 20,
@@ -14468,9 +14669,18 @@
     ],
     "virtualLiveReward": {
       "id": 21,
+      "virtualLiveType": "normal",
       "virtualLiveId": 21,
       "resourceBoxId": 15
     },
+    "virtualLiveRewards": [
+      {
+        "id": 21,
+        "virtualLiveType": "normal",
+        "virtualLiveId": 21,
+        "resourceBoxId": 15
+      }
+    ],
     "virtualLiveCheerPointRewards": [],
     "virtualLiveWaitingRoom": {
       "id": 21,
@@ -15211,9 +15421,18 @@
     ],
     "virtualLiveReward": {
       "id": 22,
+      "virtualLiveType": "normal",
       "virtualLiveId": 22,
       "resourceBoxId": 15
     },
+    "virtualLiveRewards": [
+      {
+        "id": 22,
+        "virtualLiveType": "normal",
+        "virtualLiveId": 22,
+        "resourceBoxId": 15
+      }
+    ],
     "virtualLiveCheerPointRewards": [],
     "virtualLiveWaitingRoom": {
       "id": 22,
@@ -15903,9 +16122,18 @@
     ],
     "virtualLiveReward": {
       "id": 23,
+      "virtualLiveType": "normal",
       "virtualLiveId": 23,
       "resourceBoxId": 15
     },
+    "virtualLiveRewards": [
+      {
+        "id": 23,
+        "virtualLiveType": "normal",
+        "virtualLiveId": 23,
+        "resourceBoxId": 15
+      }
+    ],
     "virtualLiveCheerPointRewards": [],
     "virtualLiveWaitingRoom": {
       "id": 23,
@@ -16594,9 +16822,18 @@
     ],
     "virtualLiveReward": {
       "id": 24,
+      "virtualLiveType": "normal",
       "virtualLiveId": 24,
       "resourceBoxId": 15
     },
+    "virtualLiveRewards": [
+      {
+        "id": 24,
+        "virtualLiveType": "normal",
+        "virtualLiveId": 24,
+        "resourceBoxId": 15
+      }
+    ],
     "virtualLiveCheerPointRewards": [],
     "virtualLiveWaitingRoom": {
       "id": 24,
@@ -17297,9 +17534,18 @@
     ],
     "virtualLiveReward": {
       "id": 25,
+      "virtualLiveType": "normal",
       "virtualLiveId": 25,
       "resourceBoxId": 15
     },
+    "virtualLiveRewards": [
+      {
+        "id": 25,
+        "virtualLiveType": "normal",
+        "virtualLiveId": 25,
+        "resourceBoxId": 15
+      }
+    ],
     "virtualLiveCheerPointRewards": [],
     "virtualLiveWaitingRoom": {
       "id": 25,
@@ -17995,9 +18241,18 @@
     ],
     "virtualLiveReward": {
       "id": 26,
+      "virtualLiveType": "normal",
       "virtualLiveId": 26,
       "resourceBoxId": 15
     },
+    "virtualLiveRewards": [
+      {
+        "id": 26,
+        "virtualLiveType": "normal",
+        "virtualLiveId": 26,
+        "resourceBoxId": 15
+      }
+    ],
     "virtualLiveCheerPointRewards": [],
     "virtualLiveWaitingRoom": {
       "id": 26,
@@ -18679,9 +18934,18 @@
     ],
     "virtualLiveReward": {
       "id": 27,
+      "virtualLiveType": "normal",
       "virtualLiveId": 27,
       "resourceBoxId": 15
     },
+    "virtualLiveRewards": [
+      {
+        "id": 27,
+        "virtualLiveType": "normal",
+        "virtualLiveId": 27,
+        "resourceBoxId": 15
+      }
+    ],
     "virtualLiveCheerPointRewards": [],
     "virtualLiveWaitingRoom": {
       "id": 27,
@@ -19387,9 +19651,18 @@
     ],
     "virtualLiveReward": {
       "id": 28,
+      "virtualLiveType": "normal",
       "virtualLiveId": 28,
       "resourceBoxId": 15
     },
+    "virtualLiveRewards": [
+      {
+        "id": 28,
+        "virtualLiveType": "normal",
+        "virtualLiveId": 28,
+        "resourceBoxId": 15
+      }
+    ],
     "virtualLiveCheerPointRewards": [],
     "virtualLiveWaitingRoom": {
       "id": 28,
@@ -20130,9 +20403,18 @@
     ],
     "virtualLiveReward": {
       "id": 29,
+      "virtualLiveType": "normal",
       "virtualLiveId": 29,
       "resourceBoxId": 15
     },
+    "virtualLiveRewards": [
+      {
+        "id": 29,
+        "virtualLiveType": "normal",
+        "virtualLiveId": 29,
+        "resourceBoxId": 15
+      }
+    ],
     "virtualLiveCheerPointRewards": [],
     "virtualLiveWaitingRoom": {
       "id": 29,
@@ -20822,9 +21104,18 @@
     ],
     "virtualLiveReward": {
       "id": 30,
+      "virtualLiveType": "normal",
       "virtualLiveId": 30,
       "resourceBoxId": 15
     },
+    "virtualLiveRewards": [
+      {
+        "id": 30,
+        "virtualLiveType": "normal",
+        "virtualLiveId": 30,
+        "resourceBoxId": 15
+      }
+    ],
     "virtualLiveCheerPointRewards": [],
     "virtualLiveWaitingRoom": {
       "id": 30,
@@ -21513,9 +21804,18 @@
     ],
     "virtualLiveReward": {
       "id": 31,
+      "virtualLiveType": "normal",
       "virtualLiveId": 31,
       "resourceBoxId": 15
     },
+    "virtualLiveRewards": [
+      {
+        "id": 31,
+        "virtualLiveType": "normal",
+        "virtualLiveId": 31,
+        "resourceBoxId": 15
+      }
+    ],
     "virtualLiveCheerPointRewards": [],
     "virtualLiveWaitingRoom": {
       "id": 31,
@@ -22221,9 +22521,18 @@
     ],
     "virtualLiveReward": {
       "id": 35,
+      "virtualLiveType": "normal",
       "virtualLiveId": 35,
       "resourceBoxId": 15
     },
+    "virtualLiveRewards": [
+      {
+        "id": 35,
+        "virtualLiveType": "normal",
+        "virtualLiveId": 35,
+        "resourceBoxId": 15
+      }
+    ],
     "virtualLiveCheerPointRewards": [],
     "virtualLiveWaitingRoom": {
       "id": 35,
@@ -22887,9 +23196,18 @@
     ],
     "virtualLiveReward": {
       "id": 36,
+      "virtualLiveType": "normal",
       "virtualLiveId": 36,
       "resourceBoxId": 16
     },
+    "virtualLiveRewards": [
+      {
+        "id": 36,
+        "virtualLiveType": "normal",
+        "virtualLiveId": 36,
+        "resourceBoxId": 16
+      }
+    ],
     "virtualLiveCheerPointRewards": [],
     "virtualLiveWaitingRoom": {
       "id": 36,
@@ -23431,6 +23749,7 @@
     "startAt": 1605765600000,
     "endAt": 1606802399000,
     "rankingAnnounceAt": 4102412399000,
+    "archiveReleaseConditionId": 100408,
     "virtualLiveSetlists": [
       {
         "id": 203,
@@ -23628,9 +23947,24 @@
     ],
     "virtualLiveReward": {
       "id": 37,
+      "virtualLiveType": "normal",
       "virtualLiveId": 37,
       "resourceBoxId": 17
     },
+    "virtualLiveRewards": [
+      {
+        "id": 37,
+        "virtualLiveType": "normal",
+        "virtualLiveId": 37,
+        "resourceBoxId": 17
+      },
+      {
+        "id": 43,
+        "virtualLiveType": "archive",
+        "virtualLiveId": 37,
+        "resourceBoxId": 23
+      }
+    ],
     "virtualLiveCheerPointRewards": [],
     "virtualLiveWaitingRoom": {
       "id": 37,
@@ -23640,19 +23974,6 @@
       "endAt": 1606802399000
     },
     "virtualItems": [
-      {
-        "id": 52,
-        "virtualItemCategory": "normal",
-        "seq": 520,
-        "priority": 520,
-        "name": "HAPPY BIRTHDAY 彰人",
-        "assetbundleName": "chara_akito_birthday",
-        "costVirtualCoin": 3000,
-        "costJewel": 3000,
-        "cheerPoint": 3000,
-        "effectAssetbundleName": "chara_akito_birthday",
-        "effectExpressionType": "throw_effect"
-      },
       {
         "id": 1,
         "virtualItemCategory": "normal",
@@ -24160,6 +24481,19 @@
         "effectAssetbundleName": "event_restart",
         "effectExpressionType": "throw_effect",
         "virtualItemLabelType": "special"
+      },
+      {
+        "id": 44,
+        "virtualItemCategory": "normal",
+        "seq": 200,
+        "priority": 440,
+        "name": "アイスバー",
+        "assetbundleName": "chara_kaito",
+        "costVirtualCoin": 1000,
+        "costJewel": 1000,
+        "cheerPoint": 1000,
+        "effectAssetbundleName": "chara_kaito",
+        "effectExpressionType": "throw_effect"
       }
     ]
   },
@@ -24172,6 +24506,7 @@
     "startAt": 1606716000000,
     "endAt": 1608443999000,
     "rankingAnnounceAt": 4102412399000,
+    "archiveReleaseConditionId": 100508,
     "virtualLiveSetlists": [
       {
         "id": 593,
@@ -24376,9 +24711,24 @@
     ],
     "virtualLiveReward": {
       "id": 38,
+      "virtualLiveType": "normal",
       "virtualLiveId": 38,
       "resourceBoxId": 18
     },
+    "virtualLiveRewards": [
+      {
+        "id": 38,
+        "virtualLiveType": "normal",
+        "virtualLiveId": 38,
+        "resourceBoxId": 18
+      },
+      {
+        "id": 44,
+        "virtualLiveType": "archive",
+        "virtualLiveId": 38,
+        "resourceBoxId": 24
+      }
+    ],
     "virtualLiveCheerPointRewards": [],
     "virtualLiveWaitingRoom": {
       "id": 38,
@@ -25059,9 +25409,18 @@
     ],
     "virtualLiveReward": {
       "id": 39,
+      "virtualLiveType": "normal",
       "virtualLiveId": 39,
       "resourceBoxId": 19
     },
+    "virtualLiveRewards": [
+      {
+        "id": 39,
+        "virtualLiveType": "normal",
+        "virtualLiveId": 39,
+        "resourceBoxId": 19
+      }
+    ],
     "virtualLiveCheerPointRewards": [],
     "virtualLiveWaitingRoom": {
       "id": 39,
@@ -25816,9 +26175,18 @@
     ],
     "virtualLiveReward": {
       "id": 20001,
+      "virtualLiveType": "beginner",
       "virtualLiveId": 20001,
       "resourceBoxId": 1
     },
+    "virtualLiveRewards": [
+      {
+        "id": 20001,
+        "virtualLiveType": "beginner",
+        "virtualLiveId": 20001,
+        "resourceBoxId": 1
+      }
+    ],
     "virtualLiveCheerPointRewards": [],
     "virtualLiveWaitingRoom": {
       "id": 20001,
@@ -26508,9 +26876,18 @@
     ],
     "virtualLiveReward": {
       "id": 20002,
+      "virtualLiveType": "beginner",
       "virtualLiveId": 20002,
       "resourceBoxId": 1
     },
+    "virtualLiveRewards": [
+      {
+        "id": 20002,
+        "virtualLiveType": "beginner",
+        "virtualLiveId": 20002,
+        "resourceBoxId": 1
+      }
+    ],
     "virtualLiveCheerPointRewards": [],
     "virtualLiveWaitingRoom": {
       "id": 20002,
@@ -27199,9 +27576,18 @@
     ],
     "virtualLiveReward": {
       "id": 20003,
+      "virtualLiveType": "beginner",
       "virtualLiveId": 20003,
       "resourceBoxId": 1
     },
+    "virtualLiveRewards": [
+      {
+        "id": 20003,
+        "virtualLiveType": "beginner",
+        "virtualLiveId": 20003,
+        "resourceBoxId": 1
+      }
+    ],
     "virtualLiveCheerPointRewards": [],
     "virtualLiveWaitingRoom": {
       "id": 20003,
@@ -27902,9 +28288,18 @@
     ],
     "virtualLiveReward": {
       "id": 20004,
+      "virtualLiveType": "beginner",
       "virtualLiveId": 20004,
       "resourceBoxId": 1
     },
+    "virtualLiveRewards": [
+      {
+        "id": 20004,
+        "virtualLiveType": "beginner",
+        "virtualLiveId": 20004,
+        "resourceBoxId": 1
+      }
+    ],
     "virtualLiveCheerPointRewards": [],
     "virtualLiveWaitingRoom": {
       "id": 20004,
@@ -28600,9 +28995,18 @@
     ],
     "virtualLiveReward": {
       "id": 20005,
+      "virtualLiveType": "beginner",
       "virtualLiveId": 20005,
       "resourceBoxId": 1
     },
+    "virtualLiveRewards": [
+      {
+        "id": 20005,
+        "virtualLiveType": "beginner",
+        "virtualLiveId": 20005,
+        "resourceBoxId": 1
+      }
+    ],
     "virtualLiveCheerPointRewards": [],
     "virtualLiveWaitingRoom": {
       "id": 20005,
@@ -29284,9 +29688,18 @@
     ],
     "virtualLiveReward": {
       "id": 20006,
+      "virtualLiveType": "beginner",
       "virtualLiveId": 20006,
       "resourceBoxId": 1
     },
+    "virtualLiveRewards": [
+      {
+        "id": 20006,
+        "virtualLiveType": "beginner",
+        "virtualLiveId": 20006,
+        "resourceBoxId": 1
+      }
+    ],
     "virtualLiveCheerPointRewards": [],
     "virtualLiveWaitingRoom": {
       "id": 20006,
@@ -29992,9 +30405,18 @@
     ],
     "virtualLiveReward": {
       "id": 20007,
+      "virtualLiveType": "beginner",
       "virtualLiveId": 20007,
       "resourceBoxId": 1
     },
+    "virtualLiveRewards": [
+      {
+        "id": 20007,
+        "virtualLiveType": "beginner",
+        "virtualLiveId": 20007,
+        "resourceBoxId": 1
+      }
+    ],
     "virtualLiveCheerPointRewards": [],
     "virtualLiveWaitingRoom": {
       "id": 20007,

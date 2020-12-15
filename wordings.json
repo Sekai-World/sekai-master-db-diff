@@ -48,6 +48,10 @@
     "value": "楽曲「{0}」を\n獲得すると解放"
   },
   {
+    "wordingKey": "MSG_ARCHIVE_EVENT_STORY_ERROR",
+    "value": "終了したイベントがありません。\nホームに戻ります"
+  },
+  {
     "wordingKey": "MSG_AREA_ITEM_EFFECT",
     "value": "サブユニットが設定されているメンバーには、\n総合力が高くなるユニットのエリアアイテム効果が\n自動的に適用されます。\n\n複数ユニットのエリアアイテム効果が\n適用されることはありません。"
   },
@@ -158,6 +162,10 @@
   {
     "wordingKey": "MSG_COIN_DESCRIPTION",
     "value": "各エリアのショップで様々なアイテムと交換できるコイン。ライブなどで手に入る。"
+  },
+  {
+    "wordingKey": "MSG_COLORFUL_PASS_ALERT",
+    "value": "カラフルパスの有効期限が過ぎています。\n新しく購入しますか？"
   },
   {
     "wordingKey": "MSG_CONDITION_GET_CARD",
@@ -410,6 +418,22 @@
   {
     "wordingKey": "MSG_FIX_MIKU_COSTUME",
     "value": "3D MVで常にこのミクを表示"
+  },
+  {
+    "wordingKey": "MSG_GACHA_CEIL_TICKET_CONVERT_CONFIRM",
+    "value": "{0}を\n{1}に交換しますか？"
+  },
+  {
+    "wordingKey": "MSG_GACHA_CEIL_TICKET_EXCHANGE_CONFIRM",
+    "value": "{0}<color=#FF55AA>{1}</color>枚を消費して \nアイテムと交換しますか？"
+  },
+  {
+    "wordingKey": "MSG_GACHA_EXCHANGE_NUMBER_OF_PURCHASE",
+    "value": "あと{0}回"
+  },
+  {
+    "wordingKey": "MSG_GACHA_ITEM_EXCHANGE_EXPIRED",
+    "value": "交換所の期限が過ぎました。"
   },
   {
     "wordingKey": "MSG_GACHA_RATE_NOTICE",
@@ -848,6 +872,10 @@
     "value": "該当する楽曲がありません。"
   },
   {
+    "wordingKey": "MSG_NO_ARCHIVE_EVENT_FOUND",
+    "value": "対象イベントがありません。"
+  },
+  {
     "wordingKey": "MSG_NO_FILTERING_RESULT",
     "value": "絞り込み結果がありません。"
   },
@@ -1140,6 +1168,10 @@
     "value": "毎週日曜日にリセット"
   },
   {
+    "wordingKey": "MSG_SIDE_STORY_RELEASE_CONDITION",
+    "value": "「{0}」を獲得すると解放"
+  },
+  {
     "wordingKey": "MSG_SINGER_NAME",
     "value": "歌：{0}"
   },
@@ -1182,6 +1214,10 @@
   {
     "wordingKey": "MSG_STRAGE_ERROR",
     "value": "プレイに必要な端末の空き容量が不足しております。\nデータをダウンロードできません。\nタイトルに戻ります。"
+  },
+  {
+    "wordingKey": "MSG_TICKET_EXCHANGE_EXPIRED",
+    "value": "交換所の期限が過ぎました。"
   },
   {
     "wordingKey": "MSG_TOP_RANKING",
@@ -1329,7 +1365,7 @@
   },
   {
     "wordingKey": "MSG_WEARABLE_MEMBER_2_1",
-    "value": "・「<color=#00CCBB>[{0}]{1}</color>」を獲得すると、\n衣装ショップに「<color=#00CCBB>{1}</color>」が追加されます。\n\n衣装ショップで「<color=#00CCBB>{2}</color>」の着用可能キャラクターを指定して衣装を製作すると、"
+    "value": "・「<color=#00CCBB>[{0}]{1}</color>」を獲得すると、\n衣装ショップに「<color=#00CCBB>{2}</color>」が追加されます。\n\n衣装ショップで「<color=#00CCBB>{2}</color>」の着用可能キャラクターを指定して衣装を製作すると、"
   },
   {
     "wordingKey": "MSG_WEARABLE_MEMBER_2_2",
@@ -1444,6 +1480,10 @@
     "value": "{0}COMBO"
   },
   {
+    "wordingKey": "WORD_AFTER_LIVE",
+    "value": "アフターライブ"
+  },
+  {
     "wordingKey": "WORD_AGGREGATION_PERIOD",
     "value": "集計期間"
   },
@@ -1488,12 +1528,28 @@
     "value": "通信エラー"
   },
   {
+    "wordingKey": "WORD_APPEAR",
+    "value": "登場"
+  },
+  {
     "wordingKey": "WORD_APPEAR_MEMBER",
     "value": "登場メンバー"
   },
   {
     "wordingKey": "WORD_APPER_UNIT",
     "value": "登場ユニット"
+  },
+  {
+    "wordingKey": "WORD_ARCHIVE_EVENT_STORY_ERROR_TITLE",
+    "value": "イベントストーリーエラー"
+  },
+  {
+    "wordingKey": "WORD_ARCHIVE_EVESTO_CHARACTERS_TITLE",
+    "value": "登場キャラクター"
+  },
+  {
+    "wordingKey": "WORD_ARCHIVE_EVESTO_CHARA_FILTER_TITLE",
+    "value": "キャラクター絞り込み"
   },
   {
     "wordingKey": "WORD_AREA_ITEM_EFFECT",
@@ -1780,6 +1836,14 @@
     "value": "カラー"
   },
   {
+    "wordingKey": "WORD_COLORFUL_PASS_ALERT_TITLE",
+    "value": "有効期限切れ"
+  },
+  {
+    "wordingKey": "WORD_COLORFUL_PASS_OK",
+    "value": "クリスタルショップへ"
+  },
+  {
     "wordingKey": "WORD_COLORFUL_PATH",
     "value": "カラフルパス"
   },
@@ -1958,6 +2022,10 @@
   {
     "wordingKey": "WORD_DATA_LINK_SETTING",
     "value": "データ連携設定"
+  },
+  {
+    "wordingKey": "WORD_DATE_LIMIT",
+    "value": "開催期間"
   },
   {
     "wordingKey": "WORD_DDECK_EDIT_AUTO_EDIT",
@@ -2156,6 +2224,10 @@
     "value": "イベントバッジ交換"
   },
   {
+    "wordingKey": "WORD_EVENT_MEMBER_NL",
+    "value": "イベント\nメンバー"
+  },
+  {
     "wordingKey": "WORD_EVENT_POINT",
     "value": "イベントP"
   },
@@ -2238,6 +2310,14 @@
   {
     "wordingKey": "WORD_FEVER_EFFECT",
     "value": "FEVER演出"
+  },
+  {
+    "wordingKey": "WORD_FIGURE_LADIES",
+    "value": "レディース"
+  },
+  {
+    "wordingKey": "WORD_FIGURE_MENS",
+    "value": "メンズ"
   },
   {
     "wordingKey": "WORD_FILTER",
@@ -3136,6 +3216,10 @@
     "value": "OFF"
   },
   {
+    "wordingKey": "WORD_OK",
+    "value": "OK"
+  },
+  {
     "wordingKey": "WORD_ON",
     "value": "ON"
   },
@@ -3460,6 +3544,10 @@
     "value": "達成ボーナス"
   },
   {
+    "wordingKey": "WORD_READ",
+    "value": "読む"
+  },
+  {
     "wordingKey": "WORD_READJUSTMENT",
     "value": "再調整"
   },
@@ -3490,6 +3578,10 @@
   {
     "wordingKey": "WORD_RECRUITTING",
     "value": "募集中..."
+  },
+  {
+    "wordingKey": "WORD_RELATION_SIDE_STORY",
+    "value": "関連サイドストーリー"
   },
   {
     "wordingKey": "WORD_RELATION_SITE",
@@ -3750,6 +3842,10 @@
   {
     "wordingKey": "WORD_SHOP_YEAR",
     "value": "年"
+  },
+  {
+    "wordingKey": "WORD_SIDE_STORY_NL",
+    "value": "サイド\nストーリー"
   },
   {
     "wordingKey": "WORD_SIMULTANEOUS_PUSHI_LINE",
@@ -4294,6 +4390,66 @@
   {
     "wordingKey": "WORD_VIRTUAL_SINGER_VERSION",
     "value": "バーチャル・シンガーver."
+  },
+  {
+    "wordingKey": "WORD_VL_SETTINGS_LABEL_ALL",
+    "value": "バーチャルライブ・待合エリア共通設定"
+  },
+  {
+    "wordingKey": "WORD_VL_SETTINGS_LABEL_LIVE",
+    "value": "バーチャルライブ設定"
+  },
+  {
+    "wordingKey": "WORD_VL_SETTINGS_LABEL_LOBBY",
+    "value": "待合エリア設定"
+  },
+  {
+    "wordingKey": "WORD_VL_SETTINGS_LOBBY_VISIBLE_AVATAR",
+    "value": "他プレイヤー表示数"
+  },
+  {
+    "wordingKey": "WORD_VL_SETTINGS_LOBBY_VISIBLE_AVATAR_ALL",
+    "value": "多い"
+  },
+  {
+    "wordingKey": "WORD_VL_SETTINGS_LOBBY_VISIBLE_AVATAR_DEFAULT",
+    "value": "標準"
+  },
+  {
+    "wordingKey": "WORD_VL_SETTINGS_LOBBY_VISIBLE_AVATAR_LOW",
+    "value": "少ない"
+  },
+  {
+    "wordingKey": "WORD_VL_SETTINGS_QUALITY",
+    "value": "品質設定"
+  },
+  {
+    "wordingKey": "WORD_VL_SETTINGS_QUALITY_DEFAULT",
+    "value": "標準"
+  },
+  {
+    "wordingKey": "WORD_VL_SETTINGS_QUALITY_HIGH",
+    "value": "高品質"
+  },
+  {
+    "wordingKey": "WORD_VL_SETTINGS_QUALITY_LOW",
+    "value": "軽量"
+  },
+  {
+    "wordingKey": "WORD_VL_SETTINGS_VISIBLE_AVATAR",
+    "value": "他プレイヤー表示数"
+  },
+  {
+    "wordingKey": "WORD_VL_SETTINGS_VISIBLE_AVATAR_ALL",
+    "value": "多い"
+  },
+  {
+    "wordingKey": "WORD_VL_SETTINGS_VISIBLE_AVATAR_DEFAULT",
+    "value": "標準"
+  },
+  {
+    "wordingKey": "WORD_VL_SETTINGS_VISIBLE_AVATAR_LOW",
+    "value": "少ない"
   },
   {
     "wordingKey": "WORD_VOCAL",

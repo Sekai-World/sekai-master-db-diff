@@ -22728,6 +22728,22 @@
     ]
   },
   {
+    "resourceBoxPurpose": "episode_reward",
+    "id": 12,
+    "resourceBoxType": "expand",
+    "description": "過去イベントストーリー報酬",
+    "details": [
+      {
+        "resourceBoxPurpose": "episode_reward",
+        "resourceBoxId": 12,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 13,
+        "resourceQuantity": 1
+      }
+    ]
+  },
+  {
     "resourceBoxPurpose": "event_exchange",
     "id": 1,
     "resourceBoxType": "expand",
@@ -31623,6 +31639,21 @@
         "resourceType": "music_vocal",
         "resourceId": 99,
         "resourceLevel": 0,
+        "resourceQuantity": 1
+      }
+    ]
+  },
+  {
+    "resourceBoxPurpose": "gift_detail",
+    "id": 1035,
+    "resourceBoxType": "expand",
+    "details": [
+      {
+        "resourceBoxPurpose": "gift_detail",
+        "resourceBoxId": 1035,
+        "seq": 1,
+        "resourceType": "boost_item",
+        "resourceId": 2,
         "resourceQuantity": 1
       }
     ]
