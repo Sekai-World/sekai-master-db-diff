@@ -1,5 +1,5 @@
 {
-  "version": "1.2.0.20",
+  "version": "1.3.0.0",
   "os": "ios",
   "bundles": {
     "virtual_live/live/effect/stage_smoke_front": {
@@ -2562,7 +2562,7 @@
       "cacheDirectoryName": "b1a2",
       "hash": "86519f2a233c9e04ce505cbbbb9fd871",
       "category": "OnDemand",
-      "crc": 1065298581,
+      "crc": 790837143,
       "fileSize": 375203,
       "dependencies": [],
       "paths": [
@@ -3447,7 +3447,7 @@
       "cacheDirectoryName": "bf0b",
       "hash": "3e5a4a14a5dd03581f0cfff0c62ae930",
       "category": "OnDemand",
-      "crc": 2597813662,
+      "crc": 2415181736,
       "fileSize": 319519,
       "dependencies": [],
       "paths": [
@@ -9422,10 +9422,10 @@
       "bundleName": "event_story/event_jackpod_2020/screen_image",
       "cacheFileName": "772a0aae62e8b3443dd97b41d9260233",
       "cacheDirectoryName": "fd93",
-      "hash": "3710a502e674036660dea60bdc28ca83",
+      "hash": "1074ca66d0fcbacb89a17b3f42ce40f6",
       "category": "OnDemand",
-      "crc": 3921338371,
-      "fileSize": 1165642,
+      "crc": 3942594588,
+      "fileSize": 1206808,
       "dependencies": [],
       "paths": [
         "OnDemand/event_story/event_jackpod_2020/screen_image"
@@ -11752,10 +11752,10 @@
       "bundleName": "thumbnail/material",
       "cacheFileName": "9ee695fe540ea3b0f72b3c0a73da277b",
       "cacheDirectoryName": "951d",
-      "hash": "c19edacc40a0f92490a81101254614fd",
+      "hash": "2a8b4aeae437f59a6e38dd20c350a35b",
       "category": "StartApp",
-      "crc": 858157690,
-      "fileSize": 101015,
+      "crc": 465903074,
+      "fileSize": 108280,
       "dependencies": [],
       "paths": [
         "StartApp/thumbnail/material"
@@ -13931,6 +13931,20 @@
       ],
       "paths": [
         "StartApp/effect_asset/virtual_live/item/uchiwa"
+      ],
+      "isBuiltin": false
+    },
+    "story/category_select": {
+      "bundleName": "story/category_select",
+      "cacheFileName": "7ea05d8a3257dece6a292d87a9d714bf",
+      "cacheDirectoryName": "bec6",
+      "hash": "4248c0a4e8127da5a1a9f91695f95de9",
+      "category": "StartApp",
+      "crc": 3803488080,
+      "fileSize": 2559406,
+      "dependencies": [],
+      "paths": [
+        "StartApp/story/category_select"
       ],
       "isBuiltin": false
     },
@@ -16819,7 +16833,7 @@
       "cacheDirectoryName": "7e50",
       "hash": "1c264d3b33a35459c72287b74f530277",
       "category": "OnDemand",
-      "crc": 1610141939,
+      "crc": 2645936795,
       "fileSize": 279604,
       "dependencies": [],
       "paths": [
@@ -17538,10 +17552,10 @@
       "bundleName": "event_story/event_stella_2020/screen_image",
       "cacheFileName": "c7ebbbb0564d8e8612615251fec1fbfb",
       "cacheDirectoryName": "76b1",
-      "hash": "bfe7f29e4dd25092dd632ff64dfe3441",
+      "hash": "0e980c453861a14fd1f753746aa73292",
       "category": "OnDemand",
-      "crc": 231355397,
-      "fileSize": 981388,
+      "crc": 929022979,
+      "fileSize": 1022705,
       "dependencies": [],
       "paths": [
         "OnDemand/event_story/event_stella_2020/screen_image"
@@ -18120,7 +18134,7 @@
       "cacheDirectoryName": "2d98",
       "hash": "06e87bf4b7fb11ca856f4dbf9771a2ae",
       "category": "OnDemand",
-      "crc": 2859798634,
+      "crc": 2962689398,
       "fileSize": 231603,
       "dependencies": [],
       "paths": [
@@ -19618,10 +19632,10 @@
       "bundleName": "virtual_live/avatar/model/low_left",
       "cacheFileName": "b8b61673732b9456043b97bbb69409fa",
       "cacheDirectoryName": "25cd",
-      "hash": "481c198e44ed627357900b64ac3e6132",
+      "hash": "847448841f293f76423f70b80f05c788",
       "category": "StartApp",
-      "crc": 1900676675,
-      "fileSize": 27753,
+      "crc": 3382405927,
+      "fileSize": 27756,
       "dependencies": [],
       "paths": [
         "StartApp/virtual_live/avatar/model/low_left",
@@ -22926,10 +22940,10 @@
       "bundleName": "thumbnail/gacha_item",
       "cacheFileName": "a94bc7ccf1b8467056957ede55d1f847",
       "cacheDirectoryName": "951d",
-      "hash": "fd189b969ec378b59609d14b713dbdc1",
+      "hash": "2c6bb06e016574900427a44ab3d4fb5a",
       "category": "StartApp",
-      "crc": 4191440665,
-      "fileSize": 3477,
+      "crc": 738135005,
+      "fileSize": 6660,
       "dependencies": [],
       "paths": [
         "StartApp/thumbnail/gacha_item"
@@ -23651,10 +23665,10 @@
       "bundleName": "virtual_live/avatar/model/default",
       "cacheFileName": "24c7d92c702ea5de21fcb44e39c2c707",
       "cacheDirectoryName": "25cd",
-      "hash": "f069c33b29698473bd94cd9a2f5b388b",
+      "hash": "f00a6a2a6996661c088d28dd352ac504",
       "category": "StartApp",
-      "crc": 3547401264,
-      "fileSize": 62244,
+      "crc": 3013187012,
+      "fileSize": 62245,
       "dependencies": [],
       "paths": [
         "StartApp/virtual_live/avatar/model/default",
@@ -30535,7 +30549,7 @@
       "cacheDirectoryName": "e8b3",
       "hash": "bc85ad25dedefdfc8c7c40ae309854e8",
       "category": "OnDemand",
-      "crc": 411571668,
+      "crc": 1366607511,
       "fileSize": 273868,
       "dependencies": [],
       "paths": [
@@ -32989,6 +33003,20 @@
       "dependencies": [],
       "paths": [
         "AdditionalVoice/sound/actionset/voice/areatalk02_269"
+      ],
+      "isBuiltin": false
+    },
+    "tutorial/slide/gacha_item": {
+      "bundleName": "tutorial/slide/gacha_item",
+      "cacheFileName": "d42068f4b95e0bd9a305d1eb40b1d379",
+      "cacheDirectoryName": "871f",
+      "hash": "80c5908ccd53683b6bfe264036c66ed5",
+      "category": "StartApp",
+      "crc": 1837860417,
+      "fileSize": 97095,
+      "dependencies": [],
+      "paths": [
+        "StartApp/tutorial/slide/gacha_item"
       ],
       "isBuiltin": false
     },
@@ -36170,7 +36198,7 @@
       "cacheDirectoryName": "d835",
       "hash": "adfe2fa2812d82cf4d8ac07a960a2973",
       "category": "OnDemand",
-      "crc": 3246968566,
+      "crc": 3656215467,
       "fileSize": 301700,
       "dependencies": [],
       "paths": [
@@ -37907,7 +37935,7 @@
       "cacheDirectoryName": "58df",
       "hash": "3c75a93f5f260c2414c37d8d35e2db20",
       "category": "OnDemand",
-      "crc": 997331288,
+      "crc": 863075082,
       "fileSize": 179979,
       "dependencies": [],
       "paths": [
@@ -38803,10 +38831,10 @@
       "bundleName": "virtual_live/mc/scenario/mc_ev_band_01_2",
       "cacheFileName": "d774c3c15c6cdc60b552386b71c69ab1",
       "cacheDirectoryName": "c82d",
-      "hash": "20208fcc7517a25b552e74c6d2b05d53",
+      "hash": "d1d8d8954720cbb03cb642bae117b404",
       "category": "OnDemand",
-      "crc": 139751048,
-      "fileSize": 8458,
+      "crc": 3323305167,
+      "fileSize": 8487,
       "dependencies": [],
       "paths": [
         "OnDemand/virtual_live/mc/scenario/mc_ev_band_01_2"
@@ -38819,7 +38847,7 @@
       "cacheDirectoryName": "b3fb",
       "hash": "b4d6793e260dd2dfa745720faf1ca895",
       "category": "OnDemand",
-      "crc": 660064486,
+      "crc": 2968142883,
       "fileSize": 271788,
       "dependencies": [],
       "paths": [
@@ -39155,7 +39183,7 @@
       "cacheDirectoryName": "2a5e",
       "hash": "8e9f2d9c44eb234a7960c033da0421fc",
       "category": "OnDemand",
-      "crc": 280744217,
+      "crc": 1420977377,
       "fileSize": 243293,
       "dependencies": [],
       "paths": [
@@ -44408,7 +44436,7 @@
       "cacheDirectoryName": "3018",
       "hash": "10ae0a3669d4b043a8a8866fb6afa8a3",
       "category": "OnDemand",
-      "crc": 3757949984,
+      "crc": 533165592,
       "fileSize": 276797,
       "dependencies": [],
       "paths": [
@@ -45370,7 +45398,7 @@
       "cacheDirectoryName": "0478",
       "hash": "214adba8f1b7327e460fb12fda41d49e",
       "category": "OnDemand",
-      "crc": 3581091934,
+      "crc": 710124275,
       "fileSize": 246915,
       "dependencies": [],
       "paths": [
@@ -45696,7 +45724,7 @@
       "cacheDirectoryName": "c8ec",
       "hash": "5b101e1370000ffa65d2960086be1798",
       "category": "OnDemand",
-      "crc": 2764062837,
+      "crc": 591813926,
       "fileSize": 288198,
       "dependencies": [],
       "paths": [
@@ -45778,10 +45806,10 @@
       "bundleName": "event_story/event_restart_2020/screen_image",
       "cacheFileName": "f969c15262a097b62316cc27e8fdf8e0",
       "cacheDirectoryName": "748b",
-      "hash": "9d8d1a6d899f68c072bc0fe8afd9af9d",
+      "hash": "05f1e1f7e0c5fdc4a91f5e7556f10ebb",
       "category": "OnDemand",
-      "crc": 1570922218,
-      "fileSize": 1246504,
+      "crc": 4111107305,
+      "fileSize": 1286230,
       "dependencies": [],
       "paths": [
         "OnDemand/event_story/event_restart_2020/screen_image"
@@ -51062,7 +51090,7 @@
       "cacheDirectoryName": "3a69",
       "hash": "884af09e08a6d09ffacce1345787b1f3",
       "category": "OnDemand",
-      "crc": 3688727824,
+      "crc": 1637652260,
       "fileSize": 230375,
       "dependencies": [],
       "paths": [
@@ -51607,7 +51635,7 @@
       "cacheDirectoryName": "1cad",
       "hash": "d6fde3558a1a15c44b6d0f6a492fb0c9",
       "category": "OnDemand",
-      "crc": 3662343426,
+      "crc": 594408443,
       "fileSize": 147428,
       "dependencies": [],
       "paths": [
@@ -51829,10 +51857,10 @@
       "bundleName": "virtual_live/avatar/skin/default",
       "cacheFileName": "777f24968b1e2b891d3eb49181f4602c",
       "cacheDirectoryName": "8d76",
-      "hash": "c696c908745bcd2623012723643d64ce",
+      "hash": "7e0cd59c254a919548d30417edcbd152",
       "category": "StartApp",
-      "crc": 59532073,
-      "fileSize": 33855,
+      "crc": 2003373625,
+      "fileSize": 57539,
       "dependencies": [],
       "paths": [
         "StartApp/virtual_live/avatar/skin/default"
@@ -53466,10 +53494,10 @@
       "bundleName": "virtual_live/avatar/penlight/penlight_0004",
       "cacheFileName": "1f1477917b1bd6428b497727d219bfd2",
       "cacheDirectoryName": "4aa6",
-      "hash": "c5cabe8401da6fc74209371190d0dca2",
+      "hash": "d50369b105e74723cc378eaac4d70acb",
       "category": "StartApp",
-      "crc": 4229943599,
-      "fileSize": 69715,
+      "crc": 1897756694,
+      "fileSize": 69740,
       "dependencies": [
         "shader/live"
       ],
@@ -53497,10 +53525,10 @@
       "bundleName": "virtual_live/avatar/penlight/penlight_0003",
       "cacheFileName": "a0fbce3f09b062f1f1c72acdf370831a",
       "cacheDirectoryName": "4aa6",
-      "hash": "87793dcc57fe0602866e383dcfba2097",
+      "hash": "dd3b91f18b54ee4714f96e29ea992534",
       "category": "StartApp",
-      "crc": 280257958,
-      "fileSize": 130309,
+      "crc": 121728539,
+      "fileSize": 130537,
       "dependencies": [
         "shader/live"
       ],
@@ -53515,10 +53543,10 @@
       "bundleName": "virtual_live/avatar/penlight/penlight_0002",
       "cacheFileName": "af019108983bf386a60530755a19fb37",
       "cacheDirectoryName": "4aa6",
-      "hash": "59c2d3ea7f432daceba0dfead45f6550",
+      "hash": "1babb291ce2cdd8afcd9bc61f1016fd8",
       "category": "StartApp",
-      "crc": 2628340974,
-      "fileSize": 39822,
+      "crc": 363673041,
+      "fileSize": 39825,
       "dependencies": [
         "shader/live"
       ],
@@ -54100,7 +54128,7 @@
       "cacheDirectoryName": "4513",
       "hash": "20ff92c9b27f8871cda0800a0a29c48c",
       "category": "OnDemand",
-      "crc": 69113208,
+      "crc": 1390958599,
       "fileSize": 271659,
       "dependencies": [],
       "paths": [
@@ -55006,10 +55034,10 @@
       "bundleName": "event_story/event_forward_2020/screen_image",
       "cacheFileName": "d9f951f5b6c1351c94573d70df3696ca",
       "cacheDirectoryName": "c150",
-      "hash": "2ade926ee4eaee1e42029c9be8968f4e",
+      "hash": "9130784d8be7a71c4609217d21cc54a3",
       "category": "OnDemand",
-      "crc": 1017883323,
-      "fileSize": 1092484,
+      "crc": 4224863615,
+      "fileSize": 1131590,
       "dependencies": [],
       "paths": [
         "OnDemand/event_story/event_forward_2020/screen_image"
@@ -55434,7 +55462,7 @@
       "cacheDirectoryName": "6be1",
       "hash": "5088306b3a3579f52aa8e70fbb861bdc",
       "category": "OnDemand",
-      "crc": 3358551714,
+      "crc": 3071178282,
       "fileSize": 245154,
       "dependencies": [],
       "paths": [
@@ -55710,8 +55738,8 @@
       "cacheDirectoryName": "714f",
       "hash": "cfafb609b9c86df77f4dc5d0b483ba02",
       "category": "StartApp",
-      "crc": 2720419518,
-      "fileSize": 512609,
+      "crc": 2061116894,
+      "fileSize": 512608,
       "dependencies": [
         "live_pv/sp/gacha/effect",
         "shader/live",
@@ -55734,7 +55762,7 @@
       "cacheDirectoryName": "9b3a",
       "hash": "f44a1896555fab19b8b138d735325907",
       "category": "OnDemand",
-      "crc": 331621798,
+      "crc": 2415852656,
       "fileSize": 259605,
       "dependencies": [],
       "paths": [
@@ -58429,7 +58457,7 @@
       "cacheDirectoryName": "0895",
       "hash": "5e6c0fa6be249be4ac470f2513772c50",
       "category": "OnDemand",
-      "crc": 993532127,
+      "crc": 673339919,
       "fileSize": 281021,
       "dependencies": [],
       "paths": [
@@ -58716,10 +58744,10 @@
       "bundleName": "event_story/event_sportsfestival_2020/screen_image",
       "cacheFileName": "5dd2c7e74f00c4803c0362efbeb89768",
       "cacheDirectoryName": "af4f",
-      "hash": "58976e00a601ffd8a7389a9cda542add",
+      "hash": "e185613df613329124b98d7173f149aa",
       "category": "OnDemand",
-      "crc": 4207267237,
-      "fileSize": 1167249,
+      "crc": 3716884978,
+      "fileSize": 1208472,
       "dependencies": [],
       "paths": [
         "OnDemand/event_story/event_sportsfestival_2020/screen_image"
@@ -58746,7 +58774,7 @@
       "cacheDirectoryName": "f26a",
       "hash": "8256c6d50b3790f4b9e88080005ed5b7",
       "category": "OnDemand",
-      "crc": 1154002951,
+      "crc": 2143576579,
       "fileSize": 7132948,
       "dependencies": [
         "gacha/ab_gacha_1/screen",
@@ -59586,7 +59614,7 @@
       "cacheDirectoryName": "c69a",
       "hash": "42ad6c918cc1d96dd4eca6993c814016",
       "category": "OnDemand",
-      "crc": 3277700799,
+      "crc": 1921139789,
       "fileSize": 222937,
       "dependencies": [],
       "paths": [
@@ -59894,10 +59922,10 @@
       "bundleName": "virtual_live/avatar/model/low_right",
       "cacheFileName": "b6428680c421a6e88891ca2546475ddd",
       "cacheDirectoryName": "25cd",
-      "hash": "195dc75f5699e11f51cf2af1254db758",
+      "hash": "9dac461e6d0917d96c47c9c28a9f7858",
       "category": "StartApp",
-      "crc": 2665387095,
-      "fileSize": 27806,
+      "crc": 1799500541,
+      "fileSize": 27807,
       "dependencies": [],
       "paths": [
         "StartApp/virtual_live/avatar/model/low_right",
@@ -59965,6 +59993,20 @@
       "dependencies": [],
       "paths": [
         "AdditionalVoice/sound/actionset/voice/areatalk02_137"
+      ],
+      "isBuiltin": false
+    },
+    "story/background/story-top": {
+      "bundleName": "story/background/story-top",
+      "cacheFileName": "133eb27c23ecb72b402ba8bbedb7575c",
+      "cacheDirectoryName": "efb9",
+      "hash": "b9b7244c4dfc195042e7ca13f0e8e150",
+      "category": "StartApp",
+      "crc": 760516318,
+      "fileSize": 912846,
+      "dependencies": [],
+      "paths": [
+        "StartApp/story/background/story-top"
       ],
       "isBuiltin": false
     },
@@ -60184,7 +60226,7 @@
       "cacheDirectoryName": "9f43",
       "hash": "67ed08e985a16146471c696d57a61ad5",
       "category": "OnDemand",
-      "crc": 2124900480,
+      "crc": 4029212242,
       "fileSize": 144598,
       "dependencies": [],
       "paths": [
@@ -61312,10 +61354,10 @@
       "bundleName": "virtual_live/avatar/skin/fullset_0012",
       "cacheFileName": "78b6b9ec6a7495902df02aa35af8c75b",
       "cacheDirectoryName": "8d76",
-      "hash": "cd4fea8549b29bb23b09e31820c94c63",
+      "hash": "2ee96df399bea88c5e64dfb67a34e61a",
       "category": "StartApp",
-      "crc": 2201383877,
-      "fileSize": 40683,
+      "crc": 1828499707,
+      "fileSize": 70747,
       "dependencies": [],
       "paths": [
         "StartApp/virtual_live/avatar/skin/fullset_0012"
@@ -61420,14 +61462,28 @@
       ],
       "isBuiltin": false
     },
+    "virtual_live/avatar/skin/fullset_0018": {
+      "bundleName": "virtual_live/avatar/skin/fullset_0018",
+      "cacheFileName": "27a7791813071577ee0c9d8ddfa1625b",
+      "cacheDirectoryName": "8d76",
+      "hash": "5ae7a1651beb07cf9231f081ee9b6e24",
+      "category": "StartApp",
+      "crc": 2015891365,
+      "fileSize": 122233,
+      "dependencies": [],
+      "paths": [
+        "StartApp/virtual_live/avatar/skin/fullset_0018"
+      ],
+      "isBuiltin": false
+    },
     "virtual_live/avatar/skin/fullset_0010": {
       "bundleName": "virtual_live/avatar/skin/fullset_0010",
       "cacheFileName": "a9f5f3a24af3185fd14f8cf56b2e59b5",
       "cacheDirectoryName": "8d76",
-      "hash": "da7746b67b52ad4c2a6b82901363e7f6",
+      "hash": "15ab61cf94e2964121d34402aa8fcbff",
       "category": "StartApp",
-      "crc": 2010534649,
-      "fileSize": 38214,
+      "crc": 971611236,
+      "fileSize": 65176,
       "dependencies": [],
       "paths": [
         "StartApp/virtual_live/avatar/skin/fullset_0010"
@@ -61438,10 +61494,10 @@
       "bundleName": "virtual_live/avatar/skin/fullset_0011",
       "cacheFileName": "235058c3ce013e67198723b90869053a",
       "cacheDirectoryName": "8d76",
-      "hash": "4d7f777997958e2cefbf4a5cc17fbed2",
+      "hash": "95547631143e1717b467c7caaf24bb21",
       "category": "StartApp",
-      "crc": 340063397,
-      "fileSize": 35217,
+      "crc": 1855739168,
+      "fileSize": 58949,
       "dependencies": [],
       "paths": [
         "StartApp/virtual_live/avatar/skin/fullset_0011"
@@ -61452,10 +61508,10 @@
       "bundleName": "virtual_live/avatar/skin/fullset_0009",
       "cacheFileName": "1230a0fe141df90d85b1d016cb9c0ef9",
       "cacheDirectoryName": "8d76",
-      "hash": "66dd8366ec8cba2992308bf59077c90f",
+      "hash": "ae09194f22d930627edcddb4e654d7eb",
       "category": "StartApp",
-      "crc": 1469412778,
-      "fileSize": 36200,
+      "crc": 669065928,
+      "fileSize": 61538,
       "dependencies": [],
       "paths": [
         "StartApp/virtual_live/avatar/skin/fullset_0009"
@@ -63560,10 +63616,10 @@
       "bundleName": "virtual_live/avatar/model/low_both",
       "cacheFileName": "a6fced6bc0a2b9fe3fb03ea5ba069e5f",
       "cacheDirectoryName": "25cd",
-      "hash": "0355e128c2ebae983d83fb81e9b8d244",
+      "hash": "2d42e1a453b4d8fa3c49ef16cbcaeacc",
       "category": "StartApp",
-      "crc": 995940092,
-      "fileSize": 28248,
+      "crc": 2750827352,
+      "fileSize": 28251,
       "dependencies": [],
       "paths": [
         "StartApp/virtual_live/avatar/model/low_both",
@@ -63778,10 +63834,10 @@
       "bundleName": "virtual_live/avatar/skin/fullset_0001",
       "cacheFileName": "acb7f4a0755de1824f4349f043b1d58a",
       "cacheDirectoryName": "8d76",
-      "hash": "86469050bf7606759d0df06033f0f8a3",
+      "hash": "7405788e9e4cc1f024d7f7908a9766ff",
       "category": "StartApp",
-      "crc": 3141597549,
-      "fileSize": 36600,
+      "crc": 3450241701,
+      "fileSize": 61842,
       "dependencies": [],
       "paths": [
         "StartApp/virtual_live/avatar/skin/fullset_0001"
@@ -63792,10 +63848,10 @@
       "bundleName": "virtual_live/avatar/skin/fullset_0002",
       "cacheFileName": "1a312aba6781db5626779ea7e5917cba",
       "cacheDirectoryName": "8d76",
-      "hash": "842c9fba2de962dbd2a614fe0699c1b7",
+      "hash": "675a1387f75654ee85d98b7924228fb3",
       "category": "StartApp",
-      "crc": 578434796,
-      "fileSize": 35349,
+      "crc": 2448329254,
+      "fileSize": 59639,
       "dependencies": [],
       "paths": [
         "StartApp/virtual_live/avatar/skin/fullset_0002"
@@ -63806,10 +63862,10 @@
       "bundleName": "virtual_live/avatar/skin/fullset_0003",
       "cacheFileName": "660150d78ea3d1c7a863c31ca8f832df",
       "cacheDirectoryName": "8d76",
-      "hash": "0fd42d908003cc510c2e3a3e65f7b351",
+      "hash": "518da528c8481f389787aad58d3c1d5d",
       "category": "StartApp",
-      "crc": 2021418831,
-      "fileSize": 35396,
+      "crc": 1664538112,
+      "fileSize": 60275,
       "dependencies": [],
       "paths": [
         "StartApp/virtual_live/avatar/skin/fullset_0003"
@@ -63820,10 +63876,10 @@
       "bundleName": "virtual_live/avatar/skin/fullset_0004",
       "cacheFileName": "e041b5c1ef3ef76f5c4d4c87d0ccc2a8",
       "cacheDirectoryName": "8d76",
-      "hash": "482e6f903cb5420cc841e28e4e9eddbc",
+      "hash": "4bde4e2094a95519ffd04dc20e715460",
       "category": "StartApp",
-      "crc": 2976739914,
-      "fileSize": 40551,
+      "crc": 2712412148,
+      "fileSize": 69900,
       "dependencies": [],
       "paths": [
         "StartApp/virtual_live/avatar/skin/fullset_0004"
@@ -63834,10 +63890,10 @@
       "bundleName": "virtual_live/avatar/skin/fullset_0005",
       "cacheFileName": "ad837ea46c65e3d7ea322440b46e5edc",
       "cacheDirectoryName": "8d76",
-      "hash": "5a3cb6ad781cb4c699c8df87b7646a37",
+      "hash": "a1d533d8cffb0d167e8e197ac1dfb092",
       "category": "StartApp",
-      "crc": 3105239507,
-      "fileSize": 38353,
+      "crc": 2263245928,
+      "fileSize": 65606,
       "dependencies": [],
       "paths": [
         "StartApp/virtual_live/avatar/skin/fullset_0005"
@@ -63848,10 +63904,10 @@
       "bundleName": "virtual_live/avatar/skin/fullset_0006",
       "cacheFileName": "52e487a0f4a6448b1a677512408c47b7",
       "cacheDirectoryName": "8d76",
-      "hash": "b6321362e5c1fe1669e83d9085667332",
+      "hash": "a4ddd983a799319bca195de3150815ea",
       "category": "StartApp",
-      "crc": 3937239167,
-      "fileSize": 42207,
+      "crc": 3124720871,
+      "fileSize": 73830,
       "dependencies": [],
       "paths": [
         "StartApp/virtual_live/avatar/skin/fullset_0006"
@@ -63862,10 +63918,10 @@
       "bundleName": "virtual_live/avatar/skin/fullset_0007",
       "cacheFileName": "280f382756c9e18a3aba4f7dafd4a97a",
       "cacheDirectoryName": "8d76",
-      "hash": "d559b860873bde216cdad88922f64f0d",
+      "hash": "2d7e8f0f3138b396fb17ced59f61e67d",
       "category": "StartApp",
-      "crc": 3486976570,
-      "fileSize": 37635,
+      "crc": 1174766942,
+      "fileSize": 65325,
       "dependencies": [],
       "paths": [
         "StartApp/virtual_live/avatar/skin/fullset_0007"
@@ -63876,10 +63932,10 @@
       "bundleName": "virtual_live/avatar/skin/fullset_0008",
       "cacheFileName": "add2930dab4061d79553acdf9b67f349",
       "cacheDirectoryName": "8d76",
-      "hash": "7c883a10f9148ab74bab3c0c82114e18",
+      "hash": "87300da3343d082f5999885902ed167f",
       "category": "StartApp",
-      "crc": 3885035973,
-      "fileSize": 45728,
+      "crc": 3817840156,
+      "fileSize": 81350,
       "dependencies": [],
       "paths": [
         "StartApp/virtual_live/avatar/skin/fullset_0008"
@@ -64344,7 +64400,7 @@
       "cacheDirectoryName": "9e13",
       "hash": "925e8a36a52f17df1550c5bca2eb82de",
       "category": "OnDemand",
-      "crc": 2145302932,
+      "crc": 3178172095,
       "fileSize": 268911,
       "dependencies": [],
       "paths": [
@@ -64780,10 +64836,10 @@
       "bundleName": "virtual_live/avatar/skin/avatar_costume_0039",
       "cacheFileName": "009f1da5b4ac4341c56dd295aba8335c",
       "cacheDirectoryName": "8d76",
-      "hash": "8056b0a99f121c1a51a0627900d4c82a",
+      "hash": "2f5e8fc0dea6bf072ac1372d32c0117d",
       "category": "StartApp",
-      "crc": 3066837905,
-      "fileSize": 24995,
+      "crc": 1778156941,
+      "fileSize": 44205,
       "dependencies": [],
       "paths": [
         "StartApp/virtual_live/avatar/skin/avatar_costume_0039"
@@ -65032,10 +65088,10 @@
       "bundleName": "virtual_live/avatar/skin/avatar_costume_0029",
       "cacheFileName": "babfcfa02deecaada1b2bf2e9563d1b3",
       "cacheDirectoryName": "8d76",
-      "hash": "d9fbc91570e97c4935feccc05e405e09",
+      "hash": "3856e5c14f4d676e842aed0b6e6f31d5",
       "category": "StartApp",
-      "crc": 4119699245,
-      "fileSize": 33786,
+      "crc": 1082216107,
+      "fileSize": 59246,
       "dependencies": [],
       "paths": [
         "StartApp/virtual_live/avatar/skin/avatar_costume_0029"
@@ -65046,10 +65102,10 @@
       "bundleName": "virtual_live/avatar/skin/avatar_costume_0028",
       "cacheFileName": "8dfc87e784fb04c606fd8a0d709fdbfd",
       "cacheDirectoryName": "8d76",
-      "hash": "7426f657cecc5f4fbbaba1b127f6076c",
+      "hash": "40db1da36f36ea5f892c79ade78b8a73",
       "category": "StartApp",
-      "crc": 1343202266,
-      "fileSize": 33911,
+      "crc": 3677774716,
+      "fileSize": 59425,
       "dependencies": [],
       "paths": [
         "StartApp/virtual_live/avatar/skin/avatar_costume_0028"
@@ -65074,10 +65130,10 @@
       "bundleName": "virtual_live/avatar/skin/avatar_costume_0038",
       "cacheFileName": "4a020d5999406053eda44e746e5d63b3",
       "cacheDirectoryName": "8d76",
-      "hash": "62db1b2c4c1209725aa71e033041aa4d",
+      "hash": "d40a7d123bd43d870fcb7d0aa0210104",
       "category": "StartApp",
-      "crc": 200424904,
-      "fileSize": 29722,
+      "crc": 3435332737,
+      "fileSize": 53032,
       "dependencies": [],
       "paths": [
         "StartApp/virtual_live/avatar/skin/avatar_costume_0038"
@@ -65116,10 +65172,10 @@
       "bundleName": "virtual_live/avatar/skin/avatar_costume_0032",
       "cacheFileName": "2602cc7a0f6be915e278707f5c2bb63e",
       "cacheDirectoryName": "8d76",
-      "hash": "e0a9970a5018ed7cedccd877d01aa8de",
+      "hash": "4b1cc0282b6421e7e871c740cb19c29a",
       "category": "StartApp",
-      "crc": 1504206164,
-      "fileSize": 34761,
+      "crc": 2609938481,
+      "fileSize": 60850,
       "dependencies": [],
       "paths": [
         "StartApp/virtual_live/avatar/skin/avatar_costume_0032"
@@ -65130,10 +65186,10 @@
       "bundleName": "virtual_live/avatar/skin/avatar_costume_0031",
       "cacheFileName": "4ae50f8f8cab1661807c18d09abb0607",
       "cacheDirectoryName": "8d76",
-      "hash": "93025a034ac1312a0fc2184c54e70ffe",
+      "hash": "2e1e2d89d853174f8b4bfaec4a4d1175",
       "category": "StartApp",
-      "crc": 3940301250,
-      "fileSize": 34246,
+      "crc": 3901876039,
+      "fileSize": 60795,
       "dependencies": [],
       "paths": [
         "StartApp/virtual_live/avatar/skin/avatar_costume_0031"
@@ -65144,10 +65200,10 @@
       "bundleName": "virtual_live/avatar/skin/avatar_costume_0030",
       "cacheFileName": "eedea2cca330cd3beaf2baa6fa76caa3",
       "cacheDirectoryName": "8d76",
-      "hash": "9220aa426b28ddaa90bf1df1882e7768",
+      "hash": "ec6fb5273206c55906a2376c9ce3a99e",
       "category": "StartApp",
-      "crc": 2203137762,
-      "fileSize": 35137,
+      "crc": 2473320643,
+      "fileSize": 60981,
       "dependencies": [],
       "paths": [
         "StartApp/virtual_live/avatar/skin/avatar_costume_0030"
@@ -65202,10 +65258,10 @@
       "bundleName": "virtual_live/avatar/skin/avatar_costume_0019",
       "cacheFileName": "229dba0a92799d31a187796c8982d9f5",
       "cacheDirectoryName": "8d76",
-      "hash": "08e8c09ee0afabfca57df3d08afed3da",
+      "hash": "69cab9bb48394ab98711fd08500ee6cd",
       "category": "StartApp",
-      "crc": 2442134184,
-      "fileSize": 25251,
+      "crc": 868190424,
+      "fileSize": 43626,
       "dependencies": [],
       "paths": [
         "StartApp/virtual_live/avatar/skin/avatar_costume_0019"
@@ -65216,10 +65272,10 @@
       "bundleName": "virtual_live/avatar/skin/avatar_costume_0018",
       "cacheFileName": "14d7a17ad861bfa10b94022b4eef0999",
       "cacheDirectoryName": "8d76",
-      "hash": "9814d49afa01b9d83452125072406b2e",
+      "hash": "45df5302882597d48995466bf79c2e8d",
       "category": "StartApp",
-      "crc": 544687844,
-      "fileSize": 25087,
+      "crc": 703004893,
+      "fileSize": 43828,
       "dependencies": [],
       "paths": [
         "StartApp/virtual_live/avatar/skin/avatar_costume_0018"
@@ -65262,10 +65318,10 @@
       "bundleName": "virtual_live/avatar/skin/avatar_costume_0017",
       "cacheFileName": "e43f0c0c36d6570775b69c5c4f68ce4b",
       "cacheDirectoryName": "8d76",
-      "hash": "e27d74691f290a9693b7c70127241c3e",
+      "hash": "a8a434b4a1490d4a6f6d5c5aac9239b3",
       "category": "StartApp",
-      "crc": 1137189384,
-      "fileSize": 25444,
+      "crc": 723391613,
+      "fileSize": 44193,
       "dependencies": [],
       "paths": [
         "StartApp/virtual_live/avatar/skin/avatar_costume_0017"
@@ -65276,10 +65332,10 @@
       "bundleName": "virtual_live/avatar/skin/avatar_costume_0027",
       "cacheFileName": "5d866a0b4ad7748d8efd19a9e537847d",
       "cacheDirectoryName": "8d76",
-      "hash": "804d550e05605404460755bf1b9fa273",
+      "hash": "133429039b32c9836353150df5ab7e6a",
       "category": "StartApp",
-      "crc": 453059802,
-      "fileSize": 32657,
+      "crc": 3759695906,
+      "fileSize": 57043,
       "dependencies": [],
       "paths": [
         "StartApp/virtual_live/avatar/skin/avatar_costume_0027"
@@ -65290,10 +65346,10 @@
       "bundleName": "virtual_live/avatar/skin/avatar_costume_0026",
       "cacheFileName": "8a2a805aaab29a3deb6fa73392dd8b28",
       "cacheDirectoryName": "8d76",
-      "hash": "25a44000fe374eeb37e3d078cf8d6013",
+      "hash": "9dfea30c10c4d1d550468190bfd2fd38",
       "category": "StartApp",
-      "crc": 3576980191,
-      "fileSize": 26047,
+      "crc": 3633248154,
+      "fileSize": 45583,
       "dependencies": [],
       "paths": [
         "StartApp/virtual_live/avatar/skin/avatar_costume_0026"
@@ -65304,10 +65360,10 @@
       "bundleName": "virtual_live/avatar/skin/avatar_costume_0025",
       "cacheFileName": "fefcad3f24a55a5cf26dc042affd9ee1",
       "cacheDirectoryName": "8d76",
-      "hash": "fa8873d97b91ade69670f1758811bc46",
+      "hash": "46146b9f9781728044e4549602b4f237",
       "category": "StartApp",
-      "crc": 2659768843,
-      "fileSize": 25701,
+      "crc": 3925618534,
+      "fileSize": 44973,
       "dependencies": [],
       "paths": [
         "StartApp/virtual_live/avatar/skin/avatar_costume_0025"
@@ -65318,10 +65374,10 @@
       "bundleName": "virtual_live/avatar/skin/avatar_costume_0024",
       "cacheFileName": "76afc8d956395e26c303ffc38c11dad7",
       "cacheDirectoryName": "8d76",
-      "hash": "af8fa5200aaaa70c597d4b1e6bfc530b",
+      "hash": "fea6dc9a7cb94155ee399b35b339d7b2",
       "category": "StartApp",
-      "crc": 4147232199,
-      "fileSize": 25052,
+      "crc": 3943437844,
+      "fileSize": 43596,
       "dependencies": [],
       "paths": [
         "StartApp/virtual_live/avatar/skin/avatar_costume_0024"
@@ -65332,10 +65388,10 @@
       "bundleName": "virtual_live/avatar/skin/avatar_costume_0023",
       "cacheFileName": "c9ba1a521650f3c005c6c0d6ff8aa6bb",
       "cacheDirectoryName": "8d76",
-      "hash": "320e192c19681675591bc57c6de772a4",
+      "hash": "ec05f06241292ee5d2dbd5afb844e97c",
       "category": "StartApp",
-      "crc": 4064759762,
-      "fileSize": 25247,
+      "crc": 3207272990,
+      "fileSize": 43370,
       "dependencies": [],
       "paths": [
         "StartApp/virtual_live/avatar/skin/avatar_costume_0023"
@@ -65360,10 +65416,10 @@
       "bundleName": "virtual_live/avatar/skin/avatar_costume_0022",
       "cacheFileName": "78d65b986a6c0f36ce429b8eec2accca",
       "cacheDirectoryName": "8d76",
-      "hash": "7f26803e2eec0d55116fc1c527ef79a9",
+      "hash": "3a8b6b488124b35d47dd805d59031119",
       "category": "StartApp",
-      "crc": 1903407908,
-      "fileSize": 25387,
+      "crc": 3486680248,
+      "fileSize": 43766,
       "dependencies": [],
       "paths": [
         "StartApp/virtual_live/avatar/skin/avatar_costume_0022"
@@ -65374,10 +65430,10 @@
       "bundleName": "virtual_live/avatar/skin/avatar_costume_0021",
       "cacheFileName": "c6751f7e096f83afb34132c4fc542ce4",
       "cacheDirectoryName": "8d76",
-      "hash": "d22d1c3e8a09e3d35abe776f0e903457",
+      "hash": "f616624a7cda5b7420da955753fa9011",
       "category": "StartApp",
-      "crc": 660066455,
-      "fileSize": 25379,
+      "crc": 1506210532,
+      "fileSize": 44286,
       "dependencies": [],
       "paths": [
         "StartApp/virtual_live/avatar/skin/avatar_costume_0021"
@@ -65388,10 +65444,10 @@
       "bundleName": "virtual_live/avatar/skin/avatar_costume_0020",
       "cacheFileName": "dfeb0d75e37fcbde426f24bfd7872287",
       "cacheDirectoryName": "8d76",
-      "hash": "dba04ea2954683d709b25f3d0b1278c5",
+      "hash": "8c9b58869b31655d66f9646348dffbd0",
       "category": "StartApp",
-      "crc": 2641833538,
-      "fileSize": 25169,
+      "crc": 3305965639,
+      "fileSize": 43882,
       "dependencies": [],
       "paths": [
         "StartApp/virtual_live/avatar/skin/avatar_costume_0020"
@@ -65542,10 +65598,10 @@
       "bundleName": "virtual_live/avatar/skin/avatar_costume_0009",
       "cacheFileName": "b4776cb9b021c22dde9b48dd0f5a5479",
       "cacheDirectoryName": "8d76",
-      "hash": "dd64e0b1aec4162859823a7f9e817ca9",
+      "hash": "85b7eec7a95773852d2e91fc11ecb709",
       "category": "StartApp",
-      "crc": 75631555,
-      "fileSize": 26808,
+      "crc": 3024944546,
+      "fileSize": 46869,
       "dependencies": [],
       "paths": [
         "StartApp/virtual_live/avatar/skin/avatar_costume_0009"
@@ -65570,10 +65626,10 @@
       "bundleName": "virtual_live/avatar/skin/avatar_costume_0008",
       "cacheFileName": "df44c2989b2b6c2a4a72a6bfe5fc7d37",
       "cacheDirectoryName": "8d76",
-      "hash": "7b72aee67008030f4c49d2841d249dea",
+      "hash": "ebde91cb815f1782ad0d88b7eb750fbe",
       "category": "StartApp",
-      "crc": 4130960498,
-      "fileSize": 25198,
+      "crc": 942835123,
+      "fileSize": 43927,
       "dependencies": [],
       "paths": [
         "StartApp/virtual_live/avatar/skin/avatar_costume_0008"
@@ -65612,10 +65668,10 @@
       "bundleName": "virtual_live/avatar/skin/avatar_costume_0007",
       "cacheFileName": "ce86355e99fe0534db003ed6f1725364",
       "cacheDirectoryName": "8d76",
-      "hash": "5f80d85161ed0ac7949c45f757e40759",
+      "hash": "e79c3965f4b3fb7f58fc5ff409a542e8",
       "category": "StartApp",
-      "crc": 4198945842,
-      "fileSize": 24888,
+      "crc": 2917570384,
+      "fileSize": 42706,
       "dependencies": [],
       "paths": [
         "StartApp/virtual_live/avatar/skin/avatar_costume_0007"
@@ -65640,10 +65696,10 @@
       "bundleName": "virtual_live/avatar/skin/avatar_costume_0006",
       "cacheFileName": "db4e10d93a0c99ab316744e6b69e0465",
       "cacheDirectoryName": "8d76",
-      "hash": "e10f0044fddab3220515c84524a80090",
+      "hash": "60c83f96ff02ac05ef6ee59e746ad8a1",
       "category": "StartApp",
-      "crc": 2273564348,
-      "fileSize": 24711,
+      "crc": 3980186568,
+      "fileSize": 43369,
       "dependencies": [],
       "paths": [
         "StartApp/virtual_live/avatar/skin/avatar_costume_0006"
@@ -65654,10 +65710,10 @@
       "bundleName": "virtual_live/avatar/skin/avatar_costume_0016",
       "cacheFileName": "4ef1dd2523a379e074d7c4e4e7e94601",
       "cacheDirectoryName": "8d76",
-      "hash": "1c4c06aaf6a1dcd85ed4375dd1202dc5",
+      "hash": "031ae0944611acc57c0962c5d3e12c9a",
       "category": "StartApp",
-      "crc": 1318118541,
-      "fileSize": 25240,
+      "crc": 3794533898,
+      "fileSize": 44257,
       "dependencies": [],
       "paths": [
         "StartApp/virtual_live/avatar/skin/avatar_costume_0016"
@@ -65668,10 +65724,10 @@
       "bundleName": "virtual_live/avatar/skin/avatar_costume_0015",
       "cacheFileName": "9b0313073ae16702ab50cb72bd781c83",
       "cacheDirectoryName": "8d76",
-      "hash": "4c8c8048bd092f95bbfe3fb87078fc81",
+      "hash": "5a02fa370552f49530da601bb2a68cee",
       "category": "StartApp",
-      "crc": 1572102737,
-      "fileSize": 25344,
+      "crc": 3803710241,
+      "fileSize": 44141,
       "dependencies": [],
       "paths": [
         "StartApp/virtual_live/avatar/skin/avatar_costume_0015"
@@ -65682,10 +65738,10 @@
       "bundleName": "virtual_live/avatar/skin/avatar_costume_0014",
       "cacheFileName": "8b6ae27ce8da639d81b321912291eafe",
       "cacheDirectoryName": "8d76",
-      "hash": "7268aadb061c31033f680addf3339470",
+      "hash": "1524f634f0b0a2eb1d235ac04595c4dd",
       "category": "StartApp",
-      "crc": 195354384,
-      "fileSize": 25284,
+      "crc": 1938542225,
+      "fileSize": 43581,
       "dependencies": [],
       "paths": [
         "StartApp/virtual_live/avatar/skin/avatar_costume_0014"
@@ -65710,10 +65766,10 @@
       "bundleName": "virtual_live/avatar/skin/avatar_costume_0013",
       "cacheFileName": "a38d8175d4a3dbb3c02ba29b7b5ba3f1",
       "cacheDirectoryName": "8d76",
-      "hash": "574954d3b6b27fed7db3f831ba42323d",
+      "hash": "6a0c2fcbeb63bce33f7c9df288021b13",
       "category": "StartApp",
-      "crc": 609444340,
-      "fileSize": 24930,
+      "crc": 3756860574,
+      "fileSize": 43152,
       "dependencies": [],
       "paths": [
         "StartApp/virtual_live/avatar/skin/avatar_costume_0013"
@@ -65724,10 +65780,10 @@
       "bundleName": "virtual_live/avatar/skin/avatar_costume_0012",
       "cacheFileName": "274a9b87d9bd9689fb4a52f12ec61297",
       "cacheDirectoryName": "8d76",
-      "hash": "d09a93d7e7bdee8d26e9c08b3e88e8af",
+      "hash": "63c301dae60b4eff12a4e8e85e4b06d3",
       "category": "StartApp",
-      "crc": 2367457161,
-      "fileSize": 26687,
+      "crc": 3424416639,
+      "fileSize": 46599,
       "dependencies": [],
       "paths": [
         "StartApp/virtual_live/avatar/skin/avatar_costume_0012"
@@ -65738,10 +65794,10 @@
       "bundleName": "virtual_live/avatar/skin/avatar_costume_0011",
       "cacheFileName": "f605badfc7cb00d92d674afa4946c3d5",
       "cacheDirectoryName": "8d76",
-      "hash": "43ff9d0731e7a7b78448d715c37fb826",
+      "hash": "60a11302b60c5815f73c16beca20ef53",
       "category": "StartApp",
-      "crc": 4114557798,
-      "fileSize": 26438,
+      "crc": 2174362937,
+      "fileSize": 45863,
       "dependencies": [],
       "paths": [
         "StartApp/virtual_live/avatar/skin/avatar_costume_0011"
@@ -65752,10 +65808,10 @@
       "bundleName": "virtual_live/avatar/skin/avatar_costume_0010",
       "cacheFileName": "d713ea3addc391cecae60ba6f6e3664f",
       "cacheDirectoryName": "8d76",
-      "hash": "b09eef01db9e1ac78e86d69c1cc143a6",
+      "hash": "cbc8dce2d738976120e54e7f2c92673c",
       "category": "StartApp",
-      "crc": 55189984,
-      "fileSize": 26389,
+      "crc": 572000315,
+      "fileSize": 46179,
       "dependencies": [],
       "paths": [
         "StartApp/virtual_live/avatar/skin/avatar_costume_0010"
@@ -65794,10 +65850,10 @@
       "bundleName": "virtual_live/avatar/skin/avatar_costume_0005",
       "cacheFileName": "0ffc1b839524babaa3f3eb33bc6b5e8a",
       "cacheDirectoryName": "8d76",
-      "hash": "8849a083ed6b5cc1edb407b80b8104a3",
+      "hash": "f378a6ec75bf143e07ab7997ecd8a891",
       "category": "StartApp",
-      "crc": 428977824,
-      "fileSize": 25356,
+      "crc": 889298559,
+      "fileSize": 43641,
       "dependencies": [],
       "paths": [
         "StartApp/virtual_live/avatar/skin/avatar_costume_0005"
@@ -65808,10 +65864,10 @@
       "bundleName": "virtual_live/avatar/skin/avatar_costume_0004",
       "cacheFileName": "5fbb3cf688001b4b5e6dd59c05175341",
       "cacheDirectoryName": "8d76",
-      "hash": "1c87164d0260811ede63e7cc75b0bce5",
+      "hash": "16909c57a290fcbc1ba6a7b8fa6ad7f0",
       "category": "StartApp",
-      "crc": 2030830692,
-      "fileSize": 26438,
+      "crc": 2657727874,
+      "fileSize": 46306,
       "dependencies": [],
       "paths": [
         "StartApp/virtual_live/avatar/skin/avatar_costume_0004"
@@ -65836,10 +65892,10 @@
       "bundleName": "virtual_live/avatar/skin/avatar_costume_0003",
       "cacheFileName": "f16a22e30f1fb1d59c7e48c1494b15f7",
       "cacheDirectoryName": "8d76",
-      "hash": "82ed5b453c9c0f93ec1a2bee0b0e5bf7",
+      "hash": "cd18ec788648cb726c80af0a81803307",
       "category": "StartApp",
-      "crc": 596573697,
-      "fileSize": 26360,
+      "crc": 385014446,
+      "fileSize": 45504,
       "dependencies": [],
       "paths": [
         "StartApp/virtual_live/avatar/skin/avatar_costume_0003"
@@ -65850,10 +65906,10 @@
       "bundleName": "virtual_live/avatar/skin/avatar_costume_0002",
       "cacheFileName": "9f4cdd2ca68bf77d832dfd69056ba6a6",
       "cacheDirectoryName": "8d76",
-      "hash": "f4ac327c428f73a4c789222492b5729c",
+      "hash": "6efdb53c91cccf1933ddff0a59da3ba3",
       "category": "StartApp",
-      "crc": 3730149,
-      "fileSize": 26486,
+      "crc": 273153078,
+      "fileSize": 45996,
       "dependencies": [],
       "paths": [
         "StartApp/virtual_live/avatar/skin/avatar_costume_0002"
@@ -65864,10 +65920,10 @@
       "bundleName": "virtual_live/avatar/skin/avatar_costume_0001",
       "cacheFileName": "fd9287f5518395d4a8da2f8cdb509156",
       "cacheDirectoryName": "8d76",
-      "hash": "ce1226823608bbf2447a31b7093e7289",
+      "hash": "6af72047aaf08a138e50d2fd4cb1ea14",
       "category": "StartApp",
-      "crc": 1629374098,
-      "fileSize": 26480,
+      "crc": 3029667262,
+      "fileSize": 46407,
       "dependencies": [],
       "paths": [
         "StartApp/virtual_live/avatar/skin/avatar_costume_0001"
@@ -70362,7 +70418,7 @@
       "cacheDirectoryName": "829e",
       "hash": "2503caf7586ec2e57a03ee913e47575c",
       "category": "OnDemand",
-      "crc": 1997202884,
+      "crc": 2563541027,
       "fileSize": 245700,
       "dependencies": [],
       "paths": [
@@ -74724,10 +74780,10 @@
       "bundleName": "virtual_live/avatar/decoration/fullset_0002",
       "cacheFileName": "58a6ffe9600c79fc2b46279eafa14bc0",
       "cacheDirectoryName": "dcf5",
-      "hash": "93f5313a1de3c126abc79e581e33c2e3",
+      "hash": "b217ca5c0157b9d49622b2f40a19b0b5",
       "category": "StartApp",
-      "crc": 1578156962,
-      "fileSize": 88270,
+      "crc": 2182600234,
+      "fileSize": 88285,
       "dependencies": [
         "shader/live"
       ],
@@ -74756,10 +74812,10 @@
       "bundleName": "virtual_live/avatar/decoration/fullset_0003",
       "cacheFileName": "3ec14e49c9750a3d9379546e7422fbb2",
       "cacheDirectoryName": "dcf5",
-      "hash": "cd9edc7220066640d1ef279fa075b2e4",
+      "hash": "bcda1f79cc9cef1769e140d9df1daa1c",
       "category": "StartApp",
-      "crc": 3694989468,
-      "fileSize": 40083,
+      "crc": 3819012023,
+      "fileSize": 39930,
       "dependencies": [
         "shader/live"
       ],
@@ -74774,10 +74830,10 @@
       "bundleName": "virtual_live/avatar/decoration/fullset_0001",
       "cacheFileName": "4b062efcf064ec1e3337bd90dc0d663c",
       "cacheDirectoryName": "dcf5",
-      "hash": "950f2923ce2dbae87dc13ef28af50e6f",
+      "hash": "7d8f5740120e4cd2b385d96279d707e9",
       "category": "StartApp",
-      "crc": 1313191324,
-      "fileSize": 54894,
+      "crc": 1068232357,
+      "fileSize": 55001,
       "dependencies": [
         "shader/live"
       ],
@@ -74806,10 +74862,10 @@
       "bundleName": "virtual_live/avatar/decoration/fullset_0006",
       "cacheFileName": "91dcab76e5fde954666ba90cce19ee1b",
       "cacheDirectoryName": "dcf5",
-      "hash": "dfce4c725f2dbc316d80025a1ead721a",
+      "hash": "e5d8b783d73fef6ec27c54735850e7bc",
       "category": "StartApp",
-      "crc": 964425294,
-      "fileSize": 64490,
+      "crc": 1187556621,
+      "fileSize": 64549,
       "dependencies": [
         "shader/live"
       ],
@@ -74838,10 +74894,10 @@
       "bundleName": "virtual_live/avatar/decoration/fullset_0007",
       "cacheFileName": "39860433f278dcf9d28b035a8b01df0e",
       "cacheDirectoryName": "dcf5",
-      "hash": "20696750f45474ca0a81530a3746ad2e",
+      "hash": "c9d859cdb476d3688eac970d1512701f",
       "category": "StartApp",
-      "crc": 4188664008,
-      "fileSize": 77652,
+      "crc": 2113829009,
+      "fileSize": 77525,
       "dependencies": [
         "shader/live"
       ],
@@ -74870,10 +74926,10 @@
       "bundleName": "virtual_live/avatar/decoration/fullset_0004",
       "cacheFileName": "9ba91892001d9993d15d8378e4c5dab6",
       "cacheDirectoryName": "dcf5",
-      "hash": "751162fbe6ba64c6e458278d083b13a9",
+      "hash": "3dd6b81feb00070a1045d4fbca1e8c81",
       "category": "StartApp",
-      "crc": 49382576,
-      "fileSize": 65180,
+      "crc": 258903965,
+      "fileSize": 65009,
       "dependencies": [
         "shader/live"
       ],
@@ -74902,10 +74958,10 @@
       "bundleName": "virtual_live/avatar/decoration/fullset_0005",
       "cacheFileName": "781505158973c1e5482f721025525738",
       "cacheDirectoryName": "dcf5",
-      "hash": "84fcb458409ea378c9464f9843e87394",
+      "hash": "816ad73cb78831197d37e03007589d24",
       "category": "StartApp",
-      "crc": 3052147665,
-      "fileSize": 55141,
+      "crc": 1007979288,
+      "fileSize": 55063,
       "dependencies": [
         "shader/live"
       ],
@@ -74934,10 +74990,10 @@
       "bundleName": "virtual_live/avatar/decoration/fullset_0008",
       "cacheFileName": "aef0edf86f4cf65eeaf266493a6996d2",
       "cacheDirectoryName": "dcf5",
-      "hash": "d9a7309da688ff868eccc927079fab0a",
+      "hash": "08bfdba810d91999a91f077e100e33ce",
       "category": "StartApp",
-      "crc": 1170034847,
-      "fileSize": 79862,
+      "crc": 4120670754,
+      "fileSize": 79744,
       "dependencies": [
         "shader/live"
       ],
@@ -74966,10 +75022,10 @@
       "bundleName": "virtual_live/avatar/decoration/fullset_0009",
       "cacheFileName": "7ee4e4cb651aca4a991d88387d538508",
       "cacheDirectoryName": "dcf5",
-      "hash": "52e7e7d03442af8790dac56ac52d263d",
+      "hash": "c42d1cfd00aa1d7ef54e7e9a402b74b4",
       "category": "StartApp",
-      "crc": 658380183,
-      "fileSize": 76394,
+      "crc": 3610816681,
+      "fileSize": 76321,
       "dependencies": [
         "shader/live"
       ],
@@ -77729,7 +77785,7 @@
       "cacheDirectoryName": "3583",
       "hash": "e5ffbf8c2b85abc97b81dae0521d6571",
       "category": "OnDemand",
-      "crc": 2535446378,
+      "crc": 2807860600,
       "fileSize": 227766,
       "dependencies": [],
       "paths": [
@@ -82435,10 +82491,10 @@
       "bundleName": "shader/live",
       "cacheFileName": "73641cbe4002c54e603bbc9084d771fa",
       "cacheDirectoryName": "842e",
-      "hash": "6d3302975c2f834dadf74c1c6ccb2986",
+      "hash": "f89b7b8dd0f4c1946a5fe72f3b949324",
       "category": "Tutorial",
-      "crc": 2791562608,
-      "fileSize": 107408,
+      "crc": 2700201388,
+      "fileSize": 108760,
       "dependencies": [],
       "paths": [
         "Assets/Sekai/BuiltInAssets/AssetBundle/Resources/Tutorial/shader/live",
@@ -85175,10 +85231,10 @@
       "bundleName": "virtual_live/avatar/decoration/accessory_0013",
       "cacheFileName": "131fffa356f1f20cfdc6174f6e3a1b7d",
       "cacheDirectoryName": "dcf5",
-      "hash": "3c000c544c3e767ab71dad15b42ce758",
+      "hash": "cd5bb1a919c91c38b373f9b7fe7eb7d2",
       "category": "StartApp",
-      "crc": 1197673826,
-      "fileSize": 153730,
+      "crc": 4154664323,
+      "fileSize": 153758,
       "dependencies": [
         "shader/live"
       ],
@@ -85222,10 +85278,10 @@
       "bundleName": "virtual_live/avatar/decoration/accessory_0010",
       "cacheFileName": "a74a06aa3a401ab0a9780640d5c13c77",
       "cacheDirectoryName": "dcf5",
-      "hash": "96151c93fd05d5047cce3b81bd614e15",
+      "hash": "7d1aeb53f66c55907c8bc23972058706",
       "category": "StartApp",
-      "crc": 585548880,
-      "fileSize": 23613,
+      "crc": 2706804299,
+      "fileSize": 23619,
       "dependencies": [
         "shader/live"
       ],
@@ -85310,10 +85366,10 @@
       "bundleName": "virtual_live/avatar/decoration/accessory_0006",
       "cacheFileName": "043b04f4e2e1c611ccc56eb97194858d",
       "cacheDirectoryName": "dcf5",
-      "hash": "a871d819e39fe4daf3e2b1b16fba6f0a",
+      "hash": "a5d145df8c13d64d611878857e8e2f22",
       "category": "StartApp",
-      "crc": 1751890089,
-      "fileSize": 26583,
+      "crc": 1306151774,
+      "fileSize": 26613,
       "dependencies": [
         "shader/live"
       ],
@@ -85328,10 +85384,10 @@
       "bundleName": "virtual_live/avatar/decoration/accessory_0005",
       "cacheFileName": "eca2e551155e0c54c4549f18de1b2052",
       "cacheDirectoryName": "dcf5",
-      "hash": "1cb40fa1ded7b5a2302beadbb63fdf77",
+      "hash": "0ce8a0cdfec615a5bea2e5f9e1d2cff8",
       "category": "StartApp",
-      "crc": 1219104605,
-      "fileSize": 98904,
+      "crc": 2902023011,
+      "fileSize": 98003,
       "dependencies": [
         "shader/live"
       ],
@@ -85346,10 +85402,10 @@
       "bundleName": "virtual_live/avatar/decoration/accessory_0004",
       "cacheFileName": "95acb03689f3e1fcf4084e426aece75a",
       "cacheDirectoryName": "dcf5",
-      "hash": "aad6326cba13c14d9a91bd165f175606",
+      "hash": "9206f6116ad2cbad5cbe5bf9c27e835b",
       "category": "StartApp",
-      "crc": 806997074,
-      "fileSize": 95690,
+      "crc": 4013817108,
+      "fileSize": 95634,
       "dependencies": [
         "shader/live"
       ],
@@ -85364,10 +85420,10 @@
       "bundleName": "virtual_live/avatar/decoration/accessory_0003",
       "cacheFileName": "602f7089d5879b319cdcecd0a631412c",
       "cacheDirectoryName": "dcf5",
-      "hash": "89b9661780c2259ca81e279833fc9337",
+      "hash": "168fca19c02ccbce1cc843988a27a971",
       "category": "StartApp",
-      "crc": 2917668035,
-      "fileSize": 87977,
+      "crc": 804031323,
+      "fileSize": 87610,
       "dependencies": [
         "shader/live"
       ],
@@ -85382,10 +85438,10 @@
       "bundleName": "virtual_live/avatar/decoration/accessory_0009",
       "cacheFileName": "66b568f1224689ac53c347f4ffe66bca",
       "cacheDirectoryName": "dcf5",
-      "hash": "7d100ad766d98082c7bcbf76ac3baf28",
+      "hash": "026496a3941db86604df09992eb28e48",
       "category": "StartApp",
-      "crc": 1033670537,
-      "fileSize": 23180,
+      "crc": 3250646834,
+      "fileSize": 23182,
       "dependencies": [
         "shader/live"
       ],
@@ -85400,10 +85456,10 @@
       "bundleName": "virtual_live/avatar/decoration/accessory_0008",
       "cacheFileName": "6bd6825da9251cebc179f268468186d5",
       "cacheDirectoryName": "dcf5",
-      "hash": "5f01e79cf42900270e8b8b5de8d7d696",
+      "hash": "994468eece57b0be3aa37285b3872efa",
       "category": "StartApp",
-      "crc": 1816830052,
-      "fileSize": 35157,
+      "crc": 3997272960,
+      "fileSize": 35202,
       "dependencies": [
         "shader/live"
       ],
@@ -85432,10 +85488,10 @@
       "bundleName": "virtual_live/avatar/decoration/accessory_0007",
       "cacheFileName": "4251bebe2a26ef21294cb74334d92f6b",
       "cacheDirectoryName": "dcf5",
-      "hash": "86a2e01d956f9409b70ddbab069837c7",
+      "hash": "325bf619e1a5d82942b917791cc79f06",
       "category": "StartApp",
-      "crc": 4265104743,
-      "fileSize": 59276,
+      "crc": 2496366334,
+      "fileSize": 59398,
       "dependencies": [
         "shader/live"
       ],
@@ -85492,10 +85548,10 @@
       "bundleName": "virtual_live/avatar/decoration/accessory_0002",
       "cacheFileName": "c4a30b554325bf8df1f8c4ef20c549a0",
       "cacheDirectoryName": "dcf5",
-      "hash": "7a484f4ee2af0b0747ca548c7faffab3",
+      "hash": "fa410daf9af0b08b1cbf6cfb472c1030",
       "category": "StartApp",
-      "crc": 3613048596,
-      "fileSize": 134390,
+      "crc": 1045633394,
+      "fileSize": 134445,
       "dependencies": [
         "shader/live"
       ],
@@ -85510,10 +85566,10 @@
       "bundleName": "virtual_live/avatar/decoration/accessory_0001",
       "cacheFileName": "d146f5679e6e6a70821ae2266ec42ad7",
       "cacheDirectoryName": "dcf5",
-      "hash": "e50b08afb299cba15a98bd454149be6a",
+      "hash": "c8e5167bcef68843216757a2bc36d179",
       "category": "StartApp",
-      "crc": 1902542765,
-      "fileSize": 96071,
+      "crc": 362402495,
+      "fileSize": 96222,
       "dependencies": [
         "shader/live"
       ],
@@ -85754,10 +85810,10 @@
       "bundleName": "live_pv/sp/gacha/main",
       "cacheFileName": "f16efe5885879a67a543bdf6cf412925",
       "cacheDirectoryName": "714f",
-      "hash": "d04510cb6a30cc0f3899b46c96799013",
+      "hash": "382cae6bd6e49b96b2b56e09a466f0bd",
       "category": "StartApp",
-      "crc": 2847065292,
-      "fileSize": 237898,
+      "crc": 3612691772,
+      "fileSize": 237949,
       "dependencies": [
         "live_pv/sp/gacha/effect",
         "live_pv/sp/gacha/model/character",
@@ -88512,7 +88568,7 @@
       "cacheDirectoryName": "42e9",
       "hash": "1b5afad8d4d50f9ac4d27d05816aefc6",
       "category": "OnDemand",
-      "crc": 3132183528,
+      "crc": 3822847757,
       "fileSize": 242032,
       "dependencies": [],
       "paths": [
@@ -89309,6 +89365,20 @@
       "paths": [
         "StartApp/live2d/model/06haruka_cloth001",
         "StartApp/live2d/model/06haruka_cloth001/06haruka_cloth001_3.0_f_t02.2048"
+      ],
+      "isBuiltin": false
+    },
+    "tutorial/slide/story_event": {
+      "bundleName": "tutorial/slide/story_event",
+      "cacheFileName": "891ccd1d9e81d27dbea4337205344680",
+      "cacheDirectoryName": "871f",
+      "hash": "d17dc73c6863583ea459420ed679d560",
+      "category": "StartApp",
+      "crc": 3504999812,
+      "fileSize": 131217,
+      "dependencies": [],
+      "paths": [
+        "StartApp/tutorial/slide/story_event"
       ],
       "isBuiltin": false
     },
@@ -91813,10 +91883,10 @@
       "bundleName": "event_story/event_potato_2020/screen_image",
       "cacheFileName": "b855f2b86754d294137c4f51215ab943",
       "cacheDirectoryName": "d985",
-      "hash": "bbf2808d77822c1cd5819053c9460087",
+      "hash": "7d9d91fb514571ae16e128c605a26758",
       "category": "OnDemand",
-      "crc": 817130055,
-      "fileSize": 1144777,
+      "crc": 1551199472,
+      "fileSize": 1184069,
       "dependencies": [],
       "paths": [
         "OnDemand/event_story/event_potato_2020/screen_image"
@@ -94541,10 +94611,10 @@
       "bundleName": "virtual_live/avatar/decoration/fullset_0010",
       "cacheFileName": "7b0d60eaf4993245e9336fd4f801680b",
       "cacheDirectoryName": "dcf5",
-      "hash": "b307ffd0d7ca224a3c0c5e466d118315",
+      "hash": "887e78b3ca51789e269ada2ddec7e5a5",
       "category": "StartApp",
-      "crc": 1444125219,
-      "fileSize": 67438,
+      "crc": 4215318205,
+      "fileSize": 67441,
       "dependencies": [
         "shader/live"
       ],
@@ -94594,10 +94664,10 @@
       "bundleName": "virtual_live/avatar/decoration/fullset_0011",
       "cacheFileName": "fc83d9df2128b7dc3218ab4f418bf441",
       "cacheDirectoryName": "dcf5",
-      "hash": "721aaa0c632d7159a91576aa1d6fb9d1",
+      "hash": "3da4e41536ae1f2a027f0798c263f05b",
       "category": "StartApp",
-      "crc": 808465628,
-      "fileSize": 49860,
+      "crc": 62917963,
+      "fileSize": 49770,
       "dependencies": [
         "shader/live"
       ],
@@ -94611,10 +94681,10 @@
       "bundleName": "virtual_live/avatar/decoration/fullset_0012",
       "cacheFileName": "53e8d5773f96025403150b647e6c19bc",
       "cacheDirectoryName": "dcf5",
-      "hash": "86760b7504b35be9d848d25f5b75e533",
+      "hash": "a4f0d128ea151a8d31a4b760bbeb2f81",
       "category": "StartApp",
-      "crc": 368988713,
-      "fileSize": 69325,
+      "crc": 1203578222,
+      "fileSize": 69268,
       "dependencies": [
         "shader/live"
       ],
@@ -95373,7 +95443,7 @@
       "cacheDirectoryName": "0aa3",
       "hash": "ac7c228dabb3f2c7f56b77c85855f25d",
       "category": "OnDemand",
-      "crc": 991329709,
+      "crc": 1608449545,
       "fileSize": 324559,
       "dependencies": [],
       "paths": [
@@ -95769,7 +95839,7 @@
       "cacheDirectoryName": "2f06",
       "hash": "481d633f0fbaf5c90e06e020632bc326",
       "category": "OnDemand",
-      "crc": 2728566718,
+      "crc": 2275687890,
       "fileSize": 218552,
       "dependencies": [],
       "paths": [
