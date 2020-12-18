@@ -275,5 +275,37 @@
     "bonusResourceBoxId": 10,
     "startAt": 1604156400000,
     "endAt": 4097141999000
+  },
+  {
+    "id": 25,
+    "seq": 12,
+    "billingShopItemType": "value_set",
+    "billingProductGroupId": 25,
+    "name": "2020クリスマス衣装セットA",
+    "description": "クリスタル×1800\nライブ衣装「クリスマススタイル☆2020（レディース）」20着×4カラー",
+    "billableLimitType": "count",
+    "billableLimitValue": 1,
+    "billableLimitResetIntervalType": "none",
+    "assetbundleName": "shop_25",
+    "resourceBoxId": 25,
+    "bonusResourceBoxId": 14,
+    "startAt": 1608735600000,
+    "endAt": 1608908399000
+  },
+  {
+    "id": 26,
+    "seq": 11,
+    "billingShopItemType": "value_set",
+    "billingProductGroupId": 26,
+    "name": "2020クリスマス衣装セットB",
+    "description": "クリスタル×1800\nライブ衣装「クリスマススタイル☆2020（メンズ）」6着×4カラー",
+    "billableLimitType": "count",
+    "billableLimitValue": 1,
+    "billableLimitResetIntervalType": "none",
+    "assetbundleName": "shop_26",
+    "resourceBoxId": 26,
+    "bonusResourceBoxId": 15,
+    "startAt": 1608735600000,
+    "endAt": 1608908399000
   }
 ]

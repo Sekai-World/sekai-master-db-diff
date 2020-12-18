@@ -88,7 +88,7 @@
     "seq": 13,
     "eventStoryId": 7,
     "unit": "school_refusal",
-    "eventStoryUnitRelation": "main"
+    "eventStoryUnitRelation": "sub"
   },
   {
     "id": 14,
@@ -103,5 +103,12 @@
     "eventStoryId": 7,
     "unit": "theme_park",
     "eventStoryUnitRelation": "sub"
+  },
+  {
+    "id": 16,
+    "seq": 16,
+    "eventStoryId": 8,
+    "unit": "theme_park",
+    "eventStoryUnitRelation": "main"
   }
 ]
