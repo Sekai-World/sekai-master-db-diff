@@ -20,26 +20,6 @@
     "endAt": 1609426799000
   },
   {
-    "homeBannerId": 45,
-    "seq": 99,
-    "name": "文化祭イベント_イベントバナー",
-    "assetbundleName": "event_culturalfestival_2020",
-    "transitionDestinationType": "event",
-    "transitionDestinationId": 7,
-    "startAt": 1607580000000,
-    "endAt": 1608443999000
-  },
-  {
-    "homeBannerId": 46,
-    "seq": 100,
-    "name": "文化祭イベント_定常ガチャバナー",
-    "assetbundleName": "banner_gacha20",
-    "transitionDestinationType": "gacha",
-    "transitionDestinationId": 20,
-    "startAt": 1607580000000,
-    "endAt": 1608443999000
-  },
-  {
     "homeBannerId": 48,
     "seq": 9998,
     "name": "ウェルカムライブバナー",
@@ -48,5 +28,35 @@
     "transitionDestinationId": 20001,
     "startAt": 1601434800000,
     "endAt": 4102412399000
+  },
+  {
+    "homeBannerId": 49,
+    "seq": 99,
+    "name": "ワンダショイベ2巡目_イベントバナー",
+    "assetbundleName": "event_nijiiro_2020",
+    "transitionDestinationType": "event",
+    "transitionDestinationId": 8,
+    "startAt": 1608444000000,
+    "endAt": 1609394399000
+  },
+  {
+    "homeBannerId": 50,
+    "seq": 100,
+    "name": "ワンダショイベ2巡目_定常ガチャバナー",
+    "assetbundleName": "banner_gacha23",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 23,
+    "startAt": 1608444000000,
+    "endAt": 1609394399000
+  },
+  {
+    "homeBannerId": 52,
+    "seq": 110,
+    "name": "クリスマス2020ライブバナー",
+    "assetbundleName": "banner_virtuallive41",
+    "transitionDestinationType": "virtual_live",
+    "transitionDestinationId": 41,
+    "startAt": 1608703200000,
+    "endAt": 1608962399000
   }
 ]
