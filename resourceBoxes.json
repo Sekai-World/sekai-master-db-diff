@@ -34232,6 +34232,20 @@
   },
   {
     "resourceBoxPurpose": "gift_detail",
+    "id": 1033,
+    "resourceBoxType": "expand",
+    "details": [
+      {
+        "resourceBoxPurpose": "gift_detail",
+        "resourceBoxId": 1033,
+        "seq": 1,
+        "resourceType": "jewel",
+        "resourceQuantity": 500
+      }
+    ]
+  },
+  {
+    "resourceBoxPurpose": "gift_detail",
     "id": 1034,
     "resourceBoxType": "expand",
     "details": [
@@ -36303,6 +36317,20 @@
         "resourceType": "boost_item",
         "resourceId": 2,
         "resourceQuantity": 1
+      }
+    ]
+  },
+  {
+    "resourceBoxPurpose": "login_bonus",
+    "id": 27,
+    "resourceBoxType": "expand",
+    "details": [
+      {
+        "resourceBoxPurpose": "login_bonus",
+        "resourceBoxId": 27,
+        "seq": 1,
+        "resourceType": "jewel",
+        "resourceQuantity": 100
       }
     ]
   },
@@ -61447,6 +61475,21 @@
   },
   {
     "resourceBoxPurpose": "shop_item",
+    "id": 10106,
+    "resourceBoxType": "expand",
+    "details": [
+      {
+        "resourceBoxPurpose": "shop_item",
+        "resourceBoxId": 10106,
+        "seq": 1,
+        "resourceType": "music_vocal",
+        "resourceId": 201,
+        "resourceQuantity": 1
+      }
+    ]
+  },
+  {
+    "resourceBoxPurpose": "shop_item",
     "id": 20001,
     "resourceBoxType": "expand",
     "details": [
@@ -67551,7 +67594,7 @@
     "resourceBoxPurpose": "virtual_shop_item",
     "id": 65,
     "resourceBoxType": "expand",
-    "name": "[ペンライト]雪の結晶ペンライト",
+    "name": "[ペンライト]スノークリスタルペンライト",
     "details": [
       {
         "resourceBoxPurpose": "virtual_shop_item",
@@ -67591,6 +67634,38 @@
         "seq": 1,
         "resourceType": "avatar_accessory",
         "resourceId": 14,
+        "resourceQuantity": 1
+      }
+    ]
+  },
+  {
+    "resourceBoxPurpose": "virtual_shop_item",
+    "id": 68,
+    "resourceBoxType": "expand",
+    "name": "[フルセット]リンなりきり衣装",
+    "details": [
+      {
+        "resourceBoxPurpose": "virtual_shop_item",
+        "resourceBoxId": 68,
+        "seq": 1,
+        "resourceType": "avatar_coordinate",
+        "resourceId": 15,
+        "resourceQuantity": 1
+      }
+    ]
+  },
+  {
+    "resourceBoxPurpose": "virtual_shop_item",
+    "id": 69,
+    "resourceBoxType": "expand",
+    "name": "[フルセット]レンなりきり衣装",
+    "details": [
+      {
+        "resourceBoxPurpose": "virtual_shop_item",
+        "resourceBoxId": 69,
+        "seq": 1,
+        "resourceType": "avatar_coordinate",
+        "resourceId": 16,
         "resourceQuantity": 1
       }
     ]
