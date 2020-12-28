@@ -332,6 +332,10 @@
     "value": "1534703194930896908,1534971037077430284,1534970991011389456,1534898748709629956,1534898657923653635,1534898726076899334,1534898708179804165,1534904320951545862"
   },
   {
+    "configKey": "virtual_live_seconds_to_leave_from_sleep",
+    "value": "20"
+  },
+  {
     "configKey": "apple_store_url",
     "value": "https://play.google.com/store/apps/details?id=com.sega.pjsekai"
   },
@@ -354,6 +358,26 @@
   {
     "configKey": "information_image_path",
     "value": "images/information"
+  },
+  {
+    "configKey": "svl_respond_type",
+    "value": "minimal"
+  },
+  {
+    "configKey": "svl_room_capacity",
+    "value": "100"
+  },
+  {
+    "configKey": "svl_room_interval",
+    "value": "200"
+  },
+  {
+    "configKey": "svl_sync_player_interval",
+    "value": "0.1"
+  },
+  {
+    "configKey": "svl_connection_timeout",
+    "value": "60000"
   },
   {
     "configKey": "debug_auth_disable",
