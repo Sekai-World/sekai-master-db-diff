@@ -10,16 +10,6 @@
     "endAt": 4102412399000
   },
   {
-    "homeBannerId": 44,
-    "seq": 200,
-    "name": "プレミアムミッションパス",
-    "assetbundleName": "banner_premiummissionpass_2020_12",
-    "transitionDestinationType": "information",
-    "transitionDestinationId": 179,
-    "startAt": 1606748400000,
-    "endAt": 1609426799000
-  },
-  {
     "homeBannerId": 48,
     "seq": 9998,
     "name": "ウェルカムライブバナー",
@@ -30,43 +20,63 @@
     "endAt": 4102412399000
   },
   {
-    "homeBannerId": 49,
-    "seq": 99,
-    "name": "ワンダショイベ2巡目_イベントバナー",
-    "assetbundleName": "event_nijiiro_2020",
-    "transitionDestinationType": "event",
-    "transitionDestinationId": 8,
-    "startAt": 1608444000000,
-    "endAt": 1609394399000
-  },
-  {
-    "homeBannerId": 50,
+    "homeBannerId": 58,
     "seq": 100,
-    "name": "ワンダショイベ2巡目_定常ガチャバナー",
-    "assetbundleName": "banner_gacha23",
+    "name": "お正月イベント",
+    "assetbundleName": "event_newyear_2020",
+    "transitionDestinationType": "event",
+    "transitionDestinationId": 9,
+    "startAt": 1609394400000,
+    "endAt": 1610258399000
+  },
+  {
+    "homeBannerId": 60,
+    "seq": 140,
+    "name": "お正月イベントガチャ",
+    "assetbundleName": "banner_gacha28",
     "transitionDestinationType": "gacha",
-    "transitionDestinationId": 23,
-    "startAt": 1608444000000,
-    "endAt": 1609394399000
+    "transitionDestinationId": 28,
+    "startAt": 1609740000000,
+    "endAt": 1610258399000
   },
   {
-    "homeBannerId": 56,
-    "seq": 200,
-    "name": "カウントダウンライブ",
-    "assetbundleName": "banner_virtuallive44",
-    "transitionDestinationType": "virtual_live",
-    "transitionDestinationId": 44,
-    "startAt": 1609318800000,
-    "endAt": 1609567199000
+    "homeBannerId": 61,
+    "seq": 70,
+    "name": "お正月ショップ販売",
+    "assetbundleName": "banner_shop_newyear2021",
+    "transitionDestinationType": "information",
+    "transitionDestinationId": 274,
+    "startAt": 1609426800000,
+    "endAt": 1610290799000
   },
   {
-    "homeBannerId": 57,
-    "seq": 210,
-    "name": "ニューイヤーライブ",
-    "assetbundleName": "banner_virtuallive45",
+    "homeBannerId": 62,
+    "seq": 80,
+    "name": "プレミアムミッションパス（月初優先度UP用）",
+    "assetbundleName": "banner_premiummissionpass_2021_01",
+    "transitionDestinationType": "information",
+    "transitionDestinationId": 272,
+    "startAt": 1609426800000,
+    "endAt": 1612105199000
+  },
+  {
+    "homeBannerId": 63,
+    "seq": 110,
+    "name": "志歩バースデーライブ",
+    "assetbundleName": "banner_virtuallive50",
     "transitionDestinationType": "virtual_live",
-    "transitionDestinationId": 45,
-    "startAt": 1609318800000,
-    "endAt": 1609912799000
+    "transitionDestinationId": 3950,
+    "startAt": 1609912800000,
+    "endAt": 1610171999000
+  },
+  {
+    "homeBannerId": 69,
+    "seq": 150,
+    "name": "無料10連ガチャ(6日目）",
+    "assetbundleName": "banner_gacha30",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 35,
+    "startAt": 1609858800000,
+    "endAt": 1609945199000
   }
 ]
