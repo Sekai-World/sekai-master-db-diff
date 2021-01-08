@@ -2064,6 +2064,41 @@
     "releaseConditionTypeLevel": 30
   },
   {
+    "id": 30155,
+    "sentence": "前編を解放した状態でレベルが60必要です。",
+    "releaseConditionType": "card_level",
+    "releaseConditionTypeId": 155,
+    "releaseConditionTypeLevel": 60
+  },
+  {
+    "id": 30156,
+    "sentence": "前編を解放した状態でレベルが60必要です。",
+    "releaseConditionType": "card_level",
+    "releaseConditionTypeId": 156,
+    "releaseConditionTypeLevel": 60
+  },
+  {
+    "id": 30157,
+    "sentence": "前編を解放した状態でレベルが60必要です。",
+    "releaseConditionType": "card_level",
+    "releaseConditionTypeId": 157,
+    "releaseConditionTypeLevel": 60
+  },
+  {
+    "id": 30158,
+    "sentence": "前編を解放した状態でレベルが50必要です。",
+    "releaseConditionType": "card_level",
+    "releaseConditionTypeId": 158,
+    "releaseConditionTypeLevel": 50
+  },
+  {
+    "id": 30159,
+    "sentence": "前編を解放した状態でレベルが30必要です。",
+    "releaseConditionType": "card_level",
+    "releaseConditionTypeId": 159,
+    "releaseConditionTypeLevel": 30
+  },
+  {
     "id": 40001,
     "sentence": "GOOD以下を7以内でEXPERTクリア",
     "releaseConditionType": "music_difficulty_better_play",
@@ -5618,6 +5653,62 @@
     "releaseConditionTypeLevel": 5
   },
   {
+    "id": 60230,
+    "sentence": "「[ありがとう、勇気] 望月穂波」を入手",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 155,
+    "releaseConditionTypeLevel": 0
+  },
+  {
+    "id": 60231,
+    "sentence": "「[ありがとう、勇気] 望月穂波」のマスターランク1で開放",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 155,
+    "releaseConditionTypeLevel": 1
+  },
+  {
+    "id": 60232,
+    "sentence": "「[ありがとう、勇気] 望月穂波」のマスターランク3で開放",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 155,
+    "releaseConditionTypeLevel": 3
+  },
+  {
+    "id": 60233,
+    "sentence": "「[ありがとう、勇気] 望月穂波」のマスターランク5で開放",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 155,
+    "releaseConditionTypeLevel": 5
+  },
+  {
+    "id": 60240,
+    "sentence": "「[３人目の先輩！] MEIKO」を入手",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 156,
+    "releaseConditionTypeLevel": 0
+  },
+  {
+    "id": 60241,
+    "sentence": "「[３人目の先輩！] MEIKO」のマスターランク1で開放",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 156,
+    "releaseConditionTypeLevel": 1
+  },
+  {
+    "id": 60242,
+    "sentence": "「[３人目の先輩！] MEIKO」のマスターランク3で開放",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 156,
+    "releaseConditionTypeLevel": 3
+  },
+  {
+    "id": 60243,
+    "sentence": "「[３人目の先輩！] MEIKO」のマスターランク5で開放",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 156,
+    "releaseConditionTypeLevel": 5
+  },
+  {
     "id": 70001,
     "sentence": "｢星乃一歌｣のキャラクターランク1でユニット編成数UP",
     "releaseConditionType": "character_rank",
@@ -6865,6 +6956,61 @@
     "sentence": "「セカイのハッピーニューイヤー！」の エンディングを読む",
     "releaseConditionType": "event_story",
     "releaseConditionTypeId": 1000075
+  },
+  {
+    "id": 100901,
+    "sentence": "イベントPが6000に到達する",
+    "releaseConditionType": "event_point",
+    "releaseConditionTypeId": 10,
+    "releaseConditionTypeQuantity": 6000
+  },
+  {
+    "id": 100902,
+    "sentence": "イベントPが13000に到達する",
+    "releaseConditionType": "event_point",
+    "releaseConditionTypeId": 10,
+    "releaseConditionTypeQuantity": 13000
+  },
+  {
+    "id": 100903,
+    "sentence": "イベントPが30000に到達する",
+    "releaseConditionType": "event_point",
+    "releaseConditionTypeId": 10,
+    "releaseConditionTypeQuantity": 30000
+  },
+  {
+    "id": 100904,
+    "sentence": "イベントPが60000に到達する",
+    "releaseConditionType": "event_point",
+    "releaseConditionTypeId": 10,
+    "releaseConditionTypeQuantity": 60000
+  },
+  {
+    "id": 100905,
+    "sentence": "イベントPが90000に到達する",
+    "releaseConditionType": "event_point",
+    "releaseConditionTypeId": 10,
+    "releaseConditionTypeQuantity": 90000
+  },
+  {
+    "id": 100906,
+    "sentence": "イベントPが120000に到達する",
+    "releaseConditionType": "event_point",
+    "releaseConditionTypeId": 10,
+    "releaseConditionTypeQuantity": 120000
+  },
+  {
+    "id": 100907,
+    "sentence": "イベントPが150000に到達する",
+    "releaseConditionType": "event_point",
+    "releaseConditionTypeId": 10,
+    "releaseConditionTypeQuantity": 150000
+  },
+  {
+    "id": 100908,
+    "sentence": "「揺れるまま、でも君は前へ」の第8話を読む",
+    "releaseConditionType": "event_story",
+    "releaseConditionTypeId": 1000083
   },
   {
     "id": 800001,

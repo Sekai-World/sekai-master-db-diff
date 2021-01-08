@@ -3415,5 +3415,385 @@
         ]
       }
     ]
+  },
+  {
+    "id": 10,
+    "eventType": "marathon",
+    "name": "揺れるまま、でも君は前へ",
+    "assetbundleName": "event_hareomatsu_2021",
+    "bgmAssetbundleName": "event/event_hareomatsu_2021/bgm/event_hareomatsu_2021_top",
+    "startAt": 1610258400000,
+    "aggregateAt": 1611057599000,
+    "rankingAnnounceAt": 1611058199000,
+    "distributionStartAt": 1611107999000,
+    "closedAt": 1611208798000,
+    "distributionEndAt": 1612364399000,
+    "virtualLiveId": 51,
+    "eventRankingRewardRanges": [
+      {
+        "id": 253,
+        "eventId": 10,
+        "fromRank": 1,
+        "toRank": 1,
+        "eventRankingRewards": [
+          {
+            "id": 253,
+            "eventRankingRewardRangeId": 253,
+            "resourceBoxId": 253
+          }
+        ]
+      },
+      {
+        "id": 254,
+        "eventId": 10,
+        "fromRank": 2,
+        "toRank": 2,
+        "eventRankingRewards": [
+          {
+            "id": 254,
+            "eventRankingRewardRangeId": 254,
+            "resourceBoxId": 254
+          }
+        ]
+      },
+      {
+        "id": 255,
+        "eventId": 10,
+        "fromRank": 3,
+        "toRank": 3,
+        "eventRankingRewards": [
+          {
+            "id": 255,
+            "eventRankingRewardRangeId": 255,
+            "resourceBoxId": 255
+          }
+        ]
+      },
+      {
+        "id": 256,
+        "eventId": 10,
+        "fromRank": 4,
+        "toRank": 10,
+        "eventRankingRewards": [
+          {
+            "id": 256,
+            "eventRankingRewardRangeId": 256,
+            "resourceBoxId": 256
+          }
+        ]
+      },
+      {
+        "id": 257,
+        "eventId": 10,
+        "fromRank": 11,
+        "toRank": 20,
+        "eventRankingRewards": [
+          {
+            "id": 257,
+            "eventRankingRewardRangeId": 257,
+            "resourceBoxId": 257
+          }
+        ]
+      },
+      {
+        "id": 258,
+        "eventId": 10,
+        "fromRank": 21,
+        "toRank": 30,
+        "eventRankingRewards": [
+          {
+            "id": 258,
+            "eventRankingRewardRangeId": 258,
+            "resourceBoxId": 258
+          }
+        ]
+      },
+      {
+        "id": 259,
+        "eventId": 10,
+        "fromRank": 31,
+        "toRank": 40,
+        "eventRankingRewards": [
+          {
+            "id": 259,
+            "eventRankingRewardRangeId": 259,
+            "resourceBoxId": 259
+          }
+        ]
+      },
+      {
+        "id": 260,
+        "eventId": 10,
+        "fromRank": 41,
+        "toRank": 50,
+        "eventRankingRewards": [
+          {
+            "id": 260,
+            "eventRankingRewardRangeId": 260,
+            "resourceBoxId": 260
+          }
+        ]
+      },
+      {
+        "id": 261,
+        "eventId": 10,
+        "fromRank": 51,
+        "toRank": 100,
+        "eventRankingRewards": [
+          {
+            "id": 261,
+            "eventRankingRewardRangeId": 261,
+            "resourceBoxId": 261
+          }
+        ]
+      },
+      {
+        "id": 262,
+        "eventId": 10,
+        "fromRank": 101,
+        "toRank": 200,
+        "eventRankingRewards": [
+          {
+            "id": 262,
+            "eventRankingRewardRangeId": 262,
+            "resourceBoxId": 262
+          }
+        ]
+      },
+      {
+        "id": 263,
+        "eventId": 10,
+        "fromRank": 201,
+        "toRank": 300,
+        "eventRankingRewards": [
+          {
+            "id": 263,
+            "eventRankingRewardRangeId": 263,
+            "resourceBoxId": 263
+          }
+        ]
+      },
+      {
+        "id": 264,
+        "eventId": 10,
+        "fromRank": 301,
+        "toRank": 400,
+        "eventRankingRewards": [
+          {
+            "id": 264,
+            "eventRankingRewardRangeId": 264,
+            "resourceBoxId": 264
+          }
+        ]
+      },
+      {
+        "id": 265,
+        "eventId": 10,
+        "fromRank": 401,
+        "toRank": 500,
+        "eventRankingRewards": [
+          {
+            "id": 265,
+            "eventRankingRewardRangeId": 265,
+            "resourceBoxId": 265
+          }
+        ]
+      },
+      {
+        "id": 266,
+        "eventId": 10,
+        "fromRank": 501,
+        "toRank": 1000,
+        "eventRankingRewards": [
+          {
+            "id": 266,
+            "eventRankingRewardRangeId": 266,
+            "resourceBoxId": 266
+          }
+        ]
+      },
+      {
+        "id": 267,
+        "eventId": 10,
+        "fromRank": 1001,
+        "toRank": 2000,
+        "eventRankingRewards": [
+          {
+            "id": 267,
+            "eventRankingRewardRangeId": 267,
+            "resourceBoxId": 267
+          }
+        ]
+      },
+      {
+        "id": 268,
+        "eventId": 10,
+        "fromRank": 2001,
+        "toRank": 3000,
+        "eventRankingRewards": [
+          {
+            "id": 268,
+            "eventRankingRewardRangeId": 268,
+            "resourceBoxId": 268
+          }
+        ]
+      },
+      {
+        "id": 269,
+        "eventId": 10,
+        "fromRank": 3001,
+        "toRank": 4000,
+        "eventRankingRewards": [
+          {
+            "id": 269,
+            "eventRankingRewardRangeId": 269,
+            "resourceBoxId": 269
+          }
+        ]
+      },
+      {
+        "id": 270,
+        "eventId": 10,
+        "fromRank": 4001,
+        "toRank": 5000,
+        "eventRankingRewards": [
+          {
+            "id": 270,
+            "eventRankingRewardRangeId": 270,
+            "resourceBoxId": 270
+          }
+        ]
+      },
+      {
+        "id": 271,
+        "eventId": 10,
+        "fromRank": 5001,
+        "toRank": 10000,
+        "eventRankingRewards": [
+          {
+            "id": 271,
+            "eventRankingRewardRangeId": 271,
+            "resourceBoxId": 271
+          }
+        ]
+      },
+      {
+        "id": 272,
+        "eventId": 10,
+        "fromRank": 10001,
+        "toRank": 20000,
+        "eventRankingRewards": [
+          {
+            "id": 272,
+            "eventRankingRewardRangeId": 272,
+            "resourceBoxId": 272
+          }
+        ]
+      },
+      {
+        "id": 273,
+        "eventId": 10,
+        "fromRank": 20001,
+        "toRank": 30000,
+        "eventRankingRewards": [
+          {
+            "id": 273,
+            "eventRankingRewardRangeId": 273,
+            "resourceBoxId": 273
+          }
+        ]
+      },
+      {
+        "id": 274,
+        "eventId": 10,
+        "fromRank": 30001,
+        "toRank": 40000,
+        "eventRankingRewards": [
+          {
+            "id": 274,
+            "eventRankingRewardRangeId": 274,
+            "resourceBoxId": 274
+          }
+        ]
+      },
+      {
+        "id": 275,
+        "eventId": 10,
+        "fromRank": 40001,
+        "toRank": 50000,
+        "eventRankingRewards": [
+          {
+            "id": 275,
+            "eventRankingRewardRangeId": 275,
+            "resourceBoxId": 275
+          }
+        ]
+      },
+      {
+        "id": 276,
+        "eventId": 10,
+        "fromRank": 50001,
+        "toRank": 100000,
+        "eventRankingRewards": [
+          {
+            "id": 276,
+            "eventRankingRewardRangeId": 276,
+            "resourceBoxId": 276
+          }
+        ]
+      },
+      {
+        "id": 277,
+        "eventId": 10,
+        "fromRank": 100001,
+        "toRank": 200000,
+        "eventRankingRewards": [
+          {
+            "id": 277,
+            "eventRankingRewardRangeId": 277,
+            "resourceBoxId": 277
+          }
+        ]
+      },
+      {
+        "id": 278,
+        "eventId": 10,
+        "fromRank": 200001,
+        "toRank": 300000,
+        "eventRankingRewards": [
+          {
+            "id": 278,
+            "eventRankingRewardRangeId": 278,
+            "resourceBoxId": 278
+          }
+        ]
+      },
+      {
+        "id": 279,
+        "eventId": 10,
+        "fromRank": 300001,
+        "toRank": 500000,
+        "eventRankingRewards": [
+          {
+            "id": 279,
+            "eventRankingRewardRangeId": 279,
+            "resourceBoxId": 279
+          }
+        ]
+      },
+      {
+        "id": 280,
+        "eventId": 10,
+        "fromRank": 500001,
+        "toRank": 1000000,
+        "eventRankingRewards": [
+          {
+            "id": 280,
+            "eventRankingRewardRangeId": 280,
+            "resourceBoxId": 280
+          }
+        ]
+      }
+    ]
   }
 ]
