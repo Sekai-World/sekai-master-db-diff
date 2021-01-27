@@ -189,7 +189,7 @@
   },
   {
     "configKey": "photon_room_count_per_channel",
-    "value": "100"
+    "value": "15"
   },
   {
     "configKey": "virtual_live_ranking_aggregate_second_before_end",
@@ -378,6 +378,30 @@
   {
     "configKey": "svl_connection_timeout",
     "value": "60000"
+  },
+  {
+    "configKey": "private_room_expire_hour",
+    "value": "24"
+  },
+  {
+    "configKey": "private_room_max_room_no",
+    "value": "999999"
+  },
+  {
+    "configKey": "private_room_attempt_range",
+    "value": "10"
+  },
+  {
+    "configKey": "friend_request_expire_hour",
+    "value": "168"
+  },
+  {
+    "configKey": "friend_request_message_length_limit",
+    "value": "30"
+  },
+  {
+    "configKey": "friend_count_limit",
+    "value": "100"
   },
   {
     "configKey": "debug_auth_disable",

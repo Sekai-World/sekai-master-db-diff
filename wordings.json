@@ -376,6 +376,10 @@
     "value": "クリスタル<color={0}>{1}個</color>と\nバーチャルコイン<color={0}>{2}個</color>を交換しますか？"
   },
   {
+    "wordingKey": "MSG_EXCHANGE_MATERIAL",
+    "value": "{0}で交換"
+  },
+  {
     "wordingKey": "MSG_EXCHANGE_VIRTUAL_COIN",
     "value": "バーチャルコインで交換"
   },
@@ -418,6 +422,42 @@
   {
     "wordingKey": "MSG_FIX_MIKU_COSTUME",
     "value": "3D MVで常にこのミクを表示"
+  },
+  {
+    "wordingKey": "MSG_FRIEND_DEFAULT_REQUEST",
+    "value": "  "
+  },
+  {
+    "wordingKey": "MSG_FRIEND_LIMIT_COUNT_FOR_OTHER",
+    "value": "相手のフレンド数が上限に達しました。"
+  },
+  {
+    "wordingKey": "MSG_FRIEND_LIMIT_COUNT_FOR_SELF",
+    "value": "フレンド数が上限に達しました。"
+  },
+  {
+    "wordingKey": "MSG_FRIEND_RELEASE",
+    "value": "フレンドを解除します。\nよろしいですか？"
+  },
+  {
+    "wordingKey": "MSG_FRIEND_REQUEST",
+    "value": "フレンド申請を送りました。"
+  },
+  {
+    "wordingKey": "MSG_FRIEND_REQUEST_COMPLETE",
+    "value": "フレンド申請を送りました。"
+  },
+  {
+    "wordingKey": "MSG_FRIEND_REQUEST_MESSAGE",
+    "value": "この内容でフレンド申請を送りますか？"
+  },
+  {
+    "wordingKey": "MSG_FRIEND_REQUEST_REJECT",
+    "value": "フレンド申請を拒否します。\nよろしいですか？"
+  },
+  {
+    "wordingKey": "MSG_FRIEND_UNDEFINED_ERROR",
+    "value": "通信に失敗しました。"
   },
   {
     "wordingKey": "MSG_GACHA_CEIL_TICKET_CONVERT_CONFIRM",
@@ -464,6 +504,10 @@
     "value": "ハイスコア<color=#FF55AA>{0}</color>ごとの更新報酬"
   },
   {
+    "wordingKey": "MSG_ID_NOT_FOUND",
+    "value": "入力されたIDのプレイヤーは見つかりません。"
+  },
+  {
     "wordingKey": "MSG_INHERIT_INVALID_TOKEN",
     "value": "現在、引き継ぎID・パスワードが設定されていません。\n\nお客さまのゲームデータ保護のため、\nアプリ内メニュー「データ引き継ぎ」より\n設定を行っていただくことをおすすめします。"
   },
@@ -494,6 +538,10 @@
   {
     "wordingKey": "MSG_INPUT_FIELD_ERROR_EMPTY",
     "value": "1文字以上入力してください。"
+  },
+  {
+    "wordingKey": "MSG_INPUT_PLAYER_ID",
+    "value": "プレイヤーIDを入力してください。"
   },
   {
     "wordingKey": "MSG_IN_SESSION",
@@ -1480,6 +1528,10 @@
     "value": "{0}COMBO"
   },
   {
+    "wordingKey": "WORD_ADD_FRIEND",
+    "value": "フレンド追加"
+  },
+  {
     "wordingKey": "WORD_AFTER_LIVE",
     "value": "アフターライブ"
   },
@@ -2344,6 +2396,58 @@
     "value": "ひとりでライブ"
   },
   {
+    "wordingKey": "WORD_FREND_SORT_TITLE",
+    "value": "フレンド並び替え"
+  },
+  {
+    "wordingKey": "WORD_FRIEND",
+    "value": "フレンド"
+  },
+  {
+    "wordingKey": "WORD_FRIEND_COUNT",
+    "value": "フレンド"
+  },
+  {
+    "wordingKey": "WORD_FRIEND_LIST",
+    "value": "フレンドリスト"
+  },
+  {
+    "wordingKey": "WORD_FRIEND_NOTICE_APPROVE",
+    "value": "フレンド申請を承認しました。"
+  },
+  {
+    "wordingKey": "WORD_FRIEND_NOTICE_REJECT",
+    "value": "フレンド申請を拒否しました。"
+  },
+  {
+    "wordingKey": "WORD_FRIEND_NOTICE_REQUEST",
+    "value": "{0}からのフレンド申請"
+  },
+  {
+    "wordingKey": "WORD_FRIEND_NOTICE_REQUEST_MESSAGE",
+    "value": "「{0}」"
+  },
+  {
+    "wordingKey": "WORD_FRIEND_RELEASE",
+    "value": "フレンド解除"
+  },
+  {
+    "wordingKey": "WORD_FRIEND_REQUEST",
+    "value": "フレンド申請"
+  },
+  {
+    "wordingKey": "WORD_FRIEND_REQUEST_DEFAULT_MESSAGE",
+    "value": "よろしくお願いします！"
+  },
+  {
+    "wordingKey": "WORD_FRIEND_REQUEST_MESSAGE_BODY",
+    "value": "フレンド申請時にメッセージを送ることができます。"
+  },
+  {
+    "wordingKey": "WORD_FRIEND_REQUEST_REJECT",
+    "value": "フレンド申請拒否"
+  },
+  {
     "wordingKey": "WORD_FULLSET",
     "value": "フルセット"
   },
@@ -2446,6 +2550,10 @@
   {
     "wordingKey": "WORD_GO_COSTUME_SHOP",
     "value": "衣装ショップへ"
+  },
+  {
+    "wordingKey": "WORD_GO_FRIEND",
+    "value": "フレンドへ"
   },
   {
     "wordingKey": "WORD_GO_GACHA",
@@ -3006,6 +3114,14 @@
   {
     "wordingKey": "WORD_MIGRATION_NL",
     "value": "データ引き継ぎ"
+  },
+  {
+    "wordingKey": "WORD_MISSING_ADD_FRIEND",
+    "value": "フレンド申請がありません。"
+  },
+  {
+    "wordingKey": "WORD_MISSING_FRIEND",
+    "value": "フレンドがいません。"
   },
   {
     "wordingKey": "WORD_MISSION",
@@ -3580,6 +3696,10 @@
     "value": "募集中..."
   },
   {
+    "wordingKey": "WORD_REJECT",
+    "value": "拒否"
+  },
+  {
     "wordingKey": "WORD_RELATION_SIDE_STORY",
     "value": "関連サイドストーリー"
   },
@@ -3606,6 +3726,10 @@
   {
     "wordingKey": "WORD_RELEASE_SKILL_UP",
     "value": "スキルアップ解放"
+  },
+  {
+    "wordingKey": "WORD_REQUEST",
+    "value": "申請"
   },
   {
     "wordingKey": "WORD_REQUIRE",
@@ -3694,6 +3818,18 @@
   {
     "wordingKey": "WORD_SE",
     "value": "SE"
+  },
+  {
+    "wordingKey": "WORD_SEARCH",
+    "value": "検索"
+  },
+  {
+    "wordingKey": "WORD_SEARCH_ID",
+    "value": "ID検索"
+  },
+  {
+    "wordingKey": "WORD_SEARCH_PLAYER_ID",
+    "value": "プレイヤーID検索"
   },
   {
     "wordingKey": "WORD_SEKAI_VERSION",
@@ -3902,6 +4038,22 @@
   {
     "wordingKey": "WORD_SORT_ORDER",
     "value": "ソート順"
+  },
+  {
+    "wordingKey": "WORD_SORT_PLAYER_NAME",
+    "value": "プレイヤー名順"
+  },
+  {
+    "wordingKey": "WORD_SORT_PLAYER_NAME_LABEL",
+    "value": "プレイヤー名"
+  },
+  {
+    "wordingKey": "WORD_SORT_REGISTRATION",
+    "value": "フレンド登録順"
+  },
+  {
+    "wordingKey": "WORD_SORT_REGISTRATION_LABEL",
+    "value": "登録順"
   },
   {
     "wordingKey": "WORD_SPECIAL_SKILL",
@@ -4478,6 +4630,10 @@
   {
     "wordingKey": "WORD_WAITING_ROOM",
     "value": "控え室"
+  },
+  {
+    "wordingKey": "WORD_WAIT_APPROVAL_LIST",
+    "value": "承認待ちリスト"
   },
   {
     "wordingKey": "WORD_WARERABLE_MEMBER",

@@ -20,26 +20,6 @@
     "endAt": 4102412399000
   },
   {
-    "homeBannerId": 72,
-    "seq": 99,
-    "name": "レオ二イベ2巡目_イベントバナー",
-    "assetbundleName": "event_hareomatsu_2021",
-    "transitionDestinationType": "event",
-    "transitionDestinationId": 10,
-    "startAt": 1610258400000,
-    "endAt": 1611208799000
-  },
-  {
-    "homeBannerId": 73,
-    "seq": 100,
-    "name": "レオ二イベ2巡目_定常ガチャバナー",
-    "assetbundleName": "banner_gacha39",
-    "transitionDestinationType": "gacha",
-    "transitionDestinationId": 39,
-    "startAt": 1610258400000,
-    "endAt": 1611208799000
-  },
-  {
     "homeBannerId": 75,
     "seq": 200,
     "name": "プレミアムミッションパス",
@@ -48,5 +28,45 @@
     "transitionDestinationId": 272,
     "startAt": 1609426800000,
     "endAt": 1612105199000
+  },
+  {
+    "homeBannerId": 77,
+    "seq": 99,
+    "name": "[イベント]Color of Myself！",
+    "assetbundleName": "event_color_2021",
+    "transitionDestinationType": "event",
+    "transitionDestinationId": 11,
+    "startAt": 1611208800000,
+    "endAt": 1612072799000
+  },
+  {
+    "homeBannerId": 78,
+    "seq": 100,
+    "name": "モモジャンイベ2巡目_定常ガチャバナー",
+    "assetbundleName": "banner_gacha42",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 42,
+    "startAt": 1611208800000,
+    "endAt": 1612072799000
+  },
+  {
+    "homeBannerId": 79,
+    "seq": 120,
+    "name": "モモジャンイベ2巡目_メンバー出現率UPガチャバナー",
+    "assetbundleName": "banner_gacha44",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 44,
+    "startAt": 1611468000000,
+    "endAt": 1611921599000
+  },
+  {
+    "homeBannerId": 80,
+    "seq": 110,
+    "name": "HAPPY BIRTHDAYライブ まふゆ",
+    "assetbundleName": "banner_virtuallive53",
+    "transitionDestinationType": "virtual_live",
+    "transitionDestinationId": 53,
+    "startAt": 1611554400000,
+    "endAt": 1611813599000
   }
 ]

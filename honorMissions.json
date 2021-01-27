@@ -1550,5 +1550,53 @@
         "resourceBoxId": 1126
       }
     ]
+  },
+  {
+    "id": 3911,
+    "seq": 1,
+    "honorMissionType": "send_friend_request",
+    "requirement": 1,
+    "sentence": "フレンド申請を1回しよう。",
+    "rewards": [
+      {
+        "id": 959,
+        "missionType": "honor_mission",
+        "missionId": 3911,
+        "seq": 1,
+        "resourceBoxId": 1140
+      }
+    ]
+  },
+  {
+    "id": 3912,
+    "seq": 1,
+    "honorMissionType": "make_friend",
+    "requirement": 100,
+    "sentence": "フレンドを100人つくろう。",
+    "rewards": [
+      {
+        "id": 960,
+        "missionType": "honor_mission",
+        "missionId": 3912,
+        "seq": 1,
+        "resourceBoxId": 1141
+      }
+    ]
+  },
+  {
+    "id": 3913,
+    "seq": 1,
+    "honorMissionType": "clear_multi_live_all_friend",
+    "requirement": 1,
+    "sentence": "フレンド5人で「みんなでライブ」を1回プレイしよう。",
+    "rewards": [
+      {
+        "id": 961,
+        "missionType": "honor_mission",
+        "missionId": 3913,
+        "seq": 1,
+        "resourceBoxId": 1142
+      }
+    ]
   }
 ]
