@@ -38502,6 +38502,2340 @@
     ]
   },
   {
+    "id": 56,
+    "virtualLiveType": "normal",
+    "virtualLivePlatform": "v2",
+    "seq": 110,
+    "name": "HAPPY BIRTHDAYライブ 奏",
+    "assetbundleName": "vlentrance_00056",
+    "screenMvMusicVocalId": 26,
+    "startAt": 1612764000000,
+    "endAt": 1613109599000,
+    "rankingAnnounceAt": 4102412399000,
+    "virtualLiveSetlists": [
+      {
+        "id": 682,
+        "virtualLiveId": 56,
+        "seq": 1,
+        "virtualLiveSetlistType": "mc",
+        "assetbundleName": "mc_bd_2021kanade_1",
+        "virtualLiveStageId": 6
+      },
+      {
+        "id": 683,
+        "virtualLiveId": 56,
+        "seq": 2,
+        "virtualLiveSetlistType": "music",
+        "assetbundleName": "0016_kuyamumirai",
+        "virtualLiveStageId": 6,
+        "musicId": 60,
+        "musicVocalId": 52,
+        "character3dId1": 26,
+        "character3dId2": 20,
+        "character3dId3": 17,
+        "character3dId4": 18,
+        "character3dId5": 19
+      },
+      {
+        "id": 684,
+        "virtualLiveId": 56,
+        "seq": 3,
+        "virtualLiveSetlistType": "mc",
+        "assetbundleName": "mc_bd_2021kanade_2",
+        "virtualLiveStageId": 6
+      }
+    ],
+    "virtualLiveBeginnerSchedules": [],
+    "virtualLiveSchedules": [
+      {
+        "id": 1114,
+        "virtualLiveId": 56,
+        "seq": 1,
+        "startAt": 1612882800000,
+        "endAt": 1612883248000
+      },
+      {
+        "id": 1115,
+        "virtualLiveId": 56,
+        "seq": 2,
+        "startAt": 1612886400000,
+        "endAt": 1612886848000
+      },
+      {
+        "id": 1116,
+        "virtualLiveId": 56,
+        "seq": 3,
+        "startAt": 1612890000000,
+        "endAt": 1612890448000
+      },
+      {
+        "id": 1117,
+        "virtualLiveId": 56,
+        "seq": 4,
+        "startAt": 1612911600000,
+        "endAt": 1612912048000
+      },
+      {
+        "id": 1118,
+        "virtualLiveId": 56,
+        "seq": 5,
+        "startAt": 1612926000000,
+        "endAt": 1612926448000
+      },
+      {
+        "id": 1119,
+        "virtualLiveId": 56,
+        "seq": 6,
+        "startAt": 1612947600000,
+        "endAt": 1612948048000
+      },
+      {
+        "id": 1120,
+        "virtualLiveId": 56,
+        "seq": 7,
+        "startAt": 1612951200000,
+        "endAt": 1612951648000
+      },
+      {
+        "id": 1121,
+        "virtualLiveId": 56,
+        "seq": 8,
+        "startAt": 1612954800000,
+        "endAt": 1612955248000
+      },
+      {
+        "id": 1122,
+        "virtualLiveId": 56,
+        "seq": 9,
+        "startAt": 1612958400000,
+        "endAt": 1612958848000
+      },
+      {
+        "id": 1123,
+        "virtualLiveId": 56,
+        "seq": 10,
+        "startAt": 1612962000000,
+        "endAt": 1612962448000
+      },
+      {
+        "id": 1124,
+        "virtualLiveId": 56,
+        "seq": 11,
+        "startAt": 1612965600000,
+        "endAt": 1612966048000
+      }
+    ],
+    "virtualLiveCharacters": [
+      {
+        "id": 560,
+        "virtualLiveId": 56,
+        "gameCharacterUnitId": 17,
+        "seq": 1
+      },
+      {
+        "id": 561,
+        "virtualLiveId": 56,
+        "gameCharacterUnitId": 18,
+        "seq": 2
+      },
+      {
+        "id": 562,
+        "virtualLiveId": 56,
+        "gameCharacterUnitId": 19,
+        "seq": 3
+      },
+      {
+        "id": 563,
+        "virtualLiveId": 56,
+        "gameCharacterUnitId": 20,
+        "seq": 4
+      },
+      {
+        "id": 564,
+        "virtualLiveId": 56,
+        "gameCharacterUnitId": 31,
+        "seq": 5
+      }
+    ],
+    "virtualLiveReward": {
+      "id": 65,
+      "virtualLiveType": "normal",
+      "virtualLiveId": 56,
+      "resourceBoxId": 45
+    },
+    "virtualLiveRewards": [
+      {
+        "id": 65,
+        "virtualLiveType": "normal",
+        "virtualLiveId": 56,
+        "resourceBoxId": 45
+      }
+    ],
+    "virtualLiveCheerPointRewards": [],
+    "virtualLiveWaitingRoom": {
+      "id": 56,
+      "virtualLiveId": 56,
+      "assetbundleName": "banner_specialLive_sample_01",
+      "startAt": 1612764000000,
+      "endAt": 1613109599000
+    },
+    "virtualItems": [
+      {
+        "id": 73,
+        "virtualItemCategory": "normal",
+        "seq": 730,
+        "priority": 730,
+        "name": "HAPPY BIRTHDAY 奏",
+        "assetbundleName": "chara_kanade_birthday",
+        "costVirtualCoin": 3000,
+        "costJewel": 3000,
+        "cheerPoint": 3000,
+        "effectAssetbundleName": "chara_kanade_birthday",
+        "effectExpressionType": "throw_effect",
+        "virtualItemLabelType": "special"
+      },
+      {
+        "id": 1,
+        "virtualItemCategory": "normal",
+        "seq": 10,
+        "priority": 10,
+        "name": "紙吹雪",
+        "assetbundleName": "cracker_001",
+        "costVirtualCoin": 100,
+        "costJewel": 100,
+        "cheerPoint": 100,
+        "effectAssetbundleName": "cracker_001",
+        "effectExpressionType": "throw_effect"
+      },
+      {
+        "id": 2,
+        "virtualItemCategory": "normal",
+        "seq": 20,
+        "priority": 20,
+        "name": "風船",
+        "assetbundleName": "baloon_001",
+        "costVirtualCoin": 300,
+        "costJewel": 300,
+        "cheerPoint": 300,
+        "effectAssetbundleName": "baloon_001",
+        "effectExpressionType": "throw_effect"
+      },
+      {
+        "id": 4,
+        "virtualItemCategory": "normal",
+        "seq": 40,
+        "priority": 40,
+        "name": "ハート",
+        "assetbundleName": "heart_001",
+        "costVirtualCoin": 500,
+        "costJewel": 500,
+        "cheerPoint": 500,
+        "effectAssetbundleName": "heart_001",
+        "effectExpressionType": "throw_effect"
+      },
+      {
+        "id": 5,
+        "virtualItemCategory": "spread",
+        "seq": 150,
+        "priority": 50,
+        "name": "レーザー",
+        "assetbundleName": "leser_all_001",
+        "costVirtualCoin": 1500,
+        "costJewel": 1500,
+        "cheerPoint": 1500,
+        "effectAssetbundleName": "leser_all_001",
+        "effectExpressionType": "throw_effect"
+      },
+      {
+        "id": 6,
+        "virtualItemCategory": "spread",
+        "seq": 170,
+        "priority": 60,
+        "name": "セカイの想い",
+        "assetbundleName": "sekai_all_001",
+        "costVirtualCoin": 10000,
+        "costJewel": 10000,
+        "cheerPoint": 10000,
+        "effectAssetbundleName": "sekai_all_001",
+        "effectExpressionType": "throw_effect"
+      },
+      {
+        "id": 8,
+        "virtualItemCategory": "spread",
+        "seq": 160,
+        "priority": 80,
+        "name": "雪",
+        "assetbundleName": "snow_all_001",
+        "costVirtualCoin": 3000,
+        "costJewel": 3000,
+        "cheerPoint": 3000,
+        "effectAssetbundleName": "snow_all_001",
+        "effectExpressionType": "throw_effect"
+      },
+      {
+        "id": 9,
+        "virtualItemCategory": "spread",
+        "seq": 110,
+        "priority": 100,
+        "name": "三つ葉のクローバー",
+        "assetbundleName": "unit_clover_morejump",
+        "costVirtualCoin": 1500,
+        "costJewel": 1500,
+        "cheerPoint": 1500,
+        "effectAssetbundleName": "unit_clover_morejump",
+        "effectExpressionType": "throw_effect"
+      },
+      {
+        "id": 10,
+        "virtualItemCategory": "spread",
+        "seq": 140,
+        "priority": 130,
+        "name": "割れたココロ",
+        "assetbundleName": "unit_heart_25night",
+        "costVirtualCoin": 1500,
+        "costJewel": 1500,
+        "cheerPoint": 1500,
+        "effectAssetbundleName": "unit_heart_25night",
+        "effectExpressionType": "throw_effect"
+      },
+      {
+        "id": 11,
+        "virtualItemCategory": "spread",
+        "seq": 130,
+        "priority": 120,
+        "name": "ショウの王冠",
+        "assetbundleName": "unit_king_wonder",
+        "costVirtualCoin": 1500,
+        "costJewel": 1500,
+        "cheerPoint": 1500,
+        "effectAssetbundleName": "unit_king_wonder",
+        "effectExpressionType": "throw_effect"
+      },
+      {
+        "id": 12,
+        "virtualItemCategory": "spread",
+        "seq": 90,
+        "priority": 140,
+        "name": "6人の音色",
+        "assetbundleName": "unit_sing_piapro",
+        "costVirtualCoin": 1500,
+        "costJewel": 1500,
+        "cheerPoint": 1500,
+        "effectAssetbundleName": "unit_sing_piapro",
+        "effectExpressionType": "throw_effect"
+      },
+      {
+        "id": 13,
+        "virtualItemCategory": "spread",
+        "seq": 100,
+        "priority": 90,
+        "name": "しし座流星群",
+        "assetbundleName": "unit_star_leoneed",
+        "costVirtualCoin": 1500,
+        "costJewel": 1500,
+        "cheerPoint": 1500,
+        "effectAssetbundleName": "unit_star_leoneed",
+        "effectExpressionType": "throw_effect"
+      },
+      {
+        "id": 14,
+        "virtualItemCategory": "spread",
+        "seq": 120,
+        "priority": 110,
+        "name": "レコードの落書き",
+        "assetbundleName": "unit_record_vivibad",
+        "costVirtualCoin": 1500,
+        "costJewel": 1500,
+        "cheerPoint": 1500,
+        "effectAssetbundleName": "unit_record_vivibad",
+        "effectExpressionType": "throw_effect"
+      },
+      {
+        "id": 15,
+        "virtualItemCategory": "normal",
+        "seq": 30,
+        "priority": 150,
+        "name": "打ち上げ花火",
+        "assetbundleName": "fireworks_rocket",
+        "costVirtualCoin": 300,
+        "costJewel": 300,
+        "cheerPoint": 300,
+        "effectAssetbundleName": "fireworks_rocket",
+        "effectExpressionType": "throw_effect"
+      },
+      {
+        "id": 18,
+        "virtualItemCategory": "normal",
+        "seq": 50,
+        "priority": 180,
+        "name": "尊いうちわ",
+        "assetbundleName": "uchiwa",
+        "costVirtualCoin": 500,
+        "costJewel": 500,
+        "cheerPoint": 500,
+        "effectAssetbundleName": "uchiwa",
+        "effectExpressionType": "throw_effect"
+      },
+      {
+        "id": 19,
+        "virtualItemCategory": "normal",
+        "seq": 250,
+        "priority": 190,
+        "name": "鳴り響くギター",
+        "assetbundleName": "chara_ichika",
+        "costVirtualCoin": 1000,
+        "costJewel": 1000,
+        "cheerPoint": 1000,
+        "effectAssetbundleName": "chara_ichika",
+        "effectExpressionType": "throw_effect"
+      },
+      {
+        "id": 20,
+        "virtualItemCategory": "normal",
+        "seq": 260,
+        "priority": 200,
+        "name": "元気な笑顔",
+        "assetbundleName": "chara_saki",
+        "costVirtualCoin": 1000,
+        "costJewel": 1000,
+        "cheerPoint": 1000,
+        "effectAssetbundleName": "chara_saki",
+        "effectExpressionType": "throw_effect"
+      },
+      {
+        "id": 21,
+        "virtualItemCategory": "normal",
+        "seq": 270,
+        "priority": 210,
+        "name": "絶品アップルパイ",
+        "assetbundleName": "chara_honami",
+        "costVirtualCoin": 1000,
+        "costJewel": 1000,
+        "cheerPoint": 1000,
+        "effectAssetbundleName": "chara_honami",
+        "effectExpressionType": "throw_effect"
+      },
+      {
+        "id": 22,
+        "virtualItemCategory": "normal",
+        "seq": 280,
+        "priority": 220,
+        "name": "あつあつラーメン",
+        "assetbundleName": "chara_shiho",
+        "costVirtualCoin": 1000,
+        "costJewel": 1000,
+        "cheerPoint": 1000,
+        "effectAssetbundleName": "chara_shiho",
+        "effectExpressionType": "throw_effect"
+      },
+      {
+        "id": 23,
+        "virtualItemCategory": "normal",
+        "seq": 290,
+        "priority": 230,
+        "name": "みのりんコール",
+        "assetbundleName": "chara_minori",
+        "costVirtualCoin": 1000,
+        "costJewel": 1000,
+        "cheerPoint": 1000,
+        "effectAssetbundleName": "chara_minori",
+        "effectExpressionType": "throw_effect"
+      },
+      {
+        "id": 24,
+        "virtualItemCategory": "normal",
+        "seq": 300,
+        "priority": 240,
+        "name": "応援ペンギン",
+        "assetbundleName": "chara_haruka",
+        "costVirtualCoin": 1000,
+        "costJewel": 1000,
+        "cheerPoint": 1000,
+        "effectAssetbundleName": "chara_haruka",
+        "effectExpressionType": "throw_effect"
+      },
+      {
+        "id": 25,
+        "virtualItemCategory": "normal",
+        "seq": 310,
+        "priority": 250,
+        "name": "ハートピーチ",
+        "assetbundleName": "chara_airi",
+        "costVirtualCoin": 1000,
+        "costJewel": 1000,
+        "cheerPoint": 1000,
+        "effectAssetbundleName": "chara_airi",
+        "effectExpressionType": "throw_effect"
+      },
+      {
+        "id": 26,
+        "virtualItemCategory": "normal",
+        "seq": 320,
+        "priority": 260,
+        "name": "なごみの声",
+        "assetbundleName": "chara_shizuku",
+        "costVirtualCoin": 1000,
+        "costJewel": 1000,
+        "cheerPoint": 1000,
+        "effectAssetbundleName": "chara_shizuku",
+        "effectExpressionType": "throw_effect"
+      },
+      {
+        "id": 27,
+        "virtualItemCategory": "normal",
+        "seq": 330,
+        "priority": 270,
+        "name": "ハムラップ",
+        "assetbundleName": "chara_kohane",
+        "costVirtualCoin": 1000,
+        "costJewel": 1000,
+        "cheerPoint": 1000,
+        "effectAssetbundleName": "chara_kohane",
+        "effectExpressionType": "throw_effect"
+      },
+      {
+        "id": 28,
+        "virtualItemCategory": "normal",
+        "seq": 340,
+        "priority": 280,
+        "name": "コーヒーアート",
+        "assetbundleName": "chara_an",
+        "costVirtualCoin": 1000,
+        "costJewel": 1000,
+        "cheerPoint": 1000,
+        "effectAssetbundleName": "chara_an",
+        "effectExpressionType": "throw_effect"
+      },
+      {
+        "id": 29,
+        "virtualItemCategory": "normal",
+        "seq": 350,
+        "priority": 290,
+        "name": "リバーシブル",
+        "assetbundleName": "chara_akito",
+        "costVirtualCoin": 1000,
+        "costJewel": 1000,
+        "cheerPoint": 1000,
+        "effectAssetbundleName": "chara_akito",
+        "effectExpressionType": "throw_effect"
+      },
+      {
+        "id": 30,
+        "virtualItemCategory": "normal",
+        "seq": 360,
+        "priority": 300,
+        "name": "山積みの蔵書",
+        "assetbundleName": "chara_toya",
+        "costVirtualCoin": 1000,
+        "costJewel": 1000,
+        "cheerPoint": 1000,
+        "effectAssetbundleName": "chara_toya",
+        "effectExpressionType": "throw_effect"
+      },
+      {
+        "id": 31,
+        "virtualItemCategory": "normal",
+        "seq": 370,
+        "priority": 310,
+        "name": "ショー☆スター",
+        "assetbundleName": "chara_tukasa",
+        "costVirtualCoin": 1000,
+        "costJewel": 1000,
+        "cheerPoint": 1000,
+        "effectAssetbundleName": "chara_tukasa",
+        "effectExpressionType": "throw_effect"
+      },
+      {
+        "id": 32,
+        "virtualItemCategory": "normal",
+        "seq": 380,
+        "priority": 320,
+        "name": "一緒にわんだほーい",
+        "assetbundleName": "chara_emu",
+        "costVirtualCoin": 1000,
+        "costJewel": 1000,
+        "cheerPoint": 1000,
+        "effectAssetbundleName": "chara_emu",
+        "effectExpressionType": "throw_effect"
+      },
+      {
+        "id": 33,
+        "virtualItemCategory": "normal",
+        "seq": 390,
+        "priority": 330,
+        "name": "ネネロボ発進！",
+        "assetbundleName": "chara_nene",
+        "costVirtualCoin": 1000,
+        "costJewel": 1000,
+        "cheerPoint": 1000,
+        "effectAssetbundleName": "chara_nene",
+        "effectExpressionType": "throw_effect"
+      },
+      {
+        "id": 34,
+        "virtualItemCategory": "normal",
+        "seq": 400,
+        "priority": 340,
+        "name": "ドローンマジック",
+        "assetbundleName": "chara_rui",
+        "costVirtualCoin": 1000,
+        "costJewel": 1000,
+        "cheerPoint": 1000,
+        "effectAssetbundleName": "chara_rui",
+        "effectExpressionType": "throw_effect"
+      },
+      {
+        "id": 35,
+        "virtualItemCategory": "normal",
+        "seq": 410,
+        "priority": 350,
+        "name": "即席カップ麵",
+        "assetbundleName": "chara_kanade",
+        "costVirtualCoin": 1000,
+        "costJewel": 1000,
+        "cheerPoint": 1000,
+        "effectAssetbundleName": "chara_kanade",
+        "effectExpressionType": "throw_effect"
+      },
+      {
+        "id": 36,
+        "virtualItemCategory": "normal",
+        "seq": 420,
+        "priority": 360,
+        "name": "消えたい気持ち",
+        "assetbundleName": "chara_mafuyu",
+        "costVirtualCoin": 1000,
+        "costJewel": 1000,
+        "cheerPoint": 1000,
+        "effectAssetbundleName": "chara_mafuyu",
+        "effectExpressionType": "throw_effect"
+      },
+      {
+        "id": 37,
+        "virtualItemCategory": "normal",
+        "seq": 430,
+        "priority": 370,
+        "name": "いいねマーク",
+        "assetbundleName": "chara_ena",
+        "costVirtualCoin": 1000,
+        "costJewel": 1000,
+        "cheerPoint": 1000,
+        "effectAssetbundleName": "chara_ena",
+        "effectExpressionType": "throw_effect"
+      },
+      {
+        "id": 38,
+        "virtualItemCategory": "normal",
+        "seq": 440,
+        "priority": 380,
+        "name": "可愛いリボン",
+        "assetbundleName": "chara_mizuki",
+        "costVirtualCoin": 1000,
+        "costJewel": 1000,
+        "cheerPoint": 1000,
+        "effectAssetbundleName": "chara_mizuki",
+        "effectExpressionType": "throw_effect"
+      },
+      {
+        "id": 39,
+        "virtualItemCategory": "normal",
+        "seq": 150,
+        "priority": 390,
+        "name": "ネギステッキ",
+        "assetbundleName": "chara_miku",
+        "costVirtualCoin": 1000,
+        "costJewel": 1000,
+        "cheerPoint": 1000,
+        "effectAssetbundleName": "chara_miku",
+        "effectExpressionType": "throw_effect"
+      },
+      {
+        "id": 40,
+        "virtualItemCategory": "normal",
+        "seq": 160,
+        "priority": 400,
+        "name": "はじけるミカン",
+        "assetbundleName": "chara_rin",
+        "costVirtualCoin": 1000,
+        "costJewel": 1000,
+        "cheerPoint": 1000,
+        "effectAssetbundleName": "chara_rin",
+        "effectExpressionType": "throw_effect"
+      },
+      {
+        "id": 41,
+        "virtualItemCategory": "normal",
+        "seq": 170,
+        "priority": 410,
+        "name": "おやつのバナナ",
+        "assetbundleName": "chara_len",
+        "costVirtualCoin": 1000,
+        "costJewel": 1000,
+        "cheerPoint": 1000,
+        "effectAssetbundleName": "chara_len",
+        "effectExpressionType": "throw_effect"
+      },
+      {
+        "id": 42,
+        "virtualItemCategory": "normal",
+        "seq": 180,
+        "priority": 420,
+        "name": "オオマさん",
+        "assetbundleName": "chara_luka",
+        "costVirtualCoin": 1000,
+        "costJewel": 1000,
+        "cheerPoint": 1000,
+        "effectAssetbundleName": "chara_luka",
+        "effectExpressionType": "throw_effect"
+      },
+      {
+        "id": 43,
+        "virtualItemCategory": "normal",
+        "seq": 190,
+        "priority": 430,
+        "name": "乾杯ワイン",
+        "assetbundleName": "chara_meiko",
+        "costVirtualCoin": 1000,
+        "costJewel": 1000,
+        "cheerPoint": 1000,
+        "effectAssetbundleName": "chara_meiko",
+        "effectExpressionType": "throw_effect"
+      },
+      {
+        "id": 44,
+        "virtualItemCategory": "normal",
+        "seq": 200,
+        "priority": 440,
+        "name": "アイスバー",
+        "assetbundleName": "chara_kaito",
+        "costVirtualCoin": 1000,
+        "costJewel": 1000,
+        "cheerPoint": 1000,
+        "effectAssetbundleName": "chara_kaito",
+        "effectExpressionType": "throw_effect"
+      }
+    ]
+  },
+  {
+    "id": 57,
+    "virtualLiveType": "normal",
+    "virtualLivePlatform": "v2",
+    "seq": 100,
+    "name": "バレンタイン2021ライブ",
+    "assetbundleName": "vlentrance_00057",
+    "screenMvMusicVocalId": 34,
+    "startAt": 1613109600000,
+    "endAt": 1613455199000,
+    "rankingAnnounceAt": 4102412399000,
+    "virtualLiveSetlists": [
+      {
+        "id": 685,
+        "virtualLiveId": 57,
+        "seq": 1,
+        "virtualLiveSetlistType": "mc",
+        "assetbundleName": "mc_2021valentine_1",
+        "virtualLiveStageId": 1
+      },
+      {
+        "id": 686,
+        "virtualLiveId": 57,
+        "seq": 2,
+        "virtualLiveSetlistType": "mc",
+        "assetbundleName": "mc_2021valentine_2",
+        "virtualLiveStageId": 4
+      },
+      {
+        "id": 687,
+        "virtualLiveId": 57,
+        "seq": 3,
+        "virtualLiveSetlistType": "music",
+        "assetbundleName": "0020_drd",
+        "virtualLiveStageId": 4,
+        "musicId": 68,
+        "musicVocalId": 129,
+        "character3dId1": 148,
+        "character3dId2": 146,
+        "character3dId3": 147
+      },
+      {
+        "id": 688,
+        "virtualLiveId": 57,
+        "seq": 4,
+        "virtualLiveSetlistType": "mc",
+        "assetbundleName": "mc_2021valentine_3",
+        "virtualLiveStageId": 4,
+        "musicId": 68,
+        "musicVocalId": 129
+      },
+      {
+        "id": 689,
+        "virtualLiveId": 57,
+        "seq": 5,
+        "virtualLiveSetlistType": "mc",
+        "assetbundleName": "mc_2021valentine_4",
+        "virtualLiveStageId": 4
+      },
+      {
+        "id": 690,
+        "virtualLiveId": 57,
+        "seq": 6,
+        "virtualLiveSetlistType": "mc",
+        "assetbundleName": "mc_2021valentine_5",
+        "virtualLiveStageId": 1
+      },
+      {
+        "id": 691,
+        "virtualLiveId": 57,
+        "seq": 7,
+        "virtualLiveSetlistType": "mc",
+        "assetbundleName": "mc_2021valentine_6",
+        "virtualLiveStageId": 4
+      },
+      {
+        "id": 692,
+        "virtualLiveId": 57,
+        "seq": 8,
+        "virtualLiveSetlistType": "music",
+        "assetbundleName": "1010_suimaji",
+        "virtualLiveStageId": 4,
+        "musicId": 41,
+        "musicVocalId": 112,
+        "character3dId1": 150,
+        "character3dId2": 154,
+        "character3dId3": 144,
+        "character3dId4": 152,
+        "character3dId5": 153
+      },
+      {
+        "id": 693,
+        "virtualLiveId": 57,
+        "seq": 9,
+        "virtualLiveSetlistType": "mc",
+        "assetbundleName": "mc_2021valentine_7",
+        "virtualLiveStageId": 4,
+        "musicId": 41,
+        "musicVocalId": 112
+      }
+    ],
+    "virtualLiveBeginnerSchedules": [],
+    "virtualLiveSchedules": [
+      {
+        "id": 1125,
+        "virtualLiveId": 57,
+        "seq": 1,
+        "startAt": 1613228400000,
+        "endAt": 1613229199000
+      },
+      {
+        "id": 1126,
+        "virtualLiveId": 57,
+        "seq": 2,
+        "startAt": 1613232000000,
+        "endAt": 1613232799000
+      },
+      {
+        "id": 1127,
+        "virtualLiveId": 57,
+        "seq": 3,
+        "startAt": 1613235600000,
+        "endAt": 1613236399000
+      },
+      {
+        "id": 1128,
+        "virtualLiveId": 57,
+        "seq": 4,
+        "startAt": 1613257200000,
+        "endAt": 1613257999000
+      },
+      {
+        "id": 1129,
+        "virtualLiveId": 57,
+        "seq": 5,
+        "startAt": 1613271600000,
+        "endAt": 1613272399000
+      },
+      {
+        "id": 1130,
+        "virtualLiveId": 57,
+        "seq": 6,
+        "startAt": 1613293200000,
+        "endAt": 1613293999000
+      },
+      {
+        "id": 1131,
+        "virtualLiveId": 57,
+        "seq": 7,
+        "startAt": 1613296800000,
+        "endAt": 1613297599000
+      },
+      {
+        "id": 1132,
+        "virtualLiveId": 57,
+        "seq": 8,
+        "startAt": 1613300400000,
+        "endAt": 1613301199000
+      },
+      {
+        "id": 1133,
+        "virtualLiveId": 57,
+        "seq": 9,
+        "startAt": 1613304000000,
+        "endAt": 1613304799000
+      },
+      {
+        "id": 1134,
+        "virtualLiveId": 57,
+        "seq": 10,
+        "startAt": 1613307600000,
+        "endAt": 1613308399000
+      },
+      {
+        "id": 1135,
+        "virtualLiveId": 57,
+        "seq": 11,
+        "startAt": 1613311200000,
+        "endAt": 1613311999000
+      },
+      {
+        "id": 1136,
+        "virtualLiveId": 57,
+        "seq": 12,
+        "startAt": 1613314800000,
+        "endAt": 1613315599000
+      },
+      {
+        "id": 1137,
+        "virtualLiveId": 57,
+        "seq": 13,
+        "startAt": 1613318400000,
+        "endAt": 1613319199000
+      },
+      {
+        "id": 1138,
+        "virtualLiveId": 57,
+        "seq": 14,
+        "startAt": 1613322000000,
+        "endAt": 1613322799000
+      },
+      {
+        "id": 1139,
+        "virtualLiveId": 57,
+        "seq": 15,
+        "startAt": 1613343600000,
+        "endAt": 1613344399000
+      },
+      {
+        "id": 1140,
+        "virtualLiveId": 57,
+        "seq": 16,
+        "startAt": 1613358000000,
+        "endAt": 1613358799000
+      },
+      {
+        "id": 1141,
+        "virtualLiveId": 57,
+        "seq": 17,
+        "startAt": 1613379600000,
+        "endAt": 1613380399000
+      },
+      {
+        "id": 1142,
+        "virtualLiveId": 57,
+        "seq": 18,
+        "startAt": 1613383200000,
+        "endAt": 1613383999000
+      },
+      {
+        "id": 1143,
+        "virtualLiveId": 57,
+        "seq": 19,
+        "startAt": 1613386800000,
+        "endAt": 1613387599000
+      },
+      {
+        "id": 1144,
+        "virtualLiveId": 57,
+        "seq": 20,
+        "startAt": 1613390400000,
+        "endAt": 1613391199000
+      },
+      {
+        "id": 1145,
+        "virtualLiveId": 57,
+        "seq": 21,
+        "startAt": 1613394000000,
+        "endAt": 1613394799000
+      },
+      {
+        "id": 1146,
+        "virtualLiveId": 57,
+        "seq": 22,
+        "startAt": 1613397600000,
+        "endAt": 1613398399000
+      }
+    ],
+    "virtualLiveCharacters": [
+      {
+        "id": 565,
+        "virtualLiveId": 57,
+        "gameCharacterUnitId": 13,
+        "seq": 1
+      },
+      {
+        "id": 566,
+        "virtualLiveId": 57,
+        "gameCharacterUnitId": 14,
+        "seq": 2
+      },
+      {
+        "id": 567,
+        "virtualLiveId": 57,
+        "gameCharacterUnitId": 15,
+        "seq": 3
+      },
+      {
+        "id": 568,
+        "virtualLiveId": 57,
+        "gameCharacterUnitId": 16,
+        "seq": 4
+      },
+      {
+        "id": 569,
+        "virtualLiveId": 57,
+        "gameCharacterUnitId": 30,
+        "seq": 5
+      },
+      {
+        "id": 570,
+        "virtualLiveId": 57,
+        "gameCharacterUnitId": 21,
+        "seq": 6
+      },
+      {
+        "id": 571,
+        "virtualLiveId": 57,
+        "gameCharacterUnitId": 22,
+        "seq": 7
+      },
+      {
+        "id": 572,
+        "virtualLiveId": 57,
+        "gameCharacterUnitId": 23,
+        "seq": 8
+      },
+      {
+        "id": 573,
+        "virtualLiveId": 57,
+        "gameCharacterUnitId": 24,
+        "seq": 9
+      },
+      {
+        "id": 574,
+        "virtualLiveId": 57,
+        "gameCharacterUnitId": 25,
+        "seq": 10
+      },
+      {
+        "id": 575,
+        "virtualLiveId": 57,
+        "gameCharacterUnitId": 26,
+        "seq": 11
+      }
+    ],
+    "virtualLiveReward": {
+      "id": 66,
+      "virtualLiveType": "normal",
+      "virtualLiveId": 57,
+      "resourceBoxId": 46
+    },
+    "virtualLiveRewards": [
+      {
+        "id": 66,
+        "virtualLiveType": "normal",
+        "virtualLiveId": 57,
+        "resourceBoxId": 46
+      }
+    ],
+    "virtualLiveCheerPointRewards": [],
+    "virtualLiveWaitingRoom": {
+      "id": 57,
+      "virtualLiveId": 57,
+      "assetbundleName": "banner_specialLive_sample_01",
+      "startAt": 1613109600000,
+      "endAt": 1613455199000
+    },
+    "virtualItems": [
+      {
+        "id": 74,
+        "virtualItemCategory": "normal",
+        "seq": 740,
+        "priority": 740,
+        "name": "HAPPY VALENTINE",
+        "assetbundleName": "event_valentine_2021",
+        "costVirtualCoin": 1500,
+        "costJewel": 1500,
+        "cheerPoint": 1500,
+        "effectAssetbundleName": "event_valentine_2021",
+        "effectExpressionType": "throw_effect",
+        "virtualItemLabelType": "special"
+      },
+      {
+        "id": 1,
+        "virtualItemCategory": "normal",
+        "seq": 10,
+        "priority": 10,
+        "name": "紙吹雪",
+        "assetbundleName": "cracker_001",
+        "costVirtualCoin": 100,
+        "costJewel": 100,
+        "cheerPoint": 100,
+        "effectAssetbundleName": "cracker_001",
+        "effectExpressionType": "throw_effect"
+      },
+      {
+        "id": 2,
+        "virtualItemCategory": "normal",
+        "seq": 20,
+        "priority": 20,
+        "name": "風船",
+        "assetbundleName": "baloon_001",
+        "costVirtualCoin": 300,
+        "costJewel": 300,
+        "cheerPoint": 300,
+        "effectAssetbundleName": "baloon_001",
+        "effectExpressionType": "throw_effect"
+      },
+      {
+        "id": 4,
+        "virtualItemCategory": "normal",
+        "seq": 40,
+        "priority": 40,
+        "name": "ハート",
+        "assetbundleName": "heart_001",
+        "costVirtualCoin": 500,
+        "costJewel": 500,
+        "cheerPoint": 500,
+        "effectAssetbundleName": "heart_001",
+        "effectExpressionType": "throw_effect"
+      },
+      {
+        "id": 5,
+        "virtualItemCategory": "spread",
+        "seq": 150,
+        "priority": 50,
+        "name": "レーザー",
+        "assetbundleName": "leser_all_001",
+        "costVirtualCoin": 1500,
+        "costJewel": 1500,
+        "cheerPoint": 1500,
+        "effectAssetbundleName": "leser_all_001",
+        "effectExpressionType": "throw_effect"
+      },
+      {
+        "id": 6,
+        "virtualItemCategory": "spread",
+        "seq": 170,
+        "priority": 60,
+        "name": "セカイの想い",
+        "assetbundleName": "sekai_all_001",
+        "costVirtualCoin": 10000,
+        "costJewel": 10000,
+        "cheerPoint": 10000,
+        "effectAssetbundleName": "sekai_all_001",
+        "effectExpressionType": "throw_effect"
+      },
+      {
+        "id": 8,
+        "virtualItemCategory": "spread",
+        "seq": 160,
+        "priority": 80,
+        "name": "雪",
+        "assetbundleName": "snow_all_001",
+        "costVirtualCoin": 3000,
+        "costJewel": 3000,
+        "cheerPoint": 3000,
+        "effectAssetbundleName": "snow_all_001",
+        "effectExpressionType": "throw_effect"
+      },
+      {
+        "id": 9,
+        "virtualItemCategory": "spread",
+        "seq": 110,
+        "priority": 100,
+        "name": "三つ葉のクローバー",
+        "assetbundleName": "unit_clover_morejump",
+        "costVirtualCoin": 1500,
+        "costJewel": 1500,
+        "cheerPoint": 1500,
+        "effectAssetbundleName": "unit_clover_morejump",
+        "effectExpressionType": "throw_effect"
+      },
+      {
+        "id": 10,
+        "virtualItemCategory": "spread",
+        "seq": 140,
+        "priority": 130,
+        "name": "割れたココロ",
+        "assetbundleName": "unit_heart_25night",
+        "costVirtualCoin": 1500,
+        "costJewel": 1500,
+        "cheerPoint": 1500,
+        "effectAssetbundleName": "unit_heart_25night",
+        "effectExpressionType": "throw_effect"
+      },
+      {
+        "id": 11,
+        "virtualItemCategory": "spread",
+        "seq": 130,
+        "priority": 120,
+        "name": "ショウの王冠",
+        "assetbundleName": "unit_king_wonder",
+        "costVirtualCoin": 1500,
+        "costJewel": 1500,
+        "cheerPoint": 1500,
+        "effectAssetbundleName": "unit_king_wonder",
+        "effectExpressionType": "throw_effect"
+      },
+      {
+        "id": 12,
+        "virtualItemCategory": "spread",
+        "seq": 90,
+        "priority": 140,
+        "name": "6人の音色",
+        "assetbundleName": "unit_sing_piapro",
+        "costVirtualCoin": 1500,
+        "costJewel": 1500,
+        "cheerPoint": 1500,
+        "effectAssetbundleName": "unit_sing_piapro",
+        "effectExpressionType": "throw_effect"
+      },
+      {
+        "id": 13,
+        "virtualItemCategory": "spread",
+        "seq": 100,
+        "priority": 90,
+        "name": "しし座流星群",
+        "assetbundleName": "unit_star_leoneed",
+        "costVirtualCoin": 1500,
+        "costJewel": 1500,
+        "cheerPoint": 1500,
+        "effectAssetbundleName": "unit_star_leoneed",
+        "effectExpressionType": "throw_effect"
+      },
+      {
+        "id": 14,
+        "virtualItemCategory": "spread",
+        "seq": 120,
+        "priority": 110,
+        "name": "レコードの落書き",
+        "assetbundleName": "unit_record_vivibad",
+        "costVirtualCoin": 1500,
+        "costJewel": 1500,
+        "cheerPoint": 1500,
+        "effectAssetbundleName": "unit_record_vivibad",
+        "effectExpressionType": "throw_effect"
+      },
+      {
+        "id": 15,
+        "virtualItemCategory": "normal",
+        "seq": 30,
+        "priority": 150,
+        "name": "打ち上げ花火",
+        "assetbundleName": "fireworks_rocket",
+        "costVirtualCoin": 300,
+        "costJewel": 300,
+        "cheerPoint": 300,
+        "effectAssetbundleName": "fireworks_rocket",
+        "effectExpressionType": "throw_effect"
+      },
+      {
+        "id": 18,
+        "virtualItemCategory": "normal",
+        "seq": 50,
+        "priority": 180,
+        "name": "尊いうちわ",
+        "assetbundleName": "uchiwa",
+        "costVirtualCoin": 500,
+        "costJewel": 500,
+        "cheerPoint": 500,
+        "effectAssetbundleName": "uchiwa",
+        "effectExpressionType": "throw_effect"
+      },
+      {
+        "id": 19,
+        "virtualItemCategory": "normal",
+        "seq": 250,
+        "priority": 190,
+        "name": "鳴り響くギター",
+        "assetbundleName": "chara_ichika",
+        "costVirtualCoin": 1000,
+        "costJewel": 1000,
+        "cheerPoint": 1000,
+        "effectAssetbundleName": "chara_ichika",
+        "effectExpressionType": "throw_effect"
+      },
+      {
+        "id": 20,
+        "virtualItemCategory": "normal",
+        "seq": 260,
+        "priority": 200,
+        "name": "元気な笑顔",
+        "assetbundleName": "chara_saki",
+        "costVirtualCoin": 1000,
+        "costJewel": 1000,
+        "cheerPoint": 1000,
+        "effectAssetbundleName": "chara_saki",
+        "effectExpressionType": "throw_effect"
+      },
+      {
+        "id": 21,
+        "virtualItemCategory": "normal",
+        "seq": 270,
+        "priority": 210,
+        "name": "絶品アップルパイ",
+        "assetbundleName": "chara_honami",
+        "costVirtualCoin": 1000,
+        "costJewel": 1000,
+        "cheerPoint": 1000,
+        "effectAssetbundleName": "chara_honami",
+        "effectExpressionType": "throw_effect"
+      },
+      {
+        "id": 22,
+        "virtualItemCategory": "normal",
+        "seq": 280,
+        "priority": 220,
+        "name": "あつあつラーメン",
+        "assetbundleName": "chara_shiho",
+        "costVirtualCoin": 1000,
+        "costJewel": 1000,
+        "cheerPoint": 1000,
+        "effectAssetbundleName": "chara_shiho",
+        "effectExpressionType": "throw_effect"
+      },
+      {
+        "id": 23,
+        "virtualItemCategory": "normal",
+        "seq": 290,
+        "priority": 230,
+        "name": "みのりんコール",
+        "assetbundleName": "chara_minori",
+        "costVirtualCoin": 1000,
+        "costJewel": 1000,
+        "cheerPoint": 1000,
+        "effectAssetbundleName": "chara_minori",
+        "effectExpressionType": "throw_effect"
+      },
+      {
+        "id": 24,
+        "virtualItemCategory": "normal",
+        "seq": 300,
+        "priority": 240,
+        "name": "応援ペンギン",
+        "assetbundleName": "chara_haruka",
+        "costVirtualCoin": 1000,
+        "costJewel": 1000,
+        "cheerPoint": 1000,
+        "effectAssetbundleName": "chara_haruka",
+        "effectExpressionType": "throw_effect"
+      },
+      {
+        "id": 25,
+        "virtualItemCategory": "normal",
+        "seq": 310,
+        "priority": 250,
+        "name": "ハートピーチ",
+        "assetbundleName": "chara_airi",
+        "costVirtualCoin": 1000,
+        "costJewel": 1000,
+        "cheerPoint": 1000,
+        "effectAssetbundleName": "chara_airi",
+        "effectExpressionType": "throw_effect"
+      },
+      {
+        "id": 26,
+        "virtualItemCategory": "normal",
+        "seq": 320,
+        "priority": 260,
+        "name": "なごみの声",
+        "assetbundleName": "chara_shizuku",
+        "costVirtualCoin": 1000,
+        "costJewel": 1000,
+        "cheerPoint": 1000,
+        "effectAssetbundleName": "chara_shizuku",
+        "effectExpressionType": "throw_effect"
+      },
+      {
+        "id": 27,
+        "virtualItemCategory": "normal",
+        "seq": 330,
+        "priority": 270,
+        "name": "ハムラップ",
+        "assetbundleName": "chara_kohane",
+        "costVirtualCoin": 1000,
+        "costJewel": 1000,
+        "cheerPoint": 1000,
+        "effectAssetbundleName": "chara_kohane",
+        "effectExpressionType": "throw_effect"
+      },
+      {
+        "id": 28,
+        "virtualItemCategory": "normal",
+        "seq": 340,
+        "priority": 280,
+        "name": "コーヒーアート",
+        "assetbundleName": "chara_an",
+        "costVirtualCoin": 1000,
+        "costJewel": 1000,
+        "cheerPoint": 1000,
+        "effectAssetbundleName": "chara_an",
+        "effectExpressionType": "throw_effect"
+      },
+      {
+        "id": 29,
+        "virtualItemCategory": "normal",
+        "seq": 350,
+        "priority": 290,
+        "name": "リバーシブル",
+        "assetbundleName": "chara_akito",
+        "costVirtualCoin": 1000,
+        "costJewel": 1000,
+        "cheerPoint": 1000,
+        "effectAssetbundleName": "chara_akito",
+        "effectExpressionType": "throw_effect"
+      },
+      {
+        "id": 30,
+        "virtualItemCategory": "normal",
+        "seq": 360,
+        "priority": 300,
+        "name": "山積みの蔵書",
+        "assetbundleName": "chara_toya",
+        "costVirtualCoin": 1000,
+        "costJewel": 1000,
+        "cheerPoint": 1000,
+        "effectAssetbundleName": "chara_toya",
+        "effectExpressionType": "throw_effect"
+      },
+      {
+        "id": 31,
+        "virtualItemCategory": "normal",
+        "seq": 370,
+        "priority": 310,
+        "name": "ショー☆スター",
+        "assetbundleName": "chara_tukasa",
+        "costVirtualCoin": 1000,
+        "costJewel": 1000,
+        "cheerPoint": 1000,
+        "effectAssetbundleName": "chara_tukasa",
+        "effectExpressionType": "throw_effect"
+      },
+      {
+        "id": 32,
+        "virtualItemCategory": "normal",
+        "seq": 380,
+        "priority": 320,
+        "name": "一緒にわんだほーい",
+        "assetbundleName": "chara_emu",
+        "costVirtualCoin": 1000,
+        "costJewel": 1000,
+        "cheerPoint": 1000,
+        "effectAssetbundleName": "chara_emu",
+        "effectExpressionType": "throw_effect"
+      },
+      {
+        "id": 33,
+        "virtualItemCategory": "normal",
+        "seq": 390,
+        "priority": 330,
+        "name": "ネネロボ発進！",
+        "assetbundleName": "chara_nene",
+        "costVirtualCoin": 1000,
+        "costJewel": 1000,
+        "cheerPoint": 1000,
+        "effectAssetbundleName": "chara_nene",
+        "effectExpressionType": "throw_effect"
+      },
+      {
+        "id": 34,
+        "virtualItemCategory": "normal",
+        "seq": 400,
+        "priority": 340,
+        "name": "ドローンマジック",
+        "assetbundleName": "chara_rui",
+        "costVirtualCoin": 1000,
+        "costJewel": 1000,
+        "cheerPoint": 1000,
+        "effectAssetbundleName": "chara_rui",
+        "effectExpressionType": "throw_effect"
+      },
+      {
+        "id": 35,
+        "virtualItemCategory": "normal",
+        "seq": 410,
+        "priority": 350,
+        "name": "即席カップ麵",
+        "assetbundleName": "chara_kanade",
+        "costVirtualCoin": 1000,
+        "costJewel": 1000,
+        "cheerPoint": 1000,
+        "effectAssetbundleName": "chara_kanade",
+        "effectExpressionType": "throw_effect"
+      },
+      {
+        "id": 36,
+        "virtualItemCategory": "normal",
+        "seq": 420,
+        "priority": 360,
+        "name": "消えたい気持ち",
+        "assetbundleName": "chara_mafuyu",
+        "costVirtualCoin": 1000,
+        "costJewel": 1000,
+        "cheerPoint": 1000,
+        "effectAssetbundleName": "chara_mafuyu",
+        "effectExpressionType": "throw_effect"
+      },
+      {
+        "id": 37,
+        "virtualItemCategory": "normal",
+        "seq": 430,
+        "priority": 370,
+        "name": "いいねマーク",
+        "assetbundleName": "chara_ena",
+        "costVirtualCoin": 1000,
+        "costJewel": 1000,
+        "cheerPoint": 1000,
+        "effectAssetbundleName": "chara_ena",
+        "effectExpressionType": "throw_effect"
+      },
+      {
+        "id": 38,
+        "virtualItemCategory": "normal",
+        "seq": 440,
+        "priority": 380,
+        "name": "可愛いリボン",
+        "assetbundleName": "chara_mizuki",
+        "costVirtualCoin": 1000,
+        "costJewel": 1000,
+        "cheerPoint": 1000,
+        "effectAssetbundleName": "chara_mizuki",
+        "effectExpressionType": "throw_effect"
+      },
+      {
+        "id": 39,
+        "virtualItemCategory": "normal",
+        "seq": 150,
+        "priority": 390,
+        "name": "ネギステッキ",
+        "assetbundleName": "chara_miku",
+        "costVirtualCoin": 1000,
+        "costJewel": 1000,
+        "cheerPoint": 1000,
+        "effectAssetbundleName": "chara_miku",
+        "effectExpressionType": "throw_effect"
+      },
+      {
+        "id": 40,
+        "virtualItemCategory": "normal",
+        "seq": 160,
+        "priority": 400,
+        "name": "はじけるミカン",
+        "assetbundleName": "chara_rin",
+        "costVirtualCoin": 1000,
+        "costJewel": 1000,
+        "cheerPoint": 1000,
+        "effectAssetbundleName": "chara_rin",
+        "effectExpressionType": "throw_effect"
+      },
+      {
+        "id": 41,
+        "virtualItemCategory": "normal",
+        "seq": 170,
+        "priority": 410,
+        "name": "おやつのバナナ",
+        "assetbundleName": "chara_len",
+        "costVirtualCoin": 1000,
+        "costJewel": 1000,
+        "cheerPoint": 1000,
+        "effectAssetbundleName": "chara_len",
+        "effectExpressionType": "throw_effect"
+      },
+      {
+        "id": 42,
+        "virtualItemCategory": "normal",
+        "seq": 180,
+        "priority": 420,
+        "name": "オオマさん",
+        "assetbundleName": "chara_luka",
+        "costVirtualCoin": 1000,
+        "costJewel": 1000,
+        "cheerPoint": 1000,
+        "effectAssetbundleName": "chara_luka",
+        "effectExpressionType": "throw_effect"
+      },
+      {
+        "id": 43,
+        "virtualItemCategory": "normal",
+        "seq": 190,
+        "priority": 430,
+        "name": "乾杯ワイン",
+        "assetbundleName": "chara_meiko",
+        "costVirtualCoin": 1000,
+        "costJewel": 1000,
+        "cheerPoint": 1000,
+        "effectAssetbundleName": "chara_meiko",
+        "effectExpressionType": "throw_effect"
+      },
+      {
+        "id": 44,
+        "virtualItemCategory": "normal",
+        "seq": 200,
+        "priority": 440,
+        "name": "アイスバー",
+        "assetbundleName": "chara_kaito",
+        "costVirtualCoin": 1000,
+        "costJewel": 1000,
+        "cheerPoint": 1000,
+        "effectAssetbundleName": "chara_kaito",
+        "effectExpressionType": "throw_effect"
+      }
+    ]
+  },
+  {
+    "id": 58,
+    "virtualLiveType": "normal",
+    "virtualLivePlatform": "v2",
+    "seq": 100,
+    "name": "HAPPY ANNIVERSARYライブ KAITO",
+    "assetbundleName": "vlentrance_00058",
+    "screenMvMusicVocalId": 29,
+    "startAt": 1613368800000,
+    "endAt": 1613627999000,
+    "rankingAnnounceAt": 4102412399000,
+    "virtualLiveSetlists": [
+      {
+        "id": 694,
+        "virtualLiveId": 58,
+        "seq": 1,
+        "virtualLiveSetlistType": "mc",
+        "assetbundleName": "mc_bd_2021kaito_1",
+        "virtualLiveStageId": 1
+      },
+      {
+        "id": 695,
+        "virtualLiveId": 58,
+        "seq": 2,
+        "virtualLiveSetlistType": "mc",
+        "assetbundleName": "mc_bd_2021kaito_2",
+        "virtualLiveStageId": 3
+      },
+      {
+        "id": 696,
+        "virtualLiveId": 58,
+        "seq": 3,
+        "virtualLiveSetlistType": "music",
+        "assetbundleName": "0021_furajiru",
+        "virtualLiveStageId": 3,
+        "musicId": 69,
+        "musicVocalId": 110,
+        "character3dId1": 155,
+        "character3dId2": 156
+      },
+      {
+        "id": 697,
+        "virtualLiveId": 58,
+        "seq": 4,
+        "virtualLiveSetlistType": "mc",
+        "assetbundleName": "mc_bd_2021kaito_3",
+        "virtualLiveStageId": 3
+      },
+      {
+        "id": 698,
+        "virtualLiveId": 58,
+        "seq": 5,
+        "virtualLiveSetlistType": "mc",
+        "assetbundleName": "mc_bd_2021kaito_4",
+        "virtualLiveStageId": 1
+      }
+    ],
+    "virtualLiveBeginnerSchedules": [],
+    "virtualLiveSchedules": [
+      {
+        "id": 1147,
+        "virtualLiveId": 58,
+        "seq": 1,
+        "startAt": 1613487600000,
+        "endAt": 1613488000000
+      },
+      {
+        "id": 1148,
+        "virtualLiveId": 58,
+        "seq": 2,
+        "startAt": 1613491200000,
+        "endAt": 1613491600000
+      },
+      {
+        "id": 1149,
+        "virtualLiveId": 58,
+        "seq": 3,
+        "startAt": 1613494800000,
+        "endAt": 1613495200000
+      },
+      {
+        "id": 1150,
+        "virtualLiveId": 58,
+        "seq": 4,
+        "startAt": 1613516400000,
+        "endAt": 1613516800000
+      },
+      {
+        "id": 1151,
+        "virtualLiveId": 58,
+        "seq": 5,
+        "startAt": 1613530800000,
+        "endAt": 1613531200000
+      },
+      {
+        "id": 1152,
+        "virtualLiveId": 58,
+        "seq": 6,
+        "startAt": 1613552400000,
+        "endAt": 1613552800000
+      },
+      {
+        "id": 1153,
+        "virtualLiveId": 58,
+        "seq": 7,
+        "startAt": 1613556000000,
+        "endAt": 1613556400000
+      },
+      {
+        "id": 1154,
+        "virtualLiveId": 58,
+        "seq": 8,
+        "startAt": 1613559600000,
+        "endAt": 1613560000000
+      },
+      {
+        "id": 1155,
+        "virtualLiveId": 58,
+        "seq": 9,
+        "startAt": 1613563200000,
+        "endAt": 1613563600000
+      },
+      {
+        "id": 1156,
+        "virtualLiveId": 58,
+        "seq": 10,
+        "startAt": 1613566800000,
+        "endAt": 1613567200000
+      },
+      {
+        "id": 1157,
+        "virtualLiveId": 58,
+        "seq": 11,
+        "startAt": 1613570400000,
+        "endAt": 1613570800000
+      }
+    ],
+    "virtualLiveCharacters": [
+      {
+        "id": 576,
+        "virtualLiveId": 58,
+        "gameCharacterUnitId": 21,
+        "seq": 1
+      },
+      {
+        "id": 577,
+        "virtualLiveId": 58,
+        "gameCharacterUnitId": 22,
+        "seq": 2
+      },
+      {
+        "id": 578,
+        "virtualLiveId": 58,
+        "gameCharacterUnitId": 23,
+        "seq": 3
+      },
+      {
+        "id": 579,
+        "virtualLiveId": 58,
+        "gameCharacterUnitId": 24,
+        "seq": 4
+      },
+      {
+        "id": 580,
+        "virtualLiveId": 58,
+        "gameCharacterUnitId": 25,
+        "seq": 5
+      },
+      {
+        "id": 581,
+        "virtualLiveId": 58,
+        "gameCharacterUnitId": 26,
+        "seq": 6
+      }
+    ],
+    "virtualLiveReward": {
+      "id": 67,
+      "virtualLiveType": "normal",
+      "virtualLiveId": 58,
+      "resourceBoxId": 47
+    },
+    "virtualLiveRewards": [
+      {
+        "id": 67,
+        "virtualLiveType": "normal",
+        "virtualLiveId": 58,
+        "resourceBoxId": 47
+      }
+    ],
+    "virtualLiveCheerPointRewards": [],
+    "virtualLiveWaitingRoom": {
+      "id": 58,
+      "virtualLiveId": 58,
+      "assetbundleName": "banner_specialLive_sample_01",
+      "startAt": 1613368800000,
+      "endAt": 1613627999000
+    },
+    "virtualItems": [
+      {
+        "id": 75,
+        "virtualItemCategory": "normal",
+        "seq": 750,
+        "priority": 750,
+        "name": "HAPPY ANNIVERSARY KAITO",
+        "assetbundleName": "chara_kaito_birthday",
+        "costVirtualCoin": 3000,
+        "costJewel": 3000,
+        "cheerPoint": 3000,
+        "effectAssetbundleName": "chara_kaito_birthday",
+        "effectExpressionType": "throw_effect",
+        "virtualItemLabelType": "special"
+      },
+      {
+        "id": 1,
+        "virtualItemCategory": "normal",
+        "seq": 10,
+        "priority": 10,
+        "name": "紙吹雪",
+        "assetbundleName": "cracker_001",
+        "costVirtualCoin": 100,
+        "costJewel": 100,
+        "cheerPoint": 100,
+        "effectAssetbundleName": "cracker_001",
+        "effectExpressionType": "throw_effect"
+      },
+      {
+        "id": 2,
+        "virtualItemCategory": "normal",
+        "seq": 20,
+        "priority": 20,
+        "name": "風船",
+        "assetbundleName": "baloon_001",
+        "costVirtualCoin": 300,
+        "costJewel": 300,
+        "cheerPoint": 300,
+        "effectAssetbundleName": "baloon_001",
+        "effectExpressionType": "throw_effect"
+      },
+      {
+        "id": 4,
+        "virtualItemCategory": "normal",
+        "seq": 40,
+        "priority": 40,
+        "name": "ハート",
+        "assetbundleName": "heart_001",
+        "costVirtualCoin": 500,
+        "costJewel": 500,
+        "cheerPoint": 500,
+        "effectAssetbundleName": "heart_001",
+        "effectExpressionType": "throw_effect"
+      },
+      {
+        "id": 5,
+        "virtualItemCategory": "spread",
+        "seq": 150,
+        "priority": 50,
+        "name": "レーザー",
+        "assetbundleName": "leser_all_001",
+        "costVirtualCoin": 1500,
+        "costJewel": 1500,
+        "cheerPoint": 1500,
+        "effectAssetbundleName": "leser_all_001",
+        "effectExpressionType": "throw_effect"
+      },
+      {
+        "id": 6,
+        "virtualItemCategory": "spread",
+        "seq": 170,
+        "priority": 60,
+        "name": "セカイの想い",
+        "assetbundleName": "sekai_all_001",
+        "costVirtualCoin": 10000,
+        "costJewel": 10000,
+        "cheerPoint": 10000,
+        "effectAssetbundleName": "sekai_all_001",
+        "effectExpressionType": "throw_effect"
+      },
+      {
+        "id": 8,
+        "virtualItemCategory": "spread",
+        "seq": 160,
+        "priority": 80,
+        "name": "雪",
+        "assetbundleName": "snow_all_001",
+        "costVirtualCoin": 3000,
+        "costJewel": 3000,
+        "cheerPoint": 3000,
+        "effectAssetbundleName": "snow_all_001",
+        "effectExpressionType": "throw_effect"
+      },
+      {
+        "id": 9,
+        "virtualItemCategory": "spread",
+        "seq": 110,
+        "priority": 100,
+        "name": "三つ葉のクローバー",
+        "assetbundleName": "unit_clover_morejump",
+        "costVirtualCoin": 1500,
+        "costJewel": 1500,
+        "cheerPoint": 1500,
+        "effectAssetbundleName": "unit_clover_morejump",
+        "effectExpressionType": "throw_effect"
+      },
+      {
+        "id": 10,
+        "virtualItemCategory": "spread",
+        "seq": 140,
+        "priority": 130,
+        "name": "割れたココロ",
+        "assetbundleName": "unit_heart_25night",
+        "costVirtualCoin": 1500,
+        "costJewel": 1500,
+        "cheerPoint": 1500,
+        "effectAssetbundleName": "unit_heart_25night",
+        "effectExpressionType": "throw_effect"
+      },
+      {
+        "id": 11,
+        "virtualItemCategory": "spread",
+        "seq": 130,
+        "priority": 120,
+        "name": "ショウの王冠",
+        "assetbundleName": "unit_king_wonder",
+        "costVirtualCoin": 1500,
+        "costJewel": 1500,
+        "cheerPoint": 1500,
+        "effectAssetbundleName": "unit_king_wonder",
+        "effectExpressionType": "throw_effect"
+      },
+      {
+        "id": 12,
+        "virtualItemCategory": "spread",
+        "seq": 90,
+        "priority": 140,
+        "name": "6人の音色",
+        "assetbundleName": "unit_sing_piapro",
+        "costVirtualCoin": 1500,
+        "costJewel": 1500,
+        "cheerPoint": 1500,
+        "effectAssetbundleName": "unit_sing_piapro",
+        "effectExpressionType": "throw_effect"
+      },
+      {
+        "id": 13,
+        "virtualItemCategory": "spread",
+        "seq": 100,
+        "priority": 90,
+        "name": "しし座流星群",
+        "assetbundleName": "unit_star_leoneed",
+        "costVirtualCoin": 1500,
+        "costJewel": 1500,
+        "cheerPoint": 1500,
+        "effectAssetbundleName": "unit_star_leoneed",
+        "effectExpressionType": "throw_effect"
+      },
+      {
+        "id": 14,
+        "virtualItemCategory": "spread",
+        "seq": 120,
+        "priority": 110,
+        "name": "レコードの落書き",
+        "assetbundleName": "unit_record_vivibad",
+        "costVirtualCoin": 1500,
+        "costJewel": 1500,
+        "cheerPoint": 1500,
+        "effectAssetbundleName": "unit_record_vivibad",
+        "effectExpressionType": "throw_effect"
+      },
+      {
+        "id": 15,
+        "virtualItemCategory": "normal",
+        "seq": 30,
+        "priority": 150,
+        "name": "打ち上げ花火",
+        "assetbundleName": "fireworks_rocket",
+        "costVirtualCoin": 300,
+        "costJewel": 300,
+        "cheerPoint": 300,
+        "effectAssetbundleName": "fireworks_rocket",
+        "effectExpressionType": "throw_effect"
+      },
+      {
+        "id": 18,
+        "virtualItemCategory": "normal",
+        "seq": 50,
+        "priority": 180,
+        "name": "尊いうちわ",
+        "assetbundleName": "uchiwa",
+        "costVirtualCoin": 500,
+        "costJewel": 500,
+        "cheerPoint": 500,
+        "effectAssetbundleName": "uchiwa",
+        "effectExpressionType": "throw_effect"
+      },
+      {
+        "id": 19,
+        "virtualItemCategory": "normal",
+        "seq": 250,
+        "priority": 190,
+        "name": "鳴り響くギター",
+        "assetbundleName": "chara_ichika",
+        "costVirtualCoin": 1000,
+        "costJewel": 1000,
+        "cheerPoint": 1000,
+        "effectAssetbundleName": "chara_ichika",
+        "effectExpressionType": "throw_effect"
+      },
+      {
+        "id": 20,
+        "virtualItemCategory": "normal",
+        "seq": 260,
+        "priority": 200,
+        "name": "元気な笑顔",
+        "assetbundleName": "chara_saki",
+        "costVirtualCoin": 1000,
+        "costJewel": 1000,
+        "cheerPoint": 1000,
+        "effectAssetbundleName": "chara_saki",
+        "effectExpressionType": "throw_effect"
+      },
+      {
+        "id": 21,
+        "virtualItemCategory": "normal",
+        "seq": 270,
+        "priority": 210,
+        "name": "絶品アップルパイ",
+        "assetbundleName": "chara_honami",
+        "costVirtualCoin": 1000,
+        "costJewel": 1000,
+        "cheerPoint": 1000,
+        "effectAssetbundleName": "chara_honami",
+        "effectExpressionType": "throw_effect"
+      },
+      {
+        "id": 22,
+        "virtualItemCategory": "normal",
+        "seq": 280,
+        "priority": 220,
+        "name": "あつあつラーメン",
+        "assetbundleName": "chara_shiho",
+        "costVirtualCoin": 1000,
+        "costJewel": 1000,
+        "cheerPoint": 1000,
+        "effectAssetbundleName": "chara_shiho",
+        "effectExpressionType": "throw_effect"
+      },
+      {
+        "id": 23,
+        "virtualItemCategory": "normal",
+        "seq": 290,
+        "priority": 230,
+        "name": "みのりんコール",
+        "assetbundleName": "chara_minori",
+        "costVirtualCoin": 1000,
+        "costJewel": 1000,
+        "cheerPoint": 1000,
+        "effectAssetbundleName": "chara_minori",
+        "effectExpressionType": "throw_effect"
+      },
+      {
+        "id": 24,
+        "virtualItemCategory": "normal",
+        "seq": 300,
+        "priority": 240,
+        "name": "応援ペンギン",
+        "assetbundleName": "chara_haruka",
+        "costVirtualCoin": 1000,
+        "costJewel": 1000,
+        "cheerPoint": 1000,
+        "effectAssetbundleName": "chara_haruka",
+        "effectExpressionType": "throw_effect"
+      },
+      {
+        "id": 25,
+        "virtualItemCategory": "normal",
+        "seq": 310,
+        "priority": 250,
+        "name": "ハートピーチ",
+        "assetbundleName": "chara_airi",
+        "costVirtualCoin": 1000,
+        "costJewel": 1000,
+        "cheerPoint": 1000,
+        "effectAssetbundleName": "chara_airi",
+        "effectExpressionType": "throw_effect"
+      },
+      {
+        "id": 26,
+        "virtualItemCategory": "normal",
+        "seq": 320,
+        "priority": 260,
+        "name": "なごみの声",
+        "assetbundleName": "chara_shizuku",
+        "costVirtualCoin": 1000,
+        "costJewel": 1000,
+        "cheerPoint": 1000,
+        "effectAssetbundleName": "chara_shizuku",
+        "effectExpressionType": "throw_effect"
+      },
+      {
+        "id": 27,
+        "virtualItemCategory": "normal",
+        "seq": 330,
+        "priority": 270,
+        "name": "ハムラップ",
+        "assetbundleName": "chara_kohane",
+        "costVirtualCoin": 1000,
+        "costJewel": 1000,
+        "cheerPoint": 1000,
+        "effectAssetbundleName": "chara_kohane",
+        "effectExpressionType": "throw_effect"
+      },
+      {
+        "id": 28,
+        "virtualItemCategory": "normal",
+        "seq": 340,
+        "priority": 280,
+        "name": "コーヒーアート",
+        "assetbundleName": "chara_an",
+        "costVirtualCoin": 1000,
+        "costJewel": 1000,
+        "cheerPoint": 1000,
+        "effectAssetbundleName": "chara_an",
+        "effectExpressionType": "throw_effect"
+      },
+      {
+        "id": 29,
+        "virtualItemCategory": "normal",
+        "seq": 350,
+        "priority": 290,
+        "name": "リバーシブル",
+        "assetbundleName": "chara_akito",
+        "costVirtualCoin": 1000,
+        "costJewel": 1000,
+        "cheerPoint": 1000,
+        "effectAssetbundleName": "chara_akito",
+        "effectExpressionType": "throw_effect"
+      },
+      {
+        "id": 30,
+        "virtualItemCategory": "normal",
+        "seq": 360,
+        "priority": 300,
+        "name": "山積みの蔵書",
+        "assetbundleName": "chara_toya",
+        "costVirtualCoin": 1000,
+        "costJewel": 1000,
+        "cheerPoint": 1000,
+        "effectAssetbundleName": "chara_toya",
+        "effectExpressionType": "throw_effect"
+      },
+      {
+        "id": 31,
+        "virtualItemCategory": "normal",
+        "seq": 370,
+        "priority": 310,
+        "name": "ショー☆スター",
+        "assetbundleName": "chara_tukasa",
+        "costVirtualCoin": 1000,
+        "costJewel": 1000,
+        "cheerPoint": 1000,
+        "effectAssetbundleName": "chara_tukasa",
+        "effectExpressionType": "throw_effect"
+      },
+      {
+        "id": 32,
+        "virtualItemCategory": "normal",
+        "seq": 380,
+        "priority": 320,
+        "name": "一緒にわんだほーい",
+        "assetbundleName": "chara_emu",
+        "costVirtualCoin": 1000,
+        "costJewel": 1000,
+        "cheerPoint": 1000,
+        "effectAssetbundleName": "chara_emu",
+        "effectExpressionType": "throw_effect"
+      },
+      {
+        "id": 33,
+        "virtualItemCategory": "normal",
+        "seq": 390,
+        "priority": 330,
+        "name": "ネネロボ発進！",
+        "assetbundleName": "chara_nene",
+        "costVirtualCoin": 1000,
+        "costJewel": 1000,
+        "cheerPoint": 1000,
+        "effectAssetbundleName": "chara_nene",
+        "effectExpressionType": "throw_effect"
+      },
+      {
+        "id": 34,
+        "virtualItemCategory": "normal",
+        "seq": 400,
+        "priority": 340,
+        "name": "ドローンマジック",
+        "assetbundleName": "chara_rui",
+        "costVirtualCoin": 1000,
+        "costJewel": 1000,
+        "cheerPoint": 1000,
+        "effectAssetbundleName": "chara_rui",
+        "effectExpressionType": "throw_effect"
+      },
+      {
+        "id": 35,
+        "virtualItemCategory": "normal",
+        "seq": 410,
+        "priority": 350,
+        "name": "即席カップ麵",
+        "assetbundleName": "chara_kanade",
+        "costVirtualCoin": 1000,
+        "costJewel": 1000,
+        "cheerPoint": 1000,
+        "effectAssetbundleName": "chara_kanade",
+        "effectExpressionType": "throw_effect"
+      },
+      {
+        "id": 36,
+        "virtualItemCategory": "normal",
+        "seq": 420,
+        "priority": 360,
+        "name": "消えたい気持ち",
+        "assetbundleName": "chara_mafuyu",
+        "costVirtualCoin": 1000,
+        "costJewel": 1000,
+        "cheerPoint": 1000,
+        "effectAssetbundleName": "chara_mafuyu",
+        "effectExpressionType": "throw_effect"
+      },
+      {
+        "id": 37,
+        "virtualItemCategory": "normal",
+        "seq": 430,
+        "priority": 370,
+        "name": "いいねマーク",
+        "assetbundleName": "chara_ena",
+        "costVirtualCoin": 1000,
+        "costJewel": 1000,
+        "cheerPoint": 1000,
+        "effectAssetbundleName": "chara_ena",
+        "effectExpressionType": "throw_effect"
+      },
+      {
+        "id": 38,
+        "virtualItemCategory": "normal",
+        "seq": 440,
+        "priority": 380,
+        "name": "可愛いリボン",
+        "assetbundleName": "chara_mizuki",
+        "costVirtualCoin": 1000,
+        "costJewel": 1000,
+        "cheerPoint": 1000,
+        "effectAssetbundleName": "chara_mizuki",
+        "effectExpressionType": "throw_effect"
+      },
+      {
+        "id": 39,
+        "virtualItemCategory": "normal",
+        "seq": 150,
+        "priority": 390,
+        "name": "ネギステッキ",
+        "assetbundleName": "chara_miku",
+        "costVirtualCoin": 1000,
+        "costJewel": 1000,
+        "cheerPoint": 1000,
+        "effectAssetbundleName": "chara_miku",
+        "effectExpressionType": "throw_effect"
+      },
+      {
+        "id": 40,
+        "virtualItemCategory": "normal",
+        "seq": 160,
+        "priority": 400,
+        "name": "はじけるミカン",
+        "assetbundleName": "chara_rin",
+        "costVirtualCoin": 1000,
+        "costJewel": 1000,
+        "cheerPoint": 1000,
+        "effectAssetbundleName": "chara_rin",
+        "effectExpressionType": "throw_effect"
+      },
+      {
+        "id": 41,
+        "virtualItemCategory": "normal",
+        "seq": 170,
+        "priority": 410,
+        "name": "おやつのバナナ",
+        "assetbundleName": "chara_len",
+        "costVirtualCoin": 1000,
+        "costJewel": 1000,
+        "cheerPoint": 1000,
+        "effectAssetbundleName": "chara_len",
+        "effectExpressionType": "throw_effect"
+      },
+      {
+        "id": 42,
+        "virtualItemCategory": "normal",
+        "seq": 180,
+        "priority": 420,
+        "name": "オオマさん",
+        "assetbundleName": "chara_luka",
+        "costVirtualCoin": 1000,
+        "costJewel": 1000,
+        "cheerPoint": 1000,
+        "effectAssetbundleName": "chara_luka",
+        "effectExpressionType": "throw_effect"
+      },
+      {
+        "id": 43,
+        "virtualItemCategory": "normal",
+        "seq": 190,
+        "priority": 430,
+        "name": "乾杯ワイン",
+        "assetbundleName": "chara_meiko",
+        "costVirtualCoin": 1000,
+        "costJewel": 1000,
+        "cheerPoint": 1000,
+        "effectAssetbundleName": "chara_meiko",
+        "effectExpressionType": "throw_effect"
+      },
+      {
+        "id": 44,
+        "virtualItemCategory": "normal",
+        "seq": 200,
+        "priority": 440,
+        "name": "アイスバー",
+        "assetbundleName": "chara_kaito",
+        "costVirtualCoin": 1000,
+        "costJewel": 1000,
+        "cheerPoint": 1000,
+        "effectAssetbundleName": "chara_kaito",
+        "effectExpressionType": "throw_effect"
+      }
+    ]
+  },
+  {
     "id": 10078,
     "virtualLiveType": "normal",
     "virtualLivePlatform": "v2",
