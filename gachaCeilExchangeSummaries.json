@@ -864,5 +864,83 @@
       }
     ],
     "gachaCeilItemId": 14
+  },
+  {
+    "id": 15,
+    "seq": 15,
+    "gachaId": 52,
+    "assetbundleName": "ab_gacha_52",
+    "startAt": 1613628000000,
+    "endAt": 1616911199000,
+    "gachaCeilExchanges": [
+      {
+        "id": 55,
+        "gachaCeilExchangeSummaryId": 15,
+        "seq": 1,
+        "resourceBoxId": 55,
+        "gachaCeilExchangeCost": {
+          "gachaCeilExchangeId": 55,
+          "gachaCeilItemId": 15,
+          "quantity": 300,
+          "resourceType": "gacha_ceil_item",
+          "resourceId": 15
+        }
+      },
+      {
+        "id": 56,
+        "gachaCeilExchangeSummaryId": 15,
+        "seq": 2,
+        "resourceBoxId": 56,
+        "gachaCeilExchangeCost": {
+          "gachaCeilExchangeId": 56,
+          "gachaCeilItemId": 15,
+          "quantity": 300,
+          "resourceType": "gacha_ceil_item",
+          "resourceId": 15
+        }
+      },
+      {
+        "id": 57,
+        "gachaCeilExchangeSummaryId": 15,
+        "seq": 3,
+        "resourceBoxId": 57,
+        "gachaCeilExchangeCost": {
+          "gachaCeilExchangeId": 57,
+          "gachaCeilItemId": 15,
+          "quantity": 300,
+          "resourceType": "gacha_ceil_item",
+          "resourceId": 15
+        }
+      },
+      {
+        "id": 58,
+        "gachaCeilExchangeSummaryId": 15,
+        "seq": 4,
+        "resourceBoxId": 58,
+        "exchangeLimit": 10,
+        "gachaCeilExchangeCost": {
+          "gachaCeilExchangeId": 58,
+          "gachaCeilItemId": 15,
+          "quantity": 10,
+          "resourceType": "gacha_ceil_item",
+          "resourceId": 15
+        }
+      },
+      {
+        "id": 59,
+        "gachaCeilExchangeSummaryId": 15,
+        "seq": 5,
+        "resourceBoxId": 59,
+        "exchangeLimit": 10,
+        "gachaCeilExchangeCost": {
+          "gachaCeilExchangeId": 59,
+          "gachaCeilItemId": 47,
+          "quantity": 1,
+          "resourceType": "material",
+          "resourceId": 47
+        }
+      }
+    ],
+    "gachaCeilItemId": 15
   }
 ]

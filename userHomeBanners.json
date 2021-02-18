@@ -20,24 +20,34 @@
     "endAt": 4102412399000
   },
   {
-    "homeBannerId": 83,
+    "homeBannerId": 89,
     "seq": 99,
-    "name": "[イベント]Period of NOCTURNE",
-    "assetbundleName": "event_nocturne_2021",
+    "name": "[イベント]響くトワイライトパレード",
+    "assetbundleName": "event_parade_2021",
     "transitionDestinationType": "event",
-    "transitionDestinationId": 12,
-    "startAt": 1612072800000,
-    "endAt": 1612850399000
+    "transitionDestinationId": 13,
+    "startAt": 1612850400000,
+    "endAt": 1613627999000
   },
   {
-    "homeBannerId": 84,
+    "homeBannerId": 90,
     "seq": 100,
-    "name": "ビビバスイベ2巡目_定常ガチャバナー",
-    "assetbundleName": "banner_gacha45",
+    "name": "シャフル遊園地イベ_定常ガチャバナー",
+    "assetbundleName": "banner_gacha48",
     "transitionDestinationType": "gacha",
-    "transitionDestinationId": 45,
-    "startAt": 1612072800000,
-    "endAt": 1612850399000
+    "transitionDestinationId": 48,
+    "startAt": 1612850400000,
+    "endAt": 1613627999000
+  },
+  {
+    "homeBannerId": 94,
+    "seq": 180,
+    "name": "HAPPY ANNIVERSARYライブ KAITO",
+    "assetbundleName": "banner_virtuallive58",
+    "transitionDestinationType": "virtual_live",
+    "transitionDestinationId": 58,
+    "startAt": 1613368800000,
+    "endAt": 1613627999000
   },
   {
     "homeBannerId": 95,
