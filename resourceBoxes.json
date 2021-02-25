@@ -442,6 +442,20 @@
     ]
   },
   {
+    "resourceBoxPurpose": "billing_shop_item",
+    "id": 33,
+    "resourceBoxType": "expand",
+    "details": [
+      {
+        "resourceBoxPurpose": "billing_shop_item",
+        "resourceBoxId": 33,
+        "seq": 1,
+        "resourceType": "live_point",
+        "resourceQuantity": 1000
+      }
+    ]
+  },
+  {
     "resourceBoxPurpose": "billing_shop_item_bonus",
     "id": 1,
     "resourceBoxType": "expand",
@@ -42228,6 +42242,35 @@
         "seq": 1,
         "resourceType": "music",
         "resourceId": 90,
+        "resourceQuantity": 1
+      }
+    ]
+  },
+  {
+    "resourceBoxPurpose": "gift_detail",
+    "id": 1047,
+    "resourceBoxType": "expand",
+    "details": [
+      {
+        "resourceBoxPurpose": "gift_detail",
+        "resourceBoxId": 1047,
+        "seq": 1,
+        "resourceType": "jewel",
+        "resourceQuantity": 200
+      }
+    ]
+  },
+  {
+    "resourceBoxPurpose": "gift_detail",
+    "id": 1048,
+    "resourceBoxType": "expand",
+    "details": [
+      {
+        "resourceBoxPurpose": "gift_detail",
+        "resourceBoxId": 1048,
+        "seq": 1,
+        "resourceType": "boost_item",
+        "resourceId": 2,
         "resourceQuantity": 1
       }
     ]

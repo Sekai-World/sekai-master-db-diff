@@ -16,6 +16,10 @@
     "value": "ライブPを一定ポイントためると報酬を獲得できます。\n\n■ひとりでライブ / みんなでライブ■\n 1回クリアする毎にライブPを<color=#ff55AA>1獲得</color>できます。\nライブボーナスを消費することで獲得量が増えます。\n \n■チャレンジライブ■\n1回クリアする毎にライブPを<color=#ff55AA>30獲得</color>できます。"
   },
   {
+    "wordingKey": "MSG_ACCESSORY_DEFAULT_HAIR",
+    "value": "「{0}　{1}」のマスターランクを\n2まであげると設定できます。"
+  },
+  {
     "wordingKey": "MSG_ADJUST_WITH_TAP",
     "value": "タップで調整"
   },
@@ -26,6 +30,10 @@
   {
     "wordingKey": "MSG_ADJUST_WITH_TAP_RESULT_BODY",
     "value": "自動調整結果で設定しますか？"
+  },
+  {
+    "wordingKey": "MSG_ALBUM_PERMISSION_NOT_GRANTED",
+    "value": "アルバムのアクセス権限がありません。\n端末の設定画面を開き、アクセスを許可してください。"
   },
   {
     "wordingKey": "MSG_ALL_UNLOCK_STORY",
@@ -688,6 +696,14 @@
     "value": "ステータスはレベルMAX、 \nスキルレベルMAX時のものです。"
   },
   {
+    "wordingKey": "MSG_MEMBER_DUPLICATE_CONFIRM",
+    "value": "上記メンバーは既に獲得済みですが、よろしいですか？"
+  },
+  {
+    "wordingKey": "MSG_MEMBER_DUPLICATE_CONFIRM_TIPS",
+    "value": "※獲得済みメンバーを入手した際は、控え室に送られます。"
+  },
+  {
     "wordingKey": "MSG_MEMBER_NOTHING",
     "value": "対象のメンバーがいません。"
   },
@@ -802,6 +818,10 @@
   {
     "wordingKey": "MSG_NEAR_RANKING",
     "value": "近くの順位"
+  },
+  {
+    "wordingKey": "MSG_NEED_SELECT_LIST_SETTING",
+    "value": "ガチャを引くにはセレクトリストの設定が必要です。\n\n<color=#ff5599>※すべてのメンバー枠を設定する必要があります。</color>"
   },
   {
     "wordingKey": "MSG_NGWORD_BALLOON",
@@ -1102,6 +1122,10 @@
   {
     "wordingKey": "MSG_SELECT_ACTION_FROM_BELOW",
     "value": "設定したいアクションを下から選んでください"
+  },
+  {
+    "wordingKey": "MSG_SELECT_LIST",
+    "value": "好きなメンバーを下から10人選んでください"
   },
   {
     "wordingKey": "MSG_SEND_WAIT_ROOM",
@@ -1428,6 +1452,22 @@
     "value": "ライブ衣装の変更が完了しました。"
   },
   {
+    "wordingKey": "MSG_WISH_LIST_CONFIRM",
+    "value": "未設定のメンバー枠があります。\nリストに10人設定するまで、セレクトリストガチャを\n引くことができません。\n空いている枠にメンバーをおまかせで設定しますか？"
+  },
+  {
+    "wordingKey": "MSG_WISH_LIST_CONFIRM_TIPS",
+    "value": "※セレクトリストは、\nガチャを引くまで何度でも変更できます。"
+  },
+  {
+    "wordingKey": "MSG_WISH_LIST_GACHA_RATE_NOTICE",
+    "value": "セレクトリストで選択されたメンバーが、提供される★4メンバーとして登場します。"
+  },
+  {
+    "wordingKey": "MSG_WISH_ONCE_LIMITED",
+    "value": "1回限定"
+  },
+  {
     "wordingKey": "MSG_YOUR_CHEER_POINT",
     "value": "あなたの応援P"
   },
@@ -1446,6 +1486,10 @@
   {
     "wordingKey": "MUSIC_ACHIEVEMENTS_REWARD_CLEAR",
     "value": "達成報酬"
+  },
+  {
+    "wordingKey": "TITLE_PERMISSION_NOT_GRANTED",
+    "value": "権限がありません"
   },
   {
     "wordingKey": "WORD_\bEXCHANGE_NUM",
@@ -1490,6 +1534,22 @@
   {
     "wordingKey": "WORD_ABORT",
     "value": "リタイア"
+  },
+  {
+    "wordingKey": "WORD_ACCESSORIES_CHANGE_CONFIRM_MESSAGE_1",
+    "value": "選択したアクセサリは設定中のヘアスタイルと\n同時に設定することができません。"
+  },
+  {
+    "wordingKey": "WORD_ACCESSORIES_CHANGE_CONFIRM_MESSAGE_2",
+    "value": "アクセサリに合わせて\nヘアスタイルを変更しますか？"
+  },
+  {
+    "wordingKey": "WORD_ACCESSORIES_CHANGE_CONFIRM_TITLE",
+    "value": "アクセサリ変更"
+  },
+  {
+    "wordingKey": "WORD_ACCESSORY_DEFAULT_HAIR",
+    "value": "設定条件"
   },
   {
     "wordingKey": "WORD_ACHIEVED",
@@ -2164,6 +2224,10 @@
     "value": "変更しない"
   },
   {
+    "wordingKey": "WORD_DO_SETTING",
+    "value": "設定する"
+  },
+  {
     "wordingKey": "WORD_DURING_SHOW",
     "value": "開演中！"
   },
@@ -2480,6 +2544,10 @@
     "value": "ガチャ説明"
   },
   {
+    "wordingKey": "WORD_GACHA_SELECT_LIST",
+    "value": "セレクトリストガチャ"
+  },
+  {
     "wordingKey": "WORD_GACHA_SUMMARY",
     "value": "ガチャ概要"
   },
@@ -2610,6 +2678,42 @@
   {
     "wordingKey": "WORD_GROWTH",
     "value": "育成"
+  },
+  {
+    "wordingKey": "WORD_HAIR",
+    "value": "ヘアスタイル"
+  },
+  {
+    "wordingKey": "WORD_HAIR_CHANGE_CONFIRM_MESSAGE_1",
+    "value": "選択したヘアスタイルは設定中のアクセサリと\n同時に設定することができません。"
+  },
+  {
+    "wordingKey": "WORD_HAIR_CHANGE_CONFIRM_MESSAGE_2",
+    "value": "アクセサリを外してヘアスタイルを変更しますか？"
+  },
+  {
+    "wordingKey": "WORD_HAIR_CHANGE_CONFIRM_TITLE",
+    "value": "ヘアスタイル変更"
+  },
+  {
+    "wordingKey": "WORD_HAIR_DETAIL",
+    "value": "ヘアスタイル詳細"
+  },
+  {
+    "wordingKey": "WORD_HAIR_DETAIL_ACCESSORIES_TITLE",
+    "value": "同時に設定できないアクセサリ"
+  },
+  {
+    "wordingKey": "WORD_HAIR_DETAIL_MESSAGE_1",
+    "value": "・「<color=#3FD5C8>{0}　{1}</color>」のマスターランクを2まであげると、ヘアスタイルが解放されます。"
+  },
+  {
+    "wordingKey": "WORD_HAIR_DETAIL_MESSAGE_2",
+    "value": "・「<color=#3FD5C8>{0}</color>」は<color=#3FD5C8>{1}</color>のみが設定できるヘアスタイルです。"
+  },
+  {
+    "wordingKey": "WORD_HAIR_DETAIL_MESSAGE_3",
+    "value": "・「<color=#3FD5C8>{0}</color>」は一部のアクセサリと同時に設定することができません。"
   },
   {
     "wordingKey": "WORD_HATED_FOOD",
@@ -2852,6 +2956,10 @@
     "value": "ライブ衣装獲得"
   },
   {
+    "wordingKey": "WORD_LIVE_COSTUME_HAIR_GET",
+    "value": "ヘアスタイル獲得"
+  },
+  {
     "wordingKey": "WORD_LIVE_COUNT",
     "value": "ライブ回数"
   },
@@ -3074,6 +3182,10 @@
   {
     "wordingKey": "WORD_MEMBER_DETAIL",
     "value": "メンバー詳細"
+  },
+  {
+    "wordingKey": "WORD_MEMBER_DUPLICATE_CONFIRM_TITLE",
+    "value": "メンバー設定確認"
   },
   {
     "wordingKey": "WORD_MEMBER_EDIT",
@@ -3344,6 +3456,10 @@
     "value": "開放"
   },
   {
+    "wordingKey": "WORD_OPEN_WINDOW",
+    "value": "開く"
+  },
+  {
     "wordingKey": "WORD_OPTION",
     "value": "オプション"
   },
@@ -3608,6 +3724,10 @@
     "value": "エリアアイテム交換"
   },
   {
+    "wordingKey": "WORD_PURCHASE_JEWEL",
+    "value": "有償クリスタルで購入"
+  },
+  {
     "wordingKey": "WORD_PURCHASE_LIMIT",
     "value": "購入上限"
   },
@@ -3844,6 +3964,10 @@
     "value": "選択"
   },
   {
+    "wordingKey": "WORD_SELECTED_MEMBER",
+    "value": "セレクトメンバー"
+  },
+  {
     "wordingKey": "WORD_SELECTING",
     "value": "選択中"
   },
@@ -3868,8 +3992,16 @@
     "value": "色選択へ"
   },
   {
+    "wordingKey": "WORD_SELECT_LIST",
+    "value": "セレクトリスト"
+  },
+  {
     "wordingKey": "WORD_SELECT_LIVE_COSTUME",
     "value": "ライブ衣装選択"
+  },
+  {
+    "wordingKey": "WORD_SELECT_MEMBER",
+    "value": "メンバーを選ぼう！"
   },
   {
     "wordingKey": "WORD_SELECT_RANK",
@@ -3894,6 +4026,10 @@
   {
     "wordingKey": "WORD_SETTING_UP",
     "value": "設定中"
+  },
+  {
+    "wordingKey": "WORD_SET_IT_LATER",
+    "value": "あとで設定"
   },
   {
     "wordingKey": "WORD_SHOP_AD",
@@ -4678,6 +4814,10 @@
   {
     "wordingKey": "WORD_WEEK_WED",
     "value": "(水)"
+  },
+  {
+    "wordingKey": "WORD_WISH_LIST_CONFIRM_TITLE",
+    "value": "メンバー未設定"
   },
   {
     "wordingKey": "WORD_WITHOUT_COSTUME",

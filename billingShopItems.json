@@ -85,7 +85,7 @@
   },
   {
     "id": 8,
-    "seq": 10,
+    "seq": 110,
     "billingShopItemType": "value_set",
     "billingProductGroupId": 8,
     "name": "ウェルカムセカイセットA",
@@ -100,7 +100,7 @@
   },
   {
     "id": 9,
-    "seq": 9,
+    "seq": 100,
     "billingShopItemType": "value_set",
     "billingProductGroupId": 9,
     "name": "ウェルカムセカイセットB",
@@ -115,7 +115,7 @@
   },
   {
     "id": 10,
-    "seq": 8,
+    "seq": 90,
     "billingShopItemType": "value_set",
     "billingProductGroupId": 10,
     "name": "ウェルカムセカイセットC",
@@ -130,7 +130,7 @@
   },
   {
     "id": 11,
-    "seq": 6,
+    "seq": 70,
     "billingShopItemType": "value_set",
     "billingProductGroupId": 15,
     "name": "お裁縫セット",
@@ -145,7 +145,7 @@
   },
   {
     "id": 12,
-    "seq": 5,
+    "seq": 60,
     "billingShopItemType": "value_set",
     "billingProductGroupId": 14,
     "name": "ミュージックカードセット",
@@ -160,7 +160,7 @@
   },
   {
     "id": 13,
-    "seq": 4,
+    "seq": 50,
     "billingShopItemType": "value_set",
     "billingProductGroupId": 11,
     "name": "スタンプ交換券セット",
@@ -191,7 +191,7 @@
   },
   {
     "id": 15,
-    "seq": 2,
+    "seq": 30,
     "billingShopItemType": "value_set",
     "billingProductGroupId": 21,
     "name": "コインセット",
@@ -206,10 +206,10 @@
   },
   {
     "id": 16,
-    "seq": 1,
+    "seq": 10,
     "billingShopItemType": "value_set",
     "billingProductGroupId": 12,
-    "name": "ライブP購入",
+    "name": "ライブP×100",
     "description": "ライブP×100",
     "billableLimitType": "live_point",
     "billableLimitValue": 8000,
@@ -296,7 +296,7 @@
   },
   {
     "id": 23,
-    "seq": 7,
+    "seq": 80,
     "billingShopItemType": "value_set",
     "billingProductGroupId": 23,
     "name": "初心者特訓セット",
@@ -439,7 +439,7 @@
   },
   {
     "id": 32,
-    "seq": 3,
+    "seq": 40,
     "billingShopItemType": "value_set",
     "billingProductGroupId": 32,
     "name": "育成応援セット",
@@ -451,5 +451,19 @@
     "resourceBoxId": 32,
     "bonusResourceBoxId": 21,
     "startAt": 1609426800000
+  },
+  {
+    "id": 33,
+    "seq": 20,
+    "billingShopItemType": "value_set",
+    "billingProductGroupId": 33,
+    "name": "ライブP×1000",
+    "description": "ライブP×1000",
+    "billableLimitType": "live_point",
+    "billableLimitValue": 8000,
+    "billableLimitResetIntervalType": "monthly",
+    "assetbundleName": "shop_33",
+    "resourceBoxId": 33,
+    "startAt": 1614232800000
   }
 ]
