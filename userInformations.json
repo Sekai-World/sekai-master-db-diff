@@ -4609,7 +4609,8 @@
     "platform": "all",
     "title": "お知らせの表示機能において一部想定と異なる挙動が発生している事象について",
     "path": "information/index.html?id=bug_menu_info_20210129_bg3s03jaLFJW",
-    "startAt": 1611907200000
+    "startAt": 1611907200000,
+    "endAt": 1614224999000
   },
   {
     "id": 352,
@@ -4890,7 +4891,8 @@
     "platform": "all",
     "title": "チャレンジライブのリザルト画面でイベントボーナスが表示されてしまう事象について",
     "path": "information/index.html?id=bug_challengelive_eventbonus_20210209_aAWEnb9sn4ng",
-    "startAt": 1612850400000
+    "startAt": 1612850400000,
+    "endAt": 1614224999000
   },
   {
     "id": 373,
@@ -5302,6 +5304,56 @@
     "startAt": 1614222000000,
     "endAt": 1615204799000,
     "bannerAssetbundleName": "banner_news_event14_PCwplmd03y8v6en"
+  },
+  {
+    "id": 417,
+    "seq": 1,
+    "displayOrder": 20200,
+    "informationType": "bug",
+    "informationTag": "bug",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "【2月25日12時50分追記】お知らせの表示機能において一部想定と異なる挙動が発生している事象について",
+    "path": "information/index.html?id=bug_menu_info_20210129_fix_aw03Ag9awiJL",
+    "startAt": 1614225000000,
+    "endAt": 1614538799000
+  },
+  {
+    "id": 418,
+    "seq": 1,
+    "displayOrder": 20210,
+    "informationType": "bug",
+    "informationTag": "bug",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "【2月25日12時50分追記】チャレンジライブのリザルト画面でイベントボーナスが表示されてしまう事象について",
+    "path": "information/index.html?id=bug_challengelive_eventbonus_20210209_fix_ASeomvav9wU",
+    "startAt": 1614225000000,
+    "endAt": 1614538799000
+  },
+  {
+    "id": 419,
+    "seq": 1,
+    "displayOrder": 20220,
+    "informationType": "bug",
+    "informationTag": "bug",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "ライブの楽曲選択における楽曲クリア情報の表示不具合について",
+    "path": "information/index.html?id=bug_live_clearinfo_20210225_bg0awkn8gAwkd",
+    "startAt": 1614225000000
+  },
+  {
+    "id": 420,
+    "seq": 1,
+    "displayOrder": 20230,
+    "informationType": "bug",
+    "informationTag": "bug",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "「みんなでライブ」における楽曲難易度の表示不具合について",
+    "path": "information/index.html?id=bug_multilive_musiclevel_20210225_bgAWP0gaa9GXHV",
+    "startAt": 1614225000000
   },
   {
     "id": 9298,
