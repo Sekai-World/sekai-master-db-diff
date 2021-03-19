@@ -20,26 +20,6 @@
     "endAt": 4102412399000
   },
   {
-    "homeBannerId": 102,
-    "seq": 99,
-    "name": "[イベント]スマイルオブドリーマー",
-    "assetbundleName": "event_dream_2021",
-    "transitionDestinationType": "event",
-    "transitionDestinationId": 15,
-    "startAt": 1614492000000,
-    "endAt": 1615355999000
-  },
-  {
-    "homeBannerId": 103,
-    "seq": 100,
-    "name": "ワンダショイベ3巡目_定常ガチャバナー",
-    "assetbundleName": "banner_gacha56",
-    "transitionDestinationType": "gacha",
-    "transitionDestinationId": 56,
-    "startAt": 1614492000000,
-    "endAt": 1615355999000
-  },
-  {
     "homeBannerId": 108,
     "seq": 200,
     "name": "プレミアムミッションパス",
@@ -48,5 +28,45 @@
     "transitionDestinationId": 414,
     "startAt": 1614524400000,
     "endAt": 1617202799000
+  },
+  {
+    "homeBannerId": 109,
+    "seq": 100,
+    "name": "[イベント]天馬さんちのひな祭り",
+    "assetbundleName": "event_hinamatsuri_2021",
+    "transitionDestinationType": "event",
+    "transitionDestinationId": 16,
+    "startAt": 1615356000000,
+    "endAt": 1616392799000
+  },
+  {
+    "homeBannerId": 110,
+    "seq": 110,
+    "name": "シャッフルひな祭りイベ_定常ガチャバナー",
+    "assetbundleName": "banner_gacha60",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 60,
+    "startAt": 1615356000000,
+    "endAt": 1616392799000
+  },
+  {
+    "homeBannerId": 111,
+    "seq": 120,
+    "name": "シャッフルひな祭りイベ_メンバー出現率UPガチャバナー",
+    "assetbundleName": "banner_gacha62",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 62,
+    "startAt": 1615615200000,
+    "endAt": 1616241599000
+  },
+  {
+    "homeBannerId": 113,
+    "seq": 140,
+    "name": "HAPPY BIRTHDAYライブ 愛莉",
+    "assetbundleName": "banner_virtuallive64",
+    "transitionDestinationType": "virtual_live",
+    "transitionDestinationId": 64,
+    "startAt": 1615960800000,
+    "endAt": 1616219999000
   }
 ]
