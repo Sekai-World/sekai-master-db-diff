@@ -37,7 +37,7 @@
   },
   {
     "configKey": "max_user_level",
-    "value": "200"
+    "value": "300"
   },
   {
     "configKey": "max_unit_level",
@@ -141,7 +141,7 @@
   },
   {
     "configKey": "multi_live_power_range_spread_second",
-    "value": "1000"
+    "value": "3000"
   },
   {
     "configKey": "multi_live_cutin_max_count",
@@ -190,6 +190,10 @@
   {
     "configKey": "photon_room_count_per_channel",
     "value": "100"
+  },
+  {
+    "configKey": "photon_room_count_per_channel_member_count",
+    "value": "5000"
   },
   {
     "configKey": "virtual_live_ranking_aggregate_second_before_end",
@@ -384,20 +388,100 @@
     "value": "60000"
   },
   {
-    "configKey": "private_room_expire_hour",
-    "value": "24"
-  },
-  {
-    "configKey": "private_room_max_room_no",
-    "value": "999999"
-  },
-  {
     "configKey": "private_room_attempt_range",
     "value": "10"
   },
   {
+    "configKey": "virtual_live_private_room_expire_hour",
+    "value": "24"
+  },
+  {
+    "configKey": "virtual_live_dummy_private_room_expire_minute",
+    "value": "10"
+  },
+  {
+    "configKey": "virtual_live_private_room_max_room_no",
+    "value": "999999"
+  },
+  {
+    "configKey": "multi_live_private_room_expire_hour",
+    "value": "1"
+  },
+  {
+    "configKey": "multi_live_dummy_private_room_expire_minute",
+    "value": "5"
+  },
+  {
+    "configKey": "multi_live_private_room_max_room_no",
+    "value": "99999"
+  },
+  {
     "configKey": "challenge_live_event_point_rate",
     "value": "120"
+  },
+  {
+    "configKey": "cheerful_carnival_live_win_point",
+    "value": "2"
+  },
+  {
+    "configKey": "cheerful_carnival_live_lose_point",
+    "value": "1"
+  },
+  {
+    "configKey": "cheerful_carnival_live_draw_point",
+    "value": "1"
+  },
+  {
+    "configKey": "cheerful_carnival_live_event_point_win",
+    "value": "0"
+  },
+  {
+    "configKey": "cheerful_carnival_live_event_point_life_bonus_rate",
+    "value": "0.05"
+  },
+  {
+    "configKey": "cheerful_carnival_announce_consecutive_win_count",
+    "value": "10"
+  },
+  {
+    "configKey": "cheerful_carnival_team_select_free_limit",
+    "value": "100000"
+  },
+  {
+    "configKey": "cheerful_carnival_team_select_solicitation_rate",
+    "value": "1.1"
+  },
+  {
+    "configKey": "cheerful_carnival_team_select_force_rate",
+    "value": "1.5"
+  },
+  {
+    "configKey": "cheerful_carnival_team_change_limit",
+    "value": "1"
+  },
+  {
+    "configKey": "cheerful_carnival_team_point_shard_count",
+    "value": "1000"
+  },
+  {
+    "configKey": "cheerful_carnival_live_able_alive_user_count",
+    "value": "0"
+  },
+  {
+    "configKey": "cheerful_carnival_announce_polling_sec",
+    "value": "30"
+  },
+  {
+    "configKey": "boost_present_receivable_limit",
+    "value": "3"
+  },
+  {
+    "configKey": "challenge_live_reset_play_days_day_of_week",
+    "value": "MONDAY"
+  },
+  {
+    "configKey": "multi_live_connection_timeout",
+    "value": "20000"
   },
   {
     "configKey": "friend_request_expire_hour",

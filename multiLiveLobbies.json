@@ -6,7 +6,8 @@
     "photonLobbyName": "0001",
     "matchingLogic": "random",
     "totalPower": 0,
-    "assetbundleName": "room1"
+    "assetbundleName": "room1",
+    "multiLiveLobbyType": "normal"
   },
   {
     "id": 2,
@@ -15,6 +16,27 @@
     "photonLobbyName": "0002",
     "matchingLogic": "power",
     "totalPower": 150000,
-    "assetbundleName": "room2"
+    "assetbundleName": "room2",
+    "multiLiveLobbyType": "normal"
+  },
+  {
+    "id": 3,
+    "seq": 3,
+    "name": "フリーマッチ",
+    "photonLobbyName": "publicFreeCheerfulParty",
+    "matchingLogic": "random",
+    "totalPower": 0,
+    "assetbundleName": "room1",
+    "multiLiveLobbyType": "cheerful_carnival"
+  },
+  {
+    "id": 4,
+    "seq": 4,
+    "name": "ベテランマッチ",
+    "photonLobbyName": "publicVeteranCheerfulParty_{SCALE_INDEX}",
+    "matchingLogic": "power",
+    "totalPower": 150000,
+    "assetbundleName": "room2",
+    "multiLiveLobbyType": "cheerful_carnival"
   }
 ]

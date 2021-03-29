@@ -2308,6 +2308,18 @@
         "level": 3,
         "bonus": 0,
         "description": "全ての難易度で50曲クリアしよう。"
+      },
+      {
+        "honorId": 119,
+        "level": 4,
+        "bonus": 0,
+        "description": "全ての難易度で60曲クリアしよう。"
+      },
+      {
+        "honorId": 119,
+        "level": 5,
+        "bonus": 0,
+        "description": "全ての難易度で70曲クリアしよう。"
       }
     ]
   },
@@ -2336,6 +2348,18 @@
         "level": 3,
         "bonus": 0,
         "description": "難易度MASTERで50曲フルコンボでクリアしよう。"
+      },
+      {
+        "honorId": 123,
+        "level": 4,
+        "bonus": 0,
+        "description": "難易度MASTERで60曲フルコンボでクリアしよう。"
+      },
+      {
+        "honorId": 123,
+        "level": 5,
+        "bonus": 0,
+        "description": "難易度MASTERで70曲フルコンボでクリアしよう。"
       }
     ]
   },
@@ -2364,6 +2388,18 @@
         "level": 3,
         "bonus": 0,
         "description": "難易度MASTERで50曲ALL PERFECTでクリアしよう。"
+      },
+      {
+        "honorId": 126,
+        "level": 4,
+        "bonus": 0,
+        "description": "難易度MASTERで60曲ALL PERFECTでクリアしよう。"
+      },
+      {
+        "honorId": 126,
+        "level": 5,
+        "bonus": 0,
+        "description": "難易度MASTERで70曲ALL PERFECTでクリアしよう。"
       }
     ]
   },
@@ -2443,7 +2479,7 @@
         "honorId": 131,
         "level": 1,
         "bonus": 10,
-        "description": "5人全員でフルコンボをして｢みんなでライブ｣をクリアしよう。"
+        "description": "5人全員でフルコンボをして｢みんなでライブ・チアフルライブ｣をクリアしよう。"
       }
     ]
   },
@@ -2475,7 +2511,7 @@
         "honorId": 133,
         "level": 1,
         "bonus": 10,
-        "description": "｢みんなでライブ｣で5人全員の称号が一致させよう。"
+        "description": "｢みんなでライブ・チアフルライブ｣で5人全員の称号が一致させよう。"
       }
     ]
   },
@@ -2491,7 +2527,7 @@
         "honorId": 134,
         "level": 1,
         "bonus": 10,
-        "description": "｢みんなでライブ｣でスタンプを1000回押そう。"
+        "description": "｢みんなでライブ・チアフルライブ｣でスタンプを1000回押そう。"
       }
     ]
   },
@@ -8171,7 +8207,7 @@
         "honorId": 534,
         "level": 1,
         "bonus": 0,
-        "description": "フレンド5人で「みんなでライブ」を1回プレイしよう。"
+        "description": "フレンド5人で「みんなでライブ・チアフルライブ」を1回プレイしよう。"
       }
     ]
   },
@@ -10124,6 +10160,406 @@
         "level": 1,
         "bonus": 0,
         "description": "イベント「届け！HOPEFUL STAGE♪」で100000位以内になろう。"
+      }
+    ]
+  },
+  {
+    "id": 657,
+    "seq": 101801,
+    "groupId": 131,
+    "honorRarity": "highest",
+    "name": "1位",
+    "assetbundleName": "honor_0657",
+    "levels": [
+      {
+        "honorId": 657,
+        "level": 1,
+        "bonus": 0,
+        "description": "イベント「君と歌う、桜舞う世界で」で1位になろう。"
+      }
+    ]
+  },
+  {
+    "id": 658,
+    "seq": 101802,
+    "groupId": 131,
+    "honorRarity": "highest",
+    "name": "2位",
+    "assetbundleName": "honor_0658",
+    "levels": [
+      {
+        "honorId": 658,
+        "level": 1,
+        "bonus": 0,
+        "description": "イベント「君と歌う、桜舞う世界で」で2位になろう。"
+      }
+    ]
+  },
+  {
+    "id": 659,
+    "seq": 101803,
+    "groupId": 131,
+    "honorRarity": "highest",
+    "name": "3位",
+    "assetbundleName": "honor_0659",
+    "levels": [
+      {
+        "honorId": 659,
+        "level": 1,
+        "bonus": 0,
+        "description": "イベント「君と歌う、桜舞う世界で」で3位になろう。"
+      }
+    ]
+  },
+  {
+    "id": 660,
+    "seq": 101804,
+    "groupId": 131,
+    "honorRarity": "highest",
+    "name": "TOP10",
+    "assetbundleName": "honor_0660",
+    "levels": [
+      {
+        "honorId": 660,
+        "level": 1,
+        "bonus": 0,
+        "description": "イベント「君と歌う、桜舞う世界で」で10位以内になろう。"
+      }
+    ]
+  },
+  {
+    "id": 661,
+    "seq": 101805,
+    "groupId": 131,
+    "honorRarity": "high",
+    "name": "TOP20",
+    "assetbundleName": "honor_0661",
+    "levels": [
+      {
+        "honorId": 661,
+        "level": 1,
+        "bonus": 0,
+        "description": "イベント「君と歌う、桜舞う世界で」で20位以内になろう。"
+      }
+    ]
+  },
+  {
+    "id": 662,
+    "seq": 101806,
+    "groupId": 131,
+    "honorRarity": "high",
+    "name": "TOP30",
+    "assetbundleName": "honor_0662",
+    "levels": [
+      {
+        "honorId": 662,
+        "level": 1,
+        "bonus": 0,
+        "description": "イベント「君と歌う、桜舞う世界で」で30位以内になろう。"
+      }
+    ]
+  },
+  {
+    "id": 663,
+    "seq": 101807,
+    "groupId": 131,
+    "honorRarity": "high",
+    "name": "TOP40",
+    "assetbundleName": "honor_0663",
+    "levels": [
+      {
+        "honorId": 663,
+        "level": 1,
+        "bonus": 0,
+        "description": "イベント「君と歌う、桜舞う世界で」で40位以内になろう。"
+      }
+    ]
+  },
+  {
+    "id": 664,
+    "seq": 101808,
+    "groupId": 131,
+    "honorRarity": "high",
+    "name": "TOP50",
+    "assetbundleName": "honor_0664",
+    "levels": [
+      {
+        "honorId": 664,
+        "level": 1,
+        "bonus": 0,
+        "description": "イベント「君と歌う、桜舞う世界で」で50位以内になろう。"
+      }
+    ]
+  },
+  {
+    "id": 665,
+    "seq": 101809,
+    "groupId": 131,
+    "honorRarity": "high",
+    "name": "TOP100",
+    "assetbundleName": "honor_0665",
+    "levels": [
+      {
+        "honorId": 665,
+        "level": 1,
+        "bonus": 0,
+        "description": "イベント「君と歌う、桜舞う世界で」で100位以内になろう。"
+      }
+    ]
+  },
+  {
+    "id": 666,
+    "seq": 101810,
+    "groupId": 131,
+    "honorRarity": "high",
+    "name": "TOP200",
+    "assetbundleName": "honor_0666",
+    "levels": [
+      {
+        "honorId": 666,
+        "level": 1,
+        "bonus": 0,
+        "description": "イベント「君と歌う、桜舞う世界で」で200位以内になろう。"
+      }
+    ]
+  },
+  {
+    "id": 667,
+    "seq": 101811,
+    "groupId": 131,
+    "honorRarity": "high",
+    "name": "TOP300",
+    "assetbundleName": "honor_0667",
+    "levels": [
+      {
+        "honorId": 667,
+        "level": 1,
+        "bonus": 0,
+        "description": "イベント「君と歌う、桜舞う世界で」で300位以内になろう。"
+      }
+    ]
+  },
+  {
+    "id": 668,
+    "seq": 101812,
+    "groupId": 131,
+    "honorRarity": "high",
+    "name": "TOP400",
+    "assetbundleName": "honor_0668",
+    "levels": [
+      {
+        "honorId": 668,
+        "level": 1,
+        "bonus": 0,
+        "description": "イベント「君と歌う、桜舞う世界で」で400位以内になろう。"
+      }
+    ]
+  },
+  {
+    "id": 669,
+    "seq": 101813,
+    "groupId": 131,
+    "honorRarity": "high",
+    "name": "TOP500",
+    "assetbundleName": "honor_0669",
+    "levels": [
+      {
+        "honorId": 669,
+        "level": 1,
+        "bonus": 0,
+        "description": "イベント「君と歌う、桜舞う世界で」で500位以内になろう。"
+      }
+    ]
+  },
+  {
+    "id": 670,
+    "seq": 101814,
+    "groupId": 131,
+    "honorRarity": "high",
+    "name": "TOP1000",
+    "assetbundleName": "honor_0670",
+    "levels": [
+      {
+        "honorId": 670,
+        "level": 1,
+        "bonus": 0,
+        "description": "イベント「君と歌う、桜舞う世界で」で1000位以内になろう。"
+      }
+    ]
+  },
+  {
+    "id": 671,
+    "seq": 101815,
+    "groupId": 131,
+    "honorRarity": "middle",
+    "name": "TOP2000",
+    "assetbundleName": "honor_0671",
+    "levels": [
+      {
+        "honorId": 671,
+        "level": 1,
+        "bonus": 0,
+        "description": "イベント「君と歌う、桜舞う世界で」で2000位以内になろう。"
+      }
+    ]
+  },
+  {
+    "id": 672,
+    "seq": 101816,
+    "groupId": 131,
+    "honorRarity": "middle",
+    "name": "TOP3000",
+    "assetbundleName": "honor_0672",
+    "levels": [
+      {
+        "honorId": 672,
+        "level": 1,
+        "bonus": 0,
+        "description": "イベント「君と歌う、桜舞う世界で」で3000位以内になろう。"
+      }
+    ]
+  },
+  {
+    "id": 673,
+    "seq": 101817,
+    "groupId": 131,
+    "honorRarity": "middle",
+    "name": "TOP4000",
+    "assetbundleName": "honor_0673",
+    "levels": [
+      {
+        "honorId": 673,
+        "level": 1,
+        "bonus": 0,
+        "description": "イベント「君と歌う、桜舞う世界で」で4000位以内になろう。"
+      }
+    ]
+  },
+  {
+    "id": 674,
+    "seq": 101818,
+    "groupId": 131,
+    "honorRarity": "middle",
+    "name": "TOP5000",
+    "assetbundleName": "honor_0674",
+    "levels": [
+      {
+        "honorId": 674,
+        "level": 1,
+        "bonus": 0,
+        "description": "イベント「君と歌う、桜舞う世界で」で5000位以内になろう。"
+      }
+    ]
+  },
+  {
+    "id": 675,
+    "seq": 101819,
+    "groupId": 131,
+    "honorRarity": "middle",
+    "name": "TOP10000",
+    "assetbundleName": "honor_0675",
+    "levels": [
+      {
+        "honorId": 675,
+        "level": 1,
+        "bonus": 0,
+        "description": "イベント「君と歌う、桜舞う世界で」で10000位以内になろう。"
+      }
+    ]
+  },
+  {
+    "id": 676,
+    "seq": 101820,
+    "groupId": 131,
+    "honorRarity": "low",
+    "name": "TOP20000",
+    "assetbundleName": "honor_0676",
+    "levels": [
+      {
+        "honorId": 676,
+        "level": 1,
+        "bonus": 0,
+        "description": "イベント「君と歌う、桜舞う世界で」で20000位以内になろう。"
+      }
+    ]
+  },
+  {
+    "id": 677,
+    "seq": 101821,
+    "groupId": 131,
+    "honorRarity": "low",
+    "name": "TOP30000",
+    "assetbundleName": "honor_0677",
+    "levels": [
+      {
+        "honorId": 677,
+        "level": 1,
+        "bonus": 0,
+        "description": "イベント「君と歌う、桜舞う世界で」で30000位以内になろう。"
+      }
+    ]
+  },
+  {
+    "id": 678,
+    "seq": 101822,
+    "groupId": 131,
+    "honorRarity": "low",
+    "name": "TOP40000",
+    "assetbundleName": "honor_0678",
+    "levels": [
+      {
+        "honorId": 678,
+        "level": 1,
+        "bonus": 0,
+        "description": "イベント「君と歌う、桜舞う世界で」で40000位以内になろう。"
+      }
+    ]
+  },
+  {
+    "id": 679,
+    "seq": 101823,
+    "groupId": 131,
+    "honorRarity": "low",
+    "name": "TOP50000",
+    "assetbundleName": "honor_0679",
+    "levels": [
+      {
+        "honorId": 679,
+        "level": 1,
+        "bonus": 0,
+        "description": "イベント「君と歌う、桜舞う世界で」で50000位以内になろう。"
+      }
+    ]
+  },
+  {
+    "id": 680,
+    "seq": 101824,
+    "groupId": 131,
+    "honorRarity": "low",
+    "name": "TOP100000",
+    "assetbundleName": "honor_0680",
+    "levels": [
+      {
+        "honorId": 680,
+        "level": 1,
+        "bonus": 0,
+        "description": "イベント「君と歌う、桜舞う世界で」で100000位以内になろう。"
+      }
+    ]
+  },
+  {
+    "id": 729,
+    "seq": 1082,
+    "groupId": 134,
+    "honorRarity": "middle",
+    "name": "ダイヤモンド",
+    "assetbundleName": "honor_0729",
+    "levels": [
+      {
+        "honorId": 729,
+        "level": 1,
+        "bonus": 10,
+        "description": "ランクを300まで上げよう。"
       }
     ]
   }

@@ -8,6 +8,14 @@
     "value": "{0}位"
   },
   {
+    "wordingKey": "MEG_VERSUS_MATCH_TIMEOUT",
+    "value": "相手が見つからなかったため、ライブTOPに戻ります。"
+  },
+  {
+    "wordingKey": "MEG_VERSUS_MATCH_TIMEOUT_PRIVATE",
+    "value": "相手が見つかりませんでした。マッチングに戻りますか？"
+  },
+  {
     "wordingKey": "MSG_ABOUT_LIVE_POINT",
     "value": "ライブミッションについて"
   },
@@ -144,6 +152,30 @@
     "value": "{0}でチャレンジライブに\n挑戦できるようになりました。"
   },
   {
+    "wordingKey": "MSG_CHALLENGE_PLAY_DAY_REWARD_GET",
+    "value": "報酬獲得"
+  },
+  {
+    "wordingKey": "MSG_CHALLENGE_PLAY_DAY_REWARD_INFO",
+    "value": "<color=#ff5599>※毎週月曜日4時にスタンプはリセットされます。</color>"
+  },
+  {
+    "wordingKey": "MSG_CHALLENGE_PLAY_DAY_REWARD_RESET",
+    "value": "月曜日4時にリセット"
+  },
+  {
+    "wordingKey": "MSG_CHALLENGE_PLAY_DAY_REWARD_SELECT",
+    "value": "受け取る報酬を1つ選んでください。"
+  },
+  {
+    "wordingKey": "MSG_CHALLENGE_PLAY_DAY_REWARD_SELECT_CONFIRM",
+    "value": "{0}x{1}\nこの報酬を受け取ります。よろしいですか？"
+  },
+  {
+    "wordingKey": "MSG_CHALLENGE_PLAY_DAY_REWARD_SELECT_INFO",
+    "value": "{0}個スタンプが押されると、報酬を1つ選択できます。"
+  },
+  {
     "wordingKey": "MSG_CHANGE_DAY",
     "value": "日付が更新されました。\nタイトルに戻ります。"
   },
@@ -158,6 +190,18 @@
   {
     "wordingKey": "MSG_CHEAT_MULTILIVE",
     "value": "不正行為が検出されたため、\n今回のライブ結果が無効になります。\n\n不正行為が再度検出された場合、\nアカウントが停止される可能性があります。"
+  },
+  {
+    "wordingKey": "MSG_CHEERFUL_CARNIVAL_CHECK_JOIN_TEAM",
+    "value": "<color=#ff5588>「{0}」</color>グループに決定します。\nよろしいですか？"
+  },
+  {
+    "wordingKey": "MSG_CHEERFUL_CARNIVAL_TEAM_CHANGE_FIRST",
+    "value": "えーん……あ、あなたも、友達とはぐれちゃったの？\nこれから友達がいるグループにいこうと思うけど、\n一緒にいく？"
+  },
+  {
+    "wordingKey": "MSG_CHEERFUL_CARNIVAL_TEAM_CHANGE_SECOND",
+    "value": "グループは１度しか変えられないみたい。\n本当に「{0}」グループにいっても大丈夫？"
   },
   {
     "wordingKey": "MSG_CLOSE_EVENT_EXCHANGE",
@@ -324,6 +368,18 @@
     "value": "アップデートする"
   },
   {
+    "wordingKey": "MSG_EMPTY_STAMP_DEFAULT",
+    "value": "表示できるスタンプがありません。"
+  },
+  {
+    "wordingKey": "MSG_EMPTY_STAMP_FAVORITE",
+    "value": "お気に入りに設定しているスタンプがありません。"
+  },
+  {
+    "wordingKey": "MSG_EMPTY_STAMP_HISTORY",
+    "value": "スタンプを利用した履歴がありません。"
+  },
+  {
     "wordingKey": "MSG_ENTRY_CONFIRMATION",
     "value": "このライブには参加したことがあるため、\n参加報酬はもらえません。\nまた、応援Pや関連ミッションもカウントされません。\n\nバーチャルライブに参加しますか？"
   },
@@ -366,6 +422,10 @@
   {
     "wordingKey": "MSG_ERROR_TO_TITLE",
     "value": "エラーが発生しました。 タイトルへ戻ります。"
+  },
+  {
+    "wordingKey": "MSG_EVENT_INITIALIZE_ERROR",
+    "value": "イベントデータの取得に失敗したか、\nこのイベントは終了しています。"
   },
   {
     "wordingKey": "MSG_EVENT_LIVE_BOOST_EXCEPTION",
@@ -504,6 +564,10 @@
     "value": "{0}回<size=32>引く(有償)</size>"
   },
   {
+    "wordingKey": "MSG_GIVE_LIVE_BONUS",
+    "value": "<color=#ff5599>{0}</color>から\nライブボーナス×{1}をプレゼントされました。"
+  },
+  {
     "wordingKey": "MSG_HIGH_SCORE_COMPLETE_REWARD",
     "value": "ハイスコア<color=#FF55AA>{0}</color>の達成報酬"
   },
@@ -556,12 +620,20 @@
     "value": "開演中！"
   },
   {
+    "wordingKey": "MSG_JOINED_GROUP_REWARD",
+    "value": "グループのアバター衣装を獲得しました。"
+  },
+  {
     "wordingKey": "MSG_LANE_ALPHA",
     "value": "レーンの不透明度"
   },
   {
     "wordingKey": "MSG_LATEST_LIVE",
     "value": "最新のライブ"
+  },
+  {
+    "wordingKey": "MSG_LB_RECEIVE_LIMIT",
+    "value": "相手の受け取り回数が上限に達したため、\nライブボーナスをプレゼントできませんでした。"
   },
   {
     "wordingKey": "MSG_LEADER_SETTING",
@@ -578,6 +650,10 @@
   {
     "wordingKey": "MSG_LIVE_BONUS_MAX",
     "value": "ライブボーナスMAX"
+  },
+  {
+    "wordingKey": "MSG_LIVE_BONUS_PRESENT_SELECT_PLAYER",
+    "value": "プレゼントしたいプレイヤーを選んでください。"
   },
   {
     "wordingKey": "MSG_LIVE_BOOST_AUTO_USE_CONFIRMATION",
@@ -714,6 +790,10 @@
   {
     "wordingKey": "MSG_MEMBER_NOT_ENOUGH_CAUTION",
     "value": "ライブスタートにはメンバーが5人必要です。"
+  },
+  {
+    "wordingKey": "MSG_MEMBER_OUT_RESTART_MATCHING",
+    "value": "メンバーが切断したため、マッチングに戻ります。"
   },
   {
     "wordingKey": "MSG_MEMBER_SCORE",
@@ -928,6 +1008,10 @@
     "value": "開催中のイベントはありません。"
   },
   {
+    "wordingKey": "MSG_NOT_PLAYABLE_EVENT",
+    "value": "イベント期間が終了しました。"
+  },
+  {
     "wordingKey": "MSG_NOT_RESULT_CONFIRM_NOW",
     "value": "現在確認できる結果がありません。"
   },
@@ -944,12 +1028,28 @@
     "value": "対象イベントがありません。"
   },
   {
+    "wordingKey": "MSG_NO_CONTEST_REASON_CHEET",
+    "value": "不正行為が検出されたため\n今回のライブ結果が無効になります。\n\n不正行為が再度検出された場合\nアカウントが停止される可能性があります。"
+  },
+  {
+    "wordingKey": "MSG_NO_CONTEST_REASON_DISSCONECT",
+    "value": "切断により、ライブクリアした\nプレイヤー数が足りていないため\n勝敗結果が無効になりました。"
+  },
+  {
+    "wordingKey": "MSG_NO_CONTEST_REASON_INVALID",
+    "value": "他のプレイヤーの不正行為が検出されたため\n勝敗結果が無効になりました。"
+  },
+  {
     "wordingKey": "MSG_NO_FILTERING_RESULT",
     "value": "絞り込み結果がありません。"
   },
   {
     "wordingKey": "MSG_NO_VIRTUAL_LIVE",
     "value": "開催予定のバーチャルライブはありません。"
+  },
+  {
+    "wordingKey": "MSG_ONCE_AGAIN_LIVE",
+    "value": "このメンバーで\nもう一度ライブしますか？"
   },
   {
     "wordingKey": "MSG_ONCE_A_DAY",
@@ -1085,7 +1185,7 @@
   },
   {
     "wordingKey": "MSG_RESTRICT_MULTILIVE",
-    "value": "他のお客様に迷惑がかかる行為が検出されたため、\nみんなでライブ機能を一時制限させて頂きます。"
+    "value": "他のお客様に迷惑がかかる行為が検出されたため、\n複数プレイヤーによるライブ機能を一時制限させて頂きます。"
   },
   {
     "wordingKey": "MSG_REST_UNLOCK_STORY",
@@ -1094,6 +1194,10 @@
   {
     "wordingKey": "MSG_REST_VALUE",
     "value": "あと{0}"
+  },
+  {
+    "wordingKey": "MSG_RESULT_ALREADY_DISCONNECT_HOME",
+    "value": "既に切断されていたため\nホームへ戻ります。"
   },
   {
     "wordingKey": "MSG_REWARD_SCALE",
@@ -1280,6 +1384,10 @@
     "value": "お気に入りに設定したいスタンプを下から選んでください"
   },
   {
+    "wordingKey": "MSG_START_CHEERFUL_CARNIVAL_EVENT_ANNOUNCE",
+    "value": "新しいイベントが開催されました。\nみんなでライブがチアフルライブに切り替わるため、\n一度ホームに戻ります。"
+  },
+  {
     "wordingKey": "MSG_STORY_SKIP_BODY",
     "value": "ストーリーをスキップしますか？"
   },
@@ -1430,6 +1538,14 @@
   {
     "wordingKey": "MSG_WAITING_ROOM_GOT_MATERIAL",
     "value": "{0}を{1}個獲得しました。\n"
+  },
+  {
+    "wordingKey": "MSG_WAIT_MATCH_START",
+    "value": "相手チームとのマッチングまでお待ちください"
+  },
+  {
+    "wordingKey": "MSG_WAIT_PRIVATE_ROOM_MATCH_START",
+    "value": "準備完了してお待ちください"
   },
   {
     "wordingKey": "MSG_WEARABLE_MEMBER_1",
@@ -1680,6 +1796,10 @@
     "value": "ショップ"
   },
   {
+    "wordingKey": "WORD_AROUND_DATE_TIME",
+    "value": "{0:00}/{1:00}\n{2}時頃"
+  },
+  {
     "wordingKey": "WORD_ARRANGER",
     "value": "編曲"
   },
@@ -1828,6 +1948,14 @@
     "value": "チャレンジライブ解放"
   },
   {
+    "wordingKey": "WORD_CHALLENGE_PLAY_DAY_REWARD",
+    "value": "今週のチャレンジスタンプ報酬"
+  },
+  {
+    "wordingKey": "WORD_CHALLENGE_PLAY_DAY_REWARD_TITLE",
+    "value": "今週のチャレンジスタンプ"
+  },
+  {
     "wordingKey": "WORD_CHALLENGE_STAGE",
     "value": "チャレンジステージ"
   },
@@ -1918,6 +2046,46 @@
   {
     "wordingKey": "WORD_CHARA_TICKET_STAR_THREE",
     "value": "★３メンバー"
+  },
+  {
+    "wordingKey": "WORD_CHEERFUL_CARNIVAL_CHECK_JOIN_TEAM",
+    "value": "グループ選択"
+  },
+  {
+    "wordingKey": "WORD_CHEERFUL_CARNIVAL_FREE_MATCH",
+    "value": "フリーマッチ"
+  },
+  {
+    "wordingKey": "WORD_CHEERFUL_CARNIVAL_FREE_MATCH_DESC",
+    "value": "グループ毎にチームを組んで5vs5ライブ"
+  },
+  {
+    "wordingKey": "WORD_CHEERFUL_CARNIVAL_LIVE",
+    "value": "チアフル\nライブ"
+  },
+  {
+    "wordingKey": "WORD_CHEERFUL_CARNIVAL_TEAM_CHANGE",
+    "value": "グループ変更"
+  },
+  {
+    "wordingKey": "WORD_CHEERFUL_CARNIVAL_TEAM_CHANGE_EXPIRED",
+    "value": "グループ変更可能の期限が過ぎました。"
+  },
+  {
+    "wordingKey": "WORD_CHEERFUL_CARNIVAL_TEAM_CHANGE_OBJECT",
+    "value": "迷子のぬいぐるみ"
+  },
+  {
+    "wordingKey": "WORD_CHEERFUL_CARNIVAL_VETERAN_MATCH",
+    "value": "ベテランマッチ"
+  },
+  {
+    "wordingKey": "WORD_CHEERFUL_CARNIVAL_VETERAN_MATCH_DESC",
+    "value": "総合力が高いプレイヤー同士で5vs5ライブ"
+  },
+  {
+    "wordingKey": "WORD_CHEERFUL_MATCHING",
+    "value": "チアフルライブマッチング"
   },
   {
     "wordingKey": "WORD_CHEER_MESSAGE",
@@ -2140,6 +2308,10 @@
     "value": "開催期間"
   },
   {
+    "wordingKey": "WORD_DAYS_LEFT",
+    "value": "あと{0}日"
+  },
+  {
     "wordingKey": "WORD_DDECK_EDIT_AUTO_EDIT",
     "value": "おすすめ編成"
   },
@@ -2168,6 +2340,10 @@
     "value": "デフォルト楽曲選択"
   },
   {
+    "wordingKey": "WORD_DEFAULT_TEAM_FORMAT",
+    "value": "{0}チーム"
+  },
+  {
     "wordingKey": "WORD_DEFAULT_USER_NAME",
     "value": "セカイの住人"
   },
@@ -2194,6 +2370,10 @@
   {
     "wordingKey": "WORD_DISCONNECT",
     "value": "通信切断"
+  },
+  {
+    "wordingKey": "WORD_DISSCONNECTED",
+    "value": "切断されました"
   },
   {
     "wordingKey": "WORD_DISSOLUSION",
@@ -2452,6 +2632,10 @@
     "value": "確定枠提供割合"
   },
   {
+    "wordingKey": "WORD_FREE",
+    "value": "無料"
+  },
+  {
     "wordingKey": "WORD_FREE_JEWEL",
     "value": "無償クリスタル"
   },
@@ -2676,6 +2860,10 @@
     "value": "バーチャルライブへ"
   },
   {
+    "wordingKey": "WORD_GROUP_POINT_TOTAL",
+    "value": "累計グループP"
+  },
+  {
     "wordingKey": "WORD_GROWTH",
     "value": "育成"
   },
@@ -2742,6 +2930,10 @@
   {
     "wordingKey": "WORD_HIDDEN",
     "value": "非表示"
+  },
+  {
+    "wordingKey": "WORD_HIDE_MUSIC_NAME",
+    "value": "？？？"
   },
   {
     "wordingKey": "WORD_HIGH_SCORE",
@@ -2844,6 +3036,10 @@
     "value": "称号設定"
   },
   {
+    "wordingKey": "WORD_HOURS_LEFT",
+    "value": "あと{0}時間"
+  },
+  {
     "wordingKey": "WORD_ID",
     "value": "ID"
   },
@@ -2882,6 +3078,14 @@
   {
     "wordingKey": "WORD_JOIN",
     "value": "参加"
+  },
+  {
+    "wordingKey": "WORD_JOINED_GROUP",
+    "value": "所属グループ"
+  },
+  {
+    "wordingKey": "WORD_JOINED_GROUP_REWARD_TITLE",
+    "value": "報酬獲得"
   },
   {
     "wordingKey": "WORD_JOIN_PRIVATE_ROOM",
@@ -2924,12 +3128,28 @@
     "value": "ライブ"
   },
   {
+    "wordingKey": "WORD_LIVE_BONUS_PRESENT",
+    "value": "ライブボーナスプレゼント"
+  },
+  {
     "wordingKey": "WORD_LIVE_BOOST_CONSUMPTION_SETTING",
     "value": "ライブボーナス消費設定"
   },
   {
     "wordingKey": "WORD_LIVE_BOOST_NOT_ENOUGH_JEWEL",
     "value": "クリスタルが不足しているため、ライブボーナスを回復できません。"
+  },
+  {
+    "wordingKey": "WORD_LIVE_BOOST_PRESENT_COST",
+    "value": "x{0}"
+  },
+  {
+    "wordingKey": "WORD_LIVE_BOOST_PRESENT_REMAINING_NUM",
+    "value": "あと{0}回"
+  },
+  {
+    "wordingKey": "WORD_LIVE_BOOST_PRESENT_RESET",
+    "value": "4時にリセット"
   },
   {
     "wordingKey": "WORD_LIVE_BOOST_RECOVER",
@@ -3168,6 +3388,10 @@
     "value": "準備完了"
   },
   {
+    "wordingKey": "WORD_MATCHING_WINS_COUNT",
+    "value": "{0}連勝中！"
+  },
+  {
     "wordingKey": "WORD_MAX",
     "value": "MAX"
   },
@@ -3222,6 +3446,10 @@
   {
     "wordingKey": "WORD_MENU_COSTUME",
     "value": "メニュー衣装"
+  },
+  {
+    "wordingKey": "WORD_MESSAGE",
+    "value": "メッセージ"
   },
   {
     "wordingKey": "WORD_MIGRATION_NL",
@@ -3356,6 +3584,10 @@
     "value": "次のハイスコアボーナス"
   },
   {
+    "wordingKey": "WORD_NO",
+    "value": "いいえ"
+  },
+  {
     "wordingKey": "WORD_NO EVALUTE",
     "value": "いいえ"
   },
@@ -3450,6 +3682,14 @@
   {
     "wordingKey": "WORD_ON",
     "value": "ON"
+  },
+  {
+    "wordingKey": "WORD_ONCE_AGAIN_LIVE",
+    "value": "もう一度ライブ"
+  },
+  {
+    "wordingKey": "WORD_ONCE_CHECK_AGAIN_LIVE",
+    "value": "もう一度ライブ確認"
   },
   {
     "wordingKey": "WORD_OPEN",
@@ -4256,6 +4496,10 @@
     "value": "スタート\nダッシュ"
   },
   {
+    "wordingKey": "WORD_START_CHEERFUL_CARNIVAL_EVENT_ANNOUNCE_TITLE",
+    "value": "チアフルカーニバルイベント"
+  },
+  {
     "wordingKey": "WORD_START_LIVE",
     "value": "ライブスタート"
   },
@@ -4826,5 +5070,9 @@
   {
     "wordingKey": "WORD_WITH_COSTUME",
     "value": "衣装付き"
+  },
+  {
+    "wordingKey": "WORD_YES",
+    "value": "はい"
   }
 ]

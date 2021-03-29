@@ -80,6 +80,22 @@
     ]
   },
   {
+    "id": 204,
+    "seq": 4,
+    "honorMissionType": "player_rank",
+    "requirement": 300,
+    "sentence": "プレイヤーランクを300まで上げよう。",
+    "rewards": [
+      {
+        "id": 1233,
+        "missionType": "honor_mission",
+        "missionId": 204,
+        "seq": 1,
+        "resourceBoxId": 1154
+      }
+    ]
+  },
+  {
     "id": 301,
     "seq": 1,
     "honorMissionType": "login_continued",
@@ -288,6 +304,38 @@
     ]
   },
   {
+    "id": 907,
+    "seq": 7,
+    "honorMissionType": "clear_live_difficulty_all",
+    "requirement": 60,
+    "sentence": "全難易度で60曲クリアしよう。",
+    "rewards": [
+      {
+        "id": 1238,
+        "missionType": "honor_mission",
+        "missionId": 907,
+        "seq": 1,
+        "resourceBoxId": 1159
+      }
+    ]
+  },
+  {
+    "id": 908,
+    "seq": 8,
+    "honorMissionType": "clear_live_difficulty_all",
+    "requirement": 70,
+    "sentence": "全難易度で70曲クリアしよう。",
+    "rewards": [
+      {
+        "id": 1239,
+        "missionType": "honor_mission",
+        "missionId": 908,
+        "seq": 1,
+        "resourceBoxId": 1160
+      }
+    ]
+  },
+  {
     "id": 1004,
     "seq": 4,
     "honorMissionType": "master_full_combo",
@@ -304,6 +352,70 @@
     ]
   },
   {
+    "id": 1005,
+    "seq": 5,
+    "honorMissionType": "master_full_combo",
+    "requirement": 40,
+    "sentence": "難易度MASTERで40曲フルコンボでクリアしよう。",
+    "rewards": [
+      {
+        "id": 490,
+        "missionType": "honor_mission",
+        "missionId": 1005,
+        "seq": 1,
+        "resourceBoxId": 1062
+      }
+    ]
+  },
+  {
+    "id": 1006,
+    "seq": 6,
+    "honorMissionType": "master_full_combo",
+    "requirement": 50,
+    "sentence": "難易度MASTERで50曲フルコンボでクリアしよう。",
+    "rewards": [
+      {
+        "id": 491,
+        "missionType": "honor_mission",
+        "missionId": 1006,
+        "seq": 1,
+        "resourceBoxId": 1063
+      }
+    ]
+  },
+  {
+    "id": 1007,
+    "seq": 7,
+    "honorMissionType": "master_full_combo",
+    "requirement": 60,
+    "sentence": "難易度MASTERで60曲フルコンボでクリアしよう。",
+    "rewards": [
+      {
+        "id": 1234,
+        "missionType": "honor_mission",
+        "missionId": 1007,
+        "seq": 1,
+        "resourceBoxId": 1155
+      }
+    ]
+  },
+  {
+    "id": 1008,
+    "seq": 8,
+    "honorMissionType": "master_full_combo",
+    "requirement": 70,
+    "sentence": "難易度MASTERで70曲フルコンボでクリアしよう。",
+    "rewards": [
+      {
+        "id": 1235,
+        "missionType": "honor_mission",
+        "missionId": 1008,
+        "seq": 1,
+        "resourceBoxId": 1156
+      }
+    ]
+  },
+  {
     "id": 1104,
     "seq": 4,
     "honorMissionType": "master_full_perfect",
@@ -316,6 +428,70 @@
         "missionId": 1104,
         "seq": 1,
         "resourceBoxId": 1064
+      }
+    ]
+  },
+  {
+    "id": 1105,
+    "seq": 5,
+    "honorMissionType": "master_full_perfect",
+    "requirement": 40,
+    "sentence": "難易度MASTERで40曲ALL PERFECTでクリアしよう。",
+    "rewards": [
+      {
+        "id": 493,
+        "missionType": "honor_mission",
+        "missionId": 1105,
+        "seq": 1,
+        "resourceBoxId": 1065
+      }
+    ]
+  },
+  {
+    "id": 1106,
+    "seq": 6,
+    "honorMissionType": "master_full_perfect",
+    "requirement": 50,
+    "sentence": "難易度MASTERで50曲ALL PERFECTでクリアしよう。",
+    "rewards": [
+      {
+        "id": 494,
+        "missionType": "honor_mission",
+        "missionId": 1106,
+        "seq": 1,
+        "resourceBoxId": 1066
+      }
+    ]
+  },
+  {
+    "id": 1107,
+    "seq": 7,
+    "honorMissionType": "master_full_perfect",
+    "requirement": 60,
+    "sentence": "難易度MASTERで60曲ALL PERFECTでクリアしよう。",
+    "rewards": [
+      {
+        "id": 1236,
+        "missionType": "honor_mission",
+        "missionId": 1107,
+        "seq": 1,
+        "resourceBoxId": 1157
+      }
+    ]
+  },
+  {
+    "id": 1108,
+    "seq": 8,
+    "honorMissionType": "master_full_perfect",
+    "requirement": 70,
+    "sentence": "難易度MASTERで70曲ALL PERFECTでクリアしよう。",
+    "rewards": [
+      {
+        "id": 1237,
+        "missionType": "honor_mission",
+        "missionId": 1108,
+        "seq": 1,
+        "resourceBoxId": 1158
       }
     ]
   },
@@ -388,7 +564,7 @@
     "seq": 1,
     "honorMissionType": "clear_multi_live_full_combo_all",
     "requirement": 1,
-    "sentence": "｢みんなでライブ｣で5人全員がフルコンボでクリアしよう。",
+    "sentence": "｢みんなでライブ・チアフルライブ｣で5人全員がフルコンボでクリアしよう。",
     "rewards": [
       {
         "id": 333,
@@ -420,7 +596,7 @@
     "seq": 1,
     "honorMissionType": "multi_live_same_honor",
     "requirement": 1,
-    "sentence": "｢みんなでライブ｣で5人全員が同じ称号を1つ以上つけよう。",
+    "sentence": "｢みんなでライブ・チアフルライブ｣で5人全員が同じ称号を1つ以上つけよう。",
     "rewards": [
       {
         "id": 335,
@@ -436,7 +612,7 @@
     "seq": 1,
     "honorMissionType": "multi_live_stamp",
     "requirement": 1000,
-    "sentence": "｢みんなでライブ｣でスタンプを1000回押そう。",
+    "sentence": "｢みんなでライブ・チアフルライブ｣でスタンプを1000回押そう。",
     "rewards": [
       {
         "id": 336,
@@ -596,7 +772,7 @@
     "seq": 1,
     "honorMissionType": "multi_live_mvp",
     "requirement": 100,
-    "sentence": "｢みんなでライブ｣で『MVP』に100回なろう。",
+    "sentence": "｢みんなでライブ・チアフルライブ｣で『MVP』に100回なろう。",
     "rewards": [
       {
         "id": 346,
@@ -612,7 +788,7 @@
     "seq": 1,
     "honorMissionType": "multi_live_super_star",
     "requirement": 100,
-    "sentence": "｢みんなでライブ｣で『SUPER STAR』に100回なろう。",
+    "sentence": "｢みんなでライブ・チアフルライブ｣で『SUPER STAR』に100回なろう。",
     "rewards": [
       {
         "id": 347,
@@ -1636,7 +1812,7 @@
     "seq": 1,
     "honorMissionType": "clear_multi_live_all_friend",
     "requirement": 1,
-    "sentence": "フレンド5人で「みんなでライブ」を1回プレイしよう。",
+    "sentence": "フレンド5人で「みんなでライブ・チアフルライブ」を1回プレイしよう。",
     "rewards": [
       {
         "id": 961,

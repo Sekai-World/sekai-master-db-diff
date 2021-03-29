@@ -480,14 +480,14 @@
     "title": "チャレンジライブのEXステージ",
     "description": "「チャレンジライブ」のステージが100に到達すると、\nEXステージになります。",
     "fromUserRank": 150,
-    "toUserRank": 200
+    "toUserRank": 999
   },
   {
     "id": 106,
     "title": "チャレンジライブのEXステージ",
     "description": "「チャレンジライブ」のEXステージを上げると、\n毎回クリスタルを獲得できます。",
     "fromUserRank": 150,
-    "toUserRank": 200
+    "toUserRank": 999
   },
   {
     "id": 108,
@@ -501,21 +501,35 @@
     "title": "楽曲のアナザーverの購入",
     "description": "「ボーカルカード交換所」では\nボーカルカードを交換することができます。",
     "fromUserRank": 30,
-    "toUserRank": 200
+    "toUserRank": 999
   },
   {
     "id": 110,
     "title": "ヘアスタイル",
-    "description": "「ヘアスタイル」付きメンバーの\n「マスターランク」を２に上げることで入手できます。",
+    "description": "「ヘアスタイル」付きメンバーの\n「マスターランク」を2に上げることで入手できます。",
     "fromUserRank": 30,
-    "toUserRank": 200
+    "toUserRank": 999
   },
   {
     "id": 111,
     "title": "ヘアスタイル",
     "description": "「ライブ衣装」で入手した\nヘアスタイルを設定することができます。",
     "fromUserRank": 30,
-    "toUserRank": 200
+    "toUserRank": 999
+  },
+  {
+    "id": 112,
+    "title": "チャレンジスタンプ",
+    "description": "チャレンジライブを1回クリアする毎に\nスタンプが押されます。",
+    "fromUserRank": 5,
+    "toUserRank": 999
+  },
+  {
+    "id": 113,
+    "title": "チャレンジスタンプ",
+    "description": "1週間で7個スタンプが押されると\n豪華な報酬を1つ選択できます。",
+    "fromUserRank": 5,
+    "toUserRank": 999
   },
   {
     "id": 1001,
