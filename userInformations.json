@@ -6608,7 +6608,7 @@
     "title": "イベント「君と歌う、桜舞う世界で」開催！",
     "path": "information/index.html?id=info_event18_held_KUSS-927GhsbT",
     "startAt": 1617256800000,
-    "endAt": 1618844399000,
+    "endAt": 1617375599000,
     "bannerAssetbundleName": "banner_news_event18_KUSS-alkn59sGt"
   },
   {
@@ -6622,7 +6622,7 @@
     "title": "「君と出会う桜の道ガチャ」開催！",
     "path": "information/index.html?id=info_gacha68_notice_KDAGovmep-WOg",
     "startAt": 1617256800000,
-    "endAt": 1620658799000,
+    "endAt": 1617375599000,
     "bannerAssetbundleName": "banner_news_gacha68_KDAGovmep-WOg"
   },
   {
@@ -6711,7 +6711,8 @@
     "platform": "all",
     "title": "緊急メンテナンス終了のご案内",
     "path": "information/index.html?id=info_emergencymaintenance_20210402_ASdinvw9b-asv",
-    "startAt": 1617296400000
+    "startAt": 1617296400000,
+    "endAt": 1617375599000
   },
   {
     "id": 510,
@@ -6751,6 +6752,58 @@
     "path": "information/index.html?id=info_BugAndMaintenance_end_20210402_AOj2fw3F",
     "startAt": 1617373800000,
     "endAt": 1617969599000
+  },
+  {
+    "id": 513,
+    "seq": 1,
+    "displayOrder": 20380,
+    "informationType": "bug",
+    "informationTag": "bug",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "チアフルイベントでライブクリア時の残りライフに応じて還元されるイベントPの量が想定以上に多くなってしまっている不具合について",
+    "path": "information/index.html?id=bug_event18_point_life_reduction_20210403_OEe73fE3",
+    "startAt": 1617375600000
+  },
+  {
+    "id": 514,
+    "seq": 1,
+    "displayOrder": 31810,
+    "informationType": "normal",
+    "informationTag": "event",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "【4月3日0時00分追記】イベント「君と歌う、桜舞う世界で」開催！",
+    "path": "information/index.html?id=info_event18_held_add_KUSS-927GhsbT",
+    "startAt": 1617375600000,
+    "endAt": 1618844399000,
+    "bannerAssetbundleName": "banner_news_event18_KUSS-alkn59sGt"
+  },
+  {
+    "id": 515,
+    "seq": 1,
+    "displayOrder": 31820,
+    "informationType": "normal",
+    "informationTag": "gacha",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "【4月3日0時00分追記】「君と出会う桜の道ガチャ」開催！",
+    "path": "information/index.html?id=info_gacha68_add_KDAGovmep-WOg",
+    "startAt": 1617375600000,
+    "endAt": 1620745199000,
+    "bannerAssetbundleName": "banner_news_gacha68_KDAGovmep-WOg"
+  },
+  {
+    "id": 516,
+    "seq": 1,
+    "displayOrder": 20375,
+    "informationType": "bug",
+    "informationTag": "bug",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "【4月3日0時00分追記】イベント「君と歌う、桜舞う世界で」にて発生している不具合について",
+    "path": "information/index.html?id=bug_event18_errors_20210401_add3_aSenag-5ks",
+    "startAt": 1617375600000
   },
   {
     "id": 9298,
