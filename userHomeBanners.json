@@ -20,25 +20,6 @@
     "endAt": 4102412399000
   },
   {
-    "homeBannerId": 119,
-    "seq": 80,
-    "name": "カラフルフェスティバルガチャ",
-    "assetbundleName": "banner_gacha66",
-    "transitionDestinationType": "gacha",
-    "transitionDestinationId": 66,
-    "startAt": 1617084000000,
-    "endAt": 1617688799000
-  },
-  {
-    "homeBannerId": 120,
-    "seq": 70,
-    "name": "[2021/04]プレミアムミッションパス（月初優先度UP用）",
-    "assetbundleName": "banner_premiummissionpass_2021_04",
-    "transitionDestinationType": "billing_shop_for_live_mission_pass",
-    "startAt": 1617202800000,
-    "endAt": 1619794799000
-  },
-  {
     "homeBannerId": 121,
     "seq": 100,
     "name": "[イベント]君と歌う、桜舞う世界で",
@@ -59,6 +40,16 @@
     "endAt": 1618120799000
   },
   {
+    "homeBannerId": 123,
+    "seq": 130,
+    "name": "シャフルイベお花見_メンバー出現率UPガチャバナー",
+    "assetbundleName": "banner_gacha70",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 70,
+    "startAt": 1617516000000,
+    "endAt": 1617969599000
+  },
+  {
     "homeBannerId": 124,
     "seq": 90,
     "name": "ハーフアニバーサリー記念ショップバナー",
@@ -66,5 +57,14 @@
     "transitionDestinationType": "billing_shop_for_value_set",
     "startAt": 1617256800000,
     "endAt": 1618066799000
+  },
+  {
+    "homeBannerId": 125,
+    "seq": 200,
+    "name": "[2021/04]プレミアムミッションパス",
+    "assetbundleName": "banner_premiummissionpass_2021_04",
+    "transitionDestinationType": "billing_shop_for_live_mission_pass",
+    "startAt": 1617202800000,
+    "endAt": 1619794799000
   }
 ]
