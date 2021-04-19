@@ -20,35 +20,6 @@
     "endAt": 4102412399000
   },
   {
-    "homeBannerId": 121,
-    "seq": 100,
-    "name": "[イベント]君と歌う、桜舞う世界で",
-    "assetbundleName": "event_ohanami_2021",
-    "transitionDestinationType": "event",
-    "transitionDestinationId": 18,
-    "startAt": 1617256800000,
-    "endAt": 1618120799000
-  },
-  {
-    "homeBannerId": 122,
-    "seq": 120,
-    "name": "シャフルイベお花見_定常ガチャバナー",
-    "assetbundleName": "banner_gacha68",
-    "transitionDestinationType": "gacha",
-    "transitionDestinationId": 68,
-    "startAt": 1617256800000,
-    "endAt": 1618120799000
-  },
-  {
-    "homeBannerId": 124,
-    "seq": 90,
-    "name": "ハーフアニバーサリー記念ショップバナー",
-    "assetbundleName": "banner_shop_half_anniversary_2021",
-    "transitionDestinationType": "billing_shop_for_value_set",
-    "startAt": 1617256800000,
-    "endAt": 1618066799000
-  },
-  {
     "homeBannerId": 125,
     "seq": 200,
     "name": "[2021/04]プレミアムミッションパス",
@@ -56,5 +27,25 @@
     "transitionDestinationType": "billing_shop_for_live_mission_pass",
     "startAt": 1617202800000,
     "endAt": 1619794799000
+  },
+  {
+    "homeBannerId": 126,
+    "seq": 100,
+    "name": "[イベント]シークレット・ディスタンス",
+    "assetbundleName": "event_secret_2021",
+    "transitionDestinationType": "event",
+    "transitionDestinationId": 19,
+    "startAt": 1618120800000,
+    "endAt": 1618984799000
+  },
+  {
+    "homeBannerId": 127,
+    "seq": 110,
+    "name": "ニーゴイベ3巡目_定常ガチャバナー",
+    "assetbundleName": "banner_gacha72",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 72,
+    "startAt": 1618120800000,
+    "endAt": 1618984799000
   }
 ]
