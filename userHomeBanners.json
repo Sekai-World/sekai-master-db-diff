@@ -29,23 +29,33 @@
     "endAt": 1619794799000
   },
   {
-    "homeBannerId": 126,
+    "homeBannerId": 130,
     "seq": 100,
-    "name": "[イベント]シークレット・ディスタンス",
-    "assetbundleName": "event_secret_2021",
+    "name": "[イベント]Resonate with you",
+    "assetbundleName": "event_resonate_2021",
     "transitionDestinationType": "event",
-    "transitionDestinationId": 19,
-    "startAt": 1618120800000,
-    "endAt": 1618984799000
+    "transitionDestinationId": 20,
+    "startAt": 1618984800000,
+    "endAt": 1619762399000
   },
   {
-    "homeBannerId": 127,
+    "homeBannerId": 131,
     "seq": 110,
-    "name": "ニーゴイベ3巡目_定常ガチャバナー",
-    "assetbundleName": "banner_gacha72",
+    "name": "レオ二イベ3巡目_定常ガチャバナー",
+    "assetbundleName": "banner_gacha75",
     "transitionDestinationType": "gacha",
-    "transitionDestinationId": 72,
-    "startAt": 1618120800000,
-    "endAt": 1618984799000
+    "transitionDestinationId": 75,
+    "startAt": 1618984800000,
+    "endAt": 1619762399000
+  },
+  {
+    "homeBannerId": 132,
+    "seq": 120,
+    "name": "レオ二イベ3巡目_メンバー出現率UPガチャバナー",
+    "assetbundleName": "banner_gacha77",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 77,
+    "startAt": 1619244000000,
+    "endAt": 1619611199000
   }
 ]
