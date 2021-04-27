@@ -4,20 +4,23 @@
     "seq": 1,
     "recoveryValue": 3,
     "presentLimit": 3,
-    "assetbundleName": "boost1"
+    "assetbundleName": "boost1",
+    "isUnlimitedReceive": false
   },
   {
     "id": 2,
     "seq": 2,
     "recoveryValue": 5,
     "boostPresentCostId": 1,
-    "assetbundleName": "boost2"
+    "assetbundleName": "boost2",
+    "isUnlimitedReceive": true
   },
   {
     "id": 3,
     "seq": 3,
     "recoveryValue": 10,
     "boostPresentCostId": 2,
-    "assetbundleName": "boost3"
+    "assetbundleName": "boost3",
+    "isUnlimitedReceive": true
   }
 ]
