@@ -1385,7 +1385,8 @@
     "platform": "all",
     "title": "チアフルイベントでライブクリア時の残りライフに応じて還元されるイベントPの量が想定以上に多くなってしまっている不具合について",
     "path": "information/index.html?id=bug_event18_point_life_reduction_20210403_OEe73fE3",
-    "startAt": 1617375600000
+    "startAt": 1617375600000,
+    "endAt": 1619762399000
   },
   {
     "id": 514,
@@ -1999,6 +2000,19 @@
     "endAt": 1619506799000
   },
   {
+    "id": 560,
+    "seq": 1,
+    "displayOrder": 20490,
+    "informationType": "bug",
+    "informationTag": "bug",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "【4月30日15時00分追記】チアフルイベントでライブクリア時の残りライフに応じて還元されるイベントPの量が想定以上に多くなってしまっている不具合について",
+    "path": "information/index.html?id=bug_fix_event18_point_life_reduction_20210403_AEOmz-g93naH",
+    "startAt": 1619762400000,
+    "endAt": 1620485999000
+  },
+  {
     "id": 561,
     "seq": 1,
     "displayOrder": 20470,
@@ -2181,9 +2195,63 @@
     "endAt": 1622473199000
   },
   {
-    "id": 583,
+    "id": 575,
     "seq": 1,
     "displayOrder": 32300,
+    "informationType": "normal",
+    "informationTag": "information",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "バーチャルショップにアクセサリ「王冠」追加！",
+    "path": "information/index.html?id=info_virtualshop_20210530_VS0s-d0awnking",
+    "startAt": 1619762400000,
+    "endAt": 1622473199000
+  },
+  {
+    "id": 576,
+    "seq": 1,
+    "displayOrder": 32310,
+    "informationType": "normal",
+    "informationTag": "music",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "「夜咄ディセイブ」アナザーボーカルver.追加のお知らせ",
+    "path": "information/index.html?id=info_music_Yobanashi_another_20210430_Uo32wwgr",
+    "startAt": 1619762400000,
+    "endAt": 1619981999000
+  },
+  {
+    "id": 577,
+    "seq": 1,
+    "displayOrder": 32320,
+    "informationType": "normal",
+    "informationTag": "event",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "イベント「STRAY BAD DOG」開催！",
+    "path": "information/index.html?id=info_event21_held_L19f8Bve",
+    "startAt": 1619762400000,
+    "endAt": 1621425599000,
+    "bannerAssetbundleName": "banner_news_event21_LjFe24R3"
+  },
+  {
+    "id": 578,
+    "seq": 1,
+    "displayOrder": 32330,
+    "informationType": "normal",
+    "informationTag": "gacha",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "「共に歩むクルーガチャ」開催！",
+    "path": "information/index.html?id=info_gacha78_held_J2du3fe5",
+    "startAt": 1619762400000,
+    "endAt": 1623304799000,
+    "bannerAssetbundleName": "banner_news_gacha78_AN4grGw2"
+  },
+  {
+    "id": 583,
+    "seq": 1,
+    "displayOrder": 32290,
     "informationType": "normal",
     "informationTag": "campaign",
     "browseType": "internal",
