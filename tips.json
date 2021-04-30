@@ -450,7 +450,7 @@
   {
     "id": 101,
     "title": "オートライブ",
-    "description": "「オートライブ」でリズムゲームを自動演奏できます。",
+    "description": "「ひとりでライブ」では「AUTO」にすると\n自動でリズムゲームをプレイできます。",
     "fromUserRank": 1,
     "toUserRank": 50
   },
@@ -479,14 +479,14 @@
     "id": 105,
     "title": "チャレンジライブのEXステージ",
     "description": "「チャレンジライブ」のステージが100に到達すると、\nEXステージになります。",
-    "fromUserRank": 150,
+    "fromUserRank": 250,
     "toUserRank": 999
   },
   {
     "id": 106,
     "title": "チャレンジライブのEXステージ",
-    "description": "「チャレンジライブ」のEXステージを上げると、\n毎回クリスタルを獲得できます。",
-    "fromUserRank": 150,
+    "description": "「チャレンジライブ」のEXステージ以降は、\nステージが上がる毎にクリスタルを獲得できます。",
+    "fromUserRank": 250,
     "toUserRank": 999
   },
   {
@@ -506,14 +506,14 @@
   {
     "id": 110,
     "title": "ヘアスタイル",
-    "description": "「ヘアスタイル」付きメンバーの\n「マスターランク」を2に上げることで入手できます。",
+    "description": "「ヘアスタイル」は、「ヘアスタイル」付きメンバーの\n「マスターランク」を2に上げると入手できます。",
     "fromUserRank": 30,
     "toUserRank": 999
   },
   {
     "id": 111,
     "title": "ヘアスタイル",
-    "description": "「ライブ衣装」で入手した\nヘアスタイルを設定することができます。",
+    "description": "「ヘアスタイル」は「ライブ衣装」より\n設定することができます。",
     "fromUserRank": 30,
     "toUserRank": 999
   },
@@ -527,7 +527,7 @@
   {
     "id": 113,
     "title": "チャレンジスタンプ",
-    "description": "1週間で7個スタンプが押されると\n豪華な報酬を1つ選択できます。",
+    "description": "チャレンジライブ7日目の「チャレンジスタンプ」報酬\nでは、豪華報酬から1つ選んでアイテムを獲得できます。",
     "fromUserRank": 5,
     "toUserRank": 999
   },
