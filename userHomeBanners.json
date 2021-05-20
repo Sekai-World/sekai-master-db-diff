@@ -20,36 +20,6 @@
     "endAt": 4102412399000
   },
   {
-    "homeBannerId": 135,
-    "seq": 100,
-    "name": "[イベント]STRAY BAD DOG",
-    "assetbundleName": "event_stray_2021",
-    "transitionDestinationType": "event",
-    "transitionDestinationId": 21,
-    "startAt": 1619762400000,
-    "endAt": 1620626399000
-  },
-  {
-    "homeBannerId": 136,
-    "seq": 110,
-    "name": "ビビバスイベ3巡目_定常ガチャバナー",
-    "assetbundleName": "banner_gacha78",
-    "transitionDestinationType": "gacha",
-    "transitionDestinationId": 78,
-    "startAt": 1619762400000,
-    "endAt": 1620626399000
-  },
-  {
-    "homeBannerId": 139,
-    "seq": 140,
-    "name": "HAPPY BIRTHDAYライブ 咲希",
-    "assetbundleName": "banner_virtuallive72",
-    "transitionDestinationType": "virtual_live",
-    "transitionDestinationId": 72,
-    "startAt": 1620367200000,
-    "endAt": 1620626399000
-  },
-  {
     "homeBannerId": 141,
     "seq": 200,
     "name": "[2021/05]プレミアムミッションパス",
@@ -57,5 +27,25 @@
     "transitionDestinationType": "billing_shop_for_live_mission_pass",
     "startAt": 1619794800000,
     "endAt": 1622473199000
+  },
+  {
+    "homeBannerId": 142,
+    "seq": 100,
+    "name": "[イベント]お悩み聞かせて！ わくわくピクニック",
+    "assetbundleName": "event_picnic_2021",
+    "transitionDestinationType": "event",
+    "transitionDestinationId": 22,
+    "startAt": 1620626400000,
+    "endAt": 1621576799000
+  },
+  {
+    "homeBannerId": 143,
+    "seq": 110,
+    "name": "シャッフルピクニックイベ_定常ガチャバナー",
+    "assetbundleName": "banner_gacha82",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 82,
+    "startAt": 1620626400000,
+    "endAt": 1621576799000
   }
 ]
