@@ -2533,6 +2533,41 @@
     "releaseConditionTypeLevel": 30
   },
   {
+    "id": 30222,
+    "sentence": "前編を読み終わった状態でレベルが60必要です。",
+    "releaseConditionType": "card_level",
+    "releaseConditionTypeId": 222,
+    "releaseConditionTypeLevel": 60
+  },
+  {
+    "id": 30223,
+    "sentence": "前編を読み終わった状態でレベルが60必要です。",
+    "releaseConditionType": "card_level",
+    "releaseConditionTypeId": 223,
+    "releaseConditionTypeLevel": 60
+  },
+  {
+    "id": 30224,
+    "sentence": "前編を読み終わった状態でレベルが60必要です。",
+    "releaseConditionType": "card_level",
+    "releaseConditionTypeId": 224,
+    "releaseConditionTypeLevel": 60
+  },
+  {
+    "id": 30225,
+    "sentence": "前編を読み終わった状態でレベルが50必要です。",
+    "releaseConditionType": "card_level",
+    "releaseConditionTypeId": 225,
+    "releaseConditionTypeLevel": 50
+  },
+  {
+    "id": 30226,
+    "sentence": "前編を読み終わった状態でレベルが30必要です。",
+    "releaseConditionType": "card_level",
+    "releaseConditionTypeId": 226,
+    "releaseConditionTypeLevel": 30
+  },
+  {
     "id": 40001,
     "sentence": "GOOD以下を7以内でEXPERTクリア",
     "releaseConditionType": "music_difficulty_better_play",
@@ -6913,6 +6948,62 @@
     "releaseConditionTypeLevel": 5
   },
   {
+    "id": 60510,
+    "sentence": "「[“大好き”を前に] 桐谷遥」を入手",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 222,
+    "releaseConditionTypeLevel": 0
+  },
+  {
+    "id": 60511,
+    "sentence": "「[“大好き”を前に] 桐谷遥」のマスターランク1で解放",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 222,
+    "releaseConditionTypeLevel": 1
+  },
+  {
+    "id": 60512,
+    "sentence": "「[“大好き”を前に] 桐谷遥」のマスターランク3で解放",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 222,
+    "releaseConditionTypeLevel": 3
+  },
+  {
+    "id": 60513,
+    "sentence": "「[“大好き”を前に] 桐谷遥」のマスターランク5で解放",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 222,
+    "releaseConditionTypeLevel": 5
+  },
+  {
+    "id": 60520,
+    "sentence": "「[リラックス・タイムのお誘い] 日野森雫」を入手",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 223,
+    "releaseConditionTypeLevel": 0
+  },
+  {
+    "id": 60521,
+    "sentence": "「[リラックス・タイムのお誘い] 日野森雫」のマスターランク1で解放",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 223,
+    "releaseConditionTypeLevel": 1
+  },
+  {
+    "id": 60522,
+    "sentence": "「[リラックス・タイムのお誘い] 日野森雫」のマスターランク3で解放",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 223,
+    "releaseConditionTypeLevel": 3
+  },
+  {
+    "id": 60523,
+    "sentence": "「[リラックス・タイムのお誘い] 日野森雫」のマスターランク5で解放",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 223,
+    "releaseConditionTypeLevel": 5
+  },
+  {
     "id": 70001,
     "sentence": "｢星乃一歌｣のキャラクターランク1でユニット編成数UP",
     "releaseConditionType": "character_rank",
@@ -8875,6 +8966,61 @@
     "sentence": "「お悩み聞かせて！わくわくピクニック」の第8話を読む",
     "releaseConditionType": "event_story",
     "releaseConditionTypeId": 1000179
+  },
+  {
+    "id": 102201,
+    "sentence": "イベントPが6000に到達する",
+    "releaseConditionType": "event_point",
+    "releaseConditionTypeId": 23,
+    "releaseConditionTypeQuantity": 6000
+  },
+  {
+    "id": 102202,
+    "sentence": "イベントPが13000に到達する",
+    "releaseConditionType": "event_point",
+    "releaseConditionTypeId": 23,
+    "releaseConditionTypeQuantity": 13000
+  },
+  {
+    "id": 102203,
+    "sentence": "イベントPが30000に到達する",
+    "releaseConditionType": "event_point",
+    "releaseConditionTypeId": 23,
+    "releaseConditionTypeQuantity": 30000
+  },
+  {
+    "id": 102204,
+    "sentence": "イベントPが60000に到達する",
+    "releaseConditionType": "event_point",
+    "releaseConditionTypeId": 23,
+    "releaseConditionTypeQuantity": 60000
+  },
+  {
+    "id": 102205,
+    "sentence": "イベントPが90000に到達する",
+    "releaseConditionType": "event_point",
+    "releaseConditionTypeId": 23,
+    "releaseConditionTypeQuantity": 90000
+  },
+  {
+    "id": 102206,
+    "sentence": "イベントPが120000に到達する",
+    "releaseConditionType": "event_point",
+    "releaseConditionTypeId": 23,
+    "releaseConditionTypeQuantity": 120000
+  },
+  {
+    "id": 102207,
+    "sentence": "イベントPが150000に到達する",
+    "releaseConditionType": "event_point",
+    "releaseConditionTypeId": 23,
+    "releaseConditionTypeQuantity": 150000
+  },
+  {
+    "id": 102208,
+    "sentence": "「頑張るあなたにBreak Time！」の第8話を読む",
+    "releaseConditionType": "event_story",
+    "releaseConditionTypeId": 1000187
   },
   {
     "id": 800001,
