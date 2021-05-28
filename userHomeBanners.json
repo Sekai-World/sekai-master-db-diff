@@ -29,23 +29,53 @@
     "endAt": 1622473199000
   },
   {
-    "homeBannerId": 142,
+    "homeBannerId": 146,
     "seq": 100,
-    "name": "[イベント]お悩み聞かせて！ わくわくピクニック",
-    "assetbundleName": "event_picnic_2021",
+    "name": "[イベント]頑張るあなたにBreak Time！",
+    "assetbundleName": "event_breaktime_2021",
     "transitionDestinationType": "event",
-    "transitionDestinationId": 22,
-    "startAt": 1620626400000,
-    "endAt": 1621576799000
+    "transitionDestinationId": 23,
+    "startAt": 1621576800000,
+    "endAt": 1622440799000
   },
   {
-    "homeBannerId": 143,
+    "homeBannerId": 147,
     "seq": 110,
-    "name": "シャッフルピクニックイベ_定常ガチャバナー",
-    "assetbundleName": "banner_gacha82",
+    "name": "モモジャンイベ4巡目_定常ガチャバナー",
+    "assetbundleName": "banner_gacha85",
     "transitionDestinationType": "gacha",
-    "transitionDestinationId": 82,
-    "startAt": 1620626400000,
-    "endAt": 1621576799000
+    "transitionDestinationId": 85,
+    "startAt": 1621576800000,
+    "endAt": 1622440799000
+  },
+  {
+    "homeBannerId": 148,
+    "seq": 120,
+    "name": "モモジャンイベ4巡目_メンバー出現率UPガチャバナー",
+    "assetbundleName": "banner_gacha87",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 87,
+    "startAt": 1621836000000,
+    "endAt": 1622289599000
+  },
+  {
+    "homeBannerId": 150,
+    "seq": 80,
+    "name": "★4メンバー1人確定ガチャ",
+    "assetbundleName": "banner_gacha88",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 88,
+    "startAt": 1622008800000,
+    "endAt": 1622699999000
+  },
+  {
+    "homeBannerId": 151,
+    "seq": 160,
+    "name": "イベントストーリーシアター_予告用バナー",
+    "assetbundleName": "banner_event_theater_notice",
+    "transitionDestinationType": "information",
+    "transitionDestinationId": 615,
+    "startAt": 1621674000000,
+    "endAt": 1622300399000
   }
 ]
