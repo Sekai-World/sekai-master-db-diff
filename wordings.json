@@ -44,6 +44,10 @@
     "value": "アルバムのアクセス権限がありません。\n端末の設定画面を開き、アクセスを許可してください。"
   },
   {
+    "wordingKey": "MSG_ALBUM_PERMISSION_NOT_GRANTED_WITH_REASON",
+    "value": "スクリーンショット機能をご利用いただく場合、\n端末内のメディアやファイルへのアクセスを\n「プロセカ」に許可する必要があります。\n\n端末の設定画面を開き、アクセスを許可してください。"
+  },
+  {
     "wordingKey": "MSG_ALL_UNLOCK_STORY",
     "value": "すべてのストーリーを解放しました。"
   },
@@ -273,7 +277,7 @@
   },
   {
     "wordingKey": "MSG_CRYSTAL_CONSUME",
-    "value": "※無償クリスタルから先に消費されます。"
+    "value": "※無償クリスタルから先に消費されます。\n※一部ガチャでは有償クリスタルを優先して\n消費できる場合があります。"
   },
   {
     "wordingKey": "MSG_CRYSTAL_SHOP_CAN_MAKE_PAYMENTS",
@@ -556,6 +560,10 @@
     "value": "交換所の期限が過ぎました。"
   },
   {
+    "wordingKey": "MSG_GACHA_PAID_JEWEL_PRIORITY_USE",
+    "value": "有償クリスタルを優先して消費する\n（有償で引いた分のみガチャボーナス2倍）"
+  },
+  {
     "wordingKey": "MSG_GACHA_RATE_NOTICE",
     "value": "表示上小数点第4位にて四捨五入しているため、\n全てを合算しても100%にならない場合があります。"
   },
@@ -569,11 +577,23 @@
   },
   {
     "wordingKey": "MSG_GACHA_SPIN_COUNT",
-    "value": "{0}回<size=32>引く</size>"
+    "value": "{0}回<size=28>引く</size>"
   },
   {
     "wordingKey": "MSG_GACHA_SPIN_COUNT_PAID",
     "value": "{0}回<size=32>引く(有償)</size>"
+  },
+  {
+    "wordingKey": "MSG_GACHA_SPIN_ERROR",
+    "value": "通信エラーが発生したためタイトルへ戻ります。\n※ログイン後、ガチャ結果が反映されているかご確認ください。\n※ガチャ結果が正常に反映されていない場合、サポートよりお問い合わせください。"
+  },
+  {
+    "wordingKey": "MSG_GACHA_SPIN_LIMIT",
+    "value": "あと{0}回"
+  },
+  {
+    "wordingKey": "MSG_GACHA_TOP_SEAL_ON",
+    "value": "{0}つき"
   },
   {
     "wordingKey": "MSG_GIVE_LIVE_BONUS",
@@ -1064,6 +1084,10 @@
     "value": "開催予定のバーチャルライブはありません。"
   },
   {
+    "wordingKey": "MSG_OFFLINE_AREA",
+    "value": "待合エリア数を制限するため、一部エリアの\n公開を終了します。ホームに戻ります。"
+  },
+  {
     "wordingKey": "MSG_ONCE_AGAIN_LIVE",
     "value": "このメンバーで\nもう一度ライブしますか？"
   },
@@ -1130,6 +1154,10 @@
   {
     "wordingKey": "MSG_PRACTICE_NOTHING",
     "value": "練習可能なメンバーはいません。"
+  },
+  {
+    "wordingKey": "MSG_PRACTICE_TICKET_ERROR",
+    "value": "前回の練習結果が正しく反映されませんでした。\nデータを再取得するため、練習をキャンセルします。\n\nメンバーのレベルと消費する練習用スコア枚数をご確認のうえ、\n再度練習を試行してください。"
   },
   {
     "wordingKey": "MSG_PREMIUM_BEFORE_SALE",
@@ -2472,12 +2500,24 @@
     "value": "全て既読"
   },
   {
+    "wordingKey": "WORD_EPISODE_CHARACTER",
+    "value": "サイドストーリー登場キャラクター"
+  },
+  {
     "wordingKey": "WORD_EPISODE_FIRST_UNREAD",
     "value": "前半未読"
   },
   {
     "wordingKey": "WORD_EPISODE_LAST_UNREAD",
     "value": "後半未読"
+  },
+  {
+    "wordingKey": "WORD_EPISODE_PART1",
+    "value": "前編"
+  },
+  {
+    "wordingKey": "WORD_EPISODE_PART2",
+    "value": "後編"
   },
   {
     "wordingKey": "WORD_EPISODE_READ",

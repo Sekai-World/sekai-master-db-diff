@@ -20,36 +20,6 @@
     "endAt": 4102412399000
   },
   {
-    "homeBannerId": 155,
-    "seq": 100,
-    "name": "[イベント]純白の貴方へ、誓いの歌を！",
-    "assetbundleName": "event_bridal_2021",
-    "transitionDestinationType": "event",
-    "transitionDestinationId": 24,
-    "startAt": 1622440800000,
-    "endAt": 1623391199000
-  },
-  {
-    "homeBannerId": 156,
-    "seq": 110,
-    "name": "シャッフルブライダルイベ3巡目_定常ガチャバナー",
-    "assetbundleName": "banner_gacha89",
-    "transitionDestinationType": "gacha",
-    "transitionDestinationId": 89,
-    "startAt": 1622440800000,
-    "endAt": 1623391199000
-  },
-  {
-    "homeBannerId": 160,
-    "seq": 130,
-    "name": "イベントストーリーシアター_予告用バナー",
-    "assetbundleName": "banner_event_theater_notice",
-    "transitionDestinationType": "information",
-    "transitionDestinationId": 635,
-    "startAt": 1622883600000,
-    "endAt": 1623509999000
-  },
-  {
     "homeBannerId": 162,
     "seq": 200,
     "name": "[2021/06]プレミアムミッションパス",
@@ -57,5 +27,35 @@
     "transitionDestinationType": "billing_shop_for_live_mission_pass",
     "startAt": 1622473200000,
     "endAt": 1625065199000
+  },
+  {
+    "homeBannerId": 163,
+    "seq": 100,
+    "name": "[イベント]ワンダーマジカルショウタイム！",
+    "assetbundleName": "event_wonders_2021",
+    "transitionDestinationType": "event",
+    "transitionDestinationId": 25,
+    "startAt": 1623391200000,
+    "endAt": 1624255199000
+  },
+  {
+    "homeBannerId": 164,
+    "seq": 110,
+    "name": "ワンダショイベ4巡目_定常ガチャバナー",
+    "assetbundleName": "banner_gacha92",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 92,
+    "startAt": 1623391200000,
+    "endAt": 1624255199000
+  },
+  {
+    "homeBannerId": 165,
+    "seq": 120,
+    "name": "ワンダショイベ4巡目_メンバー出現率UPガチャバナー",
+    "assetbundleName": "banner_gacha94",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 94,
+    "startAt": 1623564000000,
+    "endAt": 1624103999000
   }
 ]
