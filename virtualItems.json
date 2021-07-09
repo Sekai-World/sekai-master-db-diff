@@ -1233,5 +1233,31 @@
     "cheerPoint": 1500,
     "effectAssetbundleName": "event_tanabata",
     "effectExpressionType": "throw_effect"
+  },
+  {
+    "id": 100,
+    "virtualItemCategory": "normal",
+    "seq": 1000,
+    "priority": 1000,
+    "name": "ビーストオンステージ",
+    "assetbundleName": "event_awakening",
+    "costVirtualCoin": 1500,
+    "costJewel": 1500,
+    "cheerPoint": 1500,
+    "effectAssetbundleName": "event_awakening",
+    "effectExpressionType": "throw_effect"
+  },
+  {
+    "id": 101,
+    "virtualItemCategory": "normal",
+    "seq": 1010,
+    "priority": 1010,
+    "name": "HAPPY BIRTHDAY 寧々",
+    "assetbundleName": "chara_nene_birthday",
+    "costVirtualCoin": 3000,
+    "costJewel": 3000,
+    "cheerPoint": 3000,
+    "effectAssetbundleName": "chara_nene_birthday",
+    "effectExpressionType": "throw_effect"
   }
 ]

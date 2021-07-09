@@ -22,35 +22,46 @@
     "endAt": 4102412399000
   },
   {
-    "homeBannerId": 162,
-    "seq": 200,
-    "homeBannerType": "general",
-    "name": "[2021/06]プレミアムミッションパス",
-    "assetbundleName": "banner_premiummissionpass_2021_06",
-    "transitionDestinationType": "billing_shop_for_live_mission_pass",
-    "startAt": 1622473200000,
-    "endAt": 1625065199000
-  },
-  {
-    "homeBannerId": 167,
+    "homeBannerId": 175,
     "seq": 100,
     "homeBannerType": "event",
-    "name": "[イベント]カーネーション・リコレクション",
-    "assetbundleName": "event_carnation_2021",
+    "name": "[イベント]Unnamed Harmony",
+    "assetbundleName": "event_unnamed_2021",
     "transitionDestinationType": "event",
-    "transitionDestinationId": 26,
-    "startAt": 1624255200000,
-    "endAt": 1625032799000
+    "transitionDestinationId": 27,
+    "startAt": 1625032800000,
+    "endAt": 1625810399000
   },
   {
-    "homeBannerId": 168,
+    "homeBannerId": 176,
     "seq": 110,
     "homeBannerType": "general",
-    "name": "ニーゴイベ4巡目_定常ガチャバナー",
-    "assetbundleName": "banner_gacha96",
+    "name": "レオ二イベ5巡目_定常ガチャバナー",
+    "assetbundleName": "banner_gacha99",
     "transitionDestinationType": "gacha",
-    "transitionDestinationId": 96,
-    "startAt": 1624255200000,
-    "endAt": 1625032799000
+    "transitionDestinationId": 99,
+    "startAt": 1625032800000,
+    "endAt": 1625810399000
+  },
+  {
+    "homeBannerId": 179,
+    "seq": 130,
+    "homeBannerType": "general",
+    "name": "七夕2021ライブ",
+    "assetbundleName": "banner_virtuallive82",
+    "transitionDestinationType": "virtual_live",
+    "transitionDestinationId": 82,
+    "startAt": 1625464800000,
+    "endAt": 1625896799000
+  },
+  {
+    "homeBannerId": 180,
+    "seq": 200,
+    "homeBannerType": "general",
+    "name": "[2021/07]プレミアムミッションパス",
+    "assetbundleName": "banner_premiummissionpass_2021_07",
+    "transitionDestinationType": "billing_shop_for_live_mission_pass",
+    "startAt": 1625065200000,
+    "endAt": 1627743599000
   }
 ]
