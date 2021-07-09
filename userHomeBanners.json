@@ -22,28 +22,6 @@
     "endAt": 4102412399000
   },
   {
-    "homeBannerId": 175,
-    "seq": 100,
-    "homeBannerType": "event",
-    "name": "[イベント]Unnamed Harmony",
-    "assetbundleName": "event_unnamed_2021",
-    "transitionDestinationType": "event",
-    "transitionDestinationId": 27,
-    "startAt": 1625032800000,
-    "endAt": 1625810399000
-  },
-  {
-    "homeBannerId": 176,
-    "seq": 110,
-    "homeBannerType": "general",
-    "name": "レオ二イベ5巡目_定常ガチャバナー",
-    "assetbundleName": "banner_gacha99",
-    "transitionDestinationType": "gacha",
-    "transitionDestinationId": 99,
-    "startAt": 1625032800000,
-    "endAt": 1625810399000
-  },
-  {
     "homeBannerId": 179,
     "seq": 130,
     "homeBannerType": "general",
@@ -63,5 +41,27 @@
     "transitionDestinationType": "billing_shop_for_live_mission_pass",
     "startAt": 1625065200000,
     "endAt": 1627743599000
+  },
+  {
+    "homeBannerId": 181,
+    "seq": 100,
+    "homeBannerType": "event",
+    "name": "[イベント]Awakening Beat",
+    "assetbundleName": "event_awakening_2021",
+    "transitionDestinationType": "event",
+    "transitionDestinationId": 28,
+    "startAt": 1625810400000,
+    "endAt": 1626760799000
+  },
+  {
+    "homeBannerId": 182,
+    "seq": 110,
+    "homeBannerType": "general",
+    "name": "ビビバスイベ4巡目_定常ガチャバナー",
+    "assetbundleName": "banner_gacha102",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 102,
+    "startAt": 1625810400000,
+    "endAt": 1626760799000
   }
 ]
