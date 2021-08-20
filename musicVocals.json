@@ -6495,6 +6495,76 @@
     "assetbundleName": "an_0106_01"
   },
   {
+    "id": 256,
+    "musicId": 136,
+    "musicVocalType": "original_song",
+    "seq": 1,
+    "releaseConditionId": 5,
+    "caption": "バーチャル・シンガーver.",
+    "characters": [
+      {
+        "id": 505,
+        "musicId": 136,
+        "musicVocalId": 256,
+        "characterType": "outside_character",
+        "characterId": 2,
+        "seq": 1360
+      }
+    ],
+    "assetbundleName": "vs_0136_01"
+  },
+  {
+    "id": 257,
+    "musicId": 136,
+    "musicVocalType": "sekai",
+    "seq": 2,
+    "releaseConditionId": 5,
+    "caption": "セカイver.",
+    "characters": [
+      {
+        "id": 506,
+        "musicId": 136,
+        "musicVocalId": 257,
+        "characterType": "game_character",
+        "characterId": 23,
+        "seq": 1361
+      },
+      {
+        "id": 708,
+        "musicId": 136,
+        "musicVocalId": 257,
+        "characterType": "game_character",
+        "characterId": 9,
+        "seq": 1362
+      },
+      {
+        "id": 709,
+        "musicId": 136,
+        "musicVocalId": 257,
+        "characterType": "game_character",
+        "characterId": 10,
+        "seq": 1363
+      },
+      {
+        "id": 710,
+        "musicId": 136,
+        "musicVocalId": 257,
+        "characterType": "game_character",
+        "characterId": 11,
+        "seq": 1364
+      },
+      {
+        "id": 711,
+        "musicId": 136,
+        "musicVocalId": 257,
+        "characterType": "game_character",
+        "characterId": 12,
+        "seq": 1365
+      }
+    ],
+    "assetbundleName": "se_0136_01"
+  },
+  {
     "id": 258,
     "musicId": 137,
     "musicVocalType": "original_song",
@@ -8315,5 +8385,110 @@
       }
     ],
     "assetbundleName": "an_0140_01"
+  },
+  {
+    "id": 379,
+    "musicId": 166,
+    "musicVocalType": "sekai",
+    "seq": 2,
+    "releaseConditionId": 5,
+    "caption": "セカイver.",
+    "characters": [
+      {
+        "id": 699,
+        "musicId": 166,
+        "musicVocalId": 379,
+        "characterType": "game_character",
+        "characterId": 15,
+        "seq": 1661
+      },
+      {
+        "id": 700,
+        "musicId": 166,
+        "musicVocalId": 379,
+        "characterType": "game_character",
+        "characterId": 24,
+        "seq": 1662
+      },
+      {
+        "id": 701,
+        "musicId": 166,
+        "musicVocalId": 379,
+        "characterType": "game_character",
+        "characterId": 13,
+        "seq": 1663
+      },
+      {
+        "id": 702,
+        "musicId": 166,
+        "musicVocalId": 379,
+        "characterType": "game_character",
+        "characterId": 14,
+        "seq": 1664
+      },
+      {
+        "id": 703,
+        "musicId": 166,
+        "musicVocalId": 379,
+        "characterType": "game_character",
+        "characterId": 16,
+        "seq": 1665
+      }
+    ],
+    "assetbundleName": "se_0166_01"
+  },
+  {
+    "id": 383,
+    "musicId": 136,
+    "musicVocalType": "another_vocal",
+    "seq": 3,
+    "releaseConditionId": 9,
+    "caption": "アナザーボーカルver.",
+    "characters": [
+      {
+        "id": 712,
+        "musicId": 136,
+        "musicVocalId": 383,
+        "characterType": "game_character",
+        "characterId": 9,
+        "seq": 1366
+      },
+      {
+        "id": 713,
+        "musicId": 136,
+        "musicVocalId": 383,
+        "characterType": "game_character",
+        "characterId": 11,
+        "seq": 1367
+      }
+    ],
+    "assetbundleName": "an_0136_01"
+  },
+  {
+    "id": 384,
+    "musicId": 136,
+    "musicVocalType": "another_vocal",
+    "seq": 4,
+    "releaseConditionId": 9,
+    "caption": "アナザーボーカルver.",
+    "characters": [
+      {
+        "id": 714,
+        "musicId": 136,
+        "musicVocalId": 384,
+        "characterType": "game_character",
+        "characterId": 10,
+        "seq": 1368
+      },
+      {
+        "id": 715,
+        "musicId": 136,
+        "musicVocalId": 384,
+        "characterType": "game_character",
+        "characterId": 12,
+        "seq": 1369
+      }
+    ],
+    "assetbundleName": "an_0136_02"
   }
 ]
