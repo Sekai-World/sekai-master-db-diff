@@ -32,36 +32,36 @@
     "endAt": 1630421999000
   },
   {
-    "homeBannerId": 200,
-    "seq": 100,
-    "homeBannerType": "event",
-    "name": "[イベント]ハッピー・ラブリー・エブリデイ！",
-    "assetbundleName": "event_everyday_2021",
-    "transitionDestinationType": "event",
-    "transitionDestinationId": 31,
-    "startAt": 1628575200000,
-    "endAt": 1629439199000
-  },
-  {
-    "homeBannerId": 201,
-    "seq": 110,
+    "homeBannerId": 207,
+    "seq": 60,
     "homeBannerType": "general",
-    "name": "モモジャン5巡目_定常ガチャバナー",
-    "assetbundleName": "banner_gacha110",
-    "transitionDestinationType": "gacha",
-    "transitionDestinationId": 110,
-    "startAt": 1628575200000,
-    "endAt": 1629439199000
-  },
-  {
-    "homeBannerId": 206,
-    "seq": 150,
-    "homeBannerType": "general",
-    "name": "イベントストーリーシアター_予告用バナー",
-    "assetbundleName": "banner_event_theater_notice",
+    "name": "イベントストーリーシアター_当日用バナー",
+    "assetbundleName": "banner_event_theater_today",
     "transitionDestinationType": "information",
     "transitionDestinationId": 799,
-    "startAt": 1628931600000,
-    "endAt": 1629471599000
+    "startAt": 1629471600000,
+    "endAt": 1629536399000
+  },
+  {
+    "homeBannerId": 208,
+    "seq": 100,
+    "homeBannerType": "event",
+    "name": "[イベント]マーメイドにあこがれて",
+    "assetbundleName": "event_mermaid_2021",
+    "transitionDestinationType": "event",
+    "transitionDestinationId": 32,
+    "startAt": 1629439200000,
+    "endAt": 1630389599000
+  },
+  {
+    "homeBannerId": 210,
+    "seq": 110,
+    "homeBannerType": "general",
+    "name": "ワンダショ5巡目_定常ガチャバナー",
+    "assetbundleName": "banner_gacha112",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 112,
+    "startAt": 1629439200000,
+    "endAt": 1630389599000
   }
 ]
