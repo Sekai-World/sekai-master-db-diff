@@ -32,17 +32,6 @@
     "endAt": 1630421999000
   },
   {
-    "homeBannerId": 207,
-    "seq": 60,
-    "homeBannerType": "general",
-    "name": "イベントストーリーシアター_当日用バナー",
-    "assetbundleName": "banner_event_theater_today",
-    "transitionDestinationType": "information",
-    "transitionDestinationId": 799,
-    "startAt": 1629471600000,
-    "endAt": 1629536399000
-  },
-  {
     "homeBannerId": 208,
     "seq": 100,
     "homeBannerType": "event",
@@ -63,5 +52,38 @@
     "transitionDestinationId": 112,
     "startAt": 1629439200000,
     "endAt": 1630389599000
+  },
+  {
+    "homeBannerId": 211,
+    "seq": 120,
+    "homeBannerType": "general",
+    "name": "ワンダショ5巡目_メンバー出現率UPガチャバナー",
+    "assetbundleName": "banner_gacha113",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 113,
+    "startAt": 1629784800000,
+    "endAt": 1630238399000
+  },
+  {
+    "homeBannerId": 213,
+    "seq": 130,
+    "homeBannerType": "general",
+    "name": "HAPPY BIRTHDAYライブ 瑞希",
+    "assetbundleName": "banner_virtuallive91",
+    "transitionDestinationType": "virtual_live",
+    "transitionDestinationId": 91,
+    "startAt": 1629871200000,
+    "endAt": 1630130399000
+  },
+  {
+    "homeBannerId": 214,
+    "seq": 150,
+    "homeBannerType": "general",
+    "name": "イベントストーリーシアター_予告用バナー",
+    "assetbundleName": "banner_event_theater_notice",
+    "transitionDestinationType": "information",
+    "transitionDestinationId": 800,
+    "startAt": 1629536400000,
+    "endAt": 1630162799000
   }
 ]
