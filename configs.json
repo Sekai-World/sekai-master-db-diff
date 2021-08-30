@@ -348,6 +348,10 @@
     "value": "https://itunes.apple.com/app/id1489932710"
   },
   {
+    "configKey": "google_billing_pending_code",
+    "value": "4"
+  },
+  {
     "configKey": "inherit_deadline_hour",
     "value": "72"
   },
@@ -500,6 +504,10 @@
     "value": "2021/04/30 14:59:59"
   },
   {
+    "configKey": "force_update_spring_bone_frame_count",
+    "value": "60"
+  },
+  {
     "configKey": "friend_request_expire_hour",
     "value": "168"
   },
@@ -510,6 +518,62 @@
   {
     "configKey": "friend_count_limit",
     "value": "100"
+  },
+  {
+    "configKey": "custom_profile_can_snap_delta_rotation_deg",
+    "value": "1"
+  },
+  {
+    "configKey": "custom_profile_rotation_per_snap_deg",
+    "value": "45"
+  },
+  {
+    "configKey": "custom_profile_unsnapped_rotation_threshold_deg",
+    "value": "5"
+  },
+  {
+    "configKey": "custom_profile_can_snap_delta_move_value",
+    "value": "1"
+  },
+  {
+    "configKey": "custom_profile_unsnapped_move_threshold",
+    "value": "25"
+  },
+  {
+    "configKey": "custom_profile_delta_move_value_per_snap",
+    "value": "25"
+  },
+  {
+    "configKey": "custom_profile_min_content_size",
+    "value": "64"
+  },
+  {
+    "configKey": "custom_profile_max_content_scale",
+    "value": "2"
+  },
+  {
+    "configKey": "custom_profile_scale_base_size",
+    "value": "256"
+  },
+  {
+    "configKey": "custom_profile_drag_mode_long_press_time_sec",
+    "value": "0.2"
+  },
+  {
+    "configKey": "custom_profile_max_place_content_count",
+    "value": "100"
+  },
+  {
+    "configKey": "custom_profile_thumbnail_path_prefix",
+    "value": "image/custom-profile-card/thumbnail"
+  },
+  {
+    "configKey": "custom_profile_min_text_size",
+    "value": "24"
+  },
+  {
+    "configKey": "custom_profile_max_text_size",
+    "value": "96"
   },
   {
     "configKey": "debug_auth_disable",

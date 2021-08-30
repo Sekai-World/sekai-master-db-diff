@@ -48,8 +48,16 @@
     "value": "スクリーンショット機能をご利用いただく場合、\n端末内のメディアやファイルへのアクセスを\n「プロセカ」に許可する必要があります。\n\n端末の設定画面を開き、アクセスを許可してください。"
   },
   {
+    "wordingKey": "MSG_ALBUM_PERMISSION_NOT_GRANTED_WITH_REASON_ANDROID",
+    "value": "スクリーンショット機能をご利用いただく場合、\n端末内のメディアやファイルへのアクセスを\n「プロセカ」に許可する必要があります。"
+  },
+  {
     "wordingKey": "MSG_ALL_UNLOCK_STORY",
     "value": "すべてのストーリーを解放しました。"
+  },
+  {
+    "wordingKey": "MSG_ALREADY_CLEARED_LIVE_RETRY",
+    "value": "通信切断を検知したため、タイトル画面に戻ります。\nライブ結果は正常に反映されています。"
   },
   {
     "wordingKey": "MSG_ANDROID_RATING",
@@ -196,6 +204,22 @@
     "value": "不正行為が検出されたため、\n今回のライブ結果が無効になります。\n\n不正行為が再度検出された場合、\nアカウントが停止される可能性があります。"
   },
   {
+    "wordingKey": "MSG_CHECK_BACK_SCREEN_NOT_SAVED",
+    "value": "プロフィールカードは保存されていません。\n保存して戻りますか？"
+  },
+  {
+    "wordingKey": "MSG_CHECK_DELETE_CARD",
+    "value": "選択したプロフィールカードを削除します。\nよろしいですか？"
+  },
+  {
+    "wordingKey": "MSG_CHECK_REVERT_BEFORE_EDIT",
+    "value": "編集開始前の状態に戻すことができます。\n本当に元に戻しますか？"
+  },
+  {
+    "wordingKey": "MSG_CHECK_REVERT_INITIAL_STATE",
+    "value": "現在の編集内容を破棄して、白紙の状態に戻します。 \nよろしいですか？"
+  },
+  {
     "wordingKey": "MSG_CHEERFUL_CARNIVAL_CHECK_JOIN_TEAM",
     "value": "<color=#ff5588>「{0}」</color>グループに決定します。\nよろしいですか？"
   },
@@ -296,6 +320,10 @@
     "value": "購入に失敗しました。\nしばらく時間を置いてから再度お試しください。"
   },
   {
+    "wordingKey": "MSG_CUSTOMPROFILE_HONOR_EMPTY",
+    "value": "表示できる称号がありません"
+  },
+  {
     "wordingKey": "MSG_DATA_LINK_RELEASE",
     "value": "ゲームデータの連携を解除しました。"
   },
@@ -344,8 +372,16 @@
     "value": "※あとから「オプション」で変更することができます。\n※選択しなかった楽曲ver.も再生することができます。"
   },
   {
+    "wordingKey": "MSG_DEFERRED_PURCHASE",
+    "value": "商品は、お支払い完了後ショップ画面にて反映されます。\n商品の反映には時間がかかる場合があります。"
+  },
+  {
     "wordingKey": "MSG_DISCONNECT_LEFT_ROOM",
     "value": "通信が切断されたためホームに戻ります。"
+  },
+  {
+    "wordingKey": "MSG_DISCONNECT_LEFT_ROOM_CODE",
+    "value": "通信が切断されたためホームに戻ります。<size=28>({0})</size>"
   },
   {
     "wordingKey": "MSG_DOWNLOAD_CONFIRM_1",
@@ -784,6 +820,10 @@
     "value": "マッチングに失敗しました。"
   },
   {
+    "wordingKey": "MSG_MATCHING_ERROR_WITH_ERROR_CODE",
+    "value": "マッチングに失敗しました。({0})"
+  },
+  {
     "wordingKey": "MSG_MATCHING_NOW_DESCRIPTION",
     "value": "ルームを探しています…"
   },
@@ -798,6 +838,10 @@
   {
     "wordingKey": "MSG_MAX_ANOUNCE",
     "value": "※最大{0}まで。"
+  },
+  {
+    "wordingKey": "MSG_MAX_PLACE_COUNT",
+    "value": "レイヤーの上限数に達しました。"
   },
   {
     "wordingKey": "MSG_MEMBER_DETAIL_EXPLANATION_NL",
@@ -848,6 +892,10 @@
     "value": "ムービーをスキップしますか？"
   },
   {
+    "wordingKey": "MSG_MULTIPLAY_AUTH_FAILED_WITH_ERROR_CODE",
+    "value": "認証に失敗しました。({0})"
+  },
+  {
     "wordingKey": "MSG_MULTIPLAY_ERROR_AUTH",
     "value": "認証に失敗しました。"
   },
@@ -864,6 +912,10 @@
     "value": "ルームの作成に失敗しました。"
   },
   {
+    "wordingKey": "MSG_MULTIPLAY_ERROR_CREATE_ROOM_WITH_ERROR_CODE",
+    "value": "ルームの作成に失敗しました。({0})"
+  },
+  {
     "wordingKey": "MSG_MULTIPLAY_ERROR_DISCONNECT",
     "value": "通信が切断されました。 \nライブTOPへ戻ります。"
   },
@@ -872,20 +924,56 @@
     "value": "通信が切断されました。 \nホームへ戻ります。"
   },
   {
+    "wordingKey": "MSG_MULTIPLAY_ERROR_DISCONNECT_WITH_ERROR_CODE",
+    "value": "通信が切断されました。 ({0})\nライブTOPへ戻ります。"
+  },
+  {
     "wordingKey": "MSG_MULTIPLAY_ERROR_JOIN_ROOM",
     "value": "ルームの入室に失敗しました。"
+  },
+  {
+    "wordingKey": "MSG_MULTIPLAY_ERROR_JOIN_ROOM_WITH_ERROR_CODE",
+    "value": "ルームの入室に失敗しました。({0})"
   },
   {
     "wordingKey": "MSG_MULTIPLAY_ERROR_LACK_POWER",
     "value": "総合力が不足しています。"
   },
   {
+    "wordingKey": "MSG_MULTIPLAY_ERROR_LACK_POWER_WITH_ERROR_CODE",
+    "value": "総合力が不足しています。({0})"
+  },
+  {
     "wordingKey": "MSG_MULTIPLAY_ERROR_NOTFOUND",
     "value": "指定のルームへ入室することができませんでした。"
   },
   {
+    "wordingKey": "MSG_MULTIPLAY_ERROR_NOTFOUND_WITH_ERROR_CODE",
+    "value": "指定のルームへ入室することができませんでした。({0})"
+  },
+  {
+    "wordingKey": "MSG_MULTIPLAY_NETWORK_UNREACHABLE_WITH_ERROR_CODE",
+    "value": "通信エラーが発生しました。({0})"
+  },
+  {
+    "wordingKey": "MSG_MULTIPLAY_PRIVATE_ROOM_NOT_FOUND_WITH_ERROR_CODE",
+    "value": "指定のルームへ入室することができませんでした。({0})"
+  },
+  {
+    "wordingKey": "MSG_MULTIPLAY_ROOM_FULL_WITH_ERROR_CODE",
+    "value": "ルームが満員です。({0})"
+  },
+  {
+    "wordingKey": "MSG_MULTIPLAY_ROOM_NOT_FOUND_WITH_ERROR_CODE",
+    "value": "ルームが見つかりません。({0})"
+  },
+  {
     "wordingKey": "MSG_MULTI_DISSOLUSION",
     "value": "ルームが解散されました。"
+  },
+  {
+    "wordingKey": "MSG_MULTI_DISSOLUSION_WITH_ERROR_CODE",
+    "value": "ルームが解散されました。({0})"
   },
   {
     "wordingKey": "MSG_MULTI_LIVE_RESULT_ADJUST_SCORE_BY_DISCONNECTED_USER",
@@ -938,6 +1026,10 @@
   {
     "wordingKey": "MSG_NEED_SELECT_LIST_SETTING",
     "value": "ガチャを引くにはセレクトリストの設定が必要です。\n\n<color=#ff5599>※すべてのメンバー枠を設定する必要があります。</color>"
+  },
+  {
+    "wordingKey": "MSG_NETWORK_CONNECTION_ERROR",
+    "value": "通信に失敗しました。"
   },
   {
     "wordingKey": "MSG_NGWORD_BALLOON",
@@ -1140,6 +1232,10 @@
     "value": "再生を一時停止しました。 \n再生を再開しますか？"
   },
   {
+    "wordingKey": "MSG_PAYMENT_WAIT_RECEIPT",
+    "value": "お支払いが完了していない商品があります。"
+  },
+  {
     "wordingKey": "MSG_PIN_THE_LEADER",
     "value": "リーダーを固定にする"
   },
@@ -1166,6 +1262,10 @@
   {
     "wordingKey": "MSG_PRESENT_COUNT",
     "value": "{0}件"
+  },
+  {
+    "wordingKey": "MSG_PRODUCT_IS_PENDING",
+    "value": "お支払いが完了していない商品があるため、商品を購入できません。"
   },
   {
     "wordingKey": "MSG_PUBLISH_ROOM",
@@ -1204,6 +1304,10 @@
     "value": "再接続中です。"
   },
   {
+    "wordingKey": "MSG_RECONNECT_CODE",
+    "value": "再接続中です。<size=28>({0})</size>"
+  },
+  {
     "wordingKey": "MSG_RELEASE_ATTRIBUTE_AREA_SHOP",
     "value": "エリア「宮益坂女子学園」「神山高校」に\nエリアショップが登場しました。\n今すぐ移動しますか？"
   },
@@ -1222,6 +1326,10 @@
   {
     "wordingKey": "MSG_REQUIRE_MEMBER_LV",
     "value": "メンバーLv.{0}以上が必要です。"
+  },
+  {
+    "wordingKey": "MSG_REREFLECT_PRODUCT_HOME",
+    "value": "クリスタルショップにて受け取り可能な商品があります。"
   },
   {
     "wordingKey": "MSG_RESET_AT_HOUR",
@@ -1270,6 +1378,10 @@
   {
     "wordingKey": "MSG_SELECT_ACTION_FROM_BELOW",
     "value": "設定したいアクションを下から選んでください"
+  },
+  {
+    "wordingKey": "MSG_SELECT_CLEANUP",
+    "value": "プロフィールカードが保存されていません。\n保存して戻りますか？"
   },
   {
     "wordingKey": "MSG_SELECT_LIST",
@@ -1772,6 +1884,14 @@
     "value": "すべて"
   },
   {
+    "wordingKey": "WORD_ALL_PERFECT",
+    "value": "ALL PERFECT"
+  },
+  {
+    "wordingKey": "WORD_ALREADY_CLEARED_LIVE_RETRY",
+    "value": "通信結果"
+  },
+  {
     "wordingKey": "WORD_ALREADY_DOWNLOADED",
     "value": "DL済み"
   },
@@ -1918,6 +2038,10 @@
   {
     "wordingKey": "WORD_BOOST_RECOVER_METHOD_JEWEL",
     "value": "クリスタル"
+  },
+  {
+    "wordingKey": "WORD_BORDER_TRANSPARENCY",
+    "value": "枠線不透明度"
   },
   {
     "wordingKey": "WORD_BOUNS_DETAIL",
@@ -2094,6 +2218,18 @@
   {
     "wordingKey": "WORD_CHARA_TICKET_STAR_THREE",
     "value": "★３メンバー"
+  },
+  {
+    "wordingKey": "WORD_CHECK_CARD_IMAGE_TYPE",
+    "value": "カード表示確認"
+  },
+  {
+    "wordingKey": "WORD_CHECK_DELTE",
+    "value": "削除確認"
+  },
+  {
+    "wordingKey": "WORD_CHECK_PROFILE",
+    "value": "プレビュー"
   },
   {
     "wordingKey": "WORD_CHEERFUL_CARNIVAL_CHECK_JOIN_TEAM",
@@ -2328,6 +2464,18 @@
     "value": "現在のハイスコア"
   },
   {
+    "wordingKey": "WORD_CUSTOM_PROFILE",
+    "value": "カスタムプロフィール"
+  },
+  {
+    "wordingKey": "WORD_CUSTOM_PROFILE_EDIT_CARD",
+    "value": "カスタムプロフィール編集"
+  },
+  {
+    "wordingKey": "WORD_CUSTOM_PROFILE_SELECT_CONTENT_FORMAT",
+    "value": "<color=#ff5588>{0}</color>"
+  },
+  {
     "wordingKey": "WORD_CUTIN_EFFECT",
     "value": "カットイン演出"
   },
@@ -2388,6 +2536,10 @@
     "value": "デフォルト楽曲選択"
   },
   {
+    "wordingKey": "WORD_DEFAULT_PROFILE_NAME",
+    "value": "プロフィール"
+  },
+  {
     "wordingKey": "WORD_DEFAULT_TEAM_FORMAT",
     "value": "{0}チーム"
   },
@@ -2396,12 +2548,20 @@
     "value": "セカイの住人"
   },
   {
+    "wordingKey": "WORD_DELETE",
+    "value": "削除"
+  },
+  {
     "wordingKey": "WORD_DESC_ORDER",
     "value": "降順"
   },
   {
     "wordingKey": "WORD_DESIGNE",
     "value": "デザイン"
+  },
+  {
+    "wordingKey": "WORD_DESIGN_EDIT",
+    "value": "編集"
   },
   {
     "wordingKey": "WORD_DETAIL",
@@ -2470,6 +2630,22 @@
   {
     "wordingKey": "WORD_EFFECT_SCALE",
     "value": "{0}倍"
+  },
+  {
+    "wordingKey": "WORD_EMPTY_BACKGROUND",
+    "value": "表示できる背景がありません。"
+  },
+  {
+    "wordingKey": "WORD_EMPTY_COLLECTION",
+    "value": "表示できるコレクションがありません。"
+  },
+  {
+    "wordingKey": "WORD_EMPTY_MEMBER",
+    "value": "表示できるメンバーがいません。"
+  },
+  {
+    "wordingKey": "WORD_EMPTY_SHAPE",
+    "value": "表示できる図形がありません。"
   },
   {
     "wordingKey": "WORD_ENTER_LIMIT",
@@ -2692,6 +2868,14 @@
     "value": "確定枠提供割合"
   },
   {
+    "wordingKey": "WORD_FONT_COLOR_SELECT",
+    "value": "文字カラー選択"
+  },
+  {
+    "wordingKey": "WORD_FONT_OUTLINE_COLOR_SELECT",
+    "value": "枠線カラー選択"
+  },
+  {
     "wordingKey": "WORD_FREE",
     "value": "無料"
   },
@@ -2768,6 +2952,10 @@
     "value": "FULLCOMBO"
   },
   {
+    "wordingKey": "WORD_FULL_HONOR_SIZE",
+    "value": "メイン"
+  },
+  {
     "wordingKey": "WORD_GACHA",
     "value": "ガチャ"
   },
@@ -2798,6 +2986,10 @@
   {
     "wordingKey": "WORD_GACHA_TICKET",
     "value": "ガチャチケット"
+  },
+  {
+    "wordingKey": "WORD_GENERAL",
+    "value": "汎用"
   },
   {
     "wordingKey": "WORD_GET_CEIL_ITEM",
@@ -2992,6 +3184,10 @@
     "value": "非表示"
   },
   {
+    "wordingKey": "WORD_HIDE",
+    "value": "非表示"
+  },
+  {
     "wordingKey": "WORD_HIDE_MUSIC_NAME",
     "value": "？？？"
   },
@@ -3108,6 +3304,10 @@
     "value": "データ引き継ぎ設定"
   },
   {
+    "wordingKey": "WORD_INIT_TEMPLATE_TEXT",
+    "value": "よろしく！"
+  },
+  {
     "wordingKey": "WORD_INPUT_NAME",
     "value": "名前入力"
   },
@@ -3150,6 +3350,22 @@
   {
     "wordingKey": "WORD_JOIN_PRIVATE_ROOM",
     "value": "プライベートルーム入室"
+  },
+  {
+    "wordingKey": "WORD_LAYER_BACK",
+    "value": "最背面"
+  },
+  {
+    "wordingKey": "WORD_LAYER_DOWN",
+    "value": "背面"
+  },
+  {
+    "wordingKey": "WORD_LAYER_FRONT",
+    "value": "最前面"
+  },
+  {
+    "wordingKey": "WORD_LAYER_UP",
+    "value": "前面"
   },
   {
     "wordingKey": "WORD_LEFT_ROOM",
@@ -3480,6 +3696,10 @@
     "value": "メンバー交換確認"
   },
   {
+    "wordingKey": "WORD_MEMBER_INFO",
+    "value": "メンバー情報"
+  },
+  {
     "wordingKey": "WORD_MEMBER_LEVEL",
     "value": "メンバーLv."
   },
@@ -3514,6 +3734,14 @@
   {
     "wordingKey": "WORD_MIGRATION_NL",
     "value": "データ引き継ぎ"
+  },
+  {
+    "wordingKey": "WORD_MINI_CHARACTER",
+    "value": "ミニキャラ"
+  },
+  {
+    "wordingKey": "WORD_MINI_HONOR_SIZE",
+    "value": "サブ"
   },
   {
     "wordingKey": "WORD_MISSING_ADD_FRIEND",
@@ -3700,6 +3928,10 @@
     "value": "満足していない"
   },
   {
+    "wordingKey": "WORD_NOT_SAVE_RETURN",
+    "value": "保存しないで戻る"
+  },
+  {
     "wordingKey": "WORD_NOT_SCORE_S",
     "value": "未スコアS"
   },
@@ -3714,6 +3946,10 @@
   {
     "wordingKey": "WORD_NO_CHARGE",
     "value": "無償"
+  },
+  {
+    "wordingKey": "WORD_NO_PLACE_CONTENT",
+    "value": "まだ何も配置していません"
   },
   {
     "wordingKey": "WORD_NO_SELECTING",
@@ -3964,6 +4200,10 @@
     "value": "受け取り期限が過ぎています"
   },
   {
+    "wordingKey": "WORD_PREVIEW",
+    "value": "プレビュー"
+  },
+  {
     "wordingKey": "WORD_PRE_DOWNLOAD",
     "value": "事前DL"
   },
@@ -3982,6 +4222,10 @@
   {
     "wordingKey": "WORD_PROFILE",
     "value": "プロフィール"
+  },
+  {
+    "wordingKey": "WORD_PROFILE_CARD",
+    "value": "プロフィールカード"
   },
   {
     "wordingKey": "WORD_PROVISION_RATIO",
@@ -4144,6 +4388,10 @@
     "value": "解放条件"
   },
   {
+    "wordingKey": "WORD_RELEASE_PROFILE",
+    "value": "プロフィール解除"
+  },
+  {
     "wordingKey": "WORD_RELEASE_SKILL_UP",
     "value": "スキルアップ解放"
   },
@@ -4188,6 +4436,14 @@
     "value": "再開"
   },
   {
+    "wordingKey": "WORD_REVERT_BEFORE_EDIT",
+    "value": "元に戻す"
+  },
+  {
+    "wordingKey": "WORD_REVERT_INITIAL_STATE",
+    "value": "白紙"
+  },
+  {
     "wordingKey": "WORD_REWARD",
     "value": "報酬"
   },
@@ -4210,6 +4466,18 @@
   {
     "wordingKey": "WORD_SATISFIED",
     "value": "満足"
+  },
+  {
+    "wordingKey": "WORD_SAVE",
+    "value": "保存"
+  },
+  {
+    "wordingKey": "WORD_SAVED",
+    "value": "保存しました"
+  },
+  {
+    "wordingKey": "WORD_SAVE_RETURN",
+    "value": "保存して戻る"
   },
   {
     "wordingKey": "WORD_SCHEDULE",
@@ -4261,7 +4529,7 @@
   },
   {
     "wordingKey": "WORD_SELECT",
-    "value": "選択"
+    "value": "決定"
   },
   {
     "wordingKey": "WORD_SELECTED_MEMBER",
@@ -4282,6 +4550,10 @@
   {
     "wordingKey": "WORD_SELECTING_PERIOD",
     "value": "選択中..."
+  },
+  {
+    "wordingKey": "WORD_SELECT_CLEANUP_TITLE",
+    "value": "取り消し確認"
   },
   {
     "wordingKey": "WORD_SELECT_COLOR",
@@ -4305,7 +4577,11 @@
   },
   {
     "wordingKey": "WORD_SELECT_RANK",
-    "value": "ランク選択"
+    "value": "ランク表示確認"
+  },
+  {
+    "wordingKey": "WORD_SELECT_TEMPLATE",
+    "value": "テンプレート選択"
   },
   {
     "wordingKey": "WORD_SEND",
@@ -4330,6 +4606,26 @@
   {
     "wordingKey": "WORD_SET_IT_LATER",
     "value": "あとで設定"
+  },
+  {
+    "wordingKey": "WORD_SET_PROFILE",
+    "value": "プロフィールに設定"
+  },
+  {
+    "wordingKey": "WORD_SHAPE_COLOR",
+    "value": "図形カラー"
+  },
+  {
+    "wordingKey": "WORD_SHAPE_MAIN_COLOR_SELECT",
+    "value": "図形カラー選択"
+  },
+  {
+    "wordingKey": "WORD_SHAPE_OUTLINE_COLOR_SELECT",
+    "value": "枠線カラー選択"
+  },
+  {
+    "wordingKey": "WORD_SHAPE_TRANSPARENCY",
+    "value": "図形不透明度"
   },
   {
     "wordingKey": "WORD_SHOP_AD",
@@ -4426,6 +4722,10 @@
   {
     "wordingKey": "WORD_SINGER",
     "value": "Vo."
+  },
+  {
+    "wordingKey": "WORD_SIZE",
+    "value": "表示"
   },
   {
     "wordingKey": "WORD_SKILL_LEVEL",
@@ -4544,6 +4844,10 @@
     "value": "通常"
   },
   {
+    "wordingKey": "WORD_STAND_IMAGE",
+    "value": "全身絵"
+  },
+  {
     "wordingKey": "WORD_START",
     "value": "スタート"
   },
@@ -4612,12 +4916,24 @@
     "value": "会話ログ"
   },
   {
+    "wordingKey": "WORD_TEMPLATE_LAYOUT",
+    "value": "テンプレート"
+  },
+  {
+    "wordingKey": "WORD_TEMPLATE_LAYOUT_WHITE",
+    "value": "テンプレートなし（白紙）"
+  },
+  {
     "wordingKey": "WORD_TERM",
     "value": "{0}〜{1}"
   },
   {
     "wordingKey": "WORD_TEXT",
     "value": "テキスト"
+  },
+  {
+    "wordingKey": "WORD_TEXT_NAME",
+    "value": "文字"
   },
   {
     "wordingKey": "WORD_THANK_YOU",
@@ -4802,6 +5118,10 @@
   {
     "wordingKey": "WORD_USE_COUNT",
     "value": "使用数"
+  },
+  {
+    "wordingKey": "WORD_VALUE_SET_GACHA_TICKET",
+    "value": "（ガチャを引く際に無償クリスタルの代わりに優先して消費されます）"
   },
   {
     "wordingKey": "WORD_VALUE_SHOP_NL",
@@ -4990,6 +5310,10 @@
   {
     "wordingKey": "WORD_VIRTUAL_SINGER_VERSION",
     "value": "バーチャル・シンガーver."
+  },
+  {
+    "wordingKey": "WORD_VISIBLE",
+    "value": "表示"
   },
   {
     "wordingKey": "WORD_VL_SETTINGS_LABEL_ALL",
