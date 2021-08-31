@@ -1630,7 +1630,8 @@
     "platform": "all",
     "title": "【8月31日7時30分追記】「v1.9.0」アップデート予定のお知らせ",
     "path": "information/index.html?id=info_update_storeopen-forcedupdate_maintenance_v190_20210831",
-    "startAt": 1630362600000
+    "startAt": 1630362600000,
+    "endAt": 1631559599000
   },
   {
     "id": 852,
@@ -1695,5 +1696,18 @@
     "title": "プロフィール画面のクリア及びフルコンボの数が正しく表示されていない不具合について",
     "path": "information/index.html?id=bug_profile_20210831",
     "startAt": 1630365000000
+  },
+  {
+    "id": 857,
+    "seq": 1,
+    "displayOrder": 20880,
+    "informationType": "bug",
+    "informationTag": "bug",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "一部楽曲の特定難易度において、SUPER FEVER を達成した場合でもFEVERと表示されてしまう不具合について",
+    "path": "information/index.html?id=bug_fix_superfever_20210831",
+    "startAt": 1630375200000,
+    "endAt": 1630670399000
   }
 ]
