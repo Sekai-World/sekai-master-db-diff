@@ -22,39 +22,6 @@
     "endAt": 4102412399000
   },
   {
-    "homeBannerId": 219,
-    "seq": 100,
-    "homeBannerType": "event",
-    "name": "[イベント]ふたり、月うさぎ",
-    "assetbundleName": "event_moonrabbit_2021",
-    "transitionDestinationType": "event",
-    "transitionDestinationId": 33,
-    "startAt": 1630389600000,
-    "endAt": 1631253599000
-  },
-  {
-    "homeBannerId": 221,
-    "seq": 110,
-    "homeBannerType": "general",
-    "name": "シャッフル月うさぎイベ_定常ガチャバナー",
-    "assetbundleName": "banner_gacha115",
-    "transitionDestinationType": "gacha",
-    "transitionDestinationId": 115,
-    "startAt": 1630389600000,
-    "endAt": 1631253599000
-  },
-  {
-    "homeBannerId": 223,
-    "seq": 130,
-    "homeBannerType": "general",
-    "name": "HAPPY BIRTHDAYライブ えむ",
-    "assetbundleName": "banner_virtuallive94",
-    "transitionDestinationType": "virtual_live",
-    "transitionDestinationId": 94,
-    "startAt": 1630994400000,
-    "endAt": 1631253599000
-  },
-  {
     "homeBannerId": 225,
     "seq": 200,
     "homeBannerType": "general",
@@ -63,5 +30,27 @@
     "transitionDestinationType": "billing_shop_for_live_mission_pass",
     "startAt": 1630422000000,
     "endAt": 1633013999000
+  },
+  {
+    "homeBannerId": 226,
+    "seq": 100,
+    "homeBannerType": "event",
+    "name": "[イベント]Knock the Future!!",
+    "assetbundleName": "event_future_2021",
+    "transitionDestinationType": "event",
+    "transitionDestinationId": 34,
+    "startAt": 1631253600000,
+    "endAt": 1632203999000
+  },
+  {
+    "homeBannerId": 228,
+    "seq": 110,
+    "homeBannerType": "general",
+    "name": "レオ二6巡目_定常ガチャバナー",
+    "assetbundleName": "banner_gacha118",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 118,
+    "startAt": 1631253600000,
+    "endAt": 1632203999000
   }
 ]
