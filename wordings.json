@@ -40,6 +40,10 @@
     "value": "自動調整結果で設定しますか？"
   },
   {
+    "wordingKey": "MSG_ADMISSION_LIMIT_PAID",
+    "value": "無料観賞の期間が終了しました。"
+  },
+  {
     "wordingKey": "MSG_ALBUM_PERMISSION_NOT_GRANTED",
     "value": "アルバムのアクセス権限がありません。\n端末の設定画面を開き、アクセスを許可してください。"
   },
@@ -472,6 +476,10 @@
     "value": "イベント期間中は消費数を<color=#ff55AA>最大{0}</color>まで設定できます。"
   },
   {
+    "wordingKey": "MSG_EXCHANGED_LIVE_TICKET",
+    "value": "{0}と交換しました。"
+  },
+  {
     "wordingKey": "MSG_EXCHANGE_ERROR",
     "value": "交換できるアイテムがありません。\nホームに戻ります"
   },
@@ -596,6 +604,10 @@
     "value": "交換所の期限が過ぎました。"
   },
   {
+    "wordingKey": "MSG_GACHA_LIMIT_SPIN_COUNT",
+    "value": "上限に達しました"
+  },
+  {
     "wordingKey": "MSG_GACHA_PAID_JEWEL_PRIORITY_USE",
     "value": "有償クリスタルを優先して消費する\n（有償で引いた分のみガチャボーナス2倍）"
   },
@@ -626,6 +638,10 @@
   {
     "wordingKey": "MSG_GACHA_SPIN_LIMIT",
     "value": "あと{0}回"
+  },
+  {
+    "wordingKey": "MSG_GACHA_TICKET_SPIN",
+    "value": "{0}<color=#FF55AA>{1}個</color>を消費して\n「{2}」を引きます。\nよろしいですか？"
   },
   {
     "wordingKey": "MSG_GACHA_TOP_SEAL_ON",
@@ -690,6 +706,14 @@
   {
     "wordingKey": "MSG_JOINED_GROUP_REWARD",
     "value": "グループのアバター衣装を獲得しました。"
+  },
+  {
+    "wordingKey": "MSG_KICKOUT_TO_HOME",
+    "value": "現在、問題が発生しました。\nしばらくお待ちになって、再度お試しください。"
+  },
+  {
+    "wordingKey": "MSG_KICKOUT_TO_WAITING_AREA",
+    "value": "現在、入場することができません。\nしばらくお待ちになって、再度お試しください。"
   },
   {
     "wordingKey": "MSG_LANE_ALPHA",
@@ -886,6 +910,10 @@
   {
     "wordingKey": "MSG_MODULE_MAINTENANCE",
     "value": "現在、この機能はメンテナンス中のためご利用になれません。\nご利用のお客様にはご不便をおかけしますが、\n対応完了まで今しばらくお待ちください。"
+  },
+  {
+    "wordingKey": "MSG_MOVE_STAGE_FAILED",
+    "value": "会場の移動に失敗しました。"
   },
   {
     "wordingKey": "MSG_MOVIE_SKIP_BODY",
@@ -1116,6 +1144,10 @@
     "value": "クリスタルが足りません。 \nクリスタルショップへ行きますか？"
   },
   {
+    "wordingKey": "MSG_NOT_ENOUGH_CURRENCY_FOR_VIRTUAL_LIVE_TICKET",
+    "value": "「{0}」の入場に必要なチケットを購入するためのクリスタルが不足しています。"
+  },
+  {
     "wordingKey": "MSG_NOT_ENOUGH_JEWEL",
     "value": "クリスタルが不足しています。"
   },
@@ -1238,6 +1270,10 @@
   {
     "wordingKey": "MSG_PIN_THE_LEADER",
     "value": "リーダーを固定にする"
+  },
+  {
+    "wordingKey": "MSG_PLACEHOLDER_LIMITED",
+    "value": "{0}回限定"
   },
   {
     "wordingKey": "MSG_PRACTICE_EXECUTE",
@@ -1946,6 +1982,10 @@
   {
     "wordingKey": "WORD_ARCHIVE_EVESTO_CHARA_FILTER_TITLE",
     "value": "キャラクター絞り込み"
+  },
+  {
+    "wordingKey": "WORD_ARCHIVE_PREMIUM_PASS_CLOTH_SHOP",
+    "value": "限定ライブ衣装"
   },
   {
     "wordingKey": "WORD_AREA_ITEM_EFFECT",
@@ -2805,7 +2845,7 @@
   },
   {
     "wordingKey": "WORD_EXCHANGE_ERROR_TITLE",
-    "value": "交換エラー"
+    "value": "交換確認"
   },
   {
     "wordingKey": "WORD_EXCHANGE_SELECT_ALL_MEMBER",
@@ -2974,6 +3014,10 @@
   {
     "wordingKey": "WORD_GACHA_EXPLANATION",
     "value": "ガチャ説明"
+  },
+  {
+    "wordingKey": "WORD_GACHA_EXTRA_BONUS",
+    "value": "ボーナス獲得"
   },
   {
     "wordingKey": "WORD_GACHA_SELECT_LIST",
@@ -3392,6 +3436,10 @@
     "value": "レベルアップ"
   },
   {
+    "wordingKey": "WORD_LIMITED_TIME_RELEASE",
+    "value": "期間限定解放中"
+  },
+  {
     "wordingKey": "WORD_LIST",
     "value": "一覧"
   },
@@ -3696,6 +3744,14 @@
     "value": "メンバー交換確認"
   },
   {
+    "wordingKey": "WORD_MEMBER_EXCHANGE_CONFIRM_SHOP",
+    "value": "既に獲得済みですが、交換しますか？\n<color=#ff5588>※獲得済みメンバーは控え室に送られます。</color>"
+  },
+  {
+    "wordingKey": "WORD_MEMBER_EXCHANGE_SHOP",
+    "value": "メンバー交換所"
+  },
+  {
     "wordingKey": "WORD_MEMBER_INFO",
     "value": "メンバー情報"
   },
@@ -3948,6 +4004,10 @@
     "value": "無償"
   },
   {
+    "wordingKey": "WORD_NO_ENTER",
+    "value": "入場禁止"
+  },
+  {
     "wordingKey": "WORD_NO_PLACE_CONTENT",
     "value": "まだ何も配置していません"
   },
@@ -3994,6 +4054,10 @@
   {
     "wordingKey": "WORD_OPEN_WINDOW",
     "value": "開く"
+  },
+  {
+    "wordingKey": "WORD_OPERATION_MESSAGE_TITLE",
+    "value": "運営より"
   },
   {
     "wordingKey": "WORD_OPTION",
@@ -4732,6 +4796,10 @@
     "value": "スキルレベル"
   },
   {
+    "wordingKey": "WORD_SKILL_LV",
+    "value": "SLv."
+  },
+  {
     "wordingKey": "WORD_SKILL_NAME",
     "value": "スキル"
   },
@@ -4758,6 +4826,22 @@
   {
     "wordingKey": "WORD_SKIP",
     "value": "スキップ"
+  },
+  {
+    "wordingKey": "WORD_SL_SETTINGS_CAMERA_SHAKE",
+    "value": "移動時のカメラ揺れ"
+  },
+  {
+    "wordingKey": "WORD_SL_SETTINGS_MOB_PATTERN",
+    "value": "会場キャラクターの表示数"
+  },
+  {
+    "wordingKey": "WORD_SL_SETTINGS_MOB_PATTERN_ALL",
+    "value": "標準"
+  },
+  {
+    "wordingKey": "WORD_SL_SETTINGS_MOB_PATTERN_REDUCED",
+    "value": "少ない"
   },
   {
     "wordingKey": "WORD_SOLO",

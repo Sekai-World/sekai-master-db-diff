@@ -65,7 +65,7 @@
   {
     "id": 19,
     "title": "ミラクルジェムの使い方＆入手方法",
-    "description": "★3以上のメンバーは「特訓」ができ\nパラメータと上限Lv.が上昇します。",
+    "description": "★3、★4メンバーは「特訓」ができ\nパラメータと上限Lv.が上昇します。",
     "fromUserRank": 1,
     "toUserRank": 20
   },
@@ -240,7 +240,7 @@
   {
     "id": 64,
     "title": "想いの結晶の使い方＆入手方法",
-    "description": "「想いのカケラ」は控え室から\n★3以下のメンバーと交換して獲得できます。",
+    "description": "「想いのカケラ」は控え室で\n★2、★3、バースデーメンバーを交換して獲得できます。",
     "fromUserRank": 25,
     "toUserRank": 50
   },
@@ -542,6 +542,27 @@
     "id": 115,
     "title": "プロフィール",
     "description": "「カスタムプロフィール」では素材を編集してオリジナルのプロフィールを作成できます。",
+    "fromUserRank": 1,
+    "toUserRank": 999
+  },
+  {
+    "id": 116,
+    "title": "バースデーメンバー",
+    "description": "バースデーメンバーは\n「バースデー」レアリティを持つ特別なメンバーです。",
+    "fromUserRank": 1,
+    "toUserRank": 999
+  },
+  {
+    "id": 117,
+    "title": "メンバー交換所",
+    "description": "「メンバー交換所」では\n過去に登場した恒常メンバーを交換できます。",
+    "fromUserRank": 1,
+    "toUserRank": 999
+  },
+  {
+    "id": 118,
+    "title": "イベントボーナス",
+    "description": "マスターランクが上がると\nイベントボーナスが加算されます。",
     "fromUserRank": 1,
     "toUserRank": 999
   },
