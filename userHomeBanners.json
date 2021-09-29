@@ -54,14 +54,46 @@
     "endAt": 1633067999000
   },
   {
-    "homeBannerId": 233,
-    "seq": 120,
+    "homeBannerId": 236,
+    "seq": 20,
     "homeBannerType": "general",
-    "name": "ニーゴ6巡目_メンバー出現率UPガチャバナー",
-    "assetbundleName": "banner_gacha121",
+    "name": "9/29の生放送用バナー",
+    "assetbundleName": "banner_livebroadcast_1st_anniversary_held",
+    "transitionDestinationType": "information",
+    "transitionDestinationId": 900,
+    "startAt": 1632841200000,
+    "endAt": 1632929399000
+  },
+  {
+    "homeBannerId": 237,
+    "seq": 50,
+    "homeBannerType": "general",
+    "name": "[1周年記念]メモリアルセレクトガチャ",
+    "assetbundleName": "banner_gacha124",
     "transitionDestinationType": "gacha",
-    "transitionDestinationId": 119,
-    "startAt": 1632463200000,
-    "endAt": 1632916799000
+    "transitionDestinationId": 124,
+    "startAt": 1632927600000,
+    "endAt": 1635659999000
+  },
+  {
+    "homeBannerId": 238,
+    "seq": 150,
+    "homeBannerType": "general",
+    "name": "1周年記念クリスタルショップ",
+    "assetbundleName": "banner_1st_anniversary_shop",
+    "transitionDestinationType": "billing_shop_for_jewel",
+    "startAt": 1632927600000,
+    "endAt": 1633964399000
+  },
+  {
+    "homeBannerId": 239,
+    "seq": 180,
+    "homeBannerType": "general",
+    "name": "1周年記念スペシャルライブ",
+    "assetbundleName": "banner_virtuallive97",
+    "transitionDestinationType": "virtual_live",
+    "transitionDestinationId": 97,
+    "startAt": 1632927900000,
+    "endAt": 1633154399000
   }
 ]
