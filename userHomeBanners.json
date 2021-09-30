@@ -22,16 +22,6 @@
     "endAt": 4102412399000
   },
   {
-    "homeBannerId": 225,
-    "seq": 200,
-    "homeBannerType": "general",
-    "name": "[2021/09]プレミアムミッションパス",
-    "assetbundleName": "banner_premiummissionpass_2021_09",
-    "transitionDestinationType": "billing_shop_for_live_mission_pass",
-    "startAt": 1630422000000,
-    "endAt": 1633013999000
-  },
-  {
     "homeBannerId": 230,
     "seq": 100,
     "homeBannerType": "event",
@@ -52,17 +42,6 @@
     "transitionDestinationId": 118,
     "startAt": 1632204000000,
     "endAt": 1633067999000
-  },
-  {
-    "homeBannerId": 236,
-    "seq": 20,
-    "homeBannerType": "general",
-    "name": "9/29の生放送用バナー",
-    "assetbundleName": "banner_livebroadcast_1st_anniversary_held",
-    "transitionDestinationType": "information",
-    "transitionDestinationId": 900,
-    "startAt": 1632841200000,
-    "endAt": 1632929399000
   },
   {
     "homeBannerId": 237,
@@ -95,5 +74,36 @@
     "transitionDestinationId": 97,
     "startAt": 1632927900000,
     "endAt": 1633154399000
+  },
+  {
+    "homeBannerId": 240,
+    "seq": 140,
+    "homeBannerType": "general",
+    "name": "[1周年記念]無料10連チケットガチャ",
+    "assetbundleName": "banner_gacha123",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 123,
+    "startAt": 1632942000000,
+    "endAt": 1634482799000
+  },
+  {
+    "homeBannerId": 241,
+    "seq": 20,
+    "homeBannerType": "general",
+    "name": "[2021/10]プレミアムミッションパス（月初優先度UP用）",
+    "assetbundleName": "banner_premiummissionpass_2021_10",
+    "transitionDestinationType": "billing_shop_for_live_mission_pass",
+    "startAt": 1633014000000,
+    "endAt": 1635692399000
+  },
+  {
+    "homeBannerId": 242,
+    "seq": 160,
+    "homeBannerType": "general",
+    "name": "「サブカルボーイスタイル」再販売",
+    "assetbundleName": "banner_costume_resale_2021_10",
+    "transitionDestinationType": "billing_shop_for_jewel",
+    "startAt": 1633014000000,
+    "endAt": 1635692399000
   }
 ]
