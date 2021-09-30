@@ -19,4 +19,4 @@ jobs:
         REGION: ap-shanghai
       run: coscmd config -a $SECRET_ID -s $SECRET_KEY -b $BUCKET -r $REGION
     - name: Upload
-      run: coscmd upload -rs --delete -f ./ master --ignore "./.git/*,./.github/*"
+      run: coscmd upload -rs --delete -f ./ main --ignore "./.git/*,./.github/*"
