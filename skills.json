@@ -1556,5 +1556,82 @@
         ]
       }
     ]
+  },
+  {
+    "id": 14,
+    "shortDescription": "ライフ{{42;v}}回復\\n＆PERFECTのときのみ\\nスコア{{43;v}}%ＵＰ",
+    "description": "ライフが{{42;v}}回復し、{{43;d}}秒間  PERFECTのときのみスコアが{{43;v}}%UPする",
+    "descriptionSpriteName": "life_recovery",
+    "skillEffects": [
+      {
+        "id": 42,
+        "skillEffectType": "life_recovery",
+        "skillEffectDetails": [
+          {
+            "id": 165,
+            "level": 1,
+            "activateEffectDuration": 0,
+            "activateEffectValueType": "fixed",
+            "activateEffectValue": 700
+          },
+          {
+            "id": 166,
+            "level": 2,
+            "activateEffectDuration": 0,
+            "activateEffectValueType": "fixed",
+            "activateEffectValue": 750
+          },
+          {
+            "id": 167,
+            "level": 3,
+            "activateEffectDuration": 0,
+            "activateEffectValueType": "fixed",
+            "activateEffectValue": 800
+          },
+          {
+            "id": 168,
+            "level": 4,
+            "activateEffectDuration": 0,
+            "activateEffectValueType": "fixed",
+            "activateEffectValue": 850
+          }
+        ]
+      },
+      {
+        "id": 43,
+        "skillEffectType": "score_up",
+        "activateNotesJudgmentType": "perfect",
+        "skillEffectDetails": [
+          {
+            "id": 169,
+            "level": 1,
+            "activateEffectDuration": 5,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 60
+          },
+          {
+            "id": 170,
+            "level": 2,
+            "activateEffectDuration": 5,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 65
+          },
+          {
+            "id": 171,
+            "level": 3,
+            "activateEffectDuration": 5,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 70
+          },
+          {
+            "id": 172,
+            "level": 4,
+            "activateEffectDuration": 5,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 80
+          }
+        ]
+      }
+    ]
   }
 ]
