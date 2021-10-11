@@ -33,16 +33,6 @@
     "endAt": 1635659999000
   },
   {
-    "homeBannerId": 238,
-    "seq": 150,
-    "homeBannerType": "general",
-    "name": "1周年記念クリスタルショップ",
-    "assetbundleName": "banner_1st_anniversary_shop",
-    "transitionDestinationType": "billing_shop_for_jewel",
-    "startAt": 1632927600000,
-    "endAt": 1633964399000
-  },
-  {
     "homeBannerId": 240,
     "seq": 140,
     "homeBannerType": "general",
@@ -52,16 +42,6 @@
     "transitionDestinationId": 123,
     "startAt": 1632942000000,
     "endAt": 1634482799000
-  },
-  {
-    "homeBannerId": 241,
-    "seq": 20,
-    "homeBannerType": "general",
-    "name": "[2021/10]プレミアムミッションパス（月初優先度UP用）",
-    "assetbundleName": "banner_premiummissionpass_2021_10",
-    "transitionDestinationType": "billing_shop_for_live_mission_pass",
-    "startAt": 1633014000000,
-    "endAt": 1635692399000
   },
   {
     "homeBannerId": 242,
@@ -74,36 +54,35 @@
     "endAt": 1635692399000
   },
   {
-    "homeBannerId": 244,
+    "homeBannerId": 255,
+    "seq": 200,
+    "homeBannerType": "general",
+    "name": "[2021/10]プレミアムミッションパス",
+    "assetbundleName": "banner_premiummissionpass_2021_10",
+    "transitionDestinationType": "billing_shop_for_live_mission_pass",
+    "startAt": 1633014000000,
+    "endAt": 1635692399000
+  },
+  {
+    "homeBannerId": 256,
     "seq": 100,
     "homeBannerType": "event",
-    "name": "[イベント]スクランブル・ファンフェスタ！",
-    "assetbundleName": "event_scramble_2021",
+    "name": "[イベント]Bout for Beside You",
+    "assetbundleName": "event_besideyou_2021",
     "transitionDestinationType": "event",
-    "transitionDestinationId": 35,
-    "startAt": 1633068000000,
-    "endAt": 1633931999000
+    "transitionDestinationId": 37,
+    "startAt": 1633932000000,
+    "endAt": 1634795999000
   },
   {
-    "homeBannerId": 251,
-    "seq": 100,
+    "homeBannerId": 258,
+    "seq": 110,
     "homeBannerType": "general",
-    "name": "一周年シャッフルイベ_ガチャバナー",
-    "assetbundleName": "banner_gacha132",
+    "name": "ビビバス5巡目_定常ガチャバナー",
+    "assetbundleName": "banner_gacha136",
     "transitionDestinationType": "gacha",
-    "transitionDestinationId": 132,
-    "startAt": 1633413600000,
-    "endAt": 1633931999000
-  },
-  {
-    "homeBannerId": 253,
-    "seq": 40,
-    "homeBannerType": "general",
-    "name": "[桐谷遥]HAPPY BIRTHDAYガチャ",
-    "assetbundleName": "banner_gacha134",
-    "transitionDestinationType": "gacha",
-    "transitionDestinationId": 134,
-    "startAt": 1633359600000,
-    "endAt": 1633964399000
+    "transitionDestinationId": 136,
+    "startAt": 1633932000000,
+    "endAt": 1634795999000
   }
 ]
