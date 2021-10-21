@@ -3086,6 +3086,48 @@
     "releaseConditionTypeLevel": 30
   },
   {
+    "id": 30301,
+    "sentence": "前編を読み終わった状態でレベルが60必要です。",
+    "releaseConditionType": "card_level",
+    "releaseConditionTypeId": 301,
+    "releaseConditionTypeLevel": 60
+  },
+  {
+    "id": 30302,
+    "sentence": "前編を読み終わった状態でレベルが60必要です。",
+    "releaseConditionType": "card_level",
+    "releaseConditionTypeId": 302,
+    "releaseConditionTypeLevel": 60
+  },
+  {
+    "id": 30303,
+    "sentence": "前編を読み終わった状態でレベルが60必要です。",
+    "releaseConditionType": "card_level",
+    "releaseConditionTypeId": 303,
+    "releaseConditionTypeLevel": 60
+  },
+  {
+    "id": 30304,
+    "sentence": "前編を読み終わった状態でレベルが50必要です。",
+    "releaseConditionType": "card_level",
+    "releaseConditionTypeId": 304,
+    "releaseConditionTypeLevel": 50
+  },
+  {
+    "id": 30305,
+    "sentence": "前編を読み終わった状態でレベルが30必要です。",
+    "releaseConditionType": "card_level",
+    "releaseConditionTypeId": 305,
+    "releaseConditionTypeLevel": 30
+  },
+  {
+    "id": 30306,
+    "sentence": "前編を読み終わった状態でレベルが60必要です。",
+    "releaseConditionType": "card_level",
+    "releaseConditionTypeId": 306,
+    "releaseConditionTypeLevel": 60
+  },
+  {
     "id": 40001,
     "sentence": "GOOD以下を7以内でEXPERTクリア",
     "releaseConditionType": "music_difficulty_better_play",
@@ -8537,6 +8579,62 @@
     "releaseConditionTypeLevel": 5
   },
   {
+    "id": 60860,
+    "sentence": "「[在りし日の憧憬] 神代類」を入手",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 301,
+    "releaseConditionTypeLevel": 0
+  },
+  {
+    "id": 60861,
+    "sentence": "「[在りし日の憧憬] 神代類」のマスターランク1で解放",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 301,
+    "releaseConditionTypeLevel": 1
+  },
+  {
+    "id": 60862,
+    "sentence": "「[在りし日の憧憬] 神代類」のマスターランク3で解放",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 301,
+    "releaseConditionTypeLevel": 3
+  },
+  {
+    "id": 60863,
+    "sentence": "「[在りし日の憧憬] 神代類」のマスターランク5で解放",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 301,
+    "releaseConditionTypeLevel": 5
+  },
+  {
+    "id": 60870,
+    "sentence": "「[ジャジャジャジャーンプ！] 鳳えむ」を入手",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 302,
+    "releaseConditionTypeLevel": 0
+  },
+  {
+    "id": 60871,
+    "sentence": "「[ジャジャジャジャーンプ！] 鳳えむ」のマスターランク1で解放",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 302,
+    "releaseConditionTypeLevel": 1
+  },
+  {
+    "id": 60872,
+    "sentence": "「[ジャジャジャジャーンプ！] 鳳えむ」のマスターランク3で解放",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 302,
+    "releaseConditionTypeLevel": 3
+  },
+  {
+    "id": 60873,
+    "sentence": "「[ジャジャジャジャーンプ！] 鳳えむ」のマスターランク5で解放",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 302,
+    "releaseConditionTypeLevel": 5
+  },
+  {
     "id": 70001,
     "sentence": "｢星乃一歌｣のキャラクターランク1でユニット編成数UP",
     "releaseConditionType": "character_rank",
@@ -11338,6 +11436,61 @@
     "sentence": "「Bout for Beside You」の第8話を読む",
     "releaseConditionType": "event_story",
     "releaseConditionTypeId": 1000301
+  },
+  {
+    "id": 103701,
+    "sentence": "イベントPが6000に到達する",
+    "releaseConditionType": "event_point",
+    "releaseConditionTypeId": 38,
+    "releaseConditionTypeQuantity": 6000
+  },
+  {
+    "id": 103702,
+    "sentence": "イベントPが13000に到達する",
+    "releaseConditionType": "event_point",
+    "releaseConditionTypeId": 38,
+    "releaseConditionTypeQuantity": 13000
+  },
+  {
+    "id": 103703,
+    "sentence": "イベントPが30000に到達する",
+    "releaseConditionType": "event_point",
+    "releaseConditionTypeId": 38,
+    "releaseConditionTypeQuantity": 30000
+  },
+  {
+    "id": 103704,
+    "sentence": "イベントPが60000に到達する",
+    "releaseConditionType": "event_point",
+    "releaseConditionTypeId": 38,
+    "releaseConditionTypeQuantity": 60000
+  },
+  {
+    "id": 103705,
+    "sentence": "イベントPが90000に到達する",
+    "releaseConditionType": "event_point",
+    "releaseConditionTypeId": 38,
+    "releaseConditionTypeQuantity": 90000
+  },
+  {
+    "id": 103706,
+    "sentence": "イベントPが120000に到達する",
+    "releaseConditionType": "event_point",
+    "releaseConditionTypeId": 38,
+    "releaseConditionTypeQuantity": 120000
+  },
+  {
+    "id": 103707,
+    "sentence": "イベントPが150000に到達する",
+    "releaseConditionType": "event_point",
+    "releaseConditionTypeId": 38,
+    "releaseConditionTypeQuantity": 150000
+  },
+  {
+    "id": 103708,
+    "sentence": "「Revival my dream」の第8話を読む",
+    "releaseConditionType": "event_story",
+    "releaseConditionTypeId": 1000309
   },
   {
     "id": 800001,
