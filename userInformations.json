@@ -1123,7 +1123,7 @@
   {
     "id": 1023,
     "seq": 1,
-    "displayOrder": 90110,
+    "displayOrder": 41100,
     "informationType": "normal",
     "informationTag": "information",
     "browseType": "internal",
@@ -1134,9 +1134,22 @@
     "endAt": 1635692399000
   },
   {
+    "id": 1024,
+    "seq": 1,
+    "displayOrder": 41120,
+    "informationType": "normal",
+    "informationTag": "information",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "10月30日25時よりWEBラジオ「25時、ナイトラジオで。#27」を配信！",
+    "path": "information/index.html?id=info_webradio_27_20211030_WR25",
+    "startAt": 1635476400000,
+    "endAt": 1635965999000
+  },
+  {
     "id": 1025,
     "seq": 1,
-    "displayOrder": 90130,
+    "displayOrder": 41110,
     "informationType": "normal",
     "informationTag": "gacha",
     "browseType": "internal",
@@ -1223,7 +1236,8 @@
     "platform": "all",
     "title": "ライブ衣装「ホープフル・フリルコーデ」のアナザーカラー3のアクセサリが想定と異なるカラーとなっている不具合について",
     "path": "information/index.html?id=bug_livecostume_hopefull_20211022",
-    "startAt": 1634900400000
+    "startAt": 1634900400000,
+    "endAt": 1635407999000
   },
   {
     "id": 1050,
@@ -1235,7 +1249,8 @@
     "platform": "all",
     "title": "ライブ衣装「フォレスト・ガーディアン」着用時にキャラクターのモデルが一部正しく表示されない不具合について",
     "path": "information/index.html?id=bug_livecostume_forest_20211022",
-    "startAt": 1634900400000
+    "startAt": 1634900400000,
+    "endAt": 1635407999000
   },
   {
     "id": 1051,
@@ -1262,5 +1277,44 @@
     "path": "information/index.html?id=bug_fix_virtuallive_error_20211027",
     "startAt": 1635264600000,
     "endAt": 1635533999000
+  },
+  {
+    "id": 1064,
+    "seq": 1,
+    "displayOrder": 21170,
+    "informationType": "bug",
+    "informationTag": "bug",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "【10月28日17時00分追記】ライブ衣装「ホープフル・フリルコーデ」のアナザーカラー3のアクセサリが想定と異なるカラーとなっている不具合について",
+    "path": "information/index.html?id=bug_fix_livecostume_hopefull_20211022",
+    "startAt": 1635408000000,
+    "endAt": 1635620399000
+  },
+  {
+    "id": 1065,
+    "seq": 1,
+    "displayOrder": 21180,
+    "informationType": "bug",
+    "informationTag": "bug",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "【10月28日17時00分追記】ライブ衣装「フォレスト・ガーディアン」着用時にキャラクターのモデルが一部正しく表示されない不具合について",
+    "path": "information/index.html?id=bug_fix_livecostume_forest_20211022",
+    "startAt": 1635408000000,
+    "endAt": 1635620399000
+  },
+  {
+    "id": 1066,
+    "seq": 1,
+    "displayOrder": 21190,
+    "informationType": "bug",
+    "informationTag": "bug",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "ライブ衣装「スイーティーカップドレス」の共通アクセサリのアナザーカラー1と2が入れ替わっている不具合について",
+    "path": "information/index.html?id=bug_fix_livecostume_sweety_20211028",
+    "startAt": 1635408000000,
+    "endAt": 1635620399000
   }
 ]
