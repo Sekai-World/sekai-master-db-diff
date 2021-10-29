@@ -33,17 +33,6 @@
     "endAt": 1635659999000
   },
   {
-    "homeBannerId": 240,
-    "seq": 140,
-    "homeBannerType": "general",
-    "name": "[1周年記念]無料10連チケットガチャ",
-    "assetbundleName": "banner_gacha123",
-    "transitionDestinationType": "gacha",
-    "transitionDestinationId": 123,
-    "startAt": 1632942000000,
-    "endAt": 1634482799000
-  },
-  {
     "homeBannerId": 242,
     "seq": 160,
     "homeBannerType": "general",
@@ -64,25 +53,68 @@
     "endAt": 1635692399000
   },
   {
-    "homeBannerId": 256,
+    "homeBannerId": 260,
     "seq": 100,
     "homeBannerType": "event",
-    "name": "[イベント]Bout for Beside You",
-    "assetbundleName": "event_besideyou_2021",
+    "name": "[イベント]Revival my dream",
+    "assetbundleName": "event_revival_2021",
     "transitionDestinationType": "event",
-    "transitionDestinationId": 37,
-    "startAt": 1633932000000,
-    "endAt": 1634795999000
+    "transitionDestinationId": 38,
+    "startAt": 1634796000000,
+    "endAt": 1635659999000
   },
   {
-    "homeBannerId": 258,
+    "homeBannerId": 262,
     "seq": 110,
     "homeBannerType": "general",
-    "name": "ビビバス5巡目_定常ガチャバナー",
-    "assetbundleName": "banner_gacha136",
+    "name": "ワンダショ6巡目_定常ガチャバナー",
+    "assetbundleName": "banner_gacha139",
     "transitionDestinationType": "gacha",
-    "transitionDestinationId": 136,
-    "startAt": 1633932000000,
-    "endAt": 1634795999000
+    "transitionDestinationId": 139,
+    "startAt": 1634796000000,
+    "endAt": 1635659999000
+  },
+  {
+    "homeBannerId": 263,
+    "seq": 120,
+    "homeBannerType": "general",
+    "name": "ワンダショ6巡目_メンバー出現率UPガチャバナー",
+    "assetbundleName": "banner_gacha140",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 140,
+    "startAt": 1635055200000,
+    "endAt": 1635508799000
+  },
+  {
+    "homeBannerId": 264,
+    "seq": 40,
+    "homeBannerType": "general",
+    "name": "[望月穂波]HAPPY BIRTHDAYガチャ",
+    "assetbundleName": "banner_gacha141",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 141,
+    "startAt": 1635260400000,
+    "endAt": 1635659999000
+  },
+  {
+    "homeBannerId": 275,
+    "seq": 180,
+    "homeBannerType": "general",
+    "name": "ハロウィン2021ライブ",
+    "assetbundleName": "banner_virtuallive103",
+    "transitionDestinationType": "virtual_live",
+    "transitionDestinationId": 103,
+    "startAt": 1635487200000,
+    "endAt": 1635832799000
+  },
+  {
+    "homeBannerId": 277,
+    "seq": 190,
+    "homeBannerType": "general",
+    "name": "ハロウィン衣装販売",
+    "assetbundleName": "banner_shop_halloween_costume_2021",
+    "transitionDestinationType": "billing_shop_for_jewel",
+    "startAt": 1635487200000,
+    "endAt": 1635832799000
   }
 ]
