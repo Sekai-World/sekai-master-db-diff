@@ -44,6 +44,10 @@
     "value": "無料観賞の期間が終了しました。"
   },
   {
+    "wordingKey": "MSG_ADMISSION_LIMIT_PAID_FOR_CONNECT_LIVE",
+    "value": "「お試し入場」での視聴可能範囲が過ぎました。\n公演の続きを見る場合は、チケットを交換してください。"
+  },
+  {
     "wordingKey": "MSG_ALBUM_PERMISSION_NOT_GRANTED",
     "value": "アルバムのアクセス権限がありません。\n端末の設定画面を開き、アクセスを許可してください。"
   },
@@ -272,6 +276,18 @@
     "value": "GameCenterに連携中のゲームデータがあります。\n連携を解除して、現在のゲームデータに連携しますか？"
   },
   {
+    "wordingKey": "MSG_CONFIRM_STREAMING_LIVE_ENTER_WITHOUT_TICKET",
+    "value": "ライブチケットを持っていないため\n「お試し入場」となります。\nよろしいですか？"
+  },
+  {
+    "wordingKey": "MSG_CONFIRM_TO_RE_ENTER_STREAMING_LIVE",
+    "value": "再入場を行います。\nよろしいですか？"
+  },
+  {
+    "wordingKey": "MSG_CONNECT_LIVE_TICKET_EXCHANGE_CONFIRM_TOS",
+    "value": "コネクトライブの利用ガイドラインに同意する。"
+  },
+  {
     "wordingKey": "MSG_CONSTUME_FITTING",
     "value": "衣装を試着"
   },
@@ -426,6 +442,10 @@
   {
     "wordingKey": "MSG_EMPTY_STAMP_HISTORY",
     "value": "スタンプを利用した履歴がありません。"
+  },
+  {
+    "wordingKey": "MSG_ENTER_STREAMING_LIVE_CONFIRM_TO_USE",
+    "value": "「{0}」を\n<color=#ff5588>{1}枚</color>消費して入場します。\nよろしいですか？"
   },
   {
     "wordingKey": "MSG_ENTRY_CONFIRMATION",
@@ -918,6 +938,10 @@
   {
     "wordingKey": "MSG_MOVE_STAGE_FAILED",
     "value": "会場の移動に失敗しました。"
+  },
+  {
+    "wordingKey": "MSG_MOVE_TO_LIVESTAGE",
+    "value": "ライブ会場へ移動しています。"
   },
   {
     "wordingKey": "MSG_MOVIE_SKIP_BODY",
@@ -1592,6 +1616,30 @@
     "value": "プレイに必要な端末の空き容量が不足しております。\nデータをダウンロードできません。\nタイトルに戻ります。"
   },
   {
+    "wordingKey": "MSG_STREAMING_LIVE_FINISH",
+    "value": "公演終了"
+  },
+  {
+    "wordingKey": "MSG_STREAMING_LIVE_HOME_REWARD_DIALOG_BODY",
+    "value": "参加したバーチャルライブ\n「{0}」の{1}報酬を獲得しました。"
+  },
+  {
+    "wordingKey": "MSG_STREAMING_LIVE_OPEN",
+    "value": "入場開始"
+  },
+  {
+    "wordingKey": "MSG_STREAMING_LIVE_PROMOTE_TO_BUY",
+    "value": "※ライブチケット は待合エリアの\n「チケットショップ」にて交換できます。"
+  },
+  {
+    "wordingKey": "MSG_STREAMING_LIVE_READY",
+    "value": "準備中"
+  },
+  {
+    "wordingKey": "MSG_STREAMING_LIVE_SCHEDULE_WARNING",
+    "value": "※開演時間は予定で、前後する可能性があります。"
+  },
+  {
     "wordingKey": "MSG_TICKET_EXCHANGE_EXPIRED",
     "value": "交換所の期限が過ぎました。"
   },
@@ -1720,6 +1768,10 @@
     "value": "開演まであと{0}分"
   },
   {
+    "wordingKey": "MSG_VL_MESSAGE_CURRENCY_NOT_ENOUGH",
+    "value": "入力文字数に対して不足しています"
+  },
+  {
     "wordingKey": "MSG_VOCAL_CHANGE",
     "value": "ボーカル変更"
   },
@@ -1746,6 +1798,18 @@
   {
     "wordingKey": "MSG_WAIT_PRIVATE_ROOM_MATCH_START",
     "value": "準備完了してお待ちください"
+  },
+  {
+    "wordingKey": "MSG_WARN_ALREADY_USE_STREAMING_LIVE_TICKET",
+    "value": "※すでに\n「{0}」を\n使用しているので消費されません。"
+  },
+  {
+    "wordingKey": "MSG_WARN_ENTER_STREAMING_LIVE_WITH_TICKET_DIALOG",
+    "value": "※本公演に限り、自由に再入場できます。"
+  },
+  {
+    "wordingKey": "MSG_WARN_STREAMING_LIVE_WITHOUT_TICKET",
+    "value": "※観覧はライブの序盤までとなります。"
   },
   {
     "wordingKey": "MSG_WEARABLE_MEMBER_1",
@@ -2340,6 +2404,10 @@
     "value": "コイン"
   },
   {
+    "wordingKey": "WORD_COLLABORATION_AREA",
+    "value": "コラボ限定セカイ登場"
+  },
+  {
     "wordingKey": "WORD_COLOR",
     "value": "カラー"
   },
@@ -2382,6 +2450,14 @@
   {
     "wordingKey": "WORD_CONFIRM_EXCHANGE",
     "value": "交換確認"
+  },
+  {
+    "wordingKey": "WORD_CONNECT_LIVE_GUIDE_LINE",
+    "value": "ガイドライン"
+  },
+  {
+    "wordingKey": "WORD_CONNECT_LIVE_GUIDE_LINE_TITLE",
+    "value": "ガイドライン"
   },
   {
     "wordingKey": "WORD_CONSUME_NUM",
@@ -2690,6 +2766,10 @@
   {
     "wordingKey": "WORD_EMPTY_SHAPE",
     "value": "表示できる図形がありません。"
+  },
+  {
+    "wordingKey": "WORD_END_AT_FORMAT",
+    "value": "{0}/{1:00}/{2:00} {3:00}:{4:00}まで"
   },
   {
     "wordingKey": "WORD_ENTER_LIMIT",
@@ -3162,6 +3242,10 @@
   {
     "wordingKey": "WORD_GO_STORY",
     "value": "ストーリーへ"
+  },
+  {
+    "wordingKey": "WORD_GO_TO_STREAMING_LIVE_TICKET_SHOP",
+    "value": "チケット交換"
   },
   {
     "wordingKey": "WORD_GO_VIRTUAL_LIVE",
@@ -4844,6 +4928,10 @@
     "value": "移動時のカメラ揺れ"
   },
   {
+    "wordingKey": "WORD_SL_SETTINGS_ENABLE_SE",
+    "value": "会場の歓声"
+  },
+  {
     "wordingKey": "WORD_SL_SETTINGS_MOB_PATTERN",
     "value": "会場キャラクターの表示数"
   },
@@ -4984,6 +5072,22 @@
     "value": "ストーリースキップ"
   },
   {
+    "wordingKey": "WORD_STREAMING_LIVE_ENTER_CONFIRM",
+    "value": "入場確認"
+  },
+  {
+    "wordingKey": "WORD_STREAMING_LIVE_EXIT_DIALOG_MESSAGE",
+    "value": "\n途中退場し、待合エリアに戻りますか？\nチケットの使用状況により再入場できる期間が変わります。"
+  },
+  {
+    "wordingKey": "WORD_STREAMING_LIVE_RE_ENTER_TITLE",
+    "value": "再入場確認"
+  },
+  {
+    "wordingKey": "WORD_STREAMING_LIVE_TICKET_SHOP",
+    "value": "チケットショップ"
+  },
+  {
     "wordingKey": "WORD_SUB_UNIT",
     "value": "サブユニット"
   },
@@ -5040,6 +5144,14 @@
     "value": "チケット交換所"
   },
   {
+    "wordingKey": "WORD_TIME_LIMIT_COLLABORATION_AREA",
+    "value": "エリアの出現期間が終了しました。\nホームに戻ります。"
+  },
+  {
+    "wordingKey": "WORD_TIME_LIMIT_RANGE_FORMAT",
+    "value": "{0}/{1:00}/{2:00} {3:00}:{4:00} ~ {5}/{6:00}/{7:00} {8:00}:{9:00}"
+  },
+  {
     "wordingKey": "WORD_TIMING_ADJUSTMENT",
     "value": "タイミング調整"
   },
@@ -5058,6 +5170,10 @@
   {
     "wordingKey": "WORD_TITLE_COSTUME_CHANGE_TITLE",
     "value": "衣装設定完了"
+  },
+  {
+    "wordingKey": "WORD_TITLE_STREAMING_LIVE_TICKET_EXCHANGE_CONFIRM",
+    "value": "交換確認"
   },
   {
     "wordingKey": "WORD_TODAY_CHALLENGE",
@@ -5346,6 +5462,10 @@
   {
     "wordingKey": "WORD_VIRTUAL_LIVE_SETTINGS_ITEM_SE",
     "value": "バーチャルアイテムSE"
+  },
+  {
+    "wordingKey": "WORD_VIRTUAL_LIVE_SETTINGS_LIVE_ACTION_BUTTON",
+    "value": "ライブ中のアクションボタン"
   },
   {
     "wordingKey": "WORD_VIRTUAL_LIVE_SETTINGS_OTHER_PLAYER_ITEM",
