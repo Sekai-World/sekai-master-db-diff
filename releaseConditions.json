@@ -3212,6 +3212,41 @@
     "releaseConditionTypeLevel": 60
   },
   {
+    "id": 30319,
+    "sentence": "前編を読み終わった状態でレベルが60必要です。",
+    "releaseConditionType": "card_level",
+    "releaseConditionTypeId": 319,
+    "releaseConditionTypeLevel": 60
+  },
+  {
+    "id": 30320,
+    "sentence": "前編を読み終わった状態でレベルが60必要です。",
+    "releaseConditionType": "card_level",
+    "releaseConditionTypeId": 320,
+    "releaseConditionTypeLevel": 60
+  },
+  {
+    "id": 30321,
+    "sentence": "前編を読み終わった状態でレベルが60必要です。",
+    "releaseConditionType": "card_level",
+    "releaseConditionTypeId": 321,
+    "releaseConditionTypeLevel": 60
+  },
+  {
+    "id": 30322,
+    "sentence": "前編を読み終わった状態でレベルが50必要です。",
+    "releaseConditionType": "card_level",
+    "releaseConditionTypeId": 322,
+    "releaseConditionTypeLevel": 50
+  },
+  {
+    "id": 30323,
+    "sentence": "前編を読み終わった状態でレベルが30必要です。",
+    "releaseConditionType": "card_level",
+    "releaseConditionTypeId": 323,
+    "releaseConditionTypeLevel": 30
+  },
+  {
     "id": 40001,
     "sentence": "GOOD以下を7以内でEXPERTクリア",
     "releaseConditionType": "music_difficulty_better_play",
@@ -8845,6 +8880,62 @@
     "releaseConditionTypeLevel": 5
   },
   {
+    "id": 60920,
+    "sentence": "「[ふたりだけの秘密] 小豆沢こはね」を入手",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 319,
+    "releaseConditionTypeLevel": 0
+  },
+  {
+    "id": 60921,
+    "sentence": "「[ふたりだけの秘密] 小豆沢こはね」のマスターランク1で解放",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 319,
+    "releaseConditionTypeLevel": 1
+  },
+  {
+    "id": 60922,
+    "sentence": "「[ふたりだけの秘密] 小豆沢こはね」のマスターランク3で解放",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 319,
+    "releaseConditionTypeLevel": 3
+  },
+  {
+    "id": 60923,
+    "sentence": "「[ふたりだけの秘密] 小豆沢こはね」のマスターランク5で解放",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 319,
+    "releaseConditionTypeLevel": 5
+  },
+  {
+    "id": 60930,
+    "sentence": "「[心強い言葉] 巡音ルカ」を入手",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 320,
+    "releaseConditionTypeLevel": 0
+  },
+  {
+    "id": 60931,
+    "sentence": "「[心強い言葉] 巡音ルカ」のマスターランク1で解放",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 320,
+    "releaseConditionTypeLevel": 1
+  },
+  {
+    "id": 60932,
+    "sentence": "「[心強い言葉] 巡音ルカ」のマスターランク3で解放",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 320,
+    "releaseConditionTypeLevel": 3
+  },
+  {
+    "id": 60933,
+    "sentence": "「[心強い言葉] 巡音ルカ」のマスターランク5で解放",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 320,
+    "releaseConditionTypeLevel": 5
+  },
+  {
     "id": 70001,
     "sentence": "｢星乃一歌｣のキャラクターランク1でユニット編成数UP",
     "releaseConditionType": "character_rank",
@@ -11811,6 +11902,61 @@
     "sentence": "「揺るがぬ想い、今言葉にして」の第8話を読む",
     "releaseConditionType": "event_story",
     "releaseConditionTypeId": 1000325
+  },
+  {
+    "id": 104001,
+    "sentence": "イベントPが6000に到達する",
+    "releaseConditionType": "event_point",
+    "releaseConditionTypeId": 41,
+    "releaseConditionTypeQuantity": 6000
+  },
+  {
+    "id": 104002,
+    "sentence": "イベントPが13000に到達する",
+    "releaseConditionType": "event_point",
+    "releaseConditionTypeId": 41,
+    "releaseConditionTypeQuantity": 13000
+  },
+  {
+    "id": 104003,
+    "sentence": "イベントPが30000に到達する",
+    "releaseConditionType": "event_point",
+    "releaseConditionTypeId": 41,
+    "releaseConditionTypeQuantity": 30000
+  },
+  {
+    "id": 104004,
+    "sentence": "イベントPが60000に到達する",
+    "releaseConditionType": "event_point",
+    "releaseConditionTypeId": 41,
+    "releaseConditionTypeQuantity": 60000
+  },
+  {
+    "id": 104005,
+    "sentence": "イベントPが90000に到達する",
+    "releaseConditionType": "event_point",
+    "releaseConditionTypeId": 41,
+    "releaseConditionTypeQuantity": 90000
+  },
+  {
+    "id": 104006,
+    "sentence": "イベントPが120000に到達する",
+    "releaseConditionType": "event_point",
+    "releaseConditionTypeId": 41,
+    "releaseConditionTypeQuantity": 120000
+  },
+  {
+    "id": 104007,
+    "sentence": "イベントPが150000に到達する",
+    "releaseConditionType": "event_point",
+    "releaseConditionTypeId": 41,
+    "releaseConditionTypeQuantity": 150000
+  },
+  {
+    "id": 104008,
+    "sentence": "「バディ・ファニー・スペンドタイム♪」の第8話を読む",
+    "releaseConditionType": "event_story",
+    "releaseConditionTypeId": 1000333
   },
   {
     "id": 800001,
