@@ -402,72 +402,6 @@
     "bannerAssetbundleName": "banner_news_gacha143"
   },
   {
-    "id": 1044,
-    "seq": 1,
-    "displayOrder": 21100,
-    "informationType": "bug",
-    "informationTag": "bug",
-    "browseType": "internal",
-    "platform": "all",
-    "title": "【10月21日11時30分追記】楽曲「群青讃歌」の3DMVにて6人目として優先設定されるキャラクターが想定と異なる不具合について",
-    "path": "information/index.html?id=bug_fix_gunzyousanka_3Dsetting_20210930_add",
-    "startAt": 1634783400000,
-    "endAt": 1635015599000
-  },
-  {
-    "id": 1045,
-    "seq": 1,
-    "displayOrder": 21110,
-    "informationType": "bug",
-    "informationTag": "bug",
-    "browseType": "internal",
-    "platform": "all",
-    "title": "【10月21日11時30分追記】ライブ衣装「グレイスフル・セカイドレス」で発生している不具合について",
-    "path": "information/index.html?id=bug_fix_miku_3Dcostume__20211001_add",
-    "startAt": 1634783400000,
-    "endAt": 1635015599000
-  },
-  {
-    "id": 1046,
-    "seq": 1,
-    "displayOrder": 21120,
-    "informationType": "bug",
-    "informationTag": "bug",
-    "browseType": "internal",
-    "platform": "all",
-    "title": "【10月21日11時30分追記】「悪魔の踊り方」3DMVの背景のモニターの演出が想定したものになっていない不具合について",
-    "path": "information/index.html?id=bug_fix_display_3DMV_Akumanoodorikata_20211008",
-    "startAt": 1634783400000,
-    "endAt": 1635015599000
-  },
-  {
-    "id": 1047,
-    "seq": 1,
-    "displayOrder": 21130,
-    "informationType": "bug",
-    "informationTag": "bug",
-    "browseType": "internal",
-    "platform": "all",
-    "title": "【10月21日11時30分追記】楽曲「テレキャスタービーボーイ」セカイver.の音源がリズムノーツとズレて再生される不具合について",
-    "path": "information/index.html?id=bug_fix_music_Telecaster-Beboy_20211008",
-    "startAt": 1634783400000,
-    "endAt": 1635015599000
-  },
-  {
-    "id": 1048,
-    "seq": 1,
-    "displayOrder": 41060,
-    "informationType": "normal",
-    "informationTag": "gacha",
-    "browseType": "internal",
-    "platform": "all",
-    "title": "予告、「[望月穂波]HAPPY BIRTHDAYガチャ」開催について",
-    "path": "information/index.html?id=info_notice_gacha141",
-    "startAt": 1635141600000,
-    "endAt": 1635260399000,
-    "bannerAssetbundleName": "banner_news_gacha141"
-  },
-  {
     "id": 1049,
     "seq": 1,
     "displayOrder": 21140,
@@ -1021,5 +955,30 @@
     "path": "information/index.html?id=info_webradio_29_20211127_WR25",
     "startAt": 1637895600000,
     "endAt": 1638298799000
+  },
+  {
+    "id": 1092,
+    "seq": 1,
+    "displayOrder": 41580,
+    "informationType": "normal",
+    "informationTag": "information",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "【重要】ライブミッションの月初めリセットについて",
+    "path": "information/index.html?id=info_livemission_reset_announce_202111",
+    "startAt": 1637982000000,
+    "endAt": 1638284399000
+  },
+  {
+    "id": 1111,
+    "seq": 1,
+    "displayOrder": 21120,
+    "informationType": "bug",
+    "informationTag": "bug",
+    "browseType": "internal",
+    "platform": "Android",
+    "title": "バーチャルライブの待合エリアのショップの吹き出しが表示されず、アイテムが購入できないことがある不具合について",
+    "path": "information/index.html?id=bug_virtuallive_shop_20211126",
+    "startAt": 1637914800000
   }
 ]
