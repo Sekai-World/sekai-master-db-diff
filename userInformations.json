@@ -402,72 +402,6 @@
     "bannerAssetbundleName": "banner_news_gacha143"
   },
   {
-    "id": 1049,
-    "seq": 1,
-    "displayOrder": 21140,
-    "informationType": "bug",
-    "informationTag": "bug",
-    "browseType": "internal",
-    "platform": "all",
-    "title": "ライブ衣装「ホープフル・フリルコーデ」のアナザーカラー3のアクセサリが想定と異なるカラーとなっている不具合について",
-    "path": "information/index.html?id=bug_livecostume_hopefull_20211022",
-    "startAt": 1634900400000,
-    "endAt": 1635407999000
-  },
-  {
-    "id": 1050,
-    "seq": 1,
-    "displayOrder": 21150,
-    "informationType": "bug",
-    "informationTag": "bug",
-    "browseType": "internal",
-    "platform": "all",
-    "title": "ライブ衣装「フォレスト・ガーディアン」着用時にキャラクターのモデルが一部正しく表示されない不具合について",
-    "path": "information/index.html?id=bug_livecostume_forest_20211022",
-    "startAt": 1634900400000,
-    "endAt": 1635407999000
-  },
-  {
-    "id": 1051,
-    "seq": 1,
-    "displayOrder": 21160,
-    "informationType": "bug",
-    "informationTag": "bug",
-    "browseType": "internal",
-    "platform": "all",
-    "title": "「HAPPY BIRTHDAYライブ 穂波」において通信エラーが発生する事象について",
-    "path": "information/index.html?id=bug_virtuallive_error_20211027",
-    "startAt": 1635261600000,
-    "endAt": 1635264599000
-  },
-  {
-    "id": 1052,
-    "seq": 1,
-    "displayOrder": 21160,
-    "informationType": "bug",
-    "informationTag": "bug",
-    "browseType": "internal",
-    "platform": "all",
-    "title": "【10月27日1時10分追記】「HAPPY BIRTHDAYライブ 穂波」において通信エラーが発生する不具合について",
-    "path": "information/index.html?id=bug_fix_virtuallive_error_20211027",
-    "startAt": 1635264600000,
-    "endAt": 1635533999000
-  },
-  {
-    "id": 1053,
-    "seq": 1,
-    "displayOrder": 41270,
-    "informationType": "normal",
-    "informationTag": "gacha",
-    "browseType": "internal",
-    "platform": "all",
-    "title": "予告、「[MEIKO]HAPPY ANNIVERSARYガチャ」開催について",
-    "path": "information/index.html?id=info_gacha144_notice",
-    "startAt": 1635919200000,
-    "endAt": 1636037999000,
-    "bannerAssetbundleName": "banner_news_gacha144"
-  },
-  {
     "id": 1054,
     "seq": 1,
     "displayOrder": 41340,
@@ -791,6 +725,19 @@
     "bannerAssetbundleName": "banner_news_gacha152"
   },
   {
+    "id": 1078,
+    "seq": 1,
+    "displayOrder": 41590,
+    "informationType": "normal",
+    "informationTag": "music",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "楽曲「からくりピエロ」追加！",
+    "path": "information/index.html?id=info_music_KarakuriPierrot_20211129",
+    "startAt": 1638165600000,
+    "endAt": 1638298799000
+  },
+  {
     "id": 1079,
     "seq": 1,
     "displayOrder": 41410,
@@ -891,7 +838,8 @@
     "platform": "all",
     "title": "みんなでライブの「FEVER CHANCE」の前後で挙動が不安定になる不具合について",
     "path": "information/index.html?id=bug_superfever_v1-11-0_20211117",
-    "startAt": 1637130600000
+    "startAt": 1637130600000,
+    "endAt": 1638165599000
   },
   {
     "id": 1087,
@@ -970,6 +918,20 @@
     "endAt": 1638284399000
   },
   {
+    "id": 1093,
+    "seq": 1,
+    "displayOrder": 41600,
+    "informationType": "normal",
+    "informationTag": "event",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "予告、イベント「交わる旋律 灯るぬくもり」開催について",
+    "path": "information/index.html?id=info_event42_notice",
+    "startAt": 1638165600000,
+    "endAt": 1638251999000,
+    "bannerAssetbundleName": "banner_news_event42"
+  },
+  {
     "id": 1111,
     "seq": 1,
     "displayOrder": 21120,
@@ -980,5 +942,17 @@
     "title": "バーチャルライブの待合エリアのショップの吹き出しが表示されず、アイテムが購入できないことがある不具合について",
     "path": "information/index.html?id=bug_virtuallive_shop_20211126",
     "startAt": 1637914800000
+  },
+  {
+    "id": 1112,
+    "seq": 1,
+    "displayOrder": 21110,
+    "informationType": "bug",
+    "informationTag": "bug",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "【11月29日15時00分追記】みんなでライブの「FEVER CHANCE」の前後で挙動が不安定になる不具合について",
+    "path": "information/index.html?id=bug_add_superfever_v1-11-0_20211117",
+    "startAt": 1638165600000
   }
 ]
