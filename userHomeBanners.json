@@ -22,17 +22,6 @@
     "endAt": 4102412399000
   },
   {
-    "homeBannerId": 288,
-    "seq": 90,
-    "homeBannerType": "general",
-    "name": "セレクトリストガチャバナー",
-    "assetbundleName": "banner_gacha152",
-    "transitionDestinationType": "gacha",
-    "transitionDestinationId": 152,
-    "startAt": 1637906400000,
-    "endAt": 1638597599000
-  },
-  {
     "homeBannerId": 289,
     "seq": 30,
     "homeBannerType": "general",
@@ -73,5 +62,27 @@
     "transitionDestinationId": 153,
     "startAt": 1638252000000,
     "endAt": 1639115999000
+  },
+  {
+    "homeBannerId": 293,
+    "seq": 120,
+    "homeBannerType": "general",
+    "name": "シャッフルまふゆ_イベントメンバーガチャ",
+    "assetbundleName": "banner_gacha154",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 154,
+    "startAt": 1638597600000,
+    "endAt": 1638964799000
+  },
+  {
+    "homeBannerId": 296,
+    "seq": 160,
+    "homeBannerType": "general",
+    "name": "[日野森雫]HAPPY BIRTHDAYライブ",
+    "assetbundleName": "banner_virtuallive110",
+    "transitionDestinationType": "virtual_live",
+    "transitionDestinationId": 110,
+    "startAt": 1638597600000,
+    "endAt": 1638856799000
   }
 ]
