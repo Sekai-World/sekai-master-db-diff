@@ -255,32 +255,6 @@
     "bannerAssetbundleName": "content_banner_cps"
   },
   {
-    "id": 905,
-    "seq": 1,
-    "displayOrder": 40040,
-    "informationType": "normal",
-    "informationTag": "information",
-    "browseType": "internal",
-    "platform": "iOS",
-    "title": "「iOS15」へのアップデートに関するご注意",
-    "path": "information/index.html?id=info_iOS15release_20210921",
-    "startAt": 1631869200000,
-    "endAt": 1638527399000
-  },
-  {
-    "id": 978,
-    "seq": 1,
-    "displayOrder": 40530,
-    "informationType": "normal",
-    "informationTag": "information",
-    "browseType": "internal",
-    "platform": "all",
-    "title": "「Android 12」へのアップデートに関するご注意",
-    "path": "information/index.html?id=info_Android12release_20211004",
-    "startAt": 1633080600000,
-    "endAt": 1638527399000
-  },
-  {
     "id": 1005,
     "seq": 1,
     "displayOrder": 40830,
@@ -438,46 +412,6 @@
     "title": "11月22日配信「プロジェクトセカイワンダショちゃんねる#14」で発表された内容について",
     "path": "information/index.html?id=info_livebroadcast_summary_20211122",
     "startAt": 1637584200000
-  },
-  {
-    "id": 1077,
-    "seq": 1,
-    "displayOrder": 41570,
-    "informationType": "normal",
-    "informationTag": "gacha",
-    "browseType": "internal",
-    "platform": "all",
-    "title": "「セレクトリストガチャ」開催！",
-    "path": "information/index.html?id=info_gacha152_held",
-    "startAt": 1637906400000,
-    "endAt": 1638597599000,
-    "bannerAssetbundleName": "banner_news_gacha152"
-  },
-  {
-    "id": 1082,
-    "seq": 1,
-    "displayOrder": 41470,
-    "informationType": "normal",
-    "informationTag": "update",
-    "browseType": "internal",
-    "platform": "all",
-    "title": "【11月17日11時30分追記】メンテナンスの実施及び「v1.11.0」アップデートのご案内",
-    "path": "information/index.html?id=info_update_maintenance_v1-11-0_forcedupdate_20211117",
-    "startAt": 1637116200000,
-    "endAt": 1638471599000
-  },
-  {
-    "id": 1083,
-    "seq": 1,
-    "displayOrder": 21060,
-    "informationType": "bug",
-    "informationTag": "bug",
-    "browseType": "internal",
-    "platform": "all",
-    "title": "【11月17日11時30分追記】特定条件下で「カラフルパス」の購入回数特典の『次回』の吹き出しが表示されない不具合について",
-    "path": "information/index.html?id=bug_fix_shop-display_colorfulpass_20211001",
-    "startAt": 1637116200000,
-    "endAt": 1637693999000
   },
   {
     "id": 1084,
@@ -848,7 +782,21 @@
     "platform": "all",
     "title": "【12月3日15時30分追記】「v1.11.1」アップデートのご案内",
     "path": "information/index.html?id=info_update_v1-11-1_storeopen_20211203",
-    "startAt": 1638513000000
+    "startAt": 1638513000000,
+    "endAt": 1638770399000
+  },
+  {
+    "id": 1118,
+    "seq": 1,
+    "displayOrder": 41750,
+    "informationType": "normal",
+    "informationTag": "update",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "【12月6日15時00分追記】「v1.11.1」アップデートのご案内",
+    "path": "information/index.html?id=info_update_v1-11-1_forceupdate_20211206",
+    "startAt": 1638770400000,
+    "endAt": 1640285999000
   },
   {
     "id": 1119,
@@ -886,7 +834,8 @@
     "platform": "Android",
     "title": "【12月3日15時30分追記】バーチャルライブの待合エリアのショップの吹き出しが表示されず、アイテムが購入できないことがある不具合について",
     "path": "information/index.html?id=bug_add2_virtuallive_shop_20211126",
-    "startAt": 1638513000000
+    "startAt": 1638513000000,
+    "endAt": 1638770399000
   },
   {
     "id": 1122,
@@ -898,7 +847,8 @@
     "platform": "Android",
     "title": "【12月3日15時30分追記】チアフルカーニバルイベントの待合エリアのグループ変更の吹き出しが表示されない不具合について",
     "path": "information/index.html?id=bug_add_virtuallive_group-change_20211201",
-    "startAt": 1638513000000
+    "startAt": 1638513000000,
+    "endAt": 1638770399000
   },
   {
     "id": 1126,
@@ -934,6 +884,45 @@
     "platform": "all",
     "title": "【12月3日19時30分追記】みんなでライブの「FEVER CHANCE」の前後で挙動が不安定になる不具合について",
     "path": "information/index.html?id=bug_add3_superfever_v1-11-0_20211117",
-    "startAt": 1638527400000
+    "startAt": 1638527400000,
+    "endAt": 1638770399000
+  },
+  {
+    "id": 1129,
+    "seq": 1,
+    "displayOrder": 21190,
+    "informationType": "bug",
+    "informationTag": "bug",
+    "browseType": "internal",
+    "platform": "Android",
+    "title": "【12月6日15時00分追記】バーチャルライブの待合エリアのショップの吹き出しが表示されず、アイテムが購入できないことがある不具合について",
+    "path": "information/index.html?id=bug_fix_add2_virtuallive_shop_20211126",
+    "startAt": 1638770400000,
+    "endAt": 1638989999000
+  },
+  {
+    "id": 1130,
+    "seq": 1,
+    "displayOrder": 21200,
+    "informationType": "bug",
+    "informationTag": "bug",
+    "browseType": "internal",
+    "platform": "Android",
+    "title": "【12月6日15時00分追記】チアフルカーニバルイベントの待合エリアのグループ変更の吹き出しが表示されない不具合について",
+    "path": "information/index.html?id=bug_fix_add_virtuallive_group-change_20211201",
+    "startAt": 1638770400000,
+    "endAt": 1638989999000
+  },
+  {
+    "id": 1131,
+    "seq": 1,
+    "displayOrder": 21210,
+    "informationType": "bug",
+    "informationTag": "bug",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "【12月6日15時00分追記】みんなでライブの「FEVER CHANCE」の前後で挙動が不安定になる不具合について",
+    "path": "information/index.html?id=bug_add4_superfever_v1-11-0_20211117",
+    "startAt": 1638770400000
   }
 ]
