@@ -194,5 +194,28 @@
         "rewardResourceBoxIds": []
       }
     ]
+  },
+  {
+    "id": 9,
+    "seq": 1,
+    "title": "悪ノ大罪シリーズ導入ムービー",
+    "assetbundleName": "collaboration-akuno-story",
+    "startAt": 1639375200000,
+    "endAt": 1640584799000,
+    "episodes": [
+      {
+        "id": 14,
+        "specialStoryId": 9,
+        "episodeNo": 1,
+        "title": "遷移テスト用ストーリー_コラボのセカイ",
+        "specialStoryEpisodeType": "area",
+        "specialStoryEpisodeTypeId": 14,
+        "assetbundleName": "story_collaboration_akuno",
+        "scenarioId": "collaboration_akuno_op_01",
+        "releaseConditionId": 1,
+        "isAbleSkip": true,
+        "rewardResourceBoxIds": []
+      }
+    ]
   }
 ]
