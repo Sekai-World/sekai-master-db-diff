@@ -280,34 +280,6 @@
     "bannerAssetbundleName": "banner_news_gacha145"
   },
   {
-    "id": 1060,
-    "seq": 1,
-    "displayOrder": 41400,
-    "informationType": "normal",
-    "informationTag": "gacha",
-    "browseType": "internal",
-    "platform": "all",
-    "title": "「想いを言葉にKindness Heartガチャ」開催！",
-    "path": "information/index.html?id=info_gacha147",
-    "startAt": 1636610400000,
-    "endAt": 1639979999000,
-    "bannerAssetbundleName": "banner_news_gacha147_v2"
-  },
-  {
-    "id": 1062,
-    "seq": 1,
-    "displayOrder": 41450,
-    "informationType": "normal",
-    "informationTag": "gacha",
-    "browseType": "internal",
-    "platform": "all",
-    "title": "「イベントメンバーガチャ」開催！",
-    "path": "information/index.html?id=info_gacha148",
-    "startAt": 1636783200000,
-    "endAt": 1639979999000,
-    "bannerAssetbundleName": "banner_news_gacha148"
-  },
-  {
     "id": 1068,
     "seq": 1,
     "displayOrder": 41130,
@@ -533,45 +505,6 @@
     "startAt": 1638527400000
   },
   {
-    "id": 1128,
-    "seq": 1,
-    "displayOrder": 21180,
-    "informationType": "bug",
-    "informationTag": "bug",
-    "browseType": "internal",
-    "platform": "all",
-    "title": "【12月3日19時30分追記】みんなでライブの「FEVER CHANCE」の前後で挙動が不安定になる不具合について",
-    "path": "information/index.html?id=bug_add3_superfever_v1-11-0_20211117",
-    "startAt": 1638527400000,
-    "endAt": 1638770399000
-  },
-  {
-    "id": 1129,
-    "seq": 1,
-    "displayOrder": 21190,
-    "informationType": "bug",
-    "informationTag": "bug",
-    "browseType": "internal",
-    "platform": "Android",
-    "title": "【12月6日15時00分追記】バーチャルライブの待合エリアのショップの吹き出しが表示されず、アイテムが購入できないことがある不具合について",
-    "path": "information/index.html?id=bug_fix_add2_virtuallive_shop_20211126",
-    "startAt": 1638770400000,
-    "endAt": 1638989999000
-  },
-  {
-    "id": 1130,
-    "seq": 1,
-    "displayOrder": 21200,
-    "informationType": "bug",
-    "informationTag": "bug",
-    "browseType": "internal",
-    "platform": "Android",
-    "title": "【12月6日15時00分追記】チアフルカーニバルイベントの待合エリアのグループ変更の吹き出しが表示されない不具合について",
-    "path": "information/index.html?id=bug_fix_add_virtuallive_group-change_20211201",
-    "startAt": 1638770400000,
-    "endAt": 1638989999000
-  },
-  {
     "id": 1131,
     "seq": 1,
     "displayOrder": 21210,
@@ -582,19 +515,6 @@
     "title": "【12月6日15時00分追記】みんなでライブの「FEVER CHANCE」の前後で挙動が不安定になる不具合について",
     "path": "information/index.html?id=bug_add4_superfever_v1-11-0_20211117",
     "startAt": 1638770400000
-  },
-  {
-    "id": 1132,
-    "seq": 1,
-    "displayOrder": 21220,
-    "informationType": "bug",
-    "informationTag": "bug",
-    "browseType": "internal",
-    "platform": "all",
-    "title": "イベントストーリー「届け！HOPEFULSTAGE♪」第6話で確認しているボイスの不具合について",
-    "path": "information/index.html?id=bug_eventstory_voice_20211209",
-    "startAt": 1639029600000,
-    "endAt": 1639369799000
   },
   {
     "id": 1133,
@@ -968,6 +888,20 @@
     "startAt": 1639997100000
   },
   {
+    "id": 1162,
+    "seq": 1,
+    "displayOrder": 42080,
+    "informationType": "normal",
+    "informationTag": "information",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "「クリスマス2021ライブ」開催について",
+    "path": "information/index.html?id=info_virtuallive114",
+    "startAt": 1640152800000,
+    "endAt": 1640498399000,
+    "bannerAssetbundleName": "banner_news_virtuallive114"
+  },
+  {
     "id": 1165,
     "seq": 1,
     "displayOrder": 42050,
@@ -979,6 +913,20 @@
     "path": "information/index.html?id=info_resale_ChristmasLiveCostume2020_2021222notice",
     "startAt": 1640066400000,
     "endAt": 1640152799000,
+    "bannerAssetbundleName": "news_banner_shop_xmas_costume_2021"
+  },
+  {
+    "id": 1166,
+    "seq": 1,
+    "displayOrder": 42070,
+    "informationType": "normal",
+    "informationTag": "information",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "「クリスマス衣装セット」再販売のお知らせ",
+    "path": "information/index.html?id=info_resale_ChristmasLiveCostume2020_20211222_held",
+    "startAt": 1640152800000,
+    "endAt": 1640584799000,
     "bannerAssetbundleName": "news_banner_shop_xmas_costume_2021"
   },
   {
@@ -1017,5 +965,29 @@
     "title": "一部3DMVのエフェクトで発生している不具合について",
     "path": "information/index.html?id=bug_3DMV_effect_20211221",
     "startAt": 1640086200000
+  },
+  {
+    "id": 1175,
+    "seq": 1,
+    "displayOrder": 21280,
+    "informationType": "bug",
+    "informationTag": "bug",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "【12月22日11時30分】楽曲「ラストスコア」の難易度EXPERTにおいて、楽曲Lv.が想定と異なる表記となっている不具合について",
+    "path": "information/index.html?id=bug_fix_LastScore_difficulty_20211220",
+    "startAt": 1640140200000
+  },
+  {
+    "id": 1176,
+    "seq": 1,
+    "displayOrder": 21290,
+    "informationType": "bug",
+    "informationTag": "bug",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "【12月22日11時30分】「旅立つ冬のレイルウェイガチャ」のTOP画面の一部新メンバーのイラストが想定と異なる不具合について",
+    "path": "information/index.html?id=bug_fix_gacha-top_20211220",
+    "startAt": 1640140200000
   }
 ]
