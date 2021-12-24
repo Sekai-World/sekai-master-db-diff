@@ -514,7 +514,8 @@
     "platform": "all",
     "title": "【12月6日15時00分追記】みんなでライブの「FEVER CHANCE」の前後で挙動が不安定になる不具合について",
     "path": "information/index.html?id=bug_add4_superfever_v1-11-0_20211117",
-    "startAt": 1638770400000
+    "startAt": 1638770400000,
+    "endAt": 1640312999000
   },
   {
     "id": 1133,
@@ -622,7 +623,7 @@
     "endAt": 1640199599000
   },
   {
-    "id": 1150,
+    "id": 1151,
     "seq": 1,
     "displayOrder": 42000,
     "informationType": "normal",
@@ -689,32 +690,6 @@
     "endAt": 1641149999000
   },
   {
-    "id": 1160,
-    "seq": 1,
-    "displayOrder": 21250,
-    "informationType": "bug",
-    "informationTag": "bug",
-    "browseType": "internal",
-    "platform": "all",
-    "title": "楽曲「ラストスコア」の難易度EXPERTにおいて、楽曲Lv.が想定と異なる表記となっている不具合について",
-    "path": "information/index.html?id=bug_LastScore_difficulty_20211220",
-    "startAt": 1639997100000,
-    "endAt": 1640140199000
-  },
-  {
-    "id": 1161,
-    "seq": 1,
-    "displayOrder": 21260,
-    "informationType": "bug",
-    "informationTag": "bug",
-    "browseType": "internal",
-    "platform": "all",
-    "title": "「旅立つ冬のレイルウェイガチャ」のTOP画面の一部新メンバーのイラストが想定と異なる不具合について",
-    "path": "information/index.html?id=bug_gacha-top_20211220",
-    "startAt": 1639997100000,
-    "endAt": 1640140199000
-  },
-  {
     "id": 1162,
     "seq": 1,
     "displayOrder": 42080,
@@ -757,20 +732,6 @@
     "bannerAssetbundleName": "banner_news_christmas_logincp_2021"
   },
   {
-    "id": 1165,
-    "seq": 1,
-    "displayOrder": 42050,
-    "informationType": "normal",
-    "informationTag": "information",
-    "browseType": "internal",
-    "platform": "all",
-    "title": "予告、「クリスマス衣装セット」再販売について",
-    "path": "information/index.html?id=info_resale_ChristmasLiveCostume2020_2021222notice",
-    "startAt": 1640066400000,
-    "endAt": 1640152799000,
-    "bannerAssetbundleName": "news_banner_shop_xmas_costume_2021"
-  },
-  {
     "id": 1166,
     "seq": 1,
     "displayOrder": 42070,
@@ -783,19 +744,6 @@
     "startAt": 1640152800000,
     "endAt": 1640584799000,
     "bannerAssetbundleName": "news_banner_shop_xmas_costume_2021"
-  },
-  {
-    "id": 1167,
-    "seq": 1,
-    "displayOrder": 42040,
-    "informationType": "normal",
-    "informationTag": "update",
-    "browseType": "internal",
-    "platform": "all",
-    "title": "メンテナンスの実施及び「v1.12.0」アップデートのご案内",
-    "path": "information/index.html?id=info_update_maintenance_v1-12-0_notice_20211224",
-    "startAt": 1640055600000,
-    "endAt": 1640077199000
   },
   {
     "id": 1168,
@@ -820,21 +768,34 @@
     "platform": "all",
     "title": "【12月23日15時00分】メンテナンスの実施及び「v1.12.0」アップデートのご案内",
     "path": "information/index.html?id=info_add2_update_maintenance_v1-12-0_notice_20211224",
-    "startAt": 1640239200000
+    "startAt": 1640239200000,
+    "endAt": 1640312999000
   },
   {
-    "id": 1171,
+    "id": 1170,
     "seq": 1,
-    "displayOrder": 42090,
+    "displayOrder": 42130,
     "informationType": "normal",
-    "informationTag": "information",
+    "informationTag": "update",
     "browseType": "internal",
     "platform": "all",
-    "title": "12月22日本日公演！「コネクトライブ リハーサル公演」開催について",
-    "path": "information/index.html?id=info_virtuallive112_connectlive_20211222",
-    "startAt": 1640152800000,
-    "endAt": 1640169600000,
-    "bannerAssetbundleName": "banner_news_virtuallive112_connectlive"
+    "title": "【12月24日11時30分】メンテナンスの実施及び「v1.12.0」アップデートのご案内",
+    "path": "information/index.html?id=info_add2_update_maintenance_v1-12-0_forceupdate_20211224",
+    "startAt": 1640313000000,
+    "endAt": 1641495599000
+  },
+  {
+    "id": 1172,
+    "seq": 1,
+    "displayOrder": 42140,
+    "informationType": "normal",
+    "informationTag": "update",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "アプリバージョン「v1.12.0」以降におけるライブ中のカットイン演出の再生条件の変更について",
+    "path": "information/index.html?id=info_v1-12-0_cutinVoice_20211224",
+    "startAt": 1640313000000,
+    "endAt": 1641495599000
   },
   {
     "id": 1174,
@@ -858,7 +819,8 @@
     "platform": "all",
     "title": "【12月22日11時30分】楽曲「ラストスコア」の難易度EXPERTにおいて、楽曲Lv.が想定と異なる表記となっている不具合について",
     "path": "information/index.html?id=bug_fix_LastScore_difficulty_20211220",
-    "startAt": 1640140200000
+    "startAt": 1640140200000,
+    "endAt": 1640372399000
   },
   {
     "id": 1176,
@@ -870,7 +832,8 @@
     "platform": "all",
     "title": "【12月22日11時30分】「旅立つ冬のレイルウェイガチャ」のTOP画面の一部新メンバーのイラストが想定と異なる不具合について",
     "path": "information/index.html?id=bug_fix_gacha-top_20211220",
-    "startAt": 1640140200000
+    "startAt": 1640140200000,
+    "endAt": 1640372399000
   },
   {
     "id": 1180,
@@ -895,7 +858,7 @@
     "browseType": "internal",
     "platform": "all",
     "title": "【12月22日20時10分】12月22日、本日公演！「コネクトライブ リハーサル公演」開催について",
-    "path": "information/index.html?id=info_add2_virtuallive112_connectlive_20211222",
+    "path": "information/index.html?id=iinfo_add2-2_virtuallive112_connectlive_20211222",
     "startAt": 1640171400000,
     "endAt": 1640174400000,
     "bannerAssetbundleName": "banner_news_virtuallive112_connectlive"
@@ -977,6 +940,31 @@
     "platform": "all",
     "title": "【12月23日15時00分】「みんなでライブ」にて通信エラーが発生している事象について",
     "path": "information/index.html?id=bug_add2_networkerror_multilive_20211222",
-    "startAt": 1640239200000
+    "startAt": 1640239200000,
+    "endAt": 1641495599000
+  },
+  {
+    "id": 1189,
+    "seq": 1,
+    "displayOrder": 21320,
+    "informationType": "bug",
+    "informationTag": "bug",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "一部キズナランク称号の称号画像がダイアログに表示されない不具合について",
+    "path": "information/index.html?id=bug_v1-12-0_Kizuna-achievement_display_20211224",
+    "startAt": 1640313000000
+  },
+  {
+    "id": 1190,
+    "seq": 1,
+    "displayOrder": 21330,
+    "informationType": "bug",
+    "informationTag": "bug",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "「★3以上確定チケットガチャ」を引く時のダイアログにおける一部表示不具合について",
+    "path": "information/index.html?id=bug_v1-12-0_rarity3-ticketgacha_display_20211224",
+    "startAt": 1640313000000
   }
 ]
