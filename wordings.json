@@ -1,5 +1,33 @@
 [
   {
+    "wordingKey": "COLLECTION_BOX_PROVISION_TAB_TITLE",
+    "value": "コレクションBOX説明"
+  },
+  {
+    "wordingKey": "DIALOG_MESSAGE_VIRTUAL_SHOP_TIME_OVER",
+    "value": "{0}は開催期間が終了しています。"
+  },
+  {
+    "wordingKey": "DIALOG_OK_BUTTON_LABEL_VIRTUAL_SHOP_TIME_OVER",
+    "value": "閉じる"
+  },
+  {
+    "wordingKey": "DIALOG_TITLE_COLLECTION_GACHA_CONTENTS",
+    "value": "コレクション詳細"
+  },
+  {
+    "wordingKey": "DIALOG_TITLE_COLLECTION_GACHA_DETAIL",
+    "value": "コレクションBOX詳細"
+  },
+  {
+    "wordingKey": "DIALOG_TITLE_COLLECTION_GACHA_SEE_CONTENTS",
+    "value": "コレクション詳細"
+  },
+  {
+    "wordingKey": "DIALOG_TITLE_VIRTUAL_SHOP_TIME_OVER",
+    "value": "通知"
+  },
+  {
     "wordingKey": "FMT_EVENT_POINT",
     "value": "{0}pt"
   },
@@ -144,6 +172,18 @@
     "value": "ストアにて返金処理が実際されているため、処理を開始します"
   },
   {
+    "wordingKey": "MSG_BONDS_CHARACTER_SELECT_DESCRIPTION",
+    "value": "キズナランクを確認するキャラクターを選択してください"
+  },
+  {
+    "wordingKey": "MSG_BONDS_RANK_MAX",
+    "value": "キズナランクは最大です"
+  },
+  {
+    "wordingKey": "MSG_BOND_LIMIT",
+    "value": "{0}のキャラクターランクを\n上げることでキズナランクの上限がアップします"
+  },
+  {
     "wordingKey": "MSG_BOOST_RECOVER_COMPLETE",
     "value": "ライブボーナスを{0}回復しました。"
   },
@@ -153,7 +193,7 @@
   },
   {
     "wordingKey": "MSG_BOOST_RECOVER_METHOD_JEWEL_CONFIRM",
-    "value": "クリスタルを消費して、 \nライブボーナスを{0}回復しますか？"
+    "value": "クリスタルを{0}消費して、 \nライブボーナスを{1}回復しますか？"
   },
   {
     "wordingKey": "MSG_CAN_BUY_BY_COSTUME_SHOP",
@@ -256,8 +296,24 @@
     "value": "各エリアのショップで様々なアイテムと交換できるコイン。ライブなどで手に入る。"
   },
   {
+    "wordingKey": "MSG_COLLECTION_GACHA_SPIN_CONFIRM",
+    "value": "{0}<color=#FF55AA>{1}個</color>を消費して\n「{2}」を\n開けます。よろしいですか？"
+  },
+  {
+    "wordingKey": "MSG_COLLECTION_OPEN_COUNT",
+    "value": "{0}回<size=28>開ける</size>"
+  },
+  {
     "wordingKey": "MSG_COLORFUL_PASS_ALERT",
     "value": "カラフルパスの有効期限が過ぎています。\n新しく購入しますか？"
+  },
+  {
+    "wordingKey": "MSG_COMPLETE_COPY_PLAYER_ID",
+    "value": "プレイヤーID {0} をコピーしました"
+  },
+  {
+    "wordingKey": "MSG_COMPLETE_COPY_PLAYER_ID_TITLE",
+    "value": "プレイヤーIDコピー完了"
   },
   {
     "wordingKey": "MSG_CONDITION_GET_CARD",
@@ -286,6 +342,22 @@
   {
     "wordingKey": "MSG_CONNECT_LIVE_TICKET_EXCHANGE_CONFIRM_TOS",
     "value": "コネクトライブの利用ガイドラインに同意する。"
+  },
+  {
+    "wordingKey": "MSG_CONSECUTIVE_AUTO_LIVE_COMPLETE",
+    "value": "指定された回数のオートライブが完了しました。"
+  },
+  {
+    "wordingKey": "MSG_CONSECUTIVE_AUTO_LIVE_NOT_ENOUGH",
+    "value": "ライブボーナスが不足しているため、\nオートライブを中断しました。\n\n<color=#FF55AA>※中断するまでのライブリザルトは反映されています。</color>"
+  },
+  {
+    "wordingKey": "MSG_CONSECUTIVE_AUTO_LIVE_PAUSE_AND_RESTART",
+    "value": "オートライブを一時停止しました。\n再開しますか？"
+  },
+  {
+    "wordingKey": "MSG_CONSECUTIVE_AUTO_LIVE_UNTILE_NOT_ENOUGH",
+    "value": "ライブボーナスがなくなるまで"
   },
   {
     "wordingKey": "MSG_CONSTUME_FITTING",
@@ -346,6 +418,10 @@
   {
     "wordingKey": "MSG_CUSTOMPROFILE_HONOR_EMPTY",
     "value": "表示できる称号がありません"
+  },
+  {
+    "wordingKey": "MSG_CUSTOM_PROFILE_COLLECTION_ALERT",
+    "value": "選択したコレクションの所持数が0になると、\n同じセット内で使用できなくなります。\n\n※コレクションのレイヤーを削除すると、\n削除した枚数に応じて所持数が戻ります。\n※使用数はセット内の合計でカウントされます。"
   },
   {
     "wordingKey": "MSG_DATA_LINK_RELEASE",
@@ -438,6 +514,10 @@
   {
     "wordingKey": "MSG_EMPTY_STAMP_FAVORITE",
     "value": "お気に入りに設定しているスタンプがありません。"
+  },
+  {
+    "wordingKey": "MSG_EMPTY_STAMP_FAVORITE_FOR_NEW_UI",
+    "value": "お気に入りに設定している\nスタンプがありません。"
   },
   {
     "wordingKey": "MSG_EMPTY_STAMP_HISTORY",
@@ -578,6 +658,14 @@
   {
     "wordingKey": "MSG_FRIEND_DEFAULT_REQUEST",
     "value": "  "
+  },
+  {
+    "wordingKey": "MSG_FRIEND_INVITE_APPROVE",
+    "value": "招待を承認しました。"
+  },
+  {
+    "wordingKey": "MSG_FRIEND_INVITE_REJECT",
+    "value": "招待を拒否しました。"
   },
   {
     "wordingKey": "MSG_FRIEND_LIMIT_COUNT_FOR_OTHER",
@@ -722,6 +810,18 @@
   {
     "wordingKey": "MSG_INPUT_PLAYER_ID",
     "value": "プレイヤーIDを入力してください。"
+  },
+  {
+    "wordingKey": "MSG_INVITE_FAILED_CHEERFUL_INVALID_TEAM",
+    "value": "所属チームが違うため、招待ルームに入室できませんでした。"
+  },
+  {
+    "wordingKey": "MSG_INVITE_FAILED_CHEERFUL_NOT_JOIN",
+    "value": "チアフルカーニバルのグループに参加していないため、招待の受け入れに失敗しました。"
+  },
+  {
+    "wordingKey": "MSG_INVITE_FAILED_TOTAL_POWER",
+    "value": "総合力が不足しているため、招待ルームに入室できませんでした。"
   },
   {
     "wordingKey": "MSG_IN_SESSION",
@@ -1184,6 +1284,10 @@
     "value": "有償クリスタルが足りません。 \nクリスタルショップへ行きますか？"
   },
   {
+    "wordingKey": "MSG_NOT_ENOUGH_RESOURCE",
+    "value": "{0}が不足しています。"
+  },
+  {
     "wordingKey": "MSG_NOT_ENOUGH_TICKET",
     "value": "チケットが足りません。 "
   },
@@ -1198,6 +1302,10 @@
   {
     "wordingKey": "MSG_NOT_PLAYABLE_EVENT",
     "value": "イベント期間が終了しました。"
+  },
+  {
+    "wordingKey": "MSG_NOT_PUBLISH_MUSIC_ERROR",
+    "value": "この楽曲はまだプレイできません。"
   },
   {
     "wordingKey": "MSG_NOT_RESULT_CONFIRM_NOW",
@@ -1230,6 +1338,10 @@
   {
     "wordingKey": "MSG_NO_FILTERING_RESULT",
     "value": "絞り込み結果がありません。"
+  },
+  {
+    "wordingKey": "MSG_NO_INVITE",
+    "value": "招待がありません。"
   },
   {
     "wordingKey": "MSG_NO_VIRTUAL_LIVE",
@@ -1864,8 +1976,24 @@
     "value": "達成報酬"
   },
   {
+    "wordingKey": "OMIKUJI_PROVISION_TAB_TITLE",
+    "value": "おみくじ説明"
+  },
+  {
     "wordingKey": "TITLE_PERMISSION_NOT_GRANTED",
     "value": "権限がありません"
+  },
+  {
+    "wordingKey": "WARD_BONDS_RANK_REWARD_ANOTHER_VOCAL",
+    "value": "アナザーボーカルへのショップリスト追加"
+  },
+  {
+    "wordingKey": "WARD_BONDS_RANK_REWARD_AREA_TALK",
+    "value": "エリア会話追加"
+  },
+  {
+    "wordingKey": "WARD_BONDS_RANK_REWARD_INGAME_VOICE",
+    "value": "リズムゲーム中のオリジナル掛け合いボイス解放\n{0}×{1}"
   },
   {
     "wordingKey": "WORD_\bEXCHANGE_NUM",
@@ -1966,6 +2094,10 @@
   {
     "wordingKey": "WORD_ADD_FRIEND",
     "value": "フレンド追加"
+  },
+  {
+    "wordingKey": "WORD_ADD_VALUE",
+    "value": "＋{0}"
   },
   {
     "wordingKey": "WORD_AFTER_LIVE",
@@ -2092,12 +2224,20 @@
     "value": "オート"
   },
   {
+    "wordingKey": "WORD_AUTO_LIVE_COMPLETE",
+    "value": "オートライブ完了"
+  },
+  {
     "wordingKey": "WORD_AUTO_LIVE_LIMIT",
     "value": "本日分終了"
   },
   {
     "wordingKey": "WORD_AUTO_LIVE_NUMBER_OF_PLAY",
     "value": "あと{0}回"
+  },
+  {
+    "wordingKey": "WORD_AUTO_LIVE_PAUSE",
+    "value": "オートライブ中断"
   },
   {
     "wordingKey": "WORD_AVATAR_COSTUME",
@@ -2126,6 +2266,70 @@
   {
     "wordingKey": "WORD_BODY",
     "value": "衣装"
+  },
+  {
+    "wordingKey": "WORD_BOND",
+    "value": "キズナ"
+  },
+  {
+    "wordingKey": "WORD_BONDS",
+    "value": "キズナ"
+  },
+  {
+    "wordingKey": "WORD_BONDS_RANK_CONFIRM_REWARD_TITLE",
+    "value": "キズナランク報酬一覧"
+  },
+  {
+    "wordingKey": "WORD_BOND_GET_EXP",
+    "value": "獲得キズナランクEXP"
+  },
+  {
+    "wordingKey": "WORD_BOND_GET_EXP_LIST_BUTTON",
+    "value": "詳細"
+  },
+  {
+    "wordingKey": "WORD_BOND_HONOR_SETTING_CHARACHTER",
+    "value": "キャラクター配置選択"
+  },
+  {
+    "wordingKey": "WORD_BOND_HONOR_SETTING_RANK",
+    "value": "ランク選択"
+  },
+  {
+    "wordingKey": "WORD_BOND_HONOR_SETTING_TITLE",
+    "value": "称号表示確認"
+  },
+  {
+    "wordingKey": "WORD_BOND_HONOR_SETTING_WORD",
+    "value": "称号名選択"
+  },
+  {
+    "wordingKey": "WORD_BOND_NO_PAIR_DESCRIPTION",
+    "value": "キズナランクが解放されていないため、\nキズナEXPは獲得できません。"
+  },
+  {
+    "wordingKey": "WORD_BOND_OTHER_EXP_DESCRIPTION",
+    "value": "※他にキズナEXPを獲得したメンバーがいます。"
+  },
+  {
+    "wordingKey": "WORD_BOND_RANK",
+    "value": "キズナランク"
+  },
+  {
+    "wordingKey": "WORD_BOND_RANK_FORMAT",
+    "value": "キズナランク{0}"
+  },
+  {
+    "wordingKey": "WORD_BOND_RANK_UP",
+    "value": "キズナランクUP!"
+  },
+  {
+    "wordingKey": "WORD_BOND_REWARD",
+    "value": "キズナランク報酬"
+  },
+  {
+    "wordingKey": "WORD_BOND_REWARD_LIST",
+    "value": "キズナランク報酬一覧"
   },
   {
     "wordingKey": "WORD_BONUS",
@@ -2404,6 +2608,26 @@
     "value": "コラボ限定セカイ登場"
   },
   {
+    "wordingKey": "WORD_COLLECTION_GACHA",
+    "value": "お正月\nコレクション"
+  },
+  {
+    "wordingKey": "WORD_COLLECTION_GACHA_NOTICE",
+    "value": "注意事項"
+  },
+  {
+    "wordingKey": "WORD_COLLECTION_GACHA_PROVISION_DETAIL_EXPLANATION",
+    "value": "コレクション説明"
+  },
+  {
+    "wordingKey": "WORD_COLLECTION_GACHA_PROVISION_DETAIL_LIST",
+    "value": "コレクション一覧"
+  },
+  {
+    "wordingKey": "WORD_COLLECTION_GOODS",
+    "value": "甘酒"
+  },
+  {
     "wordingKey": "WORD_COLOR",
     "value": "カラー"
   },
@@ -2440,6 +2664,10 @@
     "value": "作曲"
   },
   {
+    "wordingKey": "WORD_CONDITION_CUSTOMIZED",
+    "value": "条件カスタマイズ"
+  },
+  {
     "wordingKey": "WORD_CONFIRM",
     "value": "確認"
   },
@@ -2454,6 +2682,10 @@
   {
     "wordingKey": "WORD_CONNECT_LIVE_GUIDE_LINE_TITLE",
     "value": "ガイドライン"
+  },
+  {
+    "wordingKey": "WORD_CONSECUTIVE_AUTO_LIVE_NUMBER_OF_PLAY",
+    "value": "あと{0}回"
   },
   {
     "wordingKey": "WORD_CONSUME_NUM",
@@ -2582,6 +2814,14 @@
   {
     "wordingKey": "WORD_CUSTOM_PROFILE",
     "value": "カスタムプロフィール"
+  },
+  {
+    "wordingKey": "WORD_CUSTOM_PROFILE_COLLECTION_ALERT_TITLE",
+    "value": "コレクションの使用数について"
+  },
+  {
+    "wordingKey": "WORD_CUSTOM_PROFILE_COLLECTION_GACHA_OPEN",
+    "value": "開ける"
   },
   {
     "wordingKey": "WORD_CUSTOM_PROFILE_EDIT_CARD",
@@ -2734,6 +2974,10 @@
   {
     "wordingKey": "WORD_DURING_SHOW",
     "value": "開演中！"
+  },
+  {
+    "wordingKey": "WORD_EASY_FILTER",
+    "value": "かんたん絞り込み"
   },
   {
     "wordingKey": "WORD_EFFECT",
@@ -3004,6 +3248,14 @@
     "value": "枠線カラー選択"
   },
   {
+    "wordingKey": "WORD_FORTUNE",
+    "value": "吉"
+  },
+  {
+    "wordingKey": "WORD_FORTUNE_GACHA",
+    "value": "おみくじ"
+  },
+  {
     "wordingKey": "WORD_FREE",
     "value": "無料"
   },
@@ -3026,6 +3278,10 @@
   {
     "wordingKey": "WORD_FRIEND_COUNT",
     "value": "フレンド"
+  },
+  {
+    "wordingKey": "WORD_FRIEND_INVITE",
+    "value": "<color=#ff5599>{0}</color>からライブ招待が届きました。"
   },
   {
     "wordingKey": "WORD_FRIEND_LIST",
@@ -3066,6 +3322,10 @@
   {
     "wordingKey": "WORD_FRIEND_REQUEST_REJECT",
     "value": "フレンド申請拒否"
+  },
+  {
+    "wordingKey": "WORD_FRIENT_INVITE_TITLE",
+    "value": "フレンドに招待を送る"
   },
   {
     "wordingKey": "WORD_FULLSET",
@@ -3130,6 +3390,10 @@
   {
     "wordingKey": "WORD_GET_CHARACTER_RANK_UP_REWARD",
     "value": "キャラクターランクアップ報酬獲得"
+  },
+  {
+    "wordingKey": "WORD_GET_COSTUME_DIALOG",
+    "value": "{0} {1}\n\n<color={2}>{3}</color>"
   },
   {
     "wordingKey": "WORD_GET_ORDER",
@@ -3246,6 +3510,14 @@
   {
     "wordingKey": "WORD_GO_VIRTUAL_LIVE",
     "value": "バーチャルライブへ"
+  },
+  {
+    "wordingKey": "WORD_GRATE_FORTUNE",
+    "value": "大吉"
+  },
+  {
+    "wordingKey": "WORD_GRATE_MISFORTUNE",
+    "value": "大凶"
   },
   {
     "wordingKey": "WORD_GROUP_POINT_TOTAL",
@@ -3428,6 +3700,10 @@
     "value": "称号設定"
   },
   {
+    "wordingKey": "WORD_HONOR_WORD_GET_HOLDER",
+    "value": "称号名「{0}」"
+  },
+  {
     "wordingKey": "WORD_HOURS_LEFT",
     "value": "あと{0}時間"
   },
@@ -3448,8 +3724,48 @@
     "value": "名前入力"
   },
   {
+    "wordingKey": "WORD_INSTRUMENTLE_VERSION",
+    "value": "inst. ver."
+  },
+  {
+    "wordingKey": "WORD_INSTRUMENTLE_VERSION_NAMES",
+    "value": "-"
+  },
+  {
     "wordingKey": "WORD_INVENTORY",
     "value": "持ち物"
+  },
+  {
+    "wordingKey": "WORD_INVITE",
+    "value": "招待"
+  },
+  {
+    "wordingKey": "WORD_INVITE_CHEERFUL_LIVE",
+    "value": "チアフルライブ招待"
+  },
+  {
+    "wordingKey": "WORD_INVITE_CONNECT_LIVE",
+    "value": "コネクトライブ招待"
+  },
+  {
+    "wordingKey": "WORD_INVITE_FAILED",
+    "value": "招待失敗"
+  },
+  {
+    "wordingKey": "WORD_INVITE_MULTI_LIVE",
+    "value": "みんなでライブ招待"
+  },
+  {
+    "wordingKey": "WORD_INVITE_SUCCESS",
+    "value": "招待済み"
+  },
+  {
+    "wordingKey": "WORD_INVITE_VIRTUAL_LIVE",
+    "value": "バーチャルライブ招待"
+  },
+  {
+    "wordingKey": "WORD_INVITING",
+    "value": "招待中"
   },
   {
     "wordingKey": "WORD_ITEM",
@@ -3610,6 +3926,10 @@
   {
     "wordingKey": "WORD_LIVE_FAILED2",
     "value": "ライブ失敗"
+  },
+  {
+    "wordingKey": "WORD_LIVE_INVITE",
+    "value": "ライブ招待"
   },
   {
     "wordingKey": "WORD_LIVE_MISSION_PATH_NL",
@@ -3880,6 +4200,10 @@
     "value": "メッセージ"
   },
   {
+    "wordingKey": "WORD_MIDDLE_FORTUNE",
+    "value": "中吉"
+  },
+  {
     "wordingKey": "WORD_MIGRATION_NL",
     "value": "データ引き継ぎ"
   },
@@ -3890,6 +4214,10 @@
   {
     "wordingKey": "WORD_MINI_HONOR_SIZE",
     "value": "サブ"
+  },
+  {
+    "wordingKey": "WORD_MISFORTUNE",
+    "value": "凶"
   },
   {
     "wordingKey": "WORD_MISSING_ADD_FRIEND",
@@ -4064,8 +4392,16 @@
     "value": "未フルコンボ"
   },
   {
+    "wordingKey": "WORD_NOT_INVITED",
+    "value": "招待不可"
+  },
+  {
     "wordingKey": "WORD_NOT_JOIN",
     "value": "不参加"
+  },
+  {
+    "wordingKey": "WORD_NOT_PUBLISH_MUSIC_ERROR_TITLE",
+    "value": "エラー"
   },
   {
     "wordingKey": "WORD_NOT_PURCHASE",
@@ -4126,6 +4462,18 @@
   {
     "wordingKey": "WORD_OK",
     "value": "OK"
+  },
+  {
+    "wordingKey": "WORD_OMIKUJI_DETAIL",
+    "value": "おみくじ詳細"
+  },
+  {
+    "wordingKey": "WORD_OMIKUJI_LIST",
+    "value": "おみくじ一覧"
+  },
+  {
+    "wordingKey": "WORD_OMIKUJI_SUMMURY_TITLE",
+    "value": "おみくじ概要"
   },
   {
     "wordingKey": "WORD_ON",
@@ -4316,6 +4664,10 @@
     "value": "練習用スコア"
   },
   {
+    "wordingKey": "WORD_PREFIX_SPIN_COLLECTION_GACHA",
+    "value": "{0}回<size=28>開ける</size>"
+  },
+  {
     "wordingKey": "WORD_PREMIUM",
     "value": "プレミアム"
   },
@@ -4372,6 +4724,10 @@
     "value": "{0}円"
   },
   {
+    "wordingKey": "WORD_PRIVACY_POLICY",
+    "value": "プライバシーポリシー"
+  },
+  {
     "wordingKey": "WORD_PRIVATE_ROOM",
     "value": "プライベートルーム"
   },
@@ -4402,6 +4758,10 @@
   {
     "wordingKey": "WORD_PULL",
     "value": "引く"
+  },
+  {
+    "wordingKey": "WORD_PUNCTUATION",
+    "value": "、"
   },
   {
     "wordingKey": "WORD_PURCHASE",
@@ -4512,6 +4872,10 @@
     "value": "回復"
   },
   {
+    "wordingKey": "WORD_RECOVER_BY_CRYSTAL",
+    "value": "クリスタルで回復"
+  },
+  {
     "wordingKey": "WORD_RECRUITTING",
     "value": "募集中..."
   },
@@ -4552,6 +4916,14 @@
     "value": "スキルアップ解放"
   },
   {
+    "wordingKey": "WORD_RELEASING_ON_EVENT",
+    "value": "イベント時開放！"
+  },
+  {
+    "wordingKey": "WORD_REMAIN_NUM",
+    "value": "残り回数"
+  },
+  {
     "wordingKey": "WORD_REQUEST",
     "value": "申請"
   },
@@ -4576,8 +4948,16 @@
     "value": "あと{0}P"
   },
   {
+    "wordingKey": "WORD_REST_TIME",
+    "value": "あと{0}秒"
+  },
+  {
     "wordingKey": "WORD_REST_VALUE",
     "value": "あと{0}"
+  },
+  {
+    "wordingKey": "WORD_RESUME",
+    "value": "再開"
   },
   {
     "wordingKey": "WORD_RETRY",
@@ -4606,6 +4986,10 @@
   {
     "wordingKey": "WORD_REWARD_AND_EXP",
     "value": "報酬・EXP"
+  },
+  {
+    "wordingKey": "WORD_REWARD_COUNT_FORMAT",
+    "value": "×{0}獲得"
   },
   {
     "wordingKey": "WORD_RIGHT_NATATION",
@@ -4676,6 +5060,10 @@
     "value": "プレイヤーID検索"
   },
   {
+    "wordingKey": "WORD_SEE_CONTENT",
+    "value": "中身をみる"
+  },
+  {
     "wordingKey": "WORD_SEKAI_VERSION",
     "value": "セカイver."
   },
@@ -4710,6 +5098,10 @@
   {
     "wordingKey": "WORD_SELECT_CLEANUP_TITLE",
     "value": "取り消し確認"
+  },
+  {
+    "wordingKey": "WORD_SELECT_COLLECTION",
+    "value": "コレクション選択"
   },
   {
     "wordingKey": "WORD_SELECT_COLOR",
@@ -4940,6 +5332,14 @@
     "value": "少ない"
   },
   {
+    "wordingKey": "WORD_SMALL_FORTUNE",
+    "value": "小吉"
+  },
+  {
+    "wordingKey": "WORD_SOHW_ONLINE",
+    "value": "オンライン表示"
+  },
+  {
     "wordingKey": "WORD_SOLO",
     "value": "ソロ"
   },
@@ -5096,6 +5496,10 @@
     "value": "サポートメンバー"
   },
   {
+    "wordingKey": "WORD_SUSPENSION",
+    "value": "中断"
+  },
+  {
     "wordingKey": "WORD_SYSTEM_VOLUME",
     "value": "システム音量"
   },
@@ -5142,6 +5546,10 @@
   {
     "wordingKey": "WORD_TIME_LIMIT_COLLABORATION_AREA",
     "value": "エリアの出現期間が終了しました。\nホームに戻ります。"
+  },
+  {
+    "wordingKey": "WORD_TIME_LIMIT_FROAMT",
+    "value": "{0}/{1:00}/{2:00} {3:00}:{4:00}まで"
   },
   {
     "wordingKey": "WORD_TIME_LIMIT_RANGE_FORMAT",
@@ -5250,6 +5658,10 @@
   {
     "wordingKey": "WORD_TWITTER",
     "value": "Twitterへ"
+  },
+  {
+    "wordingKey": "WORD_UNCERTAIN_LUCK",
+    "value": "末吉"
   },
   {
     "wordingKey": "WORD_UNIT",
@@ -5532,6 +5944,18 @@
     "value": "表示"
   },
   {
+    "wordingKey": "WORD_VL_SETTINGS_FRAMERATE",
+    "value": "なめらかさ"
+  },
+  {
+    "wordingKey": "WORD_VL_SETTINGS_FRAMERATE_DEFAULT",
+    "value": "標準"
+  },
+  {
+    "wordingKey": "WORD_VL_SETTINGS_FRAMERATE_HIGH",
+    "value": "なめらか"
+  },
+  {
     "wordingKey": "WORD_VL_SETTINGS_LABEL_ALL",
     "value": "バーチャルライブ・待合エリア共通設定"
   },
@@ -5573,6 +5997,22 @@
   },
   {
     "wordingKey": "WORD_VL_SETTINGS_QUALITY_LOW",
+    "value": "軽量"
+  },
+  {
+    "wordingKey": "WORD_VL_SETTINGS_RESOLUTION",
+    "value": "解像度"
+  },
+  {
+    "wordingKey": "WORD_VL_SETTINGS_RESOLUTION_DEFAULT",
+    "value": "標準"
+  },
+  {
+    "wordingKey": "WORD_VL_SETTINGS_RESOLUTION_HIGH",
+    "value": "高品質"
+  },
+  {
+    "wordingKey": "WORD_VL_SETTINGS_RESOLUTION_LOW",
     "value": "軽量"
   },
   {

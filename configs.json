@@ -45,7 +45,7 @@
   },
   {
     "configKey": "max_character_rank",
-    "value": "50"
+    "value": "65"
   },
   {
     "configKey": "tutorial_in_game_deck",
@@ -122,6 +122,10 @@
   {
     "configKey": "auto_live_daily_play_count_limit",
     "value": "10"
+  },
+  {
+    "configKey": "auto_live_available_boost_item_ids",
+    "value": "1,2"
   },
   {
     "configKey": "multi_live_power_range_upper_limit_init",
@@ -524,6 +528,10 @@
     "value": "1.0"
   },
   {
+    "configKey": "custom_profile_text_line_spacing_factor",
+    "value": "1.325"
+  },
+  {
     "configKey": "friend_request_expire_hour",
     "value": "168"
   },
@@ -534,6 +542,34 @@
   {
     "configKey": "friend_count_limit",
     "value": "100"
+  },
+  {
+    "configKey": "login_status_online_expire_sec",
+    "value": "600"
+  },
+  {
+    "configKey": "login_status_solo_live_expire_sec",
+    "value": "600"
+  },
+  {
+    "configKey": "login_status_multi_live_expire_sec",
+    "value": "600"
+  },
+  {
+    "configKey": "login_status_virtual_live_expire_sec",
+    "value": "600"
+  },
+  {
+    "configKey": "invitation_polling_period_sec",
+    "value": "10"
+  },
+  {
+    "configKey": "invitation_expire_sec",
+    "value": "60"
+  },
+  {
+    "configKey": "omikuji_should_draw_ratio",
+    "value": "0.2"
   },
   {
     "configKey": "custom_profile_can_snap_delta_rotation_deg",
@@ -594,6 +630,10 @@
   {
     "configKey": "custom_profile_max_creatable",
     "value": "10"
+  },
+  {
+    "configKey": "profile_honor_max_size",
+    "value": "3"
   },
   {
     "configKey": "debug_auth_disable",
