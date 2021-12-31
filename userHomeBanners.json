@@ -22,67 +22,132 @@
     "endAt": 4102412399000
   },
   {
-    "homeBannerId": 289,
-    "seq": 200,
+    "homeBannerId": 314,
+    "seq": 180,
     "homeBannerType": "general",
-    "name": "[2021/12]プレミアムミッションパス",
-    "assetbundleName": "banner_premiummissionpass_2021_12",
-    "transitionDestinationType": "billing_shop_for_live_mission_pass",
-    "startAt": 1638284400000,
-    "endAt": 1640962799000
-  },
-  {
-    "homeBannerId": 290,
-    "seq": 220,
-    "homeBannerType": "general",
-    "name": "「クラシカルメイド・バトラー」再販売",
-    "assetbundleName": "banner_costume_resale_2021_12",
-    "transitionDestinationType": "billing_shop_for_jewel",
-    "startAt": 1638284400000,
-    "endAt": 1640962799000
-  },
-  {
-    "homeBannerId": 305,
-    "seq": 100,
-    "homeBannerType": "event",
-    "name": "[イベント]Same Dreams,Same Colors",
-    "assetbundleName": "event_camp_2021",
-    "transitionDestinationType": "event",
-    "transitionDestinationId": 44,
-    "startAt": 1639980000000,
-    "endAt": 1640930399000
-  },
-  {
-    "homeBannerId": 307,
-    "seq": 110,
-    "homeBannerType": "general",
-    "name": "ビビバス6巡目_定常ガチャバナー",
-    "assetbundleName": "banner_gacha160",
-    "transitionDestinationType": "gacha",
-    "transitionDestinationId": 160,
-    "startAt": 1639980000000,
-    "endAt": 1640930399000
-  },
-  {
-    "homeBannerId": 313,
-    "seq": 80,
-    "homeBannerType": "general",
-    "name": "[鏡音リン]BIRTHDAY ANNIVERSARYガチャ（優先度UP用）",
+    "name": "[鏡音リン]BIRTHDAY ANNIVERSARYガチャ（優先度落とし用）",
     "assetbundleName": "banner_gacha162",
     "transitionDestinationType": "gacha",
     "transitionDestinationId": 162,
-    "startAt": 1640530800000,
-    "endAt": 1640930399000
+    "startAt": 1640930400000,
+    "endAt": 1641135599000
   },
   {
-    "homeBannerId": 315,
-    "seq": 90,
+    "homeBannerId": 316,
+    "seq": 190,
     "homeBannerType": "general",
-    "name": "[鏡音レン]BIRTHDAY ANNIVERSARYガチャ（優先度UP用）",
+    "name": "[鏡音レン]BIRTHDAY ANNIVERSARYガチャ（優先度落とし用）",
     "assetbundleName": "banner_gacha163",
     "transitionDestinationType": "gacha",
     "transitionDestinationId": 163,
-    "startAt": 1640530800000,
-    "endAt": 1640930399000
+    "startAt": 1640930400000,
+    "endAt": 1641135599000
+  },
+  {
+    "homeBannerId": 317,
+    "seq": 30,
+    "homeBannerType": "general",
+    "name": "[2022/01]プレミアムミッションパス（優先度UP用）",
+    "assetbundleName": "banner_premiummissionpass_2022_01",
+    "transitionDestinationType": "billing_shop_for_live_mission_pass",
+    "startAt": 1640962800000,
+    "endAt": 1641967199000
+  },
+  {
+    "homeBannerId": 319,
+    "seq": 220,
+    "homeBannerType": "general",
+    "name": "「モーモーニューイヤー」再販売",
+    "assetbundleName": "banner_costume_resale_2022_01",
+    "transitionDestinationType": "billing_shop_for_jewel",
+    "startAt": 1640962800000,
+    "endAt": 1643641199000
+  },
+  {
+    "homeBannerId": 320,
+    "seq": 100,
+    "homeBannerType": "event",
+    "name": "[イベント]祈りの先 願う明日は",
+    "assetbundleName": "event_prayer_2022",
+    "transitionDestinationType": "event",
+    "transitionDestinationId": 45,
+    "startAt": 1640930400000,
+    "endAt": 1641967199000
+  },
+  {
+    "homeBannerId": 321,
+    "seq": 50,
+    "homeBannerType": "general",
+    "name": "[2022新春]カラフルフェスティバルガチャ",
+    "assetbundleName": "banner_gacha164",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 164,
+    "startAt": 1640930400000,
+    "endAt": 1641275999000
+  },
+  {
+    "homeBannerId": 322,
+    "seq": 60,
+    "homeBannerType": "general",
+    "name": "[2022新春]プレミアムプレゼントガチャ（優先度UP用）",
+    "assetbundleName": "banner_gacha167",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 167,
+    "startAt": 1640930400000,
+    "endAt": 1641275999000
+  },
+  {
+    "homeBannerId": 326,
+    "seq": 140,
+    "homeBannerType": "general",
+    "name": "[2022新春]10連無料ガチャ",
+    "assetbundleName": "banner_gacha168",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 168,
+    "startAt": 1640977200000,
+    "endAt": 1643641199000
+  },
+  {
+    "homeBannerId": 327,
+    "seq": 150,
+    "homeBannerType": "general",
+    "name": "お正月ショップ2022",
+    "assetbundleName": "banner_shop_newyear2022",
+    "transitionDestinationType": "billing_shop_for_jewel",
+    "startAt": 1640930400000,
+    "endAt": 1641967199000
+  },
+  {
+    "homeBannerId": 328,
+    "seq": 170,
+    "homeBannerType": "general",
+    "name": "カウントダウン2022ライブ",
+    "assetbundleName": "banner_virtuallive117",
+    "transitionDestinationType": "virtual_live",
+    "transitionDestinationId": 117,
+    "startAt": 1640930400000,
+    "endAt": 1641047399000
+  },
+  {
+    "homeBannerId": 329,
+    "seq": 175,
+    "homeBannerType": "general",
+    "name": "ハッピーニューイヤー2022ライブ Leo/need",
+    "assetbundleName": "banner_virtuallive119",
+    "transitionDestinationType": "virtual_live",
+    "transitionDestinationId": 119,
+    "startAt": 1640930400000,
+    "endAt": 1641016799000
+  },
+  {
+    "homeBannerId": 335,
+    "seq": 160,
+    "homeBannerType": "general",
+    "name": "セカイ神社訴求用バナー",
+    "assetbundleName": "banner_sekai_jinja_2022",
+    "transitionDestinationType": "virtual_live",
+    "transitionDestinationId": 117,
+    "startAt": 1640930400000,
+    "endAt": 1641967199000
   }
 ]
