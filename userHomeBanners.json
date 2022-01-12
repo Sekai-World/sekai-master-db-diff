@@ -22,14 +22,14 @@
     "endAt": 4102412399000
   },
   {
-    "homeBannerId": 317,
-    "seq": 30,
+    "homeBannerId": 318,
+    "seq": 200,
     "homeBannerType": "general",
-    "name": "[2022/01]プレミアムミッションパス（優先度UP用）",
+    "name": "[2022/01]プレミアムミッションパス（優先度落とし用）",
     "assetbundleName": "banner_premiummissionpass_2022_01",
     "transitionDestinationType": "billing_shop_for_live_mission_pass",
-    "startAt": 1640962800000,
-    "endAt": 1641967199000
+    "startAt": 1641967200000,
+    "endAt": 1643641199000
   },
   {
     "homeBannerId": 319,
@@ -40,39 +40,6 @@
     "transitionDestinationType": "billing_shop_for_jewel",
     "startAt": 1640962800000,
     "endAt": 1643641199000
-  },
-  {
-    "homeBannerId": 320,
-    "seq": 100,
-    "homeBannerType": "event",
-    "name": "[イベント]祈りの先 願う明日は",
-    "assetbundleName": "event_prayer_2022",
-    "transitionDestinationType": "event",
-    "transitionDestinationId": 45,
-    "startAt": 1640930400000,
-    "endAt": 1641967199000
-  },
-  {
-    "homeBannerId": 323,
-    "seq": 130,
-    "homeBannerType": "general",
-    "name": "[2022新春]プレミアムプレゼントガチャ（優先度落とし用）",
-    "assetbundleName": "banner_gacha167",
-    "transitionDestinationType": "gacha",
-    "transitionDestinationId": 167,
-    "startAt": 1641276000000,
-    "endAt": 1641967199000
-  },
-  {
-    "homeBannerId": 324,
-    "seq": 110,
-    "homeBannerType": "general",
-    "name": "願う新春の乙女ガチャ",
-    "assetbundleName": "banner_gacha165",
-    "transitionDestinationType": "gacha",
-    "transitionDestinationId": 165,
-    "startAt": 1641276000000,
-    "endAt": 1641967199000
   },
   {
     "homeBannerId": 326,
@@ -86,35 +53,36 @@
     "endAt": 1643641199000
   },
   {
-    "homeBannerId": 327,
-    "seq": 150,
+    "homeBannerId": 337,
+    "seq": 130,
     "homeBannerType": "general",
-    "name": "お正月ショップ2022",
-    "assetbundleName": "banner_shop_newyear2022",
-    "transitionDestinationType": "billing_shop_for_jewel",
-    "startAt": 1640930400000,
-    "endAt": 1641967199000
-  },
-  {
-    "homeBannerId": 335,
-    "seq": 160,
-    "homeBannerType": "general",
-    "name": "セカイ神社訴求用バナー",
-    "assetbundleName": "banner_sekai_jinja_2022",
-    "transitionDestinationType": "virtual_live",
-    "transitionDestinationId": 117,
-    "startAt": 1640930400000,
-    "endAt": 1641967199000
-  },
-  {
-    "homeBannerId": 336,
-    "seq": 80,
-    "homeBannerType": "general",
-    "name": "[日野森志歩]HAPPY BIRTHDAYガチャ（優先度UP用）",
+    "name": "[日野森志歩]HAPPY BIRTHDAYガチャ（優先度落とし用）",
     "assetbundleName": "banner_gacha169",
     "transitionDestinationType": "gacha",
     "transitionDestinationId": 169,
-    "startAt": 1641567600000,
-    "endAt": 1641967199000
+    "startAt": 1641967200000,
+    "endAt": 1642172399000
+  },
+  {
+    "homeBannerId": 338,
+    "seq": 100,
+    "homeBannerType": "event",
+    "name": "[イベント]ワンダショ箱イベ7巡目_イベントバナー",
+    "assetbundleName": "event_nikkori_2022",
+    "transitionDestinationType": "event",
+    "transitionDestinationId": 46,
+    "startAt": 1641967200000,
+    "endAt": 1642744799000
+  },
+  {
+    "homeBannerId": 340,
+    "seq": 110,
+    "homeBannerType": "general",
+    "name": "[ガチャ]ワンダショ箱イベ7巡目_定常ガチャバナー",
+    "assetbundleName": "banner_gacha171",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 171,
+    "startAt": 1641967200000,
+    "endAt": 1642744799000
   }
 ]
