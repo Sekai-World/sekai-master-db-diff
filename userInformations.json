@@ -529,20 +529,6 @@
     "bannerAssetbundleName": "banner_news_gacha164"
   },
   {
-    "id": 1226,
-    "seq": 1,
-    "displayOrder": 42510,
-    "informationType": "normal",
-    "informationTag": "gacha",
-    "browseType": "internal",
-    "platform": "all",
-    "title": "「[2022新春]プレミアムプレゼントガチャ」開催！",
-    "path": "information/index.html?id=info_gacha167_held",
-    "startAt": 1640930400000,
-    "endAt": 1641967199000,
-    "bannerAssetbundleName": "banner_news_gacha167_1"
-  },
-  {
     "id": 1228,
     "seq": 1,
     "displayOrder": 42500,
@@ -585,34 +571,6 @@
     "bannerAssetbundleName": "banner_news_gacha166"
   },
   {
-    "id": 1234,
-    "seq": 1,
-    "displayOrder": 42480,
-    "informationType": "normal",
-    "informationTag": "information",
-    "browseType": "internal",
-    "platform": "all",
-    "title": "「2022新春初売りクリスタルショップ」開催！",
-    "path": "information/index.html?id=info_shop_newyear2022_held",
-    "startAt": 1640930400000,
-    "endAt": 1641967199000,
-    "bannerAssetbundleName": "banner_news_shop_newyear2022"
-  },
-  {
-    "id": 1235,
-    "seq": 1,
-    "displayOrder": 42490,
-    "informationType": "normal",
-    "informationTag": "information",
-    "browseType": "internal",
-    "platform": "all",
-    "title": "期間限定でバーチャルライブ待合エリアに「2022年セカイ神社」が登場！",
-    "path": "information/index.html?id=info_virtualshop_temple2022",
-    "startAt": 1640930400000,
-    "endAt": 1641967199000,
-    "bannerAssetbundleName": "banner_news_virtualshop_newyear2022"
-  },
-  {
     "id": 1236,
     "seq": 1,
     "displayOrder": 42530,
@@ -639,59 +597,6 @@
     "startAt": 1640962800000,
     "endAt": 1643641199000,
     "bannerAssetbundleName": "banner_news_premiummissionpass_2022_01"
-  },
-  {
-    "id": 1244,
-    "seq": 1,
-    "displayOrder": 42550,
-    "informationType": "normal",
-    "informationTag": "information",
-    "browseType": "internal",
-    "platform": "all",
-    "title": "2022年新年のご挨拶",
-    "path": "information/index.html?id=info_message-newyear2022",
-    "startAt": 1640962800000,
-    "endAt": 1641967199000,
-    "bannerAssetbundleName": "banner_news_2022Newyear"
-  },
-  {
-    "id": 1251,
-    "seq": 1,
-    "displayOrder": 21460,
-    "informationType": "bug",
-    "informationTag": "bug",
-    "browseType": "internal",
-    "platform": "all",
-    "title": "【1月2日9時30分追記】ゲーム内での動作が不安定になってしまう事象について",
-    "path": "information/index.html?id=bug_add3_fix_access_concentration_20211231",
-    "startAt": 1641083400000,
-    "endAt": 1642517999000
-  },
-  {
-    "id": 1257,
-    "seq": 1,
-    "displayOrder": 21500,
-    "informationType": "bug",
-    "informationTag": "bug",
-    "browseType": "internal",
-    "platform": "all",
-    "title": "【1月2日9時30分追記】イベント「祈りの先 願う明日は」のイベントランキング画面の表示不具合について",
-    "path": "information/index.html?id=bug_add2_ranking_view_20211231",
-    "startAt": 1641083400000,
-    "endAt": 1642517999000
-  },
-  {
-    "id": 1258,
-    "seq": 1,
-    "displayOrder": 21510,
-    "informationType": "bug",
-    "informationTag": "bug",
-    "browseType": "internal",
-    "platform": "all",
-    "title": "【1月2日9時30分追記】緊急メンテナンスの実施について",
-    "path": "information/index.html?id=info_add3_emergency_maintenance_20220101",
-    "startAt": 1641083400000,
-    "endAt": 1642517999000
   },
   {
     "id": 1261,
@@ -758,20 +663,6 @@
     "startAt": 1641524400000,
     "endAt": 1642186799000,
     "bannerAssetbundleName": "banner_news_syougatsu_haisin_relay"
-  },
-  {
-    "id": 1268,
-    "seq": 1,
-    "displayOrder": 42740,
-    "informationType": "normal",
-    "informationTag": "gacha",
-    "browseType": "internal",
-    "platform": "all",
-    "title": "「[日野森志歩]HAPPY BIRTHDAYガチャ」開催！",
-    "path": "information/index.html?id=info_gacha169_held",
-    "startAt": 1641567600000,
-    "endAt": 1642172399000,
-    "bannerAssetbundleName": "banner_news_gacha169"
   },
   {
     "id": 1270,
@@ -1178,5 +1069,17 @@
     "title": "1月19日配信「プロジェクトセカイワンダショちゃんねる#16」で発表された内容について",
     "path": "information/index.html?id=info_livebroadcast_summary_20220119",
     "startAt": 1642591800000
+  },
+  {
+    "id": 1318,
+    "seq": 1,
+    "displayOrder": 21620,
+    "informationType": "bug",
+    "informationTag": "bug",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "イベントランキングの一部集計において、累計イベントポイントが同ポイント数となった場合に発生していた不具合について",
+    "path": "information/index.html?id=bug_event-ranking_20220119",
+    "startAt": 1642595400000
   }
 ]
