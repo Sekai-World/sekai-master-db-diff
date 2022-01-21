@@ -24840,6 +24840,76 @@
     "startAt": 1641961800000
   },
   {
+    "id": 10299,
+    "shopId": 4,
+    "seq": 9988702,
+    "releaseConditionId": 5,
+    "resourceBoxId": 10299,
+    "costs": [
+      {
+        "shopItemId": 10299,
+        "seq": 1,
+        "cost": {
+          "resourceId": 38,
+          "resourceType": "material",
+          "resourceLevel": 0,
+          "quantity": 1
+        }
+      }
+    ],
+    "startAt": 1642744800000
+  },
+  {
+    "id": 10300,
+    "shopId": 4,
+    "seq": 12001023,
+    "releaseConditionId": 5,
+    "resourceBoxId": 10300,
+    "costs": [
+      {
+        "shopItemId": 10300,
+        "seq": 1,
+        "cost": {
+          "resourceId": 38,
+          "resourceType": "material",
+          "resourceLevel": 0,
+          "quantity": 1
+        }
+      },
+      {
+        "shopItemId": 10300,
+        "seq": 2,
+        "cost": {
+          "resourceId": 41,
+          "resourceType": "material",
+          "resourceLevel": 0,
+          "quantity": 1
+        }
+      }
+    ],
+    "startAt": 1642739400000
+  },
+  {
+    "id": 10301,
+    "shopId": 2,
+    "seq": 999040,
+    "releaseConditionId": 1,
+    "resourceBoxId": 10301,
+    "costs": [
+      {
+        "shopItemId": 10301,
+        "seq": 1,
+        "cost": {
+          "resourceId": 13,
+          "resourceType": "material",
+          "resourceLevel": 0,
+          "quantity": 10
+        }
+      }
+    ],
+    "startAt": 1643004000000
+  },
+  {
     "id": 20001,
     "shopId": 12,
     "seq": 670,
