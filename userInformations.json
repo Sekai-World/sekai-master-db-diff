@@ -520,20 +520,6 @@
     "endAt": 1644386399000
   },
   {
-    "id": 1276,
-    "seq": 1,
-    "displayOrder": 42830,
-    "informationType": "normal",
-    "informationTag": "event",
-    "browseType": "internal",
-    "platform": "all",
-    "title": "イベント「POP IN MY HEART!!」開催！",
-    "path": "information/index.html?id=info_event46_held",
-    "startAt": 1641967200000,
-    "endAt": 1643457599000,
-    "bannerAssetbundleName": "banner_news_event46"
-  },
-  {
     "id": 1277,
     "seq": 1,
     "displayOrder": 42840,
@@ -616,19 +602,6 @@
     "bannerAssetbundleName": "banner_news_gacha173"
   },
   {
-    "id": 1301,
-    "seq": 1,
-    "displayOrder": 43010,
-    "informationType": "normal",
-    "informationTag": "music",
-    "browseType": "internal",
-    "platform": "all",
-    "title": "楽曲「心拍数♯0822」追加！",
-    "path": "information/index.html?id=info_music_heart-rate_20220124",
-    "startAt": 1643004000000,
-    "endAt": 1643223599000
-  },
-  {
     "id": 1302,
     "seq": 1,
     "displayOrder": 43020,
@@ -641,34 +614,6 @@
     "startAt": 1643004000000,
     "endAt": 1646028000000,
     "bannerAssetbundleName": "banner_news_gacha174"
-  },
-  {
-    "id": 1303,
-    "seq": 1,
-    "displayOrder": 43040,
-    "informationType": "normal",
-    "informationTag": "information",
-    "browseType": "internal",
-    "platform": "all",
-    "title": "「HAPPY BIRTHDAYライブ まふゆ」開催について",
-    "path": "information/index.html?id=info_virtuallive127",
-    "startAt": 1643090400000,
-    "endAt": 1643349599000,
-    "bannerAssetbundleName": "banner_news_virtuallive127"
-  },
-  {
-    "id": 1304,
-    "seq": 1,
-    "displayOrder": 43030,
-    "informationType": "normal",
-    "informationTag": "gacha",
-    "browseType": "internal",
-    "platform": "all",
-    "title": "予告、「[朝比奈まふゆ]HAPPY BIRTHDAYガチャ」開催について",
-    "path": "information/index.html?id=info_gacha175_notice",
-    "startAt": 1643090400000,
-    "endAt": 1643209199000,
-    "bannerAssetbundleName": "banner_news_gacha175"
   },
   {
     "id": 1305,
@@ -788,7 +733,8 @@
     "platform": "all",
     "title": "キャラクターランクEXPが余分に加算されてしまっている不具合について",
     "path": "information/index.html?id=info_bug_character-rank-exp_20220119",
-    "startAt": 1642505400000
+    "startAt": 1642505400000,
+    "endAt": 1643603399000
   },
   {
     "id": 1314,
@@ -971,5 +917,31 @@
     "title": "【1月28日18時00分追記】「iOS15」へのアップデートに関するご注意",
     "path": "information/index.html?id=info_add2_iOS15release_20210921",
     "startAt": 1643360400000
+  },
+  {
+    "id": 1358,
+    "seq": 1,
+    "displayOrder": 21660,
+    "informationType": "bug",
+    "informationTag": "bug",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "ライブ衣装「キャンディホイール」で発生していた不具合について",
+    "path": "information/index.html?id=bug_fix_livecostume_20220131",
+    "startAt": 1643603400000,
+    "endAt": 1643828399000
+  },
+  {
+    "id": 1359,
+    "seq": 1,
+    "displayOrder": 21670,
+    "informationType": "bug",
+    "informationTag": "bug",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "【1月31日13時30分追記】キャラクターランクEXPが余分に加算されてしまっている不具合について",
+    "path": "information/index.html?id=info_fix_bug_character-rank-exp_20220119",
+    "startAt": 1643603400000,
+    "endAt": 1643828399000
   }
 ]
