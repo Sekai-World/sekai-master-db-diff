@@ -42,17 +42,6 @@
     "endAt": 1646060399000
   },
   {
-    "homeBannerId": 360,
-    "seq": 140,
-    "homeBannerType": "general",
-    "name": "[SNOW MIKU 2022]プレミアムプレゼントガチャ（優先度DOWN用）",
-    "assetbundleName": "banner_gacha179",
-    "transitionDestinationType": "gacha",
-    "transitionDestinationId": 179,
-    "startAt": 1644386400000,
-    "endAt": 1644645599000
-  },
-  {
     "homeBannerId": 362,
     "seq": 100,
     "homeBannerType": "event",
@@ -75,6 +64,17 @@
     "endAt": 1645163999000
   },
   {
+    "homeBannerId": 365,
+    "seq": 120,
+    "homeBannerType": "general",
+    "name": "[ガチャ]ニーゴ箱イベ7巡目_イベントメンバーガチャバナー",
+    "assetbundleName": "banner_gacha182",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 182,
+    "startAt": 1644645600000,
+    "endAt": 1645012799000
+  },
+  {
     "homeBannerId": 366,
     "seq": 85,
     "homeBannerType": "general",
@@ -84,5 +84,16 @@
     "transitionDestinationId": 183,
     "startAt": 1644418800000,
     "endAt": 1645023599000
+  },
+  {
+    "homeBannerId": 370,
+    "seq": 170,
+    "homeBannerType": "general",
+    "name": "バレンタイン2022ライブ",
+    "assetbundleName": "banner_virtuallive132",
+    "transitionDestinationType": "virtual_live",
+    "transitionDestinationId": 132,
+    "startAt": 1644645600000,
+    "endAt": 1644991199000
   }
 ]
