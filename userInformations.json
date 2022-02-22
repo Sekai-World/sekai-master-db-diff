@@ -875,7 +875,20 @@
     "platform": "all",
     "title": "【2月22日15時00分】メンテナンスの実施及び「v1.13.0」アップデートのご案内",
     "path": "information/index.html?id=info_add_update_maintenance_v1-13-0_notice_20220222",
-    "startAt": 1645509600000
+    "startAt": 1645509600000,
+    "endAt": 1645514999000
+  },
+  {
+    "id": 1405,
+    "seq": 1,
+    "displayOrder": 43785,
+    "informationType": "normal",
+    "informationTag": "update",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "【2月22日16時30分】メンテナンスの実施及び「v1.13.0」アップデートのご案内",
+    "path": "information/index.html?id=info_add2_update_maintenance_v1-13-0_notice_20220222",
+    "startAt": 1645515000000
   },
   {
     "id": 1406,
@@ -891,9 +904,35 @@
     "endAt": 1646074799000
   },
   {
-    "id": 1409,
+    "id": 1407,
+    "seq": 1,
+    "displayOrder": 22770,
+    "informationType": "bug",
+    "informationTag": "bug",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "【2月22日16時30分】「★3以上確定チケットガチャ」を引く時のダイアログにおける一部表示不具合について",
+    "path": "information/index.html?id=bug_fix_v1-12-0_rarity3-ticketgacha_display_20211224",
+    "startAt": 1645515000000,
+    "endAt": 1645901999000
+  },
+  {
+    "id": 1408,
     "seq": 1,
     "displayOrder": 22780,
+    "informationType": "bug",
+    "informationTag": "bug",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "【2月22日16時30分】一部キャラクターにおいて特定条件下で3Dモデルが小さくなってしまう不具合について",
+    "path": "information/index.html?id=bug_fix_v1-12-0_model_20211225",
+    "startAt": 1645515000000,
+    "endAt": 1645901999000
+  },
+  {
+    "id": 1409,
+    "seq": 1,
+    "displayOrder": 22760,
     "informationType": "bug",
     "informationTag": "bug",
     "browseType": "internal",
