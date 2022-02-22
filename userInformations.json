@@ -279,7 +279,8 @@
     "platform": "all",
     "title": "「★3以上確定チケットガチャ」を引く時のダイアログにおける一部表示不具合について",
     "path": "information/index.html?id=bug_v1-12-0_rarity3-ticketgacha_display_20211224",
-    "startAt": 1640313000000
+    "startAt": 1640313000000,
+    "endAt": 1645509599000
   },
   {
     "id": 1196,
@@ -315,35 +316,8 @@
     "platform": "all",
     "title": "一部キャラクターにおいて特定条件下で3Dモデルが小さくなってしまう不具合について",
     "path": "information/index.html?id=bug_v1-12-0_model_20211225",
-    "startAt": 1640421000000
-  },
-  {
-    "id": 1277,
-    "seq": 1,
-    "displayOrder": 42840,
-    "informationType": "normal",
-    "informationTag": "gacha",
-    "browseType": "internal",
-    "platform": "all",
-    "title": "「夢もリアルも！まぜまぜポッピンガチャ」開催！",
-    "path": "information/index.html?id=info_gacha171",
-    "startAt": 1641967200000,
-    "endAt": 1645423199000,
-    "bannerAssetbundleName": "banner_news_gacha171"
-  },
-  {
-    "id": 1278,
-    "seq": 1,
-    "displayOrder": 42880,
-    "informationType": "normal",
-    "informationTag": "gacha",
-    "browseType": "internal",
-    "platform": "all",
-    "title": "「イベントメンバーガチャ」開催！",
-    "path": "information/index.html?id=info_gacha172",
-    "startAt": 1642226400000,
-    "endAt": 1645423199000,
-    "bannerAssetbundleName": "banner_news_gacha172"
+    "startAt": 1640421000000,
+    "endAt": 1645509599000
   },
   {
     "id": 1300,
@@ -601,45 +575,6 @@
     "path": "information/index.html?id=info_maintenance_fin_20220208",
     "startAt": 1644305400000,
     "endAt": 1646333999000
-  },
-  {
-    "id": 1371,
-    "seq": 1,
-    "displayOrder": 43680,
-    "informationType": "normal",
-    "informationTag": "music",
-    "browseType": "internal",
-    "platform": "all",
-    "title": "「カナデトモスソラ」バーチャル・シンガーver.追加のお知らせ",
-    "path": "information/index.html?id=info_add_vocal_kanadetomosusora_20220218",
-    "startAt": 1645158600000,
-    "endAt": 1645383599000
-  },
-  {
-    "id": 1372,
-    "seq": 1,
-    "displayOrder": 43690,
-    "informationType": "normal",
-    "informationTag": "music",
-    "browseType": "internal",
-    "platform": "all",
-    "title": "「チュルリラ・チュルリラ・ダッダッダ！」オリジナル2DMV追加のお知らせ",
-    "path": "information/index.html?id=info_add_2dmv_tyururira_20220218",
-    "startAt": 1645158600000,
-    "endAt": 1645383599000
-  },
-  {
-    "id": 1373,
-    "seq": 1,
-    "displayOrder": 43700,
-    "informationType": "normal",
-    "informationTag": "music",
-    "browseType": "internal",
-    "platform": "all",
-    "title": "楽曲「Peaky Peaky」追加！",
-    "path": "information/index.html?id=info_music_peaky_20220218",
-    "startAt": 1645164000000,
-    "endAt": 1645383599000
   },
   {
     "id": 1374,
@@ -927,6 +862,45 @@
     "platform": "all",
     "title": "メンテナンスの実施及び「v1.13.0」アップデートのご案内",
     "path": "information/index.html?id=info_update_maintenance_v1-13-0_notice_20220222",
-    "startAt": 1645182000000
+    "startAt": 1645182000000,
+    "endAt": 1645509599000
+  },
+  {
+    "id": 1404,
+    "seq": 1,
+    "displayOrder": 43780,
+    "informationType": "normal",
+    "informationTag": "update",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "【2月22日15時00分】メンテナンスの実施及び「v1.13.0」アップデートのご案内",
+    "path": "information/index.html?id=info_add_update_maintenance_v1-13-0_notice_20220222",
+    "startAt": 1645509600000
+  },
+  {
+    "id": 1406,
+    "seq": 1,
+    "displayOrder": 43790,
+    "informationType": "normal",
+    "informationTag": "information",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "2月16日配信「#プロセカ生放送」Twitterトレンド1位記念プレゼント！",
+    "path": "information/index.html?id=info_twitter-trend-present_20220222",
+    "startAt": 1645520400000,
+    "endAt": 1646074799000
+  },
+  {
+    "id": 1409,
+    "seq": 1,
+    "displayOrder": 22780,
+    "informationType": "bug",
+    "informationTag": "bug",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "一部のお客様において、通信エラーが発生しゲームが正常にプレイできない事象が発生していた件について",
+    "path": "information/index.html?id=bug_CommunicationError_20220222",
+    "startAt": 1645509600000,
+    "endAt": 1645901999000
   }
 ]
