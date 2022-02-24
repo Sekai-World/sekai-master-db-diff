@@ -4,6 +4,22 @@
     "value": "コレクションBOX説明"
   },
   {
+    "wordingKey": "CONNECT_LIVE_TICKET_COUNT_OVERFLOW_WARN_MESSAGE",
+    "value": "公演回数をオーバーしてチケットを\n購入しようとしています。\n余ったチケットは使用できず、\n別公演での使用・返金もできません。\n\nよろしいですか？"
+  },
+  {
+    "wordingKey": "CONNECT_LIVE_TICKET_EXCHANGE_BTN_BALLOON_LABEL_FORMAT",
+    "value": "{0}回限定"
+  },
+  {
+    "wordingKey": "CONNECT_LIVE_TICKET_EXCHANGE_BTN_RIBBON_LABEL_FORMAT",
+    "value": "あと{0}回"
+  },
+  {
+    "wordingKey": "CONNECT_LIVE_TICKET_EXCHANGE_BUTTON_LABEL",
+    "value": "交換"
+  },
+  {
     "wordingKey": "DIALOG_MESSAGE_VIRTUAL_SHOP_TIME_OVER",
     "value": "{0}は開催期間が終了しています。"
   },
@@ -34,6 +50,10 @@
   {
     "wordingKey": "FMT_RANKING",
     "value": "{0}位"
+  },
+  {
+    "wordingKey": "FORMAT_CONNECT_LIVE_TICKET_SHOP_ITEM",
+    "value": "{0} x {1}"
   },
   {
     "wordingKey": "MEG_VERSUS_MATCH_TIMEOUT",
@@ -1432,6 +1452,10 @@
     "value": "前回の練習結果が正しく反映されませんでした。\nデータを再取得するため、練習をキャンセルします。\n\nメンバーのレベルと消費する練習用スコア枚数をご確認のうえ、\n再度練習を試行してください。"
   },
   {
+    "wordingKey": "MSG_PRELIMINARY_TOURNAMENT_ENDED",
+    "value": "予選の期間が終了したため、タイトルに戻ります"
+  },
+  {
     "wordingKey": "MSG_PREMIUM_BEFORE_SALE",
     "value": "プレミアムミッションパスは明日より販売開始！"
   },
@@ -1764,6 +1788,14 @@
     "value": "今月の累計ライブP♪"
   },
   {
+    "wordingKey": "MSG_TOURNAMENT_LIVE_FAILED",
+    "value": "ライフがなくなってしまいました。 \n大会モードではコンティニューできません。"
+  },
+  {
+    "wordingKey": "MSG_TOURNAMENT_LIVE_NOTICE",
+    "value": "大会モードでは公平なスコアを記録するため、\n編成ユニットの総合力・スキルは無効になります。\nまた、ライブ報酬は獲得できません。"
+  },
+  {
     "wordingKey": "MSG_TO_BE_HELD_SOON",
     "value": "まもなく開演！"
   },
@@ -1984,8 +2016,24 @@
     "value": "おみくじ説明"
   },
   {
+    "wordingKey": "TITLE_CONNECT_LIVE_TICKET_EXCHANGE_COMPLETE_DIALOG",
+    "value": "交換完了"
+  },
+  {
+    "wordingKey": "TITLE_CONNECT_LIVE_TICKET_OVERFLOW_WARN_DIALOG",
+    "value": "確認"
+  },
+  {
     "wordingKey": "TITLE_PERMISSION_NOT_GRANTED",
     "value": "権限がありません"
+  },
+  {
+    "wordingKey": "TITLE_PRELIMINARY_TOURNAMENT_ENDED",
+    "value": "確認"
+  },
+  {
+    "wordingKey": "TITLE_TOURNAMENT_LIVE_NOTICE",
+    "value": "大会モードについて"
   },
   {
     "wordingKey": "WARD_BONDS_RANK_REWARD_ANOTHER_VOCAL",
@@ -2022,6 +2070,10 @@
   {
     "wordingKey": "WORD_3DMV_NL",
     "value": "3D\nMV"
+  },
+  {
+    "wordingKey": "WORD_3DMV_QUALITY",
+    "value": "3DMV品質"
   },
   {
     "wordingKey": "WORD_3DMV_QUALITY_SETTING",
@@ -2170,6 +2222,10 @@
   {
     "wordingKey": "WORD_APPER_UNIT",
     "value": "登場ユニット"
+  },
+  {
+    "wordingKey": "WORD_AP_COMBO_EFFECT",
+    "value": "コンボ状態演出"
   },
   {
     "wordingKey": "WORD_ARCHIVE_EVENT_STORY_ERROR_TITLE",
@@ -3189,7 +3245,7 @@
   },
   {
     "wordingKey": "WORD_EXIST_3D_MV",
-    "value": "3D MVあり"
+    "value": "3DMVあり"
   },
   {
     "wordingKey": "WORD_EXP_REWARD",
@@ -3230,6 +3286,14 @@
   {
     "wordingKey": "WORD_FILTER",
     "value": "絞り込み"
+  },
+  {
+    "wordingKey": "WORD_FILTER_SKILL_SCORE",
+    "value": "スコアUP"
+  },
+  {
+    "wordingKey": "WORD_FILTER_SKILL_SCORE_UP_SPECIAL",
+    "value": "スコアUP(特殊)"
   },
   {
     "wordingKey": "WORD_FINAL_CONFIRM",
@@ -3396,6 +3460,10 @@
     "value": "キャラクターランクアップ報酬獲得"
   },
   {
+    "wordingKey": "WORD_GET_CONNECT_LIVE_REWARD",
+    "value": "コネクトライブ報酬"
+  },
+  {
     "wordingKey": "WORD_GET_COSTUME_DIALOG",
     "value": "{0} {1}\n\n<color={2}>{3}</color>"
   },
@@ -3506,6 +3574,10 @@
   {
     "wordingKey": "WORD_GO_STORY",
     "value": "ストーリーへ"
+  },
+  {
+    "wordingKey": "WORD_GO_TO_CRYSTAL_SHOP_FOR_STREAMING_LIVE_TICKET",
+    "value": "クリスタル\nショップ"
   },
   {
     "wordingKey": "WORD_GO_TO_STREAMING_LIVE_TICKET_SHOP",
@@ -4248,6 +4320,10 @@
     "value": "ミッション詳細"
   },
   {
+    "wordingKey": "WORD_MODE",
+    "value": "モード"
+  },
+  {
     "wordingKey": "WORD_MODE_SETTING",
     "value": "モード設定"
   },
@@ -4333,6 +4409,10 @@
   },
   {
     "wordingKey": "WORD_MV_SETTING",
+    "value": "MV設定"
+  },
+  {
+    "wordingKey": "WORD_MV_SETTINGS",
     "value": "MV設定"
   },
   {
@@ -5044,6 +5124,10 @@
     "value": "スコアランク"
   },
   {
+    "wordingKey": "WORD_SCORE_REGISTER_DATE",
+    "value": "スコア獲得日時"
+  },
+  {
     "wordingKey": "WORD_SCREEN_FIXED",
     "value": "画面固定"
   },
@@ -5280,6 +5364,10 @@
     "value": "表示"
   },
   {
+    "wordingKey": "WORD_SKILL",
+    "value": "スキル"
+  },
+  {
     "wordingKey": "WORD_SKILL_LEVEL",
     "value": "スキルレベル"
   },
@@ -5348,6 +5436,10 @@
     "value": "ソロ"
   },
   {
+    "wordingKey": "WORD_SOLO_LIVE_SHUFFLE_BUTTON",
+    "value": "ランダム"
+  },
+  {
     "wordingKey": "WORD_SORT",
     "value": "並び替え"
   },
@@ -5374,6 +5466,10 @@
   {
     "wordingKey": "WORD_SORT_REGISTRATION_LABEL",
     "value": "登録順"
+  },
+  {
+    "wordingKey": "WORD_SORT_SKILL_EFFECT_VALUE",
+    "value": "スキル効果値"
   },
   {
     "wordingKey": "WORD_SPECIAL_SKILL",
@@ -5654,6 +5750,18 @@
   {
     "wordingKey": "WORD_TOTAL_POWER_HONOR_BONUS",
     "value": "称号ボーナス"
+  },
+  {
+    "wordingKey": "WORD_TOURNAMENT_HIGH_SCORE",
+    "value": "大会ハイスコア"
+  },
+  {
+    "wordingKey": "WORD_TOURNAMENT_MUSIC",
+    "value": "大会対象楽曲"
+  },
+  {
+    "wordingKey": "WORD_TOURNAMENT_SCORE_DETAIL",
+    "value": "詳細"
   },
   {
     "wordingKey": "WORD_TO_EXCHANGE_SHOP",

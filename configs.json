@@ -204,6 +204,10 @@
     "value": "5000"
   },
   {
+    "configKey": "streaming_live_max_channel_count",
+    "value": "30"
+  },
+  {
     "configKey": "virtual_live_ranking_aggregate_second_before_end",
     "value": "0"
   },
@@ -528,6 +532,10 @@
     "value": "1.0"
   },
   {
+    "configKey": "virtual_live_group_message_sync_count",
+    "value": "1"
+  },
+  {
     "configKey": "custom_profile_text_line_spacing_factor",
     "value": "1.325"
   },
@@ -613,7 +621,7 @@
   },
   {
     "configKey": "custom_profile_max_place_content_count",
-    "value": "100"
+    "value": "150"
   },
   {
     "configKey": "custom_profile_thumbnail_path_prefix",
@@ -634,6 +642,10 @@
   {
     "configKey": "profile_honor_max_size",
     "value": "3"
+  },
+  {
+    "configKey": "redis_ranking_expire_sec",
+    "value": "7776000"
   },
   {
     "configKey": "debug_auth_disable",

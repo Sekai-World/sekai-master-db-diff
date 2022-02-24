@@ -4,6 +4,7 @@
     "shortDescription": "スコア{{1;v}}%ＵＰ",
     "description": "{{1;d}}秒間  スコアが{{1;v}}%UPする",
     "descriptionSpriteName": "score_up",
+    "skillFilterId": 1,
     "skillEffects": [
       {
         "id": 1,
@@ -47,6 +48,7 @@
     "shortDescription": "スコア{{2;v}}%ＵＰ",
     "description": "{{2;d}}秒間  スコアが{{2;v}}%UPする",
     "descriptionSpriteName": "score_up",
+    "skillFilterId": 1,
     "skillEffects": [
       {
         "id": 2,
@@ -90,6 +92,7 @@
     "shortDescription": "スコア{{3;v}}%ＵＰ",
     "description": "{{3;d}}秒間  スコアが{{3;v}}%UPする",
     "descriptionSpriteName": "score_up",
+    "skillFilterId": 1,
     "skillEffects": [
       {
         "id": 3,
@@ -133,6 +136,7 @@
     "shortDescription": "スコア{{4;v}}%ＵＰ",
     "description": "{{4;d}}秒間  スコアが{{4;v}}%UPする",
     "descriptionSpriteName": "score_up",
+    "skillFilterId": 1,
     "skillEffects": [
       {
         "id": 4,
@@ -176,6 +180,7 @@
     "shortDescription": "判定強化(小)\\n＆スコア{{5;v}}%ＵＰ",
     "description": "{{8;d}}秒間  GREATがPERFECTになり、{{5;d}}秒間  スコアが{{5;v}}％UPする",
     "descriptionSpriteName": "judgment_up",
+    "skillFilterId": 3,
     "skillEffects": [
       {
         "id": 5,
@@ -254,6 +259,7 @@
     "shortDescription": "判定強化(中)\\n＆スコア{{6;v}}%ＵＰ",
     "description": "{{9;d}}秒間  GOOD以上がPERFECTになり、{{6;d}}秒間  スコアが{{6;v}}％UPする",
     "descriptionSpriteName": "judgment_up",
+    "skillFilterId": 3,
     "skillEffects": [
       {
         "id": 6,
@@ -332,6 +338,7 @@
     "shortDescription": "判定強化(大)\\n＆スコア{{7;v}}%ＵＰ",
     "description": "{{10;d}}秒間  BAD以上がPERFECTになり、{{7;d}}秒間  スコアが{{7;v}}％UPする",
     "descriptionSpriteName": "judgment_up",
+    "skillFilterId": 3,
     "skillEffects": [
       {
         "id": 7,
@@ -410,6 +417,7 @@
     "shortDescription": "ライフ{{14;v}}回復\\n＆スコア{{11;v}}%ＵＰ",
     "description": "ライフが{{14;v}}回復し、{{11;d}}秒間  スコアが{{11;v}}%UPする",
     "descriptionSpriteName": "life_recovery",
+    "skillFilterId": 4,
     "skillEffects": [
       {
         "id": 11,
@@ -487,6 +495,7 @@
     "shortDescription": "ライフ{{15;v}}回復\\n＆スコア{{12;v}}%ＵＰ",
     "description": "ライフが{{15;v}}回復し、{{12;d}}秒間  スコアが{{12;v}}%UPする",
     "descriptionSpriteName": "life_recovery",
+    "skillFilterId": 4,
     "skillEffects": [
       {
         "id": 12,
@@ -564,6 +573,7 @@
     "shortDescription": "ライフ{{16;v}}回復\\n＆スコア{{13;v}}%ＵＰ",
     "description": "ライフが{{16;v}}回復し、{{13;d}}秒間  スコアが{{13;v}}%UPする",
     "descriptionSpriteName": "life_recovery",
+    "skillFilterId": 4,
     "skillEffects": [
       {
         "id": 13,
@@ -641,6 +651,7 @@
     "shortDescription": "PERFECTのときのみ\\nスコア{{17;v}}%ＵＰ",
     "description": "{{17;d}}秒間  PERFECTのときのみスコアが{{17;v}}%UPする",
     "descriptionSpriteName": "score_up",
+    "skillFilterId": 2,
     "skillEffects": [
       {
         "id": 17,
@@ -684,6 +695,7 @@
     "shortDescription": "発動時ライフが800未満ならスコア{{39;v}}%UP、\\n800以上ならスコア{{38;v}}%UP、更にライフが10増加毎に+1%UP（最大{{18;v}}%)",
     "description": "{{38;d}}秒間  発動時ライフが800未満ならスコアが{{39;v}}%UP、\n800以上ならスコアが{{38;v}}%UP、更にライフが10増加毎に+1%UPする（最大{{18;v}}%)",
     "descriptionSpriteName": "score_up",
+    "skillFilterId": 2,
     "skillEffects": [
       {
         "id": 18,
@@ -1484,6 +1496,7 @@
     "shortDescription": "スコア{{41;v}}％UP、GREAT以下を出すまではスコア{{40;v}}％UP",
     "description": "{{40;d}}秒間  スコアが{{41;v}}％UP、\nGREAT以下を出すまではスコアが{{40;v}}％UPする",
     "descriptionSpriteName": "score_up",
+    "skillFilterId": 2,
     "skillEffects": [
       {
         "id": 40,
@@ -1562,6 +1575,7 @@
     "shortDescription": "ライフ{{42;v}}回復\\n＆PERFECTのときのみ\\nスコア{{43;v}}%ＵＰ",
     "description": "ライフが{{42;v}}回復し、{{43;d}}秒間  PERFECTのときのみスコアが{{43;v}}%UPする",
     "descriptionSpriteName": "life_recovery",
+    "skillFilterId": 4,
     "skillEffects": [
       {
         "id": 42,
