@@ -22,56 +22,67 @@
     "endAt": 4102412399000
   },
   {
-    "homeBannerId": 354,
-    "seq": 200,
+    "homeBannerId": 377,
+    "seq": 130,
     "homeBannerType": "general",
-    "name": "[2022/02]プレミアムミッションパス（優先度DOWN用）",
-    "assetbundleName": "banner_premiummissionpass_2022_02",
-    "transitionDestinationType": "billing_shop_for_live_mission_pass",
-    "startAt": 1644386400000,
-    "endAt": 1646060399000
-  },
-  {
-    "homeBannerId": 355,
-    "seq": 220,
-    "homeBannerType": "general",
-    "name": "「フルーツ衣装」再販売",
-    "assetbundleName": "banner_costume_resale_2022_02",
-    "transitionDestinationType": "billing_shop_for_jewel",
-    "startAt": 1643641200000,
-    "endAt": 1646060399000
-  },
-  {
-    "homeBannerId": 372,
-    "seq": 100,
-    "homeBannerType": "event",
-    "name": "[イベント]レオ二箱イベ8巡目_イベントバナー",
-    "assetbundleName": "event_peaky_2022",
-    "transitionDestinationType": "event",
-    "transitionDestinationId": 50,
-    "startAt": 1645164000000,
-    "endAt": 1646027999000
-  },
-  {
-    "homeBannerId": 374,
-    "seq": 110,
-    "homeBannerType": "general",
-    "name": "[ガチャ]レオ二箱イベ7巡目_定常ガチャバナー",
-    "assetbundleName": "banner_gacha185",
-    "transitionDestinationType": "gacha",
-    "transitionDestinationId": 185,
-    "startAt": 1645164000000,
-    "endAt": 1646027999000
-  },
-  {
-    "homeBannerId": 376,
-    "seq": 90,
-    "homeBannerType": "general",
-    "name": "[ガチャ]セレクトリストガチャバナー（優先度UP用）",
+    "name": "[ガチャ]セレクトリストガチャバナー（優先度落とし用）",
     "assetbundleName": "banner_gacha187",
     "transitionDestinationType": "gacha",
     "transitionDestinationId": 187,
-    "startAt": 1645596000000,
-    "endAt": 1646027999000
+    "startAt": 1646028000000,
+    "endAt": 1646373599000
+  },
+  {
+    "homeBannerId": 378,
+    "seq": 30,
+    "homeBannerType": "general",
+    "name": "[2022/03]プレミアムミッションパス（優先度UP用）",
+    "assetbundleName": "banner_premiummissionpass_2022_03",
+    "transitionDestinationType": "billing_shop_for_live_mission_pass",
+    "startAt": 1646060400000,
+    "endAt": 1646978399000
+  },
+  {
+    "homeBannerId": 380,
+    "seq": 220,
+    "homeBannerType": "general",
+    "name": "「近未来衣装」再販売",
+    "assetbundleName": "banner_costume_resale_2022_03",
+    "transitionDestinationType": "billing_shop_for_jewel",
+    "startAt": 1646060400000,
+    "endAt": 1648738799000
+  },
+  {
+    "homeBannerId": 381,
+    "seq": 100,
+    "homeBannerType": "event",
+    "name": "[イベント]シャッフルホワイトデーイベ_イベントバナー",
+    "assetbundleName": "event_whiteday_2022",
+    "transitionDestinationType": "event",
+    "transitionDestinationId": 51,
+    "startAt": 1646028000000,
+    "endAt": 1646978399000
+  },
+  {
+    "homeBannerId": 382,
+    "seq": 110,
+    "homeBannerType": "general",
+    "name": "[ガチャ]シャッフルホワイトデーイベ_定常ガチャバナー",
+    "assetbundleName": "banner_gacha188",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 188,
+    "startAt": 1646028000000,
+    "endAt": 1646978399000
+  },
+  {
+    "homeBannerId": 385,
+    "seq": 160,
+    "homeBannerType": "general",
+    "name": "[小豆沢こはね]HAPPY BIRTHDAYライブ",
+    "assetbundleName": "banner_virtuallive136",
+    "transitionDestinationType": "virtual_live",
+    "transitionDestinationId": 136,
+    "startAt": 1646028000000,
+    "endAt": 1646287199000
   }
 ]
