@@ -2752,5 +2752,40 @@
       }
     ],
     "virtualShopType": "event"
+  },
+  {
+    "id": 99,
+    "seq": 99,
+    "name": "第51回イベント物販",
+    "virtualShopItems": [
+      {
+        "id": 200,
+        "virtualShopId": 99,
+        "virtualShopItemType": "coordinate",
+        "seq": 199933,
+        "resourceBoxId": 159,
+        "costPaidJewel": 1000,
+        "startAt": 1646028000000
+      }
+    ],
+    "virtualShopType": "event"
+  },
+  {
+    "id": 100,
+    "seq": 100,
+    "name": "こはね BIRTHDAY",
+    "virtualShopItems": [
+      {
+        "id": 201,
+        "virtualShopId": 100,
+        "virtualShopItemType": "coordinate",
+        "seq": 99912,
+        "resourceBoxId": 82,
+        "costPaidJewel": 1000,
+        "startAt": 1646028000000,
+        "endAt": 1646287199000
+      }
+    ],
+    "virtualShopType": "birthday"
   }
 ]
