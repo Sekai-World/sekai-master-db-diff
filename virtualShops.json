@@ -2787,5 +2787,69 @@
       }
     ],
     "virtualShopType": "birthday"
+  },
+  {
+    "id": 101,
+    "seq": 101,
+    "name": "第52回イベント物販",
+    "virtualShopItems": [
+      {
+        "id": 202,
+        "virtualShopId": 101,
+        "virtualShopItemType": "penlight",
+        "seq": 199932,
+        "resourceBoxId": 160,
+        "costPaidJewel": 1000,
+        "startAt": 1646978400000
+      }
+    ],
+    "virtualShopType": "event"
+  },
+  {
+    "id": 102,
+    "seq": 102,
+    "name": "ホワイトデーライブ",
+    "virtualShopItems": [
+      {
+        "id": 203,
+        "virtualShopId": 102,
+        "virtualShopItemType": "accessory",
+        "seq": 99911,
+        "resourceBoxId": 161,
+        "costVirtualCoin": 3000,
+        "costJewel": 1000,
+        "startAt": 1647064800000,
+        "endAt": 1647410399000
+      },
+      {
+        "id": 204,
+        "virtualShopId": 102,
+        "virtualShopItemType": "coordinate",
+        "seq": 99910,
+        "resourceBoxId": 86,
+        "costPaidJewel": 1000,
+        "startAt": 1647064800000,
+        "endAt": 1647410399000
+      }
+    ],
+    "virtualShopType": "special_live"
+  },
+  {
+    "id": 103,
+    "seq": 103,
+    "name": "愛莉 BIRTHDAY",
+    "virtualShopItems": [
+      {
+        "id": 205,
+        "virtualShopId": 103,
+        "virtualShopItemType": "coordinate",
+        "seq": 99909,
+        "resourceBoxId": 87,
+        "costPaidJewel": 1000,
+        "startAt": 1647496800000,
+        "endAt": 1647755999000
+      }
+    ],
+    "virtualShopType": "birthday"
   }
 ]
