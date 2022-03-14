@@ -315,7 +315,8 @@
     "platform": "all",
     "title": "イベントランキングの一部集計において、累計イベントポイントが同ポイント数となった場合に発生していた不具合について",
     "path": "information/index.html?id=bug_event-ranking_20220119",
-    "startAt": 1642595400000
+    "startAt": 1642595400000,
+    "endAt": 1647248400000
   },
   {
     "id": 1347,
@@ -570,7 +571,8 @@
     "platform": "all",
     "title": "「スタンプ」で発生している不具合について",
     "path": "information/index.html?id=bug_v1-13-0_stamp_20220225",
-    "startAt": 1645786800000
+    "startAt": 1645786800000,
+    "endAt": 1647248400000
   },
   {
     "id": 1433,
@@ -744,7 +746,8 @@
     "platform": "all",
     "title": "【3月3日13時30分追記】ライブ衣装「Petit Printemps」「Devil move heart」で発生している不具合について",
     "path": "information/index.html?id=bug_add2_livecostume_20220301",
-    "startAt": 1646281800000
+    "startAt": 1646281800000,
+    "endAt": 1647248400000
   },
   {
     "id": 1458,
@@ -783,7 +786,7 @@
     "title": "3月10日にミニアニメ「ぷちセカ#09」を公式YouTubeチャンネル&TOKYOMXで公開！",
     "path": "information/index.html?id=info_petitSEKAI_09_20220310",
     "startAt": 1646816400000,
-    "endAt": 1647457199000,
+    "endAt": 1647507599000,
     "bannerAssetbundleName": "banner_news_220310_PetitSEKAI_09"
   },
   {
@@ -883,6 +886,32 @@
     "platform": "Android",
     "title": "Google Playストアにて一時的に発生していた問題について",
     "path": "information/index.html?id=bug_GooglePlayStore_error_20220312_OPuid390",
-    "startAt": 1647061200000
+    "startAt": 1647061200000,
+    "endAt": 1647457200000
+  },
+  {
+    "id": 1483,
+    "seq": 1,
+    "displayOrder": 22890,
+    "informationType": "bug",
+    "informationTag": "bug",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "【3月14日18時00分追記】イベントランキングの一部集計において、累計イベントポイントが同ポイント数となった場合に発生していた不具合について",
+    "path": "information/index.html?id=bug_fin_event-ranking_20220119",
+    "startAt": 1647248400000,
+    "endAt": 1647630000000
+  },
+  {
+    "id": 1484,
+    "seq": 1,
+    "displayOrder": 22900,
+    "informationType": "bug",
+    "informationTag": "bug",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "【3月14日18時00分追記】ライブ衣装「Petit Printemps」「Devil move heart」で発生している不具合について",
+    "path": "information/index.html?id=bug_fin_add2_livecostume_20220301",
+    "startAt": 1647248400000
   }
 ]
