@@ -306,19 +306,6 @@
     "bannerAssetbundleName": "content_banner_PetitSEKAI"
   },
   {
-    "id": 1318,
-    "seq": 1,
-    "displayOrder": 21620,
-    "informationType": "bug",
-    "informationTag": "bug",
-    "browseType": "internal",
-    "platform": "all",
-    "title": "イベントランキングの一部集計において、累計イベントポイントが同ポイント数となった場合に発生していた不具合について",
-    "path": "information/index.html?id=bug_event-ranking_20220119",
-    "startAt": 1642595400000,
-    "endAt": 1647248400000
-  },
-  {
     "id": 1347,
     "seq": 1,
     "displayOrder": 43450,
@@ -428,18 +415,6 @@
     "bannerAssetbundleName": "content_banner_pjsekaiCS2022Spring"
   },
   {
-    "id": 1392,
-    "seq": 1,
-    "displayOrder": 43610,
-    "informationType": "normal",
-    "informationTag": "information",
-    "browseType": "internal",
-    "platform": "all",
-    "title": "「第2回 コネクトライブ リハーサル公演」開催予定について変更のご案内",
-    "path": "information/index.html?id=info_delay_connectlive_20210216",
-    "startAt": 1644985800000
-  },
-  {
     "id": 1401,
     "seq": 1,
     "displayOrder": 22750,
@@ -450,32 +425,6 @@
     "title": "【2月18日14時00分追記】ストーリー上の設定齟齬、及びキャラクターの表示と演出不具合の調整と修正について",
     "path": "information/index.html?id=bug_add3_something_20220119",
     "startAt": 1645160400000
-  },
-  {
-    "id": 1410,
-    "seq": 1,
-    "displayOrder": 43820,
-    "informationType": "normal",
-    "informationTag": "update",
-    "browseType": "internal",
-    "platform": "all",
-    "title": "【2月24日11時00分追記】メンテナンスの実施及び「v1.13.0」アップデートのご案内",
-    "path": "information/index.html?id=info_add3_update_maintenance_v1-13-0_notice_20220222",
-    "startAt": 1645668000000,
-    "endAt": 1647197999000
-  },
-  {
-    "id": 1413,
-    "seq": 1,
-    "displayOrder": 44000,
-    "informationType": "normal",
-    "informationTag": "information",
-    "browseType": "internal",
-    "platform": "all",
-    "title": "【3月2日17時00分追記】「iOS15」へのアップデートに関するご注意",
-    "path": "information/index.html?id=info_fix_iOS15release_20210921",
-    "startAt": 1646208000000,
-    "endAt": 1647197999000
   },
   {
     "id": 1421,
@@ -571,7 +520,8 @@
     "platform": "all",
     "title": "「スタンプ」で発生している不具合について",
     "path": "information/index.html?id=bug_v1-13-0_stamp_20220225",
-    "startAt": 1645786800000
+    "startAt": 1645786800000,
+    "endAt": 1647338400000
   },
   {
     "id": 1433,
@@ -583,34 +533,8 @@
     "platform": "all",
     "title": "【2月28日17時15分追記】緊急メンテナンスの実施について",
     "path": "information/index.html?id=bug_fin_emergency_maintenance_20220228",
-    "startAt": 1646036100000
-  },
-  {
-    "id": 1435,
-    "seq": 1,
-    "displayOrder": 44090,
-    "informationType": "normal",
-    "informationTag": "music",
-    "browseType": "internal",
-    "platform": "all",
-    "title": "楽曲「Miku」追加！",
-    "path": "information/index.html?id=info_music_miku_20220309",
-    "startAt": 1646827200000,
-    "endAt": 1647025199000
-  },
-  {
-    "id": 1436,
-    "seq": 1,
-    "displayOrder": 44130,
-    "informationType": "normal",
-    "informationTag": "event",
-    "browseType": "internal",
-    "platform": "all",
-    "title": "予告、イベント「Cast Spell on You」開催について",
-    "path": "information/index.html?id=info_event52_notice",
-    "startAt": 1646892000000,
-    "endAt": 1646978399000,
-    "bannerAssetbundleName": "banner_news_event52"
+    "startAt": 1646036100000,
+    "endAt": 1649012400000
   },
   {
     "id": 1438,
@@ -887,6 +811,33 @@
     "path": "information/index.html?id=bug_GooglePlayStore_error_20220312_OPuid390",
     "startAt": 1647061200000,
     "endAt": 1647457200000
+  },
+  {
+    "id": 1480,
+    "seq": 1,
+    "displayOrder": 44230,
+    "informationType": "normal",
+    "informationTag": "information",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "ミニアニメ「ぷちセカ#06」修正版の公開について",
+    "path": "information/index.html?id=info_petitSEKAI_06_20220315",
+    "startAt": 1647338400000,
+    "endAt": 1647939600000,
+    "bannerAssetbundleName": "banner_news_220217_PetitSEKAI_06"
+  },
+  {
+    "id": 1482,
+    "seq": 1,
+    "displayOrder": 22910,
+    "informationType": "bug",
+    "informationTag": "bug",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "【3月15日19時00分追記】「スタンプ」で発生している不具合について",
+    "path": "information/index.html?id=bug_fin_v1-13-0_stamp_20220225",
+    "startAt": 1647338400000,
+    "endAt": 1647630000000
   },
   {
     "id": 1483,
