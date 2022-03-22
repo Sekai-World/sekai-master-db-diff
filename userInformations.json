@@ -306,34 +306,6 @@
     "bannerAssetbundleName": "content_banner_PetitSEKAI"
   },
   {
-    "id": 1347,
-    "seq": 1,
-    "displayOrder": 43450,
-    "informationType": "normal",
-    "informationTag": "gacha",
-    "browseType": "internal",
-    "platform": "all",
-    "title": "「スカイランナーズ！ガチャ」開催！",
-    "path": "information/index.html?id=info_gacha181",
-    "startAt": 1644386400000,
-    "endAt": 1647583200000,
-    "bannerAssetbundleName": "banner_news_gacha181"
-  },
-  {
-    "id": 1351,
-    "seq": 1,
-    "displayOrder": 43530,
-    "informationType": "normal",
-    "informationTag": "gacha",
-    "browseType": "internal",
-    "platform": "all",
-    "title": "「イベントメンバーガチャ」開催！",
-    "path": "information/index.html?id=info_gacha182",
-    "startAt": 1644645600000,
-    "endAt": 1647583200000,
-    "bannerAssetbundleName": "banner_news_gacha182"
-  },
-  {
     "id": 1357,
     "seq": 1,
     "displayOrder": 43650,
@@ -425,20 +397,6 @@
     "startAt": 1646028000000,
     "endAt": 1649656800000,
     "bannerAssetbundleName": "banner_news_gacha188"
-  },
-  {
-    "id": 1422,
-    "seq": 1,
-    "displayOrder": 43910,
-    "informationType": "normal",
-    "informationTag": "event",
-    "browseType": "internal",
-    "platform": "all",
-    "title": "イベント「怪盗紳士のハラハラ！？ホワイトデー」開催！",
-    "path": "information/index.html?id=info_event51_held",
-    "startAt": 1646028000000,
-    "endAt": 1647604799000,
-    "bannerAssetbundleName": "banner_news_event51"
   },
   {
     "id": 1423,
@@ -658,19 +616,6 @@
     "startAt": 1646827200000
   },
   {
-    "id": 1462,
-    "seq": 1,
-    "displayOrder": 44110,
-    "informationType": "normal",
-    "informationTag": "information",
-    "browseType": "internal",
-    "platform": "all",
-    "title": "3月11日よりラジオ新番組「セカイ・ステーション #3」を配信！",
-    "path": "information/index.html?id=info_webradio-miku_3_20220311",
-    "startAt": 1646881200000,
-    "endAt": 1647457199000
-  },
-  {
     "id": 1463,
     "seq": 1,
     "displayOrder": 44120,
@@ -738,6 +683,19 @@
     "bannerAssetbundleName": "banner_news_gacha195"
   },
   {
+    "id": 1469,
+    "seq": 1,
+    "displayOrder": 44390,
+    "informationType": "normal",
+    "informationTag": "music",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "楽曲「雨とペトラ」追加！",
+    "path": "information/index.html?id=info_music_AmetoPetra_20220322",
+    "startAt": 1647928800000,
+    "endAt": 1648148400000
+  },
+  {
     "id": 1471,
     "seq": 1,
     "displayOrder": 44280,
@@ -799,7 +757,8 @@
     "platform": "all",
     "title": "楽曲「Miku」の3DMVで発生している不具合について",
     "path": "information/index.html?id=bug_3dmv_miku_20220311",
-    "startAt": 1647003000000
+    "startAt": 1647003000000,
+    "endAt": 1647928800000
   },
   {
     "id": 1479,
@@ -1019,5 +978,30 @@
     "path": "information/index.html?id=info_add-sponsor_pjsekaiCS2022Spring_20220322",
     "startAt": 1647914400000,
     "bannerAssetbundleName": "banner_news_pjsekaiCS2022Spring_002"
+  },
+  {
+    "id": 1496,
+    "seq": 1,
+    "displayOrder": 22960,
+    "informationType": "bug",
+    "informationTag": "bug",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "【3月22日15時00分追記】楽曲「Miku」の3DMVで発生している不具合について",
+    "path": "information/index.html?id=bug_fix_3dmv_miku_20220311",
+    "startAt": 1647928800000,
+    "endAt": 1648148400000
+  },
+  {
+    "id": 1497,
+    "seq": 1,
+    "displayOrder": 44380,
+    "informationType": "normal",
+    "informationTag": "information",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "通信エラーにより正常に観覧できなかったバーチャルライブの再公演日時のご案内",
+    "path": "information/index.html?id=info_recital_virtuallive_20020330",
+    "startAt": 1647928800000
   }
 ]
