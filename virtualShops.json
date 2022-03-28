@@ -2869,5 +2869,26 @@
       }
     ],
     "virtualShopType": "event"
+  },
+  {
+    "id": 106,
+    "seq": 106,
+    "name": "第2回コネクトライブリハーサル公演",
+    "virtualLiveId": 142,
+    "virtualShopItems": [
+      {
+        "id": 208,
+        "virtualShopId": 106,
+        "virtualShopItemType": "premium_virtual_live_ticket",
+        "seq": 299998,
+        "resourceBoxId": 164,
+        "costPaidJewel": 0,
+        "costJewel": 0,
+        "startAt": 1648620000000,
+        "endAt": 1649311199000,
+        "limitValue": 2
+      }
+    ],
+    "virtualShopType": "virtual_live_ticket"
   }
 ]

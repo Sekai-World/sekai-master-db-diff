@@ -644,6 +644,58 @@
     "value": "3"
   },
   {
+    "configKey": "rank_match_win_add_point",
+    "value": "1"
+  },
+  {
+    "configKey": "rank_match_lose_add_point",
+    "value": "-1"
+  },
+  {
+    "configKey": "rank_match_draw_add_point",
+    "value": "0"
+  },
+  {
+    "configKey": "rank_match_all_perfect_draw_add_point",
+    "value": "1"
+  },
+  {
+    "configKey": "rank_match_penalty_add_point",
+    "value": "-1"
+  },
+  {
+    "configKey": "rank_match_rank_up_adjust_point",
+    "value": "1"
+  },
+  {
+    "configKey": "rank_match_rank_down_adjust_point",
+    "value": "3"
+  },
+  {
+    "configKey": "rank_match_placement_play_count",
+    "value": "3"
+  },
+  {
+    "configKey": "rank_match_matching_class_scale",
+    "value": "3"
+  },
+  {
+    "configKey": "rank_match_placement_top_limit",
+    "value": "10"
+  },
+  {
+    "configKey": "rank_match_score_encrypt_key_size",
+    "value": "256"
+  },
+  {
+    "configKey": "rank_match_recovery_penalty_count",
+    "value": "1"
+  },
+  {
+    "configKey": "rank_match_recovery_penalty_count_hour",
+    "value": "24"
+  },
+  {
     "configKey": "redis_ranking_expire_sec",
     "value": "7776000"
   },

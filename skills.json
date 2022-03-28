@@ -1647,5 +1647,280 @@
         ]
       }
     ]
+  },
+  {
+    "id": 15,
+    "shortDescription": "スコア{{44;v}}%UP、自身を除き「Leo/need」メンバーを1人編成する毎にスコア{{44;e}}%UP、全員一致で更に{{44;e}}%UP",
+    "description": "{{44;d}}秒間  スコアが{{44;v}}%UPする\n自身を除き「Leo/need」メンバーを1人編成する毎にスコアが{{44;e}}%UPし、全員一致で更に{{44;e}}%UPする（最大{{44;m}}%)",
+    "descriptionSpriteName": "score_up",
+    "skillFilterId": 2,
+    "skillEffects": [
+      {
+        "id": 44,
+        "skillEffectType": "score_up",
+        "activateNotesJudgmentType": "good",
+        "skillEffectDetails": [
+          {
+            "id": 173,
+            "level": 1,
+            "activateEffectDuration": 5,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 80
+          },
+          {
+            "id": 174,
+            "level": 2,
+            "activateEffectDuration": 5,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 85
+          },
+          {
+            "id": 175,
+            "level": 3,
+            "activateEffectDuration": 5,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 90
+          },
+          {
+            "id": 176,
+            "level": 4,
+            "activateEffectDuration": 5,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 100
+          }
+        ],
+        "skillEnhance": {
+          "id": 1,
+          "skillEnhanceType": "sub_unit_score_up",
+          "activateEffectValueType": "rate",
+          "activateEffectValue": 10,
+          "skillEnhanceCondition": {
+            "id": 1,
+            "seq": 1,
+            "unit": "light_sound"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "shortDescription": "スコア{{45;v}}%UP、自身を除き「MORE MORE JUMP！」メンバーを1人編成する毎にスコア{{45;e}}%UP、全員一致で更に{{45;e}}%UP（最大{{45;m}}%)",
+    "description": "{{45;d}}秒間  スコアが{{45;v}}%UPする\n自身を除き「MORE MORE JUMP！」メンバーを1人編成する毎にスコアが{{45;e}}%UPし、全員一致で更に{{45;e}}%UPする（最大{{45;m}}%)",
+    "descriptionSpriteName": "score_up",
+    "skillFilterId": 2,
+    "skillEffects": [
+      {
+        "id": 45,
+        "skillEffectType": "score_up",
+        "activateNotesJudgmentType": "good",
+        "skillEffectDetails": [
+          {
+            "id": 177,
+            "level": 1,
+            "activateEffectDuration": 5,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 80
+          },
+          {
+            "id": 178,
+            "level": 2,
+            "activateEffectDuration": 5,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 85
+          },
+          {
+            "id": 179,
+            "level": 3,
+            "activateEffectDuration": 5,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 90
+          },
+          {
+            "id": 180,
+            "level": 4,
+            "activateEffectDuration": 5,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 100
+          }
+        ],
+        "skillEnhance": {
+          "id": 2,
+          "skillEnhanceType": "sub_unit_score_up",
+          "activateEffectValueType": "rate",
+          "activateEffectValue": 10,
+          "skillEnhanceCondition": {
+            "id": 2,
+            "seq": 2,
+            "unit": "idol"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "shortDescription": "スコア{{46;v}}%UP、自身を除き「Vivid BAD SQUAD」メンバーを1人編成する毎にスコア{{46;e}}%UP、全員一致で更に{{46;e}}%UP（最大{{46;m}}%)",
+    "description": "{{46;d}}秒間  スコアが{{46;v}}%UPする\n自身を除き「Vivid BAD SQUAD」メンバーを1人編成する毎にスコアが{{46;e}}%UPし、全員一致で更に{{46;e}}%UPする（最大{{46;m}}%)",
+    "descriptionSpriteName": "score_up",
+    "skillFilterId": 2,
+    "skillEffects": [
+      {
+        "id": 46,
+        "skillEffectType": "score_up",
+        "activateNotesJudgmentType": "good",
+        "skillEffectDetails": [
+          {
+            "id": 181,
+            "level": 1,
+            "activateEffectDuration": 5,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 80
+          },
+          {
+            "id": 182,
+            "level": 2,
+            "activateEffectDuration": 5,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 85
+          },
+          {
+            "id": 183,
+            "level": 3,
+            "activateEffectDuration": 5,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 90
+          },
+          {
+            "id": 184,
+            "level": 4,
+            "activateEffectDuration": 5,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 100
+          }
+        ],
+        "skillEnhance": {
+          "id": 3,
+          "skillEnhanceType": "sub_unit_score_up",
+          "activateEffectValueType": "rate",
+          "activateEffectValue": 10,
+          "skillEnhanceCondition": {
+            "id": 3,
+            "seq": 3,
+            "unit": "street"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "shortDescription": "スコア{{47;v}}%UP、自身を除き「ワンダーランズ×ショウタイム」メンバーを1人編成する毎にスコア{{47;e}}%UP、全員一致で更に{{47;e}}%UP（最大{{47;m}}%)",
+    "description": "{{47;d}}秒間  スコアが{{47;v}}%UPする\n自身を除き「ワンダーランズ×ショウタイム」メンバーを1人編成する毎にスコアが{{47;e}}%UPし、全員一致で更に{{47;e}}%UPする（最大{{47;m}}%)",
+    "descriptionSpriteName": "score_up",
+    "skillFilterId": 2,
+    "skillEffects": [
+      {
+        "id": 47,
+        "skillEffectType": "score_up",
+        "activateNotesJudgmentType": "good",
+        "skillEffectDetails": [
+          {
+            "id": 185,
+            "level": 1,
+            "activateEffectDuration": 5,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 80
+          },
+          {
+            "id": 186,
+            "level": 2,
+            "activateEffectDuration": 5,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 85
+          },
+          {
+            "id": 187,
+            "level": 3,
+            "activateEffectDuration": 5,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 90
+          },
+          {
+            "id": 188,
+            "level": 4,
+            "activateEffectDuration": 5,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 100
+          }
+        ],
+        "skillEnhance": {
+          "id": 4,
+          "skillEnhanceType": "sub_unit_score_up",
+          "activateEffectValueType": "rate",
+          "activateEffectValue": 10,
+          "skillEnhanceCondition": {
+            "id": 4,
+            "seq": 4,
+            "unit": "theme_park"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "shortDescription": "スコア{{48;v}}%UP、自身を除き「25時、ナイトコードで。」メンバーを1人編成する毎にスコア{{48;e}}%UP、全員一致で更に{{48;e}}%UP（最大{{48;m}}%)",
+    "description": "{{48;d}}秒間  スコアが{{48;v}}%UPする\n自身を除き「25時、ナイトコードで。」メンバーを1人編成する毎にスコアが{{48;e}}%UPし、全員一致で更に{{48;e}}%UPする（最大{{48;m}}%)",
+    "descriptionSpriteName": "score_up",
+    "skillFilterId": 2,
+    "skillEffects": [
+      {
+        "id": 48,
+        "skillEffectType": "score_up",
+        "activateNotesJudgmentType": "good",
+        "skillEffectDetails": [
+          {
+            "id": 189,
+            "level": 1,
+            "activateEffectDuration": 5,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 80
+          },
+          {
+            "id": 190,
+            "level": 2,
+            "activateEffectDuration": 5,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 85
+          },
+          {
+            "id": 191,
+            "level": 3,
+            "activateEffectDuration": 5,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 90
+          },
+          {
+            "id": 192,
+            "level": 4,
+            "activateEffectDuration": 5,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 100
+          }
+        ],
+        "skillEnhance": {
+          "id": 5,
+          "skillEnhanceType": "sub_unit_score_up",
+          "activateEffectValueType": "rate",
+          "activateEffectValue": 10,
+          "skillEnhanceCondition": {
+            "id": 5,
+            "seq": 5,
+            "unit": "school_refusal"
+          }
+        }
+      }
+    ]
   }
 ]

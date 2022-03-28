@@ -64,6 +64,22 @@
     "value": "相手が見つかりませんでした。マッチングに戻りますか？"
   },
   {
+    "wordingKey": "MESSAGE_RANK_MATCH_BANNED_PLAY_PENALTY_DIALOG",
+    "value": "切断行為、もしくは不正行為が連続で検出されたため、\nランクマッチ機能を一時制限させていただきます。"
+  },
+  {
+    "wordingKey": "MESSAGE_RANK_MATCH_LIMIT_TIME_PENALTY_DIALOG",
+    "value": "切断行為、もしくは不正行為が連続で検出されたため、\nランクマッチ機能を一時制限させていただきます。"
+  },
+  {
+    "wordingKey": "MESSAGE_RANK_MATCH_SEASON_BAN_PENALTY_DIALOG",
+    "value": "本シーズン中ランクマッチ参加不可"
+  },
+  {
+    "wordingKey": "MESSAGE_RANK_MATCH_WARN_PENALTY_DIALOG",
+    "value": "ランクマッチ中に切断・不正行為が検出されたため、\n今回のライブは敗北扱いとなりました。\n\n切断や不正行為が繰り返し検出された場合、\nランクマッチに参加できなくなる、またはアカウントが停止される\n可能性があります。"
+  },
+  {
     "wordingKey": "MSG_ABOUT_LIVE_POINT",
     "value": "ライブミッションについて"
   },
@@ -134,6 +150,10 @@
   {
     "wordingKey": "MSG_ANOTHER_VICAL_RELEASE_CONDITION",
     "value": "楽曲「{0}」を\n獲得すると解放"
+  },
+  {
+    "wordingKey": "MSG_APRIL_FOOL_2022_VOCAL_OUT_OF_PERIOD",
+    "value": "エイプリルフール期間が終了しました。\nホームに戻ります。"
   },
   {
     "wordingKey": "MSG_ARCHIVE_EVENT_STORY_ERROR",
@@ -528,6 +548,10 @@
     "value": "アップデートする"
   },
   {
+    "wordingKey": "MSG_EMPTY_HISTORY",
+    "value": "参加したシーズンがありません。"
+  },
+  {
     "wordingKey": "MSG_EMPTY_STAMP_DEFAULT",
     "value": "表示できるスタンプがありません。"
   },
@@ -542,6 +566,10 @@
   {
     "wordingKey": "MSG_EMPTY_STAMP_HISTORY",
     "value": "スタンプを利用した履歴がありません。"
+  },
+  {
+    "wordingKey": "MSG_EMPTY_WIN_RATE",
+    "value": "---%"
   },
   {
     "wordingKey": "MSG_ENTER_STREAMING_LIVE_CONFIRM_TO_USE",
@@ -674,6 +702,10 @@
   {
     "wordingKey": "MSG_FIX_MIKU_COSTUME",
     "value": "3DMVで常にこのミクを表示"
+  },
+  {
+    "wordingKey": "MSG_FIX_OPPONENT_PROGRESS",
+    "value": "マッチング準備"
   },
   {
     "wordingKey": "MSG_FRIEND_DEFAULT_REQUEST",
@@ -853,7 +885,7 @@
   },
   {
     "wordingKey": "MSG_KICKOUT_TO_HOME",
-    "value": "現在、入場することができません。\nしばらくお待ちになって、再度お試しください。"
+    "value": "現在、問題が発生し入場することができません。\n入場が再開されましたら、お知らせにて告知いたします。"
   },
   {
     "wordingKey": "MSG_KICKOUT_TO_WAITING_AREA",
@@ -1316,6 +1348,10 @@
     "value": "イベントに参加していません。"
   },
   {
+    "wordingKey": "MSG_NOT_ENTRY_RANK_MATCH",
+    "value": "ランクマッチに参加していません。"
+  },
+  {
     "wordingKey": "MSG_NOT_EVENT_INSESSION",
     "value": "開催中のイベントはありません。"
   },
@@ -1342,6 +1378,18 @@
   {
     "wordingKey": "MSG_NO_ARCHIVE_EVENT_FOUND",
     "value": "対象イベントがありません。"
+  },
+  {
+    "wordingKey": "MSG_NO_CONTEST_RANK_MATCH_CHEAT",
+    "value": "ランクマッチ中に不正行為が検出されたため、\n今回のライブは敗北扱いとなりました。\n\n切断や不正行為が繰り返し検出された場合、\nランクマッチに参加できなくなる、\nまたはアカウントが停止される可能性があります。"
+  },
+  {
+    "wordingKey": "MSG_NO_CONTEST_RANK_MATCH_HARASSMENT",
+    "value": "ランクマッチ中に途中切断されたため、\n今回のライブは迷惑行為扱いとなりました。\n\n切断や不正行為が繰り返し検出された場合、\nランクマッチに参加できなくなる、\nまたはアカウントが停止される可能性があります。"
+  },
+  {
+    "wordingKey": "MSG_NO_CONTEST_RANK_MATCH_TIMEOUT",
+    "value": "ランクマッチ中に途中切断されたため、\n今回のライブは敗北扱いとなりました。\n\n切断や不正行為が繰り返し検出された場合、\nランクマッチに参加できなくなる、\nまたはアカウントが停止される可能性があります。"
   },
   {
     "wordingKey": "MSG_NO_CONTEST_REASON_CHEET",
@@ -1392,6 +1440,10 @@
     "value": "他のユニット"
   },
   {
+    "wordingKey": "MSG_OUT_OF_TERM_RANK_MATCH_DIALOG",
+    "value": "開催時間外のためランクマッチTOPに戻ります。"
+  },
+  {
     "wordingKey": "MSG_OVER_RARITY_3_ONCE",
     "value": "★3以上1人確定!"
   },
@@ -1434,6 +1486,10 @@
   {
     "wordingKey": "MSG_PLACEHOLDER_LIMITED",
     "value": "{0}回限定"
+  },
+  {
+    "wordingKey": "MSG_PLACEMENT_MATCH_COUNT",
+    "value": "スタートランクの決定まで\n残り<color=#F45BA9><size=56> {0} </size></color>マッチ"
   },
   {
     "wordingKey": "MSG_PRACTICE_EXECUTE",
@@ -1486,6 +1542,58 @@
   {
     "wordingKey": "MSG_RANK_FORMAT",
     "value": "ランク<size={0}>{1}</size>/{2}"
+  },
+  {
+    "wordingKey": "MSG_RANK_LIVE_END_SEASON",
+    "value": "本シーズンは終了しました。新シーズンの開催をお待ちください。"
+  },
+  {
+    "wordingKey": "MSG_RANK_LIVE_INTERNET_NOT_REACHABLE",
+    "value": "ネットワークに接続できません。\n接続状況を確認してください。"
+  },
+  {
+    "wordingKey": "MSG_RANK_LIVE_MATCHING_ERROR_DISCONNECT",
+    "value": "通信が切断されました。 \nライブTOPへ戻ります。"
+  },
+  {
+    "wordingKey": "MSG_RANK_LIVE_MATCH_BEFORE_FIX_WAIT",
+    "value": "対戦準備に進みます。"
+  },
+  {
+    "wordingKey": "MSG_RANK_LIVE_MATCH_FIX_WAIT",
+    "value": "対戦相手の応答を待っています..."
+  },
+  {
+    "wordingKey": "MSG_RANK_LIVE_NOT_FIXED_BY_ME",
+    "value": "時間内に応答しなかったため、マッチングを解除しました。"
+  },
+  {
+    "wordingKey": "MSG_RANK_LIVE_NOT_FIXED_BY_OPPONENT",
+    "value": "対戦相手の応答がなかったため、再度マッチングを始めます。"
+  },
+  {
+    "wordingKey": "MSG_RANK_LIVE_NOT_FIX_BY_DISCONNECTING",
+    "value": "対戦相手が切断したため再度マッチングを始めます"
+  },
+  {
+    "wordingKey": "MSG_RANK_LIVE_PLACEMENT_REQUIRED_MATCH_COUNT_FORMAT",
+    "value": "スタートランクの決定まで\nあと<color>{0}</color>マッチ"
+  },
+  {
+    "wordingKey": "MSG_RANK_MATCH_CLOSE_NEXT_TIME_FORMAT",
+    "value": "開催時間外です。\n次回開催時間　{0:00}:{1:00}～{2:00}:{3:00}"
+  },
+  {
+    "wordingKey": "MSG_RANK_MATCH_OUT_OF_SEASON",
+    "value": "本シーズンは終了しました。"
+  },
+  {
+    "wordingKey": "MSG_RANK_MATCH_OUT_OF_TIME_FORMAT",
+    "value": "開催時間外 開催時間 {0:00}:{1:00}～{2:00}:{3:00}"
+  },
+  {
+    "wordingKey": "MSG_RANK_MATCH_RELEASE_WAIT",
+    "value": "ランクマッチ機能の解放は3月30日 18:00予定です。\n今しばらくお待ち下さい。"
   },
   {
     "wordingKey": "MSG_RATING",
@@ -1594,6 +1702,10 @@
   {
     "wordingKey": "MSG_SEND_WAIT_ROOM_CONFIRM",
     "value": "※獲得済みメンバーは控え室に送られます。"
+  },
+  {
+    "wordingKey": "MSG_SERCH_MATCHING_OPPONENT",
+    "value": "マッチング中..."
   },
   {
     "wordingKey": "MSG_SETTABLE_FROM_OPTION",
@@ -2000,6 +2112,10 @@
     "value": "あなたの累計イベントP"
   },
   {
+    "wordingKey": "MSG_YOUR_TOTAL_RANK_POINT",
+    "value": "あなたの累計ランクポイント"
+  },
+  {
     "wordingKey": "MUSIC_ACHIEVEMENTS_LIST",
     "value": "楽曲報酬一覧"
   },
@@ -2030,6 +2146,10 @@
   {
     "wordingKey": "TITLE_PRELIMINARY_TOURNAMENT_ENDED",
     "value": "確認"
+  },
+  {
+    "wordingKey": "TITLE_RANK_MATCH_WARN_PENALTY_DIALOG",
+    "value": "警告"
   },
   {
     "wordingKey": "TITLE_TOURNAMENT_LIVE_NOTICE",
@@ -2148,6 +2268,10 @@
     "value": "{0}COMBO"
   },
   {
+    "wordingKey": "WORD_ADD_FORMAT",
+    "value": "+{0}"
+  },
+  {
     "wordingKey": "WORD_ADD_FRIEND",
     "value": "フレンド追加"
   },
@@ -2222,6 +2346,10 @@
   {
     "wordingKey": "WORD_APPER_UNIT",
     "value": "登場ユニット"
+  },
+  {
+    "wordingKey": "WORD_APRIL_FOOL_TAB",
+    "value": "エイプリル\nフール"
   },
   {
     "wordingKey": "WORD_AP_COMBO_EFFECT",
@@ -2306,6 +2434,10 @@
   {
     "wordingKey": "WORD_AVATAR_COSTUME_ACCESSORY_NL",
     "value": "アバター衣装\nアクセサリ"
+  },
+  {
+    "wordingKey": "WORD_A_SPACE_B_FORMAT",
+    "value": "{0} {1}"
   },
   {
     "wordingKey": "WORD_BACK",
@@ -2394,6 +2526,30 @@
   {
     "wordingKey": "WORD_BONUS",
     "value": "ボーナス"
+  },
+  {
+    "wordingKey": "WORD_BONUS_POINT_ALL_PERFECT_FORMAT",
+    "value": "ALL PERFECT {0}"
+  },
+  {
+    "wordingKey": "WORD_BONUS_POINT_CONSECUTIVE_WIN_FORMAT",
+    "value": "勝利ボーナス{0}"
+  },
+  {
+    "wordingKey": "WORD_BONUS_POINT_FORMAT",
+    "value": "{0}/{1}"
+  },
+  {
+    "wordingKey": "WORD_BONUS_POINT_FULL_COMBO_FORMAT",
+    "value": "フルコンボ{0}"
+  },
+  {
+    "wordingKey": "WORD_BONUS_POINT_HIGHER_CLASS_WIN_FORMAT",
+    "value": "上位クラスに勝利{0}"
+  },
+  {
+    "wordingKey": "WORD_BONUS_POINT_LIFE_0_FORMAT",
+    "value": "ライフ０ {0}"
   },
   {
     "wordingKey": "WORD_BOOST_RECOVERY",
@@ -2613,7 +2769,7 @@
   },
   {
     "wordingKey": "WORD_CHEERFUL_CARNIVAL_LIVE",
-    "value": "チアフル\nライブ"
+    "value": "チアフルライブ"
   },
   {
     "wordingKey": "WORD_CHEERFUL_CARNIVAL_TEAM_CHANGE",
@@ -2650,6 +2806,10 @@
   {
     "wordingKey": "WORD_CHEER_RANKING",
     "value": "応援ランキング"
+  },
+  {
+    "wordingKey": "WORD_CLASS",
+    "value": "クラス{0}"
   },
   {
     "wordingKey": "WORD_CLEAR",
@@ -3004,6 +3164,10 @@
     "value": "解散"
   },
   {
+    "wordingKey": "WORD_DIVIDE_FORMAT",
+    "value": "÷{0}"
+  },
+  {
     "wordingKey": "WORD_DOWNLOAD",
     "value": "ダウンロード"
   },
@@ -3246,6 +3410,10 @@
   {
     "wordingKey": "WORD_EXIST_3D_MV",
     "value": "3DMVあり"
+  },
+  {
+    "wordingKey": "WORD_EXPECTED_TIME",
+    "value": "予測時間"
   },
   {
     "wordingKey": "WORD_EXP_REWARD",
@@ -4112,6 +4280,10 @@
     "value": "開催期間 {0} まで"
   },
   {
+    "wordingKey": "WORD_LOSE",
+    "value": "LOSE"
+  },
+  {
     "wordingKey": "WORD_LV",
     "value": "Lv."
   },
@@ -4206,6 +4378,10 @@
   {
     "wordingKey": "WORD_MAX",
     "value": "MAX"
+  },
+  {
+    "wordingKey": "WORD_MAX_WIN_STREAK",
+    "value": "最大連勝数"
   },
   {
     "wordingKey": "WORD_MEMBER",
@@ -4338,6 +4514,10 @@
   {
     "wordingKey": "WORD_MULTI",
     "value": "マルチ"
+  },
+  {
+    "wordingKey": "WORD_MULTIPLY_FORMAT",
+    "value": "×{0}"
   },
   {
     "wordingKey": "WORD_MULTI_LIVE",
@@ -4484,6 +4664,10 @@
     "value": "不参加"
   },
   {
+    "wordingKey": "WORD_NOT_JOINED",
+    "value": "未参加"
+  },
+  {
     "wordingKey": "WORD_NOT_PUBLISH_MUSIC_ERROR_TITLE",
     "value": "エラー"
   },
@@ -4510,6 +4694,10 @@
   {
     "wordingKey": "WORD_NOW_LOADING",
     "value": "NOW LOADING"
+  },
+  {
+    "wordingKey": "WORD_NOW_SEASON_BATTLE_RECORD",
+    "value": "最新シーズン"
   },
   {
     "wordingKey": "WORD_NO_CHARGE",
@@ -4582,6 +4770,10 @@
   {
     "wordingKey": "WORD_OPERATION_MESSAGE_TITLE",
     "value": "運営より"
+  },
+  {
+    "wordingKey": "WORD_OPPONENT_NOT_FIXED_MESSAGE",
+    "value": "対戦相手が制限時間内にスタートしなかったため、再度マッチングを始めます"
   },
   {
     "wordingKey": "WORD_OPTION",
@@ -4666,6 +4858,10 @@
   {
     "wordingKey": "WORD_PENLIGHT",
     "value": "ペンライト"
+  },
+  {
+    "wordingKey": "WORD_PERCENT_VALUE",
+    "value": "{0}%"
   },
   {
     "wordingKey": "WORD_PERFORMER",
@@ -4896,8 +5092,32 @@
     "value": "ランキング"
   },
   {
+    "wordingKey": "WORD_RANKMATCH",
+    "value": "ランクマッチ"
+  },
+  {
+    "wordingKey": "WORD_RANKMATCH_RANKING",
+    "value": "ランクマッチランキング"
+  },
+  {
+    "wordingKey": "WORD_RANKMATCH_RECORD",
+    "value": "シーズン戦績"
+  },
+  {
     "wordingKey": "WORD_RANKUP_REWARD",
     "value": "ランクアップ報酬"
+  },
+  {
+    "wordingKey": "WORD_RANK_CLASS_POINT_FORMAT",
+    "value": "× <color=#bb44ff>{0}</color>"
+  },
+  {
+    "wordingKey": "WORD_RANK_LIVE_FIND_OPPONENT_FIX_BUTTON_LABEL",
+    "value": "スタート"
+  },
+  {
+    "wordingKey": "WORD_RANK_POINT_BONUS",
+    "value": "ランクポイントボーナス"
   },
   {
     "wordingKey": "WORD_RARITY",
@@ -5056,6 +5276,10 @@
     "value": "再開"
   },
   {
+    "wordingKey": "WORD_RETURN_RANK_LIVE",
+    "value": "ランクマッチに戻る"
+  },
+  {
     "wordingKey": "WORD_REVERT_BEFORE_EDIT",
     "value": "元に戻す"
   },
@@ -5146,6 +5370,10 @@
   {
     "wordingKey": "WORD_SEARCH_PLAYER_ID",
     "value": "プレイヤーID検索"
+  },
+  {
+    "wordingKey": "WORD_SEASON_RESULT",
+    "value": "過去シーズン"
   },
   {
     "wordingKey": "WORD_SEE_CONTENT",
@@ -5568,6 +5796,14 @@
     "value": "ストーリースキップ"
   },
   {
+    "wordingKey": "WORD_STREAMINGLIVE_SHOP_COLLECTION",
+    "value": "コレクション"
+  },
+  {
+    "wordingKey": "WORD_STREAMINGLIVE_SHOP_LIVEGOODS",
+    "value": "ライブグッズ"
+  },
+  {
     "wordingKey": "WORD_STREAMING_LIVE_ENTER_CONFIRM",
     "value": "入場確認"
   },
@@ -5582,6 +5818,10 @@
   {
     "wordingKey": "WORD_STREAMING_LIVE_TICKET_SHOP",
     "value": "チケットショップ"
+  },
+  {
+    "wordingKey": "WORD_SUBTRACT_FORMAT",
+    "value": "-{0}"
   },
   {
     "wordingKey": "WORD_SUB_UNIT",
@@ -5698,6 +5938,10 @@
   {
     "wordingKey": "WORD_TOS",
     "value": "利用規約"
+  },
+  {
+    "wordingKey": "WORD_TOTAL_MATCH_COUNT",
+    "value": "総マッチ数"
   },
   {
     "wordingKey": "WORD_TOTAL_POSSESSION",
@@ -6218,6 +6462,18 @@
   {
     "wordingKey": "WORD_WEEK_WED",
     "value": "(水)"
+  },
+  {
+    "wordingKey": "WORD_WIN",
+    "value": "WIN"
+  },
+  {
+    "wordingKey": "WORD_WIN_COUNT",
+    "value": "勝利数"
+  },
+  {
+    "wordingKey": "WORD_WIN_RATE",
+    "value": "勝率"
   },
   {
     "wordingKey": "WORD_WISH_LIST_CONFIRM_TITLE",
