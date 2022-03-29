@@ -632,7 +632,8 @@
     "platform": "all",
     "title": "通信エラーにより正常に観覧できなかったバーチャルライブの再公演について",
     "path": "information/index.html?id=info_recital_virtuallive_20020319",
-    "startAt": 1647621000000
+    "startAt": 1647621000000,
+    "endAt": 1647929400000
   },
   {
     "id": 1492,
@@ -706,7 +707,8 @@
     "platform": "all",
     "title": "【3月22日15時10分追記】通信エラーにより正常に観覧できなかったバーチャルライブの再公演日時のご案内",
     "path": "information/index.html?id=info_recital_virtuallive_20020330",
-    "startAt": 1647929400000
+    "startAt": 1647929400000,
+    "endAt": 1648544400000
   },
   {
     "id": 1498,
@@ -896,6 +898,20 @@
     "bannerAssetbundleName": "banner_news_gacha199"
   },
   {
+    "id": 1527,
+    "seq": 1,
+    "displayOrder": 44550,
+    "informationType": "normal",
+    "informationTag": "information",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "予告、「ランクマッチ プレシーズン」開催について",
+    "path": "information/index.html?id=info_rankmatch_season-pre_notice",
+    "startAt": 1648544400000,
+    "endAt": 1648630800000,
+    "bannerAssetbundleName": "banner_news_rankmatch_preseason"
+  },
+  {
     "id": 1537,
     "seq": 1,
     "displayOrder": 22980,
@@ -906,5 +922,43 @@
     "title": "「v2.0.0」アップデート以降に確認している不具合について",
     "path": "information/index.html?id=bug_v2-0-0_20220329",
     "startAt": 1648522800000
+  },
+  {
+    "id": 1538,
+    "seq": 1,
+    "displayOrder": 44545,
+    "informationType": "normal",
+    "informationTag": "information",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "【3月29日18時00分追記】通信エラーにより正常に観覧できなかったバーチャルライブの再公演日時のご案内",
+    "path": "information/index.html?id=info_add_recital_virtuallive_20020330",
+    "startAt": 1648544400000
+  },
+  {
+    "id": 1539,
+    "seq": 1,
+    "displayOrder": 44555,
+    "informationType": "normal",
+    "informationTag": "information",
+    "browseType": "external",
+    "platform": "all",
+    "title": "【回答時間：約5分】アンケートはコチラ！",
+    "path": "https://questant.jp/q/VOBAH0EK?id={userId}",
+    "startAt": 1648546200000,
+    "endAt": 1648738800000
+  },
+  {
+    "id": 1540,
+    "seq": 1,
+    "displayOrder": 44560,
+    "informationType": "normal",
+    "informationTag": "information",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "【アイテムのお礼付き】アンケートへのご協力のお願い",
+    "path": "information/index.html?id=info_questionnaire_20220329",
+    "startAt": 1648546200000,
+    "endAt": 1648738800000
   }
 ]
