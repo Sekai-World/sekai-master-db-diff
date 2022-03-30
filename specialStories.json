@@ -228,5 +228,51 @@
         "rewardResourceBoxIds": []
       }
     ]
+  },
+  {
+    "id": 10,
+    "seq": 1,
+    "title": "エイプリルフール2022導入ムービー",
+    "assetbundleName": "aprilfool-story-2022",
+    "startAt": 1648738800000,
+    "endAt": 1648825199000,
+    "episodes": [
+      {
+        "id": 15,
+        "specialStoryId": 10,
+        "episodeNo": 1,
+        "title": "エイプリルフール2022導入ムービー",
+        "specialStoryEpisodeType": "none",
+        "assetbundleName": "story_aprilfool_2022",
+        "scenarioId": "aprilfool_2022_01",
+        "releaseConditionId": 1,
+        "isAbleSkip": true,
+        "isActionSetRefresh": true,
+        "rewardResourceBoxIds": []
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "seq": 1,
+    "title": "エイプリルフール2022後日談ムービー",
+    "assetbundleName": "aprilfool-story-2022",
+    "startAt": 1648825200000,
+    "endAt": 1648911599000,
+    "episodes": [
+      {
+        "id": 16,
+        "specialStoryId": 11,
+        "episodeNo": 1,
+        "title": "エイプリルフール2022後日談ムービー",
+        "specialStoryEpisodeType": "none",
+        "assetbundleName": "story_aprilfool_2022",
+        "scenarioId": "aprilfool_2022_02",
+        "releaseConditionId": 1000001,
+        "isAbleSkip": true,
+        "isActionSetRefresh": true,
+        "rewardResourceBoxIds": []
+      }
+    ]
   }
 ]
