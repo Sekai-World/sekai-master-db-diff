@@ -1,24 +1,45 @@
 [
   {
-    "homeBannerId": 394,
-    "seq": 120,
-    "homeBannerType": "general",
-    "name": "[ガチャ]ニーゴ箱イベ8巡目_定常ガチャバナー",
-    "assetbundleName": "banner_gacha195",
-    "transitionDestinationType": "gacha",
-    "transitionDestinationId": 195,
-    "startAt": 1647756000000,
-    "endAt": 1648619999000
+    "homeBannerId": 399,
+    "seq": 100,
+    "homeBannerType": "event",
+    "name": "[イベント]シャッフルバチャシンイベ_イベントバナー",
+    "assetbundleName": "event_sakura_2022",
+    "transitionDestinationType": "event",
+    "transitionDestinationId": 54,
+    "startAt": 1648620000000,
+    "endAt": 1649656799000
   },
   {
-    "homeBannerId": 395,
-    "seq": 110,
-    "homeBannerType": "event",
-    "name": "[イベント]ニーゴ箱イベ8巡目_イベントバナー",
-    "assetbundleName": "event_canvas_2022",
-    "transitionDestinationType": "event",
-    "transitionDestinationId": 53,
-    "startAt": 1647756000000,
-    "endAt": 1648619999000
+    "homeBannerId": 400,
+    "seq": 50,
+    "homeBannerType": "general",
+    "name": "[1.5周年記念]カラフルフェスティバルガチャ",
+    "assetbundleName": "banner_gacha198",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 198,
+    "startAt": 1648620000000,
+    "endAt": 1649051999000
+  },
+  {
+    "homeBannerId": 401,
+    "seq": 80,
+    "homeBannerType": "general",
+    "name": "[1.5周年記念]★4メンバー1人確定プレミアムプレゼントガチャ",
+    "assetbundleName": "banner_gacha197",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 197,
+    "startAt": 1648620000000,
+    "endAt": 1648792799000
+  },
+  {
+    "homeBannerId": 402,
+    "seq": 180,
+    "homeBannerType": "general",
+    "name": "1.5周年記念クリスタルショップ",
+    "assetbundleName": "banner_shop_1.5th-anniversary_shop",
+    "transitionDestinationType": "billing_shop_for_jewel",
+    "startAt": 1648620000000,
+    "endAt": 1649656799000
   }
 ]
