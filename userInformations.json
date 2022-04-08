@@ -340,7 +340,8 @@
     "platform": "all",
     "title": "【2月18日14時00分追記】ストーリー上の設定齟齬、及びキャラクターの表示と演出不具合の調整と修正について",
     "path": "information/index.html?id=bug_add3_something_20220119",
-    "startAt": 1645160400000
+    "startAt": 1645160400000,
+    "endAt": 1649642400000
   },
   {
     "id": 1421,
@@ -424,19 +425,6 @@
     "startAt": 1647615600000,
     "endAt": 1650866400000,
     "bannerAssetbundleName": "banner_news_gacha194"
-  },
-  {
-    "id": 1461,
-    "seq": 1,
-    "displayOrder": 44100,
-    "informationType": "normal",
-    "informationTag": "information",
-    "browseType": "internal",
-    "platform": "all",
-    "title": "3月9日配信「ミクの日＆もうすぐ1.5周年生放送」で発表された内容について",
-    "path": "information/index.html?id=info_livebroadcast-39_summary_20220309",
-    "startAt": 1646827200000,
-    "endAt": 1648126800000
   },
   {
     "id": 1464,
@@ -527,19 +515,6 @@
     "title": "【3月19日3時30分追記】イベント「Cast Spell on You アフターライブ」開始後に発生した通信エラーについて",
     "path": "information/index.html?id=bug_fin_error_afterlive_20220318",
     "startAt": 1647628200000
-  },
-  {
-    "id": 1493,
-    "seq": 1,
-    "displayOrder": 22950,
-    "informationType": "bug",
-    "informationTag": "bug",
-    "browseType": "internal",
-    "platform": "all",
-    "title": "【3月19日3時30分追記】3月19日0時ごろより発生した通信エラーについて",
-    "path": "information/index.html?id=bug_fin_error_20220319",
-    "startAt": 1647628200000,
-    "endAt": 1647928800000
   },
   {
     "id": 1494,
@@ -860,7 +835,8 @@
     "platform": "all",
     "title": "【4月1日14時00分追記】「ランクマッチ」にて確認している不具合について",
     "path": "information/index.html?id=bug_add2_rankmatch_season-pre_20220330",
-    "startAt": 1648789200000
+    "startAt": 1648789200000,
+    "endAt": 1649386800000
   },
   {
     "id": 1566,
@@ -980,7 +956,7 @@
   {
     "id": 1578,
     "seq": 1,
-    "displayOrder": 44900,
+    "displayOrder": 44910,
     "informationType": "normal",
     "informationTag": "information",
     "browseType": "internal",
@@ -1018,7 +994,7 @@
   {
     "id": 1581,
     "seq": 1,
-    "displayOrder": 44910,
+    "displayOrder": 44920,
     "informationType": "normal",
     "informationTag": "information",
     "browseType": "internal",
@@ -1052,5 +1028,29 @@
     "title": "「第2回コネクトライブリハーサル公演」の公演終了後、退場時に通信エラーが発生する件について",
     "path": "information/index.html?id=bug_error_connectlive_20220406",
     "startAt": 1649242800000
+  },
+  {
+    "id": 1584,
+    "seq": 1,
+    "displayOrder": 23040,
+    "informationType": "bug",
+    "informationTag": "bug",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "【4月8日12時00分追記】「ランクマッチ」にて確認している不具合について",
+    "path": "information/index.html?id=bug_add3_rankmatch_season-pre_20220330",
+    "startAt": 1649386800000
+  },
+  {
+    "id": 1585,
+    "seq": 1,
+    "displayOrder": 23050,
+    "informationType": "bug",
+    "informationTag": "bug",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "【iOS】iOS15.4.1にアップデート後、アプリが強制終了することがある事象について",
+    "path": "information/index.html?id=bug_iOS15-4-1_20220408",
+    "startAt": 1649386800000
   }
 ]
