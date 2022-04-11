@@ -1,34 +1,24 @@
 [
   {
-    "homeBannerId": 399,
+    "homeBannerId": 404,
     "seq": 100,
     "homeBannerType": "event",
-    "name": "[イベント]シャッフルバチャシンイベ_イベントバナー",
-    "assetbundleName": "event_sakura_2022",
+    "name": "[イベント]ワンダショ箱イベ8巡目_イベントバナー",
+    "assetbundleName": "event_star_2022",
     "transitionDestinationType": "event",
-    "transitionDestinationId": 54,
-    "startAt": 1648620000000,
-    "endAt": 1649656799000
+    "transitionDestinationId": 55,
+    "startAt": 1649656800000,
+    "endAt": 1650520799000
   },
   {
-    "homeBannerId": 402,
-    "seq": 180,
+    "homeBannerId": 406,
+    "seq": 110,
     "homeBannerType": "general",
-    "name": "1.5周年記念クリスタルショップ",
-    "assetbundleName": "banner_shop_1.5th-anniversary_shop",
-    "transitionDestinationType": "billing_shop_for_jewel",
-    "startAt": 1648620000000,
-    "endAt": 1649656799000
-  },
-  {
-    "homeBannerId": 403,
-    "seq": 120,
-    "homeBannerType": "general",
-    "name": "春想う、宵の一刻ガチャ",
-    "assetbundleName": "banner_gacha200",
+    "name": "[ガチャ]ワンダショ箱イベ8巡目_定常ガチャバナー",
+    "assetbundleName": "banner_gacha201",
     "transitionDestinationType": "gacha",
-    "transitionDestinationId": 200,
-    "startAt": 1649052000000,
-    "endAt": 1649656799000
+    "transitionDestinationId": 201,
+    "startAt": 1649646000000,
+    "endAt": 1650509999000
   }
 ]
