@@ -2908,5 +2908,41 @@
       }
     ],
     "virtualShopType": "virtual_live_ticket"
+  },
+  {
+    "id": 107,
+    "seq": 107,
+    "name": "第55回イベント物販",
+    "virtualShopItems": [
+      {
+        "id": 209,
+        "virtualShopId": 107,
+        "virtualShopItemType": "accessory",
+        "seq": 199929,
+        "resourceBoxId": 165,
+        "costVirtualCoin": 3000,
+        "costJewel": 1000,
+        "startAt": 1649656800000
+      }
+    ],
+    "virtualShopType": "event"
+  },
+  {
+    "id": 108,
+    "seq": 108,
+    "name": "みのり BIRTHDAY",
+    "virtualShopItems": [
+      {
+        "id": 210,
+        "virtualShopId": 108,
+        "virtualShopItemType": "coordinate",
+        "seq": 99908,
+        "resourceBoxId": 93,
+        "costPaidJewel": 1000,
+        "startAt": 1649743200000,
+        "endAt": 1650002399000
+      }
+    ],
+    "virtualShopType": "birthday"
   }
 ]
