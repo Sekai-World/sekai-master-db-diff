@@ -418,7 +418,8 @@
     "platform": "all",
     "title": "【3月19日3時30分追記】イベント「Cast Spell on You アフターライブ」開始後に発生した通信エラーについて",
     "path": "information/index.html?id=bug_fin_error_afterlive_20220318",
-    "startAt": 1647628200000
+    "startAt": 1647628200000,
+    "endAt": 1650434400000
   },
   {
     "id": 1495,
@@ -523,6 +524,7 @@
     "title": "イベント「セカイの桜、つながる想い」開催！",
     "path": "information/index.html?id=info_event54_held",
     "startAt": 1648620000000,
+    "endAt": 1650369600000,
     "bannerAssetbundleName": "banner_news_event54"
   },
   {
@@ -577,7 +579,8 @@
     "platform": "all",
     "title": "【3月29日18時00分追記】通信エラーにより正常に観覧できなかったバーチャルライブの再公演日時のご案内",
     "path": "information/index.html?id=info_add_recital_virtuallive_20020330",
-    "startAt": 1648544400000
+    "startAt": 1648544400000,
+    "endAt": 1650434400000
   },
   {
     "id": 1541,
@@ -647,19 +650,6 @@
     "endAt": 1652151600000
   },
   {
-    "id": 1555,
-    "seq": 1,
-    "displayOrder": 45090,
-    "informationType": "normal",
-    "informationTag": "music",
-    "browseType": "internal",
-    "platform": "all",
-    "title": "楽曲「ONESELF」追加！",
-    "path": "information/index.html?id=info_music_Oneself_20220415",
-    "startAt": 1650002400000,
-    "endAt": 1650222000000
-  },
-  {
     "id": 1556,
     "seq": 1,
     "displayOrder": 45120,
@@ -687,6 +677,20 @@
     "bannerAssetbundleName": "banner_news_gacha202"
   },
   {
+    "id": 1560,
+    "seq": 1,
+    "displayOrder": 45150,
+    "informationType": "normal",
+    "informationTag": "event",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "予告、イベント「Live with memories」開催について",
+    "path": "information/index.html?id=info_event56_notice",
+    "startAt": 1650434400000,
+    "endAt": 1650520800000,
+    "bannerAssetbundleName": "banner_news_event56"
+  },
+  {
     "id": 1570,
     "seq": 1,
     "displayOrder": 44800,
@@ -698,19 +702,6 @@
     "path": "information/index.html?id=info_application-rule_revision_20220404",
     "startAt": 1649041200000,
     "endAt": 1651345200000
-  },
-  {
-    "id": 1571,
-    "seq": 1,
-    "displayOrder": 44960,
-    "informationType": "normal",
-    "informationTag": "music",
-    "browseType": "internal",
-    "platform": "all",
-    "title": "「心予報」オリジナル2DMV追加のお知らせ",
-    "path": "information/index.html?id=info_add_2dmv_KokoroYohou_20220411",
-    "startAt": 1649642400000,
-    "endAt": 1649876400000
   },
   {
     "id": 1573,
@@ -787,19 +778,6 @@
     "startAt": 1649386800000
   },
   {
-    "id": 1585,
-    "seq": 1,
-    "displayOrder": 23050,
-    "informationType": "bug",
-    "informationTag": "bug",
-    "browseType": "internal",
-    "platform": "all",
-    "title": "【iOS】iOS15.4.1にアップデート後、アプリが強制終了することがある事象について",
-    "path": "information/index.html?id=bug_iOS15-4-1_20220408",
-    "startAt": 1649386800000,
-    "endAt": 1650002400000
-  },
-  {
     "id": 1586,
     "seq": 1,
     "displayOrder": 44930,
@@ -810,32 +788,6 @@
     "title": "【重要】サーバ負荷対策に伴うガチャ開始時間の変更について",
     "path": "information/index.html?id=info_announce-gacha_20220406",
     "startAt": 1649570400000
-  },
-  {
-    "id": 1587,
-    "seq": 1,
-    "displayOrder": 23060,
-    "informationType": "bug",
-    "informationTag": "bug",
-    "browseType": "internal",
-    "platform": "all",
-    "title": "【4月11日11時00分】ストーリー上の設定齟齬、及びキャラクターの表示と演出不具合の調整と修正について",
-    "path": "information/index.html?id=bug_fix_add3_something_20220119",
-    "startAt": 1649642400000,
-    "endAt": 1650222000000
-  },
-  {
-    "id": 1588,
-    "seq": 1,
-    "displayOrder": 23070,
-    "informationType": "bug",
-    "informationTag": "bug",
-    "browseType": "internal",
-    "platform": "all",
-    "title": "4月11日11時00分ごろに修正したいくつかの不具合について",
-    "path": "information/index.html?id=bug_fix_something_20220411",
-    "startAt": 1649642400000,
-    "endAt": 1650222000000
   },
   {
     "id": 1589,
@@ -863,19 +815,6 @@
     "startAt": 1649642400000
   },
   {
-    "id": 1591,
-    "seq": 1,
-    "displayOrder": 45010,
-    "informationType": "normal",
-    "informationTag": "information",
-    "browseType": "internal",
-    "platform": "all",
-    "title": "4月13日18時より「ビビバスアーカイブ#04」を公開！",
-    "path": "information/index.html?id=info_bbbsarchive_4_20220413",
-    "startAt": 1649732400000,
-    "endAt": 1650308400000
-  },
-  {
     "id": 1592,
     "seq": 1,
     "displayOrder": 45040,
@@ -901,19 +840,6 @@
     "endAt": 1650481200000
   },
   {
-    "id": 1594,
-    "seq": 1,
-    "displayOrder": 45080,
-    "informationType": "normal",
-    "informationTag": "update",
-    "browseType": "internal",
-    "platform": "all",
-    "title": "【iOS】「v2.0.2」任意アップデートのご案内",
-    "path": "information/index.html?id=info_update_iOS_v2-0-2_notice_20220415",
-    "startAt": 1649991600000,
-    "endAt": 1650002400000
-  },
-  {
     "id": 1595,
     "seq": 1,
     "displayOrder": 45110,
@@ -936,5 +862,30 @@
     "title": "【iOS】【4月15日15時00分追記】iOS15.4.1にアップデート後、アプリが強制終了することがある事象について",
     "path": "information/index.html?id=bug_fix_iOS15-4-1_20220408",
     "startAt": 1650002400000
+  },
+  {
+    "id": 1597,
+    "seq": 1,
+    "displayOrder": 45140,
+    "informationType": "normal",
+    "informationTag": "information",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "楽曲「ダーリンダンス」の追加予定について",
+    "path": "information/index.html?id=info_music_DarlingDance_announce_20220420",
+    "startAt": 1650434400000,
+    "endAt": 1650866400000
+  },
+  {
+    "id": 1598,
+    "seq": 1,
+    "displayOrder": 45130,
+    "informationType": "normal",
+    "informationTag": "information",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "【4月20日15時00分追記】通信エラーにより正常に観覧できなかったバーチャルライブの再公演日時のご案内",
+    "path": "information/index.html?id=info_add2_recital_virtuallive_20020330",
+    "startAt": 1650434400000
   }
 ]
