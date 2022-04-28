@@ -1,7 +1,7 @@
 [
   {
     "homeBannerId": 409,
-    "seq": 100,
+    "seq": 170,
     "homeBannerType": "event",
     "name": "[イベント]レオ二箱イベ8巡目_イベントバナー",
     "assetbundleName": "event_memories_2022",
@@ -12,7 +12,7 @@
   },
   {
     "homeBannerId": 410,
-    "seq": 110,
+    "seq": 180,
     "homeBannerType": "general",
     "name": "[ガチャ]レオ二箱イベ8巡目_定常ガチャバナー",
     "assetbundleName": "banner_gacha203",
@@ -20,5 +20,16 @@
     "transitionDestinationId": 203,
     "startAt": 1650510000000,
     "endAt": 1651287599000
+  },
+  {
+    "homeBannerId": 413,
+    "seq": 160,
+    "homeBannerType": "general",
+    "name": "[東雲絵名]HAPPY BIRTHDAYライブ",
+    "assetbundleName": "banner_virtuallive146",
+    "transitionDestinationType": "virtual_live",
+    "transitionDestinationId": 146,
+    "startAt": 1651125600000,
+    "endAt": 1651244399000
   }
 ]
