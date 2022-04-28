@@ -239,7 +239,7 @@
     "browseType": "internal",
     "platform": "all",
     "title": "「初心者応援メモリアルセレクトガチャ」開催！",
-    "path": "information/index.html?id=info_gacha145_held",
+    "path": "information/index.html?id=info_gacha145_held_update",
     "startAt": 1635660000000,
     "bannerAssetbundleName": "banner_news_gacha145"
   },
@@ -366,7 +366,8 @@
     "platform": "all",
     "title": "【重要】一部ガチャの廃止・開催期間調整、及びその他変更のご案内",
     "path": "information/index.html?id=info_announce-update-gacha-item_20220414",
-    "startAt": 1650002400000
+    "startAt": 1650002400000,
+    "endAt": 1651111200000
   },
   {
     "id": 1504,
@@ -796,7 +797,20 @@
     "platform": "all",
     "title": "メンテナンスの実施及び「v2.0.5」アップデートのご案内",
     "path": "information/index.html?id=info_update_maintenance_v2-0-5_notice_20220428",
-    "startAt": 1650877200000
+    "startAt": 1650877200000,
+    "endAt": 1651111200000
+  },
+  {
+    "id": 1627,
+    "seq": 1,
+    "displayOrder": 45380,
+    "informationType": "normal",
+    "informationTag": "update",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "【4月28日11時00分追記】メンテナンスの実施及び「v2.0.5」アップデートのご案内",
+    "path": "information/index.html?id=info_update_maintenance_v2-0-5_force-update_20220428",
+    "startAt": 1651111200000
   },
   {
     "id": 1628,
@@ -810,6 +824,18 @@
     "path": "information/index.html?id=info_update_assetDL_v2-0-5_notice_20220428",
     "startAt": 1650877200000,
     "endAt": 1650886800000
+  },
+  {
+    "id": 1629,
+    "seq": 1,
+    "displayOrder": 23110,
+    "informationType": "bug",
+    "informationTag": "bug",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "「v2.0.5」アップデート以降に確認している不具合について",
+    "path": "information/index.html?id=bug_add_v2-0-5_20220428",
+    "startAt": 1651111200000
   },
   {
     "id": 1630,
@@ -846,7 +872,7 @@
     "title": "アンケートにご協力いただいたお礼の配布について",
     "path": "information/index.html?id=info_questionnaire_reward_20220427",
     "startAt": 1651047000000,
-    "endAt": 1651633200000
+    "endAt": 1651604400000
   },
   {
     "id": 1635,
@@ -898,5 +924,42 @@
     "title": "【4月27日12時00分追記】「ランクマッチ」にて確認している不具合について",
     "path": "information/index.html?id=bug_add5_rankmatch_season-pre_20220330",
     "startAt": 1651028400000
+  },
+  {
+    "id": 1640,
+    "seq": 1,
+    "displayOrder": 45370,
+    "informationType": "normal",
+    "informationTag": "update",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "【重要】「v2.0.5」アップデートに伴う2GB前後のデータ再ダウンロードのご注意（再掲）",
+    "path": "information/index.html?id=info_remind_update_assetDL_v2-0-5_notice_20220428",
+    "startAt": 1651111200000
+  },
+  {
+    "id": 1641,
+    "seq": 1,
+    "displayOrder": 23120,
+    "informationType": "bug",
+    "informationTag": "bug",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "4月28日11時00分ごろに修正したいくつかの不具合について",
+    "path": "information/index.html?id=bug_fix_something_20220428",
+    "startAt": 1651111200000,
+    "endAt": 1651690800000
+  },
+  {
+    "id": 1642,
+    "seq": 1,
+    "displayOrder": 45360,
+    "informationType": "normal",
+    "informationTag": "information",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "【重要】【4月28日11時00分追記】一部ガチャの廃止・開催期間調整、及びその他変更のご案内",
+    "path": "information/index.html?id=info_add_announce-update-gacha-item_20220414",
+    "startAt": 1651111200000
   }
 ]
