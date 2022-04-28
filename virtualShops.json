@@ -2961,5 +2961,58 @@
       }
     ],
     "virtualShopType": "event"
+  },
+  {
+    "id": 110,
+    "seq": 110,
+    "name": "絵名 BIRTHDAY",
+    "virtualShopItems": [
+      {
+        "id": 212,
+        "virtualShopId": 110,
+        "virtualShopItemType": "coordinate",
+        "seq": 99907,
+        "resourceBoxId": 95,
+        "costPaidJewel": 1000,
+        "startAt": 1651125600000,
+        "endAt": 1651384799000
+      }
+    ],
+    "virtualShopType": "birthday"
+  },
+  {
+    "id": 111,
+    "seq": 111,
+    "name": "第57回イベント物販",
+    "virtualShopItems": [
+      {
+        "id": 213,
+        "virtualShopId": 111,
+        "virtualShopItemType": "penlight",
+        "seq": 199927,
+        "resourceBoxId": 167,
+        "costPaidJewel": 1000,
+        "startAt": 1651298400000
+      }
+    ],
+    "virtualShopType": "event"
+  },
+  {
+    "id": 112,
+    "seq": 112,
+    "name": "咲希 BIRTHDAY",
+    "virtualShopItems": [
+      {
+        "id": 214,
+        "virtualShopId": 112,
+        "virtualShopItemType": "coordinate",
+        "seq": 99906,
+        "resourceBoxId": 98,
+        "costPaidJewel": 1000,
+        "startAt": 1651903200000,
+        "endAt": 1652162399000
+      }
+    ],
+    "virtualShopType": "birthday"
   }
 ]

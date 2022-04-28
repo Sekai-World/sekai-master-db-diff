@@ -700,6 +700,22 @@
     "value": "7776000"
   },
   {
+    "configKey": "cheerful_carnival_party_redis_lock_enable",
+    "value": "TRUE"
+  },
+  {
+    "configKey": "redis_lock_expire",
+    "value": "8000"
+  },
+  {
+    "configKey": "redis_lock_sleep",
+    "value": "200"
+  },
+  {
+    "configKey": "redis_lock_timeout",
+    "value": "4000"
+  },
+  {
     "configKey": "debug_auth_disable",
     "value": "false"
   },
