@@ -357,19 +357,6 @@
     "bannerAssetbundleName": "banner_news_gacha195"
   },
   {
-    "id": 1502,
-    "seq": 1,
-    "displayOrder": 45100,
-    "informationType": "normal",
-    "informationTag": "information",
-    "browseType": "internal",
-    "platform": "all",
-    "title": "【重要】一部ガチャの廃止・開催期間調整、及びその他変更のご案内",
-    "path": "information/index.html?id=info_announce-update-gacha-item_20220414",
-    "startAt": 1650002400000,
-    "endAt": 1651111200000
-  },
-  {
     "id": 1504,
     "seq": 1,
     "displayOrder": 44720,
@@ -453,20 +440,6 @@
     "bannerAssetbundleName": "banner_news_rankmatch_preseason"
   },
   {
-    "id": 1551,
-    "seq": 1,
-    "displayOrder": 45000,
-    "informationType": "normal",
-    "informationTag": "event",
-    "browseType": "internal",
-    "platform": "all",
-    "title": "イベント「まばゆい光のステージで」開催！",
-    "path": "information/index.html?id=info_event55_held",
-    "startAt": 1649656800000,
-    "endAt": 1651147200000,
-    "bannerAssetbundleName": "banner_news_event55"
-  },
-  {
     "id": 1552,
     "seq": 1,
     "displayOrder": 44980,
@@ -534,19 +507,6 @@
     "startAt": 1650510000000,
     "endAt": 1653879600000,
     "bannerAssetbundleName": "banner_news_gacha203"
-  },
-  {
-    "id": 1564,
-    "seq": 1,
-    "displayOrder": 45260,
-    "informationType": "normal",
-    "informationTag": "music",
-    "browseType": "internal",
-    "platform": "all",
-    "title": "楽曲「ダーリンダンス」追加！",
-    "path": "information/index.html?id=info_music_DarlingDance_20220425",
-    "startAt": 1650866400000,
-    "endAt": 1651086000000
   },
   {
     "id": 1565,
@@ -740,45 +700,6 @@
     "bannerAssetbundleName": "banner_news_gw_2022"
   },
   {
-    "id": 1620,
-    "seq": 1,
-    "displayOrder": 23090,
-    "informationType": "bug",
-    "informationTag": "bug",
-    "browseType": "internal",
-    "platform": "all",
-    "title": "4月21日11時00分ごろに修正したいくつかの不具合について",
-    "path": "information/index.html?id=bug_fix_something_20220421",
-    "startAt": 1650506400000,
-    "endAt": 1651086000000
-  },
-  {
-    "id": 1622,
-    "seq": 1,
-    "displayOrder": 45200,
-    "informationType": "normal",
-    "informationTag": "information",
-    "browseType": "internal",
-    "platform": "all",
-    "title": "4月22日よりラジオ番組「セカイ・ステーション #6」を配信！",
-    "path": "information/index.html?id=info_webradio-miku_6_20220422",
-    "startAt": 1650510000000,
-    "endAt": 1651086000000
-  },
-  {
-    "id": 1623,
-    "seq": 1,
-    "displayOrder": 45220,
-    "informationType": "normal",
-    "informationTag": "information",
-    "browseType": "internal",
-    "platform": "all",
-    "title": "【4月21日13時10分追記】通信エラーにより正常に観覧できなかったバーチャルライブの再公演日時のご案内",
-    "path": "information/index.html?id=info_add4_recital_virtuallive_20020330",
-    "startAt": 1650514200000,
-    "endAt": 1651086000000
-  },
-  {
     "id": 1624,
     "seq": 1,
     "displayOrder": 45250,
@@ -838,8 +759,9 @@
     "browseType": "internal",
     "platform": "all",
     "title": "「v2.0.5」アップデート以降に確認している不具合について",
-    "path": "information/index.html?id=bug_add_v2-0-5_20220428",
-    "startAt": 1651111200000
+    "path": "information/index.html?id=bug_v2-0-5_20220428",
+    "startAt": 1651111200000,
+    "endAt": 1651159800000
   },
   {
     "id": 1630,
@@ -1041,6 +963,31 @@
     "platform": "all",
     "title": "【4月28日20時20分追記】「ランクマッチ」にて確認している不具合について",
     "path": "information/index.html?id=bug_add6_rankmatch_season-pre_20220330",
-    "startAt": 1651144800000
+    "startAt": 1651144800000,
+    "endAt": 1651159800000
+  },
+  {
+    "id": 1647,
+    "seq": 1,
+    "displayOrder": 23140,
+    "informationType": "bug",
+    "informationTag": "bug",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "【4月29日0時30分追記】「ランクマッチ」にて確認している不具合について",
+    "path": "information/index.html?id=bug_add7_rankmatch_season-pre_20220330",
+    "startAt": 1651159800000
+  },
+  {
+    "id": 1648,
+    "seq": 1,
+    "displayOrder": 23150,
+    "informationType": "bug",
+    "informationTag": "bug",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "【4月29日0時30分追記】】「v2.0.5」アップデート以降に確認している不具合について",
+    "path": "information/index.html?id=bug_add_v2-0-5_20220428",
+    "startAt": 1651159800000
   }
 ]
