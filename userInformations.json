@@ -596,7 +596,7 @@
     "title": "楽曲「青色絵具」追加！",
     "path": "information/index.html?id=info_music_BluePaints_20220502",
     "startAt": 1651471200000,
-    "endAt": 1651863600000
+    "endAt": 1651690800000
   },
   {
     "id": 1613,
@@ -609,7 +609,7 @@
     "title": "楽曲「コスモスパイス」追加！",
     "path": "information/index.html?id=info_music_CosmoSpice_20220503",
     "startAt": 1651557600000,
-    "endAt": 1651690800000
+    "endAt": 1651777200000
   },
   {
     "id": 1614,
@@ -675,19 +675,6 @@
     "endAt": 1652036400000
   },
   {
-    "id": 1632,
-    "seq": 1,
-    "displayOrder": 45320,
-    "informationType": "normal",
-    "informationTag": "information",
-    "browseType": "internal",
-    "platform": "all",
-    "title": "アンケートにご協力いただいたお礼の配布について",
-    "path": "information/index.html?id=info_questionnaire_reward_20220427",
-    "startAt": 1651047000000,
-    "endAt": 1651604400000
-  },
-  {
     "id": 1633,
     "seq": 1,
     "displayOrder": 45390,
@@ -751,19 +738,6 @@
     "startAt": 1651111200000
   },
   {
-    "id": 1641,
-    "seq": 1,
-    "displayOrder": 23120,
-    "informationType": "bug",
-    "informationTag": "bug",
-    "browseType": "internal",
-    "platform": "all",
-    "title": "4月28日11時00分ごろに修正したいくつかの不具合について",
-    "path": "information/index.html?id=bug_fix_something_20220428",
-    "startAt": 1651111200000,
-    "endAt": 1651690800000
-  },
-  {
     "id": 1642,
     "seq": 1,
     "displayOrder": 45360,
@@ -786,19 +760,6 @@
     "title": "特定条件下において一部3DMVの演出が正しく表示されなくなる不具合について",
     "path": "information/index.html?id=bug_3dmv_20220428",
     "startAt": 1651125600000
-  },
-  {
-    "id": 1644,
-    "seq": 1,
-    "displayOrder": 45425,
-    "informationType": "normal",
-    "informationTag": "information",
-    "browseType": "internal",
-    "platform": "all",
-    "title": "4月21日配信「#プロセカ生放送」Twitterトレンド1位記念プレゼント！",
-    "path": "information/index.html?id=info_twitter-trend-present_20220428",
-    "startAt": 1651136400000,
-    "endAt": 1651690800000
   },
   {
     "id": 1646,
@@ -912,5 +873,17 @@
     "path": "information/index.html?id=info_webradio-miku_7_20220504",
     "startAt": 1651719600000,
     "endAt": 1652295600000
+  },
+  {
+    "id": 1672,
+    "seq": 1,
+    "displayOrder": 23170,
+    "informationType": "bug",
+    "informationTag": "bug",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "特定条件下において、ホーム画面で通信エラーが繰り返し表示され正常にゲームがプレイできなくなる不具合について",
+    "path": "information/index.html?id=bug_error_v2-0-5_20220506",
+    "startAt": 1651809600000
   }
 ]
