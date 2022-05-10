@@ -3014,5 +3014,40 @@
       }
     ],
     "virtualShopType": "birthday"
+  },
+  {
+    "id": 113,
+    "seq": 113,
+    "name": "第58回イベント物販",
+    "virtualShopItems": [
+      {
+        "id": 215,
+        "virtualShopId": 113,
+        "virtualShopItemType": "coordinate",
+        "seq": 99905,
+        "resourceBoxId": 168,
+        "costPaidJewel": 1000,
+        "startAt": 1652162400000
+      }
+    ],
+    "virtualShopType": "event"
+  },
+  {
+    "id": 114,
+    "seq": 114,
+    "name": "司 BIRTHDAY",
+    "virtualShopItems": [
+      {
+        "id": 216,
+        "virtualShopId": 114,
+        "virtualShopItemType": "coordinate",
+        "seq": 99904,
+        "resourceBoxId": 100,
+        "costPaidJewel": 1000,
+        "startAt": 1652594400000,
+        "endAt": 1652853599000
+      }
+    ],
+    "virtualShopType": "birthday"
   }
 ]
