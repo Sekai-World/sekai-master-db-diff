@@ -559,20 +559,6 @@
     "bannerAssetbundleName": "banner_news_virtuallive148"
   },
   {
-    "id": 1617,
-    "seq": 1,
-    "displayOrder": 45620,
-    "informationType": "normal",
-    "informationTag": "gacha",
-    "browseType": "internal",
-    "platform": "all",
-    "title": "予告、「[天馬咲希]HAPPY BIRTHDAYガチャ」開催について",
-    "path": "information/index.html?id=info_gacha206_notice",
-    "startAt": 1651903200000,
-    "endAt": 1652022000000,
-    "bannerAssetbundleName": "banner_news_gacha206"
-  },
-  {
     "id": 1618,
     "seq": 1,
     "displayOrder": 45640,
@@ -622,19 +608,6 @@
     "title": "【4月28日11時00分追記】メンテナンスの実施及び「v2.0.5」アップデートのご案内",
     "path": "information/index.html?id=info_update_maintenance_v2-0-5_force-update_20220428",
     "startAt": 1651111200000
-  },
-  {
-    "id": 1630,
-    "seq": 1,
-    "displayOrder": 45300,
-    "informationType": "normal",
-    "informationTag": "information",
-    "browseType": "internal",
-    "platform": "all",
-    "title": "GW期間「4月29日～5月8日」中のサポート対応について",
-    "path": "information/index.html?id=info_support_GW2022",
-    "startAt": 1650942000000,
-    "endAt": 1652036400000
   },
   {
     "id": 1633,
@@ -721,7 +694,8 @@
     "platform": "all",
     "title": "特定条件下において一部3DMVの演出が正しく表示されなくなる不具合について",
     "path": "information/index.html?id=bug_3dmv_20220428",
-    "startAt": 1651125600000
+    "startAt": 1651125600000,
+    "endAt": 1652148000000
   },
   {
     "id": 1647,
@@ -826,6 +800,45 @@
     "bannerAssetbundleName": "banner_news_event58"
   },
   {
+    "id": 1656,
+    "seq": 1,
+    "displayOrder": 45690,
+    "informationType": "normal",
+    "informationTag": "music",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "「Peaky Peaky」 バーチャル・シンガーver.追加のお知らせ",
+    "path": "information/index.html?id=info_add_music_virtualsinger_PeakyPeaky_20220510",
+    "startAt": 1652148000000,
+    "endAt": 1652382000000
+  },
+  {
+    "id": 1657,
+    "seq": 1,
+    "displayOrder": 45680,
+    "informationType": "normal",
+    "informationTag": "music",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "「ヒバナ -Reloaded-」 アナザーボーカルver.追加のお知らせ",
+    "path": "information/index.html?id=info_add_music_another_HibanaReloaded_20220510",
+    "startAt": 1652148000000,
+    "endAt": 1652382000000
+  },
+  {
+    "id": 1658,
+    "seq": 1,
+    "displayOrder": 45700,
+    "informationType": "normal",
+    "informationTag": "information",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "キズナランクの組み合わせを追加！",
+    "path": "information/index.html?id=info_add_bonds_combination_20220510",
+    "startAt": 1652148000000,
+    "endAt": 1653332400000
+  },
+  {
     "id": 1671,
     "seq": 1,
     "displayOrder": 45600,
@@ -848,6 +861,46 @@
     "platform": "all",
     "title": "特定条件下において、ホーム画面で通信エラーが繰り返し表示され正常にゲームがプレイできなくなる不具合について",
     "path": "information/index.html?id=bug_error_v2-0-5_20220506",
-    "startAt": 1651809600000
+    "startAt": 1651809600000,
+    "endAt": 1652148000000
+  },
+  {
+    "id": 1674,
+    "seq": 1,
+    "displayOrder": 23190,
+    "informationType": "bug",
+    "informationTag": "bug",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "5月10日11時00分ごろに修正したいくつかの不具合について",
+    "path": "information/index.html?id=bug_fix_something_20220510",
+    "startAt": 1652148000000,
+    "endAt": 1652727600000
+  },
+  {
+    "id": 1675,
+    "seq": 1,
+    "displayOrder": 23180,
+    "informationType": "bug",
+    "informationTag": "bug",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "【5月10日11時00分追記】特定条件下において、ホーム画面で通信エラーが繰り返し表示され正常にゲームがプレイできなくなる不具合について",
+    "path": "information/index.html?id=bug_fix_error_v2-0-5_20220506",
+    "startAt": 1652148000000,
+    "endAt": 1652727600000
+  },
+  {
+    "id": 1689,
+    "seq": 1,
+    "displayOrder": 23170,
+    "informationType": "bug",
+    "informationTag": "bug",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "【5月10日11時00分追記】特定条件下において一部3DMVの演出が正しく表示されなくなる不具合について",
+    "path": "information/index.html?id=bug_fix_3dmv_20220510_add",
+    "startAt": 1652148000000,
+    "endAt": 1652382000000
   }
 ]
