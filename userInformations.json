@@ -371,19 +371,6 @@
     "bannerAssetbundleName": "banner_news_gacha201"
   },
   {
-    "id": 1553,
-    "seq": 1,
-    "displayOrder": 44970,
-    "informationType": "normal",
-    "informationTag": "information",
-    "browseType": "internal",
-    "platform": "all",
-    "title": "過去に登場した★2～★4メンバーのガチャ・交換所への追加のご案内",
-    "path": "information/index.html?id=info_member-update_20220411",
-    "startAt": 1649646000000,
-    "endAt": 1652151600000
-  },
-  {
     "id": 1559,
     "seq": 1,
     "displayOrder": 45050,
@@ -650,19 +637,6 @@
     "endAt": 1652468400000
   },
   {
-    "id": 1643,
-    "seq": 1,
-    "displayOrder": 23130,
-    "informationType": "bug",
-    "informationTag": "bug",
-    "browseType": "internal",
-    "platform": "all",
-    "title": "特定条件下において一部3DMVの演出が正しく表示されなくなる不具合について",
-    "path": "information/index.html?id=bug_3dmv_20220428",
-    "startAt": 1651125600000,
-    "endAt": 1652148000000
-  },
-  {
     "id": 1647,
     "seq": 1,
     "displayOrder": 23140,
@@ -672,7 +646,8 @@
     "platform": "all",
     "title": "【4月29日0時30分追記】「ランクマッチ」にて確認している不具合について",
     "path": "information/index.html?id=bug_add7_rankmatch_season-pre_20220330",
-    "startAt": 1651159800000
+    "startAt": 1651159800000,
+    "endAt": 1652432400000
   },
   {
     "id": 1648,
@@ -736,34 +711,6 @@
     "title": "【5月1日15時00分追記】ゲーム内での動作が不安定になる事象について",
     "path": "information/index.html?id=bug_add_access_failure_20220430",
     "startAt": 1651384800000
-  },
-  {
-    "id": 1654,
-    "seq": 1,
-    "displayOrder": 45660,
-    "informationType": "normal",
-    "informationTag": "campaign",
-    "browseType": "internal",
-    "platform": "all",
-    "title": "予告、「『ブラック★★ロックシューター DAWN FALL 』放送記念タイアップログインキャンペーン」開催について",
-    "path": "information/index.html?id=info_loginbonus_BlackRockShooter-tie-up_notice_20220509",
-    "startAt": 1652065200000,
-    "endAt": 1652162400000,
-    "bannerAssetbundleName": "banner_BlackRockShooter-tie-up_2022"
-  },
-  {
-    "id": 1655,
-    "seq": 1,
-    "displayOrder": 45670,
-    "informationType": "normal",
-    "informationTag": "event",
-    "browseType": "internal",
-    "platform": "all",
-    "title": "予告、イベント「白熱！神高応援団！」開催について",
-    "path": "information/index.html?id=info_event58_notice",
-    "startAt": 1652076000000,
-    "endAt": 1652162400000,
-    "bannerAssetbundleName": "banner_news_event58"
   },
   {
     "id": 1656,
@@ -886,19 +833,6 @@
     "endAt": 1652295600000
   },
   {
-    "id": 1672,
-    "seq": 1,
-    "displayOrder": 23170,
-    "informationType": "bug",
-    "informationTag": "bug",
-    "browseType": "internal",
-    "platform": "all",
-    "title": "特定条件下において、ホーム画面で通信エラーが繰り返し表示され正常にゲームがプレイできなくなる不具合について",
-    "path": "information/index.html?id=bug_error_v2-0-5_20220506",
-    "startAt": 1651809600000,
-    "endAt": 1652148000000
-  },
-  {
     "id": 1674,
     "seq": 1,
     "displayOrder": 23190,
@@ -940,7 +874,7 @@
   {
     "id": 1690,
     "seq": 1,
-    "displayOrder": 99999,
+    "displayOrder": 45760,
     "informationType": "normal",
     "informationTag": "information",
     "browseType": "internal",
@@ -949,5 +883,41 @@
     "path": "information/index.html?id=info_1stALBUM_Leoneed_20220511",
     "startAt": 1652238000000,
     "endAt": 1652814000000
+  },
+  {
+    "id": 1691,
+    "seq": 1,
+    "displayOrder": 45770,
+    "informationType": "normal",
+    "informationTag": "information",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "5月13日より「ランクマッチ」マッチング開催時間を24時間に拡大する変更について",
+    "path": "information/index.html?id=info_rankmatch_release_notice_20220511",
+    "startAt": 1652263200000
+  },
+  {
+    "id": 1692,
+    "seq": 1,
+    "displayOrder": 23210,
+    "informationType": "bug",
+    "informationTag": "bug",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "キズナランク称号において確認している不具合について",
+    "path": "information/index.html?id=bug_bonds-combination_20220511",
+    "startAt": 1652263200000
+  },
+  {
+    "id": 1693,
+    "seq": 1,
+    "displayOrder": 23200,
+    "informationType": "bug",
+    "informationTag": "bug",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "【5月11日19時00分追記】「ランクマッチ」にて確認している不具合について",
+    "path": "information/index.html?id=bug_add8_rankmatch_season-pre_20220330",
+    "startAt": 1652263200000
   }
 ]
