@@ -3049,5 +3049,41 @@
       }
     ],
     "virtualShopType": "birthday"
+  },
+  {
+    "id": 115,
+    "seq": 115,
+    "name": "第59回イベント物販",
+    "virtualShopItems": [
+      {
+        "id": 217,
+        "virtualShopId": 115,
+        "virtualShopItemType": "accessory",
+        "seq": 199926,
+        "resourceBoxId": 169,
+        "costVirtualCoin": 3000,
+        "costJewel": 1000,
+        "startAt": 1653026400000
+      }
+    ],
+    "virtualShopType": "event"
+  },
+  {
+    "id": 116,
+    "seq": 116,
+    "name": "冬弥 BIRTHDAY",
+    "virtualShopItems": [
+      {
+        "id": 218,
+        "virtualShopId": 116,
+        "virtualShopItemType": "coordinate",
+        "seq": 99903,
+        "resourceBoxId": 102,
+        "costPaidJewel": 1000,
+        "startAt": 1653285600000,
+        "endAt": 1653544799000
+      }
+    ],
+    "virtualShopType": "birthday"
   }
 ]
