@@ -1,27 +1,5 @@
 [
   {
-    "homeBannerId": 420,
-    "seq": 110,
-    "homeBannerType": "general",
-    "name": "[ガチャ]シャッフル体育祭_定常ガチャバナー",
-    "assetbundleName": "banner_gacha207",
-    "transitionDestinationType": "gacha",
-    "transitionDestinationId": 207,
-    "startAt": 1652151600000,
-    "endAt": 1653015599000
-  },
-  {
-    "homeBannerId": 421,
-    "seq": 100,
-    "homeBannerType": "event",
-    "name": "[イベント]シャッフル体育祭_イベントバナー",
-    "assetbundleName": "event_cheerteam_2022",
-    "transitionDestinationType": "event",
-    "transitionDestinationId": 58,
-    "startAt": 1652162400000,
-    "endAt": 1653026399000
-  },
-  {
     "homeBannerId": 422,
     "seq": 120,
     "homeBannerType": "general",
@@ -42,5 +20,27 @@
     "transitionDestinationId": 209,
     "startAt": 1652713200000,
     "endAt": 1653317999000
+  },
+  {
+    "homeBannerId": 425,
+    "seq": 110,
+    "homeBannerType": "general",
+    "name": "[ガチャ]ビビバス箱イベ8巡目_定常ガチャバナー",
+    "assetbundleName": "banner_gacha210",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 210,
+    "startAt": 1653015600000,
+    "endAt": 1653965999000
+  },
+  {
+    "homeBannerId": 427,
+    "seq": 100,
+    "homeBannerType": "event",
+    "name": "[イベント]ビビバス箱イベ8巡目_イベントバナー",
+    "assetbundleName": "event_unity_2022",
+    "transitionDestinationType": "event",
+    "transitionDestinationId": 59,
+    "startAt": 1653026400000,
+    "endAt": 1653976799000
   }
 ]
