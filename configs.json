@@ -676,10 +676,6 @@
     "value": "3"
   },
   {
-    "configKey": "rank_match_matching_class_scale",
-    "value": "3"
-  },
-  {
     "configKey": "rank_match_placement_top_limit",
     "value": "10"
   },
@@ -694,6 +690,10 @@
   {
     "configKey": "rank_match_recovery_penalty_count_hour",
     "value": "24"
+  },
+  {
+    "configKey": "rank_match_matching_class_scale",
+    "value": "3"
   },
   {
     "configKey": "redis_ranking_expire_sec",

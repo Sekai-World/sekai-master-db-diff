@@ -5,7 +5,7 @@
   },
   {
     "wordingKey": "CONNECT_LIVE_TICKET_COUNT_OVERFLOW_WARN_MESSAGE",
-    "value": "公演回数をオーバーしてチケットを\n購入しようとしています。\n余ったチケットは使用できず、\n別公演での使用・返金もできません。\n\nよろしいですか？"
+    "value": "公演回数をオーバーしてチケットを\n交換しようとしています。\n余ったチケットは使用できず、\n別公演での使用・返金もできません。\n\nよろしいですか？"
   },
   {
     "wordingKey": "CONNECT_LIVE_TICKET_EXCHANGE_BTN_BALLOON_LABEL_FORMAT",
@@ -40,8 +40,16 @@
     "value": "コレクション詳細"
   },
   {
+    "wordingKey": "DIALOG_TITLE_NEWLY_WRITTEN_MUSIC_DETAIL_INFO",
+    "value": "書き下ろし楽曲"
+  },
+  {
     "wordingKey": "DIALOG_TITLE_VIRTUAL_SHOP_TIME_OVER",
     "value": "通知"
+  },
+  {
+    "wordingKey": "EVENT_RELATED_MV_INFO_BUTTON",
+    "value": "楽曲情報"
   },
   {
     "wordingKey": "FMT_EVENT_POINT",
@@ -54,6 +62,14 @@
   {
     "wordingKey": "FORMAT_CONNECT_LIVE_TICKET_SHOP_ITEM",
     "value": "{0} x {1}"
+  },
+  {
+    "wordingKey": "FORMAT_RECEIVE_PRESENTED_MUSIC",
+    "value": "「{0}」\nプレゼントされた楽曲を受け取りました。"
+  },
+  {
+    "wordingKey": "FORMAT_RELEASE_EVENT_RELATED_MUSIC_INFO",
+    "value": "ストーリーを{0}話まで見ると解放"
   },
   {
     "wordingKey": "MEG_VERSUS_MATCH_TIMEOUT",
@@ -337,7 +353,7 @@
   },
   {
     "wordingKey": "MSG_COLLECTION_GACHA_SPIN_CONFIRM",
-    "value": "{0}<color=#FF55AA>{1}個</color>を消費して\n「{2}」を\n開けます。よろしいですか？"
+    "value": "{0}<color=#FF55AA>{1}個</color>を消費して\n{2}を開けます。よろしいですか？"
   },
   {
     "wordingKey": "MSG_COLLECTION_OPEN_COUNT",
@@ -398,6 +414,22 @@
   {
     "wordingKey": "MSG_CONSECUTIVE_AUTO_LIVE_UNTILE_NOT_ENOUGH",
     "value": "ライブボーナスがなくなるまで"
+  },
+  {
+    "wordingKey": "MSG_CONSECUTIVE_SCENARIO_CONFIRM",
+    "value": "第{0}話\n{1}\nを続けて読みますか？"
+  },
+  {
+    "wordingKey": "MSG_CONSECUTIVE_SCENARIO_PLAY",
+    "value": "次のストーリーを連続で読む。"
+  },
+  {
+    "wordingKey": "MSG_CONSECUTIVE_SCENARIO_RETURN_STORY_LIST",
+    "value": "ストーリーをスキップして一覧に戻りますか？"
+  },
+  {
+    "wordingKey": "MSG_CONSECUTIVE_SCENARIO_WARNING",
+    "value": "ボイスデータがダウンロードされます。\n（およそ{0}MB）"
   },
   {
     "wordingKey": "MSG_CONSTUME_FITTING",
@@ -573,7 +605,7 @@
   },
   {
     "wordingKey": "MSG_ENTER_STREAMING_LIVE_CONFIRM_TO_USE",
-    "value": "「{0}」を\n<color=#ff5588>{1}枚</color>消費して入場します。\nよろしいですか？"
+    "value": "{0}を\n<color=#ff5588>{1}枚</color>消費して入場します。\nよろしいですか？"
   },
   {
     "wordingKey": "MSG_ENTRY_CONFIRMATION",
@@ -585,7 +617,7 @@
   },
   {
     "wordingKey": "MSG_EPISODE_READ_CONFIRM",
-    "value": "ボイスデータをダウンロードして、ストーリーを読みますか？"
+    "value": "ボイスデータをダウンロードして、\nストーリーを読みますか？"
   },
   {
     "wordingKey": "MSG_EPISODE_UNLOCK",
@@ -1288,6 +1320,10 @@
     "value": "交換可能なスタンプがありません。"
   },
   {
+    "wordingKey": "MSG_NOTHING_IMPORTANT_ITEM",
+    "value": "大事なアイテムがありません。"
+  },
+  {
     "wordingKey": "MSG_NOTHING_ITEM",
     "value": "アイテムがありません。"
   },
@@ -1325,7 +1361,7 @@
   },
   {
     "wordingKey": "MSG_NOT_ENOUGH_CURRENCY_FOR_VIRTUAL_LIVE_TICKET",
-    "value": "「{0}」の入場に必要なチケットを交換するためのクリスタルが不足しています。"
+    "value": "{0}の入場に必要なチケットを交換するためのクリスタルが不足しています。"
   },
   {
     "wordingKey": "MSG_NOT_ENOUGH_JEWEL",
@@ -2033,7 +2069,7 @@
   },
   {
     "wordingKey": "MSG_VOICE_DATA_DOWNLOAD_WORNING",
-    "value": "ボイスデータは一定期間後削除されます。 \nまた、Wi-Fi環境でのダウンロードをおすすめします。"
+    "value": "ボイスデータは一定期間後削除されます。 \nWi-Fi環境でのダウンロードをおすすめします。"
   },
   {
     "wordingKey": "MSG_VR_READY_MESSAGE",
@@ -2057,7 +2093,7 @@
   },
   {
     "wordingKey": "MSG_WARN_ALREADY_USE_STREAMING_LIVE_TICKET",
-    "value": "※すでに\n「{0}」を\n使用しているので消費されません。"
+    "value": "※すでに\n{0}を\n使用しているので消費されません。"
   },
   {
     "wordingKey": "MSG_WARN_ENTER_STREAMING_LIVE_WITH_TICKET_DIALOG",
@@ -2900,6 +2936,10 @@
     "value": "交換確認"
   },
   {
+    "wordingKey": "WORD_CONNECT_LIVE",
+    "value": "コネクトライブ"
+  },
+  {
     "wordingKey": "WORD_CONNECT_LIVE_GUIDE_LINE",
     "value": "ガイドライン"
   },
@@ -2910,6 +2950,18 @@
   {
     "wordingKey": "WORD_CONSECUTIVE_AUTO_LIVE_NUMBER_OF_PLAY",
     "value": "あと{0}回"
+  },
+  {
+    "wordingKey": "WORD_CONSECUTIVE_SCENARIO_NEXT_SCENARIO",
+    "value": "次を読む"
+  },
+  {
+    "wordingKey": "WORD_CONSECUTIVE_SCENARIO_PLAY",
+    "value": "連続再生"
+  },
+  {
+    "wordingKey": "WORD_CONSECUTIVE_SCENARIO_RETURN_STORY_LIST",
+    "value": "一覧に戻る"
   },
   {
     "wordingKey": "WORD_CONSUME_NUM",
@@ -3960,6 +4012,10 @@
     "value": "ID"
   },
   {
+    "wordingKey": "WORD_IMPORTANT_ITEM",
+    "value": "大事な\nアイテム"
+  },
+  {
     "wordingKey": "WORD_INHERIT_SETTING",
     "value": "データ引き継ぎ設定"
   },
@@ -4284,6 +4340,10 @@
     "value": "開催期間 {0} まで"
   },
   {
+    "wordingKey": "WORD_LOOK_BUTTON",
+    "value": "見る"
+  },
+  {
     "wordingKey": "WORD_LOSE",
     "value": "LOSE"
   },
@@ -4592,6 +4652,10 @@
     "value": "MVP"
   },
   {
+    "wordingKey": "WORD_MV_ON_JACKET",
+    "value": "MV"
+  },
+  {
     "wordingKey": "WORD_MV_SETTING",
     "value": "MV設定"
   },
@@ -4602,6 +4666,10 @@
   {
     "wordingKey": "WORD_MV_VIEWING",
     "value": "MV視聴"
+  },
+  {
+    "wordingKey": "WORD_NEWLY_WRITTEN_MUSIC",
+    "value": "書き下ろし\n楽曲"
   },
   {
     "wordingKey": "WORD_NEWS",
@@ -4924,8 +4992,16 @@
     "value": "早送り中"
   },
   {
+    "wordingKey": "WORD_PLAY_FREE_LIVE_FROM_EVENT_STORY",
+    "value": "ライブへ"
+  },
+  {
     "wordingKey": "WORD_PLAY_LIST",
     "value": "プレイリスト"
+  },
+  {
+    "wordingKey": "WORD_PLAY_MUSIC_VIDEO_FROM_EVENT_STORY",
+    "value": "MV視聴へ"
   },
   {
     "wordingKey": "WORD_PLAY_RESULT",
@@ -5850,6 +5926,10 @@
   {
     "wordingKey": "WORD_SYSYTEM",
     "value": "システム"
+  },
+  {
+    "wordingKey": "WORD_TAB_NEWLY_WRITTEN_MUSIC_DETAIL_INFO",
+    "value": "楽曲情報"
   },
   {
     "wordingKey": "WORD_TALK",

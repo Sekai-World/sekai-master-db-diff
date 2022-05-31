@@ -604,7 +604,14 @@
   {
     "id": 124,
     "title": "ランクマッチ",
-    "description": "「ランクマッチ」は難易度EXPERT・MASTERの\nフルコンボ合計数が10になると解放されます。",
+    "description": "「ランクマッチ」はプレイヤーランク50、\nEXPERT以上の楽曲フルコンボ数が10になると解放されます。",
+    "fromUserRank": 1,
+    "toUserRank": 999
+  },
+  {
+    "id": 125,
+    "title": "想いの結晶の使い方＆入手方法",
+    "description": "「想いの純結晶」は「想いのカケラ・純結晶交換所」で\n「想いのカケラ」に交換できます。",
     "fromUserRank": 1,
     "toUserRank": 999
   },
