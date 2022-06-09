@@ -295,20 +295,6 @@
     "startAt": 1647585000000
   },
   {
-    "id": 1606,
-    "seq": 1,
-    "displayOrder": 45490,
-    "informationType": "normal",
-    "informationTag": "gacha",
-    "browseType": "internal",
-    "platform": "all",
-    "title": "「[東雲絵名]HAPPY BIRTHDAYガチャ」開催！",
-    "path": "information/index.html?id=info_gacha204_held",
-    "startAt": 1651244400000,
-    "endAt": 1654495200000,
-    "bannerAssetbundleName": "banner_news_gacha204"
-  },
-  {
     "id": 1607,
     "seq": 1,
     "displayOrder": 45500,
@@ -455,20 +441,6 @@
     "bannerAssetbundleName": "banner_news_gacha210"
   },
   {
-    "id": 1680,
-    "seq": 1,
-    "displayOrder": 45940,
-    "informationType": "normal",
-    "informationTag": "event",
-    "browseType": "internal",
-    "platform": "all",
-    "title": "イベント「THE POWER OF UNITY」開催！",
-    "path": "information/index.html?id=info_event59_held",
-    "startAt": 1653026400000,
-    "endAt": 1654689600000,
-    "bannerAssetbundleName": "banner_news_event59"
-  },
-  {
     "id": 1685,
     "seq": 1,
     "displayOrder": 46020,
@@ -483,20 +455,6 @@
     "bannerAssetbundleName": "banner_news_gacha211"
   },
   {
-    "id": 1687,
-    "seq": 1,
-    "displayOrder": 46060,
-    "informationType": "normal",
-    "informationTag": "gacha",
-    "browseType": "internal",
-    "platform": "all",
-    "title": "「セレクトリストガチャ」開催！",
-    "path": "information/index.html?id=info_gacha212_held",
-    "startAt": 1653534000000,
-    "endAt": 1654225200000,
-    "bannerAssetbundleName": "banner_news_gacha212"
-  },
-  {
     "id": 1696,
     "seq": 1,
     "displayOrder": 45770,
@@ -507,32 +465,6 @@
     "title": "【5月13日11時00分追記】5月13日より「ランクマッチ」マッチング開催時間を24時間に拡大する変更について",
     "path": "information/index.html?id=info_rankmatch_release_20220511",
     "startAt": 1652407200000
-  },
-  {
-    "id": 1699,
-    "seq": 1,
-    "displayOrder": 46170,
-    "informationType": "normal",
-    "informationTag": "music",
-    "browseType": "internal",
-    "platform": "all",
-    "title": "「トリコロージュ」アナザーボーカルver.追加のお知らせ",
-    "path": "information/index.html?id=info_music_Tricologe_another_20220531",
-    "startAt": 1653962400000,
-    "endAt": 1654196400000
-  },
-  {
-    "id": 1700,
-    "seq": 1,
-    "displayOrder": 46180,
-    "informationType": "normal",
-    "informationTag": "music",
-    "browseType": "internal",
-    "platform": "all",
-    "title": "「ノマド」アナザーボーカルver.追加のお知らせ",
-    "path": "information/index.html?id=info_music_Nomad_another_20220531",
-    "startAt": 1653962400000,
-    "endAt": 1654196400000
   },
   {
     "id": 1701,
@@ -864,8 +796,21 @@
     "informationTag": "bug",
     "browseType": "internal",
     "platform": "all",
-    "title": "イベント「青空に願うユア・ハピネス！ アフターライブ」開始後に発生した通信エラーについて",
+    "title": "イベント「青空に願うユア・ハピネス！ アフターライブ」にて発生した通信エラーについて",
     "path": "information/index.html?id=bug_error_afterlive_20220608",
-    "startAt": 1654693800000
+    "startAt": 1654693800000,
+    "endAt": 1654747200000
+  },
+  {
+    "id": 1758,
+    "seq": 1,
+    "displayOrder": 23260,
+    "informationType": "bug",
+    "informationTag": "bug",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "【6月9日13時00分追記】イベント「青空に願うユア・ハピネス！ アフターライブ」にて発生した通信エラーについて",
+    "path": "information/index.html?id=bug_fix_error_afterlive_20220608",
+    "startAt": 1654747200000
   }
 ]
