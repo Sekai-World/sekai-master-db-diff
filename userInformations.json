@@ -428,20 +428,6 @@
     "bannerAssetbundleName": "banner_news_gacha213"
   },
   {
-    "id": 1702,
-    "seq": 1,
-    "displayOrder": 46230,
-    "informationType": "normal",
-    "informationTag": "event",
-    "browseType": "internal",
-    "platform": "all",
-    "title": "イベント「青空に願うユア・ハピネス！」開催！",
-    "path": "information/index.html?id=info_event60_held",
-    "startAt": 1653976800000,
-    "endAt": 1655553600000,
-    "bannerAssetbundleName": "banner_news_event60"
-  },
-  {
     "id": 1704,
     "seq": 1,
     "displayOrder": 46240,
@@ -652,30 +638,44 @@
     "bannerAssetbundleName": "banner_news_event62"
   },
   {
-    "id": 1756,
+    "id": 1746,
     "seq": 1,
-    "displayOrder": 46350,
+    "displayOrder": 46500,
     "informationType": "normal",
-    "informationTag": "information",
+    "informationTag": "music",
     "browseType": "internal",
     "platform": "all",
-    "title": "6月11日25時よりWEBラジオ「25時、ナイトラジオで。#43」を配信！",
-    "path": "information/index.html?id=info_webradio-25_43_20220611",
-    "startAt": 1654830000000,
-    "endAt": 1655406000000
+    "title": "「いーあるふぁんくらぶ」アナザーボーカルver.追加のお知らせ",
+    "path": "information/index.html?id=info_music_i-arufancrab_another_20220620",
+    "startAt": 1655690400000,
+    "endAt": 1655924400000
   },
   {
-    "id": 1759,
+    "id": 1747,
     "seq": 1,
-    "displayOrder": 23270,
-    "informationType": "bug",
-    "informationTag": "bug",
+    "displayOrder": 46510,
+    "informationType": "normal",
+    "informationTag": "music",
     "browseType": "internal",
     "platform": "all",
-    "title": "6月10日11時00分ごろに修正したいくつかの不具合について",
-    "path": "information/index.html?id=bug_fix_something_20220610",
-    "startAt": 1654826400000,
-    "endAt": 1655406000000
+    "title": "「88☆彡」バーチャル・シンガーver.追加のお知らせ",
+    "path": "information/index.html?id=info_music_88_20220620",
+    "startAt": 1655690400000,
+    "endAt": 1655924400000
+  },
+  {
+    "id": 1748,
+    "seq": 1,
+    "displayOrder": 46530,
+    "informationType": "normal",
+    "informationTag": "gacha",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "「魅惑のトロピカルリゾートガチャ」開催！",
+    "path": "information/index.html?id=info_gacha216",
+    "startAt": 1655694000000,
+    "endAt": 1659236400000,
+    "bannerAssetbundleName": "banner_news_gacha216"
   },
   {
     "id": 1762,
@@ -703,32 +703,6 @@
     "endAt": 1656010800000
   },
   {
-    "id": 1781,
-    "seq": 1,
-    "displayOrder": 46460,
-    "informationType": "normal",
-    "informationTag": "information",
-    "browseType": "internal",
-    "platform": "all",
-    "title": "コネクトライブ「Vivid BAD SQUAD 1st CRASH」 に関するアンケートへのご協力のお願い",
-    "path": "information/index.html?id=info_questionnaire_20220617",
-    "startAt": 1655452800000,
-    "endAt": 1655650740000
-  },
-  {
-    "id": 1782,
-    "seq": 1,
-    "displayOrder": 46450,
-    "informationType": "normal",
-    "informationTag": "information",
-    "browseType": "external",
-    "platform": "all",
-    "title": "【回答時間：約3分】アンケートはコチラ！",
-    "path": "https://questant.jp/q/BK9T53Y2?id={userId}",
-    "startAt": 1655452800000,
-    "endAt": 1655650740000
-  },
-  {
     "id": 1783,
     "seq": 1,
     "displayOrder": 46470,
@@ -739,5 +713,17 @@
     "title": "【重要】「v2.1.0」アップデートに関する補てんのご案内",
     "path": "information/index.html?id=info_v2-1-0_compensation_20220617",
     "startAt": 1655521200000
+  },
+  {
+    "id": 1784,
+    "seq": 1,
+    "displayOrder": 46520,
+    "informationType": "normal",
+    "informationTag": "information",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "【重要】【6月20日11時20分追記】「v2.1.0」アップデートに関する補てんのご案内",
+    "path": "information/index.html?id=info_fin_v2-1-0_compensation_20220617",
+    "startAt": 1655691600000
   }
 ]
