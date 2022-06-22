@@ -1,27 +1,5 @@
 [
   {
-    "homeBannerId": 436,
-    "seq": 110,
-    "homeBannerType": "general",
-    "name": "[ガチャ]ニーゴ箱イベ9巡目_定常ガチャバナー",
-    "assetbundleName": "banner_gacha214",
-    "transitionDestinationType": "gacha",
-    "transitionDestinationId": 214,
-    "startAt": 1654830000000,
-    "endAt": 1655693999000
-  },
-  {
-    "homeBannerId": 437,
-    "seq": 100,
-    "homeBannerType": "event",
-    "name": "[イベント]ニーゴ箱イベ9巡目_イベントバナー",
-    "assetbundleName": "event_maigo_2022",
-    "transitionDestinationType": "event",
-    "transitionDestinationId": 61,
-    "startAt": 1654840800000,
-    "endAt": 1655704799000
-  },
-  {
     "homeBannerId": 439,
     "seq": 120,
     "homeBannerType": "general",
@@ -31,5 +9,38 @@
     "transitionDestinationId": 215,
     "startAt": 1655175600000,
     "endAt": 1656039599000
+  },
+  {
+    "homeBannerId": 440,
+    "seq": 110,
+    "homeBannerType": "general",
+    "name": "[ガチャ]ワンダショ箱イベ9巡目_定常ガチャバナー",
+    "assetbundleName": "banner_gacha216",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 216,
+    "startAt": 1655694000000,
+    "endAt": 1656557999000
+  },
+  {
+    "homeBannerId": 441,
+    "seq": 100,
+    "homeBannerType": "event",
+    "name": "[イベント]ワンダショ箱イベ9巡目_イベントバナー",
+    "assetbundleName": "event_island_2022",
+    "transitionDestinationType": "event",
+    "transitionDestinationId": 62,
+    "startAt": 1655704800000,
+    "endAt": 1656568799000
+  },
+  {
+    "homeBannerId": 443,
+    "seq": 160,
+    "homeBannerType": "general",
+    "name": "[神代類]HAPPY BIRTHDAYライブ",
+    "assetbundleName": "banner_virtuallive157",
+    "transitionDestinationType": "virtual_live",
+    "transitionDestinationId": 157,
+    "startAt": 1655877600000,
+    "endAt": 1655996399000
   }
 ]
