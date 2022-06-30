@@ -3231,5 +3231,51 @@
       }
     ],
     "virtualShopType": "birthday"
+  },
+  {
+    "id": 123,
+    "seq": 123,
+    "name": "第63回イベント物販",
+    "virtualShopItems": [
+      {
+        "id": 228,
+        "virtualShopId": 123,
+        "virtualShopItemType": "penlight",
+        "seq": 199923,
+        "resourceBoxId": 178,
+        "costPaidJewel": 1000,
+        "startAt": 1656568800000
+      }
+    ],
+    "virtualShopType": "event"
+  },
+  {
+    "id": 124,
+    "seq": 124,
+    "name": "七夕ライブ",
+    "virtualShopItems": [
+      {
+        "id": 229,
+        "virtualShopId": 124,
+        "virtualShopItemType": "accessory",
+        "seq": 199922,
+        "resourceBoxId": 110,
+        "costVirtualCoin": 3000,
+        "costJewel": 1000,
+        "startAt": 1657000800000,
+        "endAt": 1657346399000
+      },
+      {
+        "id": 230,
+        "virtualShopId": 124,
+        "virtualShopItemType": "coordinate",
+        "seq": 99900,
+        "resourceBoxId": 179,
+        "costPaidJewel": 1000,
+        "startAt": 1657000800000,
+        "endAt": 1657346399000
+      }
+    ],
+    "virtualShopType": "special_live"
   }
 ]
