@@ -319,34 +319,6 @@
     "startAt": 1652148000000
   },
   {
-    "id": 1679,
-    "seq": 1,
-    "displayOrder": 45910,
-    "informationType": "normal",
-    "informationTag": "gacha",
-    "browseType": "internal",
-    "platform": "all",
-    "title": "「AIM FOR LEGENDガチャ」開催！",
-    "path": "information/index.html?id=info_gacha210",
-    "startAt": 1653015600000,
-    "endAt": 1656558000000,
-    "bannerAssetbundleName": "banner_news_gacha210"
-  },
-  {
-    "id": 1685,
-    "seq": 1,
-    "displayOrder": 46020,
-    "informationType": "normal",
-    "informationTag": "gacha",
-    "browseType": "internal",
-    "platform": "all",
-    "title": "「[青柳冬弥]HAPPY BIRTHDAYガチャ」開催！",
-    "path": "information/index.html?id=info_gacha211_held",
-    "startAt": 1653404400000,
-    "endAt": 1656568800000,
-    "bannerAssetbundleName": "banner_news_gacha211"
-  },
-  {
     "id": 1701,
     "seq": 1,
     "displayOrder": 46210,
@@ -475,7 +447,8 @@
     "platform": "all",
     "title": "【5月31日11時00分追記】「ランクマッチ」にて確認している不具合について",
     "path": "information/index.html?id=bug_add9_rankmatch_season-pre_20220330",
-    "startAt": 1653962400000
+    "startAt": 1653962400000,
+    "endAt": 1656644400000
   },
   {
     "id": 1742,
@@ -557,48 +530,6 @@
     "path": "information/index.html?id=livemission_reset_announce_202206",
     "startAt": 1656298800000,
     "endAt": 1656601200000
-  },
-  {
-    "id": 1765,
-    "seq": 1,
-    "displayOrder": 46730,
-    "informationType": "normal",
-    "informationTag": "gacha",
-    "browseType": "internal",
-    "platform": "all",
-    "title": "予告、「カラフルフェスティバルガチャ」開催について",
-    "path": "information/index.html?id=info_gacha218_notice",
-    "startAt": 1656482400000,
-    "endAt": 1656558000000,
-    "bannerAssetbundleName": "banner_news_gacha218"
-  },
-  {
-    "id": 1766,
-    "seq": 1,
-    "displayOrder": 46710,
-    "informationType": "normal",
-    "informationTag": "campaign",
-    "browseType": "internal",
-    "platform": "all",
-    "title": "予告、「1000万人突破記念ログインキャンペーン」開催について",
-    "path": "information/index.html?id=info_loginbonus_1000commemoration_notice_20220630",
-    "startAt": 1656471600000,
-    "endAt": 1656558000000,
-    "bannerAssetbundleName": "banner_news_loginbonus_1000commemoration"
-  },
-  {
-    "id": 1767,
-    "seq": 1,
-    "displayOrder": 46720,
-    "informationType": "normal",
-    "informationTag": "event",
-    "browseType": "internal",
-    "platform": "all",
-    "title": "予告、イベント「みんなでエンジョイ！スポジョイパーク」開催について",
-    "path": "information/index.html?id=info_event63_notice",
-    "startAt": 1656482400000,
-    "endAt": 1656568800000,
-    "bannerAssetbundleName": "banner_news_event63"
   },
   {
     "id": 1768,
@@ -748,19 +679,6 @@
     "startAt": 1655980800000
   },
   {
-    "id": 1789,
-    "seq": 1,
-    "displayOrder": 23260,
-    "informationType": "bug",
-    "informationTag": "bug",
-    "browseType": "internal",
-    "platform": "all",
-    "title": "プレゼントで受け取る一部アイテムの受け取り期限で発生していた不具合について",
-    "path": "information/index.html?id=bug_fix_presentbox_20220623",
-    "startAt": 1655949600000,
-    "endAt": 1656529200000
-  },
-  {
     "id": 1790,
     "seq": 1,
     "displayOrder": 46630,
@@ -796,19 +714,6 @@
     "title": "【重要】【6月27日18時30分追記】「v2.1.0」アップデートに関する補てんのご案内",
     "path": "information/index.html?id=info_add2_fin_v2-1-0_compensation_20220617",
     "startAt": 1656322200000
-  },
-  {
-    "id": 1793,
-    "seq": 1,
-    "displayOrder": 46680,
-    "informationType": "normal",
-    "informationTag": "information",
-    "browseType": "internal",
-    "platform": "all",
-    "title": "6月30日メンテナンス実施のお知らせ",
-    "path": "information/index.html?id=info_maintenance_notice_20220630",
-    "startAt": 1656322200000,
-    "endAt": 1656554400000
   },
   {
     "id": 1794,
@@ -889,6 +794,31 @@
     "bannerAssetbundleName": "banner_news_rankmatch001_season-2022-summer"
   },
   {
+    "id": 1800,
+    "seq": 1,
+    "displayOrder": 46890,
+    "informationType": "normal",
+    "informationTag": "information",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "『第1回ランクマッチ シーズン「2022 SUMMER」』開催！",
+    "path": "information/index.html?id=info_rankmatch001_season-2022-summer_held",
+    "startAt": 1656644400000,
+    "bannerAssetbundleName": "banner_news_rankmatch001_season-2022-summer"
+  },
+  {
+    "id": 1801,
+    "seq": 1,
+    "displayOrder": 46880,
+    "informationType": "normal",
+    "informationTag": "information",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "【重要】ランクマッチにおける注意点について",
+    "path": "information/index.html?id=info_bug_rankmatch_20220630",
+    "startAt": 1656644400000
+  },
+  {
     "id": 1802,
     "seq": 1,
     "displayOrder": 46790,
@@ -900,5 +830,17 @@
     "path": "information/index.html?id=info_webradio-miku_11_20220701",
     "startAt": 1656558000000,
     "endAt": 1657134000000
+  },
+  {
+    "id": 1803,
+    "seq": 1,
+    "displayOrder": 23280,
+    "informationType": "bug",
+    "informationTag": "bug",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "【7月1日12時00分追記】「ランクマッチ」にて確認している不具合について",
+    "path": "information/index.html?id=bug_add10_rankmatch_season-pre_20220330",
+    "startAt": 1656644400000
   }
 ]
