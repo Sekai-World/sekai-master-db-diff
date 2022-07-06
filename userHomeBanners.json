@@ -1,14 +1,14 @@
 [
   {
-    "homeBannerId": 446,
-    "seq": 50,
+    "homeBannerId": 447,
+    "seq": 110,
     "homeBannerType": "general",
-    "name": "カラフルフェスティバルガチャ",
-    "assetbundleName": "banner_gacha218",
+    "name": "[ガチャ]シャッフルスポーツ_定常ガチャバナー",
+    "assetbundleName": "banner_gacha219",
     "transitionDestinationType": "gacha",
-    "transitionDestinationId": 218,
-    "startAt": 1656558000000,
-    "endAt": 1656903599000
+    "transitionDestinationId": 219,
+    "startAt": 1656903600000,
+    "endAt": 1657508399000
   },
   {
     "homeBannerId": 448,
@@ -20,5 +20,16 @@
     "transitionDestinationId": 63,
     "startAt": 1656568800000,
     "endAt": 1657519199000
+  },
+  {
+    "homeBannerId": 449,
+    "seq": 130,
+    "homeBannerType": "general",
+    "name": "七夕2022ライブ",
+    "assetbundleName": "banner_virtuallive159",
+    "transitionDestinationType": "virtual_live",
+    "transitionDestinationId": 159,
+    "startAt": 1657000800000,
+    "endAt": 1657432799000
   }
 ]
