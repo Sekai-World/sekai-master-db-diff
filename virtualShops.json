@@ -3277,5 +3277,41 @@
       }
     ],
     "virtualShopType": "special_live"
+  },
+  {
+    "id": 125,
+    "seq": 125,
+    "name": "第64回イベント物販",
+    "virtualShopItems": [
+      {
+        "id": 231,
+        "virtualShopId": 125,
+        "virtualShopItemType": "accessory",
+        "seq": 199921,
+        "resourceBoxId": 180,
+        "costVirtualCoin": 3000,
+        "costJewel": 1000,
+        "startAt": 1657519200000
+      }
+    ],
+    "virtualShopType": "event"
+  },
+  {
+    "id": 126,
+    "seq": 126,
+    "name": "寧々 BIRTHDAY",
+    "virtualShopItems": [
+      {
+        "id": 232,
+        "virtualShopId": 126,
+        "virtualShopItemType": "coordinate",
+        "seq": 99899,
+        "resourceBoxId": 112,
+        "costPaidJewel": 1000,
+        "startAt": 1658124000000,
+        "endAt": 1658383199000
+      }
+    ],
+    "virtualShopType": "birthday"
   }
 ]
