@@ -3313,5 +3313,40 @@
       }
     ],
     "virtualShopType": "birthday"
+  },
+  {
+    "id": 127,
+    "seq": 127,
+    "name": "第65回イベント物販",
+    "virtualShopItems": [
+      {
+        "id": 233,
+        "virtualShopId": 127,
+        "virtualShopItemType": "penlight",
+        "seq": 199920,
+        "resourceBoxId": 181,
+        "costPaidJewel": 1000,
+        "startAt": 1658383200000
+      }
+    ],
+    "virtualShopType": "event"
+  },
+  {
+    "id": 128,
+    "seq": 128,
+    "name": "杏 BIRTHDAY",
+    "virtualShopItems": [
+      {
+        "id": 234,
+        "virtualShopId": 128,
+        "virtualShopItemType": "coordinate",
+        "seq": 99898,
+        "resourceBoxId": 114,
+        "costPaidJewel": 1000,
+        "startAt": 1658642400000,
+        "endAt": 1658901599000
+      }
+    ],
+    "virtualShopType": "birthday"
   }
 ]
