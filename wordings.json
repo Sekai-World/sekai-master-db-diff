@@ -604,6 +604,10 @@
     "value": "---%"
   },
   {
+    "wordingKey": "MSG_END_FREE_VIEWING_PERIOD",
+    "value": "無料観覧期間が終了しました。\n自動で待合エリアに戻ります。\n※自動で戻らない場合は、左上の退場ボタンより戻れます。"
+  },
+  {
     "wordingKey": "MSG_ENTER_STREAMING_LIVE_CONFIRM_TO_USE",
     "value": "{0}を\n<color=#ff5588>{1}枚</color>消費して入場します。\nよろしいですか？"
   },
@@ -840,8 +844,28 @@
     "value": "{0}<color=#FF55AA>{1}個</color>を消費して\n「{2}」を引きます。\nよろしいですか？"
   },
   {
+    "wordingKey": "MSG_GACHA_TIME_OVER",
+    "value": "{0}は開催期間が終了しています。\nホーム画面に戻ります。"
+  },
+  {
     "wordingKey": "MSG_GACHA_TOP_SEAL_ON",
     "value": "{0}つき"
+  },
+  {
+    "wordingKey": "MSG_GIFT_NOT_SELECT_CONFIRM",
+    "value": "アイテムを設定するまで、\nハピネスパッケージガチャを引くことができません。\nアイテムをあとで設定しますか？\n\n <color=#ff5599>※アイテムは、\nガチャを引くまで何度でも変更できます。</color>"
+  },
+  {
+    "wordingKey": "MSG_GIFT_SELECT",
+    "value": "アイテムを選ぼう！"
+  },
+  {
+    "wordingKey": "MSG_GIFT_SELECT_CONFIRM",
+    "value": "このアイテムを設定します。よろしいですか？\n <color=#ff5599>※アイテムはガチャを引くまで何度でも変更できます。</color>"
+  },
+  {
+    "wordingKey": "MSG_GIFT_SELECT_INDUCTION",
+    "value": "ガチャを引くには、アイテムの設定が必要です。"
   },
   {
     "wordingKey": "MSG_GIVE_LIVE_BONUS",
@@ -858,6 +882,10 @@
   {
     "wordingKey": "MSG_ID_NOT_FOUND",
     "value": "入力されたIDのプレイヤーは見つかりません。"
+  },
+  {
+    "wordingKey": "MSG_INFO_SAME_TEAM_MATCHING",
+    "value": "同じグループのチームとマッチングした場合、\nグループPは変動しません。"
   },
   {
     "wordingKey": "MSG_INHERIT_INVALID_TOKEN",
@@ -1246,6 +1274,10 @@
   {
     "wordingKey": "MSG_MUSIC_SHOP_PURCHASE",
     "value": "{0}を{1}個消費して 楽曲と交換しますか？"
+  },
+  {
+    "wordingKey": "MSG_MUSIC_VIDEO_DATA_DOWNLOAD_WARNING",
+    "value": "シナリオ内でMVが再生される場合、再生に必要なデータが\n自動でダウンロードされます。\nMV・ボイスデータは一定期間後削除されます。\nまた、Wi-Fi環境でのダウンロードをおすすめします。"
   },
   {
     "wordingKey": "MSG_MUSIC_VOCAL",
@@ -1732,6 +1764,10 @@
     "value": "好きなメンバーを下から10人選んでください"
   },
   {
+    "wordingKey": "MSG_SELECT_ONE_GIFT",
+    "value": "ガチャを引いたあとに受け取るアイテムを\n1つ設定してください。"
+  },
+  {
     "wordingKey": "MSG_SEND_WAIT_ROOM",
     "value": "獲得済みのメンバーは控え室に送られました。"
   },
@@ -1890,6 +1926,10 @@
   {
     "wordingKey": "MSG_START_CHEERFUL_CARNIVAL_EVENT_ANNOUNCE",
     "value": "新しいイベントが開催されました。\nみんなでライブがチアフルライブに切り替わるため、\n一度ホームに戻ります。"
+  },
+  {
+    "wordingKey": "MSG_START_SAME_TEAM_MATCHING",
+    "value": "一定時間が経過したため、\n同じグループのチームもマッチング対象になります。"
   },
   {
     "wordingKey": "MSG_STORY_SKIP_BODY",
@@ -2069,7 +2109,7 @@
   },
   {
     "wordingKey": "MSG_VOICE_DATA_DOWNLOAD_WORNING",
-    "value": "ボイスデータは一定期間後削除されます。 \nWi-Fi環境でのダウンロードをおすすめします。"
+    "value": "ボイスデータは一定期間後削除されます。 \nまた、Wi-Fi環境でのダウンロードをおすすめします。"
   },
   {
     "wordingKey": "MSG_VR_READY_MESSAGE",
@@ -2334,6 +2374,14 @@
   {
     "wordingKey": "WORD_ALL_PERFECT",
     "value": "ALL PERFECT"
+  },
+  {
+    "wordingKey": "WORD_ALPHABETICAL_ORDER",
+    "value": "50音順"
+  },
+  {
+    "wordingKey": "WORD_ALPHABETICAL_ORDER_JUMP",
+    "value": "行ジャンプ"
   },
   {
     "wordingKey": "WORD_ALREADY_CLEARED_LIVE_RETRY",
@@ -3484,6 +3532,10 @@
     "value": "早送り"
   },
   {
+    "wordingKey": "WORD_FAST_LATE_FLICK",
+    "value": "LATE/FAST/FLICK"
+  },
+  {
     "wordingKey": "WORD_FAVORITE",
     "value": "お気に入り"
   },
@@ -3692,6 +3744,10 @@
     "value": "{0} {1}\n\n<color={2}>{3}</color>"
   },
   {
+    "wordingKey": "WORD_GET_ITEM",
+    "value": "アイテム獲得"
+  },
+  {
     "wordingKey": "WORD_GET_ORDER",
     "value": "入手順"
   },
@@ -3714,6 +3770,26 @@
   {
     "wordingKey": "WORD_GET_VIRTUAL_LIVE_REWARD",
     "value": "バーチャルライブ報酬獲得"
+  },
+  {
+    "wordingKey": "WORD_GIFT_GACHA",
+    "value": "ハピネスパッケージガチャ"
+  },
+  {
+    "wordingKey": "WORD_GIFT_LIST",
+    "value": "アイテム一覧"
+  },
+  {
+    "wordingKey": "WORD_GIFT_NOT_SETTING",
+    "value": "アイテム未設定"
+  },
+  {
+    "wordingKey": "WORD_GIFT_SELECT",
+    "value": "アイテム選択"
+  },
+  {
+    "wordingKey": "WORD_GIFT_SETTING_CONFIRM",
+    "value": "アイテム設定確認"
   },
   {
     "wordingKey": "WORD_GO_ANOTHER_VO_SHOP",
@@ -3849,7 +3925,7 @@
   },
   {
     "wordingKey": "WORD_HAIR_DETAIL_ACCESSORIES_TITLE",
-    "value": "同時に設定できないアクセサリ"
+    "value": "同時に設定できない専用アクセサリ"
   },
   {
     "wordingKey": "WORD_HAIR_DETAIL_MESSAGE_1",
@@ -3861,7 +3937,7 @@
   },
   {
     "wordingKey": "WORD_HAIR_DETAIL_MESSAGE_3",
-    "value": "・「<color=#3FD5C8>{0}</color>」は一部のアクセサリと同時に設定することができません。"
+    "value": "・「<color=#3FD5C8>{0}</color>」は一部の専用アクセサリと同時に設定することができません。"
   },
   {
     "wordingKey": "WORD_HATED_FOOD",
@@ -4164,6 +4240,10 @@
     "value": "ライブ"
   },
   {
+    "wordingKey": "WORD_LIVE_ADJUSTMENT",
+    "value": "ライブ調整"
+  },
+  {
     "wordingKey": "WORD_LIVE_BONUS_PRESENT",
     "value": "ライブボーナスプレゼント"
   },
@@ -4374,6 +4454,10 @@
   {
     "wordingKey": "WORD_MASTER_LESSON",
     "value": "マスタートレーニング"
+  },
+  {
+    "wordingKey": "WORD_MASTER_LESSON_LEVEL_MAX",
+    "value": "マスターランク\n上限"
   },
   {
     "wordingKey": "WORD_MASTER_LESSON_MATERIAL_EXCHANGE",
@@ -4772,6 +4856,18 @@
     "value": "最新シーズン"
   },
   {
+    "wordingKey": "WORD_NOW_SELECT",
+    "value": "今選択する"
+  },
+  {
+    "wordingKey": "WORD_NO_CHANGE1",
+    "value": "同グループのため"
+  },
+  {
+    "wordingKey": "WORD_NO_CHANGE2",
+    "value": "変動しません"
+  },
+  {
     "wordingKey": "WORD_NO_CHARGE",
     "value": "無償"
   },
@@ -5018,6 +5114,10 @@
   {
     "wordingKey": "WORD_PRACTICE_CONFIRM",
     "value": "練習"
+  },
+  {
+    "wordingKey": "WORD_PRACTICE_LEVEL_MAX",
+    "value": "レベル上限"
   },
   {
     "wordingKey": "WORD_PRACTICE_TICKET",
@@ -5508,6 +5608,10 @@
     "value": "色選択へ"
   },
   {
+    "wordingKey": "WORD_SELECT_LATER",
+    "value": "あとで選択する"
+  },
+  {
     "wordingKey": "WORD_SELECT_LIST",
     "value": "セレクトリスト"
   },
@@ -5656,6 +5760,10 @@
     "value": "年"
   },
   {
+    "wordingKey": "WORD_SHOW_PREVIEW_SETTING",
+    "value": "プレビューを見ながら調整"
+  },
+  {
     "wordingKey": "WORD_SIDE_STORY_NL",
     "value": "サイド\nストーリー"
   },
@@ -5678,6 +5786,10 @@
   {
     "wordingKey": "WORD_SKILL_LEVEL",
     "value": "スキルレベル"
+  },
+  {
+    "wordingKey": "WORD_SKILL_LEVEL_MAX",
+    "value": "スキルレベル\n上限"
   },
   {
     "wordingKey": "WORD_SKILL_LV",
@@ -5756,6 +5868,10 @@
     "value": "新着順"
   },
   {
+    "wordingKey": "WORD_SORT_NOT_AP",
+    "value": "未AP"
+  },
+  {
     "wordingKey": "WORD_SORT_ORDER",
     "value": "ソート順"
   },
@@ -5798,6 +5914,10 @@
   {
     "wordingKey": "WORD_SPECIAL_TRAINING_CONFIRM",
     "value": "特訓確認"
+  },
+  {
+    "wordingKey": "WORD_SPECIAL_TRAINING_LEVEL_MAX",
+    "value": "特訓済み"
   },
   {
     "wordingKey": "WORD_STAFF",
@@ -5982,6 +6102,14 @@
   {
     "wordingKey": "WORD_TIMING_ADJUSTMENT",
     "value": "タイミング調整"
+  },
+  {
+    "wordingKey": "WORD_TIMING_SETTING_DESCRIPTION",
+    "value": "判定ラインより上の場合は「＋」に、\n下の場合は「－」に調整してください。"
+  },
+  {
+    "wordingKey": "WORD_TIMING_SETTING_SOUND",
+    "value": "音に合わせてタップし、\nタイミングをあわせてください。"
   },
   {
     "wordingKey": "WORD_TITLE",

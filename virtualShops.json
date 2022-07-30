@@ -3348,5 +3348,41 @@
       }
     ],
     "virtualShopType": "birthday"
+  },
+  {
+    "id": 129,
+    "seq": 129,
+    "name": "第66回イベント物販",
+    "virtualShopItems": [
+      {
+        "id": 235,
+        "virtualShopId": 129,
+        "virtualShopItemType": "accessory",
+        "seq": 199920,
+        "resourceBoxId": 182,
+        "costVirtualCoin": 3000,
+        "costJewel": 1000,
+        "startAt": 1659247200000
+      }
+    ],
+    "virtualShopType": "event"
+  },
+  {
+    "id": 130,
+    "seq": 130,
+    "name": "一歌 BIRTHDAY",
+    "virtualShopItems": [
+      {
+        "id": 236,
+        "virtualShopId": 130,
+        "virtualShopItemType": "coordinate",
+        "seq": 99897,
+        "resourceBoxId": 117,
+        "costPaidJewel": 1000,
+        "startAt": 1660024800000,
+        "endAt": 1660283999000
+      }
+    ],
+    "virtualShopType": "birthday"
   }
 ]
