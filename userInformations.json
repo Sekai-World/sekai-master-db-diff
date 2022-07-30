@@ -315,7 +315,8 @@
     "platform": "all",
     "title": "【5月31日11時00分追記】「v2.0.5」アップデート以降に確認している不具合について",
     "path": "information/index.html?id=bug_fix_add_v2-0-5_20220428",
-    "startAt": 1653962400000
+    "startAt": 1653962400000,
+    "endAt": 1659146400000
   },
   {
     "id": 1748,
@@ -423,7 +424,8 @@
     "platform": "all",
     "title": "【7月5日15時00分追記】「ランクマッチ」にて確認している不具合について",
     "path": "information/index.html?id=bug_add11_rankmatch_season-pre_20220330",
-    "startAt": 1657000800000
+    "startAt": 1657000800000,
+    "endAt": 1659146400000
   },
   {
     "id": 1811,
@@ -553,7 +555,7 @@
   {
     "id": 1831,
     "seq": 1,
-    "displayOrder": 47360,
+    "displayOrder": 47355,
     "informationType": "normal",
     "informationTag": "gacha",
     "browseType": "internal",
@@ -654,6 +656,45 @@
     "startAt": 1657537200000
   },
   {
+    "id": 1845,
+    "seq": 1,
+    "displayOrder": 47380,
+    "informationType": "normal",
+    "informationTag": "music",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "「月光」バーチャル・シンガーver.追加のお知らせ",
+    "path": "information/index.html?id=info_add_music_virtualsinger_Moonlight_20220730",
+    "startAt": 1659146400000,
+    "endAt": 1659380400000
+  },
+  {
+    "id": 1846,
+    "seq": 1,
+    "displayOrder": 47390,
+    "informationType": "normal",
+    "informationTag": "music",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "「地球最後の告白を」アナザーボーカルver.追加のお知らせ",
+    "path": "information/index.html?id=info_music_EarthsLastConfession_another_20220730",
+    "startAt": 1659146400000,
+    "endAt": 1659380400000
+  },
+  {
+    "id": 1847,
+    "seq": 1,
+    "displayOrder": 47400,
+    "informationType": "normal",
+    "informationTag": "music",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "「どりーみんチュチュ」オリジナル2DMV追加のお知らせ",
+    "path": "information/index.html?id=info_add_2dmv_DreaminChuchu_20220730",
+    "startAt": 1659146400000,
+    "endAt": 1659380400000
+  },
+  {
     "id": 1857,
     "seq": 1,
     "displayOrder": 47150,
@@ -705,19 +746,6 @@
     "endAt": 1659279600000
   },
   {
-    "id": 1867,
-    "seq": 1,
-    "displayOrder": 47230,
-    "informationType": "normal",
-    "informationTag": "information",
-    "browseType": "internal",
-    "platform": "all",
-    "title": "7月23日25時よりWEBラジオ「25時、ナイトラジオで。#46」を配信！",
-    "path": "information/index.html?id=info_webradio-25_46_20220723",
-    "startAt": 1658458800000,
-    "endAt": 1659034800000
-  },
-  {
     "id": 1868,
     "seq": 1,
     "displayOrder": 47240,
@@ -730,19 +758,6 @@
     "startAt": 1658493000000
   },
   {
-    "id": 1873,
-    "seq": 1,
-    "displayOrder": 47280,
-    "informationType": "normal",
-    "informationTag": "update",
-    "browseType": "internal",
-    "platform": "all",
-    "title": "「v2.2.0」アップデートに伴う深夜メンテナンスのご案内",
-    "path": "information/index.html?id=info_update_maintenance_v2-2-0_notice_20220726",
-    "startAt": 1658827800000,
-    "endAt": 1659067200000
-  },
-  {
     "id": 1874,
     "seq": 1,
     "displayOrder": 47370,
@@ -752,7 +767,20 @@
     "platform": "all",
     "title": "【7月29日13時00分追記】「v2.2.0」アップデートに伴う深夜メンテナンスのご案内",
     "path": "information/index.html?id=info_add_update_maintenance_v2-2-0_20220726",
-    "startAt": 1659067200000
+    "startAt": 1659067200000,
+    "endAt": 1659146400000
+  },
+  {
+    "id": 1875,
+    "seq": 1,
+    "displayOrder": 23360,
+    "informationType": "bug",
+    "informationTag": "bug",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "「v2.2.0」アップデート以降に確認している不具合について",
+    "path": "information/index.html?id=bug_v2-2-0_20220729",
+    "startAt": 1659146400000
   },
   {
     "id": 1876,
@@ -805,19 +833,6 @@
     "endAt": 1659553200000
   },
   {
-    "id": 1881,
-    "seq": 1,
-    "displayOrder": 47340,
-    "informationType": "normal",
-    "informationTag": "information",
-    "browseType": "internal",
-    "platform": "all",
-    "title": "【重要】「App store connect」障害に伴う アップデート、メンテナンス、及びデータ更新の延期について",
-    "path": "information/index.html?id=info_incident_v2-0-0_announce_20220728",
-    "startAt": 1659007800000,
-    "endAt": 1659067200000
-  },
-  {
     "id": 1882,
     "seq": 1,
     "displayOrder": 47350,
@@ -828,6 +843,67 @@
     "title": "【7月29日13時00分追記】「App store connect」障害に伴う アップデート、メンテナンス、及びデータ更新の延期について",
     "path": "information/index.html?id=info_add_incident_v2-0-0_announce_20220728",
     "startAt": 1659067200000,
+    "endAt": 1659553200000
+  },
+  {
+    "id": 1884,
+    "seq": 1,
+    "displayOrder": 47360,
+    "informationType": "normal",
+    "informationTag": "information",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "【7月30日11時00分追記】「v2.2.0」アップデートに伴う深夜メンテナンスのご案内",
+    "path": "information/index.html?id=info_add2_update_maintenance_v2-2-0_20220726",
+    "startAt": 1659146400000
+  },
+  {
+    "id": 1885,
+    "seq": 1,
+    "displayOrder": 47370,
+    "informationType": "normal",
+    "informationTag": "information",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "「データ削除」機能についてのご注意",
+    "path": "information/index.html?id=info_delete-playerdata_20220730",
+    "startAt": 1659146400000
+  },
+  {
+    "id": 1886,
+    "seq": 1,
+    "displayOrder": 23340,
+    "informationType": "bug",
+    "informationTag": "bug",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "【7月30日11時00分追記】「v2.0.5」アップデート以降に確認している不具合について",
+    "path": "information/index.html?id=bug_fix_add2_v2-0-5_20220428",
+    "startAt": 1659146400000
+  },
+  {
+    "id": 1887,
+    "seq": 1,
+    "displayOrder": 23350,
+    "informationType": "bug",
+    "informationTag": "bug",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "【7月30日11時00分追記】「ランクマッチ」にて確認している不具合について",
+    "path": "information/index.html?id=bug_add12_rankmatch_season-pre_20220330",
+    "startAt": 1659146400000
+  },
+  {
+    "id": 1888,
+    "seq": 1,
+    "displayOrder": 23370,
+    "informationType": "bug",
+    "informationTag": "bug",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "7月30日11時00分ごろに修正したいくつかの不具合について",
+    "path": "information/index.html?id=bug_fix_something_20220730",
+    "startAt": 1659146400000,
     "endAt": 1659553200000
   }
 ]
