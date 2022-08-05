@@ -1,24 +1,35 @@
 [
   {
-    "homeBannerId": 456,
-    "seq": 110,
+    "homeBannerId": 462,
+    "seq": 90,
     "homeBannerType": "general",
-    "name": "[ガチャ]レオニ箱イベ9巡目_定常ガチャバナー",
-    "assetbundleName": "banner_gacha223",
+    "name": "[ガチャ]ハピネスパッケージガチャ",
+    "assetbundleName": "banner_gacha225",
     "transitionDestinationType": "gacha",
-    "transitionDestinationId": 223,
-    "startAt": 1658372400000,
-    "endAt": 1659236399000
+    "transitionDestinationId": 225,
+    "startAt": 1659150000000,
+    "endAt": 1659927599000
   },
   {
-    "homeBannerId": 457,
+    "homeBannerId": 463,
+    "seq": 110,
+    "homeBannerType": "general",
+    "name": "[ガチャ]シャッフルサイバーイベ9巡目_定常ガチャバナー",
+    "assetbundleName": "banner_gacha226",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 226,
+    "startAt": 1659236400000,
+    "endAt": 1660100399000
+  },
+  {
+    "homeBannerId": 464,
     "seq": 100,
     "homeBannerType": "event",
-    "name": "[イベント]レオニ箱イベ9巡目_イベントバナー",
-    "assetbundleName": "event_noseek_2022",
+    "name": "[イベント]シャッフルサイバーイベ9巡目_イベントバナー",
+    "assetbundleName": "event_cyber_2022",
     "transitionDestinationType": "event",
-    "transitionDestinationId": 65,
-    "startAt": 1658383200000,
-    "endAt": 1659247199000
+    "transitionDestinationId": 66,
+    "startAt": 1659247200000,
+    "endAt": 1660111199000
   }
 ]
