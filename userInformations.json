@@ -306,20 +306,6 @@
     "startAt": 1653361200000
   },
   {
-    "id": 1771,
-    "seq": 1,
-    "displayOrder": 46820,
-    "informationType": "normal",
-    "informationTag": "gacha",
-    "browseType": "internal",
-    "platform": "all",
-    "title": "「カラフルフェスティバルガチャ」開催！",
-    "path": "information/index.html?id=info_gacha218_held",
-    "startAt": 1656558000000,
-    "endAt": 1659582000000,
-    "bannerAssetbundleName": "banner_news_gacha218"
-  },
-  {
     "id": 1800,
     "seq": 1,
     "displayOrder": 46890,
@@ -468,19 +454,6 @@
     "startAt": 1657503000000
   },
   {
-    "id": 1840,
-    "seq": 1,
-    "displayOrder": 23300,
-    "informationType": "bug",
-    "informationTag": "bug",
-    "browseType": "internal",
-    "platform": "all",
-    "title": "【7月11日14時00分追記】7月11日緊急メンテナンスの実施について",
-    "path": "information/index.html?id=bug_fin_add_emergency_maintenance_20220711",
-    "startAt": 1657515600000,
-    "endAt": 1659553200000
-  },
-  {
     "id": 1841,
     "seq": 1,
     "displayOrder": 47035,
@@ -626,45 +599,6 @@
     "startAt": 1658998800000
   },
   {
-    "id": 1879,
-    "seq": 1,
-    "displayOrder": 47300,
-    "informationType": "normal",
-    "informationTag": "information",
-    "browseType": "internal",
-    "platform": "all",
-    "title": "7月29日よりラジオ番組「セカイ・ステーション #13」を配信！",
-    "path": "information/index.html?id=info_webradio-miku_13_20220728",
-    "startAt": 1658977200000,
-    "endAt": 1659553200000
-  },
-  {
-    "id": 1880,
-    "seq": 1,
-    "displayOrder": 23330,
-    "informationType": "bug",
-    "informationTag": "bug",
-    "browseType": "internal",
-    "platform": "all",
-    "title": "一時的に緊急メンテナンス状態となる不具合の発生について",
-    "path": "information/index.html?id=bug_maintenance_20220728",
-    "startAt": 1658985300000,
-    "endAt": 1659553200000
-  },
-  {
-    "id": 1882,
-    "seq": 1,
-    "displayOrder": 47350,
-    "informationType": "normal",
-    "informationTag": "information",
-    "browseType": "internal",
-    "platform": "all",
-    "title": "【7月29日13時00分追記】「App store connect」障害に伴う アップデート、メンテナンス、及びデータ更新の延期について",
-    "path": "information/index.html?id=info_add_incident_v2-0-0_announce_20220728",
-    "startAt": 1659067200000,
-    "endAt": 1659553200000
-  },
-  {
     "id": 1883,
     "seq": 1,
     "displayOrder": 47410,
@@ -768,6 +702,19 @@
     "endAt": 1659529800000
   },
   {
+    "id": 1893,
+    "seq": 1,
+    "displayOrder": 47480,
+    "informationType": "normal",
+    "informationTag": "information",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "7月31日「チアフルライブ」における機能メンテナンス実施のお知らせ",
+    "path": "information/index.html?id=info_part-maintenance_20220731",
+    "startAt": 1659257400000,
+    "endAt": 1659258600000
+  },
+  {
     "id": 1894,
     "seq": 1,
     "displayOrder": 47480,
@@ -778,6 +725,19 @@
     "title": "【7月31日18時10分追記】7月31日「チアフルライブ」における機能メンテナンス実施のお知らせ",
     "path": "information/index.html?id=info_fin_part-maintenance_20220731",
     "startAt": 1659258600000
+  },
+  {
+    "id": 1895,
+    "seq": 1,
+    "displayOrder": 23400,
+    "informationType": "bug",
+    "informationTag": "bug",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "【7月31日20時15分追記】「v2.2.0」アップデート以降に確認している不具合について",
+    "path": "information/index.html?id=bug_add_v2-2-0_20220729",
+    "startAt": 1659266100000,
+    "endAt": 1659349800000
   },
   {
     "id": 1896,
@@ -902,5 +862,44 @@
     "title": "【8月3日21時30分追記】「チアフルライブ」でルームが解散されてしまう不具合について",
     "path": "information/index.html?id=bug_add2_cheerfullive_20220731",
     "startAt": 1659529800000
+  },
+  {
+    "id": 1937,
+    "seq": 1,
+    "displayOrder": 47590,
+    "informationType": "normal",
+    "informationTag": "information",
+    "browseType": "internal",
+    "platform": "iOS",
+    "title": "各キャリアにて「キャリア決済キャンペーン」開催！",
+    "path": "information/index.html?id=info_campaign-carrier_iOS_20220805",
+    "startAt": 1659668400000,
+    "endAt": 1662390000000
+  },
+  {
+    "id": 1938,
+    "seq": 1,
+    "displayOrder": 47590,
+    "informationType": "normal",
+    "informationTag": "information",
+    "browseType": "internal",
+    "platform": "Android",
+    "title": "各キャリアにて「キャリア決済キャンペーン」開催！",
+    "path": "information/index.html?id=info_campaign-carrier_Android_20220805",
+    "startAt": 1659668400000,
+    "endAt": 1662390000000
+  },
+  {
+    "id": 1939,
+    "seq": 1,
+    "displayOrder": 47580,
+    "informationType": "normal",
+    "informationTag": "information",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "8月6日25時よりWEBラジオ「25時、ナイトラジオで。#47」を配信！",
+    "path": "information/index.html?id=info_webradio-25_47_20220805",
+    "startAt": 1659668400000,
+    "endAt": 1660244400000
   }
 ]
