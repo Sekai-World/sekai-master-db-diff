@@ -442,18 +442,6 @@
     "bannerAssetbundleName": "content_banner_2nd-ANNIVERSARY_Thanks-Festival"
   },
   {
-    "id": 1836,
-    "seq": 1,
-    "displayOrder": 46970,
-    "informationType": "normal",
-    "informationTag": "information",
-    "browseType": "internal",
-    "platform": "all",
-    "title": "【重要】【再掲】ランクマッチにおける注意点について",
-    "path": "information/index.html?id=info_re_bug_rankmatch_20220630",
-    "startAt": 1657503000000
-  },
-  {
     "id": 1841,
     "seq": 1,
     "displayOrder": 47035,
@@ -672,20 +660,8 @@
     "platform": "all",
     "title": "【7月31日18時10分追記】7月31日「チアフルライブ」における機能メンテナンス実施のお知らせ",
     "path": "information/index.html?id=info_fin_part-maintenance_20220731",
-    "startAt": 1659258600000
-  },
-  {
-    "id": 1896,
-    "seq": 1,
-    "displayOrder": 23420,
-    "informationType": "bug",
-    "informationTag": "bug",
-    "browseType": "internal",
-    "platform": "all",
-    "title": "【8月1日19時30分追記】「v2.2.0」アップデート以降に確認している不具合について",
-    "path": "information/index.html?id=bug_add2_v2-2-0_20220729",
-    "startAt": 1659349800000,
-    "endAt": 1659529800000
+    "startAt": 1659258600000,
+    "endAt": 1660935600000
   },
   {
     "id": 1898,
@@ -738,19 +714,6 @@
     "endAt": 1659985200000
   },
   {
-    "id": 1915,
-    "seq": 1,
-    "displayOrder": 23450,
-    "informationType": "bug",
-    "informationTag": "bug",
-    "browseType": "internal",
-    "platform": "all",
-    "title": "【8月3日21時30分追記】「v2.2.0」アップデート以降に確認している不具合について",
-    "path": "information/index.html?id=bug_add3_v2-2-0_20220729",
-    "startAt": 1659529800000,
-    "endAt": 1659681000000
-  },
-  {
     "id": 1916,
     "seq": 1,
     "displayOrder": 47570,
@@ -760,7 +723,8 @@
     "platform": "all",
     "title": "「チアフルライブ」の同グループのマッチングにおけるスキル・ボーナススコアの不具合に関するご案内",
     "path": "information/index.html?id=bug_cheerfullive-matching_v2-2-0_20220802",
-    "startAt": 1659529800000
+    "startAt": 1659529800000,
+    "endAt": 1659747600000
   },
   {
     "id": 1917,
@@ -785,7 +749,8 @@
     "platform": "all",
     "title": "【8月3日21時30分追記】「チアフルライブ」でルームが解散されてしまう不具合について",
     "path": "information/index.html?id=bug_add2_cheerfullive_20220731",
-    "startAt": 1659529800000
+    "startAt": 1659529800000,
+    "endAt": 1659747600000
   },
   {
     "id": 1937,
@@ -836,7 +801,20 @@
     "platform": "all",
     "title": "「v2.2.1」アップデートに伴うメンテナンスのご案内",
     "path": "information/index.html?id=info_notice_update_maintenance_v2-2-1_20220806",
-    "startAt": 1659681000000
+    "startAt": 1659681000000,
+    "endAt": 1659747600000
+  },
+  {
+    "id": 1941,
+    "seq": 1,
+    "displayOrder": 47610,
+    "informationType": "normal",
+    "informationTag": "update",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "【8月6日10時00分追記】「v2.2.1」アップデートに伴うメンテナンスのご案内",
+    "path": "information/index.html?id=info_fin_update_maintenance_v2-2-1_20220806",
+    "startAt": 1659747600000
   },
   {
     "id": 1942,
@@ -848,6 +826,45 @@
     "platform": "all",
     "title": "【8月5日15時30分追記】「v2.2.0」アップデート以降に確認している不具合について",
     "path": "information/index.html?id=bug_add4_v2-2-0_20220729",
-    "startAt": 1659681000000
+    "startAt": 1659681000000,
+    "endAt": 1659747600000
+  },
+  {
+    "id": 1943,
+    "seq": 1,
+    "displayOrder": 23480,
+    "informationType": "bug",
+    "informationTag": "bug",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "【8月6日10時00分追記】「v2.2.0」アップデート以降に確認している不具合について",
+    "path": "information/index.html?id=bug_add5_v2-2-0_20220729",
+    "startAt": 1659747600000
+  },
+  {
+    "id": 1944,
+    "seq": 1,
+    "displayOrder": 23470,
+    "informationType": "bug",
+    "informationTag": "bug",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "【8月6日10時00分追記】「チアフルライブ」でルームが解散されてしまう不具合について",
+    "path": "information/index.html?id=bug_fin_add2_cheerfullive_20220731",
+    "startAt": 1659747600000,
+    "endAt": 1660935600000
+  },
+  {
+    "id": 1945,
+    "seq": 1,
+    "displayOrder": 47605,
+    "informationType": "normal",
+    "informationTag": "information",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "【8月6日10時00分追記】「チアフルライブ」の同グループのマッチングにおけるスキル・ボーナススコアの不具合に関するご案内",
+    "path": "information/index.html?id=bug_fin_cheerfullive-matching_v2-2-0_20220802",
+    "startAt": 1659747600000,
+    "endAt": 1660935600000
   }
 ]
