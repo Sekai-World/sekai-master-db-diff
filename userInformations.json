@@ -539,7 +539,8 @@
     "platform": "all",
     "title": "メンテナンス中に発生した「データ破損」の誤表示がされてしまう不具合と今後の対応、お詫びについて",
     "path": "information/index.html?id=bug_fix_maintenance_error_20220730",
-    "startAt": 1659149100000
+    "startAt": 1659149100000,
+    "endAt": 1661482800000
   },
   {
     "id": 1901,
@@ -563,7 +564,8 @@
     "platform": "all",
     "title": "一部ライブ衣装の解放済みカラーの共通アクセサリが、共通アクセサリ補てんにて受け取れていない不具合について",
     "path": "information/index.html?id=bug_fix_accessory_20220801",
-    "startAt": 1659357900000
+    "startAt": 1659357900000,
+    "endAt": 1661482800000
   },
   {
     "id": 1908,
@@ -649,19 +651,6 @@
     "bannerAssetbundleName": "banner_news_event68"
   },
   {
-    "id": 1925,
-    "seq": 1,
-    "displayOrder": 47890,
-    "informationType": "normal",
-    "informationTag": "music",
-    "browseType": "internal",
-    "platform": "all",
-    "title": "楽曲「YY」追加！",
-    "path": "information/index.html?id=info_music_YY_20220822",
-    "startAt": 1661148000000,
-    "endAt": 1661367600000
-  },
-  {
     "id": 1926,
     "seq": 1,
     "displayOrder": 47910,
@@ -674,20 +663,6 @@
     "startAt": 1661223600000,
     "endAt": 1661864400000,
     "bannerAssetbundleName": "banner_livebroadcast_notice_Kge12FEd"
-  },
-  {
-    "id": 1927,
-    "seq": 1,
-    "displayOrder": 47920,
-    "informationType": "normal",
-    "informationTag": "gacha",
-    "browseType": "internal",
-    "platform": "all",
-    "title": "予告、「セレクトリストガチャ」開催について",
-    "path": "information/index.html?id=info_gacha231_notice",
-    "startAt": 1661310000000,
-    "endAt": 1661396400000,
-    "bannerAssetbundleName": "banner_news_gacha231"
   },
   {
     "id": 1928,
@@ -803,7 +778,8 @@
     "platform": "all",
     "title": "【8月8日23時30分追記】「close game/OFFLINE アフターライブ」開始後、 待合エリア・バーチャルライブに入場できないことがある事象について",
     "path": "information/index.html?id=bug_fix_error_matching_afterlive_20220808",
-    "startAt": 1659969000000
+    "startAt": 1659969000000,
+    "endAt": 1660503600000
   },
   {
     "id": 1951,
@@ -946,5 +922,41 @@
     "path": "information/index.html?id=info_webradio-miku_15_20220825",
     "startAt": 1661396400000,
     "endAt": 1661972400000
+  },
+  {
+    "id": 1979,
+    "seq": 1,
+    "displayOrder": 47980,
+    "informationType": "normal",
+    "informationTag": "information",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "8月29日メンテナンス実施のお知らせ",
+    "path": "information/index.html?id=info_notice_maintenance_20220829",
+    "startAt": 1661482800000
+  },
+  {
+    "id": 1981,
+    "seq": 1,
+    "displayOrder": 23530,
+    "informationType": "bug",
+    "informationTag": "bug",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "【8月26日12時00分追記】メンテナンス中に発生した「データ破損」の誤表示がされてしまう不具合と今後の対応、お詫びについて",
+    "path": "information/index.html?id=bug_add_fix_maintenance_error_20220730",
+    "startAt": 1661482800000
+  },
+  {
+    "id": 1982,
+    "seq": 1,
+    "displayOrder": 23530,
+    "informationType": "bug",
+    "informationTag": "bug",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "【8月26日12時00分追記】一部ライブ衣装の解放済みカラーの共通アクセサリが、共通アクセサリ補てんにて受け取れていない不具合について",
+    "path": "information/index.html?id=bug_add_fix_accessory_20220801",
+    "startAt": 1661482800000
   }
 ]
