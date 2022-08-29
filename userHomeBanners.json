@@ -1,16 +1,5 @@
 [
   {
-    "homeBannerId": 471,
-    "seq": 110,
-    "homeBannerType": "general",
-    "name": "[ガチャ]ニーゴ箱イベ10巡目_定常ガチャバナー",
-    "assetbundleName": "banner_gacha230",
-    "transitionDestinationType": "gacha",
-    "transitionDestinationId": 230,
-    "startAt": 1660964400000,
-    "endAt": 1661785199000
-  },
-  {
     "homeBannerId": 472,
     "seq": 100,
     "homeBannerType": "event",
@@ -42,5 +31,16 @@
     "transitionDestinationId": 169,
     "startAt": 1661752800000,
     "endAt": 1661871599000
+  },
+  {
+    "homeBannerId": 480,
+    "seq": 5,
+    "homeBannerType": "general",
+    "name": "コネクトライブ テクニカルテスト",
+    "assetbundleName": "banner_virtuallive170",
+    "transitionDestinationType": "virtual_live",
+    "transitionDestinationId": 170,
+    "startAt": 1661785200000,
+    "endAt": 1661831999000
   }
 ]
