@@ -1,16 +1,5 @@
 [
   {
-    "homeBannerId": 470,
-    "seq": 120,
-    "homeBannerType": "general",
-    "name": "[ガチャ]ガチャ_復刻ガチャバナー",
-    "assetbundleName": "banner_gacha229",
-    "transitionDestinationType": "gacha",
-    "transitionDestinationId": 229,
-    "startAt": 1660359600000,
-    "endAt": 1661137199000
-  },
-  {
     "homeBannerId": 471,
     "seq": 110,
     "homeBannerType": "general",
@@ -31,5 +20,27 @@
     "transitionDestinationId": 68,
     "startAt": 1660975200000,
     "endAt": 1661925599000
+  },
+  {
+    "homeBannerId": 474,
+    "seq": 90,
+    "homeBannerType": "general",
+    "name": "セレクトリストガチャバナー",
+    "assetbundleName": "banner_gacha231",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 231,
+    "startAt": 1661396400000,
+    "endAt": 1662346799000
+  },
+  {
+    "homeBannerId": 478,
+    "seq": 160,
+    "homeBannerType": "general",
+    "name": "[初音ミク]HAPPY ANNIVERSARYライブ",
+    "assetbundleName": "banner_virtuallive169",
+    "transitionDestinationType": "virtual_live",
+    "transitionDestinationId": 169,
+    "startAt": 1661752800000,
+    "endAt": 1661871599000
   }
 ]
