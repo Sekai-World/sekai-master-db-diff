@@ -705,7 +705,7 @@
   },
   {
     "configKey": "redis_lock_expire",
-    "value": "8000"
+    "value": "16000"
   },
   {
     "configKey": "redis_lock_sleep",
@@ -713,7 +713,7 @@
   },
   {
     "configKey": "redis_lock_timeout",
-    "value": "4000"
+    "value": "8000"
   },
   {
     "configKey": "debug_auth_disable",

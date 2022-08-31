@@ -3475,5 +3475,40 @@
       }
     ],
     "virtualShopType": "virtual_live_ticket"
+  },
+  {
+    "id": 136,
+    "seq": 136,
+    "name": "第69回イベント物販",
+    "virtualShopItems": [
+      {
+        "id": 242,
+        "virtualShopId": 136,
+        "virtualShopItemType": "penlight",
+        "seq": 199917,
+        "resourceBoxId": 186,
+        "costPaidJewel": 1000,
+        "startAt": 1661925600000
+      }
+    ],
+    "virtualShopType": "event"
+  },
+  {
+    "id": 137,
+    "seq": 137,
+    "name": "えむ BIRTHDAY",
+    "virtualShopItems": [
+      {
+        "id": 243,
+        "virtualShopId": 137,
+        "virtualShopItemType": "coordinate",
+        "seq": 99894,
+        "resourceBoxId": 123,
+        "costPaidJewel": 1000,
+        "startAt": 1662530400000,
+        "endAt": 1662789599000
+      }
+    ],
+    "virtualShopType": "birthday"
   }
 ]
