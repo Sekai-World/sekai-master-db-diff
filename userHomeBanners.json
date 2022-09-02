@@ -1,16 +1,5 @@
 [
   {
-    "homeBannerId": 472,
-    "seq": 100,
-    "homeBannerType": "event",
-    "name": "[イベント]ニーゴ箱イベ10巡目_イベントバナー",
-    "assetbundleName": "event_ribbon_2022",
-    "transitionDestinationType": "event",
-    "transitionDestinationId": 68,
-    "startAt": 1660975200000,
-    "endAt": 1661925599000
-  },
-  {
     "homeBannerId": 474,
     "seq": 90,
     "homeBannerType": "general",
@@ -22,14 +11,25 @@
     "endAt": 1662346799000
   },
   {
-    "homeBannerId": 479,
-    "seq": 130,
+    "homeBannerId": 481,
+    "seq": 110,
     "homeBannerType": "general",
-    "name": "[初音ミク]HAPPY ANNIVERSARYガチャ",
-    "assetbundleName": "banner_gacha233",
+    "name": "[ガチャ]レオニ箱イベ10巡目_定常ガチャバナー",
+    "assetbundleName": "banner_gacha234",
     "transitionDestinationType": "gacha",
-    "transitionDestinationId": 233,
-    "startAt": 1661871600000,
-    "endAt": 1661957999000
+    "transitionDestinationId": 234,
+    "startAt": 1661914800000,
+    "endAt": 1662692399000
+  },
+  {
+    "homeBannerId": 482,
+    "seq": 100,
+    "homeBannerType": "event",
+    "name": "[イベント]レオニ箱イベ10巡目_イベントバナー",
+    "assetbundleName": "event_faith_2022",
+    "transitionDestinationType": "event",
+    "transitionDestinationId": 69,
+    "startAt": 1661925600000,
+    "endAt": 1662703199000
   }
 ]
