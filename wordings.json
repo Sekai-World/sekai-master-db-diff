@@ -5,7 +5,7 @@
   },
   {
     "wordingKey": "CONNECT_LIVE_TICKET_COUNT_OVERFLOW_WARN_MESSAGE",
-    "value": "公演回数をオーバーしてチケットを\n交換しようとしています。\n余ったチケットは使用できず、\n別公演での使用・返金もできません。\n\nよろしいですか？"
+    "value": "公演チケット購入数が本コネクトライブの公演数を超過します。\n※余った公演チケットは、別のコネクトライブの公演で\n使用できないほか、払い戻し・キャンセル・返金などの\n対象外となります。\n\n公演チケットを購入しますか？"
   },
   {
     "wordingKey": "CONNECT_LIVE_TICKET_EXCHANGE_BTN_BALLOON_LABEL_FORMAT",
@@ -17,7 +17,7 @@
   },
   {
     "wordingKey": "CONNECT_LIVE_TICKET_EXCHANGE_BUTTON_LABEL",
-    "value": "交換"
+    "value": "購入"
   },
   {
     "wordingKey": "DIALOG_MESSAGE_VIRTUAL_SHOP_TIME_OVER",
@@ -125,7 +125,7 @@
   },
   {
     "wordingKey": "MSG_ADMISSION_LIMIT_PAID_FOR_CONNECT_LIVE",
-    "value": "「お試し入場」での視聴可能範囲が過ぎました。\n公演の続きを見る場合は、チケットを交換してください。"
+    "value": "「お試し入場」での視聴可能範囲が過ぎました。\n公演の続きを見る場合は、チケットを購入してください。"
   },
   {
     "wordingKey": "MSG_ALBUM_PERMISSION_NOT_GRANTED",
@@ -364,16 +364,40 @@
     "value": "カラフルパスの有効期限が過ぎています。\n新しく購入しますか？"
   },
   {
-    "wordingKey": "MSG_COMPLETE_COPY_PLAYER_ID",
-    "value": "プレイヤーID {0} をコピーしました"
+    "wordingKey": "MSG_COLORFUL_SELECT_GACHA_BALLOON",
+    "value": "まずはメンバーを選ぼう！"
   },
   {
-    "wordingKey": "MSG_COMPLETE_COPY_PLAYER_ID_TITLE",
-    "value": "プレイヤーIDコピー完了"
+    "wordingKey": "MSG_COLORFUL_SELECT_GACHA_LIST_RATE_NOTICE",
+    "value": "・★4メンバーの確率はピックアップリストに全て選択した際の確率を表記しております。そのため合計が100%にならない場合がございます。\n・ピックアップリストに選択されると「★★★★メンバー」の一覧から「★★★★ピックアップメンバー」の一覧に移動します。"
+  },
+  {
+    "wordingKey": "MSG_COLORFUL_SELECT_GACHA_RATE_NOTICE",
+    "value": "★4の確率は、ピックアップリストに全て選択した際の確率を表記しております。そのため合計が100%にならない場合がございます。"
+  },
+  {
+    "wordingKey": "MSG_COLORFUL_SELECT_GACHA_SELECTED_RATE_NOTICE",
+    "value": "ピックアップリストで選択されたメンバーが、ピックアップ確率で登場します。"
+  },
+  {
+    "wordingKey": "MSG_COLORFUL_SELECT_LIST",
+    "value": "好きなメンバーを下から{0}人選んでください"
+  },
+  {
+    "wordingKey": "MSG_COLORFUL_SELECT_LIST_CONFIRM",
+    "value": "未設定のメンバー枠があります。\nリストに{0}人設定するまで、カラフルフェスティバルガチャ ドリームピックを\n引くことができません。\n空いている枠にメンバーをおまかせで設定しますか？"
+  },
+  {
+    "wordingKey": "MSG_COLORFUL_SELECT_LIST_CONFIRM_TIPS",
+    "value": "※ピックアップリストは、\nガチャを引くまで何度でも変更できます。"
   },
   {
     "wordingKey": "MSG_CONDITION_GET_CARD",
     "value": "「[{0}] {1}」を入手"
+  },
+  {
+    "wordingKey": "MSG_CONDITION_TRAINING_CARD",
+    "value": "「[{0}] {1}」を特訓"
   },
   {
     "wordingKey": "MSG_CONFIRM_DATA_LINK",
@@ -389,7 +413,7 @@
   },
   {
     "wordingKey": "MSG_CONFIRM_STREAMING_LIVE_ENTER_WITHOUT_TICKET",
-    "value": "ライブチケットを持っていないため\n「お試し入場」となります。\nよろしいですか？"
+    "value": "公演チケットを持っていないため\n「お試し入場」となります。\nよろしいですか？"
   },
   {
     "wordingKey": "MSG_CONFIRM_TO_RE_ENTER_STREAMING_LIVE",
@@ -612,6 +636,10 @@
     "value": "{0}を\n<color=#ff5588>{1}枚</color>消費して入場します。\nよろしいですか？"
   },
   {
+    "wordingKey": "MSG_ENTER_STREAMING_LIVE_WITH_TICKET_ONLY_DIALOG",
+    "value": "{0}を\n<color=#ff5588>{1}枚</color>消費して入場します。\nよろしいですか？"
+  },
+  {
     "wordingKey": "MSG_ENTRY_CONFIRMATION",
     "value": "このライブには参加したことがあるため、\n参加報酬はもらえません。\nまた、応援Pや関連ミッションもカウントされません。\n\nバーチャルライブに参加しますか？"
   },
@@ -665,7 +693,7 @@
   },
   {
     "wordingKey": "MSG_EXCHANGED_LIVE_TICKET",
-    "value": "{0}と交換しました。"
+    "value": "{0}を購入しました。"
   },
   {
     "wordingKey": "MSG_EXCHANGE_ERROR",
@@ -1284,6 +1312,18 @@
     "value": "Vo. {0}"
   },
   {
+    "wordingKey": "MSG_MV_DELETE_TOTAL_SIZE",
+    "value": "データ容量が<color=#ff5599>{0}MB</color>削減されます。"
+  },
+  {
+    "wordingKey": "MSG_MV_SAVE_SIZE_SETTING_CONFIRM",
+    "value": "MVデータ数の上限を以下の通り設定しますか？"
+  },
+  {
+    "wordingKey": "MSG_MV_SAVE_SIZE_SETTING_EXPLANATION",
+    "value": "端末に保存するMVデータ数を減らすことで容量を削減できます。\n設定した上限を超えたMVデータは古い順に削除され、プレイ時に再ダウンロードされます。"
+  },
+  {
     "wordingKey": "MSG_NAME_INPUT",
     "value": "名前を10文字以内で入力してください。"
   },
@@ -1294,6 +1334,10 @@
   {
     "wordingKey": "MSG_NEAR_RANKING",
     "value": "近くの順位"
+  },
+  {
+    "wordingKey": "MSG_NEED_COLORFUL_SELECT_LIST_SETTING",
+    "value": "ガチャを引くにはピックアップリストの設定が必要です。\n\n<color=#ff5599>※すべてのメンバー枠を設定する必要があります。</color>"
   },
   {
     "wordingKey": "MSG_NEED_SELECT_LIST_SETTING",
@@ -1393,7 +1437,7 @@
   },
   {
     "wordingKey": "MSG_NOT_ENOUGH_CURRENCY_FOR_VIRTUAL_LIVE_TICKET",
-    "value": "{0}の入場に必要なチケットを交換するためのクリスタルが不足しています。"
+    "value": "{0}の入場に必要なチケットを購入するためのクリスタルが不足しています。"
   },
   {
     "wordingKey": "MSG_NOT_ENOUGH_JEWEL",
@@ -1749,7 +1793,7 @@
   },
   {
     "wordingKey": "MSG_SALE_COSTUME_SHOP",
-    "value": "エリア「ショッピングモール」の \n衣装ショップで製作できます。"
+    "value": "エリア「ショッピングモール」の \n衣装ショップで製作"
   },
   {
     "wordingKey": "MSG_SELECT_ACTION_FROM_BELOW",
@@ -1764,8 +1808,16 @@
     "value": "好きなメンバーを下から10人選んでください"
   },
   {
+    "wordingKey": "MSG_SELECT_LIVE_ENTER",
+    "value": "入場方法を選んでください。"
+  },
+  {
     "wordingKey": "MSG_SELECT_ONE_GIFT",
     "value": "ガチャを引いたあとに受け取るアイテムを\n1つ設定してください。"
+  },
+  {
+    "wordingKey": "MSG_SELECT_USE_TICKET_ENTER",
+    "value": "公演チケットを利用して入場"
   },
   {
     "wordingKey": "MSG_SEND_WAIT_ROOM",
@@ -1920,6 +1972,54 @@
     "value": "特訓可能なメンバーはいません。"
   },
   {
+    "wordingKey": "MSG_STAMP_CARD_BACK_SCREEN_WARNING",
+    "value": "スタンプカードの設定が完了していません。\nスタンプミッションはスタンプカードを3枚選択し、\n「ミッションスタート」することで開始できます。\nスタンプカードをあとで設定しますか？\n\n<color=#ff5588>※スタンプカードは「ミッションスタート」するまで\n何度でも変更できます。</color>"
+  },
+  {
+    "wordingKey": "MSG_STAMP_CARD_CHOOSE_TO_REQUEST",
+    "value": "カードを{0}枚選んでください"
+  },
+  {
+    "wordingKey": "MSG_STAMP_CARD_COUNT_PAGES_CHOOSE_TO_REQUEST",
+    "value": "カードをあと{0}枚選んでください"
+  },
+  {
+    "wordingKey": "MSG_STAMP_CARD_SELECT_CARD_CONFIRM",
+    "value": "{0}\nを選択します。よろしいですか？"
+  },
+  {
+    "wordingKey": "MSG_STAMP_CARD_SELECT_CONFIRM",
+    "value": "挑戦するスタンプカードを決定します。\nよろしいですか？"
+  },
+  {
+    "wordingKey": "MSG_STAMP_CARD_SELECT_CONFIRM_WARNING",
+    "value": "<color=#ff5588>※決定後はスタンプカードを変更することができません。</color>"
+  },
+  {
+    "wordingKey": "MSG_STAMP_CARD_SELECT_SELECTED",
+    "value": "このカードは選択済みです"
+  },
+  {
+    "wordingKey": "MSG_STAMP_CARD_SELECT_SELECT_LIMIT",
+    "value": "このカテゴリは上限に達しています"
+  },
+  {
+    "wordingKey": "MSG_STAMP_CARD_SELECT_SELECT_WARNING",
+    "value": "このカテゴリではあと{0}枚選べます"
+  },
+  {
+    "wordingKey": "MSG_STAMP_CARD_WARNING_TITLE",
+    "value": "スタンプカード未設定"
+  },
+  {
+    "wordingKey": "MSG_STAMP_MISSION_EVENT_END",
+    "value": "[2周年記念]アニバーサリースタンプミッションは\n開催期間が終了しています。\nホームに戻ります。"
+  },
+  {
+    "wordingKey": "MSG_STAMP_MISSION_INTERNET_NOT_REACHABLE",
+    "value": "ネットワークに接続できません。\n接続状況を確認してください。"
+  },
+  {
     "wordingKey": "MSG_STAMP_SETTING",
     "value": "お気に入りに設定したいスタンプを下から選んでください"
   },
@@ -1953,7 +2053,7 @@
   },
   {
     "wordingKey": "MSG_STREAMING_LIVE_PROMOTE_TO_BUY",
-    "value": "※ライブチケット は待合エリアの\n「チケットショップ」にて交換できます。"
+    "value": "※公演チケット は待合エリアの\n「チケットショップ」にて購入できます。"
   },
   {
     "wordingKey": "MSG_STREAMING_LIVE_READY",
@@ -1986,6 +2086,10 @@
   {
     "wordingKey": "MSG_TO_BE_HELD_SOON",
     "value": "まもなく開演！"
+  },
+  {
+    "wordingKey": "MSG_TO_GACHA_TOP_BUTTON",
+    "value": "ガチャTOPへ戻る"
   },
   {
     "wordingKey": "MSG_TO_TITLE",
@@ -2137,6 +2241,10 @@
   },
   {
     "wordingKey": "MSG_WARN_ENTER_STREAMING_LIVE_WITH_TICKET_DIALOG",
+    "value": "※公演チケットを利用して入場すると本公演に限り、\n自由に再入場できます。\n\n※お試し入場の場合、観覧はライブの序盤までとなります。"
+  },
+  {
+    "wordingKey": "MSG_WARN_ENTER_STREAMING_LIVE_WITH_TICKET_ONLY_DIALOG",
     "value": "※本公演に限り、自由に再入場できます。"
   },
   {
@@ -2164,6 +2272,10 @@
     "value": "ライブ衣装の変更が完了しました。"
   },
   {
+    "wordingKey": "MSG_WISH_LIST_BACK_GACHA_TOP_CONFIRM",
+    "value": "<color=#ff5588>※設定途中のリストは保存されません。</color>"
+  },
+  {
     "wordingKey": "MSG_WISH_LIST_CONFIRM",
     "value": "未設定のメンバー枠があります。\nリストに10人設定するまで、セレクトリストガチャを\n引くことができません。\n空いている枠にメンバーをおまかせで設定しますか？"
   },
@@ -2174,6 +2286,34 @@
   {
     "wordingKey": "MSG_WISH_LIST_GACHA_RATE_NOTICE",
     "value": "セレクトリストで選択されたメンバーが、提供される★4メンバーとして登場します。"
+  },
+  {
+    "wordingKey": "MSG_WISH_LIST_SELECT_END_CONFIRM",
+    "value": "メンバーを設定します。よろしいですか？"
+  },
+  {
+    "wordingKey": "MSG_WISH_LIST_SELECT_END_MEMBER_DUPLICATE_CONFIRM",
+    "value": "<color=#ff5588>※獲得済みのメンバーが設定されています。</color>"
+  },
+  {
+    "wordingKey": "MSG_WISH_LIST_SELECT_MEMBER_CONFIRM_TITLE",
+    "value": "ピックアップメンバー確認"
+  },
+  {
+    "wordingKey": "MSG_WISH_LIST_SELECT_MEMBER_NOT_CHANGE_ALERT",
+    "value": "<color=#ff5588>※設定後はリストのメンバーを変更することができません。</color>"
+  },
+  {
+    "wordingKey": "MSG_WISH_LIST_SELECT_MEMBER_UNDECID_CONFIRM",
+    "value": "メンバーが未決定です。\nリストに全員設定するまで、\nカラフルフェスティバルガチャ ドリームピック\nを引くことができません。\nピックアップリストをあとで設定しますか？"
+  },
+  {
+    "wordingKey": "MSG_WISH_LIST_SELECT_MEMBER_UNDECID_CONFIRM_TITLE",
+    "value": "ピックアップメンバー未決定"
+  },
+  {
+    "wordingKey": "MSG_WISH_LIST_SELECT_NORMAL_MOMBER_CONFIRM",
+    "value": "スペシャル枠に恒常メンバーが選択されています。\nよろしいですか？"
   },
   {
     "wordingKey": "MSG_WISH_ONCE_LIMITED",
@@ -2209,7 +2349,7 @@
   },
   {
     "wordingKey": "TITLE_CONNECT_LIVE_TICKET_EXCHANGE_COMPLETE_DIALOG",
-    "value": "交換完了"
+    "value": "購入完了"
   },
   {
     "wordingKey": "TITLE_CONNECT_LIVE_TICKET_OVERFLOW_WARN_DIALOG",
@@ -2248,6 +2388,10 @@
     "value": "交換数"
   },
   {
+    "wordingKey": "WORD_10_SONGS",
+    "value": "10曲"
+  },
+  {
     "wordingKey": "WORD_2D",
     "value": "軽量"
   },
@@ -2262,6 +2406,10 @@
   {
     "wordingKey": "WORD_2D_MV",
     "value": "2DMV"
+  },
+  {
+    "wordingKey": "WORD_30_SONGS",
+    "value": "30曲"
   },
   {
     "wordingKey": "WORD_3DMV_NL",
@@ -2288,6 +2436,10 @@
     "value": "3D\n標準"
   },
   {
+    "wordingKey": "WORD_50_SONGS",
+    "value": "50曲"
+  },
+  {
     "wordingKey": "WORD_ABORT",
     "value": "リタイア"
   },
@@ -2310,6 +2462,10 @@
   {
     "wordingKey": "WORD_ACHIEVED",
     "value": "達成済み"
+  },
+  {
+    "wordingKey": "WORD_ACHIEVED_MISSION_COUNT",
+    "value": "達成済み {0}件"
   },
   {
     "wordingKey": "WORD_ACHIEVEMENT",
@@ -2376,6 +2532,10 @@
     "value": "ALL PERFECT"
   },
   {
+    "wordingKey": "WORD_ALL_SAVE",
+    "value": "すべて保存"
+  },
+  {
     "wordingKey": "WORD_ALPHABETICAL_ORDER",
     "value": "50音順"
   },
@@ -2390,6 +2550,10 @@
   {
     "wordingKey": "WORD_ALREADY_DOWNLOADED",
     "value": "DL済み"
+  },
+  {
+    "wordingKey": "WORD_AM_TIME",
+    "value": "「00:00 ～ 11:59」"
   },
   {
     "wordingKey": "WORD_ANDROID_RATING_TITLE",
@@ -2413,6 +2577,10 @@
   },
   {
     "wordingKey": "WORD_ANOTHER_VOCAL_FILTER",
+    "value": "アナザーボーカル絞り込み"
+  },
+  {
+    "wordingKey": "WORD_ANOTHER_VOCAL_LIST_FILTER",
     "value": "アナザーボーカル絞り込み"
   },
   {
@@ -2470,6 +2638,10 @@
   {
     "wordingKey": "WORD_AREA_SHOP",
     "value": "ショップ"
+  },
+  {
+    "wordingKey": "WORD_AREA_TALK_LIST_FILTER",
+    "value": "エリア会話絞り込み"
   },
   {
     "wordingKey": "WORD_AROUND_DATE_TIME",
@@ -2664,6 +2836,10 @@
     "value": "中断"
   },
   {
+    "wordingKey": "WORD_BROWSED",
+    "value": "閲覧済み"
+  },
+  {
     "wordingKey": "WORD_BUG",
     "value": "不具合"
   },
@@ -2684,8 +2860,16 @@
     "value": "キャンセル"
   },
   {
+    "wordingKey": "WORD_CAPACITY_SETTING",
+    "value": "容量管理"
+  },
+  {
     "wordingKey": "WORD_CARD_LIST_FILTER",
     "value": "メンバー絞り込み"
+  },
+  {
+    "wordingKey": "WORD_CARD_NAME_FORMAT",
+    "value": "[{0}] {1}"
   },
   {
     "wordingKey": "WORD_CARD_PIECE",
@@ -2698,6 +2882,10 @@
   {
     "wordingKey": "WORD_CARD_TOTAL_POWER",
     "value": "総合力"
+  },
+  {
+    "wordingKey": "WORD_CARD_TYPE",
+    "value": "メンバー種類"
   },
   {
     "wordingKey": "WORD_CCU_BUSY",
@@ -2776,12 +2964,56 @@
     "value": "キャラクター"
   },
   {
+    "wordingKey": "WORD_CHARACTER_ARCHIVE",
+    "value": "キャラクターアーカイブ"
+  },
+  {
+    "wordingKey": "WORD_CHARACTER_ARCHIVE_ACHIEVEMENT",
+    "value": "アチーブメント"
+  },
+  {
+    "wordingKey": "WORD_CHARACTER_ARCHIVE_ANOTHER_VOCAL",
+    "value": "アナザーボーカル"
+  },
+  {
+    "wordingKey": "WORD_CHARACTER_ARCHIVE_AREA_TALK",
+    "value": "エリア会話"
+  },
+  {
+    "wordingKey": "WORD_CHARACTER_ARCHIVE_AREA_TALK_SPAWN",
+    "value": "「{0}」にて発生"
+  },
+  {
+    "wordingKey": "WORD_CHARACTER_ARCHIVE_AREA_TALK_TITLE",
+    "value": "「{0}」"
+  },
+  {
+    "wordingKey": "WORD_CHARACTER_ARCHIVE_BR",
+    "value": "キャラクター\nアーカイブ"
+  },
+  {
+    "wordingKey": "WORD_CHARACTER_ARCHIVE_CARD",
+    "value": "アルバム"
+  },
+  {
+    "wordingKey": "WORD_CHARACTER_ARCHIVE_COSTUME",
+    "value": "衣装"
+  },
+  {
+    "wordingKey": "WORD_CHARACTER_ARCHIVE_STAMP",
+    "value": "スタンプ"
+  },
+  {
     "wordingKey": "WORD_CHARACTER_EFFECT",
     "value": "キャラクター効果"
   },
   {
     "wordingKey": "WORD_CHARACTER_MISSION",
     "value": "キャラクターミッション"
+  },
+  {
+    "wordingKey": "WORD_CHARACTER_MISSION_RECEIVED_TITLE",
+    "value": "達成ミッション一覧"
   },
   {
     "wordingKey": "WORD_CHARACTER_N_RANK",
@@ -2806,6 +3038,10 @@
   {
     "wordingKey": "WORD_CHARACTER_RANK_EXP_GET",
     "value": "キャラクターランクEXP獲得"
+  },
+  {
+    "wordingKey": "WORD_CHARACTER_RANK_EXP_NAME",
+    "value": "{0}のキャラクターランクEXP"
   },
   {
     "wordingKey": "WORD_CHARACTER_RANK_EXP_PLUS",
@@ -2952,6 +3188,10 @@
     "value": "カラフルパス"
   },
   {
+    "wordingKey": "WORD_COLORFUL_SELECT_LIST",
+    "value": "カラフルフェスティバルガチャ ドリームピック"
+  },
+  {
     "wordingKey": "WORD_COMBO",
     "value": "コンボ"
   },
@@ -3038,6 +3278,10 @@
   {
     "wordingKey": "WORD_COSTUME_DETAIL",
     "value": "衣装詳細"
+  },
+  {
+    "wordingKey": "WORD_COSTUME_LIST_FILTER",
+    "value": "衣装絞り込み"
   },
   {
     "wordingKey": "WORD_COSTUME_SHOP",
@@ -3178,6 +3422,10 @@
   {
     "wordingKey": "WORD_DATA_LINK_SETTING",
     "value": "データ連携設定"
+  },
+  {
+    "wordingKey": "WORD_DATA_SETTING",
+    "value": "データ管理"
   },
   {
     "wordingKey": "WORD_DATE_LIMIT",
@@ -3434,6 +3682,10 @@
   {
     "wordingKey": "WORD_EVENT_CLOSE",
     "value": "終了しました。"
+  },
+  {
+    "wordingKey": "WORD_EVENT_END",
+    "value": "イベント終了"
   },
   {
     "wordingKey": "WORD_EVENT_EXCHANGE_SHOP",
@@ -3793,7 +4045,7 @@
   },
   {
     "wordingKey": "WORD_GO_ANOTHER_VO_SHOP",
-    "value": "アナザーボーカルショップへ"
+    "value": "アナザーボーカル\nショップへ"
   },
   {
     "wordingKey": "WORD_GO_AREA",
@@ -3860,8 +4112,16 @@
     "value": "プロフィールへ"
   },
   {
+    "wordingKey": "WORD_GO_REAL_AREA",
+    "value": "「現実世界」のエリアへ"
+  },
+  {
     "wordingKey": "WORD_GO_REAL_WORLD",
     "value": "現実世界へ"
+  },
+  {
+    "wordingKey": "WORD_GO_SEKAI_AREA",
+    "value": "「セカイ」のエリアへ"
   },
   {
     "wordingKey": "WORD_GO_SHOPPING_MALL",
@@ -3881,7 +4141,7 @@
   },
   {
     "wordingKey": "WORD_GO_TO_STREAMING_LIVE_TICKET_SHOP",
-    "value": "チケット交換"
+    "value": "チケット購入"
   },
   {
     "wordingKey": "WORD_GO_VIRTUAL_LIVE",
@@ -3929,7 +4189,7 @@
   },
   {
     "wordingKey": "WORD_HAIR_DETAIL_MESSAGE_1",
-    "value": "・「<color=#3FD5C8>{0}　{1}</color>」のマスターランクを2まであげると、ヘアスタイルが解放されます。"
+    "value": "<color=#FF55AA>※一部メンバーについて、専用ヘアスタイルについての詳細が正しく表示されない不具合を確認しております。</color>\n<color=#FF55AA>※専用ヘアスタイルを着用可能なキャラクター及び同時に設定できるアクセサリは[ライブ衣装]>[試着モード]にてご確認ください。</color>\n\n・「<color=#3FD5C8>{0}　{1}</color>」のマスターランクを2まであげると、ヘアスタイルが解放されます。"
   },
   {
     "wordingKey": "WORD_HAIR_DETAIL_MESSAGE_2",
@@ -3938,6 +4198,10 @@
   {
     "wordingKey": "WORD_HAIR_DETAIL_MESSAGE_3",
     "value": "・「<color=#3FD5C8>{0}</color>」は一部の専用アクセサリと同時に設定することができません。"
+  },
+  {
+    "wordingKey": "WORD_HAIR_TYPE",
+    "value": "ヘアスタイル"
   },
   {
     "wordingKey": "WORD_HATED_FOOD",
@@ -4104,6 +4368,10 @@
     "value": "名前入力"
   },
   {
+    "wordingKey": "WORD_INSESSION",
+    "value": "開催期間"
+  },
+  {
     "wordingKey": "WORD_INSTRUMENTLE_VERSION",
     "value": "Inst. ver."
   },
@@ -4224,6 +4492,10 @@
     "value": "レベルアップ"
   },
   {
+    "wordingKey": "WORD_LIFE_RECOVER",
+    "value": "ライブボーナスが全回復しました！"
+  },
+  {
     "wordingKey": "WORD_LIMITED_TIME_RELEASE",
     "value": "期間限定解放中"
   },
@@ -4246,6 +4518,10 @@
   {
     "wordingKey": "WORD_LIVE_BONUS_PRESENT",
     "value": "ライブボーナスプレゼント"
+  },
+  {
+    "wordingKey": "WORD_LIVE_BONUS_SETTING",
+    "value": "ライブボーナス全回復通知"
   },
   {
     "wordingKey": "WORD_LIVE_BOOST_CONSUMPTION_SETTING",
@@ -4576,6 +4852,14 @@
     "value": "メンバー一覧"
   },
   {
+    "wordingKey": "WORD_MEMBER_LIST_BR",
+    "value": "メンバー\n一覧"
+  },
+  {
+    "wordingKey": "WORD_MEMBER_OBTAINED",
+    "value": "獲得済み"
+  },
+  {
     "wordingKey": "WORD_MEMBER_TOTAL_POWER",
     "value": "メンバー総合力"
   },
@@ -4616,6 +4900,10 @@
     "value": "サブ"
   },
   {
+    "wordingKey": "WORD_MIRROR_SETTING",
+    "value": "ミラー譜面"
+  },
+  {
     "wordingKey": "WORD_MISFORTUNE",
     "value": "凶"
   },
@@ -4642,6 +4930,78 @@
   {
     "wordingKey": "WORD_MISSION_DETAIL",
     "value": "ミッション詳細"
+  },
+  {
+    "wordingKey": "WORD_MISSION_PROGRESS_FORMAT",
+    "value": "{0}/{1}"
+  },
+  {
+    "wordingKey": "WORD_MISSION_START",
+    "value": "ミッションスタート"
+  },
+  {
+    "wordingKey": "WORD_MISSION_TITLE_AREA_ITEM_LEVEL_UP_CHARACTER",
+    "value": "キャラクターエリアアイテム"
+  },
+  {
+    "wordingKey": "WORD_MISSION_TITLE_AREA_ITEM_LEVEL_UP_REALITY_WORLD",
+    "value": "タイプエリアアイテム"
+  },
+  {
+    "wordingKey": "WORD_MISSION_TITLE_AREA_ITEM_LEVEL_UP_UNIT",
+    "value": "ユニットエリアアイテム"
+  },
+  {
+    "wordingKey": "WORD_MISSION_TITLE_COLLECT_ANOTHER_VOCAL",
+    "value": "アナザーボーカル集め"
+  },
+  {
+    "wordingKey": "WORD_MISSION_TITLE_COLLECT_COSTUME_3D",
+    "value": "衣装集め"
+  },
+  {
+    "wordingKey": "WORD_MISSION_TITLE_COLLECT_MEMBER",
+    "value": "メンバー集め"
+  },
+  {
+    "wordingKey": "WORD_MISSION_TITLE_COLLECT_STAMP",
+    "value": "スタンプ集め"
+  },
+  {
+    "wordingKey": "WORD_MISSION_TITLE_MASTER_RANK_UP_RARE",
+    "value": "マスターランクアップ★4・BD・AN"
+  },
+  {
+    "wordingKey": "WORD_MISSION_TITLE_MASTER_RANK_UP_STANDARD",
+    "value": "マスターランクアップ★1～★3"
+  },
+  {
+    "wordingKey": "WORD_MISSION_TITLE_PLAY_LIVE",
+    "value": "リーダープレイ"
+  },
+  {
+    "wordingKey": "WORD_MISSION_TITLE_READ_AREA_TALK",
+    "value": "エリア会話集め"
+  },
+  {
+    "wordingKey": "WORD_MISSION_TITLE_READ_CARD_EPISODE_FIRST",
+    "value": "サイドストーリー前編"
+  },
+  {
+    "wordingKey": "WORD_MISSION_TITLE_READ_CARD_EPISODE_SECOND",
+    "value": "サイドストーリー後編"
+  },
+  {
+    "wordingKey": "WORD_MISSION_TITLE_SKILL_LEVEL_UP_RARE",
+    "value": "スキルレベルアップ★4・BD・AN"
+  },
+  {
+    "wordingKey": "WORD_MISSION_TITLE_SKILL_LEVEL_UP_STANDARD",
+    "value": "スキルレベルアップ★1～★3"
+  },
+  {
+    "wordingKey": "WORD_MISSION_TITLE_WAITING_ROOM",
+    "value": "控え室お迎え"
   },
   {
     "wordingKey": "WORD_MODE",
@@ -4736,8 +5096,16 @@
     "value": "MVP"
   },
   {
+    "wordingKey": "WORD_MV_DATA",
+    "value": "MVデータ"
+  },
+  {
     "wordingKey": "WORD_MV_ON_JACKET",
     "value": "MV"
+  },
+  {
+    "wordingKey": "WORD_MV_SAVE_SIZE_SETTING_CONFIRM",
+    "value": "MVデータ容量設定確認"
   },
   {
     "wordingKey": "WORD_MV_SETTING",
@@ -4748,8 +5116,20 @@
     "value": "MV設定"
   },
   {
+    "wordingKey": "WORD_MV_SIZE_MANAGEMENT",
+    "value": "MVデータ容量管理"
+  },
+  {
     "wordingKey": "WORD_MV_VIEWING",
     "value": "MV視聴"
+  },
+  {
+    "wordingKey": "WORD_MY_LIST",
+    "value": "楽曲マイリスト"
+  },
+  {
+    "wordingKey": "WORD_NAME",
+    "value": "名前"
   },
   {
     "wordingKey": "WORD_NEWLY_WRITTEN_MUSIC",
@@ -4836,6 +5216,10 @@
     "value": "満足していない"
   },
   {
+    "wordingKey": "WORD_NOT_SAVE",
+    "value": "保存しない"
+  },
+  {
     "wordingKey": "WORD_NOT_SAVE_RETURN",
     "value": "保存しないで戻る"
   },
@@ -4846,6 +5230,10 @@
   {
     "wordingKey": "WORD_NOT_SEND",
     "value": "送らない"
+  },
+  {
+    "wordingKey": "WORD_NOT_VIEWED",
+    "value": "未閲覧"
   },
   {
     "wordingKey": "WORD_NOW_LOADING",
@@ -4870,10 +5258,6 @@
   {
     "wordingKey": "WORD_NO_CHARGE",
     "value": "無償"
-  },
-  {
-    "wordingKey": "WORD_NO_ENTER",
-    "value": "入場禁止"
   },
   {
     "wordingKey": "WORD_NO_PLACE_CONTENT",
@@ -5004,6 +5388,26 @@
     "value": "有償クリスタル"
   },
   {
+    "wordingKey": "WORD_PANEL_MISSION",
+    "value": "スタンプミッション"
+  },
+  {
+    "wordingKey": "WORD_PANEL_MISSION_GROUP_1",
+    "value": "ユニット"
+  },
+  {
+    "wordingKey": "WORD_PANEL_MISSION_GROUP_2",
+    "value": "プレイ"
+  },
+  {
+    "wordingKey": "WORD_PANEL_MISSION_GROUP_3",
+    "value": "ガチャ"
+  },
+  {
+    "wordingKey": "WORD_PANEL_MISSION_GROUP_4",
+    "value": "リズムゲーム"
+  },
+  {
     "wordingKey": "WORD_PARAM1",
     "value": "パフォーマンス"
   },
@@ -5056,6 +5460,14 @@
     "value": "ワンダーランドのセカイ編"
   },
   {
+    "wordingKey": "WORD_PICKUP_LIST",
+    "value": "ピックアップリスト"
+  },
+  {
+    "wordingKey": "WORD_PICKUP_MEMBER",
+    "value": "ピックアップメンバー"
+  },
+  {
     "wordingKey": "WORD_PLAYER_COMMENT",
     "value": "ひと言"
   },
@@ -5102,6 +5514,10 @@
   {
     "wordingKey": "WORD_PLAY_RESULT",
     "value": "ライブリザルト"
+  },
+  {
+    "wordingKey": "WORD_PM_TIME",
+    "value": "「12:00～23:59」"
   },
   {
     "wordingKey": "WORD_POSSESSION",
@@ -5182,10 +5598,6 @@
   {
     "wordingKey": "WORD_PRICE",
     "value": "{0}円"
-  },
-  {
-    "wordingKey": "WORD_PRIVACY_POLICY",
-    "value": "プライバシーポリシー"
   },
   {
     "wordingKey": "WORD_PRIVATE_ROOM",
@@ -5304,6 +5716,26 @@
     "value": "レアリティ"
   },
   {
+    "wordingKey": "WORD_RARITY_1",
+    "value": "★1"
+  },
+  {
+    "wordingKey": "WORD_RARITY_2",
+    "value": "★2"
+  },
+  {
+    "wordingKey": "WORD_RARITY_3",
+    "value": "★3"
+  },
+  {
+    "wordingKey": "WORD_RARITY_4",
+    "value": "★4"
+  },
+  {
+    "wordingKey": "WORD_RARITY_BD",
+    "value": "BD・AN"
+  },
+  {
     "wordingKey": "WORD_RARITY_MEMBER_2",
     "value": "★★メンバー"
   },
@@ -5330,6 +5762,10 @@
   {
     "wordingKey": "WORD_READJUSTMENT",
     "value": "再調整"
+  },
+  {
+    "wordingKey": "WORD_READ_STATUS",
+    "value": "閲覧状況"
   },
   {
     "wordingKey": "WORD_RECEIPT_DATE",
@@ -5408,6 +5844,10 @@
     "value": "残り回数"
   },
   {
+    "wordingKey": "WORD_REMOVING_ASSET",
+    "value": "不要なデータを削除中"
+  },
+  {
     "wordingKey": "WORD_REQUEST",
     "value": "申請"
   },
@@ -5478,6 +5918,10 @@
   {
     "wordingKey": "WORD_REWARD_COUNT_FORMAT",
     "value": "×{0}獲得"
+  },
+  {
+    "wordingKey": "WORD_REWARD_RECEIPT_DEADLINE",
+    "value": "報酬受け取り期限"
   },
   {
     "wordingKey": "WORD_RIGHT_NATATION",
@@ -5592,6 +6036,10 @@
     "value": "選択中..."
   },
   {
+    "wordingKey": "WORD_SELECTION_ALL_MEMBERS",
+    "value": "全員を選択"
+  },
+  {
     "wordingKey": "WORD_SELECT_CLEANUP_TITLE",
     "value": "取り消し確認"
   },
@@ -5626,6 +6074,10 @@
   {
     "wordingKey": "WORD_SELECT_RANK",
     "value": "ランク表示確認"
+  },
+  {
+    "wordingKey": "WORD_SELECT_STAMP_CARD_CONFIRM",
+    "value": "選択確認"
   },
   {
     "wordingKey": "WORD_SELECT_TEMPLATE",
@@ -5932,6 +6384,26 @@
     "value": "スタンプ"
   },
   {
+    "wordingKey": "WORD_STAMP_CARD",
+    "value": "スタンプカード"
+  },
+  {
+    "wordingKey": "WORD_STAMP_CARD_COMPLETE_MISSION",
+    "value": "全てのミッションをクリアしよう。"
+  },
+  {
+    "wordingKey": "WORD_STAMP_CARD_SELECT",
+    "value": "カードを選択"
+  },
+  {
+    "wordingKey": "WORD_STAMP_CARD_SELECT_CARD_CONFIRM_TITLE",
+    "value": "スタンプカード選択確認"
+  },
+  {
+    "wordingKey": "WORD_STAMP_LIST_FILTER",
+    "value": "スタンプ絞り込み"
+  },
+  {
     "wordingKey": "WORD_STAMP_SHOP",
     "value": "スタンプショップ"
   },
@@ -6084,6 +6556,10 @@
     "value": "ありがとうございました！"
   },
   {
+    "wordingKey": "WORD_THREE_POINT_LEADER",
+    "value": "…"
+  },
+  {
     "wordingKey": "WORD_TICKET_EXCHANGE_SHOP",
     "value": "チケット交換所"
   },
@@ -6129,7 +6605,7 @@
   },
   {
     "wordingKey": "WORD_TITLE_STREAMING_LIVE_TICKET_EXCHANGE_CONFIRM",
-    "value": "交換確認"
+    "value": "購入確認"
   },
   {
     "wordingKey": "WORD_TODAY_CHALLENGE",
@@ -6512,18 +6988,6 @@
     "value": "表示"
   },
   {
-    "wordingKey": "WORD_VL_SETTINGS_FRAMERATE",
-    "value": "なめらかさ"
-  },
-  {
-    "wordingKey": "WORD_VL_SETTINGS_FRAMERATE_DEFAULT",
-    "value": "標準"
-  },
-  {
-    "wordingKey": "WORD_VL_SETTINGS_FRAMERATE_HIGH",
-    "value": "なめらか"
-  },
-  {
     "wordingKey": "WORD_VL_SETTINGS_LABEL_ALL",
     "value": "バーチャルライブ・待合エリア共通設定"
   },
@@ -6565,22 +7029,6 @@
   },
   {
     "wordingKey": "WORD_VL_SETTINGS_QUALITY_LOW",
-    "value": "軽量"
-  },
-  {
-    "wordingKey": "WORD_VL_SETTINGS_RESOLUTION",
-    "value": "解像度"
-  },
-  {
-    "wordingKey": "WORD_VL_SETTINGS_RESOLUTION_DEFAULT",
-    "value": "標準"
-  },
-  {
-    "wordingKey": "WORD_VL_SETTINGS_RESOLUTION_HIGH",
-    "value": "高品質"
-  },
-  {
-    "wordingKey": "WORD_VL_SETTINGS_RESOLUTION_LOW",
     "value": "軽量"
   },
   {
@@ -6692,8 +7140,24 @@
     "value": "メンバー未設定"
   },
   {
+    "wordingKey": "WORD_WISH_LIST_SELECT_END",
+    "value": "ガチャを引く"
+  },
+  {
+    "wordingKey": "WORD_WISH_LIST_TYPE_LIMITED",
+    "value": "カラフェス限定"
+  },
+  {
+    "wordingKey": "WORD_WISH_LIST_TYPE_NORMAL",
+    "value": "恒常"
+  },
+  {
     "wordingKey": "WORD_WITHOUT_COSTUME",
     "value": "衣装なし"
+  },
+  {
+    "wordingKey": "WORD_WITHOUT_TICKET_ENTER",
+    "value": "お試し入場"
   },
   {
     "wordingKey": "WORD_WITH_COSTUME",
