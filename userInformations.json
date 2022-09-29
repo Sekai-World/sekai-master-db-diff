@@ -820,19 +820,6 @@
     "bannerAssetbundleName": "banner_livebroadcast_2nd_anniversary_held"
   },
   {
-    "id": 2042,
-    "seq": 1,
-    "displayOrder": 23640,
-    "informationType": "bug",
-    "informationTag": "bug",
-    "browseType": "internal",
-    "platform": "all",
-    "title": "【9月21日12時40分追記】「Google Play ストア」の障害に伴う課金障害について",
-    "path": "information/index.html?id=bug_fin_GooglePlayStore_error_20220921",
-    "startAt": 1663731600000,
-    "endAt": 1664305200000
-  },
-  {
     "id": 2043,
     "seq": 1,
     "displayOrder": 48600,
@@ -1054,7 +1041,8 @@
     "platform": "all",
     "title": "「v2.3.0」アップデート以降に確認している不具合について",
     "path": "information/index.html?id=bug_v2-3-0_20220929",
-    "startAt": 1664413200000
+    "startAt": 1664413200000,
+    "endAt": 1664422200000
   },
   {
     "id": 2096,
@@ -1081,7 +1069,7 @@
     "startAt": 1664420400000
   },
   {
-    "id": 9999,
+    "id": 2104,
     "seq": 1,
     "displayOrder": 23680,
     "informationType": "bug",
@@ -1091,5 +1079,17 @@
     "title": "iOS端末をご利用の一部お客様において、有償アイテムの購入時にエラーが発生する事象について",
     "path": "information/index.html?id=bug_iOS_error_20220929",
     "startAt": 1664415600000
+  },
+  {
+    "id": 2105,
+    "seq": 1,
+    "displayOrder": 23690,
+    "informationType": "bug",
+    "informationTag": "bug",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "【9月29日13時30分追記】「v2.3.0」アップデート以降に確認している不具合について",
+    "path": "information/index.html?id=bug_add_v2-3-0_20220929",
+    "startAt": 1664425800000
   }
 ]
