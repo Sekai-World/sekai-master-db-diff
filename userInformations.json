@@ -496,7 +496,8 @@
     "platform": "all",
     "title": "【9月9日7時30分追記】「ランクマッチ」にて確認している不具合について",
     "path": "information/index.html?id=bug_add15_rankmatch_season-pre_20220330",
-    "startAt": 1662676200000
+    "startAt": 1662676200000,
+    "endAt": 1664413200000
   },
   {
     "id": 2026,
@@ -1187,5 +1188,17 @@
     "title": "「カラフルパス詳細」に表記されている一部セット内容の表示が誤っている不具合について",
     "path": "information/index.html?id=bug_colorfulpass_20221011",
     "startAt": 1665486000000
+  },
+  {
+    "id": 2168,
+    "seq": 1,
+    "displayOrder": 23840,
+    "informationType": "bug",
+    "informationTag": "bug",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "「ランクマッチ」で通信エラーが発生し正常にプレイができないことがある事象について",
+    "path": "information/index.html?id=bug_rankmatch_network-error_20221011",
+    "startAt": 1665495000000
   }
 ]
