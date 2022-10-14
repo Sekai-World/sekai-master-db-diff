@@ -743,20 +743,6 @@
     "bannerAssetbundleName": "banner_news_gacha250"
   },
   {
-    "id": 2087,
-    "seq": 1,
-    "displayOrder": 49340,
-    "informationType": "normal",
-    "informationTag": "music",
-    "browseType": "internal",
-    "platform": "all",
-    "title": "楽曲「DAYBREAK FRONTLINE」追加！",
-    "path": "information/index.html?id=info_music_DaybreakFrontline_20221010",
-    "startAt": 1665381600000,
-    "endAt": 1665601200000,
-    "bannerAssetbundleName": "banner_news_2nd-Aniv_music-cp"
-  },
-  {
     "id": 2088,
     "seq": 1,
     "displayOrder": 49350,
@@ -988,19 +974,6 @@
     "startAt": 1664849400000
   },
   {
-    "id": 2128,
-    "seq": 1,
-    "displayOrder": 49200,
-    "informationType": "normal",
-    "informationTag": "information",
-    "browseType": "internal",
-    "platform": "all",
-    "title": "10月7日よりラジオ番組「セカイ・ステーション #18」を配信！",
-    "path": "information/index.html?id=info_webradio-miku_18_20221006",
-    "startAt": 1665025200000,
-    "endAt": 1665601200000
-  },
-  {
     "id": 2132,
     "seq": 1,
     "displayOrder": 23750,
@@ -1058,33 +1031,8 @@
     "platform": "all",
     "title": "コネクトライブで発生していた不具合について",
     "path": "information/index.html?id=bug_virtuallive176_connectlive",
-    "startAt": 1665324000000
-  },
-  {
-    "id": 2162,
-    "seq": 1,
-    "displayOrder": 49330,
-    "informationType": "normal",
-    "informationTag": "information",
-    "browseType": "internal",
-    "platform": "all",
-    "title": "コネクトライブ「2nd ANNIVERSARY SPECIAL STAGE」に関するアンケートへのご協力のお願い",
-    "path": "information/index.html?id=info_questionnaire_connectlive_20221010",
-    "startAt": 1665370800000,
-    "endAt": 1665586800000
-  },
-  {
-    "id": 2163,
-    "seq": 1,
-    "displayOrder": 49320,
-    "informationType": "normal",
-    "informationTag": "information",
-    "browseType": "external",
-    "platform": "all",
-    "title": "【回答時間：約3分】アンケートはコチラ！",
-    "path": "https://questant.jp/q/LCWJO37D?id={userId}",
-    "startAt": 1665370800000,
-    "endAt": 1665586800000
+    "startAt": 1665324000000,
+    "endAt": 1665860400000
   },
   {
     "id": 2164,
@@ -1147,19 +1095,6 @@
     "startAt": 1665495000000
   },
   {
-    "id": 2169,
-    "seq": 1,
-    "displayOrder": 23850,
-    "informationType": "bug",
-    "informationTag": "bug",
-    "browseType": "internal",
-    "platform": "all",
-    "title": "10月12日11時40分ごろに修正したいくつかの不具合について",
-    "path": "information/index.html?id=bug_fix_something_20221012",
-    "startAt": 1665542400000,
-    "endAt": 1665640800000
-  },
-  {
     "id": 2170,
     "seq": 1,
     "displayOrder": 49430,
@@ -1207,6 +1142,45 @@
     "platform": "all",
     "title": "10月14日メンテナンス実施のご案内",
     "path": "information/index.html?id=info_notice_maintenance_20221014",
-    "startAt": 1665640800000
+    "startAt": 1665640800000,
+    "endAt": 1665728400000
+  },
+  {
+    "id": 2177,
+    "seq": 1,
+    "displayOrder": 49450,
+    "informationType": "normal",
+    "informationTag": "information",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "【10月14日15時20分追記】10月14日メンテナンス実施のご案内",
+    "path": "information/index.html?id=info_over_maintenance_20221014",
+    "startAt": 1665728400000,
+    "endAt": 1665729900000
+  },
+  {
+    "id": 2178,
+    "seq": 1,
+    "displayOrder": 49450,
+    "informationType": "normal",
+    "informationTag": "information",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "【10月14日15時50分追記】10月14日メンテナンス実施のご案内",
+    "path": "information/index.html?id=info_over2_maintenance_20221014",
+    "startAt": 1665730200000,
+    "endAt": 1665730800000
+  },
+  {
+    "id": 2179,
+    "seq": 1,
+    "displayOrder": 49450,
+    "informationType": "normal",
+    "informationTag": "information",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "【10月14日16時00分追記】10月14日メンテナンス実施のご案内",
+    "path": "information/index.html?id=info_over3_maintenance_20221014",
+    "startAt": 1665730800000
   }
 ]
