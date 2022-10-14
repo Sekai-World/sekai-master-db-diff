@@ -743,20 +743,6 @@
     "bannerAssetbundleName": "banner_news_gacha250"
   },
   {
-    "id": 2088,
-    "seq": 1,
-    "displayOrder": 49350,
-    "informationType": "normal",
-    "informationTag": "music",
-    "browseType": "internal",
-    "platform": "all",
-    "title": "楽曲「ÅMARA(大未来電脳)」追加！",
-    "path": "information/index.html?id=info_music_Amara-BigFutureComputer_20221011",
-    "startAt": 1665468000000,
-    "endAt": 1665687600000,
-    "bannerAssetbundleName": "banner_news_2nd-Aniv_music-cp"
-  },
-  {
     "id": 2091,
     "seq": 1,
     "displayOrder": 48640,
@@ -1133,19 +1119,6 @@
     "startAt": 1665640800000
   },
   {
-    "id": 2176,
-    "seq": 1,
-    "displayOrder": 49420,
-    "informationType": "normal",
-    "informationTag": "information",
-    "browseType": "internal",
-    "platform": "all",
-    "title": "10月14日メンテナンス実施のご案内",
-    "path": "information/index.html?id=info_notice_maintenance_20221014",
-    "startAt": 1665640800000,
-    "endAt": 1665728400000
-  },
-  {
     "id": 2180,
     "seq": 1,
     "displayOrder": 49450,
@@ -1167,7 +1140,8 @@
     "platform": "all",
     "title": "一部のお客様において発生している、ゲームにログインできないことがある事象について",
     "path": "information/index.html?id=bug_login-error_20221014",
-    "startAt": 1665749400000
+    "startAt": 1665749400000,
+    "endAt": 1665771000000
   },
   {
     "id": 2182,
@@ -1179,6 +1153,31 @@
     "platform": "all",
     "title": "10月15日深夜メンテナンス実施のご案内",
     "path": "information/index.html?id=info_notice_log-in-Error_maintenance_20221015",
-    "startAt": 1665751800000
+    "startAt": 1665751800000,
+    "endAt": 1665770400000
+  },
+  {
+    "id": 2183,
+    "seq": 1,
+    "displayOrder": 23880,
+    "informationType": "bug",
+    "informationTag": "bug",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "【10月15日3時10分追記】一部のお客様において発生している、ゲームにログインできないことがある事象について",
+    "path": "information/index.html?id=bug_fix_login-error_20221014",
+    "startAt": 1665771000000
+  },
+  {
+    "id": 2184,
+    "seq": 1,
+    "displayOrder": 49460,
+    "informationType": "normal",
+    "informationTag": "information",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "【10月15日3時00分追記】10月15日深夜メンテナンス実施のご案内",
+    "path": "information/index.html?id=info_fin_notice_log-in-Error_maintenance_20221015",
+    "startAt": 1665770400000
   }
 ]
