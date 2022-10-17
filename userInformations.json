@@ -368,20 +368,6 @@
     "startAt": 1659146400000
   },
   {
-    "id": 1972,
-    "seq": 1,
-    "displayOrder": 48290,
-    "informationType": "normal",
-    "informationTag": "gacha",
-    "browseType": "internal",
-    "platform": "all",
-    "title": "「[鳳えむ]HAPPY BIRTHDAYガチャ」開催！",
-    "path": "information/index.html?id=info_gacha235_held",
-    "startAt": 1662649200000,
-    "endAt": 1665813600000,
-    "bannerAssetbundleName": "banner_news_gacha235"
-  },
-  {
     "id": 1974,
     "seq": 1,
     "displayOrder": 47900,
@@ -854,32 +840,6 @@
     "startAt": 1664449200000
   },
   {
-    "id": 2112,
-    "seq": 1,
-    "displayOrder": 49370,
-    "informationType": "normal",
-    "informationTag": "music",
-    "browseType": "internal",
-    "platform": "all",
-    "title": "「ガランド」アナザーボーカルver.追加のお知らせ",
-    "path": "information/index.html?id=info_music_garland_another_20221012",
-    "startAt": 1665542400000,
-    "endAt": 1665774000000
-  },
-  {
-    "id": 2113,
-    "seq": 1,
-    "displayOrder": 49380,
-    "informationType": "normal",
-    "informationTag": "music",
-    "browseType": "internal",
-    "platform": "all",
-    "title": "「神のまにまに」アナザーボーカルver.追加のお知らせ",
-    "path": "information/index.html?id=info_music_AsGodLikes_another_20221012",
-    "startAt": 1665542400000,
-    "endAt": 1665774000000
-  },
-  {
     "id": 2114,
     "seq": 1,
     "displayOrder": 49400,
@@ -919,20 +879,6 @@
     "startAt": 1665554400000,
     "endAt": 1667044800000,
     "bannerAssetbundleName": "banner_news_event73"
-  },
-  {
-    "id": 2117,
-    "seq": 1,
-    "displayOrder": 49440,
-    "informationType": "normal",
-    "informationTag": "gacha",
-    "browseType": "internal",
-    "platform": "all",
-    "title": "予告、「[復刻]スクランブル・フラワーガチャ」開催について",
-    "path": "information/index.html?id=info_gacha253_notice",
-    "startAt": 1665716400000,
-    "endAt": 1665802800000,
-    "bannerAssetbundleName": "banner_news_gacha253"
   },
   {
     "id": 2118,
@@ -1020,19 +966,6 @@
     "title": "【10月7日17時00分追記】「v2.3.2」アップデートのご案内",
     "path": "information/index.html?id=info_force-update_update_v2-3-2_20221007",
     "startAt": 1665129600000
-  },
-  {
-    "id": 2161,
-    "seq": 1,
-    "displayOrder": 23790,
-    "informationType": "bug",
-    "informationTag": "bug",
-    "browseType": "internal",
-    "platform": "all",
-    "title": "コネクトライブで発生していた不具合について",
-    "path": "information/index.html?id=bug_virtuallive176_connectlive",
-    "startAt": 1665324000000,
-    "endAt": 1665860400000
   },
   {
     "id": 2164,
@@ -1130,7 +1063,8 @@
     "platform": "all",
     "title": "【10月13日15時00分追記】プレイヤーランク401以降のランクアップ報酬が受け取れない不具合について",
     "path": "information/index.html?id=bug_add_playerrank_20221006",
-    "startAt": 1665640800000
+    "startAt": 1665640800000,
+    "endAt": 1666001700000
   },
   {
     "id": 2180,
@@ -1143,32 +1077,6 @@
     "title": "【10月14日17時15分追記】10月14日メンテナンス実施のご案内",
     "path": "information/index.html?id=info_fin_over3_maintenance_20221014",
     "startAt": 1665735300000
-  },
-  {
-    "id": 2181,
-    "seq": 1,
-    "displayOrder": 23880,
-    "informationType": "bug",
-    "informationTag": "bug",
-    "browseType": "internal",
-    "platform": "all",
-    "title": "一部のお客様において発生している、ゲームにログインできないことがある事象について",
-    "path": "information/index.html?id=bug_login-error_20221014",
-    "startAt": 1665749400000,
-    "endAt": 1665771000000
-  },
-  {
-    "id": 2182,
-    "seq": 1,
-    "displayOrder": 49460,
-    "informationType": "normal",
-    "informationTag": "information",
-    "browseType": "internal",
-    "platform": "all",
-    "title": "10月15日深夜メンテナンス実施のご案内",
-    "path": "information/index.html?id=info_notice_log-in-Error_maintenance_20221015",
-    "startAt": 1665751800000,
-    "endAt": 1665770400000
   },
   {
     "id": 2183,
@@ -1193,5 +1101,17 @@
     "title": "【10月15日3時00分追記】10月15日深夜メンテナンス実施のご案内",
     "path": "information/index.html?id=info_fin_notice_log-in-Error_maintenance_20221015",
     "startAt": 1665770400000
+  },
+  {
+    "id": 2185,
+    "seq": 1,
+    "displayOrder": 23890,
+    "informationType": "bug",
+    "informationTag": "bug",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "【10月17日19時15分追記】プレイヤーランク401以降のランクアップ報酬が受け取れない不具合について",
+    "path": "information/index.html?id=bug_fix_add_playerrank_20221006",
+    "startAt": 1666001700000
   }
 ]
