@@ -393,20 +393,6 @@
     "bannerAssetbundleName": "content_banner_pjsekai_nicovideo"
   },
   {
-    "id": 1995,
-    "seq": 1,
-    "displayOrder": 48380,
-    "informationType": "normal",
-    "informationTag": "gacha",
-    "browseType": "internal",
-    "platform": "all",
-    "title": "「Colorful Paintガチャ」開催！",
-    "path": "information/index.html?id=info_gacha236",
-    "startAt": 1662692400000,
-    "endAt": 1666234800000,
-    "bannerAssetbundleName": "banner_news_gacha236"
-  },
-  {
     "id": 2001,
     "seq": 1,
     "displayOrder": 48440,
@@ -945,6 +931,33 @@
     "bannerAssetbundleName": "banner_news_event74"
   },
   {
+    "id": 2142,
+    "seq": 1,
+    "displayOrder": 49550,
+    "informationType": "normal",
+    "informationTag": "music",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "「パラソルサイダー」アナザーボーカルver.追加のお知らせ",
+    "path": "information/index.html?id=info_music_ParasolCider_another_20221021",
+    "startAt": 1666317600000,
+    "endAt": 1666551600000
+  },
+  {
+    "id": 2144,
+    "seq": 1,
+    "displayOrder": 49560,
+    "informationType": "normal",
+    "informationTag": "gacha",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "「クロノスの神殿ガチャ」開催！",
+    "path": "information/index.html?id=info_gacha254",
+    "startAt": 1666321200000,
+    "endAt": 1669777200000,
+    "bannerAssetbundleName": "banner_news_gacha254"
+  },
+  {
     "id": 2164,
     "seq": 1,
     "displayOrder": 23800,
@@ -955,19 +968,6 @@
     "title": "特定条件下でチャレンジライブをプレイしようとするとエラーが発生する事象について",
     "path": "information/index.html?id=bug_music253_20221010",
     "startAt": 1665387600000
-  },
-  {
-    "id": 2165,
-    "seq": 1,
-    "displayOrder": 23810,
-    "informationType": "bug",
-    "informationTag": "bug",
-    "browseType": "internal",
-    "platform": "all",
-    "title": "「この祭に 夕闇色も アフターライブ」の公演開始前後で 待合エリア・バーチャルライブ会場に入場できないことがある事象について",
-    "path": "information/index.html?id=bug_error_matching_afterlive_20221010",
-    "startAt": 1665408600000,
-    "endAt": 1665946800000
   },
   {
     "id": 2166,
@@ -1032,6 +1032,19 @@
     "startAt": 1666234800000,
     "endAt": 1666787400000,
     "bannerAssetbundleName": "banner_livebroadcast_notice_Kge12FEd"
+  },
+  {
+    "id": 2172,
+    "seq": 1,
+    "displayOrder": 49540,
+    "informationType": "normal",
+    "informationTag": "music",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "「ぼうけんのしょがきえました！」オリジナル2DMV追加のお知らせ",
+    "path": "information/index.html?id=info_add_2dmv_YourAdventureLogHasVanished_20221021",
+    "startAt": 1666317600000,
+    "endAt": 1666551600000
   },
   {
     "id": 2173,
@@ -1121,5 +1134,18 @@
     "startAt": 1666234800000,
     "endAt": 1666873800000,
     "bannerAssetbundleName": "banner_livebroadcast_notice_Kge12FEd"
+  },
+  {
+    "id": 2188,
+    "seq": 1,
+    "displayOrder": 23900,
+    "informationType": "bug",
+    "informationTag": "bug",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "10月21日11時00分ごろに修正したいくつかの不具合について",
+    "path": "information/index.html?id=bug_fix_something_20221021",
+    "startAt": 1666319400000,
+    "endAt": 1666897200000
   }
 ]

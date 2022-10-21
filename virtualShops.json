@@ -3991,5 +3991,85 @@
       }
     ],
     "virtualShopType": "event"
+  },
+  {
+    "id": 146,
+    "seq": 146,
+    "name": "第74回イベント物販",
+    "virtualShopItems": [
+      {
+        "id": 289,
+        "virtualShopId": 146,
+        "virtualShopItemType": "accessory",
+        "seq": 199913,
+        "resourceBoxId": 199,
+        "costVirtualCoin": 3000,
+        "costJewel": 1000,
+        "startAt": 1666332000000
+      }
+    ],
+    "virtualShopType": "event"
+  },
+  {
+    "id": 147,
+    "seq": 147,
+    "name": "穂波 BIRTHDAY",
+    "virtualShopItems": [
+      {
+        "id": 290,
+        "virtualShopId": 147,
+        "virtualShopItemType": "penlight",
+        "seq": 199911,
+        "resourceBoxId": 200,
+        "costPaidJewel": 1000,
+        "startAt": 1666677600000
+      }
+    ],
+    "virtualShopType": "birthday"
+  },
+  {
+    "id": 148,
+    "seq": 148,
+    "name": "ハロウィン2022ライブ",
+    "virtualShopItems": [
+      {
+        "id": 291,
+        "virtualShopId": 148,
+        "virtualShopItemType": "penlight",
+        "seq": 199910,
+        "resourceBoxId": 201,
+        "costPaidJewel": 1000,
+        "startAt": 1667023200000
+      },
+      {
+        "id": 292,
+        "virtualShopId": 148,
+        "virtualShopItemType": "penlight",
+        "seq": 199909,
+        "resourceBoxId": 136,
+        "costPaidJewel": 1000,
+        "startAt": 1667023200000
+      },
+      {
+        "id": 293,
+        "virtualShopId": 148,
+        "virtualShopItemType": "accessory",
+        "seq": 199912,
+        "resourceBoxId": 52,
+        "costVirtualCoin": 3000,
+        "costJewel": 1000,
+        "startAt": 1667023200000
+      },
+      {
+        "id": 294,
+        "virtualShopId": 148,
+        "virtualShopItemType": "coordinate",
+        "seq": 99860,
+        "resourceBoxId": 54,
+        "costPaidJewel": 1000,
+        "startAt": 1667023200000
+      }
+    ],
+    "virtualShopType": "special_live"
   }
 ]
