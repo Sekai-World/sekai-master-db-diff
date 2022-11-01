@@ -1,27 +1,5 @@
 [
   {
-    "homeBannerId": 516,
-    "seq": 110,
-    "homeBannerType": "general",
-    "name": "[ガチャ]ワンダショ箱イベ10巡目_定常ガチャバナー",
-    "assetbundleName": "banner_gacha254",
-    "transitionDestinationType": "gacha",
-    "transitionDestinationId": 254,
-    "startAt": 1666321200000,
-    "endAt": 1667185199000
-  },
-  {
-    "homeBannerId": 517,
-    "seq": 100,
-    "homeBannerType": "event",
-    "name": "[イベント]ワンダショ箱イベ10巡目_イベントバナー",
-    "assetbundleName": "event_curtaincall_2022",
-    "transitionDestinationType": "event",
-    "transitionDestinationId": 74,
-    "startAt": 1666332000000,
-    "endAt": 1667195999000
-  },
-  {
     "homeBannerId": 519,
     "seq": 90,
     "homeBannerType": "general",
@@ -44,13 +22,25 @@
     "endAt": 1667368799000
   },
   {
-    "homeBannerId": 523,
-    "seq": 190,
+    "homeBannerId": 525,
+    "seq": 110,
     "homeBannerType": "general",
-    "name": "ハロウィン衣装販売",
-    "assetbundleName": "banner_shop_halloween_costume_2022",
-    "transitionDestinationType": "billing_shop_for_jewel",
-    "startAt": 1667023200000,
-    "endAt": 1667282399000
+    "name": "[ガチャ]シャッフル文化祭イベ_定常ガチャバナー",
+    "assetbundleName": "banner_gacha258",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 258,
+    "startAt": 1667185200000,
+    "endAt": 1668135599000
+  },
+  {
+    "homeBannerId": 526,
+    "seq": 100,
+    "homeBannerType": "event",
+    "name": "[イベント]シャッフル文化祭イベ_イベントバナー",
+    "assetbundleName": "event_scream_2022",
+    "transitionDestinationType": "event",
+    "transitionDestinationId": 75,
+    "startAt": 1667196000000,
+    "endAt": 1668146399000
   }
 ]

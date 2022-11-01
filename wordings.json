@@ -353,7 +353,7 @@
   },
   {
     "wordingKey": "MSG_COLLECTION_GACHA_SPIN_CONFIRM",
-    "value": "{0}<color=#FF55AA>{1}個</color>を消費して\n{2}を開けます。よろしいですか？"
+    "value": "{0}<color=#FF55AA>{1}個</color>を消費して<color=#FF55AA>{2}回</color>\n{3}を開けます。よろしいですか？"
   },
   {
     "wordingKey": "MSG_COLLECTION_OPEN_COUNT",
@@ -362,6 +362,10 @@
   {
     "wordingKey": "MSG_COLORFUL_PASS_ALERT",
     "value": "カラフルパスの有効期限が過ぎています。\n新しく購入しますか？"
+  },
+  {
+    "wordingKey": "MSG_COLORFUL_PASS_SPECIFIED_COMMERCIAL_TRANSACTION_LAW_CONFIRM",
+    "value": "※セット内容と「特定商取引法第12条の6に基づく表示」は\n 「カラフルパス」内の「詳細」ボタンよりご確認ください。"
   },
   {
     "wordingKey": "MSG_COLORFUL_SELECT_GACHA_BALLOON",
@@ -849,7 +853,7 @@
   },
   {
     "wordingKey": "MSG_GACHA_SPIN",
-    "value": "{0}<color=#FF55AA>{1}個</color>を消費して\n「{2}」を引きます。\nよろしいですか？"
+    "value": "{0}<color=#FF55AA>{1}個</color>を消費して<color=#FF55AA>{2}回</color>\n「{3}」を引きます。\nよろしいですか？"
   },
   {
     "wordingKey": "MSG_GACHA_SPIN_COUNT",
@@ -869,7 +873,7 @@
   },
   {
     "wordingKey": "MSG_GACHA_TICKET_SPIN",
-    "value": "{0}<color=#FF55AA>{1}個</color>を消費して\n「{2}」を引きます。\nよろしいですか？"
+    "value": "{0}<color=#FF55AA>{1}個</color>を消費して<color=#FF55AA>{2}回</color>\n「{3}」を引きます。\nよろしいですか？"
   },
   {
     "wordingKey": "MSG_GACHA_TIME_OVER",
@@ -1626,6 +1630,10 @@
   {
     "wordingKey": "MSG_PREMIUM_BEFORE_SALE",
     "value": "プレミアムミッションパスは明日より販売開始！"
+  },
+  {
+    "wordingKey": "MSG_PREMIUM_MISSION_SPECIFIED_COMMERCIAL_TRANSACTION_LAW_CONFIRM",
+    "value": "※セット内容と「特定商取引法第12条の6に基づく表示」は\n「プレミアムミッションパス」内の「詳細」ボタンより\nご確認ください。"
   },
   {
     "wordingKey": "MSG_PRESENT_COUNT",
@@ -3964,6 +3972,10 @@
     "value": "ボーナス獲得"
   },
   {
+    "wordingKey": "WORD_GACHA_LIMITED_SET_PERIOD",
+    "value": "開催期間 {0}まで"
+  },
+  {
     "wordingKey": "WORD_GACHA_SELECT_LIST",
     "value": "セレクトリストガチャ"
   },
@@ -4494,6 +4506,10 @@
   {
     "wordingKey": "WORD_LIFE_RECOVER",
     "value": "ライブボーナスが全回復しました！"
+  },
+  {
+    "wordingKey": "WORD_LIMITED_SET_PERIOD",
+    "value": "販売期間 {0}まで"
   },
   {
     "wordingKey": "WORD_LIMITED_TIME_RELEASE",
@@ -5364,6 +5380,10 @@
     "value": "標準"
   },
   {
+    "wordingKey": "WORD_ORIGINAL",
+    "value": "オリジナル"
+  },
+  {
     "wordingKey": "WORD_ORIGINAL_MEMBER",
     "value": "オリジナル\nメンバーでMV再生"
   },
@@ -6180,6 +6200,10 @@
     "value": "月"
   },
   {
+    "wordingKey": "WORD_SHOP_PREMIUM_MISSION_PASS_DETAIL",
+    "value": "プレミアムミッションパス詳細"
+  },
+  {
     "wordingKey": "WORD_SHOP_PRICE",
     "value": "<color={0}>¥{1}</color>"
   },
@@ -6206,6 +6230,14 @@
   {
     "wordingKey": "WORD_SHOP_SPECIFIED_COMMERCIAL_TRANSACTION_LAW",
     "value": "特定商取引法に基づく表示"
+  },
+  {
+    "wordingKey": "WORD_SHOP_SPECIFIED_COMMERCIAL_TRANSACTION_LAW_12_6",
+    "value": "特定商取引法第12条の6に基づく表示"
+  },
+  {
+    "wordingKey": "WORD_SHOP_SPECIFIED_COMMERCIAL_TRANSACTION_LAW_SHORT",
+    "value": "特商法"
   },
   {
     "wordingKey": "WORD_SHOP_YEAR",

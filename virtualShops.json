@@ -4071,5 +4071,56 @@
       }
     ],
     "virtualShopType": "special_live"
+  },
+  {
+    "id": 149,
+    "seq": 149,
+    "name": "第75回イベント物販",
+    "virtualShopItems": [
+      {
+        "id": 295,
+        "virtualShopId": 149,
+        "virtualShopItemType": "coordinate",
+        "seq": 99859,
+        "resourceBoxId": 202,
+        "costPaidJewel": 1000,
+        "startAt": 1667196000000
+      }
+    ],
+    "virtualShopType": "event"
+  },
+  {
+    "id": 150,
+    "seq": 150,
+    "name": "MEIKO ANNIVERSARY",
+    "virtualShopItems": [
+      {
+        "id": 296,
+        "virtualShopId": 150,
+        "virtualShopItemType": "penlight",
+        "seq": 199908,
+        "resourceBoxId": 203,
+        "costPaidJewel": 1000,
+        "startAt": 1667455200000
+      }
+    ],
+    "virtualShopType": "birthday"
+  },
+  {
+    "id": 151,
+    "seq": 151,
+    "name": "彰人 BIRTHDAY",
+    "virtualShopItems": [
+      {
+        "id": 297,
+        "virtualShopId": 151,
+        "virtualShopItemType": "penlight",
+        "seq": 199907,
+        "resourceBoxId": 204,
+        "costPaidJewel": 1000,
+        "startAt": 1668060000000
+      }
+    ],
+    "virtualShopType": "birthday"
   }
 ]
