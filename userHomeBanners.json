@@ -1,24 +1,35 @@
 [
   {
-    "homeBannerId": 525,
+    "homeBannerId": 535,
     "seq": 110,
     "homeBannerType": "general",
-    "name": "[ガチャ]シャッフル文化祭イベ_定常ガチャバナー",
-    "assetbundleName": "banner_gacha258",
+    "name": "[ガチャ]ニーゴ箱イベ11巡目_定常ガチャバナー",
+    "assetbundleName": "banner_gacha265",
     "transitionDestinationType": "gacha",
-    "transitionDestinationId": 258,
-    "startAt": 1667185200000,
-    "endAt": 1668135599000
+    "transitionDestinationId": 265,
+    "startAt": 1668913200000,
+    "endAt": 1669777199000
   },
   {
-    "homeBannerId": 526,
+    "homeBannerId": 536,
     "seq": 100,
     "homeBannerType": "event",
-    "name": "[イベント]シャッフル文化祭イベ_イベントバナー",
-    "assetbundleName": "event_scream_2022",
+    "name": "[イベント]ニーゴ箱イベ11巡目_イベントバナー",
+    "assetbundleName": "event_wish_2022",
     "transitionDestinationType": "event",
-    "transitionDestinationId": 75,
-    "startAt": 1667196000000,
-    "endAt": 1668146399000
+    "transitionDestinationId": 77,
+    "startAt": 1668924000000,
+    "endAt": 1669787999000
+  },
+  {
+    "homeBannerId": 538,
+    "seq": 90,
+    "homeBannerType": "general",
+    "name": "セレクトリストガチャバナー",
+    "assetbundleName": "banner_gacha266",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 266,
+    "startAt": 1669258800000,
+    "endAt": 1670122799000
   }
 ]
