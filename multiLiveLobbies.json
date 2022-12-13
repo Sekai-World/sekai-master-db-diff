@@ -2,7 +2,7 @@
   {
     "id": 1,
     "seq": 1,
-    "name": "フリールーム",
+    "name": "General Room",
     "photonLobbyName": "publicFreeMultiLive",
     "matchingLogic": "random",
     "totalPower": 0,
@@ -12,7 +12,7 @@
   {
     "id": 2,
     "seq": 2,
-    "name": "ベテランルーム",
+    "name": "Pro Room",
     "photonLobbyName": "publicVeteranMultiLive_{SCALE_INDEX}",
     "matchingLogic": "power",
     "totalPower": 150000,
@@ -22,7 +22,7 @@
   {
     "id": 3,
     "seq": 3,
-    "name": "フリーマッチ",
+    "name": "Random Match",
     "photonLobbyName": "publicFreeCheerfulParty",
     "matchingLogic": "random",
     "totalPower": 0,
@@ -32,7 +32,7 @@
   {
     "id": 4,
     "seq": 4,
-    "name": "ベテランマッチ",
+    "name": "Veteran Match",
     "photonLobbyName": "publicVeteranCheerfulParty_{SCALE_INDEX}",
     "matchingLogic": "power",
     "totalPower": 150000,

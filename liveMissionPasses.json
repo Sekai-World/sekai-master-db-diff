@@ -2,7 +2,7 @@
   {
     "id": 1,
     "liveMissionPeriodId": 1,
-    "costumeName": "サブカルボーイスタイル",
+    "costumeName": "Street Casual",
     "character3dId1": 32,
     "character3dId2": 33,
     "maleAssetbundleName": "cos0012_body",
@@ -11,7 +11,7 @@
   {
     "id": 2,
     "liveMissionPeriodId": 2,
-    "costumeName": "サブカルボーイスタイル",
+    "costumeName": "Street Casual",
     "character3dId1": 32,
     "character3dId2": 33,
     "maleAssetbundleName": "cos0012_body",
@@ -20,7 +20,7 @@
   {
     "id": 3,
     "liveMissionPeriodId": 3,
-    "costumeName": "サブカルボーイスタイル",
+    "costumeName": "Street Casual",
     "character3dId1": 32,
     "character3dId2": 33,
     "maleAssetbundleName": "cos0012_body",
@@ -29,7 +29,7 @@
   {
     "id": 4,
     "liveMissionPeriodId": 4,
-    "costumeName": "もこもこスノーコート",
+    "costumeName": "Puffy Snowsuit",
     "character3dId1": 47,
     "character3dId2": 48,
     "maleAssetbundleName": "cos0041_body",
@@ -37,8 +37,8 @@
   },
   {
     "id": 5,
-    "liveMissionPeriodId": 5,
-    "costumeName": "メイド / バトラー",
+    "liveMissionPeriodId": 6,
+    "costumeName": "Maid/Butler",
     "character3dId1": 68,
     "character3dId2": 69,
     "maleAssetbundleName": "cos0049_body",
@@ -46,8 +46,8 @@
   },
   {
     "id": 6,
-    "liveMissionPeriodId": 6,
-    "costumeName": "モーモー☆ニューイヤー",
+    "liveMissionPeriodId": 5,
+    "costumeName": "Happy Moo Year",
     "character3dId1": 86,
     "character3dId2": 87,
     "maleAssetbundleName": "cos0059_body",
@@ -56,7 +56,7 @@
   {
     "id": 7,
     "liveMissionPeriodId": 7,
-    "costumeName": "「スイーツ」衣装",
+    "costumeName": "Sweets Costume",
     "character3dId1": 144,
     "character3dId2": 145,
     "maleAssetbundleName": "cos0069_body",
@@ -65,7 +65,7 @@
   {
     "id": 8,
     "liveMissionPeriodId": 8,
-    "costumeName": "「近未来」衣装",
+    "costumeName": "Neo-futuristic Costume",
     "character3dId1": 167,
     "character3dId2": 168,
     "maleAssetbundleName": "cos0077_body",
@@ -74,7 +74,7 @@
   {
     "id": 9,
     "liveMissionPeriodId": 9,
-    "costumeName": "「怪盗」衣装",
+    "costumeName": "Thief Costume",
     "character3dId1": 188,
     "character3dId2": 189,
     "maleAssetbundleName": "cos0087_body",
@@ -83,34 +83,16 @@
   {
     "id": 10,
     "liveMissionPeriodId": 10,
-    "costumeName": "「魔法」衣装",
+    "costumeName": "Magic Costume",
     "character3dId1": 207,
     "character3dId2": 208,
     "maleAssetbundleName": "cos0097_body",
     "femaleAssetbundleName": "cos0096_body"
   },
   {
-    "id": 11,
-    "liveMissionPeriodId": 11,
-    "costumeName": "「レストラン」衣装",
-    "character3dId1": 227,
-    "character3dId2": 228,
-    "maleAssetbundleName": "cos0105_body",
-    "femaleAssetbundleName": "cos0104_body"
-  },
-  {
-    "id": 12,
-    "liveMissionPeriodId": 12,
-    "costumeName": "「海賊」衣装",
-    "character3dId1": 254,
-    "character3dId2": 255,
-    "maleAssetbundleName": "cos0115_body",
-    "femaleAssetbundleName": "cos0114_body"
-  },
-  {
     "id": 13,
     "liveMissionPeriodId": 13,
-    "costumeName": "「アニマル」衣装",
+    "costumeName": "Animal Costume",
     "character3dId1": 277,
     "character3dId2": 278,
     "maleAssetbundleName": "cos0123_body",
@@ -119,7 +101,7 @@
   {
     "id": 14,
     "liveMissionPeriodId": 14,
-    "costumeName": "「パジャマ」衣装",
+    "costumeName": "Pajama Costume",
     "character3dId1": 306,
     "character3dId2": 307,
     "maleAssetbundleName": "cos0131_body",
@@ -128,7 +110,7 @@
   {
     "id": 15,
     "liveMissionPeriodId": 15,
-    "costumeName": "「ゴースト」衣装",
+    "costumeName": "Ghost Costume",
     "character3dId1": 354,
     "character3dId2": 355,
     "maleAssetbundleName": "cos0139_body",
@@ -137,7 +119,7 @@
   {
     "id": 16,
     "liveMissionPeriodId": 16,
-    "costumeName": "「ゴシック」衣装",
+    "costumeName": "Gothic Costume",
     "character3dId1": 384,
     "character3dId2": 385,
     "maleAssetbundleName": "cos0163_body",
@@ -146,7 +128,7 @@
   {
     "id": 17,
     "liveMissionPeriodId": 17,
-    "costumeName": "「チェック柄」衣装",
+    "costumeName": "Checkerboard Pattern Costume",
     "character3dId1": 422,
     "character3dId2": 423,
     "maleAssetbundleName": "cos0171_body",
@@ -155,109 +137,10 @@
   {
     "id": 18,
     "liveMissionPeriodId": 18,
-    "costumeName": "「宇宙」衣装",
+    "costumeName": "Space Costume",
     "character3dId1": 469,
     "character3dId2": 470,
     "maleAssetbundleName": "cos0189_body",
     "femaleAssetbundleName": "cos0188_body"
-  },
-  {
-    "id": 19,
-    "liveMissionPeriodId": 19,
-    "costumeName": "「フルーツ」衣装",
-    "character3dId1": 488,
-    "character3dId2": 489,
-    "maleAssetbundleName": "cos0200_body",
-    "femaleAssetbundleName": "cos0199_body"
-  },
-  {
-    "id": 20,
-    "liveMissionPeriodId": 20,
-    "costumeName": "「ファンタジー」衣装",
-    "character3dId1": 528,
-    "character3dId2": 529,
-    "maleAssetbundleName": "cos0217_body",
-    "femaleAssetbundleName": "cos0216_body"
-  },
-  {
-    "id": 21,
-    "liveMissionPeriodId": 21,
-    "costumeName": "「イースター」衣装",
-    "character3dId1": 543,
-    "character3dId2": 544,
-    "maleAssetbundleName": "cos0235_body",
-    "femaleAssetbundleName": "cos0234_body"
-  },
-  {
-    "id": 22,
-    "liveMissionPeriodId": 22,
-    "costumeName": "「ヒップホップ」衣装",
-    "character3dId1": 566,
-    "character3dId2": 567,
-    "maleAssetbundleName": "cos0246_body",
-    "femaleAssetbundleName": "cos0245_body"
-  },
-  {
-    "id": 23,
-    "liveMissionPeriodId": 23,
-    "costumeName": "「スポーツ」衣装",
-    "character3dId1": 587,
-    "character3dId2": 588,
-    "maleAssetbundleName": "cos0257_body",
-    "femaleAssetbundleName": "cos0256_body"
-  },
-  {
-    "id": 24,
-    "liveMissionPeriodId": 24,
-    "costumeName": "「バカンス」衣装",
-    "character3dId1": 623,
-    "character3dId2": 624,
-    "maleAssetbundleName": "cos0270_body",
-    "femaleAssetbundleName": "cos0269_body"
-  },
-  {
-    "id": 25,
-    "liveMissionPeriodId": 25,
-    "costumeName": "「お出かけ服」衣装",
-    "character3dId1": 639,
-    "character3dId2": 640,
-    "maleAssetbundleName": "cos0281_body",
-    "femaleAssetbundleName": "cos0280_body"
-  },
-  {
-    "id": 26,
-    "liveMissionPeriodId": 26,
-    "costumeName": "「レトロ」衣装",
-    "character3dId1": 669,
-    "character3dId2": 670,
-    "maleAssetbundleName": "cos0292_body",
-    "femaleAssetbundleName": "cos0291_body"
-  },
-  {
-    "id": 27,
-    "liveMissionPeriodId": 27,
-    "costumeName": "「ドレス・正装」衣装",
-    "character3dId1": 702,
-    "character3dId2": 703,
-    "maleAssetbundleName": "cos0315_body",
-    "femaleAssetbundleName": "cos0314_body"
-  },
-  {
-    "id": 28,
-    "liveMissionPeriodId": 28,
-    "costumeName": "「妖怪」衣装",
-    "character3dId1": 732,
-    "character3dId2": 733,
-    "maleAssetbundleName": "cos0328_body",
-    "femaleAssetbundleName": "cos0327_body"
-  },
-  {
-    "id": 29,
-    "liveMissionPeriodId": 29,
-    "costumeName": "「おもちゃ」衣装",
-    "character3dId1": 771,
-    "character3dId2": 772,
-    "maleAssetbundleName": "cos0339_body",
-    "femaleAssetbundleName": "cos0338_body"
   }
 ]
