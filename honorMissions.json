@@ -4,7 +4,7 @@
     "seq": 1,
     "honorMissionType": "clear_live",
     "requirement": 39,
-    "sentence": "Clear 39 shows.",
+    "sentence": "ライブを39回クリアしよう。",
     "rewards": [
       {
         "id": 309,
@@ -20,7 +20,7 @@
     "seq": 2,
     "honorMissionType": "clear_live",
     "requirement": 3939,
-    "sentence": "Clear 3,939 shows.",
+    "sentence": "ライブを3939回クリアしよう。",
     "rewards": [
       {
         "id": 310,
@@ -36,7 +36,7 @@
     "seq": 1,
     "honorMissionType": "player_rank",
     "requirement": 50,
-    "sentence": "Reach Player Rank 50.",
+    "sentence": "プレイヤーランクを50まで上げよう。",
     "rewards": [
       {
         "id": 311,
@@ -52,7 +52,7 @@
     "seq": 2,
     "honorMissionType": "player_rank",
     "requirement": 100,
-    "sentence": "Reach Player Rank 100.",
+    "sentence": "プレイヤーランクを100まで上げよう。",
     "rewards": [
       {
         "id": 312,
@@ -68,7 +68,7 @@
     "seq": 3,
     "honorMissionType": "player_rank",
     "requirement": 200,
-    "sentence": "Reach Player Rank 200.",
+    "sentence": "プレイヤーランクを200まで上げよう。",
     "rewards": [
       {
         "id": 689,
@@ -84,7 +84,7 @@
     "seq": 4,
     "honorMissionType": "player_rank",
     "requirement": 300,
-    "sentence": "Reach Player Rank 300.",
+    "sentence": "プレイヤーランクを300まで上げよう。",
     "rewards": [
       {
         "id": 1233,
@@ -100,7 +100,7 @@
     "seq": 5,
     "honorMissionType": "player_rank",
     "requirement": 400,
-    "sentence": "Reach Player Rank 400.",
+    "sentence": "プレイヤーランクを400まで上げよう。",
     "rewards": [
       {
         "id": 2044,
@@ -112,11 +112,27 @@
     ]
   },
   {
+    "id": 206,
+    "seq": 6,
+    "honorMissionType": "player_rank",
+    "requirement": 500,
+    "sentence": "プレイヤーランクを500まで上げよう。",
+    "rewards": [
+      {
+        "id": 4010,
+        "missionType": "honor_mission",
+        "missionId": 206,
+        "seq": 1,
+        "resourceBoxId": 1363
+      }
+    ]
+  },
+  {
     "id": 301,
     "seq": 1,
     "honorMissionType": "login_continued",
     "requirement": 30,
-    "sentence": "Log in for 30 consecutive days.",
+    "sentence": "30日連続でログインしよう。",
     "rewards": [
       {
         "id": 313,
@@ -132,7 +148,7 @@
     "seq": 1,
     "honorMissionType": "login_total",
     "requirement": 365,
-    "sentence": "Log in for 365 days in total.",
+    "sentence": "累積で365日ログインしよう。",
     "rewards": [
       {
         "id": 314,
@@ -148,7 +164,7 @@
     "seq": 1,
     "honorMissionType": "collect_another_vocal",
     "requirement": 10,
-    "sentence": "Unlock 10 Cover songs.",
+    "sentence": "アナザーボーカルを10曲解放しよう。",
     "rewards": [
       {
         "id": 315,
@@ -164,7 +180,7 @@
     "seq": 1,
     "honorMissionType": "unit_rank_all",
     "requirement": 20,
-    "sentence": "Increase the Group Rank of all groups to 20.",
+    "sentence": "全ユニットのユニットランクを20まで上げよう。",
     "rewards": [
       {
         "id": 316,
@@ -180,7 +196,7 @@
     "seq": 1,
     "honorMissionType": "area_item_5_level",
     "requirement": 10,
-    "sentence": "Level up 5 different Decorations to Level 10.",
+    "sentence": "エリアアイテム5種類をレベル10まで上げよう。",
     "rewards": [
       {
         "id": 317,
@@ -196,7 +212,7 @@
     "seq": 1,
     "honorMissionType": "character_rank_all",
     "requirement": 5,
-    "sentence": "Increase the Character Rank of all characters to 5.",
+    "sentence": "全員のキャラクターランクを5まで上げよう。",
     "rewards": [
       {
         "id": 318,
@@ -212,7 +228,7 @@
     "seq": 2,
     "honorMissionType": "character_rank_all",
     "requirement": 10,
-    "sentence": "Increase the Character Rank of all characters to 10.",
+    "sentence": "全員のキャラクターランクを10まで上げよう。",
     "rewards": [
       {
         "id": 319,
@@ -228,7 +244,7 @@
     "seq": 1,
     "honorMissionType": "clear_live_difficulty_all",
     "requirement": 5,
-    "sentence": "Clear 5 songs on all difficulty levels.",
+    "sentence": "全難易度で5曲クリアしよう。",
     "rewards": [
       {
         "id": 320,
@@ -244,7 +260,7 @@
     "seq": 2,
     "honorMissionType": "clear_live_difficulty_all",
     "requirement": 10,
-    "sentence": "Clear 10 songs on all difficulty levels.",
+    "sentence": "全難易度で10曲クリアしよう。",
     "rewards": [
       {
         "id": 321,
@@ -260,7 +276,7 @@
     "seq": 3,
     "honorMissionType": "clear_live_difficulty_all",
     "requirement": 20,
-    "sentence": "Clear 20 songs on all difficulty levels.",
+    "sentence": "全難易度で20曲クリアしよう。",
     "rewards": [
       {
         "id": 322,
@@ -276,7 +292,7 @@
     "seq": 4,
     "honorMissionType": "clear_live_difficulty_all",
     "requirement": 30,
-    "sentence": "Clear 30 songs on all difficulty levels.",
+    "sentence": "全難易度で30曲クリアしよう。",
     "rewards": [
       {
         "id": 1096,
@@ -292,7 +308,7 @@
     "seq": 5,
     "honorMissionType": "clear_live_difficulty_all",
     "requirement": 40,
-    "sentence": "Clear 40 songs on all difficulty levels.",
+    "sentence": "全難易度で40曲クリアしよう。",
     "rewards": [
       {
         "id": 1097,
@@ -308,7 +324,7 @@
     "seq": 6,
     "honorMissionType": "clear_live_difficulty_all",
     "requirement": 50,
-    "sentence": "Clear 50 songs on all difficulty levels.",
+    "sentence": "全難易度で50曲クリアしよう。",
     "rewards": [
       {
         "id": 1098,
@@ -324,7 +340,7 @@
     "seq": 7,
     "honorMissionType": "clear_live_difficulty_all",
     "requirement": 60,
-    "sentence": "Clear 60 songs on all difficulty levels.",
+    "sentence": "全難易度で60曲クリアしよう。",
     "rewards": [
       {
         "id": 1238,
@@ -340,7 +356,7 @@
     "seq": 8,
     "honorMissionType": "clear_live_difficulty_all",
     "requirement": 70,
-    "sentence": "Clear 70 songs on all difficulty levels.",
+    "sentence": "全難易度で70曲クリアしよう。",
     "rewards": [
       {
         "id": 1239,
@@ -356,7 +372,7 @@
     "seq": 9,
     "honorMissionType": "clear_live_difficulty_all",
     "requirement": 80,
-    "sentence": "Clear 80 songs on all difficulty levels.",
+    "sentence": "全難易度で80曲クリアしよう。",
     "rewards": [
       {
         "id": 2447,
@@ -372,7 +388,7 @@
     "seq": 10,
     "honorMissionType": "clear_live_difficulty_all",
     "requirement": 90,
-    "sentence": "Clear 90 songs on all difficulty levels.",
+    "sentence": "全難易度で90曲クリアしよう。",
     "rewards": [
       {
         "id": 2448,
@@ -388,7 +404,7 @@
     "seq": 11,
     "honorMissionType": "clear_live_difficulty_all",
     "requirement": 100,
-    "sentence": "Clear 100 songs on all difficulty levels.",
+    "sentence": "全難易度で100曲クリアしよう。",
     "rewards": [
       {
         "id": 2449,
@@ -404,7 +420,7 @@
     "seq": 12,
     "honorMissionType": "clear_live_difficulty_all",
     "requirement": 110,
-    "sentence": "Clear 110 songs on all difficulty levels.",
+    "sentence": "全難易度で110曲クリアしよう。",
     "rewards": [
       {
         "id": 2450,
@@ -420,7 +436,7 @@
     "seq": 13,
     "honorMissionType": "clear_live_difficulty_all",
     "requirement": 120,
-    "sentence": "Clear 120 songs on all difficulty levels.",
+    "sentence": "全難易度で120曲クリアしよう。",
     "rewards": [
       {
         "id": 2451,
@@ -436,7 +452,7 @@
     "seq": 4,
     "honorMissionType": "master_full_combo",
     "requirement": 30,
-    "sentence": "Clear 30 songs with a Full Combo on Master difficulty.",
+    "sentence": "難易度MASTERで30曲フルコンボでクリアしよう。",
     "rewards": [
       {
         "id": 489,
@@ -452,7 +468,7 @@
     "seq": 5,
     "honorMissionType": "master_full_combo",
     "requirement": 40,
-    "sentence": "Clear 40 songs with a Full Combo on Master difficulty.",
+    "sentence": "難易度MASTERで40曲フルコンボでクリアしよう。",
     "rewards": [
       {
         "id": 490,
@@ -468,7 +484,7 @@
     "seq": 6,
     "honorMissionType": "master_full_combo",
     "requirement": 50,
-    "sentence": "Clear 50 songs with a Full Combo on Master difficulty.",
+    "sentence": "難易度MASTERで50曲フルコンボでクリアしよう。",
     "rewards": [
       {
         "id": 491,
@@ -484,7 +500,7 @@
     "seq": 7,
     "honorMissionType": "master_full_combo",
     "requirement": 60,
-    "sentence": "Clear 60 songs with a Full Combo on Master difficulty.",
+    "sentence": "難易度MASTERで60曲フルコンボでクリアしよう。",
     "rewards": [
       {
         "id": 1234,
@@ -500,7 +516,7 @@
     "seq": 8,
     "honorMissionType": "master_full_combo",
     "requirement": 70,
-    "sentence": "Clear 70 songs with a Full Combo on Master difficulty.",
+    "sentence": "難易度MASTERで70曲フルコンボでクリアしよう。",
     "rewards": [
       {
         "id": 1235,
@@ -516,7 +532,7 @@
     "seq": 9,
     "honorMissionType": "master_full_combo",
     "requirement": 80,
-    "sentence": "Clear 80 songs with a Full Combo on Master difficulty.",
+    "sentence": "難易度MASTERで80曲フルコンボでクリアしよう。",
     "rewards": [
       {
         "id": 2452,
@@ -532,7 +548,7 @@
     "seq": 10,
     "honorMissionType": "master_full_combo",
     "requirement": 90,
-    "sentence": "Clear 90 songs with a Full Combo on Master difficulty.",
+    "sentence": "難易度MASTERで90曲フルコンボでクリアしよう。",
     "rewards": [
       {
         "id": 2453,
@@ -548,7 +564,7 @@
     "seq": 11,
     "honorMissionType": "master_full_combo",
     "requirement": 100,
-    "sentence": "Clear 100 songs with a Full Combo on Master difficulty.",
+    "sentence": "難易度MASTERで100曲フルコンボでクリアしよう。",
     "rewards": [
       {
         "id": 2454,
@@ -564,7 +580,7 @@
     "seq": 12,
     "honorMissionType": "master_full_combo",
     "requirement": 110,
-    "sentence": "Clear 110 songs with a Full Combo on Master difficulty.",
+    "sentence": "難易度MASTERで110曲フルコンボでクリアしよう。",
     "rewards": [
       {
         "id": 2455,
@@ -580,7 +596,7 @@
     "seq": 13,
     "honorMissionType": "master_full_combo",
     "requirement": 120,
-    "sentence": "Clear 120 songs with a Full Combo on Master difficulty.",
+    "sentence": "難易度MASTERで120曲フルコンボでクリアしよう。",
     "rewards": [
       {
         "id": 2456,
@@ -592,11 +608,171 @@
     ]
   },
   {
+    "id": 1014,
+    "seq": 14,
+    "honorMissionType": "master_full_combo",
+    "requirement": 130,
+    "sentence": "難易度MASTERで130曲フルコンボでクリアしよう。",
+    "rewards": [
+      {
+        "id": 3878,
+        "missionType": "honor_mission",
+        "missionId": 1014,
+        "seq": 1,
+        "resourceBoxId": 1329
+      }
+    ]
+  },
+  {
+    "id": 1015,
+    "seq": 15,
+    "honorMissionType": "master_full_combo",
+    "requirement": 140,
+    "sentence": "難易度MASTERで140曲フルコンボでクリアしよう。",
+    "rewards": [
+      {
+        "id": 3879,
+        "missionType": "honor_mission",
+        "missionId": 1015,
+        "seq": 1,
+        "resourceBoxId": 1330
+      }
+    ]
+  },
+  {
+    "id": 1016,
+    "seq": 16,
+    "honorMissionType": "master_full_combo",
+    "requirement": 150,
+    "sentence": "難易度MASTERで150曲フルコンボでクリアしよう。",
+    "rewards": [
+      {
+        "id": 3880,
+        "missionType": "honor_mission",
+        "missionId": 1016,
+        "seq": 1,
+        "resourceBoxId": 1331
+      }
+    ]
+  },
+  {
+    "id": 1017,
+    "seq": 17,
+    "honorMissionType": "master_full_combo",
+    "requirement": 160,
+    "sentence": "難易度MASTERで160曲フルコンボでクリアしよう。",
+    "rewards": [
+      {
+        "id": 3881,
+        "missionType": "honor_mission",
+        "missionId": 1017,
+        "seq": 1,
+        "resourceBoxId": 1332
+      }
+    ]
+  },
+  {
+    "id": 1018,
+    "seq": 18,
+    "honorMissionType": "master_full_combo",
+    "requirement": 170,
+    "sentence": "難易度MASTERで170曲フルコンボでクリアしよう。",
+    "rewards": [
+      {
+        "id": 3882,
+        "missionType": "honor_mission",
+        "missionId": 1018,
+        "seq": 1,
+        "resourceBoxId": 1333
+      }
+    ]
+  },
+  {
+    "id": 1019,
+    "seq": 19,
+    "honorMissionType": "master_full_combo",
+    "requirement": 180,
+    "sentence": "難易度MASTERで180曲フルコンボでクリアしよう。",
+    "rewards": [
+      {
+        "id": 3883,
+        "missionType": "honor_mission",
+        "missionId": 1019,
+        "seq": 1,
+        "resourceBoxId": 1334
+      }
+    ]
+  },
+  {
+    "id": 1020,
+    "seq": 20,
+    "honorMissionType": "master_full_combo",
+    "requirement": 190,
+    "sentence": "難易度MASTERで190曲フルコンボでクリアしよう。",
+    "rewards": [
+      {
+        "id": 3884,
+        "missionType": "honor_mission",
+        "missionId": 1020,
+        "seq": 1,
+        "resourceBoxId": 1335
+      }
+    ]
+  },
+  {
+    "id": 1021,
+    "seq": 21,
+    "honorMissionType": "master_full_combo",
+    "requirement": 200,
+    "sentence": "難易度MASTERで200曲フルコンボでクリアしよう。",
+    "rewards": [
+      {
+        "id": 3885,
+        "missionType": "honor_mission",
+        "missionId": 1021,
+        "seq": 1,
+        "resourceBoxId": 1336
+      }
+    ]
+  },
+  {
+    "id": 1022,
+    "seq": 22,
+    "honorMissionType": "master_full_combo",
+    "requirement": 210,
+    "sentence": "難易度MASTERで210曲フルコンボでクリアしよう。",
+    "rewards": [
+      {
+        "id": 3886,
+        "missionType": "honor_mission",
+        "missionId": 1022,
+        "seq": 1,
+        "resourceBoxId": 1337
+      }
+    ]
+  },
+  {
+    "id": 1023,
+    "seq": 23,
+    "honorMissionType": "master_full_combo",
+    "requirement": 220,
+    "sentence": "難易度MASTERで220曲フルコンボでクリアしよう。",
+    "rewards": [
+      {
+        "id": 3887,
+        "missionType": "honor_mission",
+        "missionId": 1023,
+        "seq": 1,
+        "resourceBoxId": 1338
+      }
+    ]
+  },
+  {
     "id": 1104,
     "seq": 4,
     "honorMissionType": "master_full_perfect",
     "requirement": 30,
-    "sentence": "Clear 30 songs on Master difficulty with All Perfects.",
+    "sentence": "難易度MASTERで30曲ALL PERFECTでクリアしよう。",
     "rewards": [
       {
         "id": 492,
@@ -612,7 +788,7 @@
     "seq": 5,
     "honorMissionType": "master_full_perfect",
     "requirement": 40,
-    "sentence": "Clear 40 songs on Master difficulty with All Perfects.",
+    "sentence": "難易度MASTERで40曲ALL PERFECTでクリアしよう。",
     "rewards": [
       {
         "id": 493,
@@ -628,7 +804,7 @@
     "seq": 6,
     "honorMissionType": "master_full_perfect",
     "requirement": 50,
-    "sentence": "Clear 50 songs on Master difficulty with All Perfects.",
+    "sentence": "難易度MASTERで50曲ALL PERFECTでクリアしよう。",
     "rewards": [
       {
         "id": 494,
@@ -644,7 +820,7 @@
     "seq": 7,
     "honorMissionType": "master_full_perfect",
     "requirement": 60,
-    "sentence": "Clear 60 songs on Master difficulty with All Perfects.",
+    "sentence": "難易度MASTERで60曲ALL PERFECTでクリアしよう。",
     "rewards": [
       {
         "id": 1236,
@@ -660,7 +836,7 @@
     "seq": 8,
     "honorMissionType": "master_full_perfect",
     "requirement": 70,
-    "sentence": "Clear 70 songs on Master difficulty with All Perfects.",
+    "sentence": "難易度MASTERで70曲ALL PERFECTでクリアしよう。",
     "rewards": [
       {
         "id": 1237,
@@ -676,7 +852,7 @@
     "seq": 9,
     "honorMissionType": "master_full_perfect",
     "requirement": 80,
-    "sentence": "Clear 80 songs on Master difficulty with All Perfects.",
+    "sentence": "難易度MASTERで80曲ALL PERFECTでクリアしよう。",
     "rewards": [
       {
         "id": 2457,
@@ -692,7 +868,7 @@
     "seq": 10,
     "honorMissionType": "master_full_perfect",
     "requirement": 90,
-    "sentence": "Clear 90 songs on Master difficulty with All Perfects.",
+    "sentence": "難易度MASTERで90曲ALL PERFECTでクリアしよう。",
     "rewards": [
       {
         "id": 2458,
@@ -708,7 +884,7 @@
     "seq": 11,
     "honorMissionType": "master_full_perfect",
     "requirement": 100,
-    "sentence": "Clear 100 songs on Master difficulty with All Perfects.",
+    "sentence": "難易度MASTERで100曲ALL PERFECTでクリアしよう。",
     "rewards": [
       {
         "id": 2459,
@@ -724,7 +900,7 @@
     "seq": 12,
     "honorMissionType": "master_full_perfect",
     "requirement": 110,
-    "sentence": "Clear 110 songs on Master difficulty with All Perfects.",
+    "sentence": "難易度MASTERで110曲ALL PERFECTでクリアしよう。",
     "rewards": [
       {
         "id": 2460,
@@ -740,7 +916,7 @@
     "seq": 13,
     "honorMissionType": "master_full_perfect",
     "requirement": 120,
-    "sentence": "Clear 120 songs on Master difficulty with All Perfects.",
+    "sentence": "難易度MASTERで120曲ALL PERFECTでクリアしよう。",
     "rewards": [
       {
         "id": 2461,
@@ -752,11 +928,171 @@
     ]
   },
   {
+    "id": 1114,
+    "seq": 14,
+    "honorMissionType": "master_full_perfect",
+    "requirement": 130,
+    "sentence": "難易度MASTERで130曲ALL PERFECTでクリアしよう。",
+    "rewards": [
+      {
+        "id": 3888,
+        "missionType": "honor_mission",
+        "missionId": 1114,
+        "seq": 1,
+        "resourceBoxId": 1339
+      }
+    ]
+  },
+  {
+    "id": 1115,
+    "seq": 15,
+    "honorMissionType": "master_full_perfect",
+    "requirement": 140,
+    "sentence": "難易度MASTERで140曲ALL PERFECTでクリアしよう。",
+    "rewards": [
+      {
+        "id": 3889,
+        "missionType": "honor_mission",
+        "missionId": 1115,
+        "seq": 1,
+        "resourceBoxId": 1340
+      }
+    ]
+  },
+  {
+    "id": 1116,
+    "seq": 16,
+    "honorMissionType": "master_full_perfect",
+    "requirement": 150,
+    "sentence": "難易度MASTERで150曲ALL PERFECTでクリアしよう。",
+    "rewards": [
+      {
+        "id": 3890,
+        "missionType": "honor_mission",
+        "missionId": 1116,
+        "seq": 1,
+        "resourceBoxId": 1341
+      }
+    ]
+  },
+  {
+    "id": 1117,
+    "seq": 17,
+    "honorMissionType": "master_full_perfect",
+    "requirement": 160,
+    "sentence": "難易度MASTERで160曲ALL PERFECTでクリアしよう。",
+    "rewards": [
+      {
+        "id": 3891,
+        "missionType": "honor_mission",
+        "missionId": 1117,
+        "seq": 1,
+        "resourceBoxId": 1342
+      }
+    ]
+  },
+  {
+    "id": 1118,
+    "seq": 18,
+    "honorMissionType": "master_full_perfect",
+    "requirement": 170,
+    "sentence": "難易度MASTERで170曲ALL PERFECTでクリアしよう。",
+    "rewards": [
+      {
+        "id": 3892,
+        "missionType": "honor_mission",
+        "missionId": 1118,
+        "seq": 1,
+        "resourceBoxId": 1343
+      }
+    ]
+  },
+  {
+    "id": 1119,
+    "seq": 19,
+    "honorMissionType": "master_full_perfect",
+    "requirement": 180,
+    "sentence": "難易度MASTERで180曲ALL PERFECTでクリアしよう。",
+    "rewards": [
+      {
+        "id": 3893,
+        "missionType": "honor_mission",
+        "missionId": 1119,
+        "seq": 1,
+        "resourceBoxId": 1344
+      }
+    ]
+  },
+  {
+    "id": 1120,
+    "seq": 20,
+    "honorMissionType": "master_full_perfect",
+    "requirement": 190,
+    "sentence": "難易度MASTERで190曲ALL PERFECTでクリアしよう。",
+    "rewards": [
+      {
+        "id": 3894,
+        "missionType": "honor_mission",
+        "missionId": 1120,
+        "seq": 1,
+        "resourceBoxId": 1345
+      }
+    ]
+  },
+  {
+    "id": 1121,
+    "seq": 21,
+    "honorMissionType": "master_full_perfect",
+    "requirement": 200,
+    "sentence": "難易度MASTERで200曲ALL PERFECTでクリアしよう。",
+    "rewards": [
+      {
+        "id": 3895,
+        "missionType": "honor_mission",
+        "missionId": 1121,
+        "seq": 1,
+        "resourceBoxId": 1346
+      }
+    ]
+  },
+  {
+    "id": 1122,
+    "seq": 22,
+    "honorMissionType": "master_full_perfect",
+    "requirement": 210,
+    "sentence": "難易度MASTERで210曲ALL PERFECTでクリアしよう。",
+    "rewards": [
+      {
+        "id": 3896,
+        "missionType": "honor_mission",
+        "missionId": 1122,
+        "seq": 1,
+        "resourceBoxId": 1347
+      }
+    ]
+  },
+  {
+    "id": 1123,
+    "seq": 23,
+    "honorMissionType": "master_full_perfect",
+    "requirement": 220,
+    "sentence": "難易度MASTERで220曲ALL PERFECTでクリアしよう。",
+    "rewards": [
+      {
+        "id": 3897,
+        "missionType": "honor_mission",
+        "missionId": 1123,
+        "seq": 1,
+        "resourceBoxId": 1348
+      }
+    ]
+  },
+  {
     "id": 1201,
     "seq": 1,
     "honorMissionType": "clear_live_target_life",
     "requirement": 2000,
-    "sentence": "Clear a show with 2,000 Life.",
+    "sentence": "ライフ2000でライブをクリアしよう。",
     "rewards": [
       {
         "id": 329,
@@ -772,7 +1108,7 @@
     "seq": 1,
     "honorMissionType": "clear_live_continued",
     "requirement": 5,
-    "sentence": "Clear a show using five or more continues.",
+    "sentence": "1回のライブで5回以上コンティニューしてクリアしよう。",
     "rewards": [
       {
         "id": 330,
@@ -788,7 +1124,7 @@
     "seq": 1,
     "honorMissionType": "clear_live_combo",
     "requirement": 1000,
-    "sentence": "Clear a show with a combo of at least 1,000.",
+    "sentence": "コンボを1000以上繋いでライブをクリアしよう。",
     "rewards": [
       {
         "id": 331,
@@ -804,7 +1140,7 @@
     "seq": 1,
     "honorMissionType": "collect_coin_total",
     "requirement": 1000000,
-    "sentence": "Obtain 1,000,000 Coins in total.",
+    "sentence": "コインを累計100万獲得しよう。",
     "rewards": [
       {
         "id": 332,
@@ -820,7 +1156,7 @@
     "seq": 1,
     "honorMissionType": "clear_multi_live_full_combo_all",
     "requirement": 1,
-    "sentence": "Clear a Co-op/Cheerful Show with all five participants achieving a Full Combo.",
+    "sentence": "｢みんなでライブ・チアフルライブ｣で5人全員がフルコンボでクリアしよう。",
     "rewards": [
       {
         "id": 333,
@@ -836,7 +1172,7 @@
     "seq": 1,
     "honorMissionType": "multi_live_select_same_music",
     "requirement": 1,
-    "sentence": "Clear a Co-op/Cheerful Show where all five participants have selected the same song.",
+    "sentence": "｢みんなでライブ｣で5人全員同じ選曲をしよう。",
     "rewards": [
       {
         "id": 334,
@@ -852,7 +1188,7 @@
     "seq": 1,
     "honorMissionType": "multi_live_same_honor",
     "requirement": 1,
-    "sentence": "Clear a Co-op/Cheerful Show where all five participants have at least one Title in common.",
+    "sentence": "｢みんなでライブ・チアフルライブ｣で5人全員が同じ称号を1つ以上つけよう。",
     "rewards": [
       {
         "id": 335,
@@ -868,7 +1204,7 @@
     "seq": 1,
     "honorMissionType": "multi_live_stamp",
     "requirement": 1000,
-    "sentence": "Use 1,000 Stamps in Co-op/Cheerful Show.",
+    "sentence": "｢みんなでライブ・チアフルライブ・ランクマッチ｣でスタンプを1000回押そう。",
     "rewards": [
       {
         "id": 336,
@@ -884,7 +1220,7 @@
     "seq": 1,
     "honorMissionType": "duplicate_card_total",
     "requirement": 100,
-    "sentence": "Have a total of 100 members in the Green Room.",
+    "sentence": "控え室のメンバーを累計で100人迎えよう。",
     "rewards": [
       {
         "id": 337,
@@ -900,7 +1236,7 @@
     "seq": 1,
     "honorMissionType": "collect_stamp",
     "requirement": 30,
-    "sentence": "Collect 30 Stamps.",
+    "sentence": "スタンプを30種類集めよう。",
     "rewards": [
       {
         "id": 338,
@@ -916,7 +1252,7 @@
     "seq": 1,
     "honorMissionType": "action_set",
     "requirement": 500,
-    "sentence": "View 500 Area Conversations.",
+    "sentence": "エリア会話を500種類見よう。",
     "rewards": [
       {
         "id": 339,
@@ -932,7 +1268,7 @@
     "seq": 1,
     "honorMissionType": "read_story_no_skip",
     "requirement": 100,
-    "sentence": "View 100 episodes of either the Main Story or Side Stories without skipping.",
+    "sentence": "「メインストーリー」か「サイドストーリー」をスキップしないで100話読もう。",
     "rewards": [
       {
         "id": 340,
@@ -948,7 +1284,7 @@
     "seq": 1,
     "honorMissionType": "clear_live_school_year_1",
     "requirement": 100,
-    "sentence": "Play 100 shows with five 1st year students.",
+    "sentence": "1年生キャラクター5人を編成して100回ライブしよう。",
     "rewards": [
       {
         "id": 341,
@@ -964,7 +1300,7 @@
     "seq": 1,
     "honorMissionType": "clear_live_school_year_2",
     "requirement": 100,
-    "sentence": "Play 100 shows with five 2nd year students.",
+    "sentence": "2年生キャラクター5人を編成して100回ライブしよう。",
     "rewards": [
       {
         "id": 342,
@@ -980,7 +1316,7 @@
     "seq": 1,
     "honorMissionType": "clear_live_school_miyamasuzaka",
     "requirement": 100,
-    "sentence": "Play 100 shows with five characters from Miyamasuzaka Girls Academy.",
+    "sentence": "宮益坂女子高キャラクター5人を編成して100回ライブしよう。",
     "rewards": [
       {
         "id": 343,
@@ -996,7 +1332,7 @@
     "seq": 1,
     "honorMissionType": "clear_live_school_kamiyama",
     "requirement": 100,
-    "sentence": "Play 100 shows with five characters from Kamiyama High School.",
+    "sentence": "都立神山高キャラクター5人を編成して100回ライブしよう。",
     "rewards": [
       {
         "id": 344,
@@ -1012,7 +1348,7 @@
     "seq": 1,
     "honorMissionType": "clear_live_male",
     "requirement": 100,
-    "sentence": "Play 100 shows with only Tsukasa, Akito, Toya, Rui, Len, and KAITO.",
+    "sentence": "司､彰人､冬弥､類､レン､KAITOのみで編成して100回ライブしよう。",
     "rewards": [
       {
         "id": 345,
@@ -1028,7 +1364,7 @@
     "seq": 1,
     "honorMissionType": "multi_live_mvp",
     "requirement": 100,
-    "sentence": "Be crowned MVP in a Co-op/Cheerful Show 100 times.",
+    "sentence": "｢みんなでライブ・チアフルライブ｣で『MVP』に100回なろう。",
     "rewards": [
       {
         "id": 346,
@@ -1044,7 +1380,7 @@
     "seq": 1,
     "honorMissionType": "multi_live_super_star",
     "requirement": 100,
-    "sentence": "Be crowned SUPERSTAR in a Co-op/Cheerful Show 100 times.",
+    "sentence": "｢みんなでライブ・チアフルライブ｣で『SUPER STAR』に100回なろう。",
     "rewards": [
       {
         "id": 347,
@@ -1060,7 +1396,7 @@
     "seq": 1,
     "honorMissionType": "collect_costume_3d",
     "requirement": 50,
-    "sentence": "Obtain 50 Costumes.",
+    "sentence": "衣装を50種類獲得しよう。(メンバー獲得時のオリジナル・マスターランク育成でのアナザー・衣装ショップでの製作)",
     "rewards": [
       {
         "id": 348,
@@ -1076,7 +1412,7 @@
     "seq": 1,
     "honorMissionType": "light_sound_virtual_live_total_cheer_point",
     "requirement": 5000,
-    "sentence": "Get 5,000 Fan Points in total from Virtual Shows starring Leo/need members.",
+    "sentence": "Leo/needメンバーが出演するバーチャルライブで応援ポイントを累計5000達成しよう。",
     "rewards": [
       {
         "id": 495,
@@ -1092,7 +1428,7 @@
     "seq": 2,
     "honorMissionType": "light_sound_virtual_live_total_cheer_point",
     "requirement": 10000,
-    "sentence": "Get 10,000 Fan Points in total from Virtual Shows starring Leo/need members.",
+    "sentence": "Leo/needメンバーが出演するバーチャルライブで応援ポイントを累計10000達成しよう。",
     "rewards": [
       {
         "id": 496,
@@ -1108,7 +1444,7 @@
     "seq": 3,
     "honorMissionType": "light_sound_virtual_live_total_cheer_point",
     "requirement": 15000,
-    "sentence": "Get 15,000 Fan Points in total from Virtual Shows starring Leo/need members.",
+    "sentence": "Leo/needメンバーが出演するバーチャルライブで応援ポイントを累計15000達成しよう。",
     "rewards": [
       {
         "id": 497,
@@ -1124,7 +1460,7 @@
     "seq": 4,
     "honorMissionType": "light_sound_virtual_live_total_cheer_point",
     "requirement": 20000,
-    "sentence": "Get 20,000 Fan Points in total from Virtual Shows starring Leo/need members.",
+    "sentence": "Leo/needメンバーが出演するバーチャルライブで応援ポイントを累計20000達成しよう。",
     "rewards": [
       {
         "id": 498,
@@ -1140,7 +1476,7 @@
     "seq": 5,
     "honorMissionType": "light_sound_virtual_live_total_cheer_point",
     "requirement": 25000,
-    "sentence": "Get 25,000 Fan Points in total from Virtual Shows starring Leo/need members.",
+    "sentence": "Leo/needメンバーが出演するバーチャルライブで応援ポイントを累計25000達成しよう。",
     "rewards": [
       {
         "id": 499,
@@ -1156,7 +1492,7 @@
     "seq": 6,
     "honorMissionType": "light_sound_virtual_live_total_cheer_point",
     "requirement": 30000,
-    "sentence": "Get 30,000 Fan Points in total from Virtual Shows starring Leo/need members.",
+    "sentence": "Leo/needメンバーが出演するバーチャルライブで応援ポイントを累計30000達成しよう。",
     "rewards": [
       {
         "id": 500,
@@ -1172,7 +1508,7 @@
     "seq": 7,
     "honorMissionType": "light_sound_virtual_live_total_cheer_point",
     "requirement": 40000,
-    "sentence": "Get 40,000 Fan Points in total from Virtual Shows starring Leo/need members.",
+    "sentence": "Leo/needメンバーが出演するバーチャルライブで応援ポイントを累計40000達成しよう。",
     "rewards": [
       {
         "id": 501,
@@ -1188,7 +1524,7 @@
     "seq": 8,
     "honorMissionType": "light_sound_virtual_live_total_cheer_point",
     "requirement": 50000,
-    "sentence": "Get 50,000 Fan Points in total from Virtual Shows starring Leo/need members.",
+    "sentence": "Leo/needメンバーが出演するバーチャルライブで応援ポイントを累計50000達成しよう。",
     "rewards": [
       {
         "id": 502,
@@ -1204,7 +1540,7 @@
     "seq": 9,
     "honorMissionType": "light_sound_virtual_live_total_cheer_point",
     "requirement": 60000,
-    "sentence": "Get 60,000 Fan Points in total from Virtual Shows starring Leo/need members.",
+    "sentence": "Leo/needメンバーが出演するバーチャルライブで応援ポイントを累計60000達成しよう。",
     "rewards": [
       {
         "id": 503,
@@ -1220,7 +1556,7 @@
     "seq": 10,
     "honorMissionType": "light_sound_virtual_live_total_cheer_point",
     "requirement": 70000,
-    "sentence": "Get 70,000 Fan Points in total from Virtual Shows starring Leo/need members.",
+    "sentence": "Leo/needメンバーが出演するバーチャルライブで応援ポイントを累計70000達成しよう。",
     "rewards": [
       {
         "id": 504,
@@ -1236,7 +1572,7 @@
     "seq": 11,
     "honorMissionType": "light_sound_virtual_live_total_cheer_point",
     "requirement": 120000,
-    "sentence": "Get 120,000 Fan Points in total from Virtual Shows starring Leo/need members.",
+    "sentence": "Leo/needメンバーが出演するバーチャルライブで応援ポイントを累計120000達成しよう。",
     "rewards": [
       {
         "id": 2462,
@@ -1252,7 +1588,7 @@
     "seq": 12,
     "honorMissionType": "light_sound_virtual_live_total_cheer_point",
     "requirement": 170000,
-    "sentence": "Get 170,000 Fan Points in total from Virtual Shows starring Leo/need members.",
+    "sentence": "Leo/needメンバーが出演するバーチャルライブで応援ポイントを累計170000達成しよう。",
     "rewards": [
       {
         "id": 2463,
@@ -1268,7 +1604,7 @@
     "seq": 13,
     "honorMissionType": "light_sound_virtual_live_total_cheer_point",
     "requirement": 220000,
-    "sentence": "Get 220,000 Fan Points in total from Virtual Shows starring Leo/need members.",
+    "sentence": "Leo/needメンバーが出演するバーチャルライブで応援ポイントを累計220000達成しよう。",
     "rewards": [
       {
         "id": 2464,
@@ -1284,7 +1620,7 @@
     "seq": 14,
     "honorMissionType": "light_sound_virtual_live_total_cheer_point",
     "requirement": 270000,
-    "sentence": "Get 270,000 Fan Points in total from Virtual Shows starring Leo/need members.",
+    "sentence": "Leo/needメンバーが出演するバーチャルライブで応援ポイントを累計270000達成しよう。",
     "rewards": [
       {
         "id": 2465,
@@ -1300,7 +1636,7 @@
     "seq": 15,
     "honorMissionType": "light_sound_virtual_live_total_cheer_point",
     "requirement": 320000,
-    "sentence": "Get 320,000 Fan Points in total from Virtual Shows starring Leo/need members.",
+    "sentence": "Leo/needメンバーが出演するバーチャルライブで応援ポイントを累計320000達成しよう。",
     "rewards": [
       {
         "id": 2466,
@@ -1316,7 +1652,7 @@
     "seq": 1,
     "honorMissionType": "idol_virtual_live_total_cheer_point",
     "requirement": 5000,
-    "sentence": "Get 5,000 Fan Points in total from Virtual Shows starring MORE MORE JUMP! members.",
+    "sentence": "MORE MORE JUMP！メンバーが出演するバーチャルライブで応援ポイントを累計5000達成しよう。",
     "rewards": [
       {
         "id": 505,
@@ -1332,7 +1668,7 @@
     "seq": 2,
     "honorMissionType": "idol_virtual_live_total_cheer_point",
     "requirement": 10000,
-    "sentence": "Get 10,000 Fan Points in total from Virtual Shows starring MORE MORE JUMP! members.",
+    "sentence": "MORE MORE JUMP！メンバーが出演するバーチャルライブで応援ポイントを累計10000達成しよう。",
     "rewards": [
       {
         "id": 506,
@@ -1348,7 +1684,7 @@
     "seq": 3,
     "honorMissionType": "idol_virtual_live_total_cheer_point",
     "requirement": 15000,
-    "sentence": "Get 15,000 Fan Points in total from Virtual Shows starring MORE MORE JUMP! members.",
+    "sentence": "MORE MORE JUMP！メンバーが出演するバーチャルライブで応援ポイントを累計15000達成しよう。",
     "rewards": [
       {
         "id": 507,
@@ -1364,7 +1700,7 @@
     "seq": 4,
     "honorMissionType": "idol_virtual_live_total_cheer_point",
     "requirement": 20000,
-    "sentence": "Get 20,000 Fan Points in total from Virtual Shows starring MORE MORE JUMP! members.",
+    "sentence": "MORE MORE JUMP！メンバーが出演するバーチャルライブで応援ポイントを累計20000達成しよう。",
     "rewards": [
       {
         "id": 508,
@@ -1380,7 +1716,7 @@
     "seq": 5,
     "honorMissionType": "idol_virtual_live_total_cheer_point",
     "requirement": 25000,
-    "sentence": "Get 25,000 Fan Points in total from Virtual Shows starring MORE MORE JUMP! members.",
+    "sentence": "MORE MORE JUMP！メンバーが出演するバーチャルライブで応援ポイントを累計25000達成しよう。",
     "rewards": [
       {
         "id": 509,
@@ -1396,7 +1732,7 @@
     "seq": 6,
     "honorMissionType": "idol_virtual_live_total_cheer_point",
     "requirement": 30000,
-    "sentence": "Get 30,000 Fan Points in total from Virtual Shows starring MORE MORE JUMP! members.",
+    "sentence": "MORE MORE JUMP！メンバーが出演するバーチャルライブで応援ポイントを累計30000達成しよう。",
     "rewards": [
       {
         "id": 510,
@@ -1412,7 +1748,7 @@
     "seq": 7,
     "honorMissionType": "idol_virtual_live_total_cheer_point",
     "requirement": 40000,
-    "sentence": "Get 40,000 Fan Points in total from Virtual Shows starring MORE MORE JUMP! members.",
+    "sentence": "MORE MORE JUMP！メンバーが出演するバーチャルライブで応援ポイントを累計40000達成しよう。",
     "rewards": [
       {
         "id": 511,
@@ -1428,7 +1764,7 @@
     "seq": 8,
     "honorMissionType": "idol_virtual_live_total_cheer_point",
     "requirement": 50000,
-    "sentence": "Get 50,000 Fan Points in total from Virtual Shows starring MORE MORE JUMP! members.",
+    "sentence": "MORE MORE JUMP！メンバーが出演するバーチャルライブで応援ポイントを累計50000達成しよう。",
     "rewards": [
       {
         "id": 512,
@@ -1444,7 +1780,7 @@
     "seq": 9,
     "honorMissionType": "idol_virtual_live_total_cheer_point",
     "requirement": 60000,
-    "sentence": "Get 60,000 Fan Points in total from Virtual Shows starring MORE MORE JUMP! members.",
+    "sentence": "MORE MORE JUMP！メンバーが出演するバーチャルライブで応援ポイントを累計60000達成しよう。",
     "rewards": [
       {
         "id": 513,
@@ -1460,7 +1796,7 @@
     "seq": 10,
     "honorMissionType": "idol_virtual_live_total_cheer_point",
     "requirement": 70000,
-    "sentence": "Get 70,000 Fan Points in total from Virtual Shows starring MORE MORE JUMP! members.",
+    "sentence": "MORE MORE JUMP！メンバーが出演するバーチャルライブで応援ポイントを累計70000達成しよう。",
     "rewards": [
       {
         "id": 514,
@@ -1476,7 +1812,7 @@
     "seq": 11,
     "honorMissionType": "idol_virtual_live_total_cheer_point",
     "requirement": 120000,
-    "sentence": "Get 120,000 Fan Points in total from Virtual Shows starring MORE MORE JUMP! members.",
+    "sentence": "MORE MORE JUMP！メンバーが出演するバーチャルライブで応援ポイントを累計120000達成しよう。",
     "rewards": [
       {
         "id": 2467,
@@ -1492,7 +1828,7 @@
     "seq": 12,
     "honorMissionType": "idol_virtual_live_total_cheer_point",
     "requirement": 170000,
-    "sentence": "Get 170,000 Fan Points in total from Virtual Shows starring MORE MORE JUMP! members.",
+    "sentence": "MORE MORE JUMP！メンバーが出演するバーチャルライブで応援ポイントを累計170000達成しよう。",
     "rewards": [
       {
         "id": 2468,
@@ -1508,7 +1844,7 @@
     "seq": 13,
     "honorMissionType": "idol_virtual_live_total_cheer_point",
     "requirement": 220000,
-    "sentence": "Get 220,000 Fan Points in total from Virtual Shows starring MORE MORE JUMP! members.",
+    "sentence": "MORE MORE JUMP！メンバーが出演するバーチャルライブで応援ポイントを累計220000達成しよう。",
     "rewards": [
       {
         "id": 2469,
@@ -1524,7 +1860,7 @@
     "seq": 14,
     "honorMissionType": "idol_virtual_live_total_cheer_point",
     "requirement": 270000,
-    "sentence": "Get 270,000 Fan Points in total from Virtual Shows starring MORE MORE JUMP! members.",
+    "sentence": "MORE MORE JUMP！メンバーが出演するバーチャルライブで応援ポイントを累計270000達成しよう。",
     "rewards": [
       {
         "id": 2470,
@@ -1540,7 +1876,7 @@
     "seq": 15,
     "honorMissionType": "idol_virtual_live_total_cheer_point",
     "requirement": 320000,
-    "sentence": "Get 320,000 Fan Points in total from Virtual Shows starring MORE MORE JUMP! members.",
+    "sentence": "MORE MORE JUMP！メンバーが出演するバーチャルライブで応援ポイントを累計320000達成しよう。",
     "rewards": [
       {
         "id": 2471,
@@ -1556,7 +1892,7 @@
     "seq": 1,
     "honorMissionType": "street_virtual_live_total_cheer_point",
     "requirement": 5000,
-    "sentence": "Get 5,000 Fan Points in total from Virtual Shows starring Vivid BAD SQUAD members.",
+    "sentence": "Vivid BAD SQUADメンバーが出演するバーチャルライブで応援ポイントを累計5000達成しよう。",
     "rewards": [
       {
         "id": 515,
@@ -1572,7 +1908,7 @@
     "seq": 2,
     "honorMissionType": "street_virtual_live_total_cheer_point",
     "requirement": 10000,
-    "sentence": "Get 10,000 Fan Points in total from Virtual Shows starring Vivid BAD SQUAD members.",
+    "sentence": "Vivid BAD SQUADメンバーが出演するバーチャルライブで応援ポイントを累計10000達成しよう。",
     "rewards": [
       {
         "id": 516,
@@ -1588,7 +1924,7 @@
     "seq": 3,
     "honorMissionType": "street_virtual_live_total_cheer_point",
     "requirement": 15000,
-    "sentence": "Get 15,000 Fan Points in total from Virtual Shows starring Vivid BAD SQUAD members.",
+    "sentence": "Vivid BAD SQUADメンバーが出演するバーチャルライブで応援ポイントを累計15000達成しよう。",
     "rewards": [
       {
         "id": 517,
@@ -1604,7 +1940,7 @@
     "seq": 4,
     "honorMissionType": "street_virtual_live_total_cheer_point",
     "requirement": 20000,
-    "sentence": "Get 20,000 Fan Points in total from Virtual Shows starring Vivid BAD SQUAD members.",
+    "sentence": "Vivid BAD SQUADメンバーが出演するバーチャルライブで応援ポイントを累計20000達成しよう。",
     "rewards": [
       {
         "id": 518,
@@ -1620,7 +1956,7 @@
     "seq": 5,
     "honorMissionType": "street_virtual_live_total_cheer_point",
     "requirement": 25000,
-    "sentence": "Get 25,000 Fan Points in total from Virtual Shows starring Vivid BAD SQUAD members.",
+    "sentence": "Vivid BAD SQUADメンバーが出演するバーチャルライブで応援ポイントを累計25000達成しよう。",
     "rewards": [
       {
         "id": 519,
@@ -1636,7 +1972,7 @@
     "seq": 6,
     "honorMissionType": "street_virtual_live_total_cheer_point",
     "requirement": 30000,
-    "sentence": "Get 30,000 Fan Points in total from Virtual Shows starring Vivid BAD SQUAD members.",
+    "sentence": "Vivid BAD SQUADメンバーが出演するバーチャルライブで応援ポイントを累計30000達成しよう。",
     "rewards": [
       {
         "id": 520,
@@ -1652,7 +1988,7 @@
     "seq": 7,
     "honorMissionType": "street_virtual_live_total_cheer_point",
     "requirement": 40000,
-    "sentence": "Get 40,000 Fan Points in total from Virtual Shows starring Vivid BAD SQUAD members.",
+    "sentence": "Vivid BAD SQUADメンバーが出演するバーチャルライブで応援ポイントを累計40000達成しよう。",
     "rewards": [
       {
         "id": 521,
@@ -1668,7 +2004,7 @@
     "seq": 8,
     "honorMissionType": "street_virtual_live_total_cheer_point",
     "requirement": 50000,
-    "sentence": "Get 50,000 Fan Points in total from Virtual Shows starring Vivid BAD SQUAD members.",
+    "sentence": "Vivid BAD SQUADメンバーが出演するバーチャルライブで応援ポイントを累計50000達成しよう。",
     "rewards": [
       {
         "id": 522,
@@ -1684,7 +2020,7 @@
     "seq": 9,
     "honorMissionType": "street_virtual_live_total_cheer_point",
     "requirement": 60000,
-    "sentence": "Get 60,000 Fan Points in total from Virtual Shows starring Vivid BAD SQUAD members.",
+    "sentence": "Vivid BAD SQUADメンバーが出演するバーチャルライブで応援ポイントを累計60000達成しよう。",
     "rewards": [
       {
         "id": 523,
@@ -1700,7 +2036,7 @@
     "seq": 10,
     "honorMissionType": "street_virtual_live_total_cheer_point",
     "requirement": 70000,
-    "sentence": "Get 70,000 Fan Points in total from Virtual Shows starring Vivid BAD SQUAD members.",
+    "sentence": "Vivid BAD SQUADメンバーが出演するバーチャルライブで応援ポイントを累計70000達成しよう。",
     "rewards": [
       {
         "id": 524,
@@ -1716,7 +2052,7 @@
     "seq": 11,
     "honorMissionType": "street_virtual_live_total_cheer_point",
     "requirement": 120000,
-    "sentence": "Get 120,000 Fan Points in total from Virtual Shows starring Vivid BAD SQUAD members.",
+    "sentence": "Vivid BAD SQUADメンバーが出演するバーチャルライブで応援ポイントを累計120000達成しよう。",
     "rewards": [
       {
         "id": 2472,
@@ -1732,7 +2068,7 @@
     "seq": 12,
     "honorMissionType": "street_virtual_live_total_cheer_point",
     "requirement": 170000,
-    "sentence": "Get 170,000 Fan Points in total from Virtual Shows starring Vivid BAD SQUAD members.",
+    "sentence": "Vivid BAD SQUADメンバーが出演するバーチャルライブで応援ポイントを累計170000達成しよう。",
     "rewards": [
       {
         "id": 2473,
@@ -1748,7 +2084,7 @@
     "seq": 13,
     "honorMissionType": "street_virtual_live_total_cheer_point",
     "requirement": 220000,
-    "sentence": "Get 220,000 Fan Points in total from Virtual Shows starring Vivid BAD SQUAD members.",
+    "sentence": "Vivid BAD SQUADメンバーが出演するバーチャルライブで応援ポイントを累計220000達成しよう。",
     "rewards": [
       {
         "id": 2474,
@@ -1764,7 +2100,7 @@
     "seq": 14,
     "honorMissionType": "street_virtual_live_total_cheer_point",
     "requirement": 270000,
-    "sentence": "Get 270,000 Fan Points in total from Virtual Shows starring Vivid BAD SQUAD members.",
+    "sentence": "Vivid BAD SQUADメンバーが出演するバーチャルライブで応援ポイントを累計270000達成しよう。",
     "rewards": [
       {
         "id": 2475,
@@ -1780,7 +2116,7 @@
     "seq": 15,
     "honorMissionType": "street_virtual_live_total_cheer_point",
     "requirement": 320000,
-    "sentence": "Get 320,000 Fan Points in total from Virtual Shows starring Vivid BAD SQUAD members.",
+    "sentence": "Vivid BAD SQUADメンバーが出演するバーチャルライブで応援ポイントを累計320000達成しよう。",
     "rewards": [
       {
         "id": 2476,
@@ -1796,7 +2132,7 @@
     "seq": 1,
     "honorMissionType": "theme_park_virtual_live_total_cheer_point",
     "requirement": 5000,
-    "sentence": "Get 5,000 Fan Points in total from Virtual Shows starring Wonderlands×Showtime members.",
+    "sentence": "ワンダーランズ×ショウタイムメンバーが出演するバーチャルライブで応援ポイントを累計5000達成しよう。",
     "rewards": [
       {
         "id": 525,
@@ -1812,7 +2148,7 @@
     "seq": 2,
     "honorMissionType": "theme_park_virtual_live_total_cheer_point",
     "requirement": 10000,
-    "sentence": "Get 10,000 Fan Points in total from Virtual Shows starring Wonderlands×Showtime members.",
+    "sentence": "ワンダーランズ×ショウタイムメンバーが出演するバーチャルライブで応援ポイントを累計10000達成しよう。",
     "rewards": [
       {
         "id": 526,
@@ -1828,7 +2164,7 @@
     "seq": 3,
     "honorMissionType": "theme_park_virtual_live_total_cheer_point",
     "requirement": 15000,
-    "sentence": "Get 15,000 Fan Points in total from Virtual Shows starring Wonderlands×Showtime members.",
+    "sentence": "ワンダーランズ×ショウタイムメンバーが出演するバーチャルライブで応援ポイントを累計15000達成しよう。",
     "rewards": [
       {
         "id": 527,
@@ -1844,7 +2180,7 @@
     "seq": 4,
     "honorMissionType": "theme_park_virtual_live_total_cheer_point",
     "requirement": 20000,
-    "sentence": "Get 20,000 Fan Points in total from Virtual Shows starring Wonderlands×Showtime members.",
+    "sentence": "ワンダーランズ×ショウタイムメンバーが出演するバーチャルライブで応援ポイントを累計20000達成しよう。",
     "rewards": [
       {
         "id": 528,
@@ -1860,7 +2196,7 @@
     "seq": 5,
     "honorMissionType": "theme_park_virtual_live_total_cheer_point",
     "requirement": 25000,
-    "sentence": "Get 25,000 Fan Points in total from Virtual Shows starring Wonderlands×Showtime members.",
+    "sentence": "ワンダーランズ×ショウタイムメンバーが出演するバーチャルライブで応援ポイントを累計25000達成しよう。",
     "rewards": [
       {
         "id": 529,
@@ -1876,7 +2212,7 @@
     "seq": 6,
     "honorMissionType": "theme_park_virtual_live_total_cheer_point",
     "requirement": 30000,
-    "sentence": "Get 30,000 Fan Points in total from Virtual Shows starring Wonderlands×Showtime members.",
+    "sentence": "ワンダーランズ×ショウタイムメンバーが出演するバーチャルライブで応援ポイントを累計30000達成しよう。",
     "rewards": [
       {
         "id": 530,
@@ -1892,7 +2228,7 @@
     "seq": 7,
     "honorMissionType": "theme_park_virtual_live_total_cheer_point",
     "requirement": 40000,
-    "sentence": "Get 40,000 Fan Points in total from Virtual Shows starring Wonderlands×Showtime members.",
+    "sentence": "ワンダーランズ×ショウタイムメンバーが出演するバーチャルライブで応援ポイントを累計40000達成しよう。",
     "rewards": [
       {
         "id": 531,
@@ -1908,7 +2244,7 @@
     "seq": 8,
     "honorMissionType": "theme_park_virtual_live_total_cheer_point",
     "requirement": 50000,
-    "sentence": "Get 50,000 Fan Points in total from Virtual Shows starring Wonderlands×Showtime members.",
+    "sentence": "ワンダーランズ×ショウタイムメンバーが出演するバーチャルライブで応援ポイントを累計50000達成しよう。",
     "rewards": [
       {
         "id": 532,
@@ -1924,7 +2260,7 @@
     "seq": 9,
     "honorMissionType": "theme_park_virtual_live_total_cheer_point",
     "requirement": 60000,
-    "sentence": "Get 60,000 Fan Points in total from Virtual Shows starring Wonderlands×Showtime members.",
+    "sentence": "ワンダーランズ×ショウタイムメンバーが出演するバーチャルライブで応援ポイントを累計60000達成しよう。",
     "rewards": [
       {
         "id": 533,
@@ -1940,7 +2276,7 @@
     "seq": 10,
     "honorMissionType": "theme_park_virtual_live_total_cheer_point",
     "requirement": 70000,
-    "sentence": "Get 70,000 Fan Points in total from Virtual Shows starring Wonderlands×Showtime members.",
+    "sentence": "ワンダーランズ×ショウタイムメンバーが出演するバーチャルライブで応援ポイントを累計70000達成しよう。",
     "rewards": [
       {
         "id": 534,
@@ -1956,7 +2292,7 @@
     "seq": 11,
     "honorMissionType": "theme_park_virtual_live_total_cheer_point",
     "requirement": 120000,
-    "sentence": "Get 120,000 Fan Points in total from Virtual Shows starring Wonderlands×Showtime members.",
+    "sentence": "ワンダーランズ×ショウタイムメンバーが出演するバーチャルライブで応援ポイントを累計120000達成しよう。",
     "rewards": [
       {
         "id": 2477,
@@ -1972,7 +2308,7 @@
     "seq": 12,
     "honorMissionType": "theme_park_virtual_live_total_cheer_point",
     "requirement": 170000,
-    "sentence": "Get 170,000 Fan Points in total from Virtual Shows starring Wonderlands×Showtime members.",
+    "sentence": "ワンダーランズ×ショウタイムメンバーが出演するバーチャルライブで応援ポイントを累計170000達成しよう。",
     "rewards": [
       {
         "id": 2478,
@@ -1988,7 +2324,7 @@
     "seq": 13,
     "honorMissionType": "theme_park_virtual_live_total_cheer_point",
     "requirement": 220000,
-    "sentence": "Get 220,000 Fan Points in total from Virtual Shows starring Wonderlands×Showtime members.",
+    "sentence": "ワンダーランズ×ショウタイムメンバーが出演するバーチャルライブで応援ポイントを累計220000達成しよう。",
     "rewards": [
       {
         "id": 2479,
@@ -2004,7 +2340,7 @@
     "seq": 14,
     "honorMissionType": "theme_park_virtual_live_total_cheer_point",
     "requirement": 270000,
-    "sentence": "Get 270,000 Fan Points in total from Virtual Shows starring Wonderlands×Showtime members.",
+    "sentence": "ワンダーランズ×ショウタイムメンバーが出演するバーチャルライブで応援ポイントを累計270000達成しよう。",
     "rewards": [
       {
         "id": 2480,
@@ -2020,7 +2356,7 @@
     "seq": 15,
     "honorMissionType": "theme_park_virtual_live_total_cheer_point",
     "requirement": 320000,
-    "sentence": "Get 320,000 Fan Points in total from Virtual Shows starring Wonderlands×Showtime members.",
+    "sentence": "ワンダーランズ×ショウタイムメンバーが出演するバーチャルライブで応援ポイントを累計320000達成しよう。",
     "rewards": [
       {
         "id": 2481,
@@ -2036,7 +2372,7 @@
     "seq": 1,
     "honorMissionType": "school_refusal_virtual_live_total_cheer_point",
     "requirement": 5000,
-    "sentence": "Get 5,000 Fan Points in total from Virtual Shows starring Nightcord at 25:00 members.",
+    "sentence": "25時、ナイトコードで。メンバーが出演するバーチャルライブで応援ポイントを累計5000達成しよう。",
     "rewards": [
       {
         "id": 535,
@@ -2052,7 +2388,7 @@
     "seq": 2,
     "honorMissionType": "school_refusal_virtual_live_total_cheer_point",
     "requirement": 10000,
-    "sentence": "Get 10,000 Fan Points in total from Virtual Shows starring Nightcord at 25:00 members.",
+    "sentence": "25時、ナイトコードで。メンバーが出演するバーチャルライブで応援ポイントを累計10000達成しよう。",
     "rewards": [
       {
         "id": 536,
@@ -2068,7 +2404,7 @@
     "seq": 3,
     "honorMissionType": "school_refusal_virtual_live_total_cheer_point",
     "requirement": 15000,
-    "sentence": "Get 15,000 Fan Points in total from Virtual Shows starring Nightcord at 25:00 members.",
+    "sentence": "25時、ナイトコードで。メンバーが出演するバーチャルライブで応援ポイントを累計15000達成しよう。",
     "rewards": [
       {
         "id": 537,
@@ -2084,7 +2420,7 @@
     "seq": 4,
     "honorMissionType": "school_refusal_virtual_live_total_cheer_point",
     "requirement": 20000,
-    "sentence": "Get 20,000 Fan Points in total from Virtual Shows starring Nightcord at 25:00 members.",
+    "sentence": "25時、ナイトコードで。メンバーが出演するバーチャルライブで応援ポイントを累計20000達成しよう。",
     "rewards": [
       {
         "id": 538,
@@ -2100,7 +2436,7 @@
     "seq": 5,
     "honorMissionType": "school_refusal_virtual_live_total_cheer_point",
     "requirement": 25000,
-    "sentence": "Get 25,000 Fan Points in total from Virtual Shows starring Nightcord at 25:00 members.",
+    "sentence": "25時、ナイトコードで。メンバーが出演するバーチャルライブで応援ポイントを累計25000達成しよう。",
     "rewards": [
       {
         "id": 539,
@@ -2116,7 +2452,7 @@
     "seq": 6,
     "honorMissionType": "school_refusal_virtual_live_total_cheer_point",
     "requirement": 30000,
-    "sentence": "Get 30,000 Fan Points in total from Virtual Shows starring Nightcord at 25:00 members.",
+    "sentence": "25時、ナイトコードで。メンバーが出演するバーチャルライブで応援ポイントを累計30000達成しよう。",
     "rewards": [
       {
         "id": 540,
@@ -2132,7 +2468,7 @@
     "seq": 7,
     "honorMissionType": "school_refusal_virtual_live_total_cheer_point",
     "requirement": 40000,
-    "sentence": "Get 40,000 Fan Points in total from Virtual Shows starring Nightcord at 25:00 members.",
+    "sentence": "25時、ナイトコードで。メンバーが出演するバーチャルライブで応援ポイントを累計40000達成しよう。",
     "rewards": [
       {
         "id": 541,
@@ -2148,7 +2484,7 @@
     "seq": 8,
     "honorMissionType": "school_refusal_virtual_live_total_cheer_point",
     "requirement": 50000,
-    "sentence": "Get 50,000 Fan Points in total from Virtual Shows starring Nightcord at 25:00 members.",
+    "sentence": "25時、ナイトコードで。メンバーが出演するバーチャルライブで応援ポイントを累計50000達成しよう。",
     "rewards": [
       {
         "id": 542,
@@ -2164,7 +2500,7 @@
     "seq": 9,
     "honorMissionType": "school_refusal_virtual_live_total_cheer_point",
     "requirement": 60000,
-    "sentence": "Get 60,000 Fan Points in total from Virtual Shows starring Nightcord at 25:00 members.",
+    "sentence": "25時、ナイトコードで。メンバーが出演するバーチャルライブで応援ポイントを累計60000達成しよう。",
     "rewards": [
       {
         "id": 543,
@@ -2180,7 +2516,7 @@
     "seq": 10,
     "honorMissionType": "school_refusal_virtual_live_total_cheer_point",
     "requirement": 70000,
-    "sentence": "Get 70,000 Fan Points in total from Virtual Shows starring Nightcord at 25:00 members.",
+    "sentence": "25時、ナイトコードで。メンバーが出演するバーチャルライブで応援ポイントを累計70000達成しよう。",
     "rewards": [
       {
         "id": 544,
@@ -2196,7 +2532,7 @@
     "seq": 11,
     "honorMissionType": "school_refusal_virtual_live_total_cheer_point",
     "requirement": 120000,
-    "sentence": "Get 120,000 Fan Points in total from Virtual Shows starring Nightcord at 25:00 members.",
+    "sentence": "25時、ナイトコードで。メンバーが出演するバーチャルライブで応援ポイントを累計120000達成しよう。",
     "rewards": [
       {
         "id": 2482,
@@ -2212,7 +2548,7 @@
     "seq": 12,
     "honorMissionType": "school_refusal_virtual_live_total_cheer_point",
     "requirement": 170000,
-    "sentence": "Get 170,000 Fan Points in total from Virtual Shows starring Nightcord at 25:00 members.",
+    "sentence": "25時、ナイトコードで。メンバーが出演するバーチャルライブで応援ポイントを累計170000達成しよう。",
     "rewards": [
       {
         "id": 2483,
@@ -2228,7 +2564,7 @@
     "seq": 13,
     "honorMissionType": "school_refusal_virtual_live_total_cheer_point",
     "requirement": 220000,
-    "sentence": "Get 220,000 Fan Points in total from Virtual Shows starring Nightcord at 25:00 members.",
+    "sentence": "25時、ナイトコードで。メンバーが出演するバーチャルライブで応援ポイントを累計220000達成しよう。",
     "rewards": [
       {
         "id": 2484,
@@ -2244,7 +2580,7 @@
     "seq": 14,
     "honorMissionType": "school_refusal_virtual_live_total_cheer_point",
     "requirement": 270000,
-    "sentence": "Get 270,000 Fan Points in total from Virtual Shows starring Nightcord at 25:00 members.",
+    "sentence": "25時、ナイトコードで。メンバーが出演するバーチャルライブで応援ポイントを累計270000達成しよう。",
     "rewards": [
       {
         "id": 2485,
@@ -2260,7 +2596,7 @@
     "seq": 15,
     "honorMissionType": "school_refusal_virtual_live_total_cheer_point",
     "requirement": 320000,
-    "sentence": "Get 320,000 Fan Points in total from Virtual Shows starring Nightcord at 25:00 members.",
+    "sentence": "25時、ナイトコードで。メンバーが出演するバーチャルライブで応援ポイントを累計320000達成しよう。",
     "rewards": [
       {
         "id": 2486,
@@ -2276,7 +2612,7 @@
     "seq": 11,
     "honorMissionType": "piapro_virtual_live_total_cheer_point",
     "requirement": 120000,
-    "sentence": "Get 120,000 Fan Points in total from Virtual Shows starring VIRTUAL SINGER members.",
+    "sentence": "バーチャル・シンガーメンバーが出演するバーチャルライブで応援ポイントを累計120000達成しよう。",
     "rewards": [
       {
         "id": 2487,
@@ -2292,7 +2628,7 @@
     "seq": 12,
     "honorMissionType": "piapro_virtual_live_total_cheer_point",
     "requirement": 170000,
-    "sentence": "Get 170,000 Fan Points in total from Virtual Shows starring VIRTUAL SINGER members.",
+    "sentence": "バーチャル・シンガーメンバーが出演するバーチャルライブで応援ポイントを累計170000達成しよう。",
     "rewards": [
       {
         "id": 2488,
@@ -2308,7 +2644,7 @@
     "seq": 13,
     "honorMissionType": "piapro_virtual_live_total_cheer_point",
     "requirement": 220000,
-    "sentence": "Get 220,000 Fan Points in total from Virtual Shows starring VIRTUAL SINGER members.",
+    "sentence": "バーチャル・シンガーメンバーが出演するバーチャルライブで応援ポイントを累計220000達成しよう。",
     "rewards": [
       {
         "id": 2489,
@@ -2324,7 +2660,7 @@
     "seq": 14,
     "honorMissionType": "piapro_virtual_live_total_cheer_point",
     "requirement": 270000,
-    "sentence": "Get 270,000 Fan Points in total from Virtual Shows starring VIRTUAL SINGER members.",
+    "sentence": "バーチャル・シンガーメンバーが出演するバーチャルライブで応援ポイントを累計270000達成しよう。",
     "rewards": [
       {
         "id": 2490,
@@ -2340,7 +2676,7 @@
     "seq": 15,
     "honorMissionType": "piapro_virtual_live_total_cheer_point",
     "requirement": 320000,
-    "sentence": "Get 320,000 Fan Points in total from Virtual Shows starring VIRTUAL SINGER members.",
+    "sentence": "バーチャル・シンガーメンバーが出演するバーチャルライブで応援ポイントを累計320000達成しよう。",
     "rewards": [
       {
         "id": 2491,
@@ -2356,7 +2692,7 @@
     "seq": 1,
     "honorMissionType": "piapro_virtual_live_total_cheer_point",
     "requirement": 5000,
-    "sentence": "Get 5,000 Fan Points in total from Virtual Shows starring VIRTUAL SINGER members.",
+    "sentence": "バーチャル・シンガーメンバーが出演するバーチャルライブで応援ポイントを累計5000達成しよう。",
     "rewards": [
       {
         "id": 545,
@@ -2372,7 +2708,7 @@
     "seq": 2,
     "honorMissionType": "piapro_virtual_live_total_cheer_point",
     "requirement": 10000,
-    "sentence": "Get 10,000 Fan Points in total from Virtual Shows starring VIRTUAL SINGER members.",
+    "sentence": "バーチャル・シンガーメンバーが出演するバーチャルライブで応援ポイントを累計10000達成しよう。",
     "rewards": [
       {
         "id": 546,
@@ -2388,7 +2724,7 @@
     "seq": 3,
     "honorMissionType": "piapro_virtual_live_total_cheer_point",
     "requirement": 15000,
-    "sentence": "Get 15,000 Fan Points in total from Virtual Shows starring VIRTUAL SINGER members.",
+    "sentence": "バーチャル・シンガーメンバーが出演するバーチャルライブで応援ポイントを累計15000達成しよう。",
     "rewards": [
       {
         "id": 547,
@@ -2404,7 +2740,7 @@
     "seq": 4,
     "honorMissionType": "piapro_virtual_live_total_cheer_point",
     "requirement": 20000,
-    "sentence": "Get 20,000 Fan Points in total from Virtual Shows starring VIRTUAL SINGER members.",
+    "sentence": "バーチャル・シンガーメンバーが出演するバーチャルライブで応援ポイントを累計20000達成しよう。",
     "rewards": [
       {
         "id": 548,
@@ -2420,7 +2756,7 @@
     "seq": 5,
     "honorMissionType": "piapro_virtual_live_total_cheer_point",
     "requirement": 25000,
-    "sentence": "Get 25,000 Fan Points in total from Virtual Shows starring VIRTUAL SINGER members.",
+    "sentence": "バーチャル・シンガーメンバーが出演するバーチャルライブで応援ポイントを累計25000達成しよう。",
     "rewards": [
       {
         "id": 549,
@@ -2436,7 +2772,7 @@
     "seq": 6,
     "honorMissionType": "piapro_virtual_live_total_cheer_point",
     "requirement": 30000,
-    "sentence": "Get 30,000 Fan Points in total from Virtual Shows starring VIRTUAL SINGER members.",
+    "sentence": "バーチャル・シンガーメンバーが出演するバーチャルライブで応援ポイントを累計30000達成しよう。",
     "rewards": [
       {
         "id": 550,
@@ -2452,7 +2788,7 @@
     "seq": 7,
     "honorMissionType": "piapro_virtual_live_total_cheer_point",
     "requirement": 40000,
-    "sentence": "Get 40,000 Fan Points in total from Virtual Shows starring VIRTUAL SINGER members.",
+    "sentence": "バーチャル・シンガーメンバーが出演するバーチャルライブで応援ポイントを累計40000達成しよう。",
     "rewards": [
       {
         "id": 551,
@@ -2468,7 +2804,7 @@
     "seq": 8,
     "honorMissionType": "piapro_virtual_live_total_cheer_point",
     "requirement": 50000,
-    "sentence": "Get 50,000 Fan Points in total from Virtual Shows starring VIRTUAL SINGER members.",
+    "sentence": "バーチャル・シンガーメンバーが出演するバーチャルライブで応援ポイントを累計50000達成しよう。",
     "rewards": [
       {
         "id": 552,
@@ -2484,7 +2820,7 @@
     "seq": 9,
     "honorMissionType": "piapro_virtual_live_total_cheer_point",
     "requirement": 60000,
-    "sentence": "Get 60,000 Fan Points in total from Virtual Shows starring VIRTUAL SINGER members.",
+    "sentence": "バーチャル・シンガーメンバーが出演するバーチャルライブで応援ポイントを累計60000達成しよう。",
     "rewards": [
       {
         "id": 553,
@@ -2500,7 +2836,7 @@
     "seq": 10,
     "honorMissionType": "piapro_virtual_live_total_cheer_point",
     "requirement": 70000,
-    "sentence": "Get 70,000 Fan Points in total from Virtual Shows starring VIRTUAL SINGER members.",
+    "sentence": "バーチャル・シンガーメンバーが出演するバーチャルライブで応援ポイントを累計70000達成しよう。",
     "rewards": [
       {
         "id": 554,
@@ -2516,7 +2852,7 @@
     "seq": 1,
     "honorMissionType": "send_friend_request",
     "requirement": 1,
-    "sentence": "Send a Friend Request.",
+    "sentence": "フレンド申請を1回しよう。",
     "rewards": [
       {
         "id": 959,
@@ -2532,7 +2868,7 @@
     "seq": 1,
     "honorMissionType": "make_friend",
     "requirement": 100,
-    "sentence": "Add 100 players to your Friends List.",
+    "sentence": "フレンドを100人つくろう。",
     "rewards": [
       {
         "id": 960,
@@ -2548,7 +2884,7 @@
     "seq": 1,
     "honorMissionType": "clear_multi_live_all_friend",
     "requirement": 1,
-    "sentence": "Play a Co-op/Cheerful Show with five friends.",
+    "sentence": "フレンド5人で「みんなでライブ・チアフルライブ」を1回プレイしよう。",
     "rewards": [
       {
         "id": 961,
