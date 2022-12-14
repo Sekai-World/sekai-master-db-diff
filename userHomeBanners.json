@@ -1,24 +1,109 @@
 [
   {
-    "homeBannerId": 546,
-    "seq": 110,
+    "homeBannerId": 48,
+    "seq": 9998,
     "homeBannerType": "general",
-    "name": "[ガチャ]ビビバス箱イベ11巡目_定常ガチャバナー",
-    "assetbundleName": "banner_gacha270",
-    "transitionDestinationType": "gacha",
-    "transitionDestinationId": 270,
-    "startAt": 1670727600000,
-    "endAt": 1671591599000
+    "name": "Welcome Show Banner",
+    "assetbundleName": "banner_virtuallive1",
+    "transitionDestinationType": "virtual_live",
+    "transitionDestinationId": 20001,
+    "startAt": 1601496000000,
+    "endAt": 4102473599000
   },
   {
-    "homeBannerId": 547,
+    "homeBannerId": 289,
+    "seq": 300,
+    "homeBannerType": "general",
+    "name": "[2021/12]プレミアムミッションパス",
+    "assetbundleName": "banner_premiummissionpass_en_2022_12",
+    "transitionDestinationType": "billing_shop_for_live_mission_pass",
+    "startAt": 1669881600000,
+    "endAt": 1672559999000
+  },
+  {
+    "homeBannerId": 297,
     "seq": 100,
     "homeBannerType": "event",
-    "name": "[イベント]ビビバス箱イベ11巡目_イベントバナー",
-    "assetbundleName": "event_way_2022",
+    "name": "[イベント]MOREMOREMakingXmas",
+    "assetbundleName": "event_makingxmas_2021",
     "transitionDestinationType": "event",
-    "transitionDestinationId": 79,
-    "startAt": 1670738400000,
-    "endAt": 1671602399000
+    "transitionDestinationId": 43,
+    "startAt": 1670713200000,
+    "endAt": 1671577199000
+  },
+  {
+    "homeBannerId": 299,
+    "seq": 110,
+    "homeBannerType": "general",
+    "name": "モモジャン6巡目_定常ガチャバナー",
+    "assetbundleName": "banner_gacha157",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 157,
+    "startAt": 1670713200000,
+    "endAt": 1671577199000
+  },
+  {
+    "homeBannerId": 300,
+    "seq": 120,
+    "homeBannerType": "general",
+    "name": "モモジャン6巡目_メンバー出現率UPガチャバナー",
+    "assetbundleName": "banner_gacha158",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 158,
+    "startAt": 1670886000000,
+    "endAt": 1671425999000
+  },
+  {
+    "homeBannerId": 1001,
+    "seq": 200,
+    "homeBannerType": "general",
+    "name": "Colorful++(サブスクリプション)",
+    "assetbundleName": "banner_subscription",
+    "transitionDestinationType": "subscription",
+    "transitionDestinationId": 1,
+    "startAt": 1633118400000,
+    "endAt": 4102473540000
+  },
+  {
+    "homeBannerId": 1029,
+    "seq": 50,
+    "homeBannerType": "general",
+    "name": "[It's Back] Colorful Festival Gacha",
+    "assetbundleName": "banner_gacha1025",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 1025,
+    "startAt": 1670454000000,
+    "endAt": 1671490799000
+  },
+  {
+    "homeBannerId": 1030,
+    "seq": 150,
+    "homeBannerType": "general",
+    "name": "1st Anniversary 10x Free Gacha",
+    "assetbundleName": "banner_gacha1026",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 1026,
+    "startAt": 1670414400000,
+    "endAt": 1672041599000
+  },
+  {
+    "homeBannerId": 1032,
+    "seq": 160,
+    "homeBannerType": "general",
+    "name": "「サブカルボーイスタイル」再販売",
+    "assetbundleName": "banner_shop_costume_resale_en_2022_12",
+    "transitionDestinationType": "billing_shop_for_jewel",
+    "startAt": 1669881600000,
+    "endAt": 1672559999000
+  },
+  {
+    "homeBannerId": 1034,
+    "seq": 150,
+    "homeBannerType": "general",
+    "name": "1周年記念クリスタルショップ",
+    "assetbundleName": "banner_1st_anniversary_shop_gl",
+    "transitionDestinationType": "billing_shop_for_jewel",
+    "startAt": 1670400000000,
+    "endAt": 1672354799000
   }
 ]
