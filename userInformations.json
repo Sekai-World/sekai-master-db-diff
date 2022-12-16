@@ -50,9 +50,6 @@
     "path": "https://www.youtube.com/channel/UCdMGYXL38w6htx6Yf9YJa-w/",
     "startAt": 1601434800000,
     "bannerAssetbundleName": "content_banner_pjsekai_youtube"
-    "path": "https://www.youtube.com/channel/UCdMGYXL38w6htx6Yf9YJa-w/",
-    "startAt": 1601434800000,
-    "bannerAssetbundleName": "content_banner_pjsekai_youtube"
   },
   {
     "id": 55,
@@ -706,7 +703,8 @@
     "platform": "all",
     "title": "11月22日配信「プロジェクトセカイワンダショちゃんねる#26」で発表された内容について",
     "path": "information/index.html?id=info_livebroadcast_summary_20221122",
-    "startAt": 1669123800000
+    "startAt": 1669123800000,
+    "endAt": 1671195600000
   },
   {
     "id": 2300,
@@ -777,6 +775,34 @@
     "endAt": 1671044400000
   },
   {
+    "id": 2307,
+    "seq": 1,
+    "displayOrder": 50770,
+    "informationType": "normal",
+    "informationTag": "gacha",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "予告、「[復刻]重なる想いWords Snowガチャ」開催について",
+    "path": "information/index.html?id=info_gacha271_notice",
+    "startAt": 1670986800000,
+    "endAt": 1671073200000,
+    "bannerAssetbundleName": "banner_news_gacha271"
+  },
+  {
+    "id": 2308,
+    "seq": 1,
+    "displayOrder": 50790,
+    "informationType": "normal",
+    "informationTag": "gacha",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "「[復刻]重なる想いWords Snowガチャ」開催！",
+    "path": "information/index.html?id=info_gacha271_held",
+    "startAt": 1671073200000,
+    "endAt": 1674529200000,
+    "bannerAssetbundleName": "banner_news_gacha271"
+  },
+  {
     "id": 2311,
     "seq": 1,
     "displayOrder": 50410,
@@ -800,6 +826,19 @@
     "title": "【12月2日11時30分追記】12月2日メンテナンス実施のご案内",
     "path": "information/index.html?id=info_fin_maintenance_20221202",
     "startAt": 1669948200000
+  },
+  {
+    "id": 2317,
+    "seq": 1,
+    "displayOrder": 50780,
+    "informationType": "normal",
+    "informationTag": "information",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "12月16日よりラジオ番組「セカイ・ステーション #23」を配信！",
+    "path": "information/index.html?id=info_fix_webradio-miku_23_20221215",
+    "startAt": 1671073200000,
+    "endAt": 1671649200000
   },
   {
     "id": 2319,
@@ -865,5 +904,42 @@
     "title": "【重要】アップデートに伴う利用規約の一部改訂のご案内",
     "path": "information/index.html?id=info_notice_update_terms-of-service_20221213",
     "startAt": 1670922000000
+  },
+  {
+    "id": 2327,
+    "seq": 1,
+    "displayOrder": 50760,
+    "informationType": "normal",
+    "informationTag": "information",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "12月14日よりVivid BAD SQUADの3rdSingle 「Beat Eater / Awake Now」発売中！",
+    "path": "information/index.html?id=info_3rdCD_VividBADSQUAD_20221214",
+    "startAt": 1670986800000,
+    "endAt": 1671562800000
+  },
+  {
+    "id": 2328,
+    "seq": 1,
+    "displayOrder": 50800,
+    "informationType": "normal",
+    "informationTag": "update",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "「v2.4.0」アップデートに伴うメンテナンスのご案内",
+    "path": "information/index.html?id=info_notice_update_maintenance_v2-4-0_20221214",
+    "startAt": 1671179400000
+  },
+  {
+    "id": 2329,
+    "seq": 1,
+    "displayOrder": 50810,
+    "informationType": "normal",
+    "informationTag": "information",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "12月16日配信「プロジェクトセカイワンダショちゃんねる#27」で発表された内容について",
+    "path": "information/index.html?id=info_livebroadcast_summary_20221216",
+    "startAt": 1671195600000
   }
 ]
