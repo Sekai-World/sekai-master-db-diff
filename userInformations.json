@@ -3,6 +3,7 @@
     "id": 4,
     "seq": 40,
     "displayOrder": 19990,
+    "displayOrder": 19990,
     "informationType": "content",
     "informationTag": "update",
     "browseType": "external",
@@ -11,10 +12,14 @@
     "path": "https://pjsekai.sega.jp/",
     "startAt": 1601391600000,
     "bannerAssetbundleName": "content_banner_pjsekai_site"
+    "path": "https://pjsekai.sega.jp/",
+    "startAt": 1601391600000,
+    "bannerAssetbundleName": "content_banner_pjsekai_site"
   },
   {
     "id": 6,
     "seq": 60,
+    "displayOrder": 19980,
     "displayOrder": 19980,
     "informationType": "content",
     "informationTag": "update",
@@ -24,8 +29,14 @@
     "path": "https://twitter.com/pj_sekai",
     "startAt": 1601391600000,
     "bannerAssetbundleName": "content_banner_pjsekai_twitter"
+    "path": "https://twitter.com/pj_sekai",
+    "startAt": 1601391600000,
+    "bannerAssetbundleName": "content_banner_pjsekai_twitter"
   },
   {
+    "id": 16,
+    "seq": 99999,
+    "displayOrder": 30010,
     "id": 16,
     "seq": 99999,
     "displayOrder": 30010,
@@ -37,16 +48,24 @@
     "path": "information/index.html?id=beginners_guide_YoK7T5Re",
     "startAt": 1601434800000,
     "bannerAssetbundleName": "banner_beginners_guide"
+    "title": "初心者ガイド",
+    "path": "information/index.html?id=beginners_guide_YoK7T5Re",
+    "startAt": 1601434800000,
+    "bannerAssetbundleName": "banner_beginners_guide"
   },
   {
     "id": 54,
     "seq": 70,
+    "displayOrder": 19970,
     "displayOrder": 19970,
     "informationType": "content",
     "informationTag": "update",
     "browseType": "external",
     "platform": "all",
     "title": "Youtube公式チャンネル",
+    "path": "https://www.youtube.com/channel/UCdMGYXL38w6htx6Yf9YJa-w/",
+    "startAt": 1601434800000,
+    "bannerAssetbundleName": "content_banner_pjsekai_youtube"
     "path": "https://www.youtube.com/channel/UCdMGYXL38w6htx6Yf9YJa-w/",
     "startAt": 1601434800000,
     "bannerAssetbundleName": "content_banner_pjsekai_youtube"
@@ -61,6 +80,8 @@
     "platform": "all",
     "title": "【10月30日7時00分追記】未所持楽曲を「みんなでライブ」でプレイした際にクリアデータが正常に反映されない事象について",
     "path": "information/index.html?id=bug_music_not_possessed_20201006_fix_Teq98",
+    "startAt": 1604008800000,
+    "endAt": 1604257199000
     "startAt": 1604008800000,
     "endAt": 1604257199000
   },
@@ -868,9 +889,9 @@
     "endAt": 1673881200000
   },
   {
-    "id": 2324,
-    "seq": 1,
-    "displayOrder": 50660,
+    "id": 180,
+    "seq": 8060,
+    "displayOrder": 1,
     "informationType": "normal",
     "informationTag": "information",
     "browseType": "internal",
