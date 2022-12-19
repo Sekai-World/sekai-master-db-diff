@@ -552,6 +552,10 @@
     "value": "200"
   },
   {
+    "configKey": "user_block_count_limit",
+    "value": "200"
+  },
+  {
     "configKey": "login_status_online_expire_sec",
     "value": "600"
   },
@@ -772,11 +776,35 @@
     "value": "TRUE"
   },
   {
+    "configKey": "user_report_custom_profile_thumbnail_path_prefix",
+    "value": "custom-profile-card/thumbnail"
+  },
+  {
+    "configKey": "user_report_restriction_hours",
+    "value": "24"
+  },
+  {
     "configKey": "streaming_virtual_live_ui_sound_volume",
     "value": "0.2"
   },
   {
     "configKey": "default_ui_sound_volume",
     "value": "0.85"
+  },
+  {
+    "configKey": "user_report_thanks_message",
+    "value": "通報いただいたプレイヤーに対して、\\nペナルティ処置を行いました。\\nご協力いただきありがとうございました。"
+  },
+  {
+    "configKey": "user_mylist_under_limit",
+    "value": "1"
+  },
+  {
+    "configKey": "user_mylist_upper_limit",
+    "value": "5"
+  },
+  {
+    "configKey": "user_mylist_name_max_length",
+    "value": "10"
   }
 ]

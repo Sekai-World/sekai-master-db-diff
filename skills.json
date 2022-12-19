@@ -1493,15 +1493,15 @@
   },
   {
     "id": 13,
-    "shortDescription": "スコア{{41;v}}％UP、GREAT以下を出すまではスコア{{40;v}}％UP",
-    "description": "{{40;d}}秒間  スコアが{{41;v}}％UP、\nGREAT以下を出すまではスコアが{{40;v}}％UPする",
+    "shortDescription": "スコア{{41;v}}％UP、GOOD以下を出すまではスコア{{40;v}}％UP",
+    "description": "{{40;d}}秒間  スコアが{{41;v}}％UP、\nGOOD以下を出すまではスコアが{{40;v}}％UPする",
     "descriptionSpriteName": "score_up",
     "skillFilterId": 2,
     "skillEffects": [
       {
         "id": 40,
         "skillEffectType": "score_up_keep",
-        "activateNotesJudgmentType": "perfect",
+        "activateNotesJudgmentType": "great",
         "skillEffectDetails": [
           {
             "id": 157,

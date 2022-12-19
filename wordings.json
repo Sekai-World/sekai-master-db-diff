@@ -97,11 +97,11 @@
   },
   {
     "wordingKey": "MSG_ABOUT_LIVE_POINT",
-    "value": "ライブミッションについて"
+    "value": "ライブPの獲得について"
   },
   {
     "wordingKey": "MSG_ABOUT_LIVE_POINT_CONTENT",
-    "value": "ライブPを一定ポイントためると報酬を獲得できます。\n\n■ひとりでライブ / みんなでライブ■\n 1回クリアする毎にライブPを<color=#ff55AA>1獲得</color>できます。\nライブボーナスを消費することで獲得量が増えます。\n \n■チャレンジライブ■\n1回クリアする毎にライブPを<color=#ff55AA>30獲得</color>できます。"
+    "value": "ライブを1回クリアする毎にライブPをためることができます。\n\n■ひとりでライブ/みんなでライブ/\nチアフルライブ/ランクマッチ■\n 1回クリアする毎にライブPを<color=#ff55AA>1獲得</color>できます。\n※ライブボーナスを消費することで獲得量が増えます。\n\n■チャレンジライブ■\n1回クリアする毎にライブPを<color=#ff55AA>30獲得</color>できます。\n\n■デイリーボーナス■\n1日3回まで「みんなでライブ・チアフルライブ」を1回クリアする毎にライブPを<color=#ff55AA>10獲得</color>できます。\n\n■ボーナスミッション■\nイベント期間に開催されるボーナスミッションを1つクリアする毎にライブPを<color=#ff55AA>50獲得</color>できます。\nまた、全ミッションクリアでさらにライブPを<color=#ff55AA>150獲得</color>できます。"
   },
   {
     "wordingKey": "MSG_ACCESSORY_DEFAULT_HAIR",
@@ -142,6 +142,10 @@
   {
     "wordingKey": "MSG_ALERT_TIME_OVER_EXCHANGE_TICKET",
     "value": "※交換期限を過ぎたチケットは使用できなくなります。"
+  },
+  {
+    "wordingKey": "MSG_ALL_MV_DATA_DOWNLOAD_WARNING",
+    "value": "ダウンロードサイズが50MBを超える場合、 \nWi-Fi環境でのダウンロードを推奨します。\n\nデータ管理でMVデータ数を制限している場合、\n設定が「すべて保存」に変更されます。"
   },
   {
     "wordingKey": "MSG_ALL_UNLOCK_STORY",
@@ -200,6 +204,10 @@
     "value": "オートライブのため、\nリズムゲームの判定結果はありません。"
   },
   {
+    "wordingKey": "MSG_BEFORE_REPORTABLE_DATE_ERROR",
+    "value": "一定期間内に同じプレイヤーを通報することはできません。"
+  },
+  {
     "wordingKey": "MSG_BG _BRIGHTNESS",
     "value": "背景の明るさ"
   },
@@ -226,6 +234,30 @@
   {
     "wordingKey": "MSG_BILLING_REFUND_ERROR",
     "value": "ストアにて返金処理が実際されているため、処理を開始します"
+  },
+  {
+    "wordingKey": "MSG_BLOCKED_USER_CHAT",
+    "value": "ブロック中のプレイヤーの発言が非表示にされました。"
+  },
+  {
+    "wordingKey": "MSG_BLOCK_LIST_BLOCK_CONFIRM",
+    "value": "このプレイヤーをブロックします。\nよろしいですか？"
+  },
+  {
+    "wordingKey": "MSG_BLOCK_LIST_BLOCK_CONFIRM_DIALOG_TITLE",
+    "value": "ブロック確認"
+  },
+  {
+    "wordingKey": "MSG_BLOCK_LIST_NOTIFICATION_BLOCK",
+    "value": "このプレイヤーをブロックしました。"
+  },
+  {
+    "wordingKey": "MSG_BLOCK_LIST_NOTIFICATION_UNBLOCK",
+    "value": "このプレイヤーへのブロックを解除しました。"
+  },
+  {
+    "wordingKey": "MSG_BLOCK_LIST_UNBLOCK_CONFIRM",
+    "value": "このプレイヤーへのブロックを解除します。\n　よろしいですか？"
   },
   {
     "wordingKey": "MSG_BONDS_CHARACTER_SELECT_DESCRIPTION",
@@ -396,6 +428,50 @@
     "value": "※ピックアップリストは、\nガチャを引くまで何度でも変更できます。"
   },
   {
+    "wordingKey": "MSG_COMMUNITY_REPORT_BUSINESS_CONDUCT",
+    "value": "営業行為・プレイ代行募集"
+  },
+  {
+    "wordingKey": "MSG_COMMUNITY_REPORT_CHEATING",
+    "value": "不正行為"
+  },
+  {
+    "wordingKey": "MSG_COMMUNITY_REPORT_COMPLETE_DIALOG",
+    "value": "通報が完了しました。\nご協力ありがとうございました。"
+  },
+  {
+    "wordingKey": "MSG_COMMUNITY_REPORT_DIALOG_BODY",
+    "value": "通報する内容を選んでください。"
+  },
+  {
+    "wordingKey": "MSG_COMMUNITY_REPORT_DIALOG_CHECKBOX_EXPLANATION",
+    "value": "通報する理由をできるだけ詳しく教えてください。"
+  },
+  {
+    "wordingKey": "MSG_COMMUNITY_REPORT_HARASSMENT_OF_CHARACTER",
+    "value": "キャラクター・ユニットへの嫌がらせ・攻撃的な発言"
+  },
+  {
+    "wordingKey": "MSG_COMMUNITY_REPORT_HARASSMENT_OF_OTHERS",
+    "value": "他者への嫌がらせ・攻撃的な発言"
+  },
+  {
+    "wordingKey": "MSG_COMMUNITY_REPORT_HARASSMENT_OF_SELF",
+    "value": "自分への嫌がらせ・攻撃的な発言"
+  },
+  {
+    "wordingKey": "MSG_COMMUNITY_REPORT_OBSCENE_REMARKS",
+    "value": "わいせつ・性的な発言"
+  },
+  {
+    "wordingKey": "MSG_COMMUNITY_REPORT_OTHER",
+    "value": "その他、利用規約違反"
+  },
+  {
+    "wordingKey": "MSG_COMMUNITY_REPORT_THANKS",
+    "value": "通報いただいたプレイヤーに対して、\nペナルティ処置を行いました。\nご協力ありがとうございました。"
+  },
+  {
     "wordingKey": "MSG_CONDITION_GET_CARD",
     "value": "「[{0}] {1}」を入手"
   },
@@ -405,15 +481,19 @@
   },
   {
     "wordingKey": "MSG_CONFIRM_DATA_LINK",
-    "value": "以下のゲームデータで連携します。\nよろしいですか？"
+    "value": "以下のプレイヤーデータで連携します。\nよろしいですか？"
+  },
+  {
+    "wordingKey": "MSG_CONFIRM_MYLIST_RESET",
+    "value": "マイリスト「{0}」をリセットし、\n楽曲が登録されていない状態に戻します。\n本当によろしいですか？"
   },
   {
     "wordingKey": "MSG_CONFIRM_OVERWRITE_DATA_LINK_ANDROID",
-    "value": "GooglePlayに連携中のゲームデータがあります。\n連携を解除して、現在のゲームデータに連携しますか？"
+    "value": "GooglePlayに連携中のプレイヤーデータがあります。\n連携を解除して、現在のプレイヤーデータに連携しますか？"
   },
   {
     "wordingKey": "MSG_CONFIRM_OVERWRITE_DATA_LINK_IOS",
-    "value": "GameCenterに連携中のゲームデータがあります。\n連携を解除して、現在のゲームデータに連携しますか？"
+    "value": "GameCenterに連携中のプレイヤーデータがあります。\n連携を解除して、現在のプレイヤーデータに連携しますか？"
   },
   {
     "wordingKey": "MSG_CONFIRM_STREAMING_LIVE_ENTER_WITHOUT_TICKET",
@@ -525,15 +605,19 @@
   },
   {
     "wordingKey": "MSG_DATA_LINK_RELEASE",
-    "value": "ゲームデータの連携を解除しました。"
+    "value": "プレイヤーデータの連携を解除しました。"
   },
   {
     "wordingKey": "MSG_DATA_LINK_RELEASE_CONFIRM",
-    "value": "連携中のゲームデータを解除しますか？\n<color=#ff5599>※解除後、再連携することができます。</color>"
+    "value": "連携中のプレイヤーデータを解除しますか？"
+  },
+  {
+    "wordingKey": "MSG_DATA_LINK_RELEASE_CONFIRM_HINT",
+    "value": "<color=#ff5599>※解除後、再度連携することができます。</color>"
   },
   {
     "wordingKey": "MSG_DATA_LINK_WARNING_OVERWRITE",
-    "value": "※前のゲームデータに戻すことはできません。"
+    "value": "※前のプレイヤーデータに戻すことはできません。"
   },
   {
     "wordingKey": "MSG_DATE_LIMIT",
@@ -606,6 +690,10 @@
   {
     "wordingKey": "MSG_DO_UPDATE",
     "value": "アップデートする"
+  },
+  {
+    "wordingKey": "MSG_EDITABLE_MYLIST",
+    "value": "好きな楽曲を追加して、\nあなたのマイリストをつくりましょう。"
   },
   {
     "wordingKey": "MSG_EMPTY_HISTORY",
@@ -804,12 +892,20 @@
     "value": "フレンド申請を送りました。"
   },
   {
+    "wordingKey": "MSG_FRIEND_REQUEST_BLOCKED_USER",
+    "value": "ブロック中の為、フレンド申請を行うことはできません。"
+  },
+  {
     "wordingKey": "MSG_FRIEND_REQUEST_COMPLETE",
     "value": "フレンド申請を送りました。"
   },
   {
     "wordingKey": "MSG_FRIEND_REQUEST_MESSAGE",
     "value": "この内容でフレンド申請を送りますか？"
+  },
+  {
+    "wordingKey": "MSG_FRIEND_REQUEST_NOT_REQUEST",
+    "value": "このプレイヤーにフレンド申請を送ることは出来ません。"
   },
   {
     "wordingKey": "MSG_FRIEND_REQUEST_REJECT",
@@ -845,7 +941,7 @@
   },
   {
     "wordingKey": "MSG_GACHA_RATE_NOTICE",
-    "value": "表示上小数点第4位にて四捨五入しているため、\n全てを合算しても100%にならない場合があります。"
+    "value": "表示上小数点第5位にて四捨五入しているため、\n全てを合算しても100%にならない場合があります。"
   },
   {
     "wordingKey": "MSG_GACHA_SHORT_RESOURCE",
@@ -882,6 +978,10 @@
   {
     "wordingKey": "MSG_GACHA_TOP_SEAL_ON",
     "value": "{0}つき"
+  },
+  {
+    "wordingKey": "MSG_GET_LIVE_MISSION_POINT",
+    "value": "ライブPを合計{0}P獲得する"
   },
   {
     "wordingKey": "MSG_GIFT_NOT_SELECT_CONFIRM",
@@ -928,6 +1028,14 @@
     "value": "すでに発行されている引き継ぎIDと設定中のパスワードを\n破棄して、パスワードを再設定しますか？"
   },
   {
+    "wordingKey": "MSG_INHERIT_LIMIT_START",
+    "value": "イベントランキング<color=#ff5588>1000位以内</color>に到達しました。\n\nイベントの公平性を保つため、\nランキング<color=#ff5588>1000位以内</color>に到達したプレイヤーは、\n該当イベント期間中、データ引き継ぎ回数が制限されます。\n\n制限期間：イベント終了（{0}）まで\n制限回数：あと{1}回\n\nご理解のほどよろしくお願いいたします。"
+  },
+  {
+    "wordingKey": "MSG_INHERIT_LIMT_REST",
+    "value": "※開催中のイベント終了（{0}）まで\nあと{1}回利用できます。"
+  },
+  {
     "wordingKey": "MSG_INHERIT_SETTING_ERROR",
     "value": "8〜16文字の英数字で記入してください。"
   },
@@ -945,7 +1053,7 @@
   },
   {
     "wordingKey": "MSG_INHERIT_SETTING_PASSWORD2",
-    "value": "パスワード設定後、引き継ぎIDが発行されます。"
+    "value": "※パスワード設定後、引き継ぎIDが発行されます。"
   },
   {
     "wordingKey": "MSG_INPUT_FIELD_ERROR_EMPTY",
@@ -1328,6 +1436,14 @@
     "value": "端末に保存するMVデータ数を減らすことで容量を削減できます。\n設定した上限を超えたMVデータは古い順に削除され、プレイ時に再ダウンロードされます。"
   },
   {
+    "wordingKey": "MSG_MYLISTNAME_INPUT",
+    "value": "マイリスト名を7文字以内で入力してください。"
+  },
+  {
+    "wordingKey": "MSG_MYLISTNAME_INPUT_TIPS",
+    "value": "※あとからでも変更できます。"
+  },
+  {
     "wordingKey": "MSG_NAME_INPUT",
     "value": "名前を10文字以内で入力してください。"
   },
@@ -1390,6 +1506,10 @@
   {
     "wordingKey": "MSG_NOTHING_COSTUME_ITEM",
     "value": "アバター衣装がありません。"
+  },
+  {
+    "wordingKey": "MSG_NOTHING_EVENT_MISSION",
+    "value": "全てのミッションを達成しました。\n次回開催までしばらくお待ちください。"
   },
   {
     "wordingKey": "MSG_NOTHING_EXCHANGE_MUSIC",
@@ -1474,6 +1594,10 @@
   {
     "wordingKey": "MSG_NOT_PLAYABLE_EVENT",
     "value": "イベント期間が終了しました。"
+  },
+  {
+    "wordingKey": "MSG_NOT_PLAYABLE_EVENT_MISSION",
+    "value": "ボーナスミッションが更新されました。\nホームに戻ります。"
   },
   {
     "wordingKey": "MSG_NOT_PUBLISH_MUSIC_ERROR",
@@ -1728,6 +1852,10 @@
     "value": "会場の混雑状況を取得しています..."
   },
   {
+    "wordingKey": "MSG_RECEIVE_EVENT_MISSION_EXPIRED_REWARD",
+    "value": "未受け取り分のボーナスミッション報酬を獲得しました。"
+  },
+  {
     "wordingKey": "MSG_RECONNCT",
     "value": "再接続中です。"
   },
@@ -1778,6 +1906,10 @@
   {
     "wordingKey": "MSG_RESULT_ALREADY_DISCONNECT_HOME",
     "value": "既に切断されていたため\nホームへ戻ります。"
+  },
+  {
+    "wordingKey": "MSG_RESULT_DAILY_BONUS_COUNT",
+    "value": "(本日あと{0}回)"
   },
   {
     "wordingKey": "MSG_REWARD_SCALE",
@@ -2156,6 +2288,10 @@
     "value": "{0}更新毎に{1}{2}個"
   },
   {
+    "wordingKey": "MSG_USER_BLOCK_COUNT_LIMIT",
+    "value": "ブロック数が上限に達しました。"
+  },
+  {
     "wordingKey": "MSG_USE_VIRTUAL_LIVE_ITEM",
     "value": "{0}が\n「{1}」を使用！"
   },
@@ -2529,7 +2665,7 @@
   },
   {
     "wordingKey": "WORD_AGGREGATION_PERIOD_FORMAT",
-    "value": "{0}/{1}  {2}:{3:00}まで"
+    "value": "{0}/{1} {2}:{3:00}まで"
   },
   {
     "wordingKey": "WORD_ALL",
@@ -2724,6 +2860,38 @@
     "value": "誕生日"
   },
   {
+    "wordingKey": "WORD_BLOCK",
+    "value": "ブロック"
+  },
+  {
+    "wordingKey": "WORD_BLOCKED_USER",
+    "value": "ブロックしたプレイヤー"
+  },
+  {
+    "wordingKey": "WORD_BLOCK_LIST",
+    "value": "ブロックリスト"
+  },
+  {
+    "wordingKey": "WORD_BLOCK_LIST_BLOCK_DIALOG_TITLE",
+    "value": "ブロック"
+  },
+  {
+    "wordingKey": "WORD_BLOCK_LIST_BLOCK_FINISH",
+    "value": "ブロック完了"
+  },
+  {
+    "wordingKey": "WORD_BLOCK_LIST_MANAGEMENT",
+    "value": "リスト管理"
+  },
+  {
+    "wordingKey": "WORD_BLOCK_LIST_UNBLOCK_DIALOG_TITLE",
+    "value": "ブロック解除"
+  },
+  {
+    "wordingKey": "WORD_BLOCK_LIST_UNBLOCK_FINISH",
+    "value": "ブロック解除完了"
+  },
+  {
     "wordingKey": "WORD_BODY",
     "value": "衣装"
   },
@@ -2793,6 +2961,14 @@
   },
   {
     "wordingKey": "WORD_BONUS",
+    "value": "ボーナス"
+  },
+  {
+    "wordingKey": "WORD_BONUS_MISSION",
+    "value": "ボーナスミッション"
+  },
+  {
+    "wordingKey": "WORD_BONUS_MISSION_TAB",
     "value": "ボーナス"
   },
   {
@@ -3208,6 +3384,22 @@
     "value": "COMBO"
   },
   {
+    "wordingKey": "WORD_COMMUNICATION",
+    "value": "コミュニケーション"
+  },
+  {
+    "wordingKey": "WORD_COMMUNITY_REPORT",
+    "value": "報告"
+  },
+  {
+    "wordingKey": "WORD_COMMUNITY_REPORT_COMPLETE",
+    "value": "通報完了"
+  },
+  {
+    "wordingKey": "WORD_COMMUNITY_REPORT_DIALOG_TITLE",
+    "value": "通報フォーム"
+  },
+  {
     "wordingKey": "WORD_COMPLETE_LEVELUP",
     "value": "レベルアップ完了"
   },
@@ -3536,6 +3728,10 @@
     "value": "ダウンロード済み"
   },
   {
+    "wordingKey": "WORD_DOWNLOAD_ALL_MV_DATA",
+    "value": "3D・2D・原曲MV"
+  },
+  {
     "wordingKey": "WORD_DOWNLOAD_CONFIRM",
     "value": "ダウンロード確認"
   },
@@ -3562,6 +3758,14 @@
   {
     "wordingKey": "WORD_EASY_FILTER",
     "value": "かんたん絞り込み"
+  },
+  {
+    "wordingKey": "WORD_EDIT_MYLIST",
+    "value": "楽曲マイリスト編集"
+  },
+  {
+    "wordingKey": "WORD_EDIT_MYLIST_DECIDE",
+    "value": "マイリスト編集"
   },
   {
     "wordingKey": "WORD_EFFECT",
@@ -3776,6 +3980,18 @@
     "value": "3DMVあり"
   },
   {
+    "wordingKey": "WORD_EXIST_MVFILTER_2D_MV",
+    "value": "2DMVあり"
+  },
+  {
+    "wordingKey": "WORD_EXIST_MVFILTER_3D_MV",
+    "value": "3DMVあり"
+  },
+  {
+    "wordingKey": "WORD_EXIST_MVFILTER_ORIGINAL_MV",
+    "value": "原曲MVあり"
+  },
+  {
     "wordingKey": "WORD_EXPECTED_TIME",
     "value": "予測時間"
   },
@@ -3916,8 +4132,24 @@
     "value": "フレンド申請"
   },
   {
+    "wordingKey": "WORD_FRIEND_REQUEST_ALL_RECEIVE",
+    "value": "すべて受け取る"
+  },
+  {
+    "wordingKey": "WORD_FRIEND_REQUEST_BLOCK",
+    "value": "受け取らない"
+  },
+  {
+    "wordingKey": "WORD_FRIEND_REQUEST_CONFIG",
+    "value": "フレンド申請の受け取り"
+  },
+  {
     "wordingKey": "WORD_FRIEND_REQUEST_DEFAULT_MESSAGE",
     "value": "よろしくお願いします！"
+  },
+  {
+    "wordingKey": "WORD_FRIEND_REQUEST_IS_SEARCH",
+    "value": "ID検索からのみ"
   },
   {
     "wordingKey": "WORD_FRIEND_REQUEST_MESSAGE_BODY",
@@ -4368,6 +4600,14 @@
     "value": "大事な\nアイテム"
   },
   {
+    "wordingKey": "WORD_INDEFINITE_PERIOD",
+    "value": "停止期間　無期限"
+  },
+  {
+    "wordingKey": "WORD_INHERIT_LIMIT_START",
+    "value": "データ引き継ぎ制限のお願い"
+  },
+  {
     "wordingKey": "WORD_INHERIT_SETTING",
     "value": "データ引き継ぎ設定"
   },
@@ -4625,7 +4865,7 @@
   },
   {
     "wordingKey": "WORD_LIVE_POINT",
-    "value": "ライブポイント"
+    "value": "ライブP"
   },
   {
     "wordingKey": "WORD_LIVE_PRAISE_MEMBER",
@@ -4928,6 +5168,10 @@
     "value": "フレンド申請がありません。"
   },
   {
+    "wordingKey": "WORD_MISSING_BLOCK_USER",
+    "value": "ブロックしているプレイヤーはいません。"
+  },
+  {
     "wordingKey": "WORD_MISSING_FRIEND",
     "value": "フレンドがいません。"
   },
@@ -5048,6 +5292,10 @@
     "value": "みんなでライブ"
   },
   {
+    "wordingKey": "WORD_MUSIC",
+    "value": "楽曲"
+  },
+  {
     "wordingKey": "WORD_MUSIC_CARD",
     "value": "ミュージックカード"
   },
@@ -5138,6 +5386,22 @@
   {
     "wordingKey": "WORD_MV_VIEWING",
     "value": "MV視聴"
+  },
+  {
+    "wordingKey": "WORD_MYLIST_MUSIC_NUM",
+    "value": "楽曲数"
+  },
+  {
+    "wordingKey": "WORD_MYLIST_RESET",
+    "value": "リセット"
+  },
+  {
+    "wordingKey": "WORD_MYLIST_RESET_DIALOG_TITLE",
+    "value": "マイリストリセット確認"
+  },
+  {
+    "wordingKey": "WORD_MYLIST_SCREEN_BACK_CONFIRM",
+    "value": "マイリストが保存されていません。\n保存して戻りますか？"
   },
   {
     "wordingKey": "WORD_MY_LIST",
@@ -5820,6 +6084,10 @@
     "value": "募集中..."
   },
   {
+    "wordingKey": "WORD_REGISTER",
+    "value": "登録"
+  },
+  {
     "wordingKey": "WORD_REJECT",
     "value": "拒否"
   },
@@ -5848,12 +6116,20 @@
     "value": "解放条件"
   },
   {
+    "wordingKey": "WORD_RELEASE_CRITERIA",
+    "value": "解放条件"
+  },
+  {
     "wordingKey": "WORD_RELEASE_PROFILE",
     "value": "プロフィール解除"
   },
   {
     "wordingKey": "WORD_RELEASE_SKILL_UP",
     "value": "スキルアップ解放"
+  },
+  {
+    "wordingKey": "WORD_RELEASING_AT_PREMIUM_MISSION_PATH_PURCHASE",
+    "value": "プレミアムミッションパスを購入"
   },
   {
     "wordingKey": "WORD_RELEASING_ON_EVENT",
@@ -5898,6 +6174,14 @@
   {
     "wordingKey": "WORD_REST_VALUE",
     "value": "あと{0}"
+  },
+  {
+    "wordingKey": "WORD_RESULT_ADD_VALUE",
+    "value": "＋{0}"
+  },
+  {
+    "wordingKey": "WORD_RESULT_DAILY_BONUS",
+    "value": "デイリーボーナス"
   },
   {
     "wordingKey": "WORD_RESUME",
@@ -5966,6 +6250,10 @@
   {
     "wordingKey": "WORD_SAVED",
     "value": "保存しました"
+  },
+  {
+    "wordingKey": "WORD_SAVE_MYLIST",
+    "value": "マイリスト保存"
   },
   {
     "wordingKey": "WORD_SAVE_RETURN",
@@ -6488,6 +6776,10 @@
     "value": "ステータス"
   },
   {
+    "wordingKey": "WORD_STOP_PERIOD",
+    "value": "停止期間　{0}/{1:00}/{2:00} {3:00}:{4:00}まで"
+  },
+  {
     "wordingKey": "WORD_STORY",
     "value": "ストーリー"
   },
@@ -6642,6 +6934,10 @@
   {
     "wordingKey": "WORD_TODAY_CHALLENGE",
     "value": "本日のチャレンジ"
+  },
+  {
+    "wordingKey": "WORD_TODAY_PART_END",
+    "value": "本日分終了"
   },
   {
     "wordingKey": "WORD_TOGGLE_1",
