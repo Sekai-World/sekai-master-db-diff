@@ -4208,5 +4208,103 @@
       }
     ],
     "virtualShopType": "event"
+  },
+  {
+    "id": 157,
+    "seq": 157,
+    "name": "第80回イベント物販",
+    "virtualShopItems": [
+      {
+        "id": 303,
+        "virtualShopId": 157,
+        "virtualShopItemType": "accessory",
+        "seq": 199910,
+        "resourceBoxId": 210,
+        "costVirtualCoin": 3000,
+        "costJewel": 1000,
+        "startAt": 1671602400000
+      }
+    ],
+    "virtualShopType": "event"
+  },
+  {
+    "id": 158,
+    "seq": 158,
+    "name": "クリスマス2022ライブ",
+    "virtualShopItems": [
+      {
+        "id": 304,
+        "virtualShopId": 158,
+        "virtualShopItemType": "coordinate",
+        "seq": 99858,
+        "resourceBoxId": 66,
+        "costPaidJewel": 1000,
+        "startAt": 1671688800000
+      },
+      {
+        "id": 305,
+        "virtualShopId": 158,
+        "virtualShopItemType": "accessory",
+        "seq": 199909,
+        "resourceBoxId": 67,
+        "costVirtualCoin": 3000,
+        "costJewel": 1000,
+        "startAt": 1671688800000
+      },
+      {
+        "id": 306,
+        "virtualShopId": 158,
+        "virtualShopItemType": "penlight",
+        "seq": 199902,
+        "resourceBoxId": 144,
+        "costPaidJewel": 1000,
+        "startAt": 1671688800000
+      },
+      {
+        "id": 307,
+        "virtualShopId": 158,
+        "virtualShopItemType": "accessory",
+        "seq": 199908,
+        "resourceBoxId": 211,
+        "costVirtualCoin": 3000,
+        "costJewel": 1000,
+        "startAt": 1671688800000
+      }
+    ],
+    "virtualShopType": "special_live"
+  },
+  {
+    "id": 159,
+    "seq": 159,
+    "name": "リン ANNIVERSARY",
+    "virtualShopItems": [
+      {
+        "id": 308,
+        "virtualShopId": 159,
+        "virtualShopItemType": "penlight",
+        "seq": 199900,
+        "resourceBoxId": 212,
+        "costPaidJewel": 1000,
+        "startAt": 1671948000000
+      }
+    ],
+    "virtualShopType": "birthday"
+  },
+  {
+    "id": 160,
+    "seq": 160,
+    "name": "レン ANNIVERSARY",
+    "virtualShopItems": [
+      {
+        "id": 309,
+        "virtualShopId": 160,
+        "virtualShopItemType": "penlight",
+        "seq": 199901,
+        "resourceBoxId": 213,
+        "costPaidJewel": 1000,
+        "startAt": 1671948000000
+      }
+    ],
+    "virtualShopType": "birthday"
   }
 ]
