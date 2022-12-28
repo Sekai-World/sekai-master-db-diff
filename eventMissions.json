@@ -1,1 +1,147 @@
-[]
+[
+  {
+    "id": 1,
+    "eventId": 81,
+    "seq": 1,
+    "eventMissionType": "live_clear_daily",
+    "eventMissionCategory": "normal",
+    "requirement1": 9,
+    "sentence": "累計9日ライブを1日1回クリアしよう。",
+    "rewards": [
+      {
+        "id": 4279,
+        "missionType": "event_mission",
+        "missionId": 1,
+        "seq": 1,
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "eventId": 81,
+    "seq": 2,
+    "eventMissionType": "any_live_clear",
+    "eventMissionCategory": "normal",
+    "requirement1": 50,
+    "sentence": "ライブを50回クリアしよう。",
+    "rewards": [
+      {
+        "id": 4280,
+        "missionType": "event_mission",
+        "missionId": 2,
+        "seq": 1,
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "eventId": 81,
+    "seq": 3,
+    "eventMissionType": "live_clear_full_combo",
+    "eventMissionCategory": "normal",
+    "requirement1": 10,
+    "sentence": "ライブで楽曲をフルコンボで10回クリアしよう。",
+    "rewards": [
+      {
+        "id": 4281,
+        "missionType": "event_mission",
+        "missionId": 3,
+        "seq": 1,
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "eventId": 81,
+    "seq": 4,
+    "eventMissionType": "live_clear_different_music",
+    "eventMissionCategory": "normal",
+    "requirement1": 10,
+    "requirement2": 1,
+    "sentence": "ライブで10種類の楽曲をクリアしよう。",
+    "rewards": [
+      {
+        "id": 4282,
+        "missionType": "event_mission",
+        "missionId": 4,
+        "seq": 1,
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "eventId": 81,
+    "seq": 5,
+    "eventMissionType": "read_last_event_story_episode",
+    "eventMissionCategory": "normal",
+    "requirement1": 1,
+    "sentence": "イベント「新春！ 獅子舞ロボのお正月ショー！」のイベントストーリー第8話を読もう。",
+    "rewards": [
+      {
+        "id": 4283,
+        "missionType": "event_mission",
+        "missionId": 5,
+        "seq": 1,
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "eventId": 81,
+    "seq": 6,
+    "eventMissionType": "consume_event_item",
+    "eventMissionCategory": "normal",
+    "requirement1": 20000,
+    "sentence": "イベント「新春！ 獅子舞ロボのお正月ショー！」の交換所でバッジを20000個消費しよう。",
+    "rewards": [
+      {
+        "id": 4284,
+        "missionType": "event_mission",
+        "missionId": 6,
+        "seq": 1,
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "eventId": 81,
+    "seq": 7,
+    "eventMissionType": "join_virtual_live",
+    "eventMissionCategory": "normal",
+    "requirement1": 1,
+    "sentence": "「新春！ 獅子舞ロボのお正月ショー！ アフターライブ」に参加しよう。",
+    "rewards": [
+      {
+        "id": 4285,
+        "missionType": "event_mission",
+        "missionId": 7,
+        "seq": 1,
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "eventId": 81,
+    "seq": 8,
+    "eventMissionType": "achieve_event_mission",
+    "eventMissionCategory": "complete",
+    "requirement1": 7,
+    "sentence": "7つのミッションを全て達成しよう。",
+    "rewards": [
+      {
+        "id": 4286,
+        "missionType": "event_mission",
+        "missionId": 8,
+        "seq": 1,
+        "resourceBoxId": 8001
+      }
+    ]
+  }
+]

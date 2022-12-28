@@ -4306,5 +4306,96 @@
       }
     ],
     "virtualShopType": "birthday"
+  },
+  {
+    "id": 161,
+    "seq": 161,
+    "name": "カウントダウンライブ/ハッピーニューイヤーライブ",
+    "virtualShopItems": [
+      {
+        "id": 310,
+        "virtualShopId": 161,
+        "virtualShopItemType": "accessory",
+        "seq": 199906,
+        "resourceBoxId": 214,
+        "costVirtualCoin": 3000,
+        "costJewel": 1000,
+        "startAt": 1672466400000
+      },
+      {
+        "id": 311,
+        "virtualShopId": 161,
+        "virtualShopItemType": "penlight",
+        "seq": 199899,
+        "resourceBoxId": 215,
+        "costPaidJewel": 1000,
+        "startAt": 1672466400000
+      },
+      {
+        "id": 312,
+        "virtualShopId": 161,
+        "virtualShopItemType": "coordinate",
+        "seq": 99857,
+        "resourceBoxId": 216,
+        "costPaidJewel": 1000,
+        "startAt": 1672466400000
+      }
+    ],
+    "virtualShopType": "special_live"
+  },
+  {
+    "id": 162,
+    "seq": 162,
+    "name": "2023甘酒ショップ",
+    "virtualShopItems": [
+      {
+        "id": 313,
+        "virtualShopId": 162,
+        "virtualShopItemType": "boost_item",
+        "seq": 299999,
+        "resourceBoxId": 147,
+        "costVirtualCoin": 0,
+        "costJewel": 0,
+        "startAt": 1672466400000,
+        "endAt": 1673330399000,
+        "limitValue": 1
+      }
+    ],
+    "virtualShopType": "other"
+  },
+  {
+    "id": 163,
+    "seq": 163,
+    "name": "第81回イベント物販",
+    "virtualShopItems": [
+      {
+        "id": 314,
+        "virtualShopId": 163,
+        "virtualShopItemType": "accessory",
+        "seq": 199907,
+        "resourceBoxId": 217,
+        "costVirtualCoin": 3000,
+        "costJewel": 1000,
+        "startAt": 1672466400000
+      }
+    ],
+    "virtualShopType": "event"
+  },
+  {
+    "id": 164,
+    "seq": 164,
+    "name": "志歩BIRTHDAY",
+    "virtualShopItems": [
+      {
+        "id": 315,
+        "virtualShopId": 164,
+        "virtualShopItemType": "penlight",
+        "seq": 199898,
+        "resourceBoxId": 218,
+        "costPaidJewel": 1000,
+        "startAt": 1672984800000
+      }
+    ],
+    "virtualShopType": "birthday"
   }
 ]
