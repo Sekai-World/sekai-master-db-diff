@@ -750,34 +750,6 @@
     "bannerAssetbundleName": "banner_news_virtuallive194"
   },
   {
-    "id": 2347,
-    "seq": 1,
-    "displayOrder": 51000,
-    "informationType": "normal",
-    "informationTag": "gacha",
-    "browseType": "internal",
-    "platform": "all",
-    "title": "予告、[鏡音リン]HAPPY ANNIVERSARYガチャ開催について",
-    "path": "information/index.html?id=info_gacha273-274_notice",
-    "startAt": 1671948000000,
-    "endAt": 1672066800000,
-    "bannerAssetbundleName": "banner_news_gacha273"
-  },
-  {
-    "id": 2348,
-    "seq": 1,
-    "displayOrder": 50990,
-    "informationType": "normal",
-    "informationTag": "gacha",
-    "browseType": "internal",
-    "platform": "all",
-    "title": "予告、[鏡音レン]HAPPY ANNIVERSARYガチャ開催について",
-    "path": "information/index.html?id=info_gacha275-276_notice",
-    "startAt": 1671948000000,
-    "endAt": 1672066800000,
-    "bannerAssetbundleName": "banner_news_gacha275"
-  },
-  {
     "id": 2349,
     "seq": 1,
     "displayOrder": 51050,
@@ -834,6 +806,19 @@
     "bannerAssetbundleName": "banner_news_countdown_2022"
   },
   {
+    "id": 2353,
+    "seq": 1,
+    "displayOrder": 51090,
+    "informationType": "normal",
+    "informationTag": "music",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "「愛して愛して愛して」「天ノ弱」アナザーボーカルver.追加のお知らせ",
+    "path": "information/index.html?id=info_music_add_another_20221228",
+    "startAt": 1672192800000,
+    "endAt": 1672426800000
+  },
+  {
     "id": 2400,
     "seq": 1,
     "displayOrder": 24050,
@@ -869,7 +854,8 @@
     "platform": "all",
     "title": "【12月21日11時00分追記】「Find A Way Out アフターライブ」、及び楽曲「仮死化」3DMVで確認している不具合について",
     "path": "information/index.html?id=bug_something_add_20221221",
-    "startAt": 1671588000000
+    "startAt": 1671588000000,
+    "endAt": 1672192800000
   },
   {
     "id": 2403,
@@ -899,19 +885,6 @@
     "bannerAssetbundleName": "banner_news_rankmatch002_season-2022-autumn"
   },
   {
-    "id": 2407,
-    "seq": 1,
-    "displayOrder": 50950,
-    "informationType": "normal",
-    "informationTag": "information",
-    "browseType": "internal",
-    "platform": "all",
-    "title": "12月27日メンテナンス実施のご案内",
-    "path": "information/index.html?id=info_maintenance_20221227",
-    "startAt": 1671789600000,
-    "endAt": 1672108200000
-  },
-  {
     "id": 2408,
     "seq": 1,
     "displayOrder": 51030,
@@ -936,5 +909,30 @@
     "path": "information/index.html?id=info_add_maintenance_20221227",
     "startAt": 1672108200000,
     "endAt": 1674500400000
+  },
+  {
+    "id": 2410,
+    "seq": 1,
+    "displayOrder": 24070,
+    "informationType": "bug",
+    "informationTag": "bug",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "一部ライブ衣装が白く表示されることがある不具合について",
+    "path": "information/index.html?id=bug_fix_something_20221228",
+    "startAt": 1672192800000,
+    "endAt": 1672772400000
+  },
+  {
+    "id": 2411,
+    "seq": 1,
+    "displayOrder": 24060,
+    "informationType": "bug",
+    "informationTag": "bug",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "【12月28日11時00分追記】「Find A Way Out アフターライブ」、及び楽曲「仮死化」3DMVで確認している不具合について",
+    "path": "information/index.html?id=bug_something_add_20221228",
+    "startAt": 1672192800000
   }
 ]
