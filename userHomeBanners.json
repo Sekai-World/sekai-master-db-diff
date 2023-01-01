@@ -1,24 +1,78 @@
 [
   {
-    "homeBannerId": 551,
-    "seq": 180,
+    "homeBannerId": 559,
+    "seq": 50,
     "homeBannerType": "general",
-    "name": "[ガチャ]シャッフル弓道部イベ_定常ガチャバナー",
-    "assetbundleName": "banner_gacha272",
+    "name": "[2023新春]カラフルフェスティバルガチャ",
+    "assetbundleName": "banner_gacha277",
     "transitionDestinationType": "gacha",
-    "transitionDestinationId": 272,
-    "startAt": 1671591600000,
-    "endAt": 1672455599000
+    "transitionDestinationId": 277,
+    "startAt": 1672455600000,
+    "endAt": 1672801199000
   },
   {
-    "homeBannerId": 552,
-    "seq": 170,
+    "homeBannerId": 561,
+    "seq": 100,
     "homeBannerType": "event",
-    "name": "[イベント]シャッフル弓道部イベ_イベントバナー",
-    "assetbundleName": "event_kyudo_2022",
+    "name": "[イベント]シャッフルお正月イベ_イベントバナー",
+    "assetbundleName": "event_liondance_2023",
     "transitionDestinationType": "event",
-    "transitionDestinationId": 80,
-    "startAt": 1671602400000,
-    "endAt": 1672466399000
+    "transitionDestinationId": 81,
+    "startAt": 1672466400000,
+    "endAt": 1673330399000
+  },
+  {
+    "homeBannerId": 562,
+    "seq": 80,
+    "homeBannerType": "general",
+    "name": "[2023新春]プレミアムプレゼントガチャ",
+    "assetbundleName": "banner_gacha278",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 278,
+    "startAt": 1672455600000,
+    "endAt": 1673319599000
+  },
+  {
+    "homeBannerId": 564,
+    "seq": 150,
+    "homeBannerType": "general",
+    "name": "お正月ショップ2023",
+    "assetbundleName": "banner_shop_newyear2023",
+    "transitionDestinationType": "billing_shop_for_jewel",
+    "startAt": 1672455600000,
+    "endAt": 1673319599000
+  },
+  {
+    "homeBannerId": 565,
+    "seq": 170,
+    "homeBannerType": "general",
+    "name": "カウントダウン2023ライブ",
+    "assetbundleName": "banner_virtuallive195",
+    "transitionDestinationType": "virtual_live",
+    "transitionDestinationId": 195,
+    "startAt": 1672466400000,
+    "endAt": 1672583399000
+  },
+  {
+    "homeBannerId": 566,
+    "seq": 180,
+    "homeBannerType": "general",
+    "name": "ハッピーニューイヤー2023ライブ Leo/need",
+    "assetbundleName": "banner_virtuallive197",
+    "transitionDestinationType": "virtual_live",
+    "transitionDestinationId": 197,
+    "startAt": 1672466400000,
+    "endAt": 1672552799000
+  },
+  {
+    "homeBannerId": 571,
+    "seq": 160,
+    "homeBannerType": "general",
+    "name": "セカイ神社訴求用バナー",
+    "assetbundleName": "banner_sekai_jinja_2023",
+    "transitionDestinationType": "virtual_live",
+    "transitionDestinationId": 195,
+    "startAt": 1672466400000,
+    "endAt": 1673330399000
   }
 ]
