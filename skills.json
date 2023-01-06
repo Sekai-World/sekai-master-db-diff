@@ -1,8 +1,8 @@
 [
   {
     "id": 1,
-    "shortDescription": "Score +{{1;v}}%.",
-    "description": "Score +{{1;v}}% for {{1;d}}s.",
+    "shortDescription": "スコア{{1;v}}%ＵＰ",
+    "description": "{{1;d}}秒間  スコアが{{1;v}}%UPする",
     "descriptionSpriteName": "score_up",
     "skillFilterId": 1,
     "skillEffects": [
@@ -45,8 +45,8 @@
   },
   {
     "id": 2,
-    "shortDescription": "Score +{{2;v}}%.",
-    "description": "Score +{{2;v}}% for {{2;d}}s.",
+    "shortDescription": "スコア{{2;v}}%ＵＰ",
+    "description": "{{2;d}}秒間  スコアが{{2;v}}%UPする",
     "descriptionSpriteName": "score_up",
     "skillFilterId": 1,
     "skillEffects": [
@@ -89,8 +89,8 @@
   },
   {
     "id": 3,
-    "shortDescription": "Score +{{3;v}}%.",
-    "description": "Score +{{3;v}}% for {{3;d}}s.",
+    "shortDescription": "スコア{{3;v}}%ＵＰ",
+    "description": "{{3;d}}秒間  スコアが{{3;v}}%UPする",
     "descriptionSpriteName": "score_up",
     "skillFilterId": 1,
     "skillEffects": [
@@ -133,8 +133,8 @@
   },
   {
     "id": 4,
-    "shortDescription": "Score +{{4;v}}%.",
-    "description": "Score +{{4;v}}% for {{4;d}}s.",
+    "shortDescription": "スコア{{4;v}}%ＵＰ",
+    "description": "{{4;d}}秒間  スコアが{{4;v}}%UPする",
     "descriptionSpriteName": "score_up",
     "skillFilterId": 1,
     "skillEffects": [
@@ -177,8 +177,8 @@
   },
   {
     "id": 5,
-    "shortDescription": "Accuracy Up (S)\\n& Score +{{5;v}}%.",
-    "description": "GREAT taps change to PERFECT taps for {{8;d}}s and Score +{{5;v}}% for {{5;d}}s.",
+    "shortDescription": "判定強化(小)\\n＆スコア{{5;v}}%ＵＰ",
+    "description": "{{8;d}}秒間  GREATがPERFECTになり、{{5;d}}秒間  スコアが{{5;v}}％UPする",
     "descriptionSpriteName": "judgment_up",
     "skillFilterId": 3,
     "skillEffects": [
@@ -256,8 +256,8 @@
   },
   {
     "id": 6,
-    "shortDescription": "Accuracy Up (M)\\n& Score +{{6;v}}%.",
-    "description": "GOOD or better taps change to PERFECT taps for {{9;d}}s and Score +{{6;v}}% for {{6;d}}s.",
+    "shortDescription": "判定強化(中)\\n＆スコア{{6;v}}%ＵＰ",
+    "description": "{{9;d}}秒間  GOOD以上がPERFECTになり、{{6;d}}秒間  スコアが{{6;v}}％UPする",
     "descriptionSpriteName": "judgment_up",
     "skillFilterId": 3,
     "skillEffects": [
@@ -335,8 +335,8 @@
   },
   {
     "id": 7,
-    "shortDescription": "Accuracy Up (L)\\n& Score +{{7;v}}%.",
-    "description": "BAD or better taps change to PERFECT taps for {{10;d}}s and Score +{{7;v}}% for {{7;d}}s.",
+    "shortDescription": "判定強化(大)\\n＆スコア{{7;v}}%ＵＰ",
+    "description": "{{10;d}}秒間  BAD以上がPERFECTになり、{{7;d}}秒間  スコアが{{7;v}}％UPする",
     "descriptionSpriteName": "judgment_up",
     "skillFilterId": 3,
     "skillEffects": [
@@ -414,8 +414,8 @@
   },
   {
     "id": 8,
-    "shortDescription": "Life Recovery +{{14;v}}\\n& Score +{{11;v}}%.",
-    "description": "Life Recovery +{{14;v}} and Score +{{11;v}}% for {{11;d}}s.",
+    "shortDescription": "ライフ{{14;v}}回復\\n＆スコア{{11;v}}%ＵＰ",
+    "description": "ライフが{{14;v}}回復し、{{11;d}}秒間  スコアが{{11;v}}%UPする",
     "descriptionSpriteName": "life_recovery",
     "skillFilterId": 4,
     "skillEffects": [
@@ -492,8 +492,8 @@
   },
   {
     "id": 9,
-    "shortDescription": "Life Recovery +{{15;v}}\\n& Score +{{12;v}}%.",
-    "description": "Life Recovery +{{15;v}} and Score +{{12;v}}% for {{12;d}}s.",
+    "shortDescription": "ライフ{{15;v}}回復\\n＆スコア{{12;v}}%ＵＰ",
+    "description": "ライフが{{15;v}}回復し、{{12;d}}秒間  スコアが{{12;v}}%UPする",
     "descriptionSpriteName": "life_recovery",
     "skillFilterId": 4,
     "skillEffects": [
@@ -570,8 +570,8 @@
   },
   {
     "id": 10,
-    "shortDescription": "Life Recovery +{{16;v}}\\n& Score +{{13;v}}%.",
-    "description": "Life Recovery +{{16;v}} and Score +{{13;v}}% for {{13;d}}s.",
+    "shortDescription": "ライフ{{16;v}}回復\\n＆スコア{{13;v}}%ＵＰ",
+    "description": "ライフが{{16;v}}回復し、{{13;d}}秒間  スコアが{{13;v}}%UPする",
     "descriptionSpriteName": "life_recovery",
     "skillFilterId": 4,
     "skillEffects": [
@@ -648,8 +648,8 @@
   },
   {
     "id": 11,
-    "shortDescription": "Score +{{17;v}}%\\nfor PERFECT taps.",
-    "description": "Score +{{17;v}}% for PERFECT taps for {{17;d}}s.",
+    "shortDescription": "PERFECTのときのみ\\nスコア{{17;v}}%ＵＰ",
+    "description": "{{17;d}}秒間  PERFECTのときのみスコアが{{17;v}}%UPする",
     "descriptionSpriteName": "score_up",
     "skillFilterId": 2,
     "skillEffects": [
@@ -692,8 +692,8 @@
   },
   {
     "id": 12,
-    "shortDescription": "Score +{{39;v}}% if your Life is below 800 upon activating or Score +{{38;v}}% if above 800, and +1% every time your Life increases by 10 (max {{18;v}}%).",
-    "description": "Score +{{39;v}}% for {{38;d}}s if your Life is below 800 upon activating or Score +{{38;v}}% if above 800, and +1% every time your Life increases by 10 (max {{18;v}}%).",
+    "shortDescription": "発動時ライフが800未満ならスコア{{39;v}}%UP、\\n800以上ならスコア{{38;v}}%UP、更にライフが10増加毎に+1%UP（最大{{18;v}}%)",
+    "description": "{{38;d}}秒間  発動時ライフが800未満ならスコアが{{39;v}}%UP、\n800以上ならスコアが{{38;v}}%UP、更にライフが10増加毎に+1%UPする（最大{{18;v}}%)",
     "descriptionSpriteName": "score_up",
     "skillFilterId": 2,
     "skillEffects": [
@@ -1493,15 +1493,15 @@
   },
   {
     "id": 13,
-    "shortDescription": "Score +{{41;v}}% and Score +{{40;v}}% until a GREAT or worse tap is recorded.",
-    "description": "Score +{{41;v}}% for {{40;d}}s and Score +{{40;v}}% until a GREAT or worse tap is recorded.",
+    "shortDescription": "スコア{{41;v}}％UP、GOOD以下を出すまではスコア{{40;v}}％UP",
+    "description": "{{40;d}}秒間  スコアが{{41;v}}％UP、\nGOOD以下を出すまではスコアが{{40;v}}％UPする",
     "descriptionSpriteName": "score_up",
     "skillFilterId": 2,
     "skillEffects": [
       {
         "id": 40,
         "skillEffectType": "score_up_keep",
-        "activateNotesJudgmentType": "perfect",
+        "activateNotesJudgmentType": "great",
         "skillEffectDetails": [
           {
             "id": 157,
@@ -1572,8 +1572,8 @@
   },
   {
     "id": 14,
-    "shortDescription": "Life Recovery +{{42;v}}\\n and Score +{{43;v}}% for PERFECT taps.",
-    "description": "Life Recovery +{{42;v}} and Score +{{43;v}}% for PERFECT taps for {{43;d}}s.",
+    "shortDescription": "ライフ{{42;v}}回復\\n＆PERFECTのときのみ\\nスコア{{43;v}}%ＵＰ",
+    "description": "ライフが{{42;v}}回復し、{{43;d}}秒間  PERFECTのときのみスコアが{{43;v}}%UPする",
     "descriptionSpriteName": "life_recovery",
     "skillFilterId": 4,
     "skillEffects": [
@@ -1650,8 +1650,8 @@
   },
   {
     "id": 15,
-    "shortDescription": "Score +{{44;v}}% and Score +{{44;e}}% for every Leo/need Character, excluding self, plus an extra {{44;e}}% when all Characters are from Leo/need.",
-    "description": "Score +{{44;v}}% for {{44;d}}s.\nScore +{{44;e}}% for every Leo/need Character, excluding self, plus an extra {{44;e}}% (up to +{{44;m}}%) when all Characters are from Leo/need.",
+    "shortDescription": "スコア{{44;v}}%UP、自身を除き「Leo/need」メンバーを1人編成する毎にスコア{{44;e}}%UP、全員一致で更に{{44;e}}%UP",
+    "description": "{{44;d}}秒間  スコアが{{44;v}}%UPする\n自身を除き「Leo/need」メンバーを1人編成する毎にスコアが{{44;e}}%UPし、全員一致で更に{{44;e}}%UPする（最大{{44;m}}%)",
     "descriptionSpriteName": "score_up",
     "skillFilterId": 2,
     "skillEffects": [
@@ -1705,8 +1705,8 @@
   },
   {
     "id": 16,
-    "shortDescription": "Score +{{45;v}}% and Score +{{45;e}}% for every MORE MORE JUMP! Character, excluding self, plus an extra {{45;e}}% (up to +{{45;m}}%) when all Characters are from MORE MORE JUMP!",
-    "description": "Score +{{45;v}}% for {{45;d}}s.\nScore +{{45;e}}% for every MORE MORE JUMP! Character, excluding self, plus an extra {{45;e}}% (up to +{{45;m}}%) when all Characters are from MORE MORE JUMP!",
+    "shortDescription": "スコア{{45;v}}%UP、自身を除き「MORE MORE JUMP！」メンバーを1人編成する毎にスコア{{45;e}}%UP、全員一致で更に{{45;e}}%UP（最大{{45;m}}%)",
+    "description": "{{45;d}}秒間  スコアが{{45;v}}%UPする\n自身を除き「MORE MORE JUMP！」メンバーを1人編成する毎にスコアが{{45;e}}%UPし、全員一致で更に{{45;e}}%UPする（最大{{45;m}}%)",
     "descriptionSpriteName": "score_up",
     "skillFilterId": 2,
     "skillEffects": [
@@ -1760,8 +1760,8 @@
   },
   {
     "id": 17,
-    "shortDescription": "Score +{{46;v}}% and Score +{{46;e}}% for every Vivid BAD SQUAD Character, excluding self, plus an extra {{46;e}}% (up to +{{46;m}}%) when all Characters are from Vivid BAD SQUAD.",
-    "description": "Score +{{46;v}}% for {{46;d}}s.\nScore +{{46;e}}% for every Vivid BAD SQUAD Character, excluding self, plus an extra {{46;e}}% (up to +{{46;m}}%) when all Characters are from Vivid BAD SQUAD.",
+    "shortDescription": "スコア{{46;v}}%UP、自身を除き「Vivid BAD SQUAD」メンバーを1人編成する毎にスコア{{46;e}}%UP、全員一致で更に{{46;e}}%UP（最大{{46;m}}%)",
+    "description": "{{46;d}}秒間  スコアが{{46;v}}%UPする\n自身を除き「Vivid BAD SQUAD」メンバーを1人編成する毎にスコアが{{46;e}}%UPし、全員一致で更に{{46;e}}%UPする（最大{{46;m}}%)",
     "descriptionSpriteName": "score_up",
     "skillFilterId": 2,
     "skillEffects": [
@@ -1815,8 +1815,8 @@
   },
   {
     "id": 18,
-    "shortDescription": "Score +{{47;v}}% and Score +{{47;e}}% for every Wonderlands×Showtime Character, excluding self, plus an extra {{47;e}}% (up to +{{47;m}}%) when all Characters are from Wonderlands×Showtime.",
-    "description": "Score +{{47;v}}% for {{47;d}}s.\nScore +{{47;e}}% for every Wonderlands×Showtime Character, excluding self, plus an extra {{47;e}}% (up to +{{47;m}}%) when all Characters are from Wonderlands×Showtime.",
+    "shortDescription": "スコア{{47;v}}%UP、自身を除き「ワンダーランズ×ショウタイム」メンバーを1人編成する毎にスコア{{47;e}}%UP、全員一致で更に{{47;e}}%UP（最大{{47;m}}%)",
+    "description": "{{47;d}}秒間  スコアが{{47;v}}%UPする\n自身を除き「ワンダーランズ×ショウタイム」メンバーを1人編成する毎にスコアが{{47;e}}%UPし、全員一致で更に{{47;e}}%UPする（最大{{47;m}}%)",
     "descriptionSpriteName": "score_up",
     "skillFilterId": 2,
     "skillEffects": [
@@ -1870,8 +1870,8 @@
   },
   {
     "id": 19,
-    "shortDescription": "Score +{{48;v}}% and Score +{{48;e}}% for every Nightcord at 25:00 Character, excluding self, plus an extra {{48;e}}% (up to +{{48;m}}%) when all Characters are from Nightcord at 25:00.",
-    "description": "Score +{{48;v}}% for {{48;d}}s.\nScore +{{48;e}}% for every Nightcord at 25:00 Character, excluding self, plus an extra {{48;e}}% (up to +{{48;m}}%) when all Characters are from Nightcord at 25:00.",
+    "shortDescription": "スコア{{48;v}}%UP、自身を除き「25時、ナイトコードで。」メンバーを1人編成する毎にスコア{{48;e}}%UP、全員一致で更に{{48;e}}%UP（最大{{48;m}}%)",
+    "description": "{{48;d}}秒間  スコアが{{48;v}}%UPする\n自身を除き「25時、ナイトコードで。」メンバーを1人編成する毎にスコアが{{48;e}}%UPし、全員一致で更に{{48;e}}%UPする（最大{{48;m}}%)",
     "descriptionSpriteName": "score_up",
     "skillFilterId": 2,
     "skillEffects": [
