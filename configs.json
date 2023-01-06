@@ -37,7 +37,7 @@
   },
   {
     "configKey": "max_user_level",
-    "value": "500"
+    "value": "400"
   },
   {
     "configKey": "max_unit_level",
@@ -45,7 +45,7 @@
   },
   {
     "configKey": "max_character_rank",
-    "value": "110"
+    "value": "65"
   },
   {
     "configKey": "tutorial_in_game_deck",
@@ -73,7 +73,7 @@
   },
   {
     "configKey": "default_deck_name",
-    "value": "ユニット01"
+    "value": "Group 01"
   },
   {
     "configKey": "tutorial_theme_park_unit_story_id",
@@ -145,7 +145,7 @@
   },
   {
     "configKey": "multi_live_power_range_spread_second",
-    "value": "3000"
+    "value": "1000"
   },
   {
     "configKey": "multi_live_cutin_max_count",
@@ -345,7 +345,7 @@
   },
   {
     "configKey": "virtual_live_ignore_full_user_ids",
-    "value": "1534703194930896908,1534971037077430284,1534970991011389456,1534898748709629956,1534898657923653635,1534898726076899334,1534898708179804165,1534904320951545862"
+    "value": "126109069789368320"
   },
   {
     "configKey": "virtual_live_seconds_to_leave_from_sleep",
@@ -353,11 +353,11 @@
   },
   {
     "configKey": "apple_store_url",
-    "value": "https://play.google.com/store/apps/details?id=com.sega.pjsekai"
+    "value": "https://itunes.apple.com/app/id1580044138"
   },
   {
     "configKey": "google_store_url",
-    "value": "https://itunes.apple.com/app/id1489932710"
+    "value": "https://play.google.com/store/apps/details?id=com.sega.ColorfulStage.en"
   },
   {
     "configKey": "google_billing_pending_code",
@@ -417,7 +417,7 @@
   },
   {
     "configKey": "private_room_attempt_range",
-    "value": "15"
+    "value": "10"
   },
   {
     "configKey": "virtual_live_private_room_expire_hour",
@@ -468,6 +468,10 @@
     "value": "0.0002"
   },
   {
+    "configKey": "cheerful_carnival_live_healthy_team_member_count",
+    "value": "5"
+  },
+  {
     "configKey": "cheerful_carnival_announce_consecutive_win_count",
     "value": "10"
   },
@@ -513,7 +517,7 @@
   },
   {
     "configKey": "gacha_seal_ticket_exchange_to_gacha_seal_unable_at",
-    "value": "2021/04/30 14:59:59"
+    "value": "2022/02/01 14:59:59"
   },
   {
     "configKey": "force_update_spring_bone_frame_count",
@@ -529,7 +533,7 @@
   },
   {
     "configKey": "multi_live_super_fever_progress",
-    "value": "1.0"
+    "value": "1"
   },
   {
     "configKey": "virtual_live_group_message_sync_count",
@@ -538,6 +542,78 @@
   {
     "configKey": "custom_profile_text_line_spacing_factor",
     "value": "1.325"
+  },
+  {
+    "configKey": "rank_match_win_add_point",
+    "value": "1"
+  },
+  {
+    "configKey": "rank_match_lose_add_point",
+    "value": "-1"
+  },
+  {
+    "configKey": "rank_match_draw_add_point",
+    "value": "0"
+  },
+  {
+    "configKey": "rank_match_all_perfect_draw_add_point",
+    "value": "1"
+  },
+  {
+    "configKey": "rank_match_penalty_add_point",
+    "value": "-1"
+  },
+  {
+    "configKey": "rank_match_rank_up_adjust_point",
+    "value": "1"
+  },
+  {
+    "configKey": "rank_match_rank_down_adjust_point",
+    "value": "4"
+  },
+  {
+    "configKey": "rank_match_placement_play_count",
+    "value": "3"
+  },
+  {
+    "configKey": "rank_match_matching_class_scale",
+    "value": "3"
+  },
+  {
+    "configKey": "rank_match_placement_top_limit",
+    "value": "10"
+  },
+  {
+    "configKey": "rank_match_score_encrypt_key_size",
+    "value": "256"
+  },
+  {
+    "configKey": "rank_match_recovery_penalty_count",
+    "value": "1"
+  },
+  {
+    "configKey": "rank_match_recovery_penalty_count_hour",
+    "value": "24"
+  },
+  {
+    "configKey": "redis_ranking_expire_sec",
+    "value": "7776000"
+  },
+  {
+    "configKey": "cheerful_carnival_party_redis_lock_enable",
+    "value": "TRUE"
+  },
+  {
+    "configKey": "redis_lock_expire",
+    "value": "8000"
+  },
+  {
+    "configKey": "redis_lock_sleep",
+    "value": "200"
+  },
+  {
+    "configKey": "redis_lock_timeout",
+    "value": "4000"
   },
   {
     "configKey": "friend_request_expire_hour",
@@ -549,11 +625,7 @@
   },
   {
     "configKey": "friend_count_limit",
-    "value": "200"
-  },
-  {
-    "configKey": "user_block_count_limit",
-    "value": "200"
+    "value": "100"
   },
   {
     "configKey": "login_status_online_expire_sec",
@@ -648,78 +720,6 @@
     "value": "3"
   },
   {
-    "configKey": "rank_match_win_add_point",
-    "value": "1"
-  },
-  {
-    "configKey": "rank_match_lose_add_point",
-    "value": "-1"
-  },
-  {
-    "configKey": "rank_match_draw_add_point",
-    "value": "0"
-  },
-  {
-    "configKey": "rank_match_all_perfect_draw_add_point",
-    "value": "1"
-  },
-  {
-    "configKey": "rank_match_penalty_add_point",
-    "value": "-1"
-  },
-  {
-    "configKey": "rank_match_rank_up_adjust_point",
-    "value": "1"
-  },
-  {
-    "configKey": "rank_match_rank_down_adjust_point",
-    "value": "4"
-  },
-  {
-    "configKey": "rank_match_placement_play_count",
-    "value": "3"
-  },
-  {
-    "configKey": "rank_match_placement_top_limit",
-    "value": "10"
-  },
-  {
-    "configKey": "rank_match_score_encrypt_key_size",
-    "value": "256"
-  },
-  {
-    "configKey": "rank_match_recovery_penalty_count",
-    "value": "1"
-  },
-  {
-    "configKey": "rank_match_recovery_penalty_count_hour",
-    "value": "24"
-  },
-  {
-    "configKey": "rank_match_matching_class_scale",
-    "value": "3"
-  },
-  {
-    "configKey": "redis_ranking_expire_sec",
-    "value": "7776000"
-  },
-  {
-    "configKey": "cheerful_carnival_party_redis_lock_enable",
-    "value": "TRUE"
-  },
-  {
-    "configKey": "redis_lock_expire",
-    "value": "16000"
-  },
-  {
-    "configKey": "redis_lock_sleep",
-    "value": "200"
-  },
-  {
-    "configKey": "redis_lock_timeout",
-    "value": "8000"
-  },
-  {
     "configKey": "debug_auth_disable",
     "value": "false"
   },
@@ -769,19 +769,31 @@
   },
   {
     "configKey": "trial_banner_url",
-    "value": "https://app.adjust.com/3jjmw0p?redirect=https%3A%2F%2Fpjsekai.sega.jp%2Fpreregistration%2Findex.html"
+    "value": "https://app.adjust.com/◯◯◯"
   },
   {
     "configKey": "trial_banner_enable",
     "value": "TRUE"
   },
   {
-    "configKey": "user_report_custom_profile_thumbnail_path_prefix",
-    "value": "custom-profile-card/thumbnail"
+    "configKey": "collectable_material",
+    "value": "1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,44,45"
   },
   {
-    "configKey": "user_report_restriction_hours",
-    "value": "24"
+    "configKey": "collectable_practice_ticket",
+    "value": "1,2,3"
+  },
+  {
+    "configKey": "collectable_skill_practice_ticket",
+    "value": "1,2,3"
+  },
+  {
+    "configKey": "collectable_gacha_ticket",
+    "value": "1,2"
+  },
+  {
+    "configKey": "collectable_boost_item",
+    "value": "1,2"
   },
   {
     "configKey": "streaming_virtual_live_ui_sound_volume",
@@ -790,21 +802,5 @@
   {
     "configKey": "default_ui_sound_volume",
     "value": "0.85"
-  },
-  {
-    "configKey": "user_report_thanks_message",
-    "value": "通報いただいたプレイヤーに対して、\\nペナルティ処置を行いました。\\nご協力いただきありがとうございました。"
-  },
-  {
-    "configKey": "user_mylist_under_limit",
-    "value": "1"
-  },
-  {
-    "configKey": "user_mylist_upper_limit",
-    "value": "5"
-  },
-  {
-    "configKey": "user_mylist_name_max_length",
-    "value": "10"
   }
 ]

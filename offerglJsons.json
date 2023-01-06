@@ -1,0 +1,42 @@
+[
+  {
+    "id": 4,
+    "shopItemType": "billing_shop",
+    "shopItemId": 20102,
+    "offerType": "limited",
+    "offerDisplayCondition": "gacha_get",
+    "requirement": 1,
+    "param1": 3,
+    "buyLimitCount": 1,
+    "saleDurationMinutes": 10080,
+    "assetBundleName": "offer01",
+    "seq": 2,
+    "startAt": 1669244400000
+  },
+  {
+    "id": 5,
+    "shopItemType": "billing_shop",
+    "shopItemId": 20103,
+    "offerType": "limited",
+    "offerDisplayCondition": "gacha_get",
+    "requirement": 1,
+    "param1": 4,
+    "buyLimitCount": 1,
+    "saleDurationMinutes": 10080,
+    "assetBundleName": "offer02",
+    "seq": 1,
+    "startAt": 1669244400000
+  },
+  {
+    "id": 6,
+    "shopItemType": "subscription",
+    "shopItemId": 1,
+    "offerType": "normal",
+    "offerDisplayCondition": "weekly_first_play_live",
+    "requirement": 1,
+    "saleDurationMinutes": 10080,
+    "assetBundleName": "offer03",
+    "seq": 3,
+    "startAt": 1669244400000
+  }
+]
