@@ -4466,5 +4466,40 @@
       }
     ],
     "virtualShopType": "birthday"
+  },
+  {
+    "id": 169,
+    "seq": 169,
+    "name": "第84回イベント物販",
+    "virtualShopItems": [
+      {
+        "id": 320,
+        "virtualShopId": 169,
+        "virtualShopItemType": "accessory",
+        "seq": 99909,
+        "resourceBoxId": 223,
+        "costVirtualCoin": 3000,
+        "costJewel": 1000,
+        "startAt": 1675144800000
+      }
+    ],
+    "virtualShopType": "event"
+  },
+  {
+    "id": 170,
+    "seq": 170,
+    "name": "奏 BIRTHDAY",
+    "virtualShopItems": [
+      {
+        "id": 321,
+        "virtualShopId": 170,
+        "virtualShopItemType": "penlight",
+        "seq": 199895,
+        "resourceBoxId": 224,
+        "costPaidJewel": 1000,
+        "startAt": 1675836000000
+      }
+    ],
+    "virtualShopType": "birthday"
   }
 ]
