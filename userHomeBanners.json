@@ -1,27 +1,5 @@
 [
   {
-    "homeBannerId": 583,
-    "seq": 110,
-    "homeBannerType": "general",
-    "name": "[ガチャ]レオニ箱イベ12巡目_定常ガチャバナー",
-    "assetbundleName": "banner_gacha285",
-    "transitionDestinationType": "gacha",
-    "transitionDestinationId": 285,
-    "startAt": 1674270000000,
-    "endAt": 1675133999000
-  },
-  {
-    "homeBannerId": 584,
-    "seq": 100,
-    "homeBannerType": "event",
-    "name": "[イベント]レオニ箱イベ12巡目_イベントバナー",
-    "assetbundleName": "event_bravers_2023",
-    "transitionDestinationType": "event",
-    "transitionDestinationId": 83,
-    "startAt": 1674280800000,
-    "endAt": 1675144799000
-  },
-  {
     "homeBannerId": 587,
     "seq": 90,
     "homeBannerType": "general",
@@ -33,14 +11,25 @@
     "endAt": 1675479599000
   },
   {
-    "homeBannerId": 591,
-    "seq": 130,
+    "homeBannerId": 592,
+    "seq": 110,
     "homeBannerType": "general",
-    "name": "[巡音ルカ]HAPPY ANNIVERSARY2023ガチャ",
-    "assetbundleName": "banner_gacha289",
+    "name": "[ガチャ]シャッフルバレンタインイベ_定常ガチャバナー",
+    "assetbundleName": "banner_gacha291",
     "transitionDestinationType": "gacha",
-    "transitionDestinationId": 289,
-    "startAt": 1675004400000,
-    "endAt": 1675090799000
+    "transitionDestinationId": 291,
+    "startAt": 1675134000000,
+    "endAt": 1675997999000
+  },
+  {
+    "homeBannerId": 593,
+    "seq": 100,
+    "homeBannerType": "event",
+    "name": "[イベント]シャッフルバレンタインイベ_イベントバナー",
+    "assetbundleName": "event_candle_2023",
+    "transitionDestinationType": "event",
+    "transitionDestinationId": 84,
+    "startAt": 1675144800000,
+    "endAt": 1676008799000
   }
 ]
