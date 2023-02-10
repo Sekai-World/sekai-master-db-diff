@@ -578,5 +578,150 @@
         "resourceBoxId": 8001
       }
     ]
+  },
+  {
+    "id": 33,
+    "eventId": 85,
+    "seq": 1,
+    "eventMissionType": "live_clear_daily",
+    "eventMissionCategory": "normal",
+    "requirement1": 8,
+    "sentence": "累計8日ライブを1日1回クリアしよう。",
+    "rewards": [
+      {
+        "id": 4711,
+        "missionType": "event_mission",
+        "missionId": 33,
+        "seq": 1,
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "eventId": 85,
+    "seq": 2,
+    "eventMissionType": "any_live_clear",
+    "eventMissionCategory": "normal",
+    "requirement1": 50,
+    "sentence": "ライブを50回クリアしよう。",
+    "rewards": [
+      {
+        "id": 4712,
+        "missionType": "event_mission",
+        "missionId": 34,
+        "seq": 1,
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "eventId": 85,
+    "seq": 3,
+    "eventMissionType": "live_clear_full_combo",
+    "eventMissionCategory": "normal",
+    "requirement1": 10,
+    "sentence": "ライブで楽曲をフルコンボで10回クリアしよう。",
+    "rewards": [
+      {
+        "id": 4713,
+        "missionType": "event_mission",
+        "missionId": 35,
+        "seq": 1,
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "eventId": 85,
+    "seq": 4,
+    "eventMissionType": "live_clear_different_music",
+    "eventMissionCategory": "normal",
+    "requirement1": 10,
+    "requirement2": 1,
+    "sentence": "ライブで10種類の楽曲をクリアしよう。",
+    "rewards": [
+      {
+        "id": 4714,
+        "missionType": "event_mission",
+        "missionId": 36,
+        "seq": 1,
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "eventId": 85,
+    "seq": 5,
+    "eventMissionType": "read_last_event_story_episode",
+    "eventMissionCategory": "normal",
+    "requirement1": 1,
+    "sentence": "イベント「ほどかれた糸のその先に」のイベントストーリー第8話を読もう。",
+    "rewards": [
+      {
+        "id": 4715,
+        "missionType": "event_mission",
+        "missionId": 37,
+        "seq": 1,
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "eventId": 85,
+    "seq": 6,
+    "eventMissionType": "consume_event_item",
+    "eventMissionCategory": "normal",
+    "requirement1": 20000,
+    "sentence": "イベント「ほどかれた糸のその先に」の交換所でバッジを20000個消費しよう。",
+    "rewards": [
+      {
+        "id": 4716,
+        "missionType": "event_mission",
+        "missionId": 38,
+        "seq": 1,
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "eventId": 85,
+    "seq": 7,
+    "eventMissionType": "join_virtual_live",
+    "eventMissionCategory": "normal",
+    "requirement1": 1,
+    "sentence": "「ほどかれた糸のその先に アフターライブ」に参加しよう。",
+    "rewards": [
+      {
+        "id": 4717,
+        "missionType": "event_mission",
+        "missionId": 39,
+        "seq": 1,
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "eventId": 85,
+    "seq": 8,
+    "eventMissionType": "achieve_event_mission",
+    "eventMissionCategory": "complete",
+    "requirement1": 7,
+    "sentence": "7つのミッションを全て達成しよう。",
+    "rewards": [
+      {
+        "id": 4718,
+        "missionType": "event_mission",
+        "missionId": 40,
+        "seq": 1,
+        "resourceBoxId": 8001
+      }
+    ]
   }
 ]

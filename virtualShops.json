@@ -4501,5 +4501,74 @@
       }
     ],
     "virtualShopType": "birthday"
+  },
+  {
+    "id": 171,
+    "seq": 171,
+    "name": "第85回イベント物販",
+    "virtualShopItems": [
+      {
+        "id": 322,
+        "virtualShopId": 171,
+        "virtualShopItemType": "coordinate",
+        "seq": 99855,
+        "resourceBoxId": 225,
+        "costPaidJewel": 1000,
+        "startAt": 1676008800000
+      }
+    ],
+    "virtualShopType": "event"
+  },
+  {
+    "id": 172,
+    "seq": 172,
+    "name": "バレンタイン2023ライブ",
+    "virtualShopItems": [
+      {
+        "id": 323,
+        "virtualShopId": 172,
+        "virtualShopItemType": "penlight",
+        "seq": 199893,
+        "resourceBoxId": 226,
+        "costPaidJewel": 1000,
+        "startAt": 1676181600000
+      },
+      {
+        "id": 324,
+        "virtualShopId": 172,
+        "virtualShopItemType": "penlight",
+        "seq": 199894,
+        "resourceBoxId": 157,
+        "costPaidJewel": 1000,
+        "startAt": 1676181600000
+      },
+      {
+        "id": 325,
+        "virtualShopId": 172,
+        "virtualShopItemType": "coordinate",
+        "seq": 99854,
+        "resourceBoxId": 81,
+        "costPaidJewel": 1000,
+        "startAt": 1676181600000
+      }
+    ],
+    "virtualShopType": "special_live"
+  },
+  {
+    "id": 173,
+    "seq": 173,
+    "name": "KAITO ANNIVERSARY",
+    "virtualShopItems": [
+      {
+        "id": 326,
+        "virtualShopId": 173,
+        "virtualShopItemType": "penlight",
+        "seq": 199892,
+        "resourceBoxId": 227,
+        "costPaidJewel": 1000,
+        "startAt": 1676440800000
+      }
+    ],
+    "virtualShopType": "birthday"
   }
 ]
