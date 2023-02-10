@@ -1,27 +1,5 @@
 [
   {
-    "homeBannerId": 592,
-    "seq": 110,
-    "homeBannerType": "general",
-    "name": "[ガチャ]シャッフルバレンタインイベ_定常ガチャバナー",
-    "assetbundleName": "banner_gacha291",
-    "transitionDestinationType": "gacha",
-    "transitionDestinationId": 291,
-    "startAt": 1675134000000,
-    "endAt": 1675997999000
-  },
-  {
-    "homeBannerId": 593,
-    "seq": 100,
-    "homeBannerType": "event",
-    "name": "[イベント]シャッフルバレンタインイベ_イベントバナー",
-    "assetbundleName": "event_candle_2023",
-    "transitionDestinationType": "event",
-    "transitionDestinationId": 84,
-    "startAt": 1675144800000,
-    "endAt": 1676008799000
-  },
-  {
     "homeBannerId": 595,
     "seq": 130,
     "homeBannerType": "general",
@@ -31,5 +9,27 @@
     "transitionDestinationId": 292,
     "startAt": 1675954800000,
     "endAt": 1676041199000
+  },
+  {
+    "homeBannerId": 596,
+    "seq": 110,
+    "homeBannerType": "general",
+    "name": "[ガチャ]モモジャン箱イベ12巡目_定常ガチャバナー",
+    "assetbundleName": "banner_gacha294",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 294,
+    "startAt": 1675998000000,
+    "endAt": 1676775599000
+  },
+  {
+    "homeBannerId": 597,
+    "seq": 100,
+    "homeBannerType": "event",
+    "name": "[イベント]モモジャン箱イベ12巡目_イベントバナー",
+    "assetbundleName": "event_thread_2023",
+    "transitionDestinationType": "event",
+    "transitionDestinationId": 85,
+    "startAt": 1676008800000,
+    "endAt": 1676786399000
   }
 ]
