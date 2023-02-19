@@ -1,18 +1,7 @@
 [
   {
-    "homeBannerId": 596,
-    "seq": 110,
-    "homeBannerType": "general",
-    "name": "[ガチャ]モモジャン箱イベ12巡目_定常ガチャバナー",
-    "assetbundleName": "banner_gacha294",
-    "transitionDestinationType": "gacha",
-    "transitionDestinationId": 294,
-    "startAt": 1675998000000,
-    "endAt": 1676775599000
-  },
-  {
     "homeBannerId": 597,
-    "seq": 100,
+    "seq": 170,
     "homeBannerType": "event",
     "name": "[イベント]モモジャン箱イベ12巡目_イベントバナー",
     "assetbundleName": "event_thread_2023",
@@ -20,17 +9,6 @@
     "transitionDestinationId": 85,
     "startAt": 1676008800000,
     "endAt": 1676786399000
-  },
-  {
-    "homeBannerId": 599,
-    "seq": 130,
-    "homeBannerType": "general",
-    "name": "バレンタイン2023ライブ",
-    "assetbundleName": "banner_virtuallive211",
-    "transitionDestinationType": "virtual_live",
-    "transitionDestinationId": 211,
-    "startAt": 1676181600000,
-    "endAt": 1676473199000
   },
   {
     "homeBannerId": 600,
@@ -53,5 +31,16 @@
     "transitionDestinationId": 2516,
     "startAt": 1676084400000,
     "endAt": 1677293999000
+  },
+  {
+    "homeBannerId": 605,
+    "seq": 110,
+    "homeBannerType": "general",
+    "name": "[ガチャ]ビビバス箱イベ12巡目_定常ガチャバナー",
+    "assetbundleName": "banner_gacha298",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 298,
+    "startAt": 1676775600000,
+    "endAt": 1677553199000
   }
 ]

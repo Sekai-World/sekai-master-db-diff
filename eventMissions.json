@@ -723,5 +723,150 @@
         "resourceBoxId": 8001
       }
     ]
+  },
+  {
+    "id": 41,
+    "eventId": 86,
+    "seq": 1,
+    "eventMissionType": "live_clear_daily",
+    "eventMissionCategory": "normal",
+    "requirement1": 8,
+    "sentence": "累計8日ライブを1日1回クリアしよう。",
+    "rewards": [
+      {
+        "id": 4719,
+        "missionType": "event_mission",
+        "missionId": 41,
+        "seq": 1,
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 42,
+    "eventId": 86,
+    "seq": 2,
+    "eventMissionType": "any_live_clear",
+    "eventMissionCategory": "normal",
+    "requirement1": 50,
+    "sentence": "ライブを50回クリアしよう。",
+    "rewards": [
+      {
+        "id": 4720,
+        "missionType": "event_mission",
+        "missionId": 42,
+        "seq": 1,
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 43,
+    "eventId": 86,
+    "seq": 3,
+    "eventMissionType": "live_clear_full_combo",
+    "eventMissionCategory": "normal",
+    "requirement1": 10,
+    "sentence": "ライブで楽曲をフルコンボで10回クリアしよう。",
+    "rewards": [
+      {
+        "id": 4721,
+        "missionType": "event_mission",
+        "missionId": 43,
+        "seq": 1,
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 44,
+    "eventId": 86,
+    "seq": 4,
+    "eventMissionType": "live_clear_different_music",
+    "eventMissionCategory": "normal",
+    "requirement1": 10,
+    "requirement2": 1,
+    "sentence": "ライブで10種類の楽曲をクリアしよう。",
+    "rewards": [
+      {
+        "id": 4722,
+        "missionType": "event_mission",
+        "missionId": 44,
+        "seq": 1,
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 45,
+    "eventId": 86,
+    "seq": 5,
+    "eventMissionType": "read_last_event_story_episode",
+    "eventMissionCategory": "normal",
+    "requirement1": 1,
+    "sentence": "イベント「Kick it up a notch」のイベントストーリー第8話を読もう。",
+    "rewards": [
+      {
+        "id": 4723,
+        "missionType": "event_mission",
+        "missionId": 45,
+        "seq": 1,
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 46,
+    "eventId": 86,
+    "seq": 6,
+    "eventMissionType": "consume_event_item",
+    "eventMissionCategory": "normal",
+    "requirement1": 20000,
+    "sentence": "イベント「Kick it up a notch」の交換所でバッジを20000個消費しよう。",
+    "rewards": [
+      {
+        "id": 4724,
+        "missionType": "event_mission",
+        "missionId": 46,
+        "seq": 1,
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 47,
+    "eventId": 86,
+    "seq": 7,
+    "eventMissionType": "join_virtual_live",
+    "eventMissionCategory": "normal",
+    "requirement1": 1,
+    "sentence": "「Kick it up a notch アフターライブ」に参加しよう。",
+    "rewards": [
+      {
+        "id": 4725,
+        "missionType": "event_mission",
+        "missionId": 47,
+        "seq": 1,
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 48,
+    "eventId": 86,
+    "seq": 8,
+    "eventMissionType": "achieve_event_mission",
+    "eventMissionCategory": "complete",
+    "requirement1": 7,
+    "sentence": "7つのミッションを全て達成しよう。",
+    "rewards": [
+      {
+        "id": 4726,
+        "missionType": "event_mission",
+        "missionId": 48,
+        "seq": 1,
+        "resourceBoxId": 8001
+      }
+    ]
   }
 ]
