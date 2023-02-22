@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "name": "basic",
+    "colorfulPassTier": "tier_1",
+    "resourceBoxId": 1,
+    "presentSentence": "「カラフルパス～BASIC～」購入特典です。",
+    "expireDays": 30,
+    "challengeLivePointRate": 2,
+    "livePointRate": 2,
+    "dailyPaidGachaSpinLimit": 2,
+    "dailyFreeGachaSpinLimit": 0,
+    "weeklyColorfulPassGachaSpinLimit": 1,
+    "isPriorityForOfflineEventEntry": false
+  },
+  {
+    "id": 2,
+    "name": "deluxe",
+    "colorfulPassTier": "tier_2",
+    "resourceBoxId": 2,
+    "presentSentence": "「カラフルパス～DELUXE～」購入特典です。",
+    "expireDays": 30,
+    "challengeLivePointRate": 2,
+    "livePointRate": 2,
+    "dailyPaidGachaSpinLimit": 2,
+    "dailyFreeGachaSpinLimit": 0,
+    "maxLiveBonusCount": 20,
+    "weeklyColorfulPassGachaSpinLimit": 1,
+    "isPriorityForOfflineEventEntry": true
+  },
+  {
+    "id": 3,
+    "name": "precious",
+    "colorfulPassTier": "tier_3",
+    "resourceBoxId": 3,
+    "presentSentence": "「カラフルパス～PRECIOUS～」購入特典です。",
+    "expireDays": 30,
+    "challengeLivePointRate": 2,
+    "livePointRate": 2,
+    "dailyPaidGachaSpinLimit": 2,
+    "dailyFreeGachaSpinLimit": 1,
+    "maxLiveBonusCount": 20,
+    "maxAutoPlayCount": 99,
+    "weeklyColorfulPassGachaSpinLimit": 1,
+    "isPriorityForOfflineEventEntry": true
+  }
+]

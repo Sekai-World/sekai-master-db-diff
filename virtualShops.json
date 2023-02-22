@@ -4588,5 +4588,25 @@
       }
     ],
     "virtualShopType": "event"
+  },
+  {
+    "id": 175,
+    "seq": 175,
+    "name": "コネクトライブ テクニカルテスト",
+    "virtualLiveId": 207,
+    "virtualShopItems": [
+      {
+        "id": 328,
+        "virtualShopId": 175,
+        "virtualShopItemType": "premium_virtual_live_ticket",
+        "seq": 299993,
+        "resourceBoxId": 229,
+        "costPaidJewel": 0,
+        "startAt": 1677045600000,
+        "endAt": 1677250799000,
+        "limitValue": 0
+      }
+    ],
+    "virtualShopType": "virtual_live_ticket"
   }
 ]

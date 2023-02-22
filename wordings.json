@@ -192,6 +192,10 @@
     "value": "オートライブをプレイするには\nライブボーナスを最低1つ消費する必要があります。"
   },
   {
+    "wordingKey": "MSG_AUTO_LIVE_SETTING_DIALOG_BODY",
+    "value": "※ライブボーナスドリンクが優先して\n使用されます。\n※オートライブ設定を使用すると、\nMVは軽量モードでのプレイとなります。"
+  },
+  {
     "wordingKey": "MSG_B1_TMP_NONE_MEMBER",
     "value": "メンバー不足"
   },
@@ -286,6 +290,10 @@
   {
     "wordingKey": "MSG_CAN_BUY_BY_COSTUME_SHOP",
     "value": "他キャラクターにも製作可能な衣装は\n衣装ショップで解放されます。"
+  },
+  {
+    "wordingKey": "MSG_CAN_ENTRY_OFFLINE_EVENT_DIALOG",
+    "value": "{0}の申込みが開始されました。\nカラフルパスの「イベント申込み」よりご確認ください。"
   },
   {
     "wordingKey": "MSG_CHALLENGE_CHARACTER_SELECT_BODY",
@@ -396,8 +404,32 @@
     "value": "カラフルパスの有効期限が過ぎています。\n新しく購入しますか？"
   },
   {
+    "wordingKey": "MSG_COLORFUL_PASS_CONFIRM_DIALOG_PURCHASE_TEXT",
+    "value": "セット内容を確認し、同意して購入します。"
+  },
+  {
+    "wordingKey": "MSG_COLORFUL_PASS_CONTINUOUS_GRACE_PERIOD_UNTIL_HOUR",
+    "value": "継続判定期間あと{0}時間"
+  },
+  {
+    "wordingKey": "MSG_COLORFUL_PASS_CONTINUOUS_GRACE_PERIOD_UNTIL_MINUTE",
+    "value": "継続判定期間あと{0}分"
+  },
+  {
+    "wordingKey": "MSG_COLORFUL_PASS_EXPIRED_UNTIL_HOUR",
+    "value": "有効期限あと{0}時間"
+  },
+  {
+    "wordingKey": "MSG_COLORFUL_PASS_EXPIRED_UNTIL_MINUTE",
+    "value": "有効期限あと{0}分"
+  },
+  {
+    "wordingKey": "MSG_COLORFUL_PASS_GACHA_TIME_OVER",
+    "value": "カラフルパスの有効期限が切れています。\nホーム画面に戻ります。"
+  },
+  {
     "wordingKey": "MSG_COLORFUL_PASS_SPECIFIED_COMMERCIAL_TRANSACTION_LAW_CONFIRM",
-    "value": "※セット内容と「特定商取引法第12条の6に基づく表示」は\n 「カラフルパス」内の「詳細」ボタンよりご確認ください。"
+    "value": "※セット内容と「特定商取引法第12条の6に基づく表示」は\n 以下のボタンよりご確認ください。"
   },
   {
     "wordingKey": "MSG_COLORFUL_SELECT_GACHA_BALLOON",
@@ -506,6 +538,10 @@
   {
     "wordingKey": "MSG_CONNECT_LIVE_TICKET_EXCHANGE_CONFIRM_TOS",
     "value": "コネクトライブの利用ガイドラインに同意する。"
+  },
+  {
+    "wordingKey": "MSG_CONSECUTIVE_AUTO_COLORFULPASS_EXPIRED",
+    "value": "カラフルパス～PRECIOUS～の有効期限が切れたため、\nライブを中断しました。\n\n<color=#FF55AA>※中断するまでのライブリザルトは反映されています。</color>"
   },
   {
     "wordingKey": "MSG_CONSECUTIVE_AUTO_LIVE_COMPLETE",
@@ -942,6 +978,10 @@
   {
     "wordingKey": "MSG_GACHA_RATE_NOTICE",
     "value": "表示上小数点第5位にて四捨五入しているため、\n全てを合算しても100%にならない場合があります。"
+  },
+  {
+    "wordingKey": "MSG_GACHA_RESOURCE_NONE",
+    "value": "無料で1回\n「{0}」を引きます。\nよろしいですか？"
   },
   {
     "wordingKey": "MSG_GACHA_SHORT_RESOURCE",
@@ -1412,6 +1452,10 @@
     "value": "「{0}」のメンバー成績"
   },
   {
+    "wordingKey": "MSG_MUSIC_ORIGIN_CONFIRM",
+    "value": "原曲動画を視聴するため、外部サイトに移動します。\nよろしいですか？"
+  },
+  {
     "wordingKey": "MSG_MUSIC_SHOP_PURCHASE",
     "value": "{0}を{1}個消費して 楽曲と交換しますか？"
   },
@@ -1490,6 +1534,10 @@
   {
     "wordingKey": "MSG_NONE_HAVE_TICKET",
     "value": "練習用スコアがありません。"
+  },
+  {
+    "wordingKey": "MSG_NONE_PAID_LIVE_REWARD",
+    "value": "初回参加報酬はありません。"
   },
   {
     "wordingKey": "MSG_NOTHING_ACCESSORY_ITEM",
@@ -1660,6 +1708,38 @@
     "value": "待合エリア数を制限するため、一部エリアの\n公開を終了します。ホームに戻ります。"
   },
   {
+    "wordingKey": "MSG_OFFLINE_EVENT_CELL_BEFORE_ENTRY",
+    "value": "<color=#ff55AA>{0}～申込み開始！</color>"
+  },
+  {
+    "wordingKey": "MSG_OFFLINE_EVENT_CELL_CAN_ENTRY_CONTINUOUS_BUY",
+    "value": "<color=#ff55AA>カラフルパス継続購入で申込み可能になります。\n※有効期限が切れた翌日に購入した場合で計算を行っています。</color>"
+  },
+  {
+    "wordingKey": "MSG_OFFLINE_EVENT_CELL_ENTRY",
+    "value": "<color=#ff55AA>申込み期間 {0}～{1}まで</color>"
+  },
+  {
+    "wordingKey": "MSG_OFFLINE_EVENT_CELL_NOT_APPLICABLE",
+    "value": "<color=#ff55AA>必要継続期間の{0}ヶ月に満たないため、\nこちらのイベントは申込み対象外となります。</color>"
+  },
+  {
+    "wordingKey": "MSG_OFFLINE_EVENT_ENTRY_CONFIRM_DIALOG_ATTENSION1",
+    "value": "外部サイトで申込みを行います。\nコピーボタンをタップしてクリップボードにコピーし、\n申込みサイトに貼り付けてください。"
+  },
+  {
+    "wordingKey": "MSG_OFFLINE_EVENT_ENTRY_CONFIRM_DIALOG_ATTENSION2",
+    "value": "※抽選申込みサイトでは申込みIDが必要になります。\n<color=#ff5588>※申込みIDは個人専用のIDになりますので\n他人には絶対に教えないでください。</color>"
+  },
+  {
+    "wordingKey": "MSG_OFFLINE_EVENT_EVALUATION_PERIOD",
+    "value": "{0}～{1}\n<color=#ff5588>※この期間に必要継続期間を満たす</color>\n<color=#ff5588>必要があります。</color>"
+  },
+  {
+    "wordingKey": "MSG_OLD_COLOFRUL_PASS_USER_DIALOG_BODY",
+    "value": "■有効期限\n\n{0}\n\n■セット内容\n\n・クリスタル(有償)×440個\n・14日間クリスタル(無償)×50個(ボーナス)\n・「1日1回有償ガチャ」が2回引ける(ボーナス)\n・チャレンジPが獲得量2倍(ボーナス)\n・ライブPが獲得量2倍(ボーナス)\n※「クリスタル(有償)×440個」以外おボーナスはご購入後30日間有効な特典となります。\n\n\n■累計購入回数特典\n\n・カラフルパスのご購入回数に応じて特典が付きます。\n\n[1回目]クリスタル(無償)×100個\n[2回目]クリスタル(無償)×200個\n[3回目]クリスタル(無償)×300個\n[4回目]クリスタル(無償)×500個\n[5回目]クリスタル(無償)×700個\n[6回目]クリスタル(無償)×1000個\n※ご購入7回目以降は1回目に戻ります。\n\n\n■商品代金の支払時期\n\n・クレジットカード：各カード会社引き落とし日となります。\n・携帯電話会社の料金改修：携帯電話料金と一緒に請求されます。支払時期は携帯電話会社の規定によります。\n・当社が発行する前払式支払手段：お役様が最終確認画面において購入を確定するボタンを押したときのお支払いとなります。\n・その他、購入に係る決済を代行する会社が提供するお支払い方法：ご利用の決済代行会社いによりお支払い方法が異なります。支払時期はご利用の決済代行会社の規定によります。\n\n\n■商品の引き渡し時期\n・クリスタル(有償)：購入完了後、直ちにお引渡しいたします。\n・累計購入回数特典：購入完了後、直ちにお引渡しいたします。\n・14日間クリスタル(無償)：購入手続き完了後、30日の間最大14回、1日1回ログイン時にプレゼントよりお引渡しいたします。\n・「1日1回有償ガチャ」が2回引ける(ボーナス)：購入完了後、直ちにお引渡しいたします。\n・チャレンジP獲得量2倍：購入完了後、直ちにお引渡しいたします。\n・ライブP獲得量2倍：購入完了後、直ちにお引渡しいたします。\n※クリスタルは、前払式支払手段となります。\n※「コンビニ支払い」では、システムの都合上、商品の引き渡しまでに数時間～数日を要する場合があり、即時引き渡しとはならないためご注意ください。\n\n\n■商品の返品・交換\n商品の特性上、返品または交換は一切お受けできません。\n\n\n■注意事項\n・ご購入後30日間の特典は「カラフルパス」をご購入頂いた日から30日間効果が得られます。\n・「14日間クリスタル(無償)×50個」は、ご購入頂いた日から1日1回ゲームにログインした際に受け取ることができます。\n・「14日間クリスタル(無償)×50個」は、最大14回まで受け取る事ができます。\n・「14日間クリスタル(無償)×50個」を獲得できる機会は、毎日4時にリセットされます。\n・セット内容の『「1日1回有償ガチャ」が2回引ける(ボーナス)』は「1日1回有償ガチャ」が開催されていない期間中は適用されません。予めご了承ください。\n・「ライブP獲得量2倍」は、ライブで獲得したライブP獲得料のほか、デイリーボーナス・ボーナスミッション報酬として獲得できるライブP獲得料にも適用されます。\n・「カラフルパス」ご購入後30日経過すると、ご購入後30日間の特典をすべて受け取っていない場合でも失効するため、ご注意ください。\n・「カラフルパス」は30日経過すると再度ご購入いただけます。\n・同OSへの機種変更および別OSへデータ引継ぎを行った場合でも「カラフルパス」のご購入回数を含むご購入情報は引き継がれ、継続して特典をお受け取りいただけます。"
+  },
+  {
     "wordingKey": "MSG_ONCE_AGAIN_LIVE",
     "value": "このメンバーで\nもう一度ライブしますか？"
   },
@@ -1694,6 +1774,30 @@
   {
     "wordingKey": "MSG_OVER_RECOVER",
     "value": "ライブボーナスの上限は99です"
+  },
+  {
+    "wordingKey": "MSG_PAID_LIVE_DISC",
+    "value": "「{0}」\nを購入しますか？"
+  },
+  {
+    "wordingKey": "MSG_PAID_LIVE_EXCHANGE_CONFIRM_TOS",
+    "value": "ライブアーカイブの商品ガイドラインに同意する"
+  },
+  {
+    "wordingKey": "MSG_PAID_LIVE_NOTHING",
+    "value": "対象のライブがありません。"
+  },
+  {
+    "wordingKey": "MSG_PAID_LIVE_SHOP_ITEM_SELECT_DIALOG_TITLE",
+    "value": "{0} 購入ディスク選択"
+  },
+  {
+    "wordingKey": "MSG_PAID_STREAMING_LIVE_DISC",
+    "value": "「{0} {1}」\nを購入しますか？"
+  },
+  {
+    "wordingKey": "MSG_PAID_STREAMING_LIVE_RESUME",
+    "value": "チャプター{0}「{1}」\nの続きから再生しますか？"
   },
   {
     "wordingKey": "MSG_PAST_LIVE",
@@ -2692,6 +2796,10 @@
     "value": "通信結果"
   },
   {
+    "wordingKey": "WORD_ALREADY_COPIED",
+    "value": "コピー済み"
+  },
+  {
     "wordingKey": "WORD_ALREADY_DOWNLOADED",
     "value": "DL済み"
   },
@@ -2744,8 +2852,12 @@
     "value": "登場ユニット"
   },
   {
+    "wordingKey": "WORD_APPLICATION_DETAIL",
+    "value": "申込み詳細"
+  },
+  {
     "wordingKey": "WORD_APRIL_FOOL_TAB",
-    "value": "エイプリル\nフール"
+    "value": " エイプリル フール"
   },
   {
     "wordingKey": "WORD_AP_COMBO_EFFECT",
@@ -2828,6 +2940,10 @@
     "value": "オートライブ中断"
   },
   {
+    "wordingKey": "WORD_AVAILABLE_TO_APPLY_EVENT",
+    "value": "申込み可能イベントあり！"
+  },
+  {
     "wordingKey": "WORD_AVATAR_COSTUME",
     "value": "アバター衣装"
   },
@@ -2858,6 +2974,14 @@
   {
     "wordingKey": "WORD_BIRTHDAY",
     "value": "誕生日"
+  },
+  {
+    "wordingKey": "WORD_BIRTHDAY_ARCHIVE_TAB",
+    "value": "バースデー・\nアニバーサリー\nライブ"
+  },
+  {
+    "wordingKey": "WORD_BIRTHDAY_ARCHIVE_TITLE",
+    "value": "バースデー・アニバーサリーライブ"
   },
   {
     "wordingKey": "WORD_BLOCK",
@@ -2996,6 +3120,10 @@
     "value": "ライフ０ {0}"
   },
   {
+    "wordingKey": "WORD_BOOK_MARK_ATTACHED",
+    "value": "しおり付き"
+  },
+  {
     "wordingKey": "WORD_BOOST_RECOVERY",
     "value": "ライブボーナス回復"
   },
@@ -3042,6 +3170,14 @@
   {
     "wordingKey": "WORD_CANCEL",
     "value": "キャンセル"
+  },
+  {
+    "wordingKey": "WORD_CAN_ARCHIVE_EVENT_STORY_TIME_SORT",
+    "value": "開催順"
+  },
+  {
+    "wordingKey": "WORD_CAN_ENTRY_OFFLINE_EVENT_DIALOG_TITLE",
+    "value": "確認"
   },
   {
     "wordingKey": "WORD_CAPACITY_SETTING",
@@ -3142,6 +3278,10 @@
   {
     "wordingKey": "WORD_CHANGE_VOCAL",
     "value": "ボーカル変更"
+  },
+  {
+    "wordingKey": "WORD_CHAPTER",
+    "value": "チャプター"
   },
   {
     "wordingKey": "WORD_CHARACTER",
@@ -3356,16 +3496,48 @@
     "value": "甘酒"
   },
   {
+    "wordingKey": "WORD_COLLECTION_STATE",
+    "value": "所持状態"
+  },
+  {
     "wordingKey": "WORD_COLOR",
     "value": "カラー"
+  },
+  {
+    "wordingKey": "WORD_COLORFULPASS_APPLY_EVENT_BUTTON",
+    "value": "イベント申込み"
+  },
+  {
+    "wordingKey": "WORD_COLORFULPASS_INFORMATION_BUTTON",
+    "value": "詳細・特典"
   },
   {
     "wordingKey": "WORD_COLORFUL_PASS_ALERT_TITLE",
     "value": "有効期限切れ"
   },
   {
+    "wordingKey": "WORD_COLORFUL_PASS_BALLOON_EXPIRED_AT",
+    "value": "有効期限{0}まで"
+  },
+  {
+    "wordingKey": "WORD_COLORFUL_PASS_BALLOON_GRACE_PERIOD_AT",
+    "value": "継続判定期間あと{0}日"
+  },
+  {
     "wordingKey": "WORD_COLORFUL_PASS_OK",
     "value": "クリスタルショップへ"
+  },
+  {
+    "wordingKey": "WORD_COLORFUL_PASS_OTHER_PURCHASED",
+    "value": "<color=#ffffff>他カラフルパスに加入中</color>"
+  },
+  {
+    "wordingKey": "WORD_COLORFUL_PASS_SHOP_DETAIL_TAB",
+    "value": "各パス内容"
+  },
+  {
+    "wordingKey": "WORD_COLORFUL_PASS_SPECIFIED_COMMERCIAL_TRANSACTION_LAW_CONFIRM_BUTTON",
+    "value": "セット内容と詳細を確認"
   },
   {
     "wordingKey": "WORD_COLORFUL_PATH",
@@ -3424,6 +3596,10 @@
     "value": "交換確認"
   },
   {
+    "wordingKey": "WORD_CONNECT",
+    "value": "コネクト"
+  },
+  {
     "wordingKey": "WORD_CONNECT_LIVE",
     "value": "コネクトライブ"
   },
@@ -3460,12 +3636,20 @@
     "value": "コンティニュー"
   },
   {
+    "wordingKey": "WORD_CONTINUOUS_BUY_HIGH_TIER_COUNT_BUTTON_TEXT",
+    "value": "{0}ヶ月"
+  },
+  {
     "wordingKey": "WORD_COPY",
     "value": "コピー"
   },
   {
     "wordingKey": "WORD_COPY_COMPLETE",
     "value": "コピー完了"
+  },
+  {
+    "wordingKey": "WORD_COPY_ENTRY_ID",
+    "value": "申込みIDをコピー"
   },
   {
     "wordingKey": "WORD_COPY_PLAYER_ID",
@@ -3548,6 +3732,10 @@
     "value": "ルーム作成"
   },
   {
+    "wordingKey": "WORD_CREATOR_NAME",
+    "value": "{0}"
+  },
+  {
     "wordingKey": "WORD_CRYSTAL_POSSESSION",
     "value": "所持数"
   },
@@ -3606,6 +3794,10 @@
   {
     "wordingKey": "WORD_DANCE",
     "value": "ダンス"
+  },
+  {
+    "wordingKey": "WORD_DATATIME",
+    "value": "開催日"
   },
   {
     "wordingKey": "WORD_DATA_LINK",
@@ -3720,6 +3912,10 @@
     "value": "÷{0}"
   },
   {
+    "wordingKey": "WORD_DOT",
+    "value": "・"
+  },
+  {
     "wordingKey": "WORD_DOWNLOAD",
     "value": "ダウンロード"
   },
@@ -3734,6 +3930,10 @@
   {
     "wordingKey": "WORD_DOWNLOAD_CONFIRM",
     "value": "ダウンロード確認"
+  },
+  {
+    "wordingKey": "WORD_DOWNLOAD_SIZE",
+    "value": "DL容量"
   },
   {
     "wordingKey": "WORD_DO_CHANGE",
@@ -3816,8 +4016,20 @@
     "value": "おまかせ"
   },
   {
+    "wordingKey": "WORD_ENTRY",
+    "value": "申込み"
+  },
+  {
     "wordingKey": "WORD_ENTRY_CONFIRMATION",
     "value": "バーチャルライブ参加"
+  },
+  {
+    "wordingKey": "WORD_ENTRY_EVALUATION_PERIOD",
+    "value": "対象判定期間"
+  },
+  {
+    "wordingKey": "WORD_ENTRY_ID",
+    "value": "申込みID"
   },
   {
     "wordingKey": "WORD_EPISODE",
@@ -3944,8 +4156,20 @@
     "value": "イベントストーリー"
   },
   {
+    "wordingKey": "WORD_EVENT_STORY_CHARACTER",
+    "value": "登場人物"
+  },
+  {
+    "wordingKey": "WORD_EVENT_STORY_OUTLINE",
+    "value": "あらすじ"
+  },
+  {
     "wordingKey": "WORD_EVENT_STORY_TITLE",
     "value": "第{0}話"
+  },
+  {
+    "wordingKey": "WORD_EVNET_STORY_INFOMATION",
+    "value": "イベント情報"
   },
   {
     "wordingKey": "WORD_EXCHANGE",
@@ -4288,6 +4512,10 @@
     "value": "アイテム設定確認"
   },
   {
+    "wordingKey": "WORD_GOTO_SHOP_TEXT",
+    "value": "ショップへ"
+  },
+  {
     "wordingKey": "WORD_GO_ANOTHER_VO_SHOP",
     "value": "アナザーボーカル\nショップへ"
   },
@@ -4456,6 +4684,10 @@
     "value": "所持クリスタル"
   },
   {
+    "wordingKey": "WORD_HAVE_LIVE",
+    "value": "ライブ所持"
+  },
+  {
     "wordingKey": "WORD_HAVE_PAID_JEWEL",
     "value": "所持有償クリスタル"
   },
@@ -4470,6 +4702,10 @@
   {
     "wordingKey": "WORD_HEIGHT",
     "value": "身長"
+  },
+  {
+    "wordingKey": "WORD_HELD_TIME",
+    "value": "開催時期"
   },
   {
     "wordingKey": "WORD_HIDDEN",
@@ -4692,6 +4928,10 @@
     "value": "参加"
   },
   {
+    "wordingKey": "WORD_JOINED",
+    "value": "参加済み"
+  },
+  {
     "wordingKey": "WORD_JOINED_GROUP",
     "value": "所属グループ"
   },
@@ -4702,6 +4942,14 @@
   {
     "wordingKey": "WORD_JOIN_PRIVATE_ROOM",
     "value": "プライベートルーム入室"
+  },
+  {
+    "wordingKey": "WORD_JOIN_STATUS",
+    "value": "参加状況"
+  },
+  {
+    "wordingKey": "WORD_KEY_SOTRY",
+    "value": "キーストーリー"
   },
   {
     "wordingKey": "WORD_LAYER_BACK",
@@ -4746,6 +4994,14 @@
   {
     "wordingKey": "WORD_LIFE_RECOVER",
     "value": "ライブボーナスが全回復しました！"
+  },
+  {
+    "wordingKey": "WORD_LIMITED_FIRST_BALLOON_DESCRIPTION",
+    "value": "カラフルパスのいずれかを\n初回購入すると\nx{0}(無償)"
+  },
+  {
+    "wordingKey": "WORD_LIMITED_FIRST_BONUS",
+    "value": "初回特典"
   },
   {
     "wordingKey": "WORD_LIMITED_SET_PERIOD",
@@ -4820,6 +5076,10 @@
     "value": "ライブ衣装"
   },
   {
+    "wordingKey": "WORD_LIVE_COSTUME_FILTERING",
+    "value": "ライブ衣装絞り込み"
+  },
+  {
     "wordingKey": "WORD_LIVE_COSTUME_GET",
     "value": "ライブ衣装獲得"
   },
@@ -4842,6 +5102,10 @@
   {
     "wordingKey": "WORD_LIVE_FAILED2",
     "value": "ライブ失敗"
+  },
+  {
+    "wordingKey": "WORD_LIVE_INFO",
+    "value": "ライブ情報"
   },
   {
     "wordingKey": "WORD_LIVE_INVITE",
@@ -5062,6 +5326,10 @@
   {
     "wordingKey": "WORD_MAX_WIN_STREAK",
     "value": "最大連勝数"
+  },
+  {
+    "wordingKey": "WORD_MB",
+    "value": "{0}MB"
   },
   {
     "wordingKey": "WORD_MEMBER",
@@ -5328,6 +5596,14 @@
     "value": "楽曲名"
   },
   {
+    "wordingKey": "WORD_MUSIC_ORIGIN",
+    "value": "原曲"
+  },
+  {
+    "wordingKey": "WORD_MUSIC_ORIGIN_MOVE_OK",
+    "value": "移動"
+  },
+  {
     "wordingKey": "WORD_MUSIC_REWARD",
     "value": "楽曲報酬"
   },
@@ -5484,12 +5760,20 @@
     "value": "未参加"
   },
   {
+    "wordingKey": "WORD_NOT_POSSESSED",
+    "value": "未所持"
+  },
+  {
     "wordingKey": "WORD_NOT_PUBLISH_MUSIC_ERROR_TITLE",
     "value": "エラー"
   },
   {
     "wordingKey": "WORD_NOT_PURCHASE",
     "value": "購入不可"
+  },
+  {
+    "wordingKey": "WORD_NOT_PURCHASED",
+    "value": "未購入"
   },
   {
     "wordingKey": "WORD_NOT_SATISFIED",
@@ -5564,8 +5848,20 @@
     "value": "OFF"
   },
   {
+    "wordingKey": "WORD_OFFLINE_EVENT_LIST_DIALOG_TITLE",
+    "value": "優先申込み対象イベント"
+  },
+  {
     "wordingKey": "WORD_OK",
     "value": "OK"
+  },
+  {
+    "wordingKey": "WORD_OLD_COLORFUL_PASS_USER_BUTTON",
+    "value": "旧カラフルパス\n継続中の方"
+  },
+  {
+    "wordingKey": "WORD_OLD_COLORFUL_PASS_USER_DIALOG_TITLE",
+    "value": "旧カラフルパス詳細"
   },
   {
     "wordingKey": "WORD_OMIKUJI_DETAIL",
@@ -5586,6 +5882,10 @@
   {
     "wordingKey": "WORD_ONCE_AGAIN_LIVE",
     "value": "もう一度ライブ"
+  },
+  {
+    "wordingKey": "WORD_ONCE_A_WEEK_GACHA_END_AT",
+    "value": "毎週月曜日{0}:00回数リセット"
   },
   {
     "wordingKey": "WORD_ONCE_CHECK_AGAIN_LIVE",
@@ -5672,6 +5972,22 @@
     "value": "有償クリスタル"
   },
   {
+    "wordingKey": "WORD_PAID_LIVE_FILTER",
+    "value": "ライブ絞り込み"
+  },
+  {
+    "wordingKey": "WORD_PAID_LIVE_PART",
+    "value": "{0} 第{1}公演"
+  },
+  {
+    "wordingKey": "WORD_PAID_STREAMING_LIVE_RESTART",
+    "value": "最初から再生"
+  },
+  {
+    "wordingKey": "WORD_PAID_STREAMING_LIVE_RESUME",
+    "value": "続きから再生"
+  },
+  {
     "wordingKey": "WORD_PANEL_MISSION",
     "value": "スタンプミッション"
   },
@@ -5722,6 +6038,18 @@
   {
     "wordingKey": "WORD_PERFORMER",
     "value": "出演者"
+  },
+  {
+    "wordingKey": "WORD_PERFORMER_INFO",
+    "value": "出演者情報"
+  },
+  {
+    "wordingKey": "WORD_PERFORMER_VIRTUAL_SINGER",
+    "value": "出演バーチャル・シンガー"
+  },
+  {
+    "wordingKey": "WORD_PERIOD_LIMITED",
+    "value": "期間限定"
   },
   {
     "wordingKey": "WORD_PIAPRO_IDOL_STORY_TITLE",
@@ -5784,6 +6112,14 @@
     "value": "早送り中"
   },
   {
+    "wordingKey": "WORD_PLAYING_TIME",
+    "value": "再生時間"
+  },
+  {
+    "wordingKey": "WORD_PLAY_CONFIRM",
+    "value": "再生確認"
+  },
+  {
     "wordingKey": "WORD_PLAY_FREE_LIVE_FROM_EVENT_STORY",
     "value": "ライブへ"
   },
@@ -5792,12 +6128,20 @@
     "value": "プレイリスト"
   },
   {
+    "wordingKey": "WORD_PLAY_LIST_BIRTHDAY_ARCHIVE",
+    "value": "バースデー\nアニバーサリー"
+  },
+  {
     "wordingKey": "WORD_PLAY_MUSIC_VIDEO_FROM_EVENT_STORY",
     "value": "MV視聴へ"
   },
   {
     "wordingKey": "WORD_PLAY_RESULT",
     "value": "ライブリザルト"
+  },
+  {
+    "wordingKey": "WORD_PLAY_TEXT",
+    "value": "再生"
   },
   {
     "wordingKey": "WORD_PM_TIME",
@@ -5924,8 +6268,16 @@
     "value": "購入"
   },
   {
+    "wordingKey": "WORD_PURCHASED",
+    "value": "購入済み"
+  },
+  {
     "wordingKey": "WORD_PURCHASEING",
     "value": "購入する"
+  },
+  {
+    "wordingKey": "WORD_PURCHASE_COLOR_SELECTION",
+    "value": "{0}購入カラー選択"
   },
   {
     "wordingKey": "WORD_PURCHASE_CONFIRM",
@@ -5954,6 +6306,10 @@
   {
     "wordingKey": "WORD_PURCHASE_RESTRICTIONS",
     "value": "購入制限"
+  },
+  {
+    "wordingKey": "WORD_PURCHASE_STATUS",
+    "value": "購入状況"
   },
   {
     "wordingKey": "WORD_RANGE",
@@ -6140,6 +6496,10 @@
     "value": "残り回数"
   },
   {
+    "wordingKey": "WORD_REMAIN_TIME",
+    "value": "残り{0}"
+  },
+  {
     "wordingKey": "WORD_REMOVING_ASSET",
     "value": "不要なデータを削除中"
   },
@@ -6150,6 +6510,10 @@
   {
     "wordingKey": "WORD_REQUIRE",
     "value": "必要"
+  },
+  {
+    "wordingKey": "WORD_REQUIRED_CONTINUOUS_PERIOD",
+    "value": "必要継続期間"
   },
   {
     "wordingKey": "WORD_REQUIRE_ITEM",
@@ -6304,6 +6668,18 @@
     "value": "プレイヤーID検索"
   },
   {
+    "wordingKey": "WORD_SEASON",
+    "value": "シーズン"
+  },
+  {
+    "wordingKey": "WORD_SEASON_ARCHIVE_TAB",
+    "value": "シーズンライブ"
+  },
+  {
+    "wordingKey": "WORD_SEASON_ARCHIVE_TITLE",
+    "value": "シーズンライブ"
+  },
+  {
     "wordingKey": "WORD_SEASON_RESULT",
     "value": "過去シーズン"
   },
@@ -6342,6 +6718,10 @@
   {
     "wordingKey": "WORD_SELECTING_PERIOD",
     "value": "選択中..."
+  },
+  {
+    "wordingKey": "WORD_SELECTION",
+    "value": "選択"
   },
   {
     "wordingKey": "WORD_SELECTION_ALL_MEMBERS",
@@ -6465,7 +6845,7 @@
   },
   {
     "wordingKey": "WORD_SHOP_BUTTON_MESSAGE_3_NL",
-    "value": "特定商取引法に\n基づく表示"
+    "value": "特商法\n資金決済法"
   },
   {
     "wordingKey": "WORD_SHOP_COLORFUL_PATH_DETAIL",
@@ -6494,6 +6874,18 @@
   {
     "wordingKey": "WORD_SHOP_PRICE",
     "value": "<color={0}>¥{1}</color>"
+  },
+  {
+    "wordingKey": "WORD_SHOP_PURCHASE",
+    "value": "{0}を購入"
+  },
+  {
+    "wordingKey": "WORD_SHOP_PURCHASE_ALL_COLOR",
+    "value": "全カラーをまとめて購入"
+  },
+  {
+    "wordingKey": "WORD_SHOP_PURCHASE_ALL_DISC",
+    "value": "全公演ディスクまとめて購入"
   },
   {
     "wordingKey": "WORD_SHOP_PURCHASE_CANCEL_TITLE",
@@ -6800,12 +7192,24 @@
     "value": "ライブグッズ"
   },
   {
+    "wordingKey": "WORD_STREAMING_ARCHIVE_TAB",
+    "value": "コネクトライブ"
+  },
+  {
+    "wordingKey": "WORD_STREAMING_ARCHIVE_TITLE",
+    "value": "コネクトライブ"
+  },
+  {
     "wordingKey": "WORD_STREAMING_LIVE_ENTER_CONFIRM",
     "value": "入場確認"
   },
   {
     "wordingKey": "WORD_STREAMING_LIVE_EXIT_DIALOG_MESSAGE",
     "value": "\n途中退場し、待合エリアに戻りますか？\nチケットの使用状況により再入場できる期間が変わります。"
+  },
+  {
+    "wordingKey": "WORD_STREAMING_LIVE_PART",
+    "value": "第{0}公演"
   },
   {
     "wordingKey": "WORD_STREAMING_LIVE_RE_ENTER_TITLE",
@@ -7028,6 +7432,14 @@
     "value": "交換所へ"
   },
   {
+    "wordingKey": "WORD_TO_EXTERNAL_SITE",
+    "value": "外部サイトへ"
+  },
+  {
+    "wordingKey": "WORD_TRANSACTION_LAW_DIALOG_TITLE",
+    "value": "特商法・資金決済法"
+  },
+  {
     "wordingKey": "WORD_TWITTER",
     "value": "Twitterへ"
   },
@@ -7078,6 +7490,10 @@
   {
     "wordingKey": "WORD_UNIT_TOTAL_POWER",
     "value": "総合力"
+  },
+  {
+    "wordingKey": "WORD_UNJOIN",
+    "value": "不参加"
   },
   {
     "wordingKey": "WORD_UNLOCK",
@@ -7452,6 +7868,18 @@
     "value": "(水)"
   },
   {
+    "wordingKey": "WORD_WELCOME",
+    "value": "ウェルカム"
+  },
+  {
+    "wordingKey": "WORD_WELCOME_ARCHIVE_TAB",
+    "value": "ウェルカムライブ"
+  },
+  {
+    "wordingKey": "WORD_WELCOME_ARCHIVE_TITLE",
+    "value": "ウェルカムライブ"
+  },
+  {
     "wordingKey": "WORD_WIN",
     "value": "WIN"
   },
@@ -7490,6 +7918,10 @@
   {
     "wordingKey": "WORD_WITH_COSTUME",
     "value": "衣装付き"
+  },
+  {
+    "wordingKey": "WORD_YEAR",
+    "value": "{0}年"
   },
   {
     "wordingKey": "WORD_YES",
