@@ -1,16 +1,5 @@
 [
   {
-    "homeBannerId": 604,
-    "seq": 200,
-    "homeBannerType": "general",
-    "name": "セカライ2nd大阪バナー",
-    "assetbundleName": "content_banner_pjsekailive2nd_osaka",
-    "transitionDestinationType": "information",
-    "transitionDestinationId": 2516,
-    "startAt": 1676084400000,
-    "endAt": 1677293999000
-  },
-  {
     "homeBannerId": 605,
     "seq": 110,
     "homeBannerType": "general",
@@ -31,6 +20,28 @@
     "transitionDestinationId": 86,
     "startAt": 1676786400000,
     "endAt": 1677563999000
+  },
+  {
+    "homeBannerId": 608,
+    "seq": 90,
+    "homeBannerType": "general",
+    "name": "セレクトリストガチャバナー",
+    "assetbundleName": "banner_gacha299",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 299,
+    "startAt": 1677121200000,
+    "endAt": 1677898799000
+  },
+  {
+    "homeBannerId": 609,
+    "seq": 30,
+    "homeBannerType": "general",
+    "name": "セカライ2nd大阪バナー（当日）",
+    "assetbundleName": "content_banner_pjsekailive2nd_osaka_abema",
+    "transitionDestinationType": "information",
+    "transitionDestinationId": 2517,
+    "startAt": 1677294000000,
+    "endAt": 1677418199000
   },
   {
     "homeBannerId": 612,
