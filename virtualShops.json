@@ -4608,5 +4608,39 @@
       }
     ],
     "virtualShopType": "virtual_live_ticket"
+  },
+  {
+    "id": 176,
+    "seq": 176,
+    "name": "第87回イベント物販",
+    "virtualShopItems": [
+      {
+        "id": 329,
+        "virtualShopId": 176,
+        "virtualShopItemType": "penlight",
+        "seq": 199891,
+        "resourceBoxId": 230,
+        "costPaidJewel": 1000,
+        "startAt": 1677564000000
+      }
+    ],
+    "virtualShopType": "event"
+  },
+  {
+    "id": 177,
+    "seq": 177,
+    "name": "こはね BIRTHDAY",
+    "virtualShopItems": [
+      {
+        "id": 330,
+        "virtualShopId": 177,
+        "virtualShopItemType": "penlight",
+        "seq": 199890,
+        "resourceBoxId": 231,
+        "costPaidJewel": 1000,
+        "startAt": 1677564000000
+      }
+    ],
+    "virtualShopType": "birthday"
   }
 ]

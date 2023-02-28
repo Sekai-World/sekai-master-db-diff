@@ -868,5 +868,150 @@
         "resourceBoxId": 8001
       }
     ]
+  },
+  {
+    "id": 49,
+    "eventId": 87,
+    "seq": 1,
+    "eventMissionType": "live_clear_daily",
+    "eventMissionCategory": "normal",
+    "requirement1": 10,
+    "sentence": "累計10日ライブを1日1回クリアしよう。",
+    "rewards": [
+      {
+        "id": 4727,
+        "missionType": "event_mission",
+        "missionId": 49,
+        "seq": 1,
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 50,
+    "eventId": 87,
+    "seq": 2,
+    "eventMissionType": "any_live_clear",
+    "eventMissionCategory": "normal",
+    "requirement1": 50,
+    "sentence": "ライブを50回クリアしよう。",
+    "rewards": [
+      {
+        "id": 4728,
+        "missionType": "event_mission",
+        "missionId": 50,
+        "seq": 1,
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 51,
+    "eventId": 87,
+    "seq": 3,
+    "eventMissionType": "live_clear_full_combo",
+    "eventMissionCategory": "normal",
+    "requirement1": 10,
+    "sentence": "ライブで楽曲をフルコンボで10回クリアしよう。",
+    "rewards": [
+      {
+        "id": 4729,
+        "missionType": "event_mission",
+        "missionId": 51,
+        "seq": 1,
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 52,
+    "eventId": 87,
+    "seq": 4,
+    "eventMissionType": "live_clear_different_music",
+    "eventMissionCategory": "normal",
+    "requirement1": 10,
+    "requirement2": 1,
+    "sentence": "ライブで10種類の楽曲をクリアしよう。",
+    "rewards": [
+      {
+        "id": 4730,
+        "missionType": "event_mission",
+        "missionId": 52,
+        "seq": 1,
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 53,
+    "eventId": 87,
+    "seq": 5,
+    "eventMissionType": "read_last_event_story_episode",
+    "eventMissionCategory": "normal",
+    "requirement1": 1,
+    "sentence": "イベント「Never Give Up Cooking！」のイベントストーリー第8話を読もう。",
+    "rewards": [
+      {
+        "id": 4731,
+        "missionType": "event_mission",
+        "missionId": 53,
+        "seq": 1,
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 54,
+    "eventId": 87,
+    "seq": 6,
+    "eventMissionType": "consume_event_item",
+    "eventMissionCategory": "normal",
+    "requirement1": 20000,
+    "sentence": "イベント「Never Give Up Cooking！」の交換所でバッジを20000個消費しよう。",
+    "rewards": [
+      {
+        "id": 4732,
+        "missionType": "event_mission",
+        "missionId": 54,
+        "seq": 1,
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 55,
+    "eventId": 87,
+    "seq": 7,
+    "eventMissionType": "join_virtual_live",
+    "eventMissionCategory": "normal",
+    "requirement1": 1,
+    "sentence": "「Never Give Up Cooking！ アフターライブ」に参加しよう。",
+    "rewards": [
+      {
+        "id": 4733,
+        "missionType": "event_mission",
+        "missionId": 55,
+        "seq": 1,
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 56,
+    "eventId": 87,
+    "seq": 8,
+    "eventMissionType": "achieve_event_mission",
+    "eventMissionCategory": "complete",
+    "requirement1": 7,
+    "sentence": "7つのミッションを全て達成しよう。",
+    "rewards": [
+      {
+        "id": 4734,
+        "missionType": "event_mission",
+        "missionId": 56,
+        "seq": 1,
+        "resourceBoxId": 8001
+      }
+    ]
   }
 ]
