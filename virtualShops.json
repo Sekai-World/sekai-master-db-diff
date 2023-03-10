@@ -4642,5 +4642,151 @@
       }
     ],
     "virtualShopType": "birthday"
+  },
+  {
+    "id": 178,
+    "seq": 178,
+    "name": "第88回イベント物販",
+    "virtualShopItems": [
+      {
+        "id": 331,
+        "virtualShopId": 178,
+        "virtualShopItemType": "coordinate",
+        "seq": 99853,
+        "resourceBoxId": 232,
+        "costPaidJewel": 1000,
+        "startAt": 1678514400000
+      }
+    ],
+    "virtualShopType": "event"
+  },
+  {
+    "id": 179,
+    "seq": 179,
+    "name": "ホワイトデー2023ライブ",
+    "virtualShopItems": [
+      {
+        "id": 332,
+        "virtualShopId": 179,
+        "virtualShopItemType": "penlight",
+        "seq": 199889,
+        "resourceBoxId": 233,
+        "costPaidJewel": 1000,
+        "startAt": 1678600800000
+      },
+      {
+        "id": 333,
+        "virtualShopId": 179,
+        "virtualShopItemType": "accessory",
+        "seq": 99907,
+        "resourceBoxId": 161,
+        "costVirtualCoin": 3000,
+        "costJewel": 1000,
+        "startAt": 1678600800000
+      },
+      {
+        "id": 334,
+        "virtualShopId": 179,
+        "virtualShopItemType": "coordinate",
+        "seq": 99852,
+        "resourceBoxId": 86,
+        "costPaidJewel": 1000,
+        "startAt": 1678600800000
+      }
+    ],
+    "virtualShopType": "special_live"
+  },
+  {
+    "id": 180,
+    "seq": 180,
+    "name": "愛莉 BIRTHDAY",
+    "virtualShopItems": [
+      {
+        "id": 335,
+        "virtualShopId": 180,
+        "virtualShopItemType": "penlight",
+        "seq": 199888,
+        "resourceBoxId": 234,
+        "costPaidJewel": 1000,
+        "startAt": 1679032800000
+      }
+    ],
+    "virtualShopType": "birthday"
+  },
+  {
+    "id": 181,
+    "seq": 181,
+    "name": "コネクトライブモモジャン1st本番公演（チケットショップ）",
+    "virtualLiveId": 220,
+    "virtualShopItems": [
+      {
+        "id": 336,
+        "virtualShopId": 181,
+        "virtualShopItemType": "premium_virtual_live_ticket",
+        "seq": 299994,
+        "resourceBoxId": 235,
+        "costPaidJewel": 1980,
+        "startAt": 1678428000000,
+        "endAt": 1679237999000,
+        "limitValue": 3
+      },
+      {
+        "id": 337,
+        "virtualShopId": 181,
+        "virtualShopItemType": "premium_virtual_live_ticket",
+        "seq": 299995,
+        "resourceBoxId": 236,
+        "costPaidJewel": 3980,
+        "startAt": 1678428000000,
+        "endAt": 1679237999000,
+        "limitValue": 1
+      }
+    ],
+    "virtualShopType": "virtual_live_ticket"
+  },
+  {
+    "id": 182,
+    "seq": 182,
+    "name": "コネクトライブモモジャン1st本番公演（物販グッズショップ）",
+    "virtualLiveId": 220,
+    "virtualShopItems": [
+      {
+        "id": 338,
+        "virtualShopId": 182,
+        "virtualShopItemType": "costume",
+        "seq": 3,
+        "resourceBoxId": 237,
+        "costVirtualCoin": 3000,
+        "costJewel": 1000,
+        "startAt": 1678428000000,
+        "endAt": 1679378399000,
+        "limitValue": 1
+      },
+      {
+        "id": 339,
+        "virtualShopId": 182,
+        "virtualShopItemType": "costume",
+        "seq": 2,
+        "resourceBoxId": 238,
+        "costVirtualCoin": 3000,
+        "costJewel": 1000,
+        "startAt": 1678428000000,
+        "endAt": 1679378399000,
+        "limitValue": 1
+      },
+      {
+        "id": 340,
+        "virtualShopId": 182,
+        "virtualShopItemType": "accessory",
+        "seq": 1,
+        "resourceBoxId": 239,
+        "costVirtualCoin": 3000,
+        "costJewel": 1000,
+        "startAt": 1678428000000,
+        "endAt": 1679378399000,
+        "limitValue": 1
+      }
+    ],
+    "virtualShopType": "other"
   }
 ]

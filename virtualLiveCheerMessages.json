@@ -568,5 +568,35 @@
     "messageSize": "medium",
     "colorCode": "#00ccbb",
     "virtualLiveCheerMessageDisplayLimitId": 2
+  },
+  {
+    "id": 39,
+    "virtualLiveType": "streaming",
+    "resourceType": "virtual_coin",
+    "fromCostVirtualCoin": 5000,
+    "toCostVirtualCoin": 9999,
+    "fromCost": 5000,
+    "toCost": 9999,
+    "assetbundleName": "large",
+    "messageLengthLimit": 24,
+    "displaySec": 3.0,
+    "messageSize": "large",
+    "colorCode": "#ffbb00",
+    "virtualLiveCheerMessageDisplayLimitId": 3
+  },
+  {
+    "id": 40,
+    "virtualLiveType": "streaming",
+    "resourceType": "virtual_coin",
+    "fromCostVirtualCoin": 10000,
+    "toCostVirtualCoin": 50000,
+    "fromCost": 10000,
+    "toCost": 50000,
+    "assetbundleName": "x_large",
+    "messageLengthLimit": 32,
+    "displaySec": 5.0,
+    "messageSize": "x_large",
+    "colorCode": "#ff55aa",
+    "virtualLiveCheerMessageDisplayLimitId": 4
   }
 ]

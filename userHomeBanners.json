@@ -1,45 +1,35 @@
 [
   {
-    "homeBannerId": 605,
-    "seq": 110,
+    "homeBannerId": 613,
+    "seq": 180,
     "homeBannerType": "general",
-    "name": "[ガチャ]ビビバス箱イベ12巡目_定常ガチャバナー",
-    "assetbundleName": "banner_gacha298",
+    "name": "[ガチャ]シャッフルホワイトデーイベ_定常ガチャバナー",
+    "assetbundleName": "banner_gacha301",
     "transitionDestinationType": "gacha",
-    "transitionDestinationId": 298,
-    "startAt": 1676775600000,
-    "endAt": 1677553199000
+    "transitionDestinationId": 301,
+    "startAt": 1677553200000,
+    "endAt": 1678503599000
   },
   {
-    "homeBannerId": 606,
-    "seq": 100,
+    "homeBannerId": 614,
+    "seq": 170,
     "homeBannerType": "event",
-    "name": "[イベント]ビビバス箱イベ12巡目_イベントバナー",
-    "assetbundleName": "event_kick_2023",
+    "name": "[イベント]シャッフルホワイトデーイベ_イベントバナー",
+    "assetbundleName": "event_cooking_2023",
     "transitionDestinationType": "event",
-    "transitionDestinationId": 86,
-    "startAt": 1676786400000,
-    "endAt": 1677563999000
+    "transitionDestinationId": 87,
+    "startAt": 1677564000000,
+    "endAt": 1678514399000
   },
   {
-    "homeBannerId": 608,
-    "seq": 90,
+    "homeBannerId": 622,
+    "seq": 150,
     "homeBannerType": "general",
-    "name": "セレクトリストガチャバナー",
-    "assetbundleName": "banner_gacha299",
-    "transitionDestinationType": "gacha",
-    "transitionDestinationId": 299,
-    "startAt": 1677121200000,
-    "endAt": 1677898799000
-  },
-  {
-    "homeBannerId": 612,
-    "seq": 30,
-    "homeBannerType": "general",
-    "name": "カラフルパスリニューアル",
-    "assetbundleName": "banner_colorfulpass_renewal_202302",
-    "transitionDestinationType": "billing_shop_for_colorful_pass",
-    "startAt": 1677031200000,
-    "endAt": 1677909599000
+    "name": "コネクトライブ MORE MORE JUMP！ 1st JUMPIN！バナー",
+    "assetbundleName": "banner_connectlive_1st_mmj",
+    "transitionDestinationType": "virtual_live",
+    "transitionDestinationId": 220,
+    "startAt": 1678428000000,
+    "endAt": 1679151599000
   }
 ]
