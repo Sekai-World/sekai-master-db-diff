@@ -765,7 +765,7 @@
     "title": "「Imperial Soldiersガチャ」開催！",
     "path": "information\/index.html?id=info_gacha301",
     "startAt": 1677553200000,
-    "endAt": 1678417200000,
+    "endAt": 1681182000000,
     "bannerAssetbundleName": "banner_news_gacha301"
   },
   {
@@ -838,59 +838,6 @@
     "bannerAssetbundleName": "banner_news_gacha302"
   },
   {
-    "id": 2565,
-    "seq": 1,
-    "displayOrder": 52900,
-    "informationType": "normal",
-    "informationTag": "information",
-    "browseType": "internal",
-    "platform": "all",
-    "title": "3月4日25時よりWEBラジオ「25時、ナイトラジオで。#62」を配信！",
-    "path": "information\/index.html?id=info_webradio-25_62_20230304",
-    "startAt": 1677812400000,
-    "endAt": 1678388400000
-  },
-  {
-    "id": 2567,
-    "seq": 1,
-    "displayOrder": 52920,
-    "informationType": "normal",
-    "informationTag": "music",
-    "browseType": "internal",
-    "platform": "all",
-    "title": "楽曲「Booo!」追加！",
-    "path": "information\/index.html?id=info_music_Booo_20230307",
-    "startAt": 1678168800000,
-    "endAt": 1678388400000
-  },
-  {
-    "id": 2569,
-    "seq": 1,
-    "displayOrder": 52960,
-    "informationType": "normal",
-    "informationTag": "campaign",
-    "browseType": "internal",
-    "platform": "all",
-    "title": "「ミクの日記念ログインキャンペーン」開催！",
-    "path": "information\/index.html?id=info_loginbonus_MikusDay_2023_held",
-    "startAt": 1678287600000,
-    "endAt": 1678374000000,
-    "bannerAssetbundleName": "banner_MikusDay_2023"
-  },
-  {
-    "id": 2570,
-    "seq": 1,
-    "displayOrder": 52990,
-    "informationType": "normal",
-    "informationTag": "music",
-    "browseType": "internal",
-    "platform": "all",
-    "title": "楽曲「39」追加！",
-    "path": "information\/index.html?id=info_music_39_20230309",
-    "startAt": 1678363200000,
-    "endAt": 1678561200000
-  },
-  {
     "id": 2571,
     "seq": 1,
     "displayOrder": 52970,
@@ -942,20 +889,6 @@
     "startAt": 1678428000000,
     "endAt": 1679119200000,
     "bannerAssetbundleName": "banner_news_virtuallive220_connectlive_1st_live_mmj"
-  },
-  {
-    "id": 2575,
-    "seq": 1,
-    "displayOrder": 53050,
-    "informationType": "normal",
-    "informationTag": "event",
-    "browseType": "internal",
-    "platform": "all",
-    "title": "予告、イベント「天の果てのフェニックスへ」開催について",
-    "path": "information\/index.html?id=info_event88_notice",
-    "startAt": 1678428000000,
-    "endAt": 1678514400000,
-    "bannerAssetbundleName": "banner_news_event88"
   },
   {
     "id": 2576,
@@ -1083,7 +1016,7 @@
   {
     "id": 2585,
     "seq": 1,
-    "displayOrder": 99999,
+    "displayOrder": 53150,
     "informationType": "normal",
     "informationTag": "music",
     "browseType": "internal",
@@ -1092,32 +1025,6 @@
     "path": "information\/index.html?id=info_music_egoist_20230313",
     "startAt": 1678687200000,
     "endAt": 1678906800000
-  },
-  {
-    "id": 2606,
-    "seq": 1,
-    "displayOrder": 52980,
-    "informationType": "normal",
-    "informationTag": "update",
-    "browseType": "internal",
-    "platform": "all",
-    "title": "【3月9日15時00分追記】「v2.5.1」アップデートのご案内",
-    "path": "information\/index.html?id=info_update_v2-5-1_storeopen_20230309",
-    "startAt": 1678341600000,
-    "endAt": 1678413600000
-  },
-  {
-    "id": 2607,
-    "seq": 1,
-    "displayOrder": 24150,
-    "informationType": "bug",
-    "informationTag": "bug",
-    "browseType": "internal",
-    "platform": "all",
-    "title": "【3月9日15時00分追記】「v2.5.0」アップデート以降に確認している不具合について",
-    "path": "information\/index.html?id=bug_fix_v2-5-0_20230309",
-    "startAt": 1678341600000,
-    "endAt": 1678413600000
   },
   {
     "id": 2608,
@@ -1142,7 +1049,8 @@
     "platform": "all",
     "title": "【3月9日14時30分追記】2月28日配信予定のデータ量と通信環境に関するご案内",
     "path": "information\/index.html?id=info_add_notice_asset-download_20230228",
-    "startAt": 1678339800000
+    "startAt": 1678339800000,
+    "endAt": 1678413600000
   },
   {
     "id": 2611,
@@ -1169,5 +1077,17 @@
     "path": "information\/index.html?id=bug_fix_something_20230310",
     "startAt": 1678413600000,
     "endAt": 1678993200000
+  },
+  {
+    "id": 2613,
+    "seq": 1,
+    "displayOrder": 24170,
+    "informationType": "bug",
+    "informationTag": "bug",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "「v2.5.1」アップデート以降、アプリが強制終了することがある事象について",
+    "path": "information\/index.html?id=bug_v2-5-1_crush_20230313",
+    "startAt": 1678692600000
   }
 ]
