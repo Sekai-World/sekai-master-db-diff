@@ -466,34 +466,6 @@
     "bannerAssetbundleName": "content_banner_pjsekaiCS2023Spring"
   },
   {
-    "id": 2474,
-    "seq": 1,
-    "displayOrder": 52190,
-    "informationType": "normal",
-    "informationTag": "gacha",
-    "browseType": "internal",
-    "platform": "all",
-    "title": "「雨露したたる春の遣いガチャ」開催！",
-    "path": "information\/index.html?id=info_gacha294",
-    "startAt": 1675998000000,
-    "endAt": 1679194800000,
-    "bannerAssetbundleName": "banner_news_gacha294"
-  },
-  {
-    "id": 2480,
-    "seq": 1,
-    "displayOrder": 52280,
-    "informationType": "normal",
-    "informationTag": "gacha",
-    "browseType": "internal",
-    "platform": "all",
-    "title": "「[復刻]シークレット・ティータイムガチャ」開催！",
-    "path": "information\/index.html?id=info_gacha295_held",
-    "startAt": 1676257200000,
-    "endAt": 1679454000000,
-    "bannerAssetbundleName": "banner_news_gacha295"
-  },
-  {
     "id": 2488,
     "seq": 1,
     "displayOrder": 52360,
@@ -827,20 +799,6 @@
     "bannerAssetbundleName": "banner_livebroadcast_notice_Kge12FEd"
   },
   {
-    "id": 2596,
-    "seq": 1,
-    "displayOrder": 53320,
-    "informationType": "normal",
-    "informationTag": "event",
-    "browseType": "internal",
-    "platform": "all",
-    "title": "予告、イベント「イミシブル・ディスコード」開催について",
-    "path": "information\/index.html?id=info_event89_notice",
-    "startAt": 1679292000000,
-    "endAt": 1679378400000,
-    "bannerAssetbundleName": "banner_news_event89"
-  },
-  {
     "id": 2597,
     "seq": 1,
     "displayOrder": 53340,
@@ -908,6 +866,18 @@
     "endAt": 1680116400000
   },
   {
+    "id": 2602,
+    "seq": 1,
+    "displayOrder": 53430,
+    "informationType": "normal",
+    "informationTag": "information",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "3月23日配信「プロジェクトセカイワンダショちゃんねる 2.5周年スペシャル」で発表された内容について",
+    "path": "information\/index.html?id=info_livebroadcast_summary_20230323",
+    "startAt": 1679578200000
+  },
+  {
     "id": 2608,
     "seq": 1,
     "displayOrder": 53000,
@@ -959,32 +929,6 @@
     "startAt": 1679032800000
   },
   {
-    "id": 2619,
-    "seq": 1,
-    "displayOrder": 53300,
-    "informationType": "normal",
-    "informationTag": "information",
-    "browseType": "internal",
-    "platform": "all",
-    "title": "「コネクトライブ MORE MORE JUMP！ 1st JUMPIN！」に関するアンケートへのご協力のお願い",
-    "path": "information\/index.html?id=info_questionnaire_20230319",
-    "startAt": 1679229000000,
-    "endAt": 1679410800000
-  },
-  {
-    "id": 2620,
-    "seq": 1,
-    "displayOrder": 53290,
-    "informationType": "normal",
-    "informationTag": "information",
-    "browseType": "external",
-    "platform": "all",
-    "title": "【回答時間：約3分】アンケートはコチラ！",
-    "path": "https:\/\/questant.jp\/q\/UW45JCQF?id={userId}",
-    "startAt": 1679229000000,
-    "endAt": 1679410800000
-  },
-  {
     "id": 2621,
     "seq": 1,
     "displayOrder": 24190,
@@ -1008,5 +952,58 @@
     "title": "次回・次々回イベントにおける、特定キャラクターの★4メンバーでの登場について",
     "path": "information\/index.html?id=info_specific-charactor-twice-in-a-row_20230320",
     "startAt": 1679292600000
+  },
+  {
+    "id": 2623,
+    "seq": 1,
+    "displayOrder": 53400,
+    "informationType": "normal",
+    "informationTag": "information",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "「2.5周年記念特設サイト」公開！",
+    "path": "information\/index.html?id=info_2.5nd-anniversary_website_20230323",
+    "startAt": 1679578200000,
+    "endAt": 1682866800000
+  },
+  {
+    "id": 2624,
+    "seq": 1,
+    "displayOrder": 19800,
+    "informationType": "content",
+    "informationTag": "information",
+    "browseType": "external",
+    "platform": "all",
+    "title": "2.5周年記念特設サイト",
+    "path": "https:\/\/pjsekai.sega.jp\/2_5thanniversary\/index.html",
+    "startAt": 1679578200000,
+    "endAt": 1682866800000,
+    "bannerAssetbundleName": "content_banner_2half_anniversary_website"
+  },
+  {
+    "id": 2625,
+    "seq": 1,
+    "displayOrder": 53420,
+    "informationType": "normal",
+    "informationTag": "information",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "「みんなで選ぶ3DMV総選挙」のアンケートへのご協力のお願い",
+    "path": "information\/index.html?id=info_questionnaire_20230323",
+    "startAt": 1679578200000,
+    "endAt": 1680188340000
+  },
+  {
+    "id": 2626,
+    "seq": 1,
+    "displayOrder": 53410,
+    "informationType": "normal",
+    "informationTag": "information",
+    "browseType": "external",
+    "platform": "all",
+    "title": "【回答時間：約2分】アンケートはコチラ！",
+    "path": "https:\/\/questant.jp\/q\/PYQMEOPV?id={userId}",
+    "startAt": 1679578200000,
+    "endAt": 1680188340000
   }
 ]
