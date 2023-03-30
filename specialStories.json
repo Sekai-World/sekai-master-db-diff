@@ -504,5 +504,51 @@
         "rewardResourceBoxIds": []
       }
     ]
+  },
+  {
+    "id": 22,
+    "seq": 1,
+    "title": "エイプリルフール2023導入ムービー",
+    "assetbundleName": "aprilfool-story-2023",
+    "startAt": 1680274800000,
+    "endAt": 1680361199000,
+    "episodes": [
+      {
+        "id": 27,
+        "specialStoryId": 22,
+        "episodeNo": 1,
+        "title": "エイプリルフール2023導入ムービー",
+        "specialStoryEpisodeType": "none",
+        "assetbundleName": "story_aprilfool_2023",
+        "scenarioId": "aprilfool_2023_01",
+        "releaseConditionId": 1,
+        "isAbleSkip": true,
+        "isActionSetRefresh": true,
+        "rewardResourceBoxIds": []
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "seq": 1,
+    "title": "エイプリルフール2023後日談ムービー",
+    "assetbundleName": "aprilfool-story-2023",
+    "startAt": 1680361200000,
+    "endAt": 1680447599000,
+    "episodes": [
+      {
+        "id": 28,
+        "specialStoryId": 23,
+        "episodeNo": 1,
+        "title": "エイプリルフール2023後日談ムービー",
+        "specialStoryEpisodeType": "none",
+        "assetbundleName": "story_aprilfool_2023",
+        "scenarioId": "aprilfool_2023_02",
+        "releaseConditionId": 1000131,
+        "isAbleSkip": true,
+        "isActionSetRefresh": true,
+        "rewardResourceBoxIds": []
+      }
+    ]
   }
 ]

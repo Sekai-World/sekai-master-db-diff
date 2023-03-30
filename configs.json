@@ -100,6 +100,14 @@
     "value": "0"
   },
   {
+    "configKey": "story_favorite_count_limit",
+    "value": "10"
+  },
+  {
+    "configKey": "story_favorite_comment_length_limit",
+    "value": "1000"
+  },
+  {
     "configKey": "action_set_reward_jewel_quantity",
     "value": "10"
   },
@@ -110,6 +118,10 @@
   {
     "configKey": "continue_cost",
     "value": "10"
+  },
+  {
+    "configKey": "event_archive_complete_read_reward_jewel_quantity",
+    "value": "50"
   },
   {
     "configKey": "obtain_live_point",
@@ -822,5 +834,29 @@
   {
     "configKey": "weekly_gacha_reset_day_of_week",
     "value": "MONDAY"
+  },
+  {
+    "configKey": "story_episode_bookmark_thumbnail_path_prefix",
+    "value": "image\/bookmark-story\/thumbnail"
+  },
+  {
+    "configKey": "story_episode_bookmark_count",
+    "value": "20"
+  },
+  {
+    "configKey": "story_episode_bookmark_name_max_length",
+    "value": "20"
+  },
+  {
+    "configKey": "display_story_read_status",
+    "value": "true"
+  },
+  {
+    "configKey": "story_recommend_count",
+    "value": "11"
+  },
+  {
+    "configKey": "redis_story_recommend_expire_sec",
+    "value": "7776000"
   }
 ]

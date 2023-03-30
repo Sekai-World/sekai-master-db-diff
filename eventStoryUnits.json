@@ -494,7 +494,7 @@
     "seq": 54,
     "eventStoryId": 29,
     "unit": "street",
-    "eventStoryUnitRelation": "sub"
+    "eventStoryUnitRelation": "main"
   },
   {
     "id": 55,
@@ -1440,5 +1440,33 @@
     "eventStoryId": 89,
     "unit": "school_refusal",
     "eventStoryUnitRelation": "main"
+  },
+  {
+    "id": 207,
+    "seq": 207,
+    "eventStoryId": 90,
+    "unit": "light_sound",
+    "eventStoryUnitRelation": "main"
+  },
+  {
+    "id": 208,
+    "seq": 208,
+    "eventStoryId": 90,
+    "unit": "street",
+    "eventStoryUnitRelation": "sub"
+  },
+  {
+    "id": 209,
+    "seq": 209,
+    "eventStoryId": 90,
+    "unit": "theme_park",
+    "eventStoryUnitRelation": "sub"
+  },
+  {
+    "id": 210,
+    "seq": 210,
+    "eventStoryId": 90,
+    "unit": "school_refusal",
+    "eventStoryUnitRelation": "sub"
   }
 ]

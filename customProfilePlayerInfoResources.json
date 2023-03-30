@@ -78,7 +78,8 @@
     "name": "キャラクターランク・チャレンジステージ",
     "resourceLoadType": "prefab",
     "resourceLoadVal": "CustomProfile\/ContentView\/General",
-    "fileName": "CharacterRankAndChallengeStage"
+    "fileName": "CharacterRankAndChallengeStage",
+    "groupId": 1
   },
   {
     "customProfileResourceType": "player_info",
@@ -87,7 +88,8 @@
     "name": "楽曲情報",
     "resourceLoadType": "prefab",
     "resourceLoadVal": "CustomProfile\/ContentView\/General",
-    "fileName": "MusicClearInfo"
+    "fileName": "MusicClearInfo",
+    "groupId": 2
   },
   {
     "customProfileResourceType": "player_info",
@@ -97,5 +99,34 @@
     "resourceLoadType": "prefab",
     "resourceLoadVal": "CustomProfile\/ContentView\/General",
     "fileName": "EditUserName"
+  },
+  {
+    "customProfileResourceType": "player_info",
+    "id": 14,
+    "seq": 12,
+    "name": "お気に入りストーリー",
+    "resourceLoadType": "prefab",
+    "resourceLoadVal": "CustomProfile\/ContentView\/General",
+    "fileName": "StoryFavorite"
+  },
+  {
+    "customProfileResourceType": "player_info",
+    "id": 15,
+    "seq": 98,
+    "name": "キャラクターランク・チャレンジステージ",
+    "resourceLoadType": "prefab",
+    "resourceLoadVal": "CustomProfile\/ContentView\/General",
+    "fileName": "CharacterRankAndChallengeStage_1",
+    "groupId": 1
+  },
+  {
+    "customProfileResourceType": "player_info",
+    "id": 16,
+    "seq": 99,
+    "name": "楽曲情報",
+    "resourceLoadType": "prefab",
+    "resourceLoadVal": "CustomProfile\/ContentView\/General",
+    "fileName": "MusicClearInfo_1",
+    "groupId": 2
   }
 ]

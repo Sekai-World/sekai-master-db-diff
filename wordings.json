@@ -144,8 +144,20 @@
     "value": "※交換期限を過ぎたチケットは使用できなくなります。"
   },
   {
+    "wordingKey": "MSG_ALL_EPISODE_READ_REWARD",
+    "value": "スキップ・早送りしないで全話\n読もう"
+  },
+  {
     "wordingKey": "MSG_ALL_MV_DATA_DOWNLOAD_WARNING",
     "value": "ダウンロードサイズが50MBを超える場合、 \nWi-Fi環境でのダウンロードを推奨します。\n\nデータ管理でMVデータ数を制限している場合、\n設定が「すべて保存」に変更されます。"
+  },
+  {
+    "wordingKey": "MSG_ALL_READ_REWARD_DESCRIPTION",
+    "value": "イベント開催中に一度も読んだことがない場合、\nスキップ・早送りしないで全話読むことで\n1話分のストーリー報酬と同数のクリスタルを獲得できます。"
+  },
+  {
+    "wordingKey": "MSG_ALL_READ_REWARD_DESCRIPTION_TITLE",
+    "value": "完読報酬詳細"
   },
   {
     "wordingKey": "MSG_ALL_UNLOCK_STORY",
@@ -274,6 +286,14 @@
   {
     "wordingKey": "MSG_BOND_LIMIT",
     "value": "{0}のキャラクターランクを\n上げることでキズナランクの上限がアップします"
+  },
+  {
+    "wordingKey": "MSG_BOOKMARK_PLAY_ERROR",
+    "value": "しおりからの再生に失敗しました。"
+  },
+  {
+    "wordingKey": "MSG_BOOK_MARK_NAME_SETTING",
+    "value": "しおりの名前を設定してください。"
   },
   {
     "wordingKey": "MSG_BOOST_RECOVER_COMPLETE",
@@ -526,6 +546,10 @@
   {
     "wordingKey": "MSG_CONFIRM_OVERWRITE_DATA_LINK_IOS",
     "value": "GameCenterに連携中のプレイヤーデータがあります。\n連携を解除して、現在のプレイヤーデータに連携しますか？"
+  },
+  {
+    "wordingKey": "MSG_CONFIRM_REMOVE_BOOK_MARK",
+    "value": "このしおりを外しますか？"
   },
   {
     "wordingKey": "MSG_CONFIRM_STREAMING_LIVE_ENTER_WITHOUT_TICKET",
@@ -876,6 +900,14 @@
     "value": "エクストラゲージがMAXになりました。"
   },
   {
+    "wordingKey": "MSG_FAVORITE_COMMENT_INFORMATION",
+    "value": "<color=#0cb>{0}さん<\/color>他{1}人がおすすめ"
+  },
+  {
+    "wordingKey": "MSG_FAVORITE_COMMENT_INFORMATION_SINGLE",
+    "value": "<color=#0cb>{0}さん<\/color>がおすすめ"
+  },
+  {
     "wordingKey": "MSG_FEEDBACK",
     "value": "大変申し訳ございません。改善に向けて、\nお手数をおかけしますが、ご要望をいただけないでしょうか？\n\n頂いたメッセージは必ず拝見させていただき、\n今後の参考にいたします。"
   },
@@ -908,8 +940,60 @@
     "value": "招待を承認しました。"
   },
   {
+    "wordingKey": "MSG_FRIEND_INVITE_CODE_COPY_COMPLETE",
+    "value": "招待コードをコピーしました。"
+  },
+  {
+    "wordingKey": "MSG_FRIEND_INVITE_DIALOG_MESSAGE",
+    "value": "招待コードを入力してください。"
+  },
+  {
+    "wordingKey": "MSG_FRIEND_INVITE_ERROR_INPUT_MIN",
+    "value": "15文字のコードを入力してください。"
+  },
+  {
+    "wordingKey": "MSG_FRIEND_INVITE_INPUT_BUTTON",
+    "value": "コードを入力"
+  },
+  {
+    "wordingKey": "MSG_FRIEND_INVITE_INPUT_FIELD",
+    "value": "15文字の英数字"
+  },
+  {
+    "wordingKey": "MSG_FRIEND_INVITE_INTERNET_NOT_REACHABLE",
+    "value": "ネットワークに接続できません。\n接続状況を確認してください。"
+  },
+  {
+    "wordingKey": "MSG_FRIEND_INVITE_REGISTER_CODE_ERROR",
+    "value": "招待コードに誤りがあるため、使用できません。"
+  },
+  {
+    "wordingKey": "MSG_FRIEND_INVITE_REGISTER_COMPLETE",
+    "value": "招待コードの入力に成功しました。"
+  },
+  {
+    "wordingKey": "MSG_FRIEND_INVITE_REGISTER_CONFIRM",
+    "value": "以下の招待コードを登録します。\nよろしいですか？"
+  },
+  {
+    "wordingKey": "MSG_FRIEND_INVITE_REGISTER_FAILURE",
+    "value": "招待コードの登録に失敗しました。"
+  },
+  {
+    "wordingKey": "MSG_FRIEND_INVITE_REGISTER_OUT_OF_TERM",
+    "value": "招待コードの使用期限が過ぎているため、ご利用できません。"
+  },
+  {
     "wordingKey": "MSG_FRIEND_INVITE_REJECT",
     "value": "招待を拒否しました。"
+  },
+  {
+    "wordingKey": "MSG_FRIEND_INVITE_REWARD_BODY",
+    "value": "招待ミッションを達成した報酬です。"
+  },
+  {
+    "wordingKey": "MSG_FRIEND_INVITE_REWARD_DIALOG",
+    "value": "<color=#ff5588>{0}<\/color>さんが\n{1}、{2}、\n{3}のメインストーリーを読破し、\n招待ミッションを達成した報酬です。"
   },
   {
     "wordingKey": "MSG_FRIEND_LIMIT_COUNT_FOR_OTHER",
@@ -1520,6 +1604,10 @@
     "value": "使用できない言葉があります。"
   },
   {
+    "wordingKey": "MSG_NONE_BOOK_MARK",
+    "value": "設定されているしおりがありません。"
+  },
+  {
     "wordingKey": "MSG_NONE_DOWNLOAD",
     "value": "ダウンロードなし"
   },
@@ -1662,6 +1750,10 @@
   {
     "wordingKey": "MSG_NOT_TARGET_MUSIC",
     "value": "該当する楽曲がありません。"
+  },
+  {
+    "wordingKey": "MSG_NOT_TARGET_STORY",
+    "value": "該当するイベントストーリーがありません。"
   },
   {
     "wordingKey": "MSG_NO_ARCHIVE_EVENT_FOUND",
@@ -2276,6 +2368,10 @@
     "value": "一定時間が経過したため、\n同じグループのチームもマッチング対象になります。"
   },
   {
+    "wordingKey": "MSG_STORY_FAVORITE_FIRST_COMMENT_TEXT",
+    "value": "コメントを入力してください。"
+  },
+  {
     "wordingKey": "MSG_STORY_SKIP_BODY",
     "value": "ストーリーをスキップしますか？"
   },
@@ -2306,6 +2402,10 @@
   {
     "wordingKey": "MSG_STREAMING_LIVE_SCHEDULE_WARNING",
     "value": "※開演時間は予定で、前後する可能性があります。"
+  },
+  {
+    "wordingKey": "MSG_TAP_TO_COMMUNITY_REPORT",
+    "value": "通報"
   },
   {
     "wordingKey": "MSG_TICKET_EXCHANGE_EXPIRED",
@@ -2390,6 +2490,10 @@
   {
     "wordingKey": "MSG_UPDATE_BONUS_INFO",
     "value": "{0}更新毎に{1}{2}個"
+  },
+  {
+    "wordingKey": "MSG_UPPER_LIMIT_BOOK_MARK_NUM",
+    "value": "設定上限に達しているためしおりを挟めません。しおりを整理してください。"
   },
   {
     "wordingKey": "MSG_USER_BLOCK_COUNT_LIMIT",
@@ -2780,6 +2884,10 @@
     "value": "ALL PERFECT"
   },
   {
+    "wordingKey": "WORD_ALL_READ_REWARD",
+    "value": "完読報酬"
+  },
+  {
     "wordingKey": "WORD_ALL_SAVE",
     "value": "すべて保存"
   },
@@ -2794,6 +2902,10 @@
   {
     "wordingKey": "WORD_ALREADY_CLEARED_LIVE_RETRY",
     "value": "通信結果"
+  },
+  {
+    "wordingKey": "WORD_ALREADY_COMMUNITY_REPORT",
+    "value": "通報済み"
   },
   {
     "wordingKey": "WORD_ALREADY_COPIED",
@@ -2834,6 +2946,10 @@
   {
     "wordingKey": "WORD_ANOTHER_VOCAL_LIST_FILTER",
     "value": "アナザーボーカル絞り込み"
+  },
+  {
+    "wordingKey": "WORD_AP",
+    "value": "AP"
   },
   {
     "wordingKey": "WORD_API_ERROR",
@@ -3120,8 +3236,24 @@
     "value": "ライフ０ {0}"
   },
   {
+    "wordingKey": "WORD_BOOKMARK",
+    "value": "しおりから読む"
+  },
+  {
+    "wordingKey": "WORD_BOOK_MARK",
+    "value": "しおり"
+  },
+  {
     "wordingKey": "WORD_BOOK_MARK_ATTACHED",
     "value": "しおり付き"
+  },
+  {
+    "wordingKey": "WORD_BOOK_MARK_LIST",
+    "value": "しおり一覧"
+  },
+  {
+    "wordingKey": "WORD_BOOK_MARK_SETTING",
+    "value": "しおりを挟む"
   },
   {
     "wordingKey": "WORD_BOOST_RECOVERY",
@@ -3142,6 +3274,10 @@
   {
     "wordingKey": "WORD_BOUNS_DETAIL",
     "value": "ボーナス詳細"
+  },
+  {
+    "wordingKey": "WORD_BRACKETS",
+    "value": "「{0}」"
   },
   {
     "wordingKey": "WORD_BREAK",
@@ -3274,6 +3410,10 @@
   {
     "wordingKey": "WORD_CHANGE_DAY",
     "value": "日付更新"
+  },
+  {
+    "wordingKey": "WORD_CHANGE_NAME",
+    "value": "名前編集"
   },
   {
     "wordingKey": "WORD_CHANGE_VOCAL",
@@ -3473,7 +3613,7 @@
   },
   {
     "wordingKey": "WORD_COLLABORATION_AREA",
-    "value": "コラボ限定セカイ登場"
+    "value": "限定エリア出現中！"
   },
   {
     "wordingKey": "WORD_COLLECTION_GACHA",
@@ -3556,6 +3696,14 @@
     "value": "COMBO"
   },
   {
+    "wordingKey": "WORD_COMMENT_IS_SPOILER",
+    "value": "※このコメントはネタバレを含みます。"
+  },
+  {
+    "wordingKey": "WORD_COMMENT_SETTING",
+    "value": "コメント設定"
+  },
+  {
     "wordingKey": "WORD_COMMUNICATION",
     "value": "コミュニケーション"
   },
@@ -3596,6 +3744,10 @@
     "value": "交換確認"
   },
   {
+    "wordingKey": "WORD_CONFIRM_REMOVE_BOOK_MARK_TITLE",
+    "value": "しおりを外す"
+  },
+  {
     "wordingKey": "WORD_CONNECT",
     "value": "コネクト"
   },
@@ -3632,8 +3784,16 @@
     "value": "消費数"
   },
   {
+    "wordingKey": "WORD_CONTAINS_SPOILER_RADIO_BUTTON",
+    "value": "ネタバレを含む"
+  },
+  {
     "wordingKey": "WORD_CONTINUE",
     "value": "コンティニュー"
+  },
+  {
+    "wordingKey": "WORD_CONTINUOUSLY",
+    "value": "続きから読む"
   },
   {
     "wordingKey": "WORD_CONTINUOUS_BUY_HIGH_TIER_COUNT_BUTTON_TEXT",
@@ -3786,6 +3946,10 @@
   {
     "wordingKey": "WORD_CUSTOM_PROFILE_SELECT_CONTENT_FORMAT",
     "value": "<color=#ff5588>{0}<\/color>"
+  },
+  {
+    "wordingKey": "WORD_CUSTOM_PROFILE_SELECT_CONTENT_TYPE_DIALOG_TITLE",
+    "value": "{0}表示確認"
   },
   {
     "wordingKey": "WORD_CUTIN_EFFECT",
@@ -4157,7 +4321,7 @@
   },
   {
     "wordingKey": "WORD_EVENT_STORY_CHARACTER",
-    "value": "登場人物"
+    "value": "登場キャラクター"
   },
   {
     "wordingKey": "WORD_EVENT_STORY_OUTLINE",
@@ -4240,8 +4404,16 @@
     "value": "お気に入り"
   },
   {
+    "wordingKey": "WORD_FAVORITE_COMMENT",
+    "value": "おすすめコメント"
+  },
+  {
     "wordingKey": "WORD_FAVORITE_FOOD",
     "value": "好きな食べ物"
+  },
+  {
+    "wordingKey": "WORD_FAVORITE_SETTING",
+    "value": "お気に入り設定"
   },
   {
     "wordingKey": "WORD_FEEDBACK_TITLE",
@@ -4324,8 +4496,52 @@
     "value": "フレンド"
   },
   {
+    "wordingKey": "WORD_FRIEND_FAVORITE",
+    "value": "フレンドのおすすめ"
+  },
+  {
     "wordingKey": "WORD_FRIEND_INVITE",
     "value": "<color=#ff5599>{0}<\/color>からライブ招待が届きました。"
+  },
+  {
+    "wordingKey": "WORD_FRIEND_INVITE_CODE",
+    "value": "招待コード"
+  },
+  {
+    "wordingKey": "WORD_FRIEND_INVITE_CODE_ENTERED",
+    "value": "入力済み"
+  },
+  {
+    "wordingKey": "WORD_FRIEND_INVITE_CONFIRM_TITLE",
+    "value": "コード確認"
+  },
+  {
+    "wordingKey": "WORD_FRIEND_INVITE_INFORMATION_TITLE",
+    "value": "セカイへようこそ大作戦!!"
+  },
+  {
+    "wordingKey": "WORD_FRIEND_INVITE_INITIALIZE_MISSION_COUNT",
+    "value": "0"
+  },
+  {
+    "wordingKey": "WORD_FRIEND_INVITE_INPUT_BUTTON",
+    "value": "コード入力"
+  },
+  {
+    "wordingKey": "WORD_FRIEND_INVITE_REGISTER_COMPLETE",
+    "value": "入力成功"
+  },
+  {
+    "wordingKey": "WORD_FRIEND_INVITE_REGISTER_FAILURE",
+    "value": "入力失敗"
+  },
+  {
+    "wordingKey": "WORD_FRIEND_INVITE_SEND",
+    "value": "送信"
+  },
+  {
+    "wordingKey": "WORD_FRIEND_INVITE_TITLE",
+    "value": "招待キャンペーン"
   },
   {
     "wordingKey": "WORD_FRIEND_LIST",
@@ -4950,6 +5166,10 @@
   {
     "wordingKey": "WORD_KEY_SOTRY",
     "value": "キーストーリー"
+  },
+  {
+    "wordingKey": "WORD_LATEST_STORY",
+    "value": "最新ストーリー"
   },
   {
     "wordingKey": "WORD_LAYER_BACK",
@@ -5704,6 +5924,10 @@
     "value": "次のハイスコアボーナス"
   },
   {
+    "wordingKey": "WORD_NEXT_STORY",
+    "value": "次のストーリー"
+  },
+  {
     "wordingKey": "WORD_NO",
     "value": "いいえ"
   },
@@ -5730,6 +5954,10 @@
   {
     "wordingKey": "WORD_NOT_CLEAR",
     "value": "未クリア"
+  },
+  {
+    "wordingKey": "WORD_NOT_CONTAINS_SPOILER_RADIO_BUTTON",
+    "value": "ネタバレを含まない"
   },
   {
     "wordingKey": "WORD_NOT_ENOUGH_CURRENCY",
@@ -5880,6 +6108,10 @@
     "value": "ON"
   },
   {
+    "wordingKey": "WORD_ONCE_AGAIN",
+    "value": "もう一度読む"
+  },
+  {
     "wordingKey": "WORD_ONCE_AGAIN_LIVE",
     "value": "もう一度ライブ"
   },
@@ -5892,8 +6124,16 @@
     "value": "もう一度ライブ確認"
   },
   {
+    "wordingKey": "WORD_OP",
+    "value": "OP"
+  },
+  {
     "wordingKey": "WORD_OPEN",
     "value": "開放"
+  },
+  {
+    "wordingKey": "WORD_OPENING",
+    "value": "オープニング"
   },
   {
     "wordingKey": "WORD_OPEN_WINDOW",
@@ -6114,6 +6354,10 @@
   {
     "wordingKey": "WORD_PLAYING_TIME",
     "value": "再生時間"
+  },
+  {
+    "wordingKey": "WORD_PLAY_BOOK_MARK",
+    "value": "ここから読む"
   },
   {
     "wordingKey": "WORD_PLAY_CONFIRM",
@@ -6424,6 +6668,14 @@
     "value": "おすすめ"
   },
   {
+    "wordingKey": "WORD_RECOMMEND_COMMENT_DISPLAY",
+    "value": "おすすめコメント表示"
+  },
+  {
+    "wordingKey": "WORD_RECOMMEND_TO_YOU",
+    "value": "あなたへのおすすめ"
+  },
+  {
     "wordingKey": "WORD_RECORDING_VERSION",
     "value": "収録バージョン"
   },
@@ -6498,6 +6750,14 @@
   {
     "wordingKey": "WORD_REMAIN_TIME",
     "value": "残り{0}"
+  },
+  {
+    "wordingKey": "WORD_REMOVE",
+    "value": "外す"
+  },
+  {
+    "wordingKey": "WORD_REMOVE_BOOK_MARK",
+    "value": "外す"
   },
   {
     "wordingKey": "WORD_REMOVING_ASSET",
@@ -6602,6 +6862,10 @@
   {
     "wordingKey": "WORD_ROOM_TYPE",
     "value": "ルームタイプ"
+  },
+  {
+    "wordingKey": "WORD_SANDWITCH",
+    "value": "挟む"
   },
   {
     "wordingKey": "WORD_SATISFIED",
@@ -7174,6 +7438,22 @@
   {
     "wordingKey": "WORD_STORY",
     "value": "ストーリー"
+  },
+  {
+    "wordingKey": "WORD_STORY_FAVORITE",
+    "value": "お気に入りストーリー"
+  },
+  {
+    "wordingKey": "WORD_STORY_FAVORITE_SETTING",
+    "value": "お気に入りストーリー設定"
+  },
+  {
+    "wordingKey": "WORD_STORY_FILTER",
+    "value": "ストーリー絞り込み"
+  },
+  {
+    "wordingKey": "WORD_STORY_INTRODUCTION",
+    "value": "ストーリー紹介"
   },
   {
     "wordingKey": "WORD_STORY_REWARD",
