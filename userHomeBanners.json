@@ -1,24 +1,87 @@
 [
   {
-    "homeBannerId": 626,
-    "seq": 110,
+    "homeBannerId": 630,
+    "seq": 10,
     "homeBannerType": "general",
-    "name": "[ガチャ]ニーゴ箱イベ12巡目_定常ガチャバナー",
-    "assetbundleName": "banner_gacha309",
+    "name": "[2.5周年記念]カラフルフェスティバルガチャ",
+    "assetbundleName": "banner_gacha310",
     "transitionDestinationType": "gacha",
-    "transitionDestinationId": 309,
-    "startAt": 1679367600000,
-    "endAt": 1680145199000
+    "transitionDestinationId": 310,
+    "startAt": 1680145200000,
+    "endAt": 1680577199000
   },
   {
-    "homeBannerId": 627,
+    "homeBannerId": 631,
     "seq": 100,
     "homeBannerType": "event",
-    "name": "[イベント]ニーゴ箱イベ12巡目_イベントバナー",
-    "assetbundleName": "event_immiscible_2023",
+    "name": "[イベント]2.5周年シャッフルイベ_イベントバナー",
+    "assetbundleName": "event_citycorner_2023",
     "transitionDestinationType": "event",
-    "transitionDestinationId": 89,
-    "startAt": 1679378400000,
-    "endAt": 1680155999000
+    "transitionDestinationId": 90,
+    "startAt": 1680156000000,
+    "endAt": 1681192799000
+  },
+  {
+    "homeBannerId": 633,
+    "seq": 80,
+    "homeBannerType": "general",
+    "name": "[2.5周年記念]プレミアムプレゼントガチャ",
+    "assetbundleName": "banner_gacha311",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 311,
+    "startAt": 1680145200000,
+    "endAt": 1681181999000
+  },
+  {
+    "homeBannerId": 634,
+    "seq": 200,
+    "homeBannerType": "general",
+    "name": "[2.5周年記念]無料10連ガチャ",
+    "assetbundleName": "banner_gacha312",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 312,
+    "startAt": 1680145200000,
+    "endAt": 1680721199000
+  },
+  {
+    "homeBannerId": 635,
+    "seq": 50,
+    "homeBannerType": "general",
+    "name": "[2.5周年記念]ベストコレクションガチャ",
+    "assetbundleName": "banner_gacha314",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 314,
+    "startAt": 1680145200000,
+    "endAt": 1681181999000
+  },
+  {
+    "homeBannerId": 636,
+    "seq": 150,
+    "homeBannerType": "general",
+    "name": "[2.5周年記念]クリスタルショップ",
+    "assetbundleName": "banner_2.5th_anniversary_shop",
+    "transitionDestinationType": "billing_shop_for_jewel",
+    "startAt": 1680145200000,
+    "endAt": 1681181999000
+  },
+  {
+    "homeBannerId": 637,
+    "seq": 160,
+    "homeBannerType": "general",
+    "name": "海外版衣装",
+    "assetbundleName": "banner_shop_global_costume_1",
+    "transitionDestinationType": "billing_shop_for_jewel",
+    "startAt": 1680145200000,
+    "endAt": 1681181999000
+  },
+  {
+    "homeBannerId": 638,
+    "seq": 9999,
+    "homeBannerType": "general",
+    "name": "[2.5周年記念]セカイへようこそ大作戦！！_ホームバナー",
+    "assetbundleName": "banner_cp_invite_friends",
+    "transitionDestinationType": "friend_invitation_campaign",
+    "startAt": 1680145200000,
+    "endAt": 1682866799000
   }
 ]
