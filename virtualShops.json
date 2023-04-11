@@ -4823,5 +4823,39 @@
       }
     ],
     "virtualShopType": "event"
+  },
+  {
+    "id": 185,
+    "seq": 185,
+    "name": "第91回イベント物販",
+    "virtualShopItems": [
+      {
+        "id": 343,
+        "virtualShopId": 185,
+        "virtualShopItemType": "coordinate",
+        "seq": 99851,
+        "resourceBoxId": 242,
+        "costPaidJewel": 1000,
+        "startAt": 1681192800000
+      }
+    ],
+    "virtualShopType": "event"
+  },
+  {
+    "id": 186,
+    "seq": 186,
+    "name": "みのり BIRTHDAY",
+    "virtualShopItems": [
+      {
+        "id": 344,
+        "virtualShopId": 186,
+        "virtualShopItemType": "penlight",
+        "seq": 199886,
+        "resourceBoxId": 243,
+        "costPaidJewel": 1000,
+        "startAt": 1681279200000
+      }
+    ],
+    "virtualShopType": "birthday"
   }
 ]

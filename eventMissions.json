@@ -1448,5 +1448,150 @@
         "resourceBoxId": 8001
       }
     ]
+  },
+  {
+    "id": 81,
+    "eventId": 91,
+    "seq": 1,
+    "eventMissionType": "live_clear_daily",
+    "eventMissionCategory": "normal",
+    "requirement1": 9,
+    "sentence": "累計9日ライブを1日1回クリアしよう。",
+    "rewards": [
+      {
+        "id": 5159,
+        "missionType": "event_mission",
+        "missionId": 81,
+        "seq": 1,
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 82,
+    "eventId": 91,
+    "seq": 2,
+    "eventMissionType": "any_live_clear",
+    "eventMissionCategory": "normal",
+    "requirement1": 50,
+    "sentence": "ライブを50回クリアしよう。",
+    "rewards": [
+      {
+        "id": 5160,
+        "missionType": "event_mission",
+        "missionId": 82,
+        "seq": 1,
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 83,
+    "eventId": 91,
+    "seq": 3,
+    "eventMissionType": "live_clear_full_combo",
+    "eventMissionCategory": "normal",
+    "requirement1": 10,
+    "sentence": "ライブで楽曲をフルコンボで10回クリアしよう。",
+    "rewards": [
+      {
+        "id": 5161,
+        "missionType": "event_mission",
+        "missionId": 83,
+        "seq": 1,
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 84,
+    "eventId": 91,
+    "seq": 4,
+    "eventMissionType": "live_clear_different_music",
+    "eventMissionCategory": "normal",
+    "requirement1": 10,
+    "requirement2": 1,
+    "sentence": "ライブで10種類の楽曲をクリアしよう。",
+    "rewards": [
+      {
+        "id": 5162,
+        "missionType": "event_mission",
+        "missionId": 84,
+        "seq": 1,
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 85,
+    "eventId": 91,
+    "seq": 5,
+    "eventMissionType": "read_last_event_story_episode",
+    "eventMissionCategory": "normal",
+    "requirement1": 1,
+    "sentence": "イベント「Get over it.」のイベントストーリー第8話を読もう。",
+    "rewards": [
+      {
+        "id": 5163,
+        "missionType": "event_mission",
+        "missionId": 85,
+        "seq": 1,
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 86,
+    "eventId": 91,
+    "seq": 6,
+    "eventMissionType": "consume_event_item",
+    "eventMissionCategory": "normal",
+    "requirement1": 20000,
+    "sentence": "イベント「Get over it.」の交換所でバッジを20000個消費しよう。",
+    "rewards": [
+      {
+        "id": 5164,
+        "missionType": "event_mission",
+        "missionId": 86,
+        "seq": 1,
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 87,
+    "eventId": 91,
+    "seq": 7,
+    "eventMissionType": "join_virtual_live",
+    "eventMissionCategory": "normal",
+    "requirement1": 1,
+    "sentence": "「Get over it. アフターライブ」に参加しよう。",
+    "rewards": [
+      {
+        "id": 5165,
+        "missionType": "event_mission",
+        "missionId": 87,
+        "seq": 1,
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 88,
+    "eventId": 91,
+    "seq": 8,
+    "eventMissionType": "achieve_event_mission",
+    "eventMissionCategory": "complete",
+    "requirement1": 7,
+    "sentence": "7つのミッションを全て達成しよう。",
+    "rewards": [
+      {
+        "id": 5166,
+        "missionType": "event_mission",
+        "missionId": 88,
+        "seq": 1,
+        "resourceBoxId": 8001
+      }
+    ]
   }
 ]
