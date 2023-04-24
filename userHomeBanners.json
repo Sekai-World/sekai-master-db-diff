@@ -1,69 +1,5 @@
 [
   {
-    "homeBannerId": 631,
-    "seq": 170,
-    "homeBannerType": "event",
-    "name": "[イベント]2.5周年シャッフルイベ_イベントバナー",
-    "assetbundleName": "event_citycorner_2023",
-    "transitionDestinationType": "event",
-    "transitionDestinationId": 90,
-    "startAt": 1680156000000,
-    "endAt": 1681192799000
-  },
-  {
-    "homeBannerId": 632,
-    "seq": 180,
-    "homeBannerType": "general",
-    "name": "[ガチャ]2.5周年シャッフルイベ_定常ガチャバナー",
-    "assetbundleName": "banner_gacha316",
-    "transitionDestinationType": "gacha",
-    "transitionDestinationId": 316,
-    "startAt": 1680577200000,
-    "endAt": 1681181999000
-  },
-  {
-    "homeBannerId": 633,
-    "seq": 80,
-    "homeBannerType": "general",
-    "name": "[2.5周年記念]プレミアムプレゼントガチャ",
-    "assetbundleName": "banner_gacha311",
-    "transitionDestinationType": "gacha",
-    "transitionDestinationId": 311,
-    "startAt": 1680145200000,
-    "endAt": 1681181999000
-  },
-  {
-    "homeBannerId": 635,
-    "seq": 50,
-    "homeBannerType": "general",
-    "name": "[2.5周年記念]ベストコレクションガチャ",
-    "assetbundleName": "banner_gacha314",
-    "transitionDestinationType": "gacha",
-    "transitionDestinationId": 314,
-    "startAt": 1680145200000,
-    "endAt": 1681181999000
-  },
-  {
-    "homeBannerId": 636,
-    "seq": 150,
-    "homeBannerType": "general",
-    "name": "[2.5周年記念]クリスタルショップ",
-    "assetbundleName": "banner_2.5th_anniversary_shop",
-    "transitionDestinationType": "billing_shop_for_jewel",
-    "startAt": 1680145200000,
-    "endAt": 1681181999000
-  },
-  {
-    "homeBannerId": 637,
-    "seq": 160,
-    "homeBannerType": "general",
-    "name": "海外版衣装",
-    "assetbundleName": "banner_shop_global_costume_1",
-    "transitionDestinationType": "billing_shop_for_jewel",
-    "startAt": 1680145200000,
-    "endAt": 1681181999000
-  },
-  {
     "homeBannerId": 638,
     "seq": 9999,
     "homeBannerType": "general",
@@ -72,5 +8,27 @@
     "transitionDestinationType": "friend_invitation_campaign",
     "startAt": 1680145200000,
     "endAt": 1682866799000
+  },
+  {
+    "homeBannerId": 645,
+    "seq": 110,
+    "homeBannerType": "general",
+    "name": "[ガチャ]モモジャン箱イベ13巡目_定常ガチャバナー",
+    "assetbundleName": "banner_gacha321",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 321,
+    "startAt": 1682046000000,
+    "endAt": 1682823599000
+  },
+  {
+    "homeBannerId": 646,
+    "seq": 100,
+    "homeBannerType": "event",
+    "name": "[イベント]モモジャン箱イベ13巡目_イベントバナー",
+    "assetbundleName": "event_retie_2023",
+    "transitionDestinationType": "event",
+    "transitionDestinationId": 92,
+    "startAt": 1682056800000,
+    "endAt": 1682834399000
   }
 ]
