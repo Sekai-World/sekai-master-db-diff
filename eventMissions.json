@@ -1738,5 +1738,150 @@
         "resourceBoxId": 8001
       }
     ]
+  },
+  {
+    "id": 97,
+    "eventId": 93,
+    "seq": 1,
+    "eventMissionType": "live_clear_daily",
+    "eventMissionCategory": "normal",
+    "requirement1": 10,
+    "sentence": "累計10日ライブを1日1回クリアしよう。",
+    "rewards": [
+      {
+        "id": 5175,
+        "missionType": "event_mission",
+        "missionId": 97,
+        "seq": 1,
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 98,
+    "eventId": 93,
+    "seq": 2,
+    "eventMissionType": "any_live_clear",
+    "eventMissionCategory": "normal",
+    "requirement1": 50,
+    "sentence": "ライブを50回クリアしよう。",
+    "rewards": [
+      {
+        "id": 5176,
+        "missionType": "event_mission",
+        "missionId": 98,
+        "seq": 1,
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 99,
+    "eventId": 93,
+    "seq": 3,
+    "eventMissionType": "live_clear_full_combo",
+    "eventMissionCategory": "normal",
+    "requirement1": 10,
+    "sentence": "ライブで楽曲をフルコンボで10回クリアしよう。",
+    "rewards": [
+      {
+        "id": 5177,
+        "missionType": "event_mission",
+        "missionId": 99,
+        "seq": 1,
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 100,
+    "eventId": 93,
+    "seq": 4,
+    "eventMissionType": "live_clear_different_music",
+    "eventMissionCategory": "normal",
+    "requirement1": 10,
+    "requirement2": 1,
+    "sentence": "ライブで10種類の楽曲をクリアしよう。",
+    "rewards": [
+      {
+        "id": 5178,
+        "missionType": "event_mission",
+        "missionId": 100,
+        "seq": 1,
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 101,
+    "eventId": 93,
+    "seq": 5,
+    "eventMissionType": "read_last_event_story_episode",
+    "eventMissionCategory": "normal",
+    "requirement1": 1,
+    "sentence": "イベント「ボク達の生存逃走」のイベントストーリー第8話を読もう。",
+    "rewards": [
+      {
+        "id": 5179,
+        "missionType": "event_mission",
+        "missionId": 101,
+        "seq": 1,
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 102,
+    "eventId": 93,
+    "seq": 6,
+    "eventMissionType": "consume_event_item",
+    "eventMissionCategory": "normal",
+    "requirement1": 20000,
+    "sentence": "イベント「ボク達の生存逃走」の交換所でバッジを20000個消費しよう。",
+    "rewards": [
+      {
+        "id": 5180,
+        "missionType": "event_mission",
+        "missionId": 102,
+        "seq": 1,
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 103,
+    "eventId": 93,
+    "seq": 7,
+    "eventMissionType": "join_virtual_live",
+    "eventMissionCategory": "normal",
+    "requirement1": 1,
+    "sentence": "「ボク達の生存逃走 アフターライブ」に参加しよう。",
+    "rewards": [
+      {
+        "id": 5181,
+        "missionType": "event_mission",
+        "missionId": 103,
+        "seq": 1,
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 104,
+    "eventId": 93,
+    "seq": 8,
+    "eventMissionType": "achieve_event_mission",
+    "eventMissionCategory": "complete",
+    "requirement1": 7,
+    "sentence": "7つのミッションを全て達成しよう。",
+    "rewards": [
+      {
+        "id": 5182,
+        "missionType": "event_mission",
+        "missionId": 104,
+        "seq": 1,
+        "resourceBoxId": 8001
+      }
+    ]
   }
 ]
