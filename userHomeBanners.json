@@ -1,37 +1,5 @@
 [
   {
-    "homeBannerId": 638,
-    "seq": 9999,
-    "homeBannerType": "general",
-    "name": "[2.5周年記念]セカイへようこそ大作戦！！_ホームバナー",
-    "assetbundleName": "banner_cp_invite_friends",
-    "transitionDestinationType": "friend_invitation_campaign",
-    "startAt": 1680145200000,
-    "endAt": 1682866799000
-  },
-  {
-    "homeBannerId": 645,
-    "seq": 180,
-    "homeBannerType": "general",
-    "name": "[ガチャ]モモジャン箱イベ13巡目_定常ガチャバナー",
-    "assetbundleName": "banner_gacha321",
-    "transitionDestinationType": "gacha",
-    "transitionDestinationId": 321,
-    "startAt": 1682046000000,
-    "endAt": 1682823599000
-  },
-  {
-    "homeBannerId": 646,
-    "seq": 170,
-    "homeBannerType": "event",
-    "name": "[イベント]モモジャン箱イベ13巡目_イベントバナー",
-    "assetbundleName": "event_retie_2023",
-    "transitionDestinationType": "event",
-    "transitionDestinationId": 92,
-    "startAt": 1682056800000,
-    "endAt": 1682834399000
-  },
-  {
     "homeBannerId": 649,
     "seq": 90,
     "homeBannerType": "general",
@@ -43,14 +11,25 @@
     "endAt": 1683169199000
   },
   {
-    "homeBannerId": 654,
-    "seq": 130,
+    "homeBannerId": 650,
+    "seq": 110,
     "homeBannerType": "general",
-    "name": "[東雲絵名]HAPPY BIRTHDAY2023ガチャ",
-    "assetbundleName": "banner_gacha323",
+    "name": "[ガチャ]ニーゴ箱イベ13巡目_定常ガチャバナー",
+    "assetbundleName": "banner_gacha325",
     "transitionDestinationType": "gacha",
-    "transitionDestinationId": 323,
-    "startAt": 1682780400000,
-    "endAt": 1682866799000
+    "transitionDestinationId": 325,
+    "startAt": 1682823600000,
+    "endAt": 1683773999000
+  },
+  {
+    "homeBannerId": 651,
+    "seq": 100,
+    "homeBannerType": "event",
+    "name": "[イベント]ニーゴ箱イベ13巡目_イベントバナー",
+    "assetbundleName": "event_runaway_2023",
+    "transitionDestinationType": "event",
+    "transitionDestinationId": 93,
+    "startAt": 1682834400000,
+    "endAt": 1683784799000
   }
 ]
