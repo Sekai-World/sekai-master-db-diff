@@ -1,16 +1,5 @@
 [
   {
-    "homeBannerId": 651,
-    "seq": 170,
-    "homeBannerType": "event",
-    "name": "[イベント]ニーゴ箱イベ13巡目_イベントバナー",
-    "assetbundleName": "event_runaway_2023",
-    "transitionDestinationType": "event",
-    "transitionDestinationId": 93,
-    "startAt": 1682834400000,
-    "endAt": 1683784799000
-  },
-  {
     "homeBannerId": 655,
     "seq": 10,
     "homeBannerType": "general",
@@ -31,5 +20,16 @@
     "transitionDestinationId": 330,
     "startAt": 1683774000000,
     "endAt": 1684551599000
+  },
+  {
+    "homeBannerId": 660,
+    "seq": 100,
+    "homeBannerType": "event",
+    "name": "[イベント]シャッフル1-Cイベ_イベントバナー",
+    "assetbundleName": "event_trip_2023",
+    "transitionDestinationType": "event",
+    "transitionDestinationId": 94,
+    "startAt": 1683784800000,
+    "endAt": 1684562399000
   }
 ]
