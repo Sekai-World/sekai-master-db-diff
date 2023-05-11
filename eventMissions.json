@@ -1883,5 +1883,150 @@
         "resourceBoxId": 8001
       }
     ]
+  },
+  {
+    "id": 105,
+    "eventId": 94,
+    "seq": 1,
+    "eventMissionType": "live_clear_daily",
+    "eventMissionCategory": "normal",
+    "requirement1": 8,
+    "sentence": "累計8日ライブを1日1回クリアしよう。",
+    "rewards": [
+      {
+        "id": 5383,
+        "missionType": "event_mission",
+        "missionId": 105,
+        "seq": 1,
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 106,
+    "eventId": 94,
+    "seq": 2,
+    "eventMissionType": "any_live_clear",
+    "eventMissionCategory": "normal",
+    "requirement1": 50,
+    "sentence": "ライブを50回クリアしよう。",
+    "rewards": [
+      {
+        "id": 5384,
+        "missionType": "event_mission",
+        "missionId": 106,
+        "seq": 1,
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 107,
+    "eventId": 94,
+    "seq": 3,
+    "eventMissionType": "live_clear_full_combo",
+    "eventMissionCategory": "normal",
+    "requirement1": 10,
+    "sentence": "ライブで楽曲をフルコンボで10回クリアしよう。",
+    "rewards": [
+      {
+        "id": 5385,
+        "missionType": "event_mission",
+        "missionId": 107,
+        "seq": 1,
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 108,
+    "eventId": 94,
+    "seq": 4,
+    "eventMissionType": "live_clear_different_music",
+    "eventMissionCategory": "normal",
+    "requirement1": 10,
+    "requirement2": 1,
+    "sentence": "ライブで10種類の楽曲をクリアしよう。",
+    "rewards": [
+      {
+        "id": 5386,
+        "missionType": "event_mission",
+        "missionId": 108,
+        "seq": 1,
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 109,
+    "eventId": 94,
+    "seq": 5,
+    "eventMissionType": "read_last_event_story_episode",
+    "eventMissionCategory": "normal",
+    "requirement1": 1,
+    "sentence": "イベント「船出の前のワンデイトリップ」のイベントストーリー第8話を読もう。",
+    "rewards": [
+      {
+        "id": 5387,
+        "missionType": "event_mission",
+        "missionId": 109,
+        "seq": 1,
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 110,
+    "eventId": 94,
+    "seq": 6,
+    "eventMissionType": "consume_event_item",
+    "eventMissionCategory": "normal",
+    "requirement1": 20000,
+    "sentence": "イベント「船出の前のワンデイトリップ」の交換所でバッジを20000個消費しよう。",
+    "rewards": [
+      {
+        "id": 5388,
+        "missionType": "event_mission",
+        "missionId": 110,
+        "seq": 1,
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 111,
+    "eventId": 94,
+    "seq": 7,
+    "eventMissionType": "join_virtual_live",
+    "eventMissionCategory": "normal",
+    "requirement1": 1,
+    "sentence": "「船出の前のワンデイトリップ アフターライブ」に参加しよう。",
+    "rewards": [
+      {
+        "id": 5389,
+        "missionType": "event_mission",
+        "missionId": 111,
+        "seq": 1,
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 112,
+    "eventId": 94,
+    "seq": 8,
+    "eventMissionType": "achieve_event_mission",
+    "eventMissionCategory": "complete",
+    "requirement1": 7,
+    "sentence": "7つのミッションを全て達成しよう。",
+    "rewards": [
+      {
+        "id": 5390,
+        "missionType": "event_mission",
+        "missionId": 112,
+        "seq": 1,
+        "resourceBoxId": 8001
+      }
+    ]
   }
 ]

@@ -4926,5 +4926,115 @@
       }
     ],
     "virtualShopType": "birthday"
+  },
+  {
+    "id": 191,
+    "seq": 191,
+    "name": "第94回イベント物販",
+    "virtualShopItems": [
+      {
+        "id": 349,
+        "virtualShopId": 191,
+        "virtualShopItemType": "coordinate",
+        "seq": 99850,
+        "resourceBoxId": 248,
+        "costPaidJewel": 1000,
+        "startAt": 1683784800000
+      }
+    ],
+    "virtualShopType": "event"
+  },
+  {
+    "id": 192,
+    "seq": 192,
+    "name": "司 BIRTHDAY",
+    "virtualShopItems": [
+      {
+        "id": 350,
+        "virtualShopId": 192,
+        "virtualShopItemType": "penlight",
+        "seq": 199882,
+        "resourceBoxId": 249,
+        "costPaidJewel": 1000,
+        "startAt": 1684130400000
+      }
+    ],
+    "virtualShopType": "birthday"
+  },
+  {
+    "id": 193,
+    "seq": 193,
+    "name": "「コネクトライブ Leo\/need 1st SPARKLE」チケットショップ",
+    "virtualLiveId": 230,
+    "virtualShopItems": [
+      {
+        "id": 351,
+        "virtualShopId": 193,
+        "virtualShopItemType": "premium_virtual_live_ticket",
+        "seq": 299992,
+        "resourceBoxId": 250,
+        "costPaidJewel": 1980,
+        "startAt": 1683871200000,
+        "endAt": 1684681199000,
+        "limitValue": 3
+      },
+      {
+        "id": 352,
+        "virtualShopId": 193,
+        "virtualShopItemType": "premium_virtual_live_ticket",
+        "seq": 299993,
+        "resourceBoxId": 251,
+        "costPaidJewel": 3980,
+        "startAt": 1683871200000,
+        "endAt": 1684681199000,
+        "limitValue": 1
+      }
+    ],
+    "virtualShopType": "virtual_live_ticket"
+  },
+  {
+    "id": 194,
+    "seq": 194,
+    "name": "「コネクトライブ Leo\/need 1st SPARKLE」グッズショップ",
+    "virtualLiveId": 230,
+    "virtualShopItems": [
+      {
+        "id": 353,
+        "virtualShopId": 194,
+        "virtualShopItemType": "costume",
+        "seq": 3,
+        "resourceBoxId": 252,
+        "costVirtualCoin": 3000,
+        "costJewel": 1000,
+        "startAt": 1683871200000,
+        "endAt": 1684821599000,
+        "limitValue": 1
+      },
+      {
+        "id": 354,
+        "virtualShopId": 194,
+        "virtualShopItemType": "costume",
+        "seq": 2,
+        "resourceBoxId": 253,
+        "costVirtualCoin": 3000,
+        "costJewel": 1000,
+        "startAt": 1683871200000,
+        "endAt": 1684821599000,
+        "limitValue": 1
+      },
+      {
+        "id": 355,
+        "virtualShopId": 194,
+        "virtualShopItemType": "accessory",
+        "seq": 1,
+        "resourceBoxId": 254,
+        "costVirtualCoin": 3000,
+        "costJewel": 1000,
+        "startAt": 1683871200000,
+        "endAt": 1684821599000,
+        "limitValue": 1
+      }
+    ],
+    "virtualShopType": "other"
   }
 ]
