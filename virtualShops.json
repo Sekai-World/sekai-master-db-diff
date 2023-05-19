@@ -5036,5 +5036,40 @@
       }
     ],
     "virtualShopType": "other"
+  },
+  {
+    "id": 195,
+    "seq": 195,
+    "name": "第95回イベント物販",
+    "virtualShopItems": [
+      {
+        "id": 356,
+        "virtualShopId": 195,
+        "virtualShopItemType": "accessory",
+        "seq": 99904,
+        "resourceBoxId": 255,
+        "costVirtualCoin": 3000,
+        "costJewel": 1000,
+        "startAt": 1684562400000
+      }
+    ],
+    "virtualShopType": "event"
+  },
+  {
+    "id": 196,
+    "seq": 196,
+    "name": "冬弥 BIRTHDAY",
+    "virtualShopItems": [
+      {
+        "id": 357,
+        "virtualShopId": 196,
+        "virtualShopItemType": "penlight",
+        "seq": 199881,
+        "resourceBoxId": 256,
+        "costPaidJewel": 1000,
+        "startAt": 1684821600000
+      }
+    ],
+    "virtualShopType": "birthday"
   }
 ]
