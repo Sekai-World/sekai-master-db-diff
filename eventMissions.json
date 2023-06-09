@@ -2318,5 +2318,150 @@
         "resourceBoxId": 8001
       }
     ]
+  },
+  {
+    "id": 129,
+    "eventId": 97,
+    "seq": 1,
+    "eventMissionType": "live_clear_daily",
+    "eventMissionCategory": "normal",
+    "requirement1": 9,
+    "sentence": "累計9日ライブを1日1回クリアしよう。",
+    "rewards": [
+      {
+        "id": 6207,
+        "missionType": "event_mission",
+        "missionId": 129,
+        "seq": 1,
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 130,
+    "eventId": 97,
+    "seq": 2,
+    "eventMissionType": "any_live_clear",
+    "eventMissionCategory": "normal",
+    "requirement1": 50,
+    "sentence": "ライブを50回クリアしよう。",
+    "rewards": [
+      {
+        "id": 6208,
+        "missionType": "event_mission",
+        "missionId": 130,
+        "seq": 1,
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 131,
+    "eventId": 97,
+    "seq": 3,
+    "eventMissionType": "live_clear_full_combo",
+    "eventMissionCategory": "normal",
+    "requirement1": 10,
+    "sentence": "ライブで楽曲をフルコンボで10回クリアしよう。",
+    "rewards": [
+      {
+        "id": 6209,
+        "missionType": "event_mission",
+        "missionId": 131,
+        "seq": 1,
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 132,
+    "eventId": 97,
+    "seq": 4,
+    "eventMissionType": "live_clear_different_music",
+    "eventMissionCategory": "normal",
+    "requirement1": 10,
+    "requirement2": 1,
+    "sentence": "ライブで10種類の楽曲をクリアしよう。",
+    "rewards": [
+      {
+        "id": 6210,
+        "missionType": "event_mission",
+        "missionId": 132,
+        "seq": 1,
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 133,
+    "eventId": 97,
+    "seq": 5,
+    "eventMissionType": "read_last_event_story_episode",
+    "eventMissionCategory": "normal",
+    "requirement1": 1,
+    "sentence": "イベント「Light Up the Fire」のイベントストーリー第8話を読もう。",
+    "rewards": [
+      {
+        "id": 6211,
+        "missionType": "event_mission",
+        "missionId": 133,
+        "seq": 1,
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 134,
+    "eventId": 97,
+    "seq": 6,
+    "eventMissionType": "consume_event_item",
+    "eventMissionCategory": "normal",
+    "requirement1": 20000,
+    "sentence": "イベント「Light Up the Fire」の交換所でバッジを20000個消費しよう。",
+    "rewards": [
+      {
+        "id": 6212,
+        "missionType": "event_mission",
+        "missionId": 134,
+        "seq": 1,
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 135,
+    "eventId": 97,
+    "seq": 7,
+    "eventMissionType": "join_virtual_live",
+    "eventMissionCategory": "normal",
+    "requirement1": 1,
+    "sentence": "「Light Up the Fire アフターライブ」に参加しよう。",
+    "rewards": [
+      {
+        "id": 6213,
+        "missionType": "event_mission",
+        "missionId": 135,
+        "seq": 1,
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 136,
+    "eventId": 97,
+    "seq": 8,
+    "eventMissionType": "achieve_event_mission",
+    "eventMissionCategory": "complete",
+    "requirement1": 7,
+    "sentence": "7つのミッションを全て達成しよう。",
+    "rewards": [
+      {
+        "id": 6214,
+        "missionType": "event_mission",
+        "missionId": 136,
+        "seq": 1,
+        "resourceBoxId": 8001
+      }
+    ]
   }
 ]
