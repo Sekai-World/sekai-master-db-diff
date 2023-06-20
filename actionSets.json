@@ -4360,7 +4360,7 @@
   },
   {
     "id": 364,
-    "areaId": 10,
+    "areaId": 1,
     "actionSetType": "normal",
     "scenarioId": "areatalk03_262",
     "scriptId": "as_3_262",
@@ -4759,7 +4759,7 @@
   },
   {
     "id": 396,
-    "areaId": 10,
+    "areaId": 1,
     "actionSetType": "normal",
     "scenarioId": "areatalk02_145",
     "scriptId": "as_2_145",
@@ -4863,7 +4863,7 @@
   },
   {
     "id": 404,
-    "areaId": 10,
+    "areaId": 1,
     "actionSetType": "normal",
     "scenarioId": "areatalk02_261",
     "scriptId": "as_2_261",
@@ -4954,7 +4954,7 @@
   },
   {
     "id": 411,
-    "areaId": 10,
+    "areaId": 1,
     "actionSetType": "normal",
     "scenarioId": "areatalk02_271",
     "scriptId": "as_2_271",
@@ -22588,5 +22588,73 @@
     ],
     "archivePublishedAt": 1686376800000,
     "releaseConditionId": 109608
+  },
+  {
+    "id": 1746,
+    "areaId": 13,
+    "actionSetType": "normal",
+    "scenarioId": "areatalk_ev_idol_14_001",
+    "scriptId": "as_ev_idol_14_001",
+    "characterIds": [
+      5,
+      6,
+      8
+    ],
+    "archivePublishedAt": 1687240800000,
+    "releaseConditionId": 109708
+  },
+  {
+    "id": 1747,
+    "areaId": 3,
+    "actionSetType": "normal",
+    "scenarioId": "areatalk_ev_idol_14_002",
+    "scriptId": "as_ev_idol_14_002",
+    "characterIds": [
+      5,
+      7
+    ],
+    "archivePublishedAt": 1687240800000,
+    "releaseConditionId": 109708
+  },
+  {
+    "id": 1748,
+    "areaId": 13,
+    "actionSetType": "normal",
+    "scenarioId": "areatalk_ev_idol_14_003",
+    "scriptId": "as_ev_idol_14_003",
+    "characterIds": [
+      7,
+      8,
+      6,
+      5
+    ],
+    "archivePublishedAt": 1687240800000,
+    "releaseConditionId": 109708
+  },
+  {
+    "id": 1749,
+    "areaId": 7,
+    "actionSetType": "normal",
+    "scenarioId": "areatalk_ev_idol_14_004",
+    "scriptId": "as_ev_idol_14_004",
+    "characterIds": [
+      5,
+      143
+    ],
+    "archivePublishedAt": 1687240800000,
+    "releaseConditionId": 109708
+  },
+  {
+    "id": 1750,
+    "areaId": 7,
+    "actionSetType": "normal",
+    "scenarioId": "areatalk_ev_idol_14_005",
+    "scriptId": "as_ev_idol_14_005",
+    "characterIds": [
+      119,
+      134
+    ],
+    "archivePublishedAt": 1687240800000,
+    "releaseConditionId": 109708
   }
 ]

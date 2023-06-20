@@ -1,24 +1,35 @@
 [
   {
-    "homeBannerId": 674,
-    "seq": 110,
+    "homeBannerId": 679,
+    "seq": 120,
     "homeBannerType": "general",
-    "name": "[ガチャ]シャッフルブライダル2023_定常ガチャバナー",
-    "assetbundleName": "banner_gacha338",
+    "name": "[復刻]君に叫ぶ青き声ガチャ",
+    "assetbundleName": "banner_gacha341",
     "transitionDestinationType": "gacha",
-    "transitionDestinationId": 338,
-    "startAt": 1685502000000,
-    "endAt": 1686365999000
+    "transitionDestinationId": 341,
+    "startAt": 1686711600000,
+    "endAt": 1687575599000
   },
   {
-    "homeBannerId": 675,
+    "homeBannerId": 681,
+    "seq": 110,
+    "homeBannerType": "general",
+    "name": "[ガチャ]モモジャン箱イベ14巡目_定常ガチャバナー",
+    "assetbundleName": "banner_gacha342",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 342,
+    "startAt": 1687230000000,
+    "endAt": 1688093999000
+  },
+  {
+    "homeBannerId": 682,
     "seq": 100,
     "homeBannerType": "event",
-    "name": "[イベント]シャッフルブライダル2023_イベントバナー",
-    "assetbundleName": "event_neighbor_2023",
+    "name": "[イベント]モモジャン箱イベ14巡目_イベントバナー",
+    "assetbundleName": "event_step_2023",
     "transitionDestinationType": "event",
-    "transitionDestinationId": 96,
-    "startAt": 1685512800000,
-    "endAt": 1686376799000
+    "transitionDestinationId": 98,
+    "startAt": 1687240800000,
+    "endAt": 1688104799000
   }
 ]
