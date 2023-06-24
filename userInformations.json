@@ -451,20 +451,6 @@
     "bannerAssetbundleName": "banner_news_gacha331"
   },
   {
-    "id": 2773,
-    "seq": 1,
-    "displayOrder": 54910,
-    "informationType": "normal",
-    "informationTag": "gacha",
-    "browseType": "internal",
-    "platform": "all",
-    "title": "[天馬司]HAPPY BIRTHDAYガチャ開催！",
-    "path": "information\/index.html?id=info_gacha332-333_held",
-    "startAt": 1684249200000,
-    "endAt": 1687500000000,
-    "bannerAssetbundleName": "banner_news_gacha332"
-  },
-  {
     "id": 2781,
     "seq": 1,
     "displayOrder": 54390,
@@ -737,32 +723,6 @@
     "bannerAssetbundleName": "banner_news_gacha341"
   },
   {
-    "id": 2850,
-    "seq": 1,
-    "displayOrder": 55420,
-    "informationType": "normal",
-    "informationTag": "information",
-    "browseType": "internal",
-    "platform": "all",
-    "title": "6月16日よりラジオ番組「セカイ・ステーション #36」を配信！",
-    "path": "information\/index.html?id=info_webradio-miku_36_20230616",
-    "startAt": 1686798000000,
-    "endAt": 1687374000000
-  },
-  {
-    "id": 2853,
-    "seq": 1,
-    "displayOrder": 55520,
-    "informationType": "normal",
-    "informationTag": "music",
-    "browseType": "internal",
-    "platform": "all",
-    "title": "「Calc.」「エゴロック」アナザーボーカルver.追加のお知らせ",
-    "path": "information\/index.html?id=info_music_add_another_20230620",
-    "startAt": 1687226400000,
-    "endAt": 1687460400000
-  },
-  {
     "id": 2854,
     "seq": 1,
     "displayOrder": 24370,
@@ -948,7 +908,7 @@
     "title": "【6月20日11時00分追記】「v2.7.0」アップデートに伴うメンテナンスのご案内",
     "path": "information\/index.html?id=info_notice_update_maintenance_v2-7-0_202306_add-4",
     "startAt": 1687226400000,
-    "endAt": 1689274800000
+    "endAt": 1687575600000
   },
   {
     "id": 2895,
@@ -1013,5 +973,30 @@
     "path": "information\/index.html?id=info_bbbsarchive_5_20230624",
     "startAt": 1687489200000,
     "endAt": 1688065200000
+  },
+  {
+    "id": 2900,
+    "seq": 1,
+    "displayOrder": 55650,
+    "informationType": "normal",
+    "informationTag": "information",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "【6月24日12時00分追記】「v2.7.0」アップデートに伴うメンテナンスのご案内",
+    "path": "information\/index.html?id=info_notice_update_maintenance_v2-7-0_202306_add-5",
+    "startAt": 1687575600000,
+    "endAt": 1689274800000
+  },
+  {
+    "id": 2901,
+    "seq": 1,
+    "displayOrder": 24380,
+    "informationType": "bug",
+    "informationTag": "bug",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "「v2.7.0」アップデート後、一部のAndroid端末においてリズムゲームでカクつきが発生することがある不具合について",
+    "path": "information\/index.html?id=bug_v2-7-0_Android_rhythmgame_20230624",
+    "startAt": 1687575600000
   }
 ]
