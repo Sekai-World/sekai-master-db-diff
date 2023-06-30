@@ -5142,5 +5142,134 @@
       }
     ],
     "virtualShopType": "birthday"
+  },
+  {
+    "id": 201,
+    "seq": 201,
+    "name": "第99回イベント物販",
+    "virtualShopItems": [
+      {
+        "id": 362,
+        "virtualShopId": 201,
+        "virtualShopItemType": "penlight",
+        "seq": 199879,
+        "resourceBoxId": 261,
+        "costPaidJewel": 1000,
+        "startAt": 1688104800000
+      }
+    ],
+    "virtualShopType": "event"
+  },
+  {
+    "id": 202,
+    "seq": 202,
+    "name": "「コネクトライブ 25時、ナイトコードで。 1st moment」チケットショップ",
+    "virtualLiveId": 238,
+    "virtualShopItems": [
+      {
+        "id": 363,
+        "virtualShopId": 202,
+        "virtualShopItemType": "premium_virtual_live_ticket",
+        "seq": 299990,
+        "resourceBoxId": 262,
+        "costPaidJewel": 1980,
+        "startAt": 1688104800000,
+        "endAt": 1688914799000,
+        "limitValue": 3
+      },
+      {
+        "id": 364,
+        "virtualShopId": 202,
+        "virtualShopItemType": "premium_virtual_live_ticket",
+        "seq": 299991,
+        "resourceBoxId": 263,
+        "costPaidJewel": 3980,
+        "startAt": 1688104800000,
+        "endAt": 1688914799000,
+        "limitValue": 1
+      }
+    ],
+    "virtualShopType": "virtual_live_ticket"
+  },
+  {
+    "id": 203,
+    "seq": 203,
+    "name": "「コネクトライブ 25時、ナイトコードで。 1st moment」グッズショップ",
+    "virtualLiveId": 238,
+    "virtualShopItems": [
+      {
+        "id": 365,
+        "virtualShopId": 203,
+        "virtualShopItemType": "costume",
+        "seq": 3,
+        "resourceBoxId": 264,
+        "costVirtualCoin": 3000,
+        "costJewel": 1000,
+        "startAt": 1688104800000,
+        "endAt": 1689055199000,
+        "limitValue": 1
+      },
+      {
+        "id": 366,
+        "virtualShopId": 203,
+        "virtualShopItemType": "costume",
+        "seq": 2,
+        "resourceBoxId": 265,
+        "costVirtualCoin": 3000,
+        "costJewel": 1000,
+        "startAt": 1688104800000,
+        "endAt": 1689055199000,
+        "limitValue": 1
+      },
+      {
+        "id": 367,
+        "virtualShopId": 203,
+        "virtualShopItemType": "accessory",
+        "seq": 1,
+        "resourceBoxId": 266,
+        "costVirtualCoin": 3000,
+        "costJewel": 1000,
+        "startAt": 1688104800000,
+        "endAt": 1689055199000,
+        "limitValue": 1
+      }
+    ],
+    "virtualShopType": "other"
+  },
+  {
+    "id": 204,
+    "seq": 204,
+    "name": "七夕ライブ",
+    "virtualShopItems": [
+      {
+        "id": 368,
+        "virtualShopId": 204,
+        "virtualShopItemType": "coordinate",
+        "seq": 99848,
+        "resourceBoxId": 267,
+        "costPaidJewel": 1000,
+        "startAt": 1688536800000
+      },
+      {
+        "id": 369,
+        "virtualShopId": 204,
+        "virtualShopItemType": "accessory",
+        "seq": 99900,
+        "resourceBoxId": 110,
+        "costVirtualCoin": 3000,
+        "costJewel": 1000,
+        "startAt": 1688536800000
+      },
+      {
+        "id": 370,
+        "virtualShopId": 204,
+        "virtualShopItemType": "coordinate",
+        "seq": 99849,
+        "resourceBoxId": 179,
+        "costPaidJewel": 1000,
+        "startAt": 1688536800000
+      }
+    ],
+    "virtualShopType": "special_live"
   }
 ]
