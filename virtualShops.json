@@ -5271,5 +5271,39 @@
       }
     ],
     "virtualShopType": "special_live"
+  },
+  {
+    "id": 205,
+    "seq": 205,
+    "name": "第100回イベント物販",
+    "virtualShopItems": [
+      {
+        "id": 371,
+        "virtualShopId": 205,
+        "virtualShopItemType": "penlight",
+        "seq": 199878,
+        "resourceBoxId": 268,
+        "costPaidJewel": 1000,
+        "startAt": 1689055200000
+      }
+    ],
+    "virtualShopType": "event"
+  },
+  {
+    "id": 206,
+    "seq": 206,
+    "name": "寧々 BIRTHDAY",
+    "virtualShopItems": [
+      {
+        "id": 372,
+        "virtualShopId": 206,
+        "virtualShopItemType": "penlight",
+        "seq": 199877,
+        "resourceBoxId": 269,
+        "costPaidJewel": 1000,
+        "startAt": 1689660000000
+      }
+    ],
+    "virtualShopType": "birthday"
   }
 ]

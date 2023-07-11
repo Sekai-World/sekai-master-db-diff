@@ -2753,5 +2753,150 @@
         "resourceBoxId": 8001
       }
     ]
+  },
+  {
+    "id": 153,
+    "eventId": 100,
+    "seq": 1,
+    "eventMissionType": "live_clear_daily",
+    "eventMissionCategory": "normal",
+    "requirement1": 9,
+    "sentence": "累計9日ライブを1日1回クリアしよう。",
+    "rewards": [
+      {
+        "id": 6485,
+        "missionType": "event_mission",
+        "missionId": 153,
+        "seq": 1,
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 154,
+    "eventId": 100,
+    "seq": 2,
+    "eventMissionType": "any_live_clear",
+    "eventMissionCategory": "normal",
+    "requirement1": 50,
+    "sentence": "ライブを50回クリアしよう。",
+    "rewards": [
+      {
+        "id": 6486,
+        "missionType": "event_mission",
+        "missionId": 154,
+        "seq": 1,
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 155,
+    "eventId": 100,
+    "seq": 3,
+    "eventMissionType": "live_clear_full_combo",
+    "eventMissionCategory": "normal",
+    "requirement1": 10,
+    "sentence": "ライブで楽曲をフルコンボで10回クリアしよう。",
+    "rewards": [
+      {
+        "id": 6487,
+        "missionType": "event_mission",
+        "missionId": 155,
+        "seq": 1,
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 156,
+    "eventId": 100,
+    "seq": 4,
+    "eventMissionType": "live_clear_different_music",
+    "eventMissionCategory": "normal",
+    "requirement1": 10,
+    "requirement2": 1,
+    "sentence": "ライブで10種類の楽曲をクリアしよう。",
+    "rewards": [
+      {
+        "id": 6488,
+        "missionType": "event_mission",
+        "missionId": 156,
+        "seq": 1,
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 157,
+    "eventId": 100,
+    "seq": 5,
+    "eventMissionType": "read_last_event_story_episode",
+    "eventMissionCategory": "normal",
+    "requirement1": 1,
+    "sentence": "イベント「仮面の私にさよならを」のイベントストーリー第8話を読もう。",
+    "rewards": [
+      {
+        "id": 6489,
+        "missionType": "event_mission",
+        "missionId": 157,
+        "seq": 1,
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 158,
+    "eventId": 100,
+    "seq": 6,
+    "eventMissionType": "consume_event_item",
+    "eventMissionCategory": "normal",
+    "requirement1": 20000,
+    "sentence": "イベント「仮面の私にさよならを」の交換所でバッジを20000個消費しよう。",
+    "rewards": [
+      {
+        "id": 6490,
+        "missionType": "event_mission",
+        "missionId": 158,
+        "seq": 1,
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 159,
+    "eventId": 100,
+    "seq": 7,
+    "eventMissionType": "join_virtual_live",
+    "eventMissionCategory": "normal",
+    "requirement1": 1,
+    "sentence": "「仮面の私にさよならを アフターライブ」に参加しよう。",
+    "rewards": [
+      {
+        "id": 6491,
+        "missionType": "event_mission",
+        "missionId": 159,
+        "seq": 1,
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 160,
+    "eventId": 100,
+    "seq": 8,
+    "eventMissionType": "achieve_event_mission",
+    "eventMissionCategory": "complete",
+    "requirement1": 7,
+    "sentence": "7つのミッションを全て達成しよう。",
+    "rewards": [
+      {
+        "id": 6492,
+        "missionType": "event_mission",
+        "missionId": 160,
+        "seq": 1,
+        "resourceBoxId": 8001
+      }
+    ]
   }
 ]

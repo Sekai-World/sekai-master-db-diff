@@ -12889,5 +12889,134 @@
         ]
       }
     ]
+  },
+  {
+    "id": 100,
+    "eventId": 100,
+    "outline": "パソコンを奪われた上、母親の干渉が強まり、日に日に精神が摩耗していくまふゆ。\nそんな中、期末テストの返却が近付くが……。",
+    "bannerGameCharacterUnitId": 18,
+    "assetbundleName": "event_persona_2023",
+    "eventStoryEpisodes": [
+      {
+        "id": 1000801,
+        "eventStoryId": 100,
+        "episodeNo": 1,
+        "title": "摩耗する心",
+        "assetbundleName": "event_persona_2023_01",
+        "scenarioId": "event_100_01",
+        "releaseConditionId": 1,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1000802,
+        "eventStoryId": 100,
+        "episodeNo": 2,
+        "title": "予兆",
+        "assetbundleName": "event_persona_2023_02",
+        "scenarioId": "event_100_02",
+        "releaseConditionId": 109901,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1000803,
+        "eventStoryId": 100,
+        "episodeNo": 3,
+        "title": "崩れていく仮面",
+        "assetbundleName": "event_persona_2023_03",
+        "scenarioId": "event_100_03",
+        "releaseConditionId": 109902,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1000804,
+        "eventStoryId": 100,
+        "episodeNo": 4,
+        "title": "決壊",
+        "assetbundleName": "event_persona_2023_04",
+        "scenarioId": "event_100_04",
+        "releaseConditionId": 109903,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1000805,
+        "eventStoryId": 100,
+        "episodeNo": 5,
+        "title": "見えない心、確かな想い",
+        "assetbundleName": "event_persona_2023_05",
+        "scenarioId": "event_100_05",
+        "releaseConditionId": 109904,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1000806,
+        "eventStoryId": 100,
+        "episodeNo": 6,
+        "title": "心を守るために",
+        "assetbundleName": "event_persona_2023_06",
+        "scenarioId": "event_100_06",
+        "releaseConditionId": 109905,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1000807,
+        "eventStoryId": 100,
+        "episodeNo": 7,
+        "title": "仮面を捨てて",
+        "assetbundleName": "event_persona_2023_07",
+        "scenarioId": "event_100_07",
+        "releaseConditionId": 109906,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1000808,
+        "eventStoryId": 100,
+        "episodeNo": 8,
+        "title": "手を伸ばす、そのさきは",
+        "assetbundleName": "event_persona_2023_08",
+        "scenarioId": "event_100_08",
+        "releaseConditionId": 109907,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 53
+          }
+        ]
+      }
+    ]
   }
 ]

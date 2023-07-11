@@ -38410,6 +38410,26 @@
     "startAt": 1660543200000
   },
   {
+    "id": 10405,
+    "shopId": 4,
+    "seq": 9960202,
+    "releaseConditionId": 5,
+    "resourceBoxId": 10405,
+    "costs": [
+      {
+        "shopItemId": 10405,
+        "seq": 1,
+        "cost": {
+          "resourceId": 19,
+          "resourceType": "material",
+          "resourceLevel": 0,
+          "quantity": 1
+        }
+      }
+    ],
+    "startAt": 1689040800000
+  },
+  {
     "id": 10406,
     "shopId": 2,
     "seq": 998630,
@@ -40300,6 +40320,36 @@
     "startAt": 1678413600000
   },
   {
+    "id": 10522,
+    "shopId": 4,
+    "seq": 9960313,
+    "releaseConditionId": 5,
+    "resourceBoxId": 10522,
+    "costs": [
+      {
+        "shopItemId": 10522,
+        "seq": 1,
+        "cost": {
+          "resourceId": 30,
+          "resourceType": "material",
+          "resourceLevel": 0,
+          "quantity": 1
+        }
+      },
+      {
+        "shopItemId": 10522,
+        "seq": 2,
+        "cost": {
+          "resourceId": 31,
+          "resourceType": "material",
+          "resourceLevel": 0,
+          "quantity": 1
+        }
+      }
+    ],
+    "startAt": 1689040800000
+  },
+  {
     "id": 10523,
     "shopId": 2,
     "seq": 998060,
@@ -41208,6 +41258,46 @@
       }
     ],
     "startAt": 1688709600000
+  },
+  {
+    "id": 10595,
+    "shopId": 2,
+    "seq": 997710,
+    "releaseConditionId": 1,
+    "resourceBoxId": 10595,
+    "costs": [
+      {
+        "shopItemId": 10595,
+        "seq": 1,
+        "cost": {
+          "resourceId": 13,
+          "resourceType": "material",
+          "resourceLevel": 0,
+          "quantity": 10
+        }
+      }
+    ],
+    "startAt": 1689141600000
+  },
+  {
+    "id": 10596,
+    "shopId": 2,
+    "seq": 997700,
+    "releaseConditionId": 1,
+    "resourceBoxId": 10596,
+    "costs": [
+      {
+        "shopItemId": 10596,
+        "seq": 1,
+        "cost": {
+          "resourceId": 13,
+          "resourceType": "material",
+          "resourceLevel": 0,
+          "quantity": 10
+        }
+      }
+    ],
+    "startAt": 1689314400000
   },
   {
     "id": 20001,
