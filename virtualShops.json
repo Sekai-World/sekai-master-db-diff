@@ -5305,5 +5305,40 @@
       }
     ],
     "virtualShopType": "birthday"
+  },
+  {
+    "id": 207,
+    "seq": 207,
+    "name": "第101回イベント物販",
+    "virtualShopItems": [
+      {
+        "id": 373,
+        "virtualShopId": 207,
+        "virtualShopItemType": "accessory",
+        "seq": 99899,
+        "resourceBoxId": 270,
+        "costVirtualCoin": 3000,
+        "costJewel": 1000,
+        "startAt": 1689919200000
+      }
+    ],
+    "virtualShopType": "event"
+  },
+  {
+    "id": 208,
+    "seq": 208,
+    "name": "杏 BIRTHDAY",
+    "virtualShopItems": [
+      {
+        "id": 374,
+        "virtualShopId": 208,
+        "virtualShopItemType": "penlight",
+        "seq": 199876,
+        "resourceBoxId": 271,
+        "costPaidJewel": 1000,
+        "startAt": 1690178400000
+      }
+    ],
+    "virtualShopType": "birthday"
   }
 ]

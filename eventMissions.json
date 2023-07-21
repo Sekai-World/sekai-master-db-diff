@@ -2898,5 +2898,150 @@
         "resourceBoxId": 8001
       }
     ]
+  },
+  {
+    "id": 161,
+    "eventId": 101,
+    "seq": 1,
+    "eventMissionType": "live_clear_daily",
+    "eventMissionCategory": "normal",
+    "requirement1": 9,
+    "sentence": "累計9日ライブを1日1回クリアしよう。",
+    "rewards": [
+      {
+        "id": 6493,
+        "missionType": "event_mission",
+        "missionId": 161,
+        "seq": 1,
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 162,
+    "eventId": 101,
+    "seq": 2,
+    "eventMissionType": "any_live_clear",
+    "eventMissionCategory": "normal",
+    "requirement1": 50,
+    "sentence": "ライブを50回クリアしよう。",
+    "rewards": [
+      {
+        "id": 6494,
+        "missionType": "event_mission",
+        "missionId": 162,
+        "seq": 1,
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 163,
+    "eventId": 101,
+    "seq": 3,
+    "eventMissionType": "live_clear_full_combo",
+    "eventMissionCategory": "normal",
+    "requirement1": 10,
+    "sentence": "ライブで楽曲をフルコンボで10回クリアしよう。",
+    "rewards": [
+      {
+        "id": 6495,
+        "missionType": "event_mission",
+        "missionId": 163,
+        "seq": 1,
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 164,
+    "eventId": 101,
+    "seq": 4,
+    "eventMissionType": "live_clear_different_music",
+    "eventMissionCategory": "normal",
+    "requirement1": 10,
+    "requirement2": 1,
+    "sentence": "ライブで10種類の楽曲をクリアしよう。",
+    "rewards": [
+      {
+        "id": 6496,
+        "missionType": "event_mission",
+        "missionId": 164,
+        "seq": 1,
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 165,
+    "eventId": 101,
+    "seq": 5,
+    "eventMissionType": "read_last_event_story_episode",
+    "eventMissionCategory": "normal",
+    "requirement1": 1,
+    "sentence": "イベント「つなぐ、星の歌」のイベントストーリー第8話を読もう。",
+    "rewards": [
+      {
+        "id": 6497,
+        "missionType": "event_mission",
+        "missionId": 165,
+        "seq": 1,
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 166,
+    "eventId": 101,
+    "seq": 6,
+    "eventMissionType": "consume_event_item",
+    "eventMissionCategory": "normal",
+    "requirement1": 20000,
+    "sentence": "イベント「つなぐ、星の歌」の交換所でバッジを20000個消費しよう。",
+    "rewards": [
+      {
+        "id": 6498,
+        "missionType": "event_mission",
+        "missionId": 166,
+        "seq": 1,
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 167,
+    "eventId": 101,
+    "seq": 7,
+    "eventMissionType": "join_virtual_live",
+    "eventMissionCategory": "normal",
+    "requirement1": 1,
+    "sentence": "「つなぐ、星の歌 アフターライブ」に参加しよう。",
+    "rewards": [
+      {
+        "id": 6499,
+        "missionType": "event_mission",
+        "missionId": 167,
+        "seq": 1,
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 168,
+    "eventId": 101,
+    "seq": 8,
+    "eventMissionType": "achieve_event_mission",
+    "eventMissionCategory": "complete",
+    "requirement1": 7,
+    "sentence": "7つのミッションを全て達成しよう。",
+    "rewards": [
+      {
+        "id": 6500,
+        "missionType": "event_mission",
+        "missionId": 168,
+        "seq": 1,
+        "resourceBoxId": 8001
+      }
+    ]
   }
 ]
