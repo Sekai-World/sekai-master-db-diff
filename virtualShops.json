@@ -5340,5 +5340,81 @@
       }
     ],
     "virtualShopType": "birthday"
+  },
+  {
+    "id": 209,
+    "seq": 209,
+    "name": "「コネクトライブ ワンダーランズ×ショウタイム 1st STORIES」チケットショップ",
+    "virtualLiveId": 244,
+    "virtualShopItems": [
+      {
+        "id": 375,
+        "virtualShopId": 209,
+        "virtualShopItemType": "premium_virtual_live_ticket",
+        "seq": 299988,
+        "resourceBoxId": 272,
+        "costPaidJewel": 1980,
+        "startAt": 1690524000000,
+        "endAt": 1691333999000,
+        "limitValue": 3
+      },
+      {
+        "id": 376,
+        "virtualShopId": 209,
+        "virtualShopItemType": "premium_virtual_live_ticket",
+        "seq": 299989,
+        "resourceBoxId": 273,
+        "costPaidJewel": 3980,
+        "startAt": 1690524000000,
+        "endAt": 1691333999000,
+        "limitValue": 1
+      }
+    ],
+    "virtualShopType": "virtual_live_ticket"
+  },
+  {
+    "id": 210,
+    "seq": 210,
+    "name": "「コネクトライブ ワンダーランズ×ショウタイム 1st STORIES」グッズショップ",
+    "virtualLiveId": 244,
+    "virtualShopItems": [
+      {
+        "id": 377,
+        "virtualShopId": 210,
+        "virtualShopItemType": "costume",
+        "seq": 3,
+        "resourceBoxId": 274,
+        "costVirtualCoin": 3000,
+        "costJewel": 1000,
+        "startAt": 1690524000000,
+        "endAt": 1691474399000,
+        "limitValue": 1
+      },
+      {
+        "id": 378,
+        "virtualShopId": 210,
+        "virtualShopItemType": "costume",
+        "seq": 2,
+        "resourceBoxId": 275,
+        "costVirtualCoin": 3000,
+        "costJewel": 1000,
+        "startAt": 1690524000000,
+        "endAt": 1691474399000,
+        "limitValue": 1
+      },
+      {
+        "id": 379,
+        "virtualShopId": 210,
+        "virtualShopItemType": "accessory",
+        "seq": 1,
+        "resourceBoxId": 276,
+        "costVirtualCoin": 3000,
+        "costJewel": 1000,
+        "startAt": 1690524000000,
+        "endAt": 1691474399000,
+        "limitValue": 1
+      }
+    ],
+    "virtualShopType": "other"
   }
 ]
