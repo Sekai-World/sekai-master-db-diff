@@ -5416,5 +5416,39 @@
       }
     ],
     "virtualShopType": "other"
+  },
+  {
+    "id": 211,
+    "seq": 211,
+    "name": "第102回イベント物販",
+    "virtualShopItems": [
+      {
+        "id": 380,
+        "virtualShopId": 211,
+        "virtualShopItemType": "penlight",
+        "seq": 199875,
+        "resourceBoxId": 277,
+        "costPaidJewel": 1000,
+        "startAt": 1690783200000
+      }
+    ],
+    "virtualShopType": "event"
+  },
+  {
+    "id": 212,
+    "seq": 212,
+    "name": "一歌 BIRTHDAY",
+    "virtualShopItems": [
+      {
+        "id": 381,
+        "virtualShopId": 212,
+        "virtualShopItemType": "penlight",
+        "seq": 199874,
+        "resourceBoxId": 278,
+        "costPaidJewel": 1000,
+        "startAt": 1691560800000
+      }
+    ],
+    "virtualShopType": "birthday"
   }
 ]

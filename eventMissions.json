@@ -3043,5 +3043,150 @@
         "resourceBoxId": 8001
       }
     ]
+  },
+  {
+    "id": 169,
+    "eventId": 102,
+    "seq": 1,
+    "eventMissionType": "live_clear_daily",
+    "eventMissionCategory": "normal",
+    "requirement1": 9,
+    "sentence": "累計9日ライブを1日1回クリアしよう。",
+    "rewards": [
+      {
+        "id": 6501,
+        "missionType": "event_mission",
+        "missionId": 169,
+        "seq": 1,
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 170,
+    "eventId": 102,
+    "seq": 2,
+    "eventMissionType": "any_live_clear",
+    "eventMissionCategory": "normal",
+    "requirement1": 50,
+    "sentence": "ライブを50回クリアしよう。",
+    "rewards": [
+      {
+        "id": 6502,
+        "missionType": "event_mission",
+        "missionId": 170,
+        "seq": 1,
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 171,
+    "eventId": 102,
+    "seq": 3,
+    "eventMissionType": "live_clear_full_combo",
+    "eventMissionCategory": "normal",
+    "requirement1": 10,
+    "sentence": "ライブで楽曲をフルコンボで10回クリアしよう。",
+    "rewards": [
+      {
+        "id": 6503,
+        "missionType": "event_mission",
+        "missionId": 171,
+        "seq": 1,
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 172,
+    "eventId": 102,
+    "seq": 4,
+    "eventMissionType": "live_clear_different_music",
+    "eventMissionCategory": "normal",
+    "requirement1": 10,
+    "requirement2": 1,
+    "sentence": "ライブで10種類の楽曲をクリアしよう。",
+    "rewards": [
+      {
+        "id": 6504,
+        "missionType": "event_mission",
+        "missionId": 172,
+        "seq": 1,
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 173,
+    "eventId": 102,
+    "seq": 5,
+    "eventMissionType": "read_last_event_story_episode",
+    "eventMissionCategory": "normal",
+    "requirement1": 1,
+    "sentence": "イベント「ドタバタ cafe ●REC!!」のイベントストーリー第8話を読もう。",
+    "rewards": [
+      {
+        "id": 6505,
+        "missionType": "event_mission",
+        "missionId": 173,
+        "seq": 1,
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 174,
+    "eventId": 102,
+    "seq": 6,
+    "eventMissionType": "consume_event_item",
+    "eventMissionCategory": "normal",
+    "requirement1": 20000,
+    "sentence": "イベント「ドタバタ cafe ●REC!!」の交換所でバッジを20000個消費しよう。",
+    "rewards": [
+      {
+        "id": 6506,
+        "missionType": "event_mission",
+        "missionId": 174,
+        "seq": 1,
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 175,
+    "eventId": 102,
+    "seq": 7,
+    "eventMissionType": "join_virtual_live",
+    "eventMissionCategory": "normal",
+    "requirement1": 1,
+    "sentence": "「ドタバタ cafe ●REC!! アフターライブ」に参加しよう。",
+    "rewards": [
+      {
+        "id": 6507,
+        "missionType": "event_mission",
+        "missionId": 175,
+        "seq": 1,
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 176,
+    "eventId": 102,
+    "seq": 8,
+    "eventMissionType": "achieve_event_mission",
+    "eventMissionCategory": "complete",
+    "requirement1": 7,
+    "sentence": "7つのミッションを全て達成しよう。",
+    "rewards": [
+      {
+        "id": 6508,
+        "missionType": "event_mission",
+        "missionId": 176,
+        "seq": 1,
+        "resourceBoxId": 8001
+      }
+    ]
   }
 ]
