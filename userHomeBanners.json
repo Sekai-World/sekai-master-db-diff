@@ -1,27 +1,5 @@
 [
   {
-    "homeBannerId": 698,
-    "seq": 180,
-    "homeBannerType": "general",
-    "name": "[ガチャ]レオニ箱イベ14巡目_定常ガチャバナー",
-    "assetbundleName": "banner_gacha352",
-    "transitionDestinationType": "gacha",
-    "transitionDestinationId": 352,
-    "startAt": 1689908400000,
-    "endAt": 1690772399000
-  },
-  {
-    "homeBannerId": 699,
-    "seq": 170,
-    "homeBannerType": "event",
-    "name": "[イベント]レオニ箱イベ14巡目_イベントバナー",
-    "assetbundleName": "event_connect_2023",
-    "transitionDestinationType": "event",
-    "transitionDestinationId": 101,
-    "startAt": 1689919200000,
-    "endAt": 1690783199000
-  },
-  {
     "homeBannerId": 704,
     "seq": 90,
     "homeBannerType": "general",
@@ -42,5 +20,27 @@
     "transitionDestinationId": 244,
     "startAt": 1690524000000,
     "endAt": 1691247599000
+  },
+  {
+    "homeBannerId": 707,
+    "seq": 110,
+    "homeBannerType": "general",
+    "name": "[ガチャ]シャッフルダイナーイベ_定常ガチャバナー",
+    "assetbundleName": "banner_gacha356",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 356,
+    "startAt": 1690772400000,
+    "endAt": 1691636399000
+  },
+  {
+    "homeBannerId": 708,
+    "seq": 100,
+    "homeBannerType": "event",
+    "name": "[イベント]シャッフルダイナーイベ_イベントバナー",
+    "assetbundleName": "event_recording_2023",
+    "transitionDestinationType": "event",
+    "transitionDestinationId": 102,
+    "startAt": 1690783200000,
+    "endAt": 1691647199000
   }
 ]
