@@ -1,46 +1,35 @@
 [
   {
-    "homeBannerId": 704,
-    "seq": 90,
-    "homeBannerType": "general",
-    "name": "[ガチャ]ハピネスパッケージガチャ",
-    "assetbundleName": "banner_gacha355",
-    "transitionDestinationType": "gacha",
-    "transitionDestinationId": 355,
-    "startAt": 1690340400000,
-    "endAt": 1691117999000
-  },
-  {
-    "homeBannerId": 705,
-    "seq": 150,
-    "homeBannerType": "general",
-    "name": "コネクトライブ ワンダーランズ×ショウタイム 1st STORIESバナー",
-    "assetbundleName": "banner_connectlive_1st_wnd",
-    "transitionDestinationType": "virtual_live",
-    "transitionDestinationId": 244,
-    "startAt": 1690524000000,
-    "endAt": 1691247599000
-  },
-  {
-    "homeBannerId": 707,
+    "homeBannerId": 710,
     "seq": 110,
     "homeBannerType": "general",
-    "name": "[ガチャ]シャッフルダイナーイベ_定常ガチャバナー",
-    "assetbundleName": "banner_gacha356",
+    "name": "[ガチャ]ビビバス箱イベ14巡目_定常ガチャバナー",
+    "assetbundleName": "banner_gacha358",
     "transitionDestinationType": "gacha",
-    "transitionDestinationId": 356,
-    "startAt": 1690772400000,
-    "endAt": 1691636399000
+    "transitionDestinationId": 358,
+    "startAt": 1691636400000,
+    "endAt": 1692586799000
   },
   {
-    "homeBannerId": 708,
+    "homeBannerId": 711,
     "seq": 100,
     "homeBannerType": "event",
-    "name": "[イベント]シャッフルダイナーイベ_イベントバナー",
-    "assetbundleName": "event_recording_2023",
+    "name": "[イベント]ビビバス箱イベ14巡目_イベントバナー",
+    "assetbundleName": "event_onyourfeet_2023",
     "transitionDestinationType": "event",
-    "transitionDestinationId": 102,
-    "startAt": 1690783200000,
-    "endAt": 1691647199000
+    "transitionDestinationId": 103,
+    "startAt": 1691647200000,
+    "endAt": 1692597599000
+  },
+  {
+    "homeBannerId": 713,
+    "seq": 130,
+    "homeBannerType": "general",
+    "name": "[星乃一歌]HAPPY BIRTHDAY2023ガチャ",
+    "assetbundleName": "banner_gacha359",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 359,
+    "startAt": 1691679600000,
+    "endAt": 1691765999000
   }
 ]

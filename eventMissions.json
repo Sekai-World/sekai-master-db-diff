@@ -3188,5 +3188,150 @@
         "resourceBoxId": 8001
       }
     ]
+  },
+  {
+    "id": 177,
+    "eventId": 103,
+    "seq": 1,
+    "eventMissionType": "live_clear_daily",
+    "eventMissionCategory": "normal",
+    "requirement1": 10,
+    "sentence": "累計10日ライブを1日1回クリアしよう。",
+    "rewards": [
+      {
+        "id": 6709,
+        "missionType": "event_mission",
+        "missionId": 177,
+        "seq": 1,
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 178,
+    "eventId": 103,
+    "seq": 2,
+    "eventMissionType": "any_live_clear",
+    "eventMissionCategory": "normal",
+    "requirement1": 50,
+    "sentence": "ライブを50回クリアしよう。",
+    "rewards": [
+      {
+        "id": 6710,
+        "missionType": "event_mission",
+        "missionId": 178,
+        "seq": 1,
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 179,
+    "eventId": 103,
+    "seq": 3,
+    "eventMissionType": "live_clear_full_combo",
+    "eventMissionCategory": "normal",
+    "requirement1": 10,
+    "sentence": "ライブで楽曲をフルコンボで10回クリアしよう。",
+    "rewards": [
+      {
+        "id": 6711,
+        "missionType": "event_mission",
+        "missionId": 179,
+        "seq": 1,
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 180,
+    "eventId": 103,
+    "seq": 4,
+    "eventMissionType": "live_clear_different_music",
+    "eventMissionCategory": "normal",
+    "requirement1": 10,
+    "requirement2": 1,
+    "sentence": "ライブで10種類の楽曲をクリアしよう。",
+    "rewards": [
+      {
+        "id": 6712,
+        "missionType": "event_mission",
+        "missionId": 180,
+        "seq": 1,
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 181,
+    "eventId": 103,
+    "seq": 5,
+    "eventMissionType": "read_last_event_story_episode",
+    "eventMissionCategory": "normal",
+    "requirement1": 1,
+    "sentence": "イベント「On Your Feet」のイベントストーリー第8話を読もう。",
+    "rewards": [
+      {
+        "id": 6713,
+        "missionType": "event_mission",
+        "missionId": 181,
+        "seq": 1,
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 182,
+    "eventId": 103,
+    "seq": 6,
+    "eventMissionType": "consume_event_item",
+    "eventMissionCategory": "normal",
+    "requirement1": 20000,
+    "sentence": "イベント「On Your Feet」の交換所でバッジを20000個消費しよう。",
+    "rewards": [
+      {
+        "id": 6714,
+        "missionType": "event_mission",
+        "missionId": 182,
+        "seq": 1,
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 183,
+    "eventId": 103,
+    "seq": 7,
+    "eventMissionType": "join_virtual_live",
+    "eventMissionCategory": "normal",
+    "requirement1": 1,
+    "sentence": "「On Your Feet アフターライブ」に参加しよう。",
+    "rewards": [
+      {
+        "id": 6715,
+        "missionType": "event_mission",
+        "missionId": 183,
+        "seq": 1,
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 184,
+    "eventId": 103,
+    "seq": 8,
+    "eventMissionType": "achieve_event_mission",
+    "eventMissionCategory": "complete",
+    "requirement1": 7,
+    "sentence": "7つのミッションを全て達成しよう。",
+    "rewards": [
+      {
+        "id": 6716,
+        "missionType": "event_mission",
+        "missionId": 184,
+        "seq": 1,
+        "resourceBoxId": 8001
+      }
+    ]
   }
 ]
