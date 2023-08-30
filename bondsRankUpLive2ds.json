@@ -1628,5 +1628,35 @@
     "expression": "face_smile_02",
     "weight": 5,
     "defaultFlg": false
+  },
+  {
+    "id": 166,
+    "characterId": 26,
+    "unit": "school_refusal",
+    "assetbundleName": "voicepack_26",
+    "motion": "m-normal-pose01",
+    "expression": "face_night_normal_01",
+    "weight": 1,
+    "defaultFlg": true
+  },
+  {
+    "id": 167,
+    "characterId": 26,
+    "unit": "school_refusal",
+    "assetbundleName": "voicepack_26",
+    "motion": "m-normal-sigh01",
+    "expression": "face_night_stunned_01",
+    "weight": 10,
+    "defaultFlg": false
+  },
+  {
+    "id": 168,
+    "characterId": 26,
+    "unit": "school_refusal",
+    "assetbundleName": "voicepack_26",
+    "motion": "m-normal-tilthead03",
+    "expression": "face_night_normal_01",
+    "weight": 5,
+    "defaultFlg": false
   }
 ]
