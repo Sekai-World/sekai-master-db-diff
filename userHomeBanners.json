@@ -1,7 +1,7 @@
 [
   {
     "homeBannerId": 716,
-    "seq": 110,
+    "seq": 180,
     "homeBannerType": "general",
     "name": "[ガチャ]ワンダショ箱イベ14巡目_定常ガチャバナー",
     "assetbundleName": "banner_gacha362",
@@ -12,7 +12,7 @@
   },
   {
     "homeBannerId": 717,
-    "seq": 100,
+    "seq": 170,
     "homeBannerType": "event",
     "name": "[イベント]ワンダショ箱イベ14巡目_イベントバナー",
     "assetbundleName": "event_ourhappy_2023",
@@ -33,14 +33,14 @@
     "endAt": 1693882799000
   },
   {
-    "homeBannerId": 722,
+    "homeBannerId": 723,
     "seq": 130,
     "homeBannerType": "general",
-    "name": "[初音ミク]HAPPY ANNIVERSARYライブ",
-    "assetbundleName": "banner_virtuallive250",
-    "transitionDestinationType": "virtual_live",
-    "transitionDestinationId": 250,
-    "startAt": 1693288800000,
-    "endAt": 1693407599000
+    "name": "[初音ミク]HAPPY ANNIVERSARY2023ガチャ",
+    "assetbundleName": "banner_gacha366",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 366,
+    "startAt": 1693407600000,
+    "endAt": 1693493999000
   }
 ]
