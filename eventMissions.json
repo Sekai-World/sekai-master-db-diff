@@ -3623,5 +3623,150 @@
         "resourceBoxId": 8001
       }
     ]
+  },
+  {
+    "id": 201,
+    "eventId": 106,
+    "seq": 1,
+    "eventMissionType": "live_clear_daily",
+    "eventMissionCategory": "normal",
+    "requirement1": 10,
+    "sentence": "累計10日ライブを1日1回クリアしよう。",
+    "rewards": [
+      {
+        "id": 6933,
+        "missionType": "event_mission",
+        "missionId": 201,
+        "seq": 1,
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 202,
+    "eventId": 106,
+    "seq": 2,
+    "eventMissionType": "any_live_clear",
+    "eventMissionCategory": "normal",
+    "requirement1": 50,
+    "sentence": "ライブを50回クリアしよう。",
+    "rewards": [
+      {
+        "id": 6934,
+        "missionType": "event_mission",
+        "missionId": 202,
+        "seq": 1,
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 203,
+    "eventId": 106,
+    "seq": 3,
+    "eventMissionType": "live_clear_full_combo",
+    "eventMissionCategory": "normal",
+    "requirement1": 10,
+    "sentence": "ライブで楽曲をフルコンボで10回クリアしよう。",
+    "rewards": [
+      {
+        "id": 6935,
+        "missionType": "event_mission",
+        "missionId": 203,
+        "seq": 1,
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 204,
+    "eventId": 106,
+    "seq": 4,
+    "eventMissionType": "live_clear_different_music",
+    "eventMissionCategory": "normal",
+    "requirement1": 10,
+    "requirement2": 1,
+    "sentence": "ライブで10種類の楽曲をクリアしよう。",
+    "rewards": [
+      {
+        "id": 6936,
+        "missionType": "event_mission",
+        "missionId": 204,
+        "seq": 1,
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 205,
+    "eventId": 106,
+    "seq": 5,
+    "eventMissionType": "read_last_event_story_episode",
+    "eventMissionCategory": "normal",
+    "requirement1": 1,
+    "sentence": "イベント「君と紡ぐPrecious memories」のイベントストーリー第8話を読もう。",
+    "rewards": [
+      {
+        "id": 6937,
+        "missionType": "event_mission",
+        "missionId": 205,
+        "seq": 1,
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 206,
+    "eventId": 106,
+    "seq": 6,
+    "eventMissionType": "consume_event_item",
+    "eventMissionCategory": "normal",
+    "requirement1": 20000,
+    "sentence": "イベント「君と紡ぐPrecious memories」の交換所でバッジを20000個消費しよう。",
+    "rewards": [
+      {
+        "id": 6938,
+        "missionType": "event_mission",
+        "missionId": 206,
+        "seq": 1,
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 207,
+    "eventId": 106,
+    "seq": 7,
+    "eventMissionType": "join_virtual_live",
+    "eventMissionCategory": "normal",
+    "requirement1": 1,
+    "sentence": "「君と紡ぐPrecious memories アフターライブ」に参加しよう。",
+    "rewards": [
+      {
+        "id": 6939,
+        "missionType": "event_mission",
+        "missionId": 207,
+        "seq": 1,
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 208,
+    "eventId": 106,
+    "seq": 8,
+    "eventMissionType": "achieve_event_mission",
+    "eventMissionCategory": "complete",
+    "requirement1": 7,
+    "sentence": "7つのミッションを全て達成しよう。",
+    "rewards": [
+      {
+        "id": 6940,
+        "missionType": "event_mission",
+        "missionId": 208,
+        "seq": 1,
+        "resourceBoxId": 8001
+      }
+    ]
   }
 ]
