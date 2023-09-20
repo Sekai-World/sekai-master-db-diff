@@ -1,27 +1,5 @@
 [
   {
-    "homeBannerId": 728,
-    "seq": 110,
-    "homeBannerType": "general",
-    "name": "[ガチャ]シャッフル宮女イベ_定常ガチャバナー",
-    "assetbundleName": "banner_gacha372",
-    "transitionDestinationType": "gacha",
-    "transitionDestinationId": 372,
-    "startAt": 1694401200000,
-    "endAt": 1695178799000
-  },
-  {
-    "homeBannerId": 729,
-    "seq": 100,
-    "homeBannerType": "event",
-    "name": "[イベント]シャッフル宮女イベ_イベントバナー",
-    "assetbundleName": "event_preciousmemories_2023",
-    "transitionDestinationType": "event",
-    "transitionDestinationId": 106,
-    "startAt": 1694412000000,
-    "endAt": 1695189599000
-  },
-  {
     "homeBannerId": 730,
     "seq": 130,
     "homeBannerType": "general",
@@ -31,5 +9,27 @@
     "transitionDestinationId": 373,
     "startAt": 1694574000000,
     "endAt": 1695351599000
+  },
+  {
+    "homeBannerId": 731,
+    "seq": 110,
+    "homeBannerType": "general",
+    "name": "[ガチャ]シャッフル神高イベ_定常ガチャバナー",
+    "assetbundleName": "banner_gacha374",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 374,
+    "startAt": 1695178800000,
+    "endAt": 1696042799000
+  },
+  {
+    "homeBannerId": 732,
+    "seq": 100,
+    "homeBannerType": "event",
+    "name": "[イベント]シャッフル神高イベ_イベントバナー",
+    "assetbundleName": "event_study_2023",
+    "transitionDestinationType": "event",
+    "transitionDestinationId": 107,
+    "startAt": 1695189600000,
+    "endAt": 1696053599000
   }
 ]
