@@ -61,5 +61,47 @@
     "scoreCoefficient": 1.0,
     "damageBad": 40,
     "damageMiss": 40
+  },
+  {
+    "id": 10,
+    "ingameNoteType": "friction",
+    "scoreCoefficient": 1.0,
+    "damageBad": 40,
+    "damageMiss": 40
+  },
+  {
+    "id": 11,
+    "ingameNoteType": "friction_long",
+    "scoreCoefficient": 1.0,
+    "damageBad": 40,
+    "damageMiss": 40
+  },
+  {
+    "id": 12,
+    "ingameNoteType": "friction_flick",
+    "scoreCoefficient": 10.0,
+    "damageBad": 50,
+    "damageMiss": 80
+  },
+  {
+    "id": 13,
+    "ingameNoteType": "friction_critical",
+    "scoreCoefficient": 2.0,
+    "damageBad": 50,
+    "damageMiss": 80
+  },
+  {
+    "id": 14,
+    "ingameNoteType": "friction_long_critical",
+    "scoreCoefficient": 2.0,
+    "damageBad": 50,
+    "damageMiss": 80
+  },
+  {
+    "id": 15,
+    "ingameNoteType": "friction_flick_critical",
+    "scoreCoefficient": 30.0,
+    "damageBad": 50,
+    "damageMiss": 80
   }
 ]

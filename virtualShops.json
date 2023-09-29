@@ -5590,6 +5590,100 @@
     "virtualShopType": "event"
   },
   {
+    "id": 221,
+    "seq": 221,
+    "name": "第108回イベント物販",
+    "virtualShopItems": [
+      {
+        "id": 390,
+        "virtualShopId": 221,
+        "virtualShopItemType": "accessory",
+        "seq": 99894,
+        "resourceBoxId": 287,
+        "costVirtualCoin": 3000,
+        "costJewel": 1000,
+        "startAt": 1696053600000
+      }
+    ],
+    "virtualShopType": "event"
+  },
+  {
+    "id": 222,
+    "seq": 222,
+    "name": "「コネクトライブ 3rd ANNIVERSARY Memorial Stage」チケットショップ",
+    "virtualLiveId": 256,
+    "virtualShopItems": [
+      {
+        "id": 391,
+        "virtualShopId": 222,
+        "virtualShopItemType": "premium_virtual_live_ticket",
+        "seq": 299986,
+        "resourceBoxId": 288,
+        "costPaidJewel": 2980,
+        "startAt": 1696053600000,
+        "endAt": 1696777199000,
+        "limitValue": 2
+      },
+      {
+        "id": 392,
+        "virtualShopId": 222,
+        "virtualShopItemType": "premium_virtual_live_ticket",
+        "seq": 299987,
+        "resourceBoxId": 289,
+        "costPaidJewel": 5980,
+        "startAt": 1696053600000,
+        "endAt": 1696777199000,
+        "limitValue": 1
+      }
+    ],
+    "virtualShopType": "virtual_live_ticket"
+  },
+  {
+    "id": 223,
+    "seq": 223,
+    "name": "「コネクトライブ 3rd ANNIVERSARY Memorial Stage」グッズショップ",
+    "virtualLiveId": 256,
+    "virtualShopItems": [
+      {
+        "id": 393,
+        "virtualShopId": 223,
+        "virtualShopItemType": "costume",
+        "seq": 3,
+        "resourceBoxId": 290,
+        "costVirtualCoin": 3000,
+        "costJewel": 1000,
+        "startAt": 1696053600000,
+        "endAt": 1696917599000,
+        "limitValue": 1
+      },
+      {
+        "id": 394,
+        "virtualShopId": 223,
+        "virtualShopItemType": "costume",
+        "seq": 2,
+        "resourceBoxId": 291,
+        "costVirtualCoin": 3000,
+        "costJewel": 1000,
+        "startAt": 1696053600000,
+        "endAt": 1696917599000,
+        "limitValue": 1
+      },
+      {
+        "id": 395,
+        "virtualShopId": 223,
+        "virtualShopItemType": "accessory",
+        "seq": 1,
+        "resourceBoxId": 292,
+        "costVirtualCoin": 3000,
+        "costJewel": 1000,
+        "startAt": 1696053600000,
+        "endAt": 1696917599000,
+        "limitValue": 1
+      }
+    ],
+    "virtualShopType": "other"
+  },
+  {
     "id": 224,
     "seq": 224,
     "name": "アバターデザインコンテスト作品",
@@ -5636,5 +5730,22 @@
       }
     ],
     "virtualShopType": "other"
+  },
+  {
+    "id": 225,
+    "seq": 225,
+    "name": "遥 BIRTHDAY",
+    "virtualShopItems": [
+      {
+        "id": 400,
+        "virtualShopId": 225,
+        "virtualShopItemType": "coordinate",
+        "seq": 99847,
+        "resourceBoxId": 297,
+        "costPaidJewel": 1000,
+        "startAt": 1696312800000
+      }
+    ],
+    "virtualShopType": "birthday"
   }
 ]

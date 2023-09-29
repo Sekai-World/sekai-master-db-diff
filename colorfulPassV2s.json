@@ -11,7 +11,9 @@
     "dailyPaidGachaSpinLimit": 2,
     "dailyFreeGachaSpinLimit": 0,
     "weeklyColorfulPassGachaSpinLimit": 1,
-    "isPriorityForOfflineEventEntry": false
+    "isPriorityForOfflineEventEntry": false,
+    "virtualItemRelationGroupId": 1,
+    "virtualLiveCheerMessageRelationGroupId": 1
   },
   {
     "id": 2,
@@ -26,7 +28,9 @@
     "dailyFreeGachaSpinLimit": 0,
     "maxLiveBonusCount": 20,
     "weeklyColorfulPassGachaSpinLimit": 1,
-    "isPriorityForOfflineEventEntry": true
+    "isPriorityForOfflineEventEntry": true,
+    "virtualItemRelationGroupId": 2,
+    "virtualLiveCheerMessageRelationGroupId": 1
   },
   {
     "id": 3,
@@ -42,6 +46,8 @@
     "maxLiveBonusCount": 20,
     "maxAutoPlayCount": 99,
     "weeklyColorfulPassGachaSpinLimit": 1,
-    "isPriorityForOfflineEventEntry": true
+    "isPriorityForOfflineEventEntry": true,
+    "virtualItemRelationGroupId": 3,
+    "virtualLiveCheerMessageRelationGroupId": 1
   }
 ]

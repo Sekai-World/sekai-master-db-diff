@@ -781,5 +781,51 @@
         "rewardResourceBoxIds": []
       }
     ]
+  },
+  {
+    "id": 34,
+    "seq": 1,
+    "title": "3周年ムービー",
+    "assetbundleName": "special-story",
+    "startAt": 1695999600000,
+    "endAt": 1696085999000,
+    "episodes": [
+      {
+        "id": 39,
+        "specialStoryId": 34,
+        "episodeNo": 1,
+        "title": "3周年ムービー",
+        "specialStoryEpisodeType": "none",
+        "assetbundleName": "story_3rd_anniversary",
+        "scenarioId": "3rd_anniversary",
+        "releaseConditionId": 1,
+        "isAbleSkip": true,
+        "isActionSetRefresh": false,
+        "rewardResourceBoxIds": []
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "seq": 1,
+    "title": "3周年コネクトライブ前日ストーリー",
+    "assetbundleName": "connect-live-03-anv",
+    "startAt": 1696572000000,
+    "endAt": 1696766399000,
+    "episodes": [
+      {
+        "id": 40,
+        "specialStoryId": 35,
+        "episodeNo": 1,
+        "title": "3周年コネクトライブ前日ストーリー",
+        "specialStoryEpisodeType": "none",
+        "assetbundleName": "story_connect_live_03_anv",
+        "scenarioId": "connect_live_03_anv_01",
+        "releaseConditionId": 1,
+        "isAbleSkip": true,
+        "isActionSetRefresh": false,
+        "rewardResourceBoxIds": []
+      }
+    ]
   }
 ]

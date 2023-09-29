@@ -158,7 +158,7 @@
                 "missionId": 10101,
                 "seq": 1,
                 "resourceBoxId": 1349,
-                "worksheetVersion": "2.8.0.40"
+                "worksheetVersion": "3.0.0.10"
               }
             ]
           },
@@ -303,7 +303,7 @@
                 "missionId": 10102,
                 "seq": 1,
                 "resourceBoxId": 1350,
-                "worksheetVersion": "2.8.0.40"
+                "worksheetVersion": "3.0.0.10"
               }
             ]
           },
@@ -448,7 +448,7 @@
                 "missionId": 10103,
                 "seq": 1,
                 "resourceBoxId": 1351,
-                "worksheetVersion": "2.8.0.40"
+                "worksheetVersion": "3.0.0.10"
               }
             ]
           },
@@ -593,7 +593,7 @@
                 "missionId": 10104,
                 "seq": 1,
                 "resourceBoxId": 1352,
-                "worksheetVersion": "2.8.0.40"
+                "worksheetVersion": "3.0.0.10"
               }
             ]
           },
@@ -738,7 +738,7 @@
                 "missionId": 10105,
                 "seq": 1,
                 "resourceBoxId": 1353,
-                "worksheetVersion": "2.8.0.40"
+                "worksheetVersion": "3.0.0.10"
               }
             ]
           },
@@ -883,7 +883,7 @@
                 "missionId": 10106,
                 "seq": 1,
                 "resourceBoxId": 1354,
-                "worksheetVersion": "2.8.0.40"
+                "worksheetVersion": "3.0.0.10"
               }
             ]
           }
@@ -1037,7 +1037,7 @@
                 "missionId": 10201,
                 "seq": 1,
                 "resourceBoxId": 1355,
-                "worksheetVersion": "2.8.0.40"
+                "worksheetVersion": "3.0.0.10"
               }
             ]
           },
@@ -1183,7 +1183,7 @@
                 "missionId": 10202,
                 "seq": 1,
                 "resourceBoxId": 1356,
-                "worksheetVersion": "2.8.0.40"
+                "worksheetVersion": "3.0.0.10"
               }
             ]
           },
@@ -1329,7 +1329,7 @@
                 "missionId": 10203,
                 "seq": 1,
                 "resourceBoxId": 1357,
-                "worksheetVersion": "2.8.0.40"
+                "worksheetVersion": "3.0.0.10"
               }
             ]
           }
@@ -1483,7 +1483,7 @@
                 "missionId": 10301,
                 "seq": 1,
                 "resourceBoxId": 1358,
-                "worksheetVersion": "2.8.0.40"
+                "worksheetVersion": "3.0.0.10"
               }
             ]
           },
@@ -1628,7 +1628,7 @@
                 "missionId": 10302,
                 "seq": 1,
                 "resourceBoxId": 1359,
-                "worksheetVersion": "2.8.0.40"
+                "worksheetVersion": "3.0.0.10"
               }
             ]
           }
@@ -1782,7 +1782,7 @@
                 "missionId": 10401,
                 "seq": 1,
                 "resourceBoxId": 1360,
-                "worksheetVersion": "2.8.0.40"
+                "worksheetVersion": "3.0.0.10"
               }
             ]
           },
@@ -1928,7 +1928,7 @@
                 "missionId": 10402,
                 "seq": 1,
                 "resourceBoxId": 1361,
-                "worksheetVersion": "2.8.0.40"
+                "worksheetVersion": "3.0.0.10"
               }
             ]
           },
@@ -2074,7 +2074,2090 @@
                 "missionId": 10403,
                 "seq": 1,
                 "resourceBoxId": 1362,
-                "worksheetVersion": "2.8.0.40"
+                "worksheetVersion": "3.0.0.10"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "3周年記念スタンプミッション",
+    "assetbundleName": "3rd_anniv_pm",
+    "bgmAssetbundleName": "3rd_anniv_pm_bgm",
+    "selectableLimit": 3,
+    "startAt": 1695999600000,
+    "progressEndAt": 1697079599000,
+    "closedAt": 1697511599000,
+    "informationId": 3125,
+    "panelMissionSheetGroups": [
+      {
+        "id": 201,
+        "panelMissionCampaignId": 2,
+        "name": "ユニット",
+        "selectableLimit": 2,
+        "seq": 1,
+        "panelMissionSheets": [
+          {
+            "id": 20101,
+            "panelMissionSheetGroupId": 201,
+            "name": "「バーチャル・シンガー」プレシャスカード",
+            "seq": 1,
+            "assetbundleName": "sheet_piapro",
+            "panelMissions": [
+              {
+                "id": 2010101,
+                "panelMissionSheetId": 20101,
+                "name": "ユニットメンバー\nのみで10回ライブ",
+                "description": "バーチャル・シンガーメンバーのみで\nユニットを編成して10回ライブしよう。",
+                "seq": 1,
+                "panelMissionType": "unit_live_clear",
+                "requirement1": 10,
+                "rewards": [
+                  {
+                    "id": 6975,
+                    "missionType": "panel_mission",
+                    "missionId": 2010101,
+                    "seq": 1,
+                    "resourceBoxId": 9999
+                  }
+                ]
+              },
+              {
+                "id": 2010102,
+                "panelMissionSheetId": 20101,
+                "name": "応援アバター衣装で\nバーチャルライブに\n1回参加",
+                "description": "バーチャル・シンガーの「応援法被」またはメンバーの「サポーターシャツ」を着て、\nバーチャルライブに1回参加しよう。",
+                "seq": 2,
+                "panelMissionType": "unit_avatar_join_virtual_live",
+                "requirement1": 1,
+                "rewards": [
+                  {
+                    "id": 6976,
+                    "missionType": "panel_mission",
+                    "missionId": 2010102,
+                    "seq": 1,
+                    "resourceBoxId": 9999
+                  }
+                ]
+              },
+              {
+                "id": 2010103,
+                "panelMissionSheetId": 20101,
+                "name": "ユニットの楽曲で\n10回ライブ",
+                "description": "楽曲選択画面のバーチャル・シンガータブに\n含まれる楽曲で10回ライブしよう。",
+                "seq": 3,
+                "panelMissionType": "unit_live_clear_music",
+                "requirement1": 10,
+                "rewards": [
+                  {
+                    "id": 6977,
+                    "missionType": "panel_mission",
+                    "missionId": 2010103,
+                    "seq": 1,
+                    "resourceBoxId": 9999
+                  }
+                ]
+              },
+              {
+                "id": 2010104,
+                "panelMissionSheetId": 20101,
+                "name": "ユニットメンバーの\nアナザーボーカル\nver.で10回ライブ",
+                "description": "ボーカルにバーチャル・シンガーメンバーを含む\nアナザーボーカルver.で10回ライブしよう。",
+                "seq": 4,
+                "panelMissionType": "unit_live_clear_another_vocal",
+                "requirement1": 10,
+                "rewards": [
+                  {
+                    "id": 6978,
+                    "missionType": "panel_mission",
+                    "missionId": 2010104,
+                    "seq": 1,
+                    "resourceBoxId": 9999
+                  }
+                ]
+              },
+              {
+                "id": 2010105,
+                "panelMissionSheetId": 20101,
+                "name": "2人以上\nファン称号をつけて\n10回クリア",
+                "description": "2人以上がバーチャル・シンガーメンバーのファン称号をつけて\n「みんなでライブ・チアフルライブ」を10回クリアしよう。",
+                "seq": 5,
+                "panelMissionType": "unit_multi_live_clear_honor",
+                "requirement1": 10,
+                "rewards": [
+                  {
+                    "id": 6979,
+                    "missionType": "panel_mission",
+                    "missionId": 2010105,
+                    "seq": 1,
+                    "resourceBoxId": 9999
+                  }
+                ]
+              },
+              {
+                "id": 2010106,
+                "panelMissionSheetId": 20101,
+                "name": "ユニットメンバーの\nライブ衣装を\n4着獲得",
+                "description": "バーチャル・シンガーメンバーのライブ衣装を4着獲得しよう。",
+                "seq": 6,
+                "panelMissionType": "unit_collect_costume_3d",
+                "requirement1": 4,
+                "rewards": [
+                  {
+                    "id": 6980,
+                    "missionType": "panel_mission",
+                    "missionId": 2010106,
+                    "seq": 1,
+                    "resourceBoxId": 9999
+                  }
+                ]
+              },
+              {
+                "id": 2010107,
+                "panelMissionSheetId": 20101,
+                "name": "ユニットメンバーを\n10回迎える",
+                "description": "バーチャル・シンガーメンバーを10回迎えよう。",
+                "seq": 7,
+                "panelMissionType": "unit_collect_card",
+                "requirement1": 10,
+                "rewards": [
+                  {
+                    "id": 6981,
+                    "missionType": "panel_mission",
+                    "missionId": 2010107,
+                    "seq": 1,
+                    "resourceBoxId": 9999
+                  }
+                ]
+              }
+            ],
+            "rewards": [
+              {
+                "id": 7073,
+                "missionType": "panel_mission_complete",
+                "missionId": 20101,
+                "seq": 1,
+                "resourceBoxId": 1466,
+                "worksheetVersion": "3.0.0.10"
+              }
+            ]
+          },
+          {
+            "id": 20102,
+            "panelMissionSheetGroupId": 201,
+            "name": "「Leo\/need」プレシャスカード",
+            "seq": 2,
+            "assetbundleName": "sheet_light_sound",
+            "panelMissions": [
+              {
+                "id": 2010201,
+                "panelMissionSheetId": 20102,
+                "name": "ユニットメンバー\nのみで10回ライブ",
+                "description": "サブユニットを含むLeo\/needメンバーのみで\nユニットを編成して10回ライブしよう。",
+                "seq": 1,
+                "panelMissionType": "unit_live_clear",
+                "requirement1": 10,
+                "rewards": [
+                  {
+                    "id": 6982,
+                    "missionType": "panel_mission",
+                    "missionId": 2010201,
+                    "seq": 1,
+                    "resourceBoxId": 9999
+                  }
+                ]
+              },
+              {
+                "id": 2010202,
+                "panelMissionSheetId": 20102,
+                "name": "応援アバター衣装で\nバーチャルライブに\n1回参加",
+                "description": "Leo\/needの「応援法被」またはメンバーの「サポーターシャツ」を着て、\nバーチャルライブに1回参加しよう。",
+                "seq": 2,
+                "panelMissionType": "unit_avatar_join_virtual_live",
+                "requirement1": 1,
+                "rewards": [
+                  {
+                    "id": 6983,
+                    "missionType": "panel_mission",
+                    "missionId": 2010202,
+                    "seq": 1,
+                    "resourceBoxId": 9999
+                  }
+                ]
+              },
+              {
+                "id": 2010203,
+                "panelMissionSheetId": 20102,
+                "name": "ユニットの楽曲で\n10回ライブ",
+                "description": "楽曲選択画面のLeo\/needタブに\n含まれる楽曲で10回ライブしよう。",
+                "seq": 3,
+                "panelMissionType": "unit_live_clear_music",
+                "requirement1": 10,
+                "rewards": [
+                  {
+                    "id": 6984,
+                    "missionType": "panel_mission",
+                    "missionId": 2010203,
+                    "seq": 1,
+                    "resourceBoxId": 9999
+                  }
+                ]
+              },
+              {
+                "id": 2010204,
+                "panelMissionSheetId": 20102,
+                "name": "ユニットメンバーの\nアナザーボーカル\nver.で10回ライブ",
+                "description": "ボーカルにLeo\/needメンバーを含む\nアナザーボーカルver.で10回ライブしよう。",
+                "seq": 4,
+                "panelMissionType": "unit_live_clear_another_vocal",
+                "requirement1": 10,
+                "rewards": [
+                  {
+                    "id": 6985,
+                    "missionType": "panel_mission",
+                    "missionId": 2010204,
+                    "seq": 1,
+                    "resourceBoxId": 9999
+                  }
+                ]
+              },
+              {
+                "id": 2010205,
+                "panelMissionSheetId": 20102,
+                "name": "2人以上\nファン称号をつけて\n10回クリア",
+                "description": "2人以上がLeo\/needメンバーのファン称号をつけて\n「みんなでライブ・チアフルライブ」を10回クリアしよう。",
+                "seq": 5,
+                "panelMissionType": "unit_multi_live_clear_honor",
+                "requirement1": 10,
+                "rewards": [
+                  {
+                    "id": 6986,
+                    "missionType": "panel_mission",
+                    "missionId": 2010205,
+                    "seq": 1,
+                    "resourceBoxId": 9999
+                  }
+                ]
+              },
+              {
+                "id": 2010206,
+                "panelMissionSheetId": 20102,
+                "name": "ユニットメンバーの\nライブ衣装を\n4着獲得",
+                "description": "Leo\/needメンバーのライブ衣装を4着獲得しよう。",
+                "seq": 6,
+                "panelMissionType": "unit_collect_costume_3d",
+                "requirement1": 4,
+                "rewards": [
+                  {
+                    "id": 6987,
+                    "missionType": "panel_mission",
+                    "missionId": 2010206,
+                    "seq": 1,
+                    "resourceBoxId": 9999
+                  }
+                ]
+              },
+              {
+                "id": 2010207,
+                "panelMissionSheetId": 20102,
+                "name": "ユニットメンバーを\n10回迎える",
+                "description": "Leo\/needメンバーを10回迎えよう。",
+                "seq": 7,
+                "panelMissionType": "unit_collect_card",
+                "requirement1": 10,
+                "rewards": [
+                  {
+                    "id": 6988,
+                    "missionType": "panel_mission",
+                    "missionId": 2010207,
+                    "seq": 1,
+                    "resourceBoxId": 9999
+                  }
+                ]
+              }
+            ],
+            "rewards": [
+              {
+                "id": 7074,
+                "missionType": "panel_mission_complete",
+                "missionId": 20102,
+                "seq": 1,
+                "resourceBoxId": 1467,
+                "worksheetVersion": "3.0.0.10"
+              }
+            ]
+          },
+          {
+            "id": 20103,
+            "panelMissionSheetGroupId": 201,
+            "name": "「MORE MORE JUMP！」プレシャスカード",
+            "seq": 3,
+            "assetbundleName": "sheet_idol",
+            "panelMissions": [
+              {
+                "id": 2010301,
+                "panelMissionSheetId": 20103,
+                "name": "ユニットメンバー\nのみで10回ライブ",
+                "description": "サブユニットを含むMORE MORE JUMP！メンバーのみで\nユニットを編成して10回ライブしよう。",
+                "seq": 1,
+                "panelMissionType": "unit_live_clear",
+                "requirement1": 10,
+                "rewards": [
+                  {
+                    "id": 6989,
+                    "missionType": "panel_mission",
+                    "missionId": 2010301,
+                    "seq": 1,
+                    "resourceBoxId": 9999
+                  }
+                ]
+              },
+              {
+                "id": 2010302,
+                "panelMissionSheetId": 20103,
+                "name": "応援アバター衣装で\nバーチャルライブに\n1回参加",
+                "description": "MORE MORE JUMP！の「応援法被」またはメンバーの「サポーターシャツ」を着て、\nバーチャルライブに1回参加しよう。",
+                "seq": 2,
+                "panelMissionType": "unit_avatar_join_virtual_live",
+                "requirement1": 1,
+                "rewards": [
+                  {
+                    "id": 6990,
+                    "missionType": "panel_mission",
+                    "missionId": 2010302,
+                    "seq": 1,
+                    "resourceBoxId": 9999
+                  }
+                ]
+              },
+              {
+                "id": 2010303,
+                "panelMissionSheetId": 20103,
+                "name": "ユニットの楽曲で\n10回ライブ",
+                "description": "楽曲選択画面のMORE MORE JUMP！タブに\n含まれる楽曲で10回ライブしよう。",
+                "seq": 3,
+                "panelMissionType": "unit_live_clear_music",
+                "requirement1": 10,
+                "rewards": [
+                  {
+                    "id": 6991,
+                    "missionType": "panel_mission",
+                    "missionId": 2010303,
+                    "seq": 1,
+                    "resourceBoxId": 9999
+                  }
+                ]
+              },
+              {
+                "id": 2010304,
+                "panelMissionSheetId": 20103,
+                "name": "ユニットメンバーの\nアナザーボーカル\nver.で10回ライブ",
+                "description": "ボーカルにMORE MORE JUMP！メンバーを含む\nアナザーボーカルver.で10回ライブしよう。",
+                "seq": 4,
+                "panelMissionType": "unit_live_clear_another_vocal",
+                "requirement1": 10,
+                "rewards": [
+                  {
+                    "id": 6992,
+                    "missionType": "panel_mission",
+                    "missionId": 2010304,
+                    "seq": 1,
+                    "resourceBoxId": 9999
+                  }
+                ]
+              },
+              {
+                "id": 2010305,
+                "panelMissionSheetId": 20103,
+                "name": "2人以上\nファン称号をつけて\n10回クリア",
+                "description": "2人以上がMORE MORE JUMP！メンバーのファン称号をつけて\n「みんなでライブ・チアフルライブ」を10回クリアしよう。",
+                "seq": 5,
+                "panelMissionType": "unit_multi_live_clear_honor",
+                "requirement1": 10,
+                "rewards": [
+                  {
+                    "id": 6993,
+                    "missionType": "panel_mission",
+                    "missionId": 2010305,
+                    "seq": 1,
+                    "resourceBoxId": 9999
+                  }
+                ]
+              },
+              {
+                "id": 2010306,
+                "panelMissionSheetId": 20103,
+                "name": "ユニットメンバーの\nライブ衣装を\n4着獲得",
+                "description": "MORE MORE JUMP！メンバーのライブ衣装を4着獲得しよう。",
+                "seq": 6,
+                "panelMissionType": "unit_collect_costume_3d",
+                "requirement1": 4,
+                "rewards": [
+                  {
+                    "id": 6994,
+                    "missionType": "panel_mission",
+                    "missionId": 2010306,
+                    "seq": 1,
+                    "resourceBoxId": 9999
+                  }
+                ]
+              },
+              {
+                "id": 2010307,
+                "panelMissionSheetId": 20103,
+                "name": "ユニットメンバーを\n10回迎える",
+                "description": "MORE MORE JUMP！メンバーを10回迎えよう。",
+                "seq": 7,
+                "panelMissionType": "unit_collect_card",
+                "requirement1": 10,
+                "rewards": [
+                  {
+                    "id": 6995,
+                    "missionType": "panel_mission",
+                    "missionId": 2010307,
+                    "seq": 1,
+                    "resourceBoxId": 9999
+                  }
+                ]
+              }
+            ],
+            "rewards": [
+              {
+                "id": 7075,
+                "missionType": "panel_mission_complete",
+                "missionId": 20103,
+                "seq": 1,
+                "resourceBoxId": 1468,
+                "worksheetVersion": "3.0.0.10"
+              }
+            ]
+          },
+          {
+            "id": 20104,
+            "panelMissionSheetGroupId": 201,
+            "name": "「Vivid BAD SQUAD」プレシャスカード",
+            "seq": 4,
+            "assetbundleName": "sheet_street",
+            "panelMissions": [
+              {
+                "id": 2010401,
+                "panelMissionSheetId": 20104,
+                "name": "ユニットメンバー\nのみで10回ライブ",
+                "description": "サブユニットを含むVivid BAD SQUADメンバーのみで\nユニットを編成して10回ライブしよう。",
+                "seq": 1,
+                "panelMissionType": "unit_live_clear",
+                "requirement1": 10,
+                "rewards": [
+                  {
+                    "id": 6996,
+                    "missionType": "panel_mission",
+                    "missionId": 2010401,
+                    "seq": 1,
+                    "resourceBoxId": 9999
+                  }
+                ]
+              },
+              {
+                "id": 2010402,
+                "panelMissionSheetId": 20104,
+                "name": "応援アバター衣装で\nバーチャルライブに\n1回参加",
+                "description": "Vivid BAD SQUADの「応援法被」またはメンバーの「サポーターシャツ」を着て、\nバーチャルライブに1回参加しよう。",
+                "seq": 2,
+                "panelMissionType": "unit_avatar_join_virtual_live",
+                "requirement1": 1,
+                "rewards": [
+                  {
+                    "id": 6997,
+                    "missionType": "panel_mission",
+                    "missionId": 2010402,
+                    "seq": 1,
+                    "resourceBoxId": 9999
+                  }
+                ]
+              },
+              {
+                "id": 2010403,
+                "panelMissionSheetId": 20104,
+                "name": "ユニットの楽曲で\n10回ライブ",
+                "description": "楽曲選択画面のVivid BAD SQUADタブに\n含まれる楽曲で10回ライブしよう。",
+                "seq": 3,
+                "panelMissionType": "unit_live_clear_music",
+                "requirement1": 10,
+                "rewards": [
+                  {
+                    "id": 6998,
+                    "missionType": "panel_mission",
+                    "missionId": 2010403,
+                    "seq": 1,
+                    "resourceBoxId": 9999
+                  }
+                ]
+              },
+              {
+                "id": 2010404,
+                "panelMissionSheetId": 20104,
+                "name": "ユニットメンバーの\nアナザーボーカル\nver.で10回ライブ",
+                "description": "ボーカルにVivid BAD SQUADメンバーを含む\nアナザーボーカルver.で10回ライブしよう。",
+                "seq": 4,
+                "panelMissionType": "unit_live_clear_another_vocal",
+                "requirement1": 10,
+                "rewards": [
+                  {
+                    "id": 6999,
+                    "missionType": "panel_mission",
+                    "missionId": 2010404,
+                    "seq": 1,
+                    "resourceBoxId": 9999
+                  }
+                ]
+              },
+              {
+                "id": 2010405,
+                "panelMissionSheetId": 20104,
+                "name": "2人以上\nファン称号をつけて\n10回クリア",
+                "description": "2人以上がVivid BAD SQUADメンバーのファン称号をつけて\n「みんなでライブ・チアフルライブ」を10回クリアしよう。",
+                "seq": 5,
+                "panelMissionType": "unit_multi_live_clear_honor",
+                "requirement1": 10,
+                "rewards": [
+                  {
+                    "id": 7000,
+                    "missionType": "panel_mission",
+                    "missionId": 2010405,
+                    "seq": 1,
+                    "resourceBoxId": 9999
+                  }
+                ]
+              },
+              {
+                "id": 2010406,
+                "panelMissionSheetId": 20104,
+                "name": "ユニットメンバーの\nライブ衣装を\n4着獲得",
+                "description": "Vivid BAD SQUADメンバーのライブ衣装を4着獲得しよう。",
+                "seq": 6,
+                "panelMissionType": "unit_collect_costume_3d",
+                "requirement1": 4,
+                "rewards": [
+                  {
+                    "id": 7001,
+                    "missionType": "panel_mission",
+                    "missionId": 2010406,
+                    "seq": 1,
+                    "resourceBoxId": 9999
+                  }
+                ]
+              },
+              {
+                "id": 2010407,
+                "panelMissionSheetId": 20104,
+                "name": "ユニットメンバーを\n10回迎える",
+                "description": "Vivid BAD SQUADメンバーを10回迎えよう。",
+                "seq": 7,
+                "panelMissionType": "unit_collect_card",
+                "requirement1": 10,
+                "rewards": [
+                  {
+                    "id": 7002,
+                    "missionType": "panel_mission",
+                    "missionId": 2010407,
+                    "seq": 1,
+                    "resourceBoxId": 9999
+                  }
+                ]
+              }
+            ],
+            "rewards": [
+              {
+                "id": 7076,
+                "missionType": "panel_mission_complete",
+                "missionId": 20104,
+                "seq": 1,
+                "resourceBoxId": 1469,
+                "worksheetVersion": "3.0.0.10"
+              }
+            ]
+          },
+          {
+            "id": 20105,
+            "panelMissionSheetGroupId": 201,
+            "name": "「ワンダーランズ×ショウタイム」プレシャスカード",
+            "seq": 5,
+            "assetbundleName": "sheet_theme_park",
+            "panelMissions": [
+              {
+                "id": 2010501,
+                "panelMissionSheetId": 20105,
+                "name": "ユニットメンバー\nのみで10回ライブ",
+                "description": "サブユニットを含むワンダーランズ×ショウタイムメンバーのみで\nユニットを編成して10回ライブしよう。",
+                "seq": 1,
+                "panelMissionType": "unit_live_clear",
+                "requirement1": 10,
+                "rewards": [
+                  {
+                    "id": 7003,
+                    "missionType": "panel_mission",
+                    "missionId": 2010501,
+                    "seq": 1,
+                    "resourceBoxId": 9999
+                  }
+                ]
+              },
+              {
+                "id": 2010502,
+                "panelMissionSheetId": 20105,
+                "name": "応援アバター衣装で\nバーチャルライブに\n1回参加",
+                "description": "ワンダーランズ×ショウタイムの「応援法被」またはメンバーの「サポーターシャツ」を着て、\nバーチャルライブに1回参加しよう。",
+                "seq": 2,
+                "panelMissionType": "unit_avatar_join_virtual_live",
+                "requirement1": 1,
+                "rewards": [
+                  {
+                    "id": 7004,
+                    "missionType": "panel_mission",
+                    "missionId": 2010502,
+                    "seq": 1,
+                    "resourceBoxId": 9999
+                  }
+                ]
+              },
+              {
+                "id": 2010503,
+                "panelMissionSheetId": 20105,
+                "name": "ユニットの楽曲で\n10回ライブ",
+                "description": "楽曲選択画面のワンダーランズ×ショウタイムタブに\n含まれる楽曲で10回ライブしよう。",
+                "seq": 3,
+                "panelMissionType": "unit_live_clear_music",
+                "requirement1": 10,
+                "rewards": [
+                  {
+                    "id": 7005,
+                    "missionType": "panel_mission",
+                    "missionId": 2010503,
+                    "seq": 1,
+                    "resourceBoxId": 9999
+                  }
+                ]
+              },
+              {
+                "id": 2010504,
+                "panelMissionSheetId": 20105,
+                "name": "ユニットメンバーの\nアナザーボーカル\nver.で10回ライブ",
+                "description": "ボーカルにワンダーランズ×ショウタイムメンバーを含む\nアナザーボーカルver.で10回ライブしよう。",
+                "seq": 4,
+                "panelMissionType": "unit_live_clear_another_vocal",
+                "requirement1": 10,
+                "rewards": [
+                  {
+                    "id": 7006,
+                    "missionType": "panel_mission",
+                    "missionId": 2010504,
+                    "seq": 1,
+                    "resourceBoxId": 9999
+                  }
+                ]
+              },
+              {
+                "id": 2010505,
+                "panelMissionSheetId": 20105,
+                "name": "2人以上\nファン称号をつけて\n10回クリア",
+                "description": "2人以上がワンダーランズ×ショウタイムメンバーのファン称号をつけて\n「みんなでライブ・チアフルライブ」を10回クリアしよう。",
+                "seq": 5,
+                "panelMissionType": "unit_multi_live_clear_honor",
+                "requirement1": 10,
+                "rewards": [
+                  {
+                    "id": 7007,
+                    "missionType": "panel_mission",
+                    "missionId": 2010505,
+                    "seq": 1,
+                    "resourceBoxId": 9999
+                  }
+                ]
+              },
+              {
+                "id": 2010506,
+                "panelMissionSheetId": 20105,
+                "name": "ユニットメンバーの\nライブ衣装を\n4着獲得",
+                "description": "ワンダーランズ×ショウタイムメンバーのライブ衣装を4着獲得しよう。",
+                "seq": 6,
+                "panelMissionType": "unit_collect_costume_3d",
+                "requirement1": 4,
+                "rewards": [
+                  {
+                    "id": 7008,
+                    "missionType": "panel_mission",
+                    "missionId": 2010506,
+                    "seq": 1,
+                    "resourceBoxId": 9999
+                  }
+                ]
+              },
+              {
+                "id": 2010507,
+                "panelMissionSheetId": 20105,
+                "name": "ユニットメンバーを\n10回迎える",
+                "description": "ワンダーランズ×ショウタイムメンバーを10回迎えよう。",
+                "seq": 7,
+                "panelMissionType": "unit_collect_card",
+                "requirement1": 10,
+                "rewards": [
+                  {
+                    "id": 7009,
+                    "missionType": "panel_mission",
+                    "missionId": 2010507,
+                    "seq": 1,
+                    "resourceBoxId": 9999
+                  }
+                ]
+              }
+            ],
+            "rewards": [
+              {
+                "id": 7077,
+                "missionType": "panel_mission_complete",
+                "missionId": 20105,
+                "seq": 1,
+                "resourceBoxId": 1470,
+                "worksheetVersion": "3.0.0.10"
+              }
+            ]
+          },
+          {
+            "id": 20106,
+            "panelMissionSheetGroupId": 201,
+            "name": "「25時、ナイトコードで。」プレシャスカード",
+            "seq": 6,
+            "assetbundleName": "sheet_school_refusal",
+            "panelMissions": [
+              {
+                "id": 2010601,
+                "panelMissionSheetId": 20106,
+                "name": "ユニットメンバー\nのみで10回ライブ",
+                "description": "サブユニットを含む25時、ナイトコードで。メンバーのみで\nユニットを編成して10回ライブしよう。",
+                "seq": 1,
+                "panelMissionType": "unit_live_clear",
+                "requirement1": 10,
+                "rewards": [
+                  {
+                    "id": 7010,
+                    "missionType": "panel_mission",
+                    "missionId": 2010601,
+                    "seq": 1,
+                    "resourceBoxId": 9999
+                  }
+                ]
+              },
+              {
+                "id": 2010602,
+                "panelMissionSheetId": 20106,
+                "name": "応援アバター衣装で\nバーチャルライブに\n1回参加",
+                "description": "25時、ナイトコードで。の「応援法被」またはメンバーの「サポーターシャツ」を着て、\nバーチャルライブに1回参加しよう。",
+                "seq": 2,
+                "panelMissionType": "unit_avatar_join_virtual_live",
+                "requirement1": 1,
+                "rewards": [
+                  {
+                    "id": 7011,
+                    "missionType": "panel_mission",
+                    "missionId": 2010602,
+                    "seq": 1,
+                    "resourceBoxId": 9999
+                  }
+                ]
+              },
+              {
+                "id": 2010603,
+                "panelMissionSheetId": 20106,
+                "name": "ユニットの楽曲で\n10回ライブ",
+                "description": "楽曲選択画面の25時、ナイトコードで。タブに\n含まれる楽曲で10回ライブしよう。",
+                "seq": 3,
+                "panelMissionType": "unit_live_clear_music",
+                "requirement1": 10,
+                "rewards": [
+                  {
+                    "id": 7012,
+                    "missionType": "panel_mission",
+                    "missionId": 2010603,
+                    "seq": 1,
+                    "resourceBoxId": 9999
+                  }
+                ]
+              },
+              {
+                "id": 2010604,
+                "panelMissionSheetId": 20106,
+                "name": "ユニットメンバーの\nアナザーボーカル\nver.で10回ライブ",
+                "description": "ボーカルに25時、ナイトコードで。メンバーを含む\nアナザーボーカルver.で10回ライブしよう。",
+                "seq": 4,
+                "panelMissionType": "unit_live_clear_another_vocal",
+                "requirement1": 10,
+                "rewards": [
+                  {
+                    "id": 7013,
+                    "missionType": "panel_mission",
+                    "missionId": 2010604,
+                    "seq": 1,
+                    "resourceBoxId": 9999
+                  }
+                ]
+              },
+              {
+                "id": 2010605,
+                "panelMissionSheetId": 20106,
+                "name": "2人以上\nファン称号をつけて\n10回クリア",
+                "description": "2人以上が25時、ナイトコードで。メンバーのファン称号をつけて\n「みんなでライブ・チアフルライブ」を10回クリアしよう。",
+                "seq": 5,
+                "panelMissionType": "unit_multi_live_clear_honor",
+                "requirement1": 10,
+                "rewards": [
+                  {
+                    "id": 7014,
+                    "missionType": "panel_mission",
+                    "missionId": 2010605,
+                    "seq": 1,
+                    "resourceBoxId": 9999
+                  }
+                ]
+              },
+              {
+                "id": 2010606,
+                "panelMissionSheetId": 20106,
+                "name": "ユニットメンバーの\nライブ衣装を\n4着獲得",
+                "description": "25時、ナイトコードで。メンバーのライブ衣装を4着獲得しよう。",
+                "seq": 6,
+                "panelMissionType": "unit_collect_costume_3d",
+                "requirement1": 4,
+                "rewards": [
+                  {
+                    "id": 7015,
+                    "missionType": "panel_mission",
+                    "missionId": 2010606,
+                    "seq": 1,
+                    "resourceBoxId": 9999
+                  }
+                ]
+              },
+              {
+                "id": 2010607,
+                "panelMissionSheetId": 20106,
+                "name": "ユニットメンバーを\n10回迎える",
+                "description": "25時、ナイトコードで。メンバーを10回迎えよう。",
+                "seq": 7,
+                "panelMissionType": "unit_collect_card",
+                "requirement1": 10,
+                "rewards": [
+                  {
+                    "id": 7016,
+                    "missionType": "panel_mission",
+                    "missionId": 2010607,
+                    "seq": 1,
+                    "resourceBoxId": 9999
+                  }
+                ]
+              }
+            ],
+            "rewards": [
+              {
+                "id": 7078,
+                "missionType": "panel_mission_complete",
+                "missionId": 20106,
+                "seq": 1,
+                "resourceBoxId": 1471,
+                "worksheetVersion": "3.0.0.10"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 202,
+        "panelMissionCampaignId": 2,
+        "name": "プレイ",
+        "selectableLimit": 1,
+        "seq": 2,
+        "panelMissionSheets": [
+          {
+            "id": 20201,
+            "panelMissionSheetGroupId": 202,
+            "name": "カジュアルトライカード",
+            "seq": 1,
+            "assetbundleName": "sheet_casual_try",
+            "panelMissions": [
+              {
+                "id": 2020101,
+                "panelMissionSheetId": 20201,
+                "name": "「NEO」を\n1回クリア",
+                "description": "楽曲「NEO」を1回クリアしよう。",
+                "seq": 1,
+                "panelMissionType": "live_clear_in_music",
+                "requirement1": 1,
+                "rewards": [
+                  {
+                    "id": 7017,
+                    "missionType": "panel_mission",
+                    "missionId": 2020101,
+                    "seq": 1,
+                    "resourceBoxId": 9999
+                  }
+                ]
+              },
+              {
+                "id": 2020102,
+                "panelMissionSheetId": 20201,
+                "name": "みんなでライブ・\nチアフルライブを\n10回クリア",
+                "description": "「みんなでライブ・チアフルライブ」を10回クリアしよう。",
+                "seq": 2,
+                "panelMissionType": "multi_live_clear",
+                "requirement1": 10,
+                "rewards": [
+                  {
+                    "id": 7018,
+                    "missionType": "panel_mission",
+                    "missionId": 2020102,
+                    "seq": 1,
+                    "resourceBoxId": 9999
+                  }
+                ]
+              },
+              {
+                "id": 2020103,
+                "panelMissionSheetId": 20201,
+                "name": "特定メンバーを\nレベル50に育成",
+                "description": "メンバー「[新しい朝に向けて]小豆沢 こはね」を\nレベル50に育成しよう。",
+                "seq": 3,
+                "panelMissionType": "card_level_up",
+                "requirement1": 50,
+                "rewards": [
+                  {
+                    "id": 7019,
+                    "missionType": "panel_mission",
+                    "missionId": 2020103,
+                    "seq": 1,
+                    "resourceBoxId": 9999
+                  }
+                ]
+              },
+              {
+                "id": 2020104,
+                "panelMissionSheetId": 20201,
+                "name": "イベント「ハロー・\nグッド・デイ！」\n最終話を読む",
+                "description": "イベント「ハロー・グッド・デイ！」の\nイベントストーリー最終話を読もう。",
+                "seq": 4,
+                "panelMissionType": "read_event_story_episode",
+                "requirement1": 1,
+                "rewards": [
+                  {
+                    "id": 7020,
+                    "missionType": "panel_mission",
+                    "missionId": 2020104,
+                    "seq": 1,
+                    "resourceBoxId": 9999
+                  }
+                ]
+              },
+              {
+                "id": 2020105,
+                "panelMissionSheetId": 20201,
+                "name": "「ハロー・\nグッド・デイ！\nアフターライブ」\nに1回参加",
+                "description": "「ハロー・グッド・デイ！ アフターライブ」に1回参加しよう。",
+                "seq": 5,
+                "panelMissionType": "join_virtual_live",
+                "requirement1": 1,
+                "rewards": [
+                  {
+                    "id": 7021,
+                    "missionType": "panel_mission",
+                    "missionId": 2020105,
+                    "seq": 1,
+                    "resourceBoxId": 9999
+                  }
+                ]
+              },
+              {
+                "id": 2020106,
+                "panelMissionSheetId": 20201,
+                "name": "イベントP\n累計20万獲得",
+                "description": "イベント「ハロー・グッド・デイ！」で\nイベントPを累計20万獲得しよう。",
+                "seq": 6,
+                "panelMissionType": "collect_event_point",
+                "requirement1": 200000,
+                "rewards": [
+                  {
+                    "id": 7022,
+                    "missionType": "panel_mission",
+                    "missionId": 2020106,
+                    "seq": 1,
+                    "resourceBoxId": 9999
+                  }
+                ]
+              },
+              {
+                "id": 2020107,
+                "panelMissionSheetId": 20201,
+                "name": "「[3周年記念]\n10連無料ガチャ」\nを1回引く",
+                "description": "「[3周年記念]10連無料ガチャ」を1回引こう。",
+                "seq": 7,
+                "panelMissionType": "execute_gacha",
+                "requirement1": 1,
+                "rewards": [
+                  {
+                    "id": 7023,
+                    "missionType": "panel_mission",
+                    "missionId": 2020107,
+                    "seq": 1,
+                    "resourceBoxId": 9999
+                  }
+                ]
+              }
+            ],
+            "rewards": [
+              {
+                "id": 7079,
+                "missionType": "panel_mission_complete",
+                "missionId": 20201,
+                "seq": 1,
+                "resourceBoxId": 1472,
+                "worksheetVersion": "3.0.0.10"
+              }
+            ]
+          },
+          {
+            "id": 20202,
+            "panelMissionSheetGroupId": 202,
+            "name": "レギュラートライカード",
+            "seq": 2,
+            "assetbundleName": "sheet_regular_try",
+            "panelMissions": [
+              {
+                "id": 2020201,
+                "panelMissionSheetId": 20202,
+                "name": "「NEO」を\n10回クリア",
+                "description": "楽曲「NEO」を10回クリアしよう。",
+                "seq": 1,
+                "panelMissionType": "live_clear_in_music",
+                "requirement1": 10,
+                "rewards": [
+                  {
+                    "id": 7024,
+                    "missionType": "panel_mission",
+                    "missionId": 2020201,
+                    "seq": 1,
+                    "resourceBoxId": 9999
+                  }
+                ]
+              },
+              {
+                "id": 2020202,
+                "panelMissionSheetId": 20202,
+                "name": "5人全員\nフルコンボで\n1回クリア",
+                "description": "5人全員でフルコンボをして\n「みんなでライブ・チアフルライブ」を1回クリアしよう。",
+                "seq": 2,
+                "panelMissionType": "multi_live_clear_party_full_combo",
+                "requirement1": 1,
+                "rewards": [
+                  {
+                    "id": 7025,
+                    "missionType": "panel_mission",
+                    "missionId": 2020202,
+                    "seq": 1,
+                    "resourceBoxId": 9999
+                  }
+                ]
+              },
+              {
+                "id": 2020203,
+                "panelMissionSheetId": 20202,
+                "name": "「SUPER FEVER」\nを20回達成",
+                "description": "「みんなでライブ・チアフルライブ」で\n「SUPER FEVER」を20回達成しよう。",
+                "seq": 3,
+                "panelMissionType": "multi_live_clear_super_fever",
+                "requirement1": 20,
+                "rewards": [
+                  {
+                    "id": 7026,
+                    "missionType": "panel_mission",
+                    "missionId": 2020203,
+                    "seq": 1,
+                    "resourceBoxId": 9999
+                  }
+                ]
+              },
+              {
+                "id": 2020204,
+                "panelMissionSheetId": 20202,
+                "name": "午前と午後で\n各10回ライブ",
+                "description": "「00:00～11:59」「12:00～23:59」\nそれぞれの時間帯で各10回ライブしよう。",
+                "seq": 4,
+                "panelMissionType": "live_clear_am_pm",
+                "requirement1": 2,
+                "requirement2": 10,
+                "rewards": [
+                  {
+                    "id": 7027,
+                    "missionType": "panel_mission",
+                    "missionId": 2020204,
+                    "seq": 1,
+                    "resourceBoxId": 9999
+                  }
+                ]
+              },
+              {
+                "id": 2020205,
+                "panelMissionSheetId": 20202,
+                "name": "『MVP・\nSUPER STAR・\nACE』10回獲得",
+                "description": "「みんなでライブ・チアフルライブ」で\n『MVP・SUPER STAR・ACE』を累計10回獲得しよう。",
+                "seq": 5,
+                "panelMissionType": "multi_live_clear_top_score",
+                "requirement1": 10,
+                "rewards": [
+                  {
+                    "id": 7028,
+                    "missionType": "panel_mission",
+                    "missionId": 2020205,
+                    "seq": 1,
+                    "resourceBoxId": 9999
+                  }
+                ]
+              },
+              {
+                "id": 2020206,
+                "panelMissionSheetId": 20202,
+                "name": "イベントP\n累計100万獲得",
+                "description": "イベントPを累計100万獲得しよう。",
+                "seq": 6,
+                "panelMissionType": "collect_event_point",
+                "requirement1": 1000000,
+                "rewards": [
+                  {
+                    "id": 7029,
+                    "missionType": "panel_mission",
+                    "missionId": 2020206,
+                    "seq": 1,
+                    "resourceBoxId": 9999
+                  }
+                ]
+              },
+              {
+                "id": 2020207,
+                "panelMissionSheetId": 20202,
+                "name": "PERFECT判定を\n累計50000回\n獲得",
+                "description": "ライブでPERFECT判定を累計50000回獲得しよう。",
+                "seq": 7,
+                "panelMissionType": "get_live_perfect",
+                "requirement1": 50000,
+                "rewards": [
+                  {
+                    "id": 7030,
+                    "missionType": "panel_mission",
+                    "missionId": 2020207,
+                    "seq": 1,
+                    "resourceBoxId": 9999
+                  }
+                ]
+              }
+            ],
+            "rewards": [
+              {
+                "id": 7080,
+                "missionType": "panel_mission_complete",
+                "missionId": 20202,
+                "seq": 1,
+                "resourceBoxId": 1473,
+                "worksheetVersion": "3.0.0.10"
+              }
+            ]
+          },
+          {
+            "id": 20203,
+            "panelMissionSheetGroupId": 202,
+            "name": "アンリミテッドトライカード",
+            "seq": 3,
+            "assetbundleName": "sheet_unlimited_try",
+            "panelMissions": [
+              {
+                "id": 2020301,
+                "panelMissionSheetId": 20203,
+                "name": "みんなでライブ・\nチアフルライブを\nフレンド5人で10回クリア",
+                "description": "フレンド5人で「みんなでライブ・チアフルライブ」を\n10回クリアしよう。",
+                "seq": 1,
+                "panelMissionType": "multi_live_clear_with_friends",
+                "requirement1": 10,
+                "rewards": [
+                  {
+                    "id": 7031,
+                    "missionType": "panel_mission",
+                    "missionId": 2020301,
+                    "seq": 1,
+                    "resourceBoxId": 9999
+                  }
+                ]
+              },
+              {
+                "id": 2020302,
+                "panelMissionSheetId": 20203,
+                "name": "5人全員\nフルコンボで\n3回クリア",
+                "description": "5人全員でフルコンボをして\n「みんなでライブ・チアフルライブ」を3回クリアしよう。",
+                "seq": 2,
+                "panelMissionType": "multi_live_clear_party_full_combo",
+                "requirement1": 3,
+                "rewards": [
+                  {
+                    "id": 7032,
+                    "missionType": "panel_mission",
+                    "missionId": 2020302,
+                    "seq": 1,
+                    "resourceBoxId": 9999
+                  }
+                ]
+              },
+              {
+                "id": 2020303,
+                "panelMissionSheetId": 20203,
+                "name": "「SUPER FEVER」\nを50回達成",
+                "description": "「みんなでライブ・チアフルライブ」で\n「SUPER FEVER」を50回達成しよう。",
+                "seq": 3,
+                "panelMissionType": "multi_live_clear_super_fever",
+                "requirement1": 50,
+                "rewards": [
+                  {
+                    "id": 7033,
+                    "missionType": "panel_mission",
+                    "missionId": 2020303,
+                    "seq": 1,
+                    "resourceBoxId": 9999
+                  }
+                ]
+              },
+              {
+                "id": 2020304,
+                "panelMissionSheetId": 20203,
+                "name": "午前と午後で\n各30回ライブ",
+                "description": "「00:00～11:59」「12:00～23:59」\nそれぞれの時間帯で各30回ライブしよう。",
+                "seq": 4,
+                "panelMissionType": "live_clear_am_pm",
+                "requirement1": 2,
+                "requirement2": 30,
+                "rewards": [
+                  {
+                    "id": 7034,
+                    "missionType": "panel_mission",
+                    "missionId": 2020304,
+                    "seq": 1,
+                    "resourceBoxId": 9999
+                  }
+                ]
+              },
+              {
+                "id": 2020305,
+                "panelMissionSheetId": 20203,
+                "name": "『MVP・\nSUPER STAR・\nACE』30回獲得",
+                "description": "「みんなでライブ・チアフルライブ」で\n『MVP・SUPER STAR・ACE』を累計30回獲得しよう。",
+                "seq": 5,
+                "panelMissionType": "multi_live_clear_top_score",
+                "requirement1": 30,
+                "rewards": [
+                  {
+                    "id": 7035,
+                    "missionType": "panel_mission",
+                    "missionId": 2020305,
+                    "seq": 1,
+                    "resourceBoxId": 9999
+                  }
+                ]
+              },
+              {
+                "id": 2020306,
+                "panelMissionSheetId": 20203,
+                "name": "イベントP\n累計300万獲得",
+                "description": "イベントPを累計300万獲得しよう。",
+                "seq": 6,
+                "panelMissionType": "collect_event_point",
+                "requirement1": 3000000,
+                "rewards": [
+                  {
+                    "id": 7036,
+                    "missionType": "panel_mission",
+                    "missionId": 2020306,
+                    "seq": 1,
+                    "resourceBoxId": 9999
+                  }
+                ]
+              },
+              {
+                "id": 2020307,
+                "panelMissionSheetId": 20203,
+                "name": "PERFECT判定を\n累計200000回\n獲得",
+                "description": "ライブでPERFECT判定を累計200000回獲得しよう。",
+                "seq": 7,
+                "panelMissionType": "get_live_perfect",
+                "requirement1": 200000,
+                "rewards": [
+                  {
+                    "id": 7037,
+                    "missionType": "panel_mission",
+                    "missionId": 2020307,
+                    "seq": 1,
+                    "resourceBoxId": 9999
+                  }
+                ]
+              }
+            ],
+            "rewards": [
+              {
+                "id": 7081,
+                "missionType": "panel_mission_complete",
+                "missionId": 20203,
+                "seq": 1,
+                "resourceBoxId": 1474,
+                "worksheetVersion": "3.0.0.10"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 203,
+        "panelMissionCampaignId": 2,
+        "name": "ガチャ",
+        "selectableLimit": 1,
+        "seq": 3,
+        "panelMissionSheets": [
+          {
+            "id": 20301,
+            "panelMissionSheetGroupId": 203,
+            "name": "ゴールドセレクトカード",
+            "seq": 1,
+            "assetbundleName": "sheet_gold_select",
+            "panelMissions": [
+              {
+                "id": 2030101,
+                "panelMissionSheetId": 20301,
+                "name": "「カラフェス・\n期間限定ガチャ」\nを30回引く",
+                "description": "「[3周年記念]カラフルフェスティバルガチャ ドリームピック」\nまたは「Grow up with me！ガチャ」を30回引こう。",
+                "seq": 1,
+                "panelMissionType": "spin_gacha",
+                "requirement1": 30,
+                "rewards": [
+                  {
+                    "id": 7038,
+                    "missionType": "panel_mission",
+                    "missionId": 2030101,
+                    "seq": 1,
+                    "resourceBoxId": 9999
+                  }
+                ]
+              },
+              {
+                "id": 2030102,
+                "panelMissionSheetId": 20301,
+                "name": "「メモリアル\nセレクトガチャ」\nを1回引く",
+                "description": "「[3周年記念]メモリアルセレクトガチャ」を1回引こう。",
+                "seq": 2,
+                "panelMissionType": "execute_gacha",
+                "requirement1": 1,
+                "rewards": [
+                  {
+                    "id": 7039,
+                    "missionType": "panel_mission",
+                    "missionId": 2030102,
+                    "seq": 1,
+                    "resourceBoxId": 9999
+                  }
+                ]
+              },
+              {
+                "id": 2030103,
+                "panelMissionSheetId": 20301,
+                "name": "「プレミアム\nプレゼントガチャ」\nを1回引く",
+                "description": "「[3周年記念]プレミアムプレゼントガチャ」を1回引こう。",
+                "seq": 3,
+                "panelMissionType": "execute_gacha_tab",
+                "requirement1": 1,
+                "rewards": [
+                  {
+                    "id": 7040,
+                    "missionType": "panel_mission",
+                    "missionId": 2030103,
+                    "seq": 1,
+                    "resourceBoxId": 9999
+                  }
+                ]
+              },
+              {
+                "id": 2030104,
+                "panelMissionSheetId": 20301,
+                "name": "「[Brand \nNew World] \nアニバーサリー\nセット」を\n1種類購入",
+                "description": "クリスタルショップで\n「[Brand New World] アニバーサリーセット」を1種類購入しよう。",
+                "seq": 4,
+                "panelMissionType": "purchase_billing_shop_item_in_category",
+                "requirement1": 1,
+                "rewards": [
+                  {
+                    "id": 7041,
+                    "missionType": "panel_mission",
+                    "missionId": 2030104,
+                    "seq": 1,
+                    "resourceBoxId": 9999
+                  }
+                ]
+              },
+              {
+                "id": 2030105,
+                "panelMissionSheetId": 20301,
+                "name": "2023年10月\n「プレミアム\nミッションパス」\nを購入",
+                "description": "2023年10月の「プレミアムミッションパス」を購入しよう。",
+                "seq": 5,
+                "panelMissionType": "purchase_premium_mission_pass",
+                "requirement1": 1,
+                "rewards": [
+                  {
+                    "id": 7042,
+                    "missionType": "panel_mission",
+                    "missionId": 2030105,
+                    "seq": 1,
+                    "resourceBoxId": 9999
+                  }
+                ]
+              },
+              {
+                "id": 2030106,
+                "panelMissionSheetId": 20301,
+                "name": "応援ポイントを\n累計3000\nポイント達成",
+                "description": "バーチャルライブで応援ポイントを累計3000達成しよう。",
+                "seq": 6,
+                "panelMissionType": "collect_virtual_live_cheer_point",
+                "requirement1": 3000,
+                "rewards": [
+                  {
+                    "id": 7043,
+                    "missionType": "panel_mission",
+                    "missionId": 2030106,
+                    "seq": 1,
+                    "resourceBoxId": 9999
+                  }
+                ]
+              },
+              {
+                "id": 2030107,
+                "panelMissionSheetId": 20301,
+                "name": "コレクションBOXを\n累計10回開ける",
+                "description": "「コネクトライブ 3rd ANNIVERSARY Memorial Stage」の\nコレクションBOXを累計10回開けよう。",
+                "seq": 7,
+                "panelMissionType": "spin_custom_profile_gacha_tab",
+                "requirement1": 10,
+                "rewards": [
+                  {
+                    "id": 7044,
+                    "missionType": "panel_mission",
+                    "missionId": 2030107,
+                    "seq": 1,
+                    "resourceBoxId": 9999
+                  }
+                ]
+              }
+            ],
+            "rewards": [
+              {
+                "id": 7082,
+                "missionType": "panel_mission_complete",
+                "missionId": 20301,
+                "seq": 1,
+                "resourceBoxId": 1475,
+                "worksheetVersion": "3.0.0.10"
+              }
+            ]
+          },
+          {
+            "id": 20302,
+            "panelMissionSheetGroupId": 203,
+            "name": "ダイヤモンドセレクトカード",
+            "seq": 2,
+            "assetbundleName": "sheet_diamond_select",
+            "panelMissions": [
+              {
+                "id": 2030201,
+                "panelMissionSheetId": 20302,
+                "name": "「カラフェス・\n期間限定ガチャ」\nを100回引く　",
+                "description": "「[3周年記念]カラフルフェスティバルガチャ ドリームピック」\nまたは「Grow up with me！ガチャ」を100回引こう。",
+                "seq": 1,
+                "panelMissionType": "spin_gacha",
+                "requirement1": 100,
+                "rewards": [
+                  {
+                    "id": 7045,
+                    "missionType": "panel_mission",
+                    "missionId": 2030201,
+                    "seq": 1,
+                    "resourceBoxId": 9999
+                  }
+                ]
+              },
+              {
+                "id": 2030202,
+                "panelMissionSheetId": 20302,
+                "name": "「メモリアル\nセレクトガチャ」\nを1回引く",
+                "description": "「[3周年記念]メモリアルセレクトガチャ」を1回引こう。",
+                "seq": 2,
+                "panelMissionType": "execute_gacha",
+                "requirement1": 1,
+                "rewards": [
+                  {
+                    "id": 7046,
+                    "missionType": "panel_mission",
+                    "missionId": 2030202,
+                    "seq": 1,
+                    "resourceBoxId": 9999
+                  }
+                ]
+              },
+              {
+                "id": 2030203,
+                "panelMissionSheetId": 20302,
+                "name": "「プレミアム\nプレゼントガチャ」\nを2回引く",
+                "description": "「[3周年記念]プレミアムプレゼントガチャ」を2回引こう。",
+                "seq": 3,
+                "panelMissionType": "execute_gacha_tab",
+                "requirement1": 2,
+                "rewards": [
+                  {
+                    "id": 7047,
+                    "missionType": "panel_mission",
+                    "missionId": 2030203,
+                    "seq": 1,
+                    "resourceBoxId": 9999
+                  }
+                ]
+              },
+              {
+                "id": 2030204,
+                "panelMissionSheetId": 20302,
+                "name": "「[Brand \nNew World] \nアニバーサリー\nセット」を\n1種類購入",
+                "description": "クリスタルショップで\n「[Brand New World] アニバーサリーセット」を1種類購入しよう。",
+                "seq": 4,
+                "panelMissionType": "purchase_billing_shop_item_in_category",
+                "requirement1": 1,
+                "rewards": [
+                  {
+                    "id": 7048,
+                    "missionType": "panel_mission",
+                    "missionId": 2030204,
+                    "seq": 1,
+                    "resourceBoxId": 9999
+                  }
+                ]
+              },
+              {
+                "id": 2030205,
+                "panelMissionSheetId": 20302,
+                "name": "2023年10月\n「プレミアム\nミッションパス」\nを購入",
+                "description": "2023年10月の「プレミアムミッションパス」を購入しよう。",
+                "seq": 5,
+                "panelMissionType": "purchase_premium_mission_pass",
+                "requirement1": 1,
+                "rewards": [
+                  {
+                    "id": 7049,
+                    "missionType": "panel_mission",
+                    "missionId": 2030205,
+                    "seq": 1,
+                    "resourceBoxId": 9999
+                  }
+                ]
+              },
+              {
+                "id": 2030206,
+                "panelMissionSheetId": 20302,
+                "name": "「セレクトリスト\nガチャ \nLIMITED EDITION」\nを1回引く",
+                "description": "「[3周年記念]セレクトリストガチャ LIMITED EDITION」を\n1回引こう。",
+                "seq": 6,
+                "panelMissionType": "execute_gacha",
+                "requirement1": 1,
+                "rewards": [
+                  {
+                    "id": 7050,
+                    "missionType": "panel_mission",
+                    "missionId": 2030206,
+                    "seq": 1,
+                    "resourceBoxId": 9999
+                  }
+                ]
+              },
+              {
+                "id": 2030207,
+                "panelMissionSheetId": 20302,
+                "name": "コレクションBOX\nを累計30回開ける",
+                "description": "「コネクトライブ 3rd ANNIVERSARY Memorial Stage」の\nコレクションBOXを累計30回開けよう。",
+                "seq": 7,
+                "panelMissionType": "spin_custom_profile_gacha_tab",
+                "requirement1": 30,
+                "rewards": [
+                  {
+                    "id": 7051,
+                    "missionType": "panel_mission",
+                    "missionId": 2030207,
+                    "seq": 1,
+                    "resourceBoxId": 9999
+                  }
+                ]
+              }
+            ],
+            "rewards": [
+              {
+                "id": 7083,
+                "missionType": "panel_mission_complete",
+                "missionId": 20302,
+                "seq": 1,
+                "resourceBoxId": 1476,
+                "worksheetVersion": "3.0.0.10"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 204,
+        "panelMissionCampaignId": 2,
+        "name": "リズムゲーム",
+        "selectableLimit": 1,
+        "seq": 4,
+        "panelMissionSheets": [
+          {
+            "id": 20401,
+            "panelMissionSheetGroupId": 204,
+            "name": "ライトリズムカード",
+            "seq": 1,
+            "assetbundleName": "sheet_casual_gamer",
+            "panelMissions": [
+              {
+                "id": 2040101,
+                "panelMissionSheetId": 20401,
+                "name": "楽曲をフルコンボで\n10回クリア",
+                "description": "楽曲をフルコンボで10回クリアしよう。",
+                "seq": 1,
+                "panelMissionType": "live_clear_full_combo",
+                "requirement1": 10,
+                "rewards": [
+                  {
+                    "id": 7052,
+                    "missionType": "panel_mission",
+                    "missionId": 2040101,
+                    "seq": 1,
+                    "resourceBoxId": 9999
+                  }
+                ]
+              },
+              {
+                "id": 2040102,
+                "panelMissionSheetId": 20401,
+                "name": "ミラー譜面で\n3回クリア",
+                "description": "ミラー譜面で楽曲を3回クリアしよう。",
+                "seq": 2,
+                "panelMissionType": "live_clear_with_mirror",
+                "requirement1": 3,
+                "rewards": [
+                  {
+                    "id": 7053,
+                    "missionType": "panel_mission",
+                    "missionId": 2040102,
+                    "seq": 1,
+                    "resourceBoxId": 9999
+                  }
+                ]
+              },
+              {
+                "id": 2040103,
+                "panelMissionSheetId": 20401,
+                "name": "2DMV・\n原曲MVモードで\n3回ライブ",
+                "description": "2DMV・原曲MVモードで3回ライブをしよう。",
+                "seq": 3,
+                "panelMissionType": "live_clear_with_mv_2d_or_original",
+                "requirement1": 3,
+                "rewards": [
+                  {
+                    "id": 7054,
+                    "missionType": "panel_mission",
+                    "missionId": 2040103,
+                    "seq": 1,
+                    "resourceBoxId": 9999
+                  }
+                ]
+              },
+              {
+                "id": 2040104,
+                "panelMissionSheetId": 20401,
+                "name": "3DMVモードで\n3回ライブ",
+                "description": "3DMVモードで3回ライブをしよう。",
+                "seq": 4,
+                "panelMissionType": "live_clear_with_mv_3d",
+                "requirement1": 3,
+                "rewards": [
+                  {
+                    "id": 7055,
+                    "missionType": "panel_mission",
+                    "missionId": 2040104,
+                    "seq": 1,
+                    "resourceBoxId": 9999
+                  }
+                ]
+              },
+              {
+                "id": 2040105,
+                "panelMissionSheetId": 20401,
+                "name": "メンバーを\n1回スキルアップ",
+                "description": "メンバーを1回スキルアップしよう。",
+                "seq": 5,
+                "panelMissionType": "any_member_skill_up",
+                "requirement1": 1,
+                "rewards": [
+                  {
+                    "id": 7056,
+                    "missionType": "panel_mission",
+                    "missionId": 2040105,
+                    "seq": 1,
+                    "resourceBoxId": 9999
+                  }
+                ]
+              },
+              {
+                "id": 2040106,
+                "panelMissionSheetId": 20401,
+                "name": "ミュージックカードを\n20枚獲得",
+                "description": "ミュージックカードを20枚獲得しよう。",
+                "seq": 6,
+                "panelMissionType": "collect_material",
+                "requirement1": 20,
+                "rewards": [
+                  {
+                    "id": 7057,
+                    "missionType": "panel_mission",
+                    "missionId": 2040106,
+                    "seq": 1,
+                    "resourceBoxId": 9999
+                  }
+                ]
+              },
+              {
+                "id": 2040107,
+                "panelMissionSheetId": 20401,
+                "name": "3周年記念で\n追加された楽曲で\n10回ライブ",
+                "description": "3周年記念楽曲追加キャンペーンで追加された楽曲で\n10回ライブしよう。",
+                "seq": 7,
+                "panelMissionType": "live_clear_in_music_group",
+                "requirement1": 10,
+                "rewards": [
+                  {
+                    "id": 7058,
+                    "missionType": "panel_mission",
+                    "missionId": 2040107,
+                    "seq": 1,
+                    "resourceBoxId": 9999
+                  }
+                ]
+              }
+            ],
+            "rewards": [
+              {
+                "id": 7084,
+                "missionType": "panel_mission_complete",
+                "missionId": 20401,
+                "seq": 1,
+                "resourceBoxId": 1477,
+                "worksheetVersion": "3.0.0.10"
+              }
+            ]
+          },
+          {
+            "id": 20402,
+            "panelMissionSheetGroupId": 204,
+            "name": "チャレンジリズムカード",
+            "seq": 2,
+            "assetbundleName": "sheet_heavy_gamer",
+            "panelMissions": [
+              {
+                "id": 2040201,
+                "panelMissionSheetId": 20402,
+                "name": "Lv.27～28の楽曲を\nフルコンボで\n10回クリア",
+                "description": "楽曲Lv.27～28の楽曲をフルコンボで10回クリアしよう。\n（難易度APPENDも対象）",
+                "seq": 1,
+                "panelMissionType": "live_clear_full_combo_in_music_level",
+                "requirement1": 10,
+                "rewards": [
+                  {
+                    "id": 7059,
+                    "missionType": "panel_mission",
+                    "missionId": 2040201,
+                    "seq": 1,
+                    "resourceBoxId": 9999
+                  }
+                ]
+              },
+              {
+                "id": 2040202,
+                "panelMissionSheetId": 20402,
+                "name": "Lv.29の楽曲を\nフルコンボで\n10回クリア",
+                "description": "楽曲Lv.29の楽曲をフルコンボで10回クリアしよう。\n（難易度APPENDも対象）",
+                "seq": 2,
+                "panelMissionType": "live_clear_full_combo_in_music_level",
+                "requirement1": 10,
+                "rewards": [
+                  {
+                    "id": 7060,
+                    "missionType": "panel_mission",
+                    "missionId": 2040202,
+                    "seq": 1,
+                    "resourceBoxId": 9999
+                  }
+                ]
+              },
+              {
+                "id": 2040203,
+                "panelMissionSheetId": 20402,
+                "name": "Lv.30以上の楽曲を\n10回クリア",
+                "description": "楽曲Lv.30以上の楽曲を10回クリアしよう。\n（難易度APPENDも対象）",
+                "seq": 3,
+                "panelMissionType": "live_clear_in_music_level",
+                "requirement1": 10,
+                "rewards": [
+                  {
+                    "id": 7061,
+                    "missionType": "panel_mission",
+                    "missionId": 2040203,
+                    "seq": 1,
+                    "resourceBoxId": 9999
+                  }
+                ]
+              },
+              {
+                "id": 2040204,
+                "panelMissionSheetId": 20402,
+                "name": "EXPERT以上\nかつAPで\n3回クリア",
+                "description": "難易度EXPERT、MASTER、APPENDいずれかを\nALL PERFECTで楽曲を3回クリアしよう。",
+                "seq": 4,
+                "panelMissionType": "live_clear_all_perfect_in_music_difficulty",
+                "requirement1": 3,
+                "rewards": [
+                  {
+                    "id": 7062,
+                    "missionType": "panel_mission",
+                    "missionId": 2040204,
+                    "seq": 1,
+                    "resourceBoxId": 9999
+                  }
+                ]
+              },
+              {
+                "id": 2040205,
+                "panelMissionSheetId": 20402,
+                "name": "ランクマッチで\n30回ライブ",
+                "description": "「ランクマッチ」で30回ライブしよう。",
+                "seq": 5,
+                "panelMissionType": "live_clear_rank_match",
+                "requirement1": 30,
+                "rewards": [
+                  {
+                    "id": 7063,
+                    "missionType": "panel_mission",
+                    "missionId": 2040205,
+                    "seq": 1,
+                    "resourceBoxId": 9999
+                  }
+                ]
+              },
+              {
+                "id": 2040206,
+                "panelMissionSheetId": 20402,
+                "name": "3周年記念で\n追加された楽曲で\n30回ライブ",
+                "description": "3周年記念楽曲追加キャンペーンで追加された楽曲で\n30回ライブしよう。",
+                "seq": 6,
+                "panelMissionType": "live_clear_in_music_group",
+                "requirement1": 30,
+                "rewards": [
+                  {
+                    "id": 7064,
+                    "missionType": "panel_mission",
+                    "missionId": 2040206,
+                    "seq": 1,
+                    "resourceBoxId": 9999
+                  }
+                ]
+              },
+              {
+                "id": 2040207,
+                "panelMissionSheetId": 20402,
+                "name": "「NEO」の\n難易度5種類を\nフルコンボでクリア",
+                "description": "楽曲「NEO」の難易度のうち、5種類をフルコンボでクリアしよう。\n(EASY\/NORMAL\/HARD\/EXPERT\/MASTER\/APPENDが対象）",
+                "seq": 7,
+                "panelMissionType": "live_clear_full_combo_all_difficulty_in_music",
+                "requirement1": 5,
+                "requirement2": 1,
+                "rewards": [
+                  {
+                    "id": 7065,
+                    "missionType": "panel_mission",
+                    "missionId": 2040207,
+                    "seq": 1,
+                    "resourceBoxId": 9999
+                  }
+                ]
+              }
+            ],
+            "rewards": [
+              {
+                "id": 7085,
+                "missionType": "panel_mission_complete",
+                "missionId": 20402,
+                "seq": 1,
+                "resourceBoxId": 1478,
+                "worksheetVersion": "3.0.0.10"
+              }
+            ]
+          },
+          {
+            "id": 20403,
+            "panelMissionSheetGroupId": 204,
+            "name": "アルティメットリズムカード",
+            "seq": 3,
+            "assetbundleName": "sheet_pro",
+            "panelMissions": [
+              {
+                "id": 2040301,
+                "panelMissionSheetId": 20403,
+                "name": "Lv.30～31の楽曲を\nフルコンボで\n10回クリア",
+                "description": "楽曲Lv.30～31の楽曲をフルコンボで10回クリアしよう。\n（難易度APPENDも対象）",
+                "seq": 1,
+                "panelMissionType": "live_clear_full_combo_in_music_level",
+                "requirement1": 10,
+                "rewards": [
+                  {
+                    "id": 7066,
+                    "missionType": "panel_mission",
+                    "missionId": 2040301,
+                    "seq": 1,
+                    "resourceBoxId": 9999
+                  }
+                ]
+              },
+              {
+                "id": 2040302,
+                "panelMissionSheetId": 20403,
+                "name": "Lv.32の楽曲を\nフルコンボで\n10回クリア",
+                "description": "楽曲Lv.32の楽曲をフルコンボで10回クリアしよう。\n（難易度APPENDも対象）",
+                "seq": 2,
+                "panelMissionType": "live_clear_full_combo_in_music_level",
+                "requirement1": 10,
+                "rewards": [
+                  {
+                    "id": 7067,
+                    "missionType": "panel_mission",
+                    "missionId": 2040302,
+                    "seq": 1,
+                    "resourceBoxId": 9999
+                  }
+                ]
+              },
+              {
+                "id": 2040303,
+                "panelMissionSheetId": 20403,
+                "name": "Lv.33以上の楽曲を\n10回クリア",
+                "description": "楽曲Lv.33以上の楽曲を10回クリアしよう。\n（難易度APPENDも対象）",
+                "seq": 3,
+                "panelMissionType": "live_clear_in_music_level",
+                "requirement1": 10,
+                "rewards": [
+                  {
+                    "id": 7068,
+                    "missionType": "panel_mission",
+                    "missionId": 2040303,
+                    "seq": 1,
+                    "resourceBoxId": 9999
+                  }
+                ]
+              },
+              {
+                "id": 2040304,
+                "panelMissionSheetId": 20403,
+                "name": "MASTER以上\nかつAPで\n3回クリア",
+                "description": "難易度MASTER、APPENDいずれかを\nALL PERFECTで楽曲を3回クリアしよう。",
+                "seq": 4,
+                "panelMissionType": "live_clear_all_perfect_in_music_difficulty",
+                "requirement1": 3,
+                "rewards": [
+                  {
+                    "id": 7069,
+                    "missionType": "panel_mission",
+                    "missionId": 2040304,
+                    "seq": 1,
+                    "resourceBoxId": 9999
+                  }
+                ]
+              },
+              {
+                "id": 2040305,
+                "panelMissionSheetId": 20403,
+                "name": "ランクマッチで\n50回ライブ",
+                "description": "「ランクマッチ」で50回ライブしよう。",
+                "seq": 5,
+                "panelMissionType": "live_clear_rank_match",
+                "requirement1": 50,
+                "rewards": [
+                  {
+                    "id": 7070,
+                    "missionType": "panel_mission",
+                    "missionId": 2040305,
+                    "seq": 1,
+                    "resourceBoxId": 9999
+                  }
+                ]
+              },
+              {
+                "id": 2040306,
+                "panelMissionSheetId": 20403,
+                "name": "「初音ミクの激唱\n（FULL ver.）」を\nコンティニューせずクリア",
+                "description": "楽曲「初音ミクの激唱（FULL ver.）」を\nコンティニューせずクリアしよう。",
+                "seq": 6,
+                "panelMissionType": "live_clear_no_continue_in_music_and_difficulty",
+                "requirement1": 1,
+                "rewards": [
+                  {
+                    "id": 7071,
+                    "missionType": "panel_mission",
+                    "missionId": 2040306,
+                    "seq": 1,
+                    "resourceBoxId": 9999
+                  }
+                ]
+              },
+              {
+                "id": 2040307,
+                "panelMissionSheetId": 20403,
+                "name": "「NEO」の\n難易度5種類を\nAPでクリア",
+                "description": "楽曲「NEO」の難易度のうち、5種類をALL PERFECTでクリアしよう。\n(EASY\/NORMAL\/HARD\/EXPERT\/MASTER\/APPENDが対象）",
+                "seq": 7,
+                "panelMissionType": "live_clear_all_perfect_all_difficulty_in_music",
+                "requirement1": 5,
+                "requirement2": 1,
+                "rewards": [
+                  {
+                    "id": 7072,
+                    "missionType": "panel_mission",
+                    "missionId": 2040307,
+                    "seq": 1,
+                    "resourceBoxId": 9999
+                  }
+                ]
+              }
+            ],
+            "rewards": [
+              {
+                "id": 7086,
+                "missionType": "panel_mission_complete",
+                "missionId": 20403,
+                "seq": 1,
+                "resourceBoxId": 1479,
+                "worksheetVersion": "3.0.0.10"
               }
             ]
           }
