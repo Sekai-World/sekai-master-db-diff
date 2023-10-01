@@ -1,25 +1,14 @@
 [
   {
-    "homeBannerId": 731,
-    "seq": 180,
+    "homeBannerId": 740,
+    "seq": 10,
     "homeBannerType": "general",
-    "name": "[ガチャ]シャッフル神高イベ_定常ガチャバナー",
-    "assetbundleName": "banner_gacha374",
-    "transitionDestinationType": "gacha",
-    "transitionDestinationId": 374,
-    "startAt": 1695178800000,
-    "endAt": 1696042799000
-  },
-  {
-    "homeBannerId": 732,
-    "seq": 170,
-    "homeBannerType": "event",
-    "name": "[イベント]シャッフル神高イベ_イベントバナー",
-    "assetbundleName": "event_study_2023",
-    "transitionDestinationType": "event",
-    "transitionDestinationId": 107,
-    "startAt": 1695189600000,
-    "endAt": 1696053599000
+    "name": "アニメPV遷移リンクその1",
+    "assetbundleName": "banner_unit_anime_pv_01",
+    "transitionDestinationType": "web",
+    "startAt": 1696071600000,
+    "endAt": 1696172399000,
+    "url": "https:\/\/youtu.be\/UvFC3eYAF0c"
   },
   {
     "homeBannerId": 741,
@@ -44,6 +33,17 @@
     "endAt": 1697079599000
   },
   {
+    "homeBannerId": 743,
+    "seq": 50,
+    "homeBannerType": "general",
+    "name": "[3周年記念]カラフルフェスティバルガチャ ドリームピック",
+    "assetbundleName": "banner_gacha386",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 386,
+    "startAt": 1696042800000,
+    "endAt": 1696388399000
+  },
+  {
     "homeBannerId": 744,
     "seq": 160,
     "homeBannerType": "general",
@@ -53,5 +53,27 @@
     "transitionDestinationId": 385,
     "startAt": 1695999600000,
     "endAt": 1696359599000
+  },
+  {
+    "homeBannerId": 745,
+    "seq": 100,
+    "homeBannerType": "event",
+    "name": "[イベント]3周年シャッフルイベ_イベントバナー",
+    "assetbundleName": "event_hello_2023",
+    "transitionDestinationType": "event",
+    "transitionDestinationId": 108,
+    "startAt": 1696053600000,
+    "endAt": 1697090399000
+  },
+  {
+    "homeBannerId": 747,
+    "seq": 150,
+    "homeBannerType": "general",
+    "name": "コネクトライブ 3rd ANNIVERSARY Memorial Stageバナー",
+    "assetbundleName": "banner_connectlive_3rd_live_anv",
+    "transitionDestinationType": "virtual_live",
+    "transitionDestinationId": 256,
+    "startAt": 1696053600000,
+    "endAt": 1696690799000
   }
 ]
