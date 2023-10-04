@@ -33,17 +33,6 @@
     "endAt": 1696388399000
   },
   {
-    "homeBannerId": 744,
-    "seq": 160,
-    "homeBannerType": "general",
-    "name": "[ガチャ]ガチャ_無料10連ガチャバナー",
-    "assetbundleName": "banner_gacha385",
-    "transitionDestinationType": "gacha",
-    "transitionDestinationId": 385,
-    "startAt": 1695999600000,
-    "endAt": 1696359599000
-  },
-  {
     "homeBannerId": 745,
     "seq": 100,
     "homeBannerType": "event",
@@ -64,5 +53,16 @@
     "transitionDestinationId": 256,
     "startAt": 1696053600000,
     "endAt": 1696690799000
+  },
+  {
+    "homeBannerId": 749,
+    "seq": 130,
+    "homeBannerType": "general",
+    "name": "[桐谷遥]HAPPY BIRTHDAYライブ",
+    "assetbundleName": "banner_virtuallive257",
+    "transitionDestinationType": "virtual_live",
+    "transitionDestinationId": 257,
+    "startAt": 1696312800000,
+    "endAt": 1696431599000
   }
 ]
