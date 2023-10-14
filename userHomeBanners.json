@@ -1,46 +1,24 @@
 [
   {
-    "homeBannerId": 741,
-    "seq": 10,
-    "homeBannerType": "general",
-    "name": "[ガチャ]セレクトリストガチャ LIMITED EDITION",
-    "assetbundleName": "banner_gacha377",
-    "transitionDestinationType": "gacha",
-    "transitionDestinationId": 377,
-    "startAt": 1695999600000,
-    "endAt": 1697079599000
-  },
-  {
-    "homeBannerId": 742,
-    "seq": 80,
-    "homeBannerType": "general",
-    "name": "[ガチャ]ガチャ_プレプレガチャ全体バナー",
-    "assetbundleName": "banner_gacha_tab28",
-    "transitionDestinationType": "gacha_tab_parent",
-    "transitionDestinationId": 28,
-    "startAt": 1695999600000,
-    "endAt": 1697079599000
-  },
-  {
-    "homeBannerId": 745,
-    "seq": 100,
-    "homeBannerType": "event",
-    "name": "[イベント]3周年シャッフルイベ_イベントバナー",
-    "assetbundleName": "event_hello_2023",
-    "transitionDestinationType": "event",
-    "transitionDestinationId": 108,
-    "startAt": 1696053600000,
-    "endAt": 1697090399000
-  },
-  {
-    "homeBannerId": 746,
+    "homeBannerId": 751,
     "seq": 110,
     "homeBannerType": "general",
-    "name": "[ガチャ]3周年シャッフルイベ_定常ガチャバナー",
-    "assetbundleName": "banner_gacha388",
+    "name": "[ガチャ]ビビバス箱イベ15巡目_定常ガチャバナー",
+    "assetbundleName": "banner_gacha394",
     "transitionDestinationType": "gacha",
-    "transitionDestinationId": 388,
-    "startAt": 1696388400000,
-    "endAt": 1697079599000
+    "transitionDestinationId": 394,
+    "startAt": 1697079600000,
+    "endAt": 1697943599000
+  },
+  {
+    "homeBannerId": 752,
+    "seq": 100,
+    "homeBannerType": "event",
+    "name": "[イベント]ビビバス箱イベ15巡目_イベントバナー",
+    "assetbundleName": "event_burn_2023",
+    "transitionDestinationType": "event",
+    "transitionDestinationId": 109,
+    "startAt": 1697090400000,
+    "endAt": 1697954399000
   }
 ]
