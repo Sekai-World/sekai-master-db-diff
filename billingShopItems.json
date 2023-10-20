@@ -5103,5 +5103,39 @@
     "resourceBoxId": 248,
     "startAt": 1696086000000,
     "purchaseOption": "exchange"
+  },
+  {
+    "id": 300460,
+    "seq": 300465,
+    "billingShopItemType": "costume_3d",
+    "saleType": "single",
+    "name": "2023ハロウィン衣装セットA",
+    "description": "※このライブ衣装はレディース衣装を着用可能なキャラクターのみ使用できます。",
+    "billableLimitType": "count",
+    "billableLimitValue": 1,
+    "billableLimitResetIntervalType": "none",
+    "assetbundleName": "shop_300460",
+    "resourceBoxId": 254,
+    "label": "期間限定",
+    "startAt": 1698559200000,
+    "endAt": 1698818399000,
+    "purchaseOption": "exchange"
+  },
+  {
+    "id": 300461,
+    "seq": 300460,
+    "billingShopItemType": "costume_3d",
+    "saleType": "single",
+    "name": "2023ハロウィン衣装セットB",
+    "description": "※このライブ衣装はメンズ衣装を着用可能なキャラクターのみ使用できます。",
+    "billableLimitType": "count",
+    "billableLimitValue": 1,
+    "billableLimitResetIntervalType": "none",
+    "assetbundleName": "shop_300461",
+    "resourceBoxId": 255,
+    "label": "期間限定",
+    "startAt": 1698559200000,
+    "endAt": 1698818399000,
+    "purchaseOption": "exchange"
   }
 ]

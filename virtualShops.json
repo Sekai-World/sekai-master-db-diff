@@ -5765,5 +5765,40 @@
       }
     ],
     "virtualShopType": "event"
+  },
+  {
+    "id": 227,
+    "seq": 227,
+    "name": "第110回イベント物販",
+    "virtualShopItems": [
+      {
+        "id": 402,
+        "virtualShopId": 227,
+        "virtualShopItemType": "accessory",
+        "seq": 99892,
+        "resourceBoxId": 299,
+        "costVirtualCoin": 3000,
+        "costJewel": 1000,
+        "startAt": 1697954400000
+      }
+    ],
+    "virtualShopType": "event"
+  },
+  {
+    "id": 228,
+    "seq": 228,
+    "name": "穂波 BIRTHDAY",
+    "virtualShopItems": [
+      {
+        "id": 403,
+        "virtualShopId": 228,
+        "virtualShopItemType": "coordinate",
+        "seq": 99846,
+        "resourceBoxId": 300,
+        "costPaidJewel": 1000,
+        "startAt": 1698213600000
+      }
+    ],
+    "virtualShopType": "birthday"
   }
 ]

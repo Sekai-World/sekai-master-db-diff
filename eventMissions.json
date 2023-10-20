@@ -4203,5 +4203,150 @@
         "resourceBoxId": 8001
       }
     ]
+  },
+  {
+    "id": 233,
+    "eventId": 110,
+    "seq": 1,
+    "eventMissionType": "live_clear_daily",
+    "eventMissionCategory": "normal",
+    "requirement1": 8,
+    "sentence": "累計8日ライブを1日1回クリアしよう。",
+    "rewards": [
+      {
+        "id": 7303,
+        "missionType": "event_mission",
+        "missionId": 233,
+        "seq": 1,
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 234,
+    "eventId": 110,
+    "seq": 2,
+    "eventMissionType": "any_live_clear",
+    "eventMissionCategory": "normal",
+    "requirement1": 50,
+    "sentence": "ライブを50回クリアしよう。",
+    "rewards": [
+      {
+        "id": 7304,
+        "missionType": "event_mission",
+        "missionId": 234,
+        "seq": 1,
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 235,
+    "eventId": 110,
+    "seq": 3,
+    "eventMissionType": "live_clear_full_combo",
+    "eventMissionCategory": "normal",
+    "requirement1": 10,
+    "sentence": "ライブで楽曲をフルコンボで10回クリアしよう。",
+    "rewards": [
+      {
+        "id": 7305,
+        "missionType": "event_mission",
+        "missionId": 235,
+        "seq": 1,
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 236,
+    "eventId": 110,
+    "seq": 4,
+    "eventMissionType": "live_clear_different_music",
+    "eventMissionCategory": "normal",
+    "requirement1": 10,
+    "requirement2": 1,
+    "sentence": "ライブで10種類の楽曲をクリアしよう。",
+    "rewards": [
+      {
+        "id": 7306,
+        "missionType": "event_mission",
+        "missionId": 236,
+        "seq": 1,
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 237,
+    "eventId": 110,
+    "seq": 5,
+    "eventMissionType": "read_last_event_story_episode",
+    "eventMissionCategory": "normal",
+    "requirement1": 1,
+    "sentence": "イベント「Stick to your faith」のイベントストーリー第8話を読もう。",
+    "rewards": [
+      {
+        "id": 7307,
+        "missionType": "event_mission",
+        "missionId": 237,
+        "seq": 1,
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 238,
+    "eventId": 110,
+    "seq": 6,
+    "eventMissionType": "consume_event_item",
+    "eventMissionCategory": "normal",
+    "requirement1": 20000,
+    "sentence": "イベント「Stick to your faith」の交換所でバッジを20000個消費しよう。",
+    "rewards": [
+      {
+        "id": 7308,
+        "missionType": "event_mission",
+        "missionId": 238,
+        "seq": 1,
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 239,
+    "eventId": 110,
+    "seq": 7,
+    "eventMissionType": "join_virtual_live",
+    "eventMissionCategory": "normal",
+    "requirement1": 1,
+    "sentence": "「Stick to your faith アフターライブ」に参加しよう。",
+    "rewards": [
+      {
+        "id": 7309,
+        "missionType": "event_mission",
+        "missionId": 239,
+        "seq": 1,
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 240,
+    "eventId": 110,
+    "seq": 8,
+    "eventMissionType": "achieve_event_mission",
+    "eventMissionCategory": "complete",
+    "requirement1": 7,
+    "sentence": "7つのミッションを全て達成しよう。",
+    "rewards": [
+      {
+        "id": 7310,
+        "missionType": "event_mission",
+        "missionId": 240,
+        "seq": 1,
+        "resourceBoxId": 8001
+      }
+    ]
   }
 ]
