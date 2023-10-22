@@ -1,27 +1,5 @@
 [
   {
-    "homeBannerId": 751,
-    "seq": 180,
-    "homeBannerType": "general",
-    "name": "[ガチャ]ビビバス箱イベ15巡目_定常ガチャバナー",
-    "assetbundleName": "banner_gacha394",
-    "transitionDestinationType": "gacha",
-    "transitionDestinationId": 394,
-    "startAt": 1697079600000,
-    "endAt": 1697943599000
-  },
-  {
-    "homeBannerId": 752,
-    "seq": 170,
-    "homeBannerType": "event",
-    "name": "[イベント]ビビバス箱イベ15巡目_イベントバナー",
-    "assetbundleName": "event_burn_2023",
-    "transitionDestinationType": "event",
-    "transitionDestinationId": 109,
-    "startAt": 1697090400000,
-    "endAt": 1697954399000
-  },
-  {
     "homeBannerId": 754,
     "seq": 130,
     "homeBannerType": "general",
@@ -33,14 +11,25 @@
     "endAt": 1698116399000
   },
   {
-    "homeBannerId": 766,
-    "seq": 10,
+    "homeBannerId": 757,
+    "seq": 110,
     "homeBannerType": "general",
-    "name": "アニメPV遷移リンクその4",
-    "assetbundleName": "banner_unit_anime_pv_04",
-    "transitionDestinationType": "web",
-    "startAt": 1697886000000,
-    "endAt": 1697986799000,
-    "url": "https:\/\/youtu.be\/sM2PphbvUgQ"
+    "name": "[ガチャ]レオニ箱イベ15巡目_定常ガチャバナー",
+    "assetbundleName": "banner_gacha396",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 396,
+    "startAt": 1697943600000,
+    "endAt": 1698721199000
+  },
+  {
+    "homeBannerId": 758,
+    "seq": 100,
+    "homeBannerType": "event",
+    "name": "[イベント]レオニ箱イベ15巡目_イベントバナー",
+    "assetbundleName": "event_stickto_2023",
+    "transitionDestinationType": "event",
+    "transitionDestinationId": 110,
+    "startAt": 1697954400000,
+    "endAt": 1698731999000
   }
 ]
