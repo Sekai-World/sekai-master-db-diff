@@ -33,14 +33,24 @@
     "endAt": 1699066799000
   },
   {
-    "homeBannerId": 767,
-    "seq": 10,
+    "homeBannerId": 764,
+    "seq": 140,
     "homeBannerType": "general",
-    "name": "アニメPV遷移リンクその5",
-    "assetbundleName": "banner_unit_anime_pv_05",
-    "transitionDestinationType": "web",
-    "startAt": 1698490800000,
-    "endAt": 1698591599000,
-    "url": "https:\/\/youtu.be\/WF0qiNyTYF4"
+    "name": "ハロウィン2023ライブ",
+    "assetbundleName": "banner_virtuallive261",
+    "transitionDestinationType": "virtual_live",
+    "transitionDestinationId": 261,
+    "startAt": 1698559200000,
+    "endAt": 1698904799000
+  },
+  {
+    "homeBannerId": 765,
+    "seq": 190,
+    "homeBannerType": "general",
+    "name": "ハロウィン衣装販売",
+    "assetbundleName": "banner_shop_halloween_costume_2023",
+    "transitionDestinationType": "billing_shop_for_jewel",
+    "startAt": 1698559200000,
+    "endAt": 1698818399000
   }
 ]
