@@ -5800,5 +5800,40 @@
       }
     ],
     "virtualShopType": "birthday"
+  },
+  {
+    "id": 229,
+    "seq": 229,
+    "name": "第111回イベント物販",
+    "virtualShopItems": [
+      {
+        "id": 404,
+        "virtualShopId": 229,
+        "virtualShopItemType": "accessory",
+        "seq": 99891,
+        "resourceBoxId": 301,
+        "costVirtualCoin": 3000,
+        "costJewel": 1000,
+        "startAt": 1698732000000
+      }
+    ],
+    "virtualShopType": "event"
+  },
+  {
+    "id": 230,
+    "seq": 230,
+    "name": "MEIKO ANNIVERSARY",
+    "virtualShopItems": [
+      {
+        "id": 405,
+        "virtualShopId": 230,
+        "virtualShopItemType": "coordinate",
+        "seq": 99845,
+        "resourceBoxId": 302,
+        "costPaidJewel": 1000,
+        "startAt": 1698991200000
+      }
+    ],
+    "virtualShopType": "birthday"
   }
 ]
