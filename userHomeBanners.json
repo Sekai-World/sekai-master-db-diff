@@ -1,27 +1,5 @@
 [
   {
-    "homeBannerId": 757,
-    "seq": 110,
-    "homeBannerType": "general",
-    "name": "[ガチャ]レオニ箱イベ15巡目_定常ガチャバナー",
-    "assetbundleName": "banner_gacha396",
-    "transitionDestinationType": "gacha",
-    "transitionDestinationId": 396,
-    "startAt": 1697943600000,
-    "endAt": 1698721199000
-  },
-  {
-    "homeBannerId": 758,
-    "seq": 100,
-    "homeBannerType": "event",
-    "name": "[イベント]レオニ箱イベ15巡目_イベントバナー",
-    "assetbundleName": "event_stickto_2023",
-    "transitionDestinationType": "event",
-    "transitionDestinationId": 110,
-    "startAt": 1697954400000,
-    "endAt": 1698731999000
-  },
-  {
     "homeBannerId": 761,
     "seq": 90,
     "homeBannerType": "general",
@@ -52,5 +30,38 @@
     "transitionDestinationType": "billing_shop_for_jewel",
     "startAt": 1698559200000,
     "endAt": 1698818399000
+  },
+  {
+    "homeBannerId": 768,
+    "seq": 110,
+    "homeBannerType": "general",
+    "name": "[ガチャ]モモジャン箱イベ15巡目_定常ガチャバナー",
+    "assetbundleName": "banner_gacha401",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 401,
+    "startAt": 1698721200000,
+    "endAt": 1699412399000
+  },
+  {
+    "homeBannerId": 769,
+    "seq": 100,
+    "homeBannerType": "event",
+    "name": "[イベント]モモジャン箱イベ15巡目_イベントバナー",
+    "assetbundleName": "event_warmth_2023",
+    "transitionDestinationType": "event",
+    "transitionDestinationId": 111,
+    "startAt": 1698732000000,
+    "endAt": 1699441199000
+  },
+  {
+    "homeBannerId": 771,
+    "seq": 200,
+    "homeBannerType": "general",
+    "name": "セカライ3rdチケット申込みリマインド",
+    "assetbundleName": "banner_pjsekailive3rd_ticket_remind",
+    "transitionDestinationType": "web",
+    "startAt": 1698717600000,
+    "endAt": 1699109999000,
+    "url": "https:\/\/va.pia.jp\/index.jsp?slcd=VM144&n=1623231110"
   }
 ]
