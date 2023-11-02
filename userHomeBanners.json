@@ -22,16 +22,6 @@
     "endAt": 1698904799000
   },
   {
-    "homeBannerId": 765,
-    "seq": 190,
-    "homeBannerType": "general",
-    "name": "ハロウィン衣装販売",
-    "assetbundleName": "banner_shop_halloween_costume_2023",
-    "transitionDestinationType": "billing_shop_for_jewel",
-    "startAt": 1698559200000,
-    "endAt": 1698818399000
-  },
-  {
     "homeBannerId": 768,
     "seq": 110,
     "homeBannerType": "general",
@@ -63,5 +53,16 @@
     "startAt": 1698717600000,
     "endAt": 1699109999000,
     "url": "https:\/\/va.pia.jp\/index.jsp?slcd=VM144&n=1623231110"
+  },
+  {
+    "homeBannerId": 772,
+    "seq": 130,
+    "homeBannerType": "general",
+    "name": "[ガチャ]ワールドリンクイベントサポートガチャ",
+    "assetbundleName": "banner_gacha405",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 405,
+    "startAt": 1698807600000,
+    "endAt": 1699412399000
   }
 ]
