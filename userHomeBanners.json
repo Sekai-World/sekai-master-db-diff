@@ -1,16 +1,5 @@
 [
   {
-    "homeBannerId": 761,
-    "seq": 90,
-    "homeBannerType": "general",
-    "name": "[ガチャ]ハピネスパッケージガチャ",
-    "assetbundleName": "banner_gacha397",
-    "transitionDestinationType": "gacha",
-    "transitionDestinationId": 397,
-    "startAt": 1698289200000,
-    "endAt": 1699066799000
-  },
-  {
     "homeBannerId": 768,
     "seq": 110,
     "homeBannerType": "general",
@@ -33,17 +22,6 @@
     "endAt": 1699441199000
   },
   {
-    "homeBannerId": 771,
-    "seq": 200,
-    "homeBannerType": "general",
-    "name": "セカライ3rdチケット申込みリマインド",
-    "assetbundleName": "banner_pjsekailive3rd_ticket_remind",
-    "transitionDestinationType": "web",
-    "startAt": 1698717600000,
-    "endAt": 1699109999000,
-    "url": "https:\/\/va.pia.jp\/index.jsp?slcd=VM144&n=1623231110"
-  },
-  {
     "homeBannerId": 772,
     "seq": 130,
     "homeBannerType": "general",
@@ -55,14 +33,25 @@
     "endAt": 1699412399000
   },
   {
-    "homeBannerId": 773,
+    "homeBannerId": 774,
     "seq": 130,
     "homeBannerType": "general",
-    "name": "[MEIKO]HAPPY ANNIVERSARYライブ",
-    "assetbundleName": "banner_virtuallive263",
-    "transitionDestinationType": "virtual_live",
-    "transitionDestinationId": 263,
-    "startAt": 1698991200000,
-    "endAt": 1699109999000
+    "name": "[MEIKO]HAPPY ANNIVERSARY2023ガチャ",
+    "assetbundleName": "banner_gacha402",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 402,
+    "startAt": 1699110000000,
+    "endAt": 1699196399000
+  },
+  {
+    "homeBannerId": 775,
+    "seq": 30,
+    "homeBannerType": "general",
+    "name": "セカライ3rdチケット申込みリマインド",
+    "assetbundleName": "banner_pjsekailive3rd_ticket_remind",
+    "transitionDestinationType": "web",
+    "startAt": 1699110000000,
+    "endAt": 1699196399000,
+    "url": "https:\/\/va.pia.jp\/index.jsp?slcd=VM144&n=1623231110"
   }
 ]
