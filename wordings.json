@@ -220,6 +220,14 @@
     "value": "<color=#444466>と<\/color>{0}"
   },
   {
+    "wordingKey": "MSG_ANOTHER_3DMV_CUTIN_DETAIL_DIALOG_BODY",
+    "value": "このメンバーを編成して以下の楽曲をプレイすると\n3DMVの一部が特別なカットに変更された状態で再生されます。"
+  },
+  {
+    "wordingKey": "MSG_ANOTHER_3DMV_CUTIN_DETAIL_DIALOG_NOTES",
+    "value": "<color=#ff5588>※メンバーのマスターランクを2まで上げる必要があります。<\/color>"
+  },
+  {
     "wordingKey": "MSG_ANOTHER_COLOR_ACQUISITION_CONDITIONS_NL",
     "value": "「{0}　{1}」の\n<color=#FF3366>マスターランク<\/color>を上げると\nアナザーカラーが解放されます。"
   },
@@ -242,6 +250,10 @@
   {
     "wordingKey": "MSG_AROUND_MB",
     "value": "およそ{0}MB"
+  },
+  {
+    "wordingKey": "MSG_ATTENTION_CONTAINS_SUPPORT_DECK",
+    "value": "サポートユニットに編成されているメンバーが含まれています。\nメンバーをサポートユニットから外し、\nこのユニットをメインに設定します。\nよろしいですか？"
   },
   {
     "wordingKey": "MSG_AUTO_LIVE_NOT_ALLOWED",
@@ -406,6 +418,18 @@
   {
     "wordingKey": "MSG_CHANGE_DAY",
     "value": "日付が更新されました。\nタイトルに戻ります。"
+  },
+  {
+    "wordingKey": "MSG_CHAPTER_EPISODE_TITLE",
+    "value": "{0} {1}"
+  },
+  {
+    "wordingKey": "MSG_CHAPTER_EPISODE_TITLE2",
+    "value": "{0} のストーリー"
+  },
+  {
+    "wordingKey": "MSG_CHAPTER_RANKING_REWARD_HEAD_LINE",
+    "value": " のランキング報酬"
   },
   {
     "wordingKey": "MSG_CHARACTER_MISSION_RECEIVED_MISSION_DIALOG_BODY",
@@ -608,6 +632,14 @@
     "value": "このしおりを外しますか？"
   },
   {
+    "wordingKey": "MSG_CONFIRM_REMOVE_SUPPORT_DECK_ON_SELECT_MEMBER",
+    "value": "選択したメンバーはサポートユニットに編成されています。\nサポートユニットから外し、メインユニットに編成します。\nよろしいですか？"
+  },
+  {
+    "wordingKey": "MSG_CONFIRM_REMOVE_SUPPORT_MEMBER",
+    "value": "サポートユニットに編成されているメンバーが含まれています。\nメンバーをサポートユニットから外し、\nこのユニットでライブを開始します。\nよろしいですか？"
+  },
+  {
     "wordingKey": "MSG_CONFIRM_STREAMING_LIVE_ENTER_WITHOUT_TICKET",
     "value": "公演チケットを持っていないため\n「お試し入場」となります。\nよろしいですか？"
   },
@@ -622,6 +654,10 @@
   {
     "wordingKey": "MSG_CONSECUTIVE_AUTO_COLORFULPASS_EXPIRED",
     "value": "カラフルパス～PRECIOUS～の有効期限が切れたため、\nライブを中断しました。\n\n<color=#FF77AA>※中断するまでのライブリザルトは反映されています。<\/color>"
+  },
+  {
+    "wordingKey": "MSG_CONSECUTIVE_AUTO_EVENT_MAINTENANCE",
+    "value": "イベントメンテナンス中のため、\nオートライブを中断しました。\n\n<color=#FF77AA>※中断するまでのライブリザルトは反映されています。\n※メンテナンスに入ったあとのイベントP・チャプターバッジは獲得されていません。<\/color>"
   },
   {
     "wordingKey": "MSG_CONSECUTIVE_AUTO_LIVE_COMPLETE",
@@ -928,6 +964,10 @@
     "value": "イベント期間中は消費数を<color=#ff5599>最大{0}<\/color>まで設定できます。"
   },
   {
+    "wordingKey": "MSG_EVENT_MAINTENANCE_ON_GOING_DIALOG",
+    "value": "現在イベントメンテナンス中のため\nイベントP、イベントバッジを獲得することができません。\n\n\n※詳しくはゲーム内のお知らせをご確認ください。\n※イベントミッションは進行します。"
+  },
+  {
     "wordingKey": "MSG_EXCHANGED_LIVE_TICKET",
     "value": "{0}を購入しました。"
   },
@@ -970,6 +1010,10 @@
   {
     "wordingKey": "MSG_EXP",
     "value": "{0}EXP"
+  },
+  {
+    "wordingKey": "MSG_EXPIRED_SUPPORT_UNIT_EDIT",
+    "value": "サポートユニットの編成可能期間が終了しました。\nホームに戻ります。"
   },
   {
     "wordingKey": "MSG_EXP_FRONT_SIZE_FORMAT",
@@ -1232,6 +1276,10 @@
     "value": "<color=#ff5599>{0}<\/color>から\nライブボーナス×{1}をプレゼントされました。"
   },
   {
+    "wordingKey": "MSG_HAS_CUTIN",
+    "value": "アナザーカットあり"
+  },
+  {
     "wordingKey": "MSG_HIGH_SCORE_COMPLETE_REWARD",
     "value": "ハイスコア<color=#FF5599>{0}<\/color>の達成報酬"
   },
@@ -1257,7 +1305,7 @@
   },
   {
     "wordingKey": "MSG_INHERIT_LIMIT_START",
-    "value": "イベントランキング<color=#ff5588>300位以内<\/color>に到達しました。\n\nイベントの公平性を保つため、\nランキング<color=#ff5588>300位以内<\/color>に到達したプレイヤーは、\n該当イベント期間中、データ引き継ぎ回数が制限されます。\n\n制限期間：イベント終了（{0}）まで\n制限回数：あと{1}回\n\nご理解のほどよろしくお願いいたします。"
+    "value": "イベントランキング<color=#ff5588>300位<\/color>以内に到達しました。\n\nイベントの公平性を保つため、\nランキング<color=#ff5588>300位<\/color>以内に到達したプレイヤーは、\n該当イベント期間中、データ引き継ぎ回数が制限されます。\n\n制限期間：イベント終了（{0}）まで\n制限回数：あと{1}回\n\nご理解のほどよろしくお願いいたします。"
   },
   {
     "wordingKey": "MSG_INHERIT_LIMT_REST",
@@ -1402,6 +1450,10 @@
   {
     "wordingKey": "MSG_LIVE_MISSION_NOT_HELD",
     "value": "現在、ライブミッションは開催していません。"
+  },
+  {
+    "wordingKey": "MSG_LIVE_RESULT_EVENT_MAINTENANCE",
+    "value": "イベントメンテナンス中のため、イベントPとバッジは獲得できませんでした。\n詳しくはお知らせをご確認ください。"
   },
   {
     "wordingKey": "MSG_LIVE_SKIP_BODY",
@@ -1732,6 +1784,10 @@
     "value": "通信に失敗しました。"
   },
   {
+    "wordingKey": "MSG_NEXT_EPISODE_RELEASE_DATE_AT",
+    "value": "{0}のストーリー\n<color=#ff77AA>{1:MM\/dd HH:mm} 解放<\/color>"
+  },
+  {
     "wordingKey": "MSG_NGWORD_BALLOON",
     "value": "使用できないワードが含まれています"
   },
@@ -1988,6 +2044,10 @@
     "value": "1回限定"
   },
   {
+    "wordingKey": "MSG_ON_GOING_EVENT_MAINTENANCE",
+    "value": "イベントメンテナンス中です。"
+  },
+  {
     "wordingKey": "MSG_OTHER_UNIT",
     "value": "他のユニット"
   },
@@ -2128,6 +2188,30 @@
     "value": "他のプレイヤーと一緒にライブ"
   },
   {
+    "wordingKey": "MSG_RANKING_CHAPTER_1",
+    "value": "チャプター１\nランキング"
+  },
+  {
+    "wordingKey": "MSG_RANKING_CHAPTER_2",
+    "value": "チャプター２\nランキング"
+  },
+  {
+    "wordingKey": "MSG_RANKING_CHAPTER_3",
+    "value": "チャプター３\nランキング"
+  },
+  {
+    "wordingKey": "MSG_RANKING_CHAPTER_4",
+    "value": "チャプター４\nランキング"
+  },
+  {
+    "wordingKey": "MSG_RANKING_CHAPTER_5",
+    "value": "チャプター５\nランキング"
+  },
+  {
+    "wordingKey": "MSG_RANKING_CHAPTER_6",
+    "value": "チャプター６\nランキング"
+  },
+  {
     "wordingKey": "MSG_RANKING_COUTING",
     "value": "ランキング集計中です。"
   },
@@ -2212,6 +2296,14 @@
     "value": "獲得しました。"
   },
   {
+    "wordingKey": "MSG_RECEIVED_HAIRSTYLE",
+    "value": "ヘアスタイルを獲得しました。"
+  },
+  {
+    "wordingKey": "MSG_RECEIVED_LIVE_COSTUME",
+    "value": "ライブ衣装を獲得しました。\n<color=#ff77AA>衣装ショップで他キャラクターにも制作できるようになりました。<\/color>"
+  },
+  {
     "wordingKey": "MSG_RECEIVED_LOGIN_BONUS",
     "value": "報酬を獲得しました。"
   },
@@ -2226,6 +2318,10 @@
   {
     "wordingKey": "MSG_RECEIVE_EVENT_MISSION_EXPIRED_REWARD",
     "value": "未受け取り分のボーナスミッション報酬を獲得しました。"
+  },
+  {
+    "wordingKey": "MSG_RECOMMEND_SUPPORT_DECK",
+    "value": "メインユニットに編成されていない対象メンバーを、\nサポートボーナスが高い順に編成します。\nよろしいですか？"
   },
   {
     "wordingKey": "MSG_RECONNCT",
@@ -2604,6 +2700,22 @@
     "value": "※開演時間は予定で、前後する可能性があります。"
   },
   {
+    "wordingKey": "MSG_SUPPORT_DECK_RESET",
+    "value": "選択中のタブのサポートユニットをリセットします。\nよろしいですか？"
+  },
+  {
+    "wordingKey": "MSG_SUPPORT_MEMBER_CONFIRM_DIALOG_1",
+    "value": "サポートユニットに編成されているメンバーが含まれています。\nメンバーをサポートユニットから外し、\nこのユニットでライブを開始します。\nよろしいですか？"
+  },
+  {
+    "wordingKey": "MSG_SUPPORT_MEMBER_CONFIRM_DIALOG_2",
+    "value": "サポートユニットに編成されているメンバーが含まれています。\nメンバーをサポートユニットから外し、\nこのユニットをメインに設定します。\nよろしいですか？"
+  },
+  {
+    "wordingKey": "MSG_SUPPORT_MEMBER_CONFIRM_DIALOG_3",
+    "value": "サポートユニットに編成されているメンバーが含まれています。\nメンバーをサポートユニットから外し、\nこのユニットをメインに設定します。\nよろしいですか？"
+  },
+  {
     "wordingKey": "MSG_TAP_TO_COMMUNITY_REPORT",
     "value": "通報"
   },
@@ -2669,7 +2781,7 @@
   },
   {
     "wordingKey": "MSG_UNLOCK_EVENTSTORY_BODY",
-    "value": "イベントストーリー\n「{0}」が解放されました。"
+    "value": "イベントストーリー 第{0}話\n「{1}」が解放されました。"
   },
   {
     "wordingKey": "MSG_UNLOCK_FROM_BUY_PREMIUM",
@@ -2682,6 +2794,10 @@
   {
     "wordingKey": "MSG_UNLOCK_WITH_OVER_TOTAL_POWER",
     "value": "総合力{0}以上で解放\/<color={1}>現在{2}<\/color>"
+  },
+  {
+    "wordingKey": "MSG_UNLOCK_WORLD_BLOOM_EVENTSTORY_BODY",
+    "value": "イベントストーリー {0}\n「{1}」が解放されました。"
   },
   {
     "wordingKey": "MSG_UPDATE",
@@ -2892,6 +3008,22 @@
     "value": "1回限定"
   },
   {
+    "wordingKey": "MSG_WORLD_BLOOM_CHAPTER_INHERIT_LIMIT_START",
+    "value": "チャプター{0}ランキング<color=#ff5588>{1}位<\/color>以内に到達しました。\n\nイベントの公平性を保つため、\nチャプターランキング<color=#ff5588>{2}位<\/color>以内に到達したプレイヤーは、\n該当チャプター期間中、データ引き継ぎ回数が制限されます。\n\n制限期間：チャプター終了（{3}）まで\n制限回数：あと{4}回\n <color=#ff3366>※制限回数は総合ランキングと共有されます。<\/color>\n\nご理解のほどよろしくお願いいたします。"
+  },
+  {
+    "wordingKey": "MSG_WORLD_BLOOM_CHAPTER_YOUR_TOTAL_EVENT_POINT",
+    "value": "あなたのチャプター{0}イベントP"
+  },
+  {
+    "wordingKey": "MSG_WORLD_BLOOM_INHERIT_LIMIT_START",
+    "value": "イベント総合ランキング<color=#ff5588>{0}位<\/color>以内に到達しました。\n\nイベントの公平性を保つため、\n総合ランキング<color=#ff5588>{1}位<\/color>以内に到達したプレイヤーは、\n該当イベント期間中、データ引き継ぎ回数が制限されます。\n\n制限期間：イベント終了（{2}）まで\n制限回数：あと{3}回\n<color=#ff3366>※制限回数はチャプターごとのランキングと共有されます。<\/color>\n\nご理解のほどよろしくお願いいたします。"
+  },
+  {
+    "wordingKey": "MSG_WORLD_BLOOM_YOUR_TOTAL_EVENT_POINT",
+    "value": "あなたの総合イベントP"
+  },
+  {
     "wordingKey": "MSG_YOUR_CHEER_POINT",
     "value": "あなたの応援P"
   },
@@ -3006,6 +3138,14 @@
   {
     "wordingKey": "WORD_3DMV",
     "value": "3DMV"
+  },
+  {
+    "wordingKey": "WORD_3DMV_ANOTHER_CUT_IN",
+    "value": "{0}の3DMVアナザーカット 「{1}」"
+  },
+  {
+    "wordingKey": "WORD_3DMV_CUTIN",
+    "value": "3DMVアナザーカット"
   },
   {
     "wordingKey": "WORD_3DMV_NL",
@@ -3180,6 +3320,10 @@
     "value": "匿名で送る"
   },
   {
+    "wordingKey": "WORD_ANOTHER_3DMV_CUTIN_DETAIL_DIALOG_MUSIC",
+    "value": "「{0}」"
+  },
+  {
     "wordingKey": "WORD_ANOTHER_COLOR",
     "value": "アナザーカラー"
   },
@@ -3234,6 +3378,10 @@
   {
     "wordingKey": "WORD_APPLICATION_DETAIL",
     "value": "申込み詳細"
+  },
+  {
+    "wordingKey": "WORD_APPLYING_SUPPORT_DECK",
+    "value": "適用中"
   },
   {
     "wordingKey": "WORD_APRIL_FOOL_TAB",
@@ -3748,6 +3896,18 @@
     "value": "チャプター"
   },
   {
+    "wordingKey": "WORD_CHAPTER_ED_TITLE",
+    "value": "エンディング"
+  },
+  {
+    "wordingKey": "WORD_CHAPTER_OP_TITLE",
+    "value": "オープニング"
+  },
+  {
+    "wordingKey": "WORD_CHAPTER_TOTAL",
+    "value": "総合"
+  },
+  {
     "wordingKey": "WORD_CHARA",
     "value": "キャラ"
   },
@@ -3961,7 +4121,7 @@
   },
   {
     "wordingKey": "WORD_COLLABORATION_AREA",
-    "value": "コラボ限定セカイ登場"
+    "value": "コラボ限定セカイ"
   },
   {
     "wordingKey": "WORD_COLLECTION",
@@ -4116,6 +4276,10 @@
     "value": "しおりを外す"
   },
   {
+    "wordingKey": "WORD_CONFIRM_START_LIVE",
+    "value": "ライブ開始"
+  },
+  {
     "wordingKey": "WORD_CONNECT",
     "value": "コネクト"
   },
@@ -4177,7 +4341,7 @@
   },
   {
     "wordingKey": "WORD_COPY_ENTRY_ID",
-    "value": "申込みIDをコピー"
+    "value": "コピー"
   },
   {
     "wordingKey": "WORD_COPY_PLAYER_ID",
@@ -4444,6 +4608,10 @@
     "value": "詳細"
   },
   {
+    "wordingKey": "WORD_DIFFERENT_ATTRIBUTE_BONUS_DESCRIPTION",
+    "value": "異なるタイプ"
+  },
+  {
     "wordingKey": "WORD_DIFFICULTY_SELECT",
     "value": "難易度選択"
   },
@@ -4566,6 +4734,10 @@
   {
     "wordingKey": "WORD_EMPTY_SHAPE",
     "value": "表示できる図形がありません。"
+  },
+  {
+    "wordingKey": "WORD_EMPTY_SUPPORT_DECK_MEMBER",
+    "value": "--"
   },
   {
     "wordingKey": "WORD_END",
@@ -4754,6 +4926,10 @@
   {
     "wordingKey": "WORD_EVENT_STORY_TITLE",
     "value": "第{0}話"
+  },
+  {
+    "wordingKey": "WORD_EVENT_SUPPORT_BONUS",
+    "value": "サポートボーナス"
   },
   {
     "wordingKey": "WORD_EVNET_STORY_INFOMATION",
@@ -5452,6 +5628,10 @@
     "value": "ヘアスタイル"
   },
   {
+    "wordingKey": "WORD_HAS_3D_MV_CUTIN",
+    "value": "3DMVアナザーカットあり"
+  },
+  {
     "wordingKey": "WORD_HATED_FOOD",
     "value": "嫌いな\n食べ物"
   },
@@ -5694,6 +5874,10 @@
   {
     "wordingKey": "WORD_IN_VIRTUAL_LIVE",
     "value": "バーチャル\nライブ中"
+  },
+  {
+    "wordingKey": "WORD_IS_HOLDING_EXTRA_CHAPTER",
+    "value": "補填開催中"
   },
   {
     "wordingKey": "WORD_ITEM",
@@ -6080,8 +6264,16 @@
     "value": "メンテナンス中"
   },
   {
+    "wordingKey": "WORD_MAIN_DECK_SETTING",
+    "value": "メイン\n編成中"
+  },
+  {
     "wordingKey": "WORD_MAIN_STORY",
     "value": "メインストーリー"
+  },
+  {
+    "wordingKey": "WORD_MAIN_UNIT_EDIT",
+    "value": "ユニット"
   },
   {
     "wordingKey": "WORD_MAIN_UNIT_TOTAL_POWER",
@@ -6706,6 +6898,10 @@
   {
     "wordingKey": "WORD_NOT_SEND",
     "value": "送らない"
+  },
+  {
+    "wordingKey": "WORD_NOT_VALID_TIMELINE",
+    "value": "有効な時間軸ではないため、エリアを移動します。"
   },
   {
     "wordingKey": "WORD_NOT_VIEWED",
@@ -8292,8 +8488,20 @@
     "value": "SUPER \nSTAR"
   },
   {
+    "wordingKey": "WORD_SUPPORT_DECK_BONUS",
+    "value": "サポートボーナス"
+  },
+  {
+    "wordingKey": "WORD_SUPPORT_DECK_EDIT",
+    "value": "サポート編成"
+  },
+  {
     "wordingKey": "WORD_SUPPORT_MEMBR",
     "value": "サポートメンバー"
+  },
+  {
+    "wordingKey": "WORD_SUPPORT_UNIT_EDIT",
+    "value": "サポートユニット"
   },
   {
     "wordingKey": "WORD_SUSPENSION",
@@ -8522,6 +8730,10 @@
   {
     "wordingKey": "WORD_TO_CURRENT_TIME_MESSAGE",
     "value": "元の時間軸に戻りますか？"
+  },
+  {
+    "wordingKey": "WORD_TO_DECK_EDIT",
+    "value": "編成へ"
   },
   {
     "wordingKey": "WORD_TO_EXCHANGE_SHOP",
@@ -9058,6 +9270,22 @@
   {
     "wordingKey": "WORD_WORD_SIZE",
     "value": "文字サイズ"
+  },
+  {
+    "wordingKey": "WORD_WORLD_BLOOM_CHAPTER_AND_NUMBER_ENG",
+    "value": "CHAPTER{0}"
+  },
+  {
+    "wordingKey": "WORD_WORLD_BLOOM_CHAPTER_DATE_PERIOD",
+    "value": "{0:MM\/dd HH:mm} ～ {1:MM\/dd HH:mm}まで"
+  },
+  {
+    "wordingKey": "WORD_WORLD_BLOOM_CHAPTER_ENG",
+    "value": "CHAPTER"
+  },
+  {
+    "wordingKey": "WORD_WORLD_BLOOM_TOTAL_RANKING",
+    "value": "総合ランキング"
   },
   {
     "wordingKey": "WORD_YEAR",

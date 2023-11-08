@@ -4493,5 +4493,150 @@
         "resourceBoxId": 8001
       }
     ]
+  },
+  {
+    "id": 249,
+    "eventId": 112,
+    "seq": 1,
+    "eventMissionType": "live_clear_daily",
+    "eventMissionCategory": "normal",
+    "requirement1": 13,
+    "sentence": "累計13日ライブを1日1回クリアしよう。",
+    "rewards": [
+      {
+        "id": 7519,
+        "missionType": "event_mission",
+        "missionId": 249,
+        "seq": 1,
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 250,
+    "eventId": 112,
+    "seq": 2,
+    "eventMissionType": "any_live_clear",
+    "eventMissionCategory": "normal",
+    "requirement1": 50,
+    "sentence": "ライブを50回クリアしよう。",
+    "rewards": [
+      {
+        "id": 7520,
+        "missionType": "event_mission",
+        "missionId": 250,
+        "seq": 1,
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 251,
+    "eventId": 112,
+    "seq": 3,
+    "eventMissionType": "live_clear_full_combo",
+    "eventMissionCategory": "normal",
+    "requirement1": 10,
+    "sentence": "ライブで楽曲をフルコンボで10回クリアしよう。",
+    "rewards": [
+      {
+        "id": 7521,
+        "missionType": "event_mission",
+        "missionId": 251,
+        "seq": 1,
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 252,
+    "eventId": 112,
+    "seq": 4,
+    "eventMissionType": "live_clear_different_music",
+    "eventMissionCategory": "normal",
+    "requirement1": 10,
+    "requirement2": 1,
+    "sentence": "ライブで10種類の楽曲をクリアしよう。",
+    "rewards": [
+      {
+        "id": 7522,
+        "missionType": "event_mission",
+        "missionId": 252,
+        "seq": 1,
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 253,
+    "eventId": 112,
+    "seq": 5,
+    "eventMissionType": "read_last_event_story_episode",
+    "eventMissionCategory": "normal",
+    "requirement1": 1,
+    "sentence": "イベント「水底に影を探して」のエンディングを読もう。",
+    "rewards": [
+      {
+        "id": 7523,
+        "missionType": "event_mission",
+        "missionId": 253,
+        "seq": 1,
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 254,
+    "eventId": 112,
+    "seq": 6,
+    "eventMissionType": "consume_event_item",
+    "eventMissionCategory": "normal",
+    "requirement1": 20000,
+    "sentence": "イベント「水底に影を探して」の交換所でバッジを20000個消費しよう。",
+    "rewards": [
+      {
+        "id": 7524,
+        "missionType": "event_mission",
+        "missionId": 254,
+        "seq": 1,
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 255,
+    "eventId": 112,
+    "seq": 7,
+    "eventMissionType": "join_virtual_live",
+    "eventMissionCategory": "normal",
+    "requirement1": 1,
+    "sentence": "「水底に影を探して アフターライブ」に参加しよう。",
+    "rewards": [
+      {
+        "id": 7525,
+        "missionType": "event_mission",
+        "missionId": 255,
+        "seq": 1,
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 256,
+    "eventId": 112,
+    "seq": 8,
+    "eventMissionType": "achieve_event_mission",
+    "eventMissionCategory": "complete",
+    "requirement1": 7,
+    "sentence": "7つのミッションを全て達成しよう。",
+    "rewards": [
+      {
+        "id": 7526,
+        "missionType": "event_mission",
+        "missionId": 256,
+        "seq": 1,
+        "resourceBoxId": 8001
+      }
+    ]
   }
 ]
