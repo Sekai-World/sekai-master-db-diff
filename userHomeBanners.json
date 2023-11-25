@@ -1,35 +1,46 @@
 [
   {
-    "homeBannerId": 776,
+    "homeBannerId": 782,
+    "seq": 150,
+    "homeBannerType": "general",
+    "name": "[復刻]春想う、宵の一刻ガチャ",
+    "assetbundleName": "banner_gacha412",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 412,
+    "startAt": 1700276400000,
+    "endAt": 1701053999000
+  },
+  {
+    "homeBannerId": 783,
+    "seq": 155,
+    "homeBannerType": "general",
+    "name": "[復刻]共に歩むクルーガチャ",
+    "assetbundleName": "banner_gacha413",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 413,
+    "startAt": 1700276400000,
+    "endAt": 1701053999000
+  },
+  {
+    "homeBannerId": 784,
     "seq": 110,
     "homeBannerType": "general",
-    "name": "[ガチャ]ニーゴワールドリンクイベ1回目_定常ガチャバナー",
-    "assetbundleName": "banner_gacha407",
+    "name": "[ガチャ]ワンダショ箱イベ15巡目_定常ガチャバナー",
+    "assetbundleName": "banner_gacha414",
     "transitionDestinationType": "gacha",
-    "transitionDestinationId": 407,
-    "startAt": 1699412400000,
-    "endAt": 1700621999000
+    "transitionDestinationId": 414,
+    "startAt": 1700622000000,
+    "endAt": 1701313199000
   },
   {
-    "homeBannerId": 777,
+    "homeBannerId": 785,
     "seq": 100,
     "homeBannerType": "event",
-    "name": "[イベント]ニーゴワールドリンクイベ1回目_イベントバナー",
-    "assetbundleName": "event_underwater_2023",
+    "name": "[イベント]ワンダショ箱イベ15巡目_イベントバナー",
+    "assetbundleName": "event_supporting_2023",
     "transitionDestinationType": "event",
-    "transitionDestinationId": 112,
-    "startAt": 1699441200000,
-    "endAt": 1700632799000
-  },
-  {
-    "homeBannerId": 780,
-    "seq": 130,
-    "homeBannerType": "general",
-    "name": "[東雲彰人]HAPPY BIRTHDAY2023ガチャ",
-    "assetbundleName": "banner_gacha408",
-    "transitionDestinationType": "gacha",
-    "transitionDestinationId": 408,
-    "startAt": 1699714800000,
-    "endAt": 1699801199000
+    "transitionDestinationId": 113,
+    "startAt": 1700632800000,
+    "endAt": 1701323999000
   }
 ]
