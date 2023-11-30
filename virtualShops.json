@@ -5887,5 +5887,39 @@
       }
     ],
     "virtualShopType": "event"
+  },
+  {
+    "id": 234,
+    "seq": 234,
+    "name": "第114回イベント物販",
+    "virtualShopItems": [
+      {
+        "id": 409,
+        "virtualShopId": 234,
+        "virtualShopItemType": "penlight",
+        "seq": 199866,
+        "resourceBoxId": 306,
+        "costPaidJewel": 1000,
+        "startAt": 1701324000000
+      }
+    ],
+    "virtualShopType": "event"
+  },
+  {
+    "id": 235,
+    "seq": 235,
+    "name": "雫 BIRTHDAY",
+    "virtualShopItems": [
+      {
+        "id": 410,
+        "virtualShopId": 235,
+        "virtualShopItemType": "coordinate",
+        "seq": 99843,
+        "resourceBoxId": 307,
+        "costPaidJewel": 1000,
+        "startAt": 1701669600000
+      }
+    ],
+    "virtualShopType": "birthday"
   }
 ]

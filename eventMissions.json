@@ -4783,5 +4783,150 @@
         "resourceBoxId": 8001
       }
     ]
+  },
+  {
+    "id": 265,
+    "eventId": 114,
+    "seq": 1,
+    "eventMissionType": "live_clear_daily",
+    "eventMissionCategory": "normal",
+    "requirement1": 9,
+    "sentence": "累計9日ライブを1日1回クリアしよう。",
+    "rewards": [
+      {
+        "id": 7535,
+        "missionType": "event_mission",
+        "missionId": 265,
+        "seq": 1,
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 266,
+    "eventId": 114,
+    "seq": 2,
+    "eventMissionType": "any_live_clear",
+    "eventMissionCategory": "normal",
+    "requirement1": 50,
+    "sentence": "ライブを50回クリアしよう。",
+    "rewards": [
+      {
+        "id": 7536,
+        "missionType": "event_mission",
+        "missionId": 266,
+        "seq": 1,
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 267,
+    "eventId": 114,
+    "seq": 3,
+    "eventMissionType": "live_clear_full_combo",
+    "eventMissionCategory": "normal",
+    "requirement1": 10,
+    "sentence": "ライブで楽曲をフルコンボで10回クリアしよう。",
+    "rewards": [
+      {
+        "id": 7537,
+        "missionType": "event_mission",
+        "missionId": 267,
+        "seq": 1,
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 268,
+    "eventId": 114,
+    "seq": 4,
+    "eventMissionType": "live_clear_different_music",
+    "eventMissionCategory": "normal",
+    "requirement1": 10,
+    "requirement2": 1,
+    "sentence": "ライブで10種類の楽曲をクリアしよう。",
+    "rewards": [
+      {
+        "id": 7538,
+        "missionType": "event_mission",
+        "missionId": 268,
+        "seq": 1,
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 269,
+    "eventId": 114,
+    "seq": 5,
+    "eventMissionType": "read_last_event_story_episode",
+    "eventMissionCategory": "normal",
+    "requirement1": 1,
+    "sentence": "イベント「最高のクランクアップ！」のイベントストーリー第8話を読もう。",
+    "rewards": [
+      {
+        "id": 7539,
+        "missionType": "event_mission",
+        "missionId": 269,
+        "seq": 1,
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 270,
+    "eventId": 114,
+    "seq": 6,
+    "eventMissionType": "consume_event_item",
+    "eventMissionCategory": "normal",
+    "requirement1": 20000,
+    "sentence": "イベント「最高のクランクアップ！」の交換所でバッジを20000個消費しよう。",
+    "rewards": [
+      {
+        "id": 7540,
+        "missionType": "event_mission",
+        "missionId": 270,
+        "seq": 1,
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 271,
+    "eventId": 114,
+    "seq": 7,
+    "eventMissionType": "join_virtual_live",
+    "eventMissionCategory": "normal",
+    "requirement1": 1,
+    "sentence": "「最高のクランクアップ！ アフターライブ」に参加しよう。",
+    "rewards": [
+      {
+        "id": 7541,
+        "missionType": "event_mission",
+        "missionId": 271,
+        "seq": 1,
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 272,
+    "eventId": 114,
+    "seq": 8,
+    "eventMissionType": "achieve_event_mission",
+    "eventMissionCategory": "complete",
+    "requirement1": 7,
+    "sentence": "7つのミッションを全て達成しよう。",
+    "rewards": [
+      {
+        "id": 7542,
+        "missionType": "event_mission",
+        "missionId": 272,
+        "seq": 1,
+        "resourceBoxId": 8001
+      }
+    ]
   }
 ]
