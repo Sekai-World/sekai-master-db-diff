@@ -22,14 +22,25 @@
     "endAt": 1702187999000
   },
   {
-    "homeBannerId": 792,
+    "homeBannerId": 791,
+    "seq": 10,
+    "homeBannerType": "general",
+    "name": "[ガチャ]サンリオコラボガチャ",
+    "assetbundleName": "banner_gacha418",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 418,
+    "startAt": 1701745200000,
+    "endAt": 1702997999000
+  },
+  {
+    "homeBannerId": 793,
     "seq": 130,
     "homeBannerType": "general",
-    "name": "[日野森雫]HAPPY BIRTHDAYライブ",
-    "assetbundleName": "banner_virtuallive268",
-    "transitionDestinationType": "virtual_live",
-    "transitionDestinationId": 268,
-    "startAt": 1701669600000,
-    "endAt": 1701788399000
+    "name": "[日野森雫]HAPPY BIRTHDAY2023ガチャ",
+    "assetbundleName": "banner_gacha419",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 419,
+    "startAt": 1701788400000,
+    "endAt": 1701874799000
   }
 ]
