@@ -4928,5 +4928,150 @@
         "resourceBoxId": 8001
       }
     ]
+  },
+  {
+    "id": 273,
+    "eventId": 115,
+    "seq": 1,
+    "eventMissionType": "live_clear_daily",
+    "eventMissionCategory": "normal",
+    "requirement1": 9,
+    "sentence": "累計9日ライブを1日1回クリアしよう。",
+    "rewards": [
+      {
+        "id": 7743,
+        "missionType": "event_mission",
+        "missionId": 273,
+        "seq": 1,
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 274,
+    "eventId": 115,
+    "seq": 2,
+    "eventMissionType": "any_live_clear",
+    "eventMissionCategory": "normal",
+    "requirement1": 50,
+    "sentence": "ライブを50回クリアしよう。",
+    "rewards": [
+      {
+        "id": 7744,
+        "missionType": "event_mission",
+        "missionId": 274,
+        "seq": 1,
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 275,
+    "eventId": 115,
+    "seq": 3,
+    "eventMissionType": "live_clear_full_combo",
+    "eventMissionCategory": "normal",
+    "requirement1": 10,
+    "sentence": "ライブで楽曲をフルコンボで10回クリアしよう。",
+    "rewards": [
+      {
+        "id": 7745,
+        "missionType": "event_mission",
+        "missionId": 275,
+        "seq": 1,
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 276,
+    "eventId": 115,
+    "seq": 4,
+    "eventMissionType": "live_clear_different_music",
+    "eventMissionCategory": "normal",
+    "requirement1": 10,
+    "requirement2": 1,
+    "sentence": "ライブで10種類の楽曲をクリアしよう。",
+    "rewards": [
+      {
+        "id": 7746,
+        "missionType": "event_mission",
+        "missionId": 276,
+        "seq": 1,
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 277,
+    "eventId": 115,
+    "seq": 5,
+    "eventMissionType": "read_last_event_story_episode",
+    "eventMissionCategory": "normal",
+    "requirement1": 1,
+    "sentence": "イベント「あっちこっち飼育員体験！」のイベントストーリー第8話を読もう。",
+    "rewards": [
+      {
+        "id": 7747,
+        "missionType": "event_mission",
+        "missionId": 277,
+        "seq": 1,
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 278,
+    "eventId": 115,
+    "seq": 6,
+    "eventMissionType": "consume_event_item",
+    "eventMissionCategory": "normal",
+    "requirement1": 20000,
+    "sentence": "イベント「あっちこっち飼育員体験！」の交換所でバッジを20000個消費しよう。",
+    "rewards": [
+      {
+        "id": 7748,
+        "missionType": "event_mission",
+        "missionId": 278,
+        "seq": 1,
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 279,
+    "eventId": 115,
+    "seq": 7,
+    "eventMissionType": "join_virtual_live",
+    "eventMissionCategory": "normal",
+    "requirement1": 1,
+    "sentence": "「あっちこっち飼育員体験！ アフターライブ」に参加しよう。",
+    "rewards": [
+      {
+        "id": 7749,
+        "missionType": "event_mission",
+        "missionId": 279,
+        "seq": 1,
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 280,
+    "eventId": 115,
+    "seq": 8,
+    "eventMissionType": "achieve_event_mission",
+    "eventMissionCategory": "complete",
+    "requirement1": 7,
+    "sentence": "7つのミッションを全て達成しよう。",
+    "rewards": [
+      {
+        "id": 7750,
+        "missionType": "event_mission",
+        "missionId": 280,
+        "seq": 1,
+        "resourceBoxId": 8001
+      }
+    ]
   }
 ]
