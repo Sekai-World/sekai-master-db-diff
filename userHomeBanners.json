@@ -1,27 +1,5 @@
 [
   {
-    "homeBannerId": 789,
-    "seq": 180,
-    "homeBannerType": "general",
-    "name": "[ガチャ]シャッフル神高2-Aイベ_定常ガチャバナー",
-    "assetbundleName": "banner_gacha416",
-    "transitionDestinationType": "gacha",
-    "transitionDestinationId": 416,
-    "startAt": 1701313200000,
-    "endAt": 1702177199000
-  },
-  {
-    "homeBannerId": 790,
-    "seq": 170,
-    "homeBannerType": "event",
-    "name": "[イベント]シャッフル神高2-Aイベ_イベントバナー",
-    "assetbundleName": "event_crankup_2023",
-    "transitionDestinationType": "event",
-    "transitionDestinationId": 114,
-    "startAt": 1701324000000,
-    "endAt": 1702187999000
-  },
-  {
     "homeBannerId": 791,
     "seq": 10,
     "homeBannerType": "general",
@@ -31,5 +9,27 @@
     "transitionDestinationId": 418,
     "startAt": 1701745200000,
     "endAt": 1702997999000
+  },
+  {
+    "homeBannerId": 794,
+    "seq": 110,
+    "homeBannerType": "general",
+    "name": "[ガチャ]シャッフル飼育委員イベ_定常ガチャバナー",
+    "assetbundleName": "banner_gacha422",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 422,
+    "startAt": 1702177200000,
+    "endAt": 1703041199000
+  },
+  {
+    "homeBannerId": 795,
+    "seq": 100,
+    "homeBannerType": "event",
+    "name": "[イベント]シャッフル飼育委員イベ_イベントバナー",
+    "assetbundleName": "event_keeper_2023",
+    "transitionDestinationType": "event",
+    "transitionDestinationId": 115,
+    "startAt": 1702188000000,
+    "endAt": 1703051999000
   }
 ]
