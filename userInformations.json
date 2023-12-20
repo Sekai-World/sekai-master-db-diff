@@ -330,20 +330,6 @@
     "bannerAssetbundleName": "banner_news_gacha407"
   },
   {
-    "id": 3287,
-    "seq": 1,
-    "displayOrder": 59010,
-    "informationType": "normal",
-    "informationTag": "gacha",
-    "browseType": "internal",
-    "platform": "all",
-    "title": "[東雲彰人]HAPPY BIRTHDAYガチャ開催！",
-    "path": "information\/index.html?id=info_gacha408_held",
-    "startAt": 1699714800000,
-    "endAt": 1702879200000,
-    "bannerAssetbundleName": "banner_news_gacha408"
-  },
-  {
     "id": 3288,
     "seq": 1,
     "displayOrder": 59020,
@@ -434,7 +420,8 @@
     "platform": "all",
     "title": "【11月22日15時00分追記】「v3.1.0」アップデート以降に確認している不具合について",
     "path": "information\/index.html?id=bug_fix1_v3-1-0_20231122_add",
-    "startAt": 1700632800000
+    "startAt": 1700632800000,
+    "endAt": 1703037600000
   },
   {
     "id": 3311,
@@ -476,20 +463,6 @@
     "startAt": 1701313200000,
     "endAt": 1704855600000,
     "bannerAssetbundleName": "banner_news_gacha416"
-  },
-  {
-    "id": 3320,
-    "seq": 1,
-    "displayOrder": 59280,
-    "informationType": "normal",
-    "informationTag": "event",
-    "browseType": "internal",
-    "platform": "all",
-    "title": "イベント「最高のクランクアップ！」開催！",
-    "path": "information\/index.html?id=info_event114_held",
-    "startAt": 1701324000000,
-    "endAt": 1702900800000,
-    "bannerAssetbundleName": "banner_news_event114"
   },
   {
     "id": 3323,
@@ -731,46 +704,6 @@
     "bannerAssetbundleName": "banner_news_event115"
   },
   {
-    "id": 3353,
-    "seq": 1,
-    "displayOrder": 24900,
-    "informationType": "bug",
-    "informationTag": "bug",
-    "browseType": "internal",
-    "platform": "all",
-    "title": "「最高のクランクアップ！ アフターライブ」において特定条件下で発生する描画不具合について",
-    "path": "information\/index.html?id=bug_event114_afterlive_20231208",
-    "startAt": 1702116000000,
-    "endAt": 1702666800000
-  },
-  {
-    "id": 3354,
-    "seq": 1,
-    "displayOrder": 59540,
-    "informationType": "normal",
-    "informationTag": "gacha",
-    "browseType": "internal",
-    "platform": "all",
-    "title": "予告、「[復刻]Fly to the future!!ガチャ」開催について",
-    "path": "information\/index.html?id=info_gacha423_notice",
-    "startAt": 1702263600000,
-    "endAt": 1702350000000,
-    "bannerAssetbundleName": "banner_news_gacha423"
-  },
-  {
-    "id": 3355,
-    "seq": 1,
-    "displayOrder": 59550,
-    "informationType": "normal",
-    "informationTag": "music",
-    "browseType": "internal",
-    "platform": "all",
-    "title": "楽曲「ショウタイム×オーディエンス」追加！",
-    "path": "information\/index.html?id=info_music_ShowtimeAudience_20231211",
-    "startAt": 1702274400000,
-    "endAt": 1702494000000
-  },
-  {
     "id": 3356,
     "seq": 1,
     "displayOrder": 24910,
@@ -796,34 +729,6 @@
     "startAt": 1702350000000,
     "endAt": 1705806000000,
     "bannerAssetbundleName": "banner_news_gacha423"
-  },
-  {
-    "id": 3358,
-    "seq": 1,
-    "displayOrder": 59580,
-    "informationType": "normal",
-    "informationTag": "gacha",
-    "browseType": "internal",
-    "platform": "all",
-    "title": "予告、「[復刻]スクランブル・フラワーガチャ」開催について",
-    "path": "information\/index.html?id=info_gacha424_notice",
-    "startAt": 1702695600000,
-    "endAt": 1702782000000,
-    "bannerAssetbundleName": "banner_news_gacha424"
-  },
-  {
-    "id": 3359,
-    "seq": 1,
-    "displayOrder": 59570,
-    "informationType": "normal",
-    "informationTag": "gacha",
-    "browseType": "internal",
-    "platform": "all",
-    "title": "予告、「[復刻]ロマンティックブライドガチャ」開催について",
-    "path": "information\/index.html?id=info_gacha425_notice",
-    "startAt": 1702695600000,
-    "endAt": 1702782000000,
-    "bannerAssetbundleName": "banner_news_gacha425"
   },
   {
     "id": 3360,
@@ -894,6 +799,32 @@
     "bannerAssetbundleName": "banner_news_event116"
   },
   {
+    "id": 3365,
+    "seq": 1,
+    "displayOrder": 59640,
+    "informationType": "normal",
+    "informationTag": "information",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "12月20日11時00分ごろに追加したコンテンツのご案内",
+    "path": "information\/index.html?id=info_add_contents_20231220",
+    "startAt": 1703037600000,
+    "endAt": 1703617200000
+  },
+  {
+    "id": 3366,
+    "seq": 1,
+    "displayOrder": 24920,
+    "informationType": "bug",
+    "informationTag": "bug",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "12月20日11時00分ごろに修正したいくつかの不具合について",
+    "path": "information\/index.html?id=bug_fix_something_20231220",
+    "startAt": 1703037600000,
+    "endAt": 1703617200000
+  },
+  {
     "id": 3369,
     "seq": 1,
     "displayOrder": 24910,
@@ -904,5 +835,17 @@
     "title": "【12月12日17時00分追記】11月10日11時00分ごろに修正した不具合について、及び「彰人なりきり衣装」に関する返金対応のご案内",
     "path": "information\/index.html?id=bug_add3_fix_something_20231110",
     "startAt": 1702368000000
+  },
+  {
+    "id": 3423,
+    "seq": 1,
+    "displayOrder": 24915,
+    "informationType": "bug",
+    "informationTag": "bug",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "【12月20日11時00分追記】「v3.1.0」アップデート以降に確認している不具合について",
+    "path": "information\/index.html?id=bug_fix2_v3-1-0_20231122_add",
+    "startAt": 1703037600000
   }
 ]

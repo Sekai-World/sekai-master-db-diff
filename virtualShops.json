@@ -5956,5 +5956,57 @@
       }
     ],
     "virtualShopType": "event"
+  },
+  {
+    "id": 238,
+    "seq": 238,
+    "name": "第116回イベント物販",
+    "virtualShopItems": [
+      {
+        "id": 413,
+        "virtualShopId": 238,
+        "virtualShopItemType": "accessory",
+        "seq": 99889,
+        "resourceBoxId": 310,
+        "costVirtualCoin": 3000,
+        "costJewel": 1000,
+        "startAt": 1703052000000
+      }
+    ],
+    "virtualShopType": "event"
+  },
+  {
+    "id": 239,
+    "seq": 239,
+    "name": "リン ANNIVERSARY",
+    "virtualShopItems": [
+      {
+        "id": 414,
+        "virtualShopId": 239,
+        "virtualShopItemType": "coordinate",
+        "seq": 99840,
+        "resourceBoxId": 311,
+        "costPaidJewel": 1000,
+        "startAt": 1703484000000
+      }
+    ],
+    "virtualShopType": "birthday"
+  },
+  {
+    "id": 240,
+    "seq": 240,
+    "name": "レン ANNIVERSARY",
+    "virtualShopItems": [
+      {
+        "id": 415,
+        "virtualShopId": 240,
+        "virtualShopItemType": "coordinate",
+        "seq": 99841,
+        "resourceBoxId": 312,
+        "costPaidJewel": 1000,
+        "startAt": 1703484000000
+      }
+    ],
+    "virtualShopType": "birthday"
   }
 ]

@@ -5073,5 +5073,150 @@
         "resourceBoxId": 8001
       }
     ]
+  },
+  {
+    "id": 281,
+    "eventId": 116,
+    "seq": 1,
+    "eventMissionType": "live_clear_daily",
+    "eventMissionCategory": "normal",
+    "requirement1": 10,
+    "sentence": "累計10日ライブを1日1回クリアしよう。",
+    "rewards": [
+      {
+        "id": 7752,
+        "missionType": "event_mission",
+        "missionId": 281,
+        "seq": 1,
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 282,
+    "eventId": 116,
+    "seq": 2,
+    "eventMissionType": "any_live_clear",
+    "eventMissionCategory": "normal",
+    "requirement1": 50,
+    "sentence": "ライブを50回クリアしよう。",
+    "rewards": [
+      {
+        "id": 7753,
+        "missionType": "event_mission",
+        "missionId": 282,
+        "seq": 1,
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 283,
+    "eventId": 116,
+    "seq": 3,
+    "eventMissionType": "live_clear_full_combo",
+    "eventMissionCategory": "normal",
+    "requirement1": 10,
+    "sentence": "ライブで楽曲をフルコンボで10回クリアしよう。",
+    "rewards": [
+      {
+        "id": 7754,
+        "missionType": "event_mission",
+        "missionId": 283,
+        "seq": 1,
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 284,
+    "eventId": 116,
+    "seq": 4,
+    "eventMissionType": "live_clear_different_music",
+    "eventMissionCategory": "normal",
+    "requirement1": 10,
+    "requirement2": 1,
+    "sentence": "ライブで10種類の楽曲をクリアしよう。",
+    "rewards": [
+      {
+        "id": 7755,
+        "missionType": "event_mission",
+        "missionId": 284,
+        "seq": 1,
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 285,
+    "eventId": 116,
+    "seq": 5,
+    "eventMissionType": "read_last_event_story_episode",
+    "eventMissionCategory": "normal",
+    "requirement1": 1,
+    "sentence": "イベント「あの日、奏でた音色を」のイベントストーリー第8話を読もう。",
+    "rewards": [
+      {
+        "id": 7756,
+        "missionType": "event_mission",
+        "missionId": 285,
+        "seq": 1,
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 286,
+    "eventId": 116,
+    "seq": 6,
+    "eventMissionType": "consume_event_item",
+    "eventMissionCategory": "normal",
+    "requirement1": 20000,
+    "sentence": "イベント「あの日、奏でた音色を」の交換所でバッジを20000個消費しよう。",
+    "rewards": [
+      {
+        "id": 7757,
+        "missionType": "event_mission",
+        "missionId": 286,
+        "seq": 1,
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 287,
+    "eventId": 116,
+    "seq": 7,
+    "eventMissionType": "join_virtual_live",
+    "eventMissionCategory": "normal",
+    "requirement1": 1,
+    "sentence": "「あの日、奏でた音色を アフターライブ」に参加しよう。",
+    "rewards": [
+      {
+        "id": 7758,
+        "missionType": "event_mission",
+        "missionId": 287,
+        "seq": 1,
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 288,
+    "eventId": 116,
+    "seq": 8,
+    "eventMissionType": "achieve_event_mission",
+    "eventMissionCategory": "complete",
+    "requirement1": 7,
+    "sentence": "7つのミッションを全て達成しよう。",
+    "rewards": [
+      {
+        "id": 7759,
+        "missionType": "event_mission",
+        "missionId": 288,
+        "seq": 1,
+        "resourceBoxId": 8001
+      }
+    ]
   }
 ]
