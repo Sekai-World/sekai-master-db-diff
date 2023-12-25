@@ -381,7 +381,7 @@
   },
   {
     "wordingKey": "MSG_CHALLENGE_CHARACTER_SELECT_CAUTION",
-    "value": "※他のキャラクターは、それぞれをリーダーにして\n30回ライブすることで解放されます。"
+    "value": "※他のキャラクターは、それぞれをリーダーにして\nライブを30回クリアすることで解放されます。"
   },
   {
     "wordingKey": "MSG_CHALLENGE_LIVE_SUPPORT_MEMBER_UNLOCK",
@@ -489,7 +489,7 @@
   },
   {
     "wordingKey": "MSG_COLLECTION_GACHA_SPIN_CONFIRM",
-    "value": "{0}<color=#FF5599>{1}個<\/color>を消費して<color=#FF5599>{2}回<\/color>\n{3}を開けます。よろしいですか？"
+    "value": "{0}<color=#FF5599>{1}個<\/color>を消費して<color=#FF5599>{2}回<\/color>\n{3}を開けます。\nよろしいですか？"
   },
   {
     "wordingKey": "MSG_COLLECTION_OPEN_COUNT",
@@ -8749,11 +8749,19 @@
   },
   {
     "wordingKey": "WORD_TOURNAMENT_MUSIC",
-    "value": "大会対象楽曲"
+    "value": "大会対象\n楽曲"
+  },
+  {
+    "wordingKey": "WORD_TOURNAMENT_SCORE",
+    "value": "大会スコア"
   },
   {
     "wordingKey": "WORD_TOURNAMENT_SCORE_DETAIL",
     "value": "詳細"
+  },
+  {
+    "wordingKey": "WORD_TOURNAMENT_SCORE_NONE",
+    "value": "--------"
   },
   {
     "wordingKey": "WORD_TO_CURRENT_TIME_ANNOTATION",
