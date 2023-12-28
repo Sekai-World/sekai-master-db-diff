@@ -70,6 +70,60 @@
     "assetbundleName": "vl_archive_thumbnail_10004"
   },
   {
+    "id": 10011,
+    "seq": 10012,
+    "paidVirtualLiveShopItemGroupId": 2,
+    "name": "第1公演",
+    "description": "※こちらの公演は一部音飛びが発生します。",
+    "resourceBoxId": 10011,
+    "paidVirtualLiveShopItemPurchaseType": "single",
+    "paidVirtualLiveShopCosts": [
+      {
+        "id": 100111,
+        "costResourceType": "paid_jewel",
+        "costResourceQuantity": 3000,
+        "startAt": 1704034800000
+      }
+    ],
+    "assetbundleName": "vl_archive_thumbnail_10011"
+  },
+  {
+    "id": 10012,
+    "seq": 10011,
+    "paidVirtualLiveShopItemGroupId": 2,
+    "name": "第2公演",
+    "description": "※こちらの公演は一部音飛びが発生します。",
+    "resourceBoxId": 10012,
+    "paidVirtualLiveShopItemPurchaseType": "single",
+    "paidVirtualLiveShopCosts": [
+      {
+        "id": 100121,
+        "costResourceType": "paid_jewel",
+        "costResourceQuantity": 3000,
+        "startAt": 1704034800000
+      }
+    ],
+    "assetbundleName": "vl_archive_thumbnail_10012"
+  },
+  {
+    "id": 10013,
+    "seq": 10013,
+    "paidVirtualLiveShopItemGroupId": 2,
+    "name": "全公演まとめ買い",
+    "description": "※第1公演および第2公演に注意事項がありますのでご確認ください。",
+    "resourceBoxId": 10013,
+    "paidVirtualLiveShopItemPurchaseType": "bundle",
+    "paidVirtualLiveShopCosts": [
+      {
+        "id": 100131,
+        "costResourceType": "paid_jewel",
+        "costResourceQuantity": 5000,
+        "startAt": 1704034800000
+      }
+    ],
+    "assetbundleName": "vl_archive_thumbnail_10013"
+  },
+  {
     "id": 20001,
     "seq": 20001,
     "name": "遥 2020",
@@ -1786,6 +1840,50 @@
     "assetbundleName": "vl_archive_thumbnail_20078"
   },
   {
+    "id": 20079,
+    "seq": 20079,
+    "name": "遥 2023",
+    "resourceBoxId": 20079,
+    "paidVirtualLiveShopItemPurchaseType": "single",
+    "paidVirtualLiveShopCosts": [
+      {
+        "id": 200791,
+        "costResourceType": "jewel",
+        "costResourceQuantity": 300,
+        "startAt": 1704034800000
+      },
+      {
+        "id": 200792,
+        "costResourceType": "paid_jewel",
+        "costResourceQuantity": 300,
+        "startAt": 1704034800000
+      }
+    ],
+    "assetbundleName": "vl_archive_thumbnail_20079"
+  },
+  {
+    "id": 20080,
+    "seq": 20080,
+    "name": "穂波 2023",
+    "resourceBoxId": 20080,
+    "paidVirtualLiveShopItemPurchaseType": "single",
+    "paidVirtualLiveShopCosts": [
+      {
+        "id": 200801,
+        "costResourceType": "jewel",
+        "costResourceQuantity": 300,
+        "startAt": 1704034800000
+      },
+      {
+        "id": 200802,
+        "costResourceType": "paid_jewel",
+        "costResourceQuantity": 300,
+        "startAt": 1704034800000
+      }
+    ],
+    "assetbundleName": "vl_archive_thumbnail_20080"
+  },
+  {
     "id": 30008,
     "seq": 30008,
     "name": "ハロウィン 2020",
@@ -2532,6 +2630,28 @@
       }
     ],
     "assetbundleName": "vl_archive_thumbnail_30041"
+  },
+  {
+    "id": 30042,
+    "seq": 30042,
+    "name": "ハロウィン 2023",
+    "resourceBoxId": 30042,
+    "paidVirtualLiveShopItemPurchaseType": "single",
+    "paidVirtualLiveShopCosts": [
+      {
+        "id": 300421,
+        "costResourceType": "jewel",
+        "costResourceQuantity": 300,
+        "startAt": 1704034800000
+      },
+      {
+        "id": 300422,
+        "costResourceType": "paid_jewel",
+        "costResourceQuantity": 300,
+        "startAt": 1704034800000
+      }
+    ],
+    "assetbundleName": "vl_archive_thumbnail_30042"
   },
   {
     "id": 40001,
