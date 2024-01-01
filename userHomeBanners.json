@@ -1,24 +1,89 @@
 [
   {
-    "homeBannerId": 799,
-    "seq": 180,
+    "homeBannerId": 809,
+    "seq": 50,
     "homeBannerType": "general",
-    "name": "[ガチャ]ニーゴ箱イベ15巡目_定常ガチャバナー",
-    "assetbundleName": "banner_gacha426",
+    "name": "[2024新春]カラフルフェスティバルガチャ",
+    "assetbundleName": "banner_gacha433",
     "transitionDestinationType": "gacha",
-    "transitionDestinationId": 426,
-    "startAt": 1703041200000,
-    "endAt": 1703991599000
+    "transitionDestinationId": 433,
+    "startAt": 1703991600000,
+    "endAt": 1704337199000
   },
   {
-    "homeBannerId": 800,
-    "seq": 170,
+    "homeBannerId": 811,
+    "seq": 100,
     "homeBannerType": "event",
-    "name": "[イベント]ニーゴ箱イベ15巡目_イベントバナー",
-    "assetbundleName": "event_tone_2023",
+    "name": "[イベント]シャッフルモノノ怪イベ_イベントバナー",
+    "assetbundleName": "event_cuddle_2024",
     "transitionDestinationType": "event",
-    "transitionDestinationId": 116,
-    "startAt": 1703052000000,
-    "endAt": 1704002399000
+    "transitionDestinationId": 117,
+    "startAt": 1704002400000,
+    "endAt": 1704797999000
+  },
+  {
+    "homeBannerId": 812,
+    "seq": 80,
+    "homeBannerType": "general",
+    "name": "[2024新春]プレミアムプレゼントガチャ",
+    "assetbundleName": "banner_gacha434",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 434,
+    "startAt": 1703991600000,
+    "endAt": 1704769199000
+  },
+  {
+    "homeBannerId": 813,
+    "seq": 200,
+    "homeBannerType": "general",
+    "name": "[ガチャ]ガチャ_無料10連ガチャバナー",
+    "assetbundleName": "banner_gacha435",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 435,
+    "startAt": 1703991600000,
+    "endAt": 1704308399000
+  },
+  {
+    "homeBannerId": 814,
+    "seq": 150,
+    "homeBannerType": "general",
+    "name": "お正月ショップ2024",
+    "assetbundleName": "banner_shop_newyear2024",
+    "transitionDestinationType": "billing_shop_for_jewel",
+    "startAt": 1703991600000,
+    "endAt": 1704769199000
+  },
+  {
+    "homeBannerId": 815,
+    "seq": 170,
+    "homeBannerType": "general",
+    "name": "カウントダウン2024ライブ",
+    "assetbundleName": "banner_virtuallive274",
+    "transitionDestinationType": "virtual_live",
+    "transitionDestinationId": 274,
+    "startAt": 1704002400000,
+    "endAt": 1704207599000
+  },
+  {
+    "homeBannerId": 816,
+    "seq": 180,
+    "homeBannerType": "general",
+    "name": "ハッピーニューイヤー2024ライブ",
+    "assetbundleName": "banner_virtuallive276",
+    "transitionDestinationType": "virtual_live",
+    "transitionDestinationId": 276,
+    "startAt": 1704002400000,
+    "endAt": 1704293999000
+  },
+  {
+    "homeBannerId": 817,
+    "seq": 160,
+    "homeBannerType": "general",
+    "name": "セカイ神社訴求用バナー",
+    "assetbundleName": "banner_sekai_jinja_2024",
+    "transitionDestinationType": "virtual_live",
+    "transitionDestinationId": 274,
+    "startAt": 1704002400000,
+    "endAt": 1704797999000
   }
 ]
