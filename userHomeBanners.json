@@ -54,17 +54,6 @@
     "endAt": 1704769199000
   },
   {
-    "homeBannerId": 815,
-    "seq": 170,
-    "homeBannerType": "general",
-    "name": "カウントダウン2024ライブ",
-    "assetbundleName": "banner_virtuallive274",
-    "transitionDestinationType": "virtual_live",
-    "transitionDestinationId": 274,
-    "startAt": 1704002400000,
-    "endAt": 1704207599000
-  },
-  {
     "homeBannerId": 816,
     "seq": 180,
     "homeBannerType": "general",
@@ -85,5 +74,16 @@
     "transitionDestinationId": 274,
     "startAt": 1704002400000,
     "endAt": 1704797999000
+  },
+  {
+    "homeBannerId": 818,
+    "seq": 140,
+    "homeBannerType": "general",
+    "name": "[ガチャ]ワールドリンクイベントサポートガチャ",
+    "assetbundleName": "banner_gacha437",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 437,
+    "startAt": 1704164400000,
+    "endAt": 1704769199000
   }
 ]
