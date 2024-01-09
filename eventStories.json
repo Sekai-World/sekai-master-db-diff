@@ -15124,7 +15124,7 @@
   {
     "id": 117,
     "eventId": 117,
-    "outline": "年の瀬のある日。暁山家に、海外でファッションデザイナーをしている瑞希の姉から、お正月に帰省すると連絡が届く。\n幼い頃、姉と買い物をしたあたたかい記憶を思い出した瑞希は、またふたりで出かけようと姉を誘い——。",
+    "outline": "年の瀬のある日。お正月に海外で働いている姉が帰ってくることを知り、喜ぶ瑞希。\n幼い頃、姉と買い物をしたあたたかい記憶を思い出した瑞希は、またふたりで出かけようと姉を誘い——。",
     "bannerGameCharacterUnitId": 20,
     "assetbundleName": "event_cuddle_2023",
     "eventStoryEpisodes": [
@@ -15245,6 +15245,173 @@
           {
             "storyType": "event_story",
             "resourceBoxId": 70
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 118,
+    "eventId": 118,
+    "outline": "RAD WEEKENDを超えるため、引き続き厳しい修行を続けているVivid BAD SQUAD。しかしある日突然ストリートのセカイに、見知らぬ広場と大きな壁が現れて……！？",
+    "bannerGameCharacterUnitId": 9,
+    "assetbundleName": "event_breakdown_2024",
+    "eventStoryEpisodes": [
+      {
+        "id": 1000947,
+        "eventStoryId": 118,
+        "episodeNo": 1,
+        "title": "巨大な壁",
+        "assetbundleName": "event_breakdown_2024_01",
+        "scenarioId": "wl_street_01_01",
+        "releaseConditionId": 1,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1000948,
+        "eventStoryId": 118,
+        "gameCharacterId": 11,
+        "episodeNo": 2,
+        "title": "不思議なサッカーボール",
+        "assetbundleName": "event_breakdown_2024_02",
+        "scenarioId": "wl_street_01_02",
+        "releaseConditionId": 1,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1000949,
+        "eventStoryId": 118,
+        "gameCharacterId": 11,
+        "episodeNo": 3,
+        "title": "切り拓け！",
+        "assetbundleName": "event_breakdown_2024_03",
+        "scenarioId": "wl_street_01_03",
+        "releaseConditionId": 1,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1000950,
+        "eventStoryId": 118,
+        "gameCharacterId": 12,
+        "episodeNo": 4,
+        "title": "必ず共に",
+        "assetbundleName": "event_breakdown_2024_04",
+        "scenarioId": "wl_street_01_04",
+        "releaseConditionId": 111701,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1000951,
+        "eventStoryId": 118,
+        "gameCharacterId": 12,
+        "episodeNo": 5,
+        "title": "いつかの楽譜",
+        "assetbundleName": "event_breakdown_2024_05",
+        "scenarioId": "wl_street_01_05",
+        "releaseConditionId": 111701,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1000952,
+        "eventStoryId": 118,
+        "gameCharacterId": 10,
+        "episodeNo": 6,
+        "title": "彼女の歌声",
+        "assetbundleName": "event_breakdown_2024_06",
+        "scenarioId": "wl_street_01_06",
+        "releaseConditionId": 111702,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1000953,
+        "eventStoryId": 118,
+        "gameCharacterId": 10,
+        "episodeNo": 7,
+        "title": "あなたのところまで",
+        "assetbundleName": "event_breakdown_2024_07",
+        "scenarioId": "wl_street_01_07",
+        "releaseConditionId": 111702,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1000954,
+        "eventStoryId": 118,
+        "gameCharacterId": 9,
+        "episodeNo": 8,
+        "title": "想いを背負って",
+        "assetbundleName": "event_breakdown_2024_08",
+        "scenarioId": "wl_street_01_08",
+        "releaseConditionId": 111703,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1000955,
+        "eventStoryId": 118,
+        "gameCharacterId": 9,
+        "episodeNo": 9,
+        "title": "世界中の音楽",
+        "assetbundleName": "event_breakdown_2024_09",
+        "scenarioId": "wl_street_01_09",
+        "releaseConditionId": 111703,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1000956,
+        "eventStoryId": 118,
+        "episodeNo": 10,
+        "title": "名前を刻んで",
+        "assetbundleName": "event_breakdown_2024_10",
+        "scenarioId": "wl_street_01_10",
+        "releaseConditionId": 111704,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 71
           }
         ]
       }
