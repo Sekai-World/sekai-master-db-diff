@@ -211,7 +211,8 @@
     "platform": "all",
     "title": "「Android 14」へのアップデートに関するご注意",
     "path": "information\/index.html?id=info_announce_Android14-release_20230720",
-    "startAt": 1689823800000
+    "startAt": 1689823800000,
+    "endAt": 1704790800000
   },
   {
     "id": 3024,
@@ -220,10 +221,11 @@
     "informationType": "normal",
     "informationTag": "information",
     "browseType": "internal",
-    "platform": "iOS",
-    "title": "【重要】「iOS\/iPadOS 17」へのアップデートに関するご注意 ",
+    "platform": "all",
+    "title": "「iOS\/iPadOS 17」へのアップデートに関するご注意 ",
     "path": "information\/index.html?id=info_iOS17-release_20230823",
-    "startAt": 1692777600000
+    "startAt": 1692777600000,
+    "endAt": 1704790800000
   },
   {
     "id": 3251,
@@ -866,6 +868,20 @@
     "endAt": 1704999600000
   },
   {
+    "id": 3433,
+    "seq": 1,
+    "displayOrder": 60370,
+    "informationType": "normal",
+    "informationTag": "event",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "イベント「BREAK DOWN THE WALL」開催！",
+    "path": "information\/index.html?id=info_event118_held",
+    "startAt": 1704798000000,
+    "endAt": 1706529600000,
+    "bannerAssetbundleName": "banner_news_event118"
+  },
+  {
     "id": 3434,
     "seq": 1,
     "displayOrder": 24940,
@@ -1056,5 +1072,44 @@
     "title": "【1月9日16時10分追記】アプリバージョン「v3.2.0」までに確認している不具合について",
     "path": "information\/index.html?id=bug_summary_to_v3-2-0_20231226_add4",
     "startAt": 1704784200000
+  },
+  {
+    "id": 3456,
+    "seq": 1,
+    "displayOrder": 60360,
+    "informationType": "normal",
+    "informationTag": "information",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "12月26日配信「#プロセカ放送局」Xトレンド1位記念プレゼント！",
+    "path": "information\/index.html?id=info_x-trend-present_20231226",
+    "startAt": 1704790800000,
+    "endAt": 1705345200000
+  },
+  {
+    "id": 3457,
+    "seq": 1,
+    "displayOrder": 60340,
+    "informationType": "normal",
+    "informationTag": "information",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "【1月9日18時00分追記】「Android 14」へのアップデートに関するご注意",
+    "path": "information\/index.html?id=info_announce_Android14-release_20230720_fin",
+    "startAt": 1704790800000,
+    "endAt": 1706713199000
+  },
+  {
+    "id": 3458,
+    "seq": 1,
+    "displayOrder": 60350,
+    "informationType": "normal",
+    "informationTag": "information",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "【1月9日18時00分追記】「iOS\/iPadOS 17」へのアップデートに関するご注意 ",
+    "path": "information\/index.html?id=info_iOS17-release_20230823_fin",
+    "startAt": 1704790800000,
+    "endAt": 1706713199000
   }
 ]
