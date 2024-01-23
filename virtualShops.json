@@ -6115,5 +6115,57 @@
       }
     ],
     "virtualShopType": "event"
+  },
+  {
+    "id": 246,
+    "seq": 246,
+    "name": "第119回イベント物販",
+    "virtualShopItems": [
+      {
+        "id": 423,
+        "virtualShopId": 246,
+        "virtualShopItemType": "accessory",
+        "seq": 99887,
+        "resourceBoxId": 319,
+        "costVirtualCoin": 3000,
+        "costJewel": 1000,
+        "startAt": 1705989600000
+      }
+    ],
+    "virtualShopType": "event"
+  },
+  {
+    "id": 247,
+    "seq": 247,
+    "name": "まふゆ BIRTHDAY",
+    "virtualShopItems": [
+      {
+        "id": 424,
+        "virtualShopId": 247,
+        "virtualShopItemType": "coordinate",
+        "seq": 99838,
+        "resourceBoxId": 320,
+        "costPaidJewel": 1000,
+        "startAt": 1706162400000
+      }
+    ],
+    "virtualShopType": "birthday"
+  },
+  {
+    "id": 248,
+    "seq": 248,
+    "name": "ルカ ANNIVERSARY",
+    "virtualShopItems": [
+      {
+        "id": 425,
+        "virtualShopId": 248,
+        "virtualShopItemType": "coordinate",
+        "seq": 99837,
+        "resourceBoxId": 321,
+        "costPaidJewel": 1000,
+        "startAt": 1706421600000
+      }
+    ],
+    "virtualShopType": "birthday"
   }
 ]

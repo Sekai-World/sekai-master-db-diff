@@ -5508,5 +5508,150 @@
         "resourceBoxId": 8001
       }
     ]
+  },
+  {
+    "id": 305,
+    "eventId": 119,
+    "seq": 1,
+    "eventMissionType": "live_clear_daily",
+    "eventMissionCategory": "normal",
+    "requirement1": 7,
+    "sentence": "累計7日ライブを1日1回クリアしよう。",
+    "rewards": [
+      {
+        "id": 7976,
+        "missionType": "event_mission",
+        "missionId": 305,
+        "seq": 1,
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 306,
+    "eventId": 119,
+    "seq": 2,
+    "eventMissionType": "any_live_clear",
+    "eventMissionCategory": "normal",
+    "requirement1": 50,
+    "sentence": "ライブを50回クリアしよう。",
+    "rewards": [
+      {
+        "id": 7977,
+        "missionType": "event_mission",
+        "missionId": 306,
+        "seq": 1,
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 307,
+    "eventId": 119,
+    "seq": 3,
+    "eventMissionType": "live_clear_full_combo",
+    "eventMissionCategory": "normal",
+    "requirement1": 10,
+    "sentence": "ライブで楽曲をフルコンボで10回クリアしよう。",
+    "rewards": [
+      {
+        "id": 7978,
+        "missionType": "event_mission",
+        "missionId": 307,
+        "seq": 1,
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 308,
+    "eventId": 119,
+    "seq": 4,
+    "eventMissionType": "live_clear_different_music",
+    "eventMissionCategory": "normal",
+    "requirement1": 10,
+    "requirement2": 1,
+    "sentence": "ライブで10種類の楽曲をクリアしよう。",
+    "rewards": [
+      {
+        "id": 7979,
+        "missionType": "event_mission",
+        "missionId": 308,
+        "seq": 1,
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 309,
+    "eventId": 119,
+    "seq": 5,
+    "eventMissionType": "read_last_event_story_episode",
+    "eventMissionCategory": "normal",
+    "requirement1": 1,
+    "sentence": "イベント「逆光のレンズフレア」のイベントストーリー第8話を読もう。",
+    "rewards": [
+      {
+        "id": 7980,
+        "missionType": "event_mission",
+        "missionId": 309,
+        "seq": 1,
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 310,
+    "eventId": 119,
+    "seq": 6,
+    "eventMissionType": "consume_event_item",
+    "eventMissionCategory": "normal",
+    "requirement1": 20000,
+    "sentence": "イベント「逆光のレンズフレア」の交換所でバッジを20000個消費しよう。",
+    "rewards": [
+      {
+        "id": 7981,
+        "missionType": "event_mission",
+        "missionId": 310,
+        "seq": 1,
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 311,
+    "eventId": 119,
+    "seq": 7,
+    "eventMissionType": "join_virtual_live",
+    "eventMissionCategory": "normal",
+    "requirement1": 1,
+    "sentence": "「逆光のレンズフレア アフターライブ」に参加しよう。",
+    "rewards": [
+      {
+        "id": 7982,
+        "missionType": "event_mission",
+        "missionId": 311,
+        "seq": 1,
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 312,
+    "eventId": 119,
+    "seq": 8,
+    "eventMissionType": "achieve_event_mission",
+    "eventMissionCategory": "complete",
+    "requirement1": 7,
+    "sentence": "7つのミッションを全て達成しよう。",
+    "rewards": [
+      {
+        "id": 7983,
+        "missionType": "event_mission",
+        "missionId": 312,
+        "seq": 1,
+        "resourceBoxId": 8001
+      }
+    ]
   }
 ]
