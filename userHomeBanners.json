@@ -1,27 +1,5 @@
 [
   {
-    "homeBannerId": 821,
-    "seq": 110,
-    "homeBannerType": "general",
-    "name": "[ガチャ]ビビバスワールドリンクイベ_定常ガチャバナー",
-    "assetbundleName": "banner_gacha442",
-    "transitionDestinationType": "gacha",
-    "transitionDestinationId": 442,
-    "startAt": 1704769200000,
-    "endAt": 1705978799000
-  },
-  {
-    "homeBannerId": 822,
-    "seq": 100,
-    "homeBannerType": "event",
-    "name": "[イベント]ビビバスワールドリンクイベ_イベントバナー",
-    "assetbundleName": "event_breakdown_2024",
-    "transitionDestinationType": "event",
-    "transitionDestinationId": 118,
-    "startAt": 1704798000000,
-    "endAt": 1705989599000
-  },
-  {
     "homeBannerId": 825,
     "seq": 150,
     "homeBannerType": "general",
@@ -42,5 +20,27 @@
     "transitionDestinationId": 445,
     "startAt": 1705374000000,
     "endAt": 1706151599000
+  },
+  {
+    "homeBannerId": 827,
+    "seq": 110,
+    "homeBannerType": "general",
+    "name": "[ガチャ]ワンダショ箱イベ16巡目_定常ガチャバナー",
+    "assetbundleName": "banner_gacha446",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 446,
+    "startAt": 1705978800000,
+    "endAt": 1706669999000
+  },
+  {
+    "homeBannerId": 828,
+    "seq": 100,
+    "homeBannerType": "event",
+    "name": "[イベント]ワンダショ箱イベ16巡目_イベントバナー",
+    "assetbundleName": "event_lensflare_2024",
+    "transitionDestinationType": "event",
+    "transitionDestinationId": 119,
+    "startAt": 1705989600000,
+    "endAt": 1706680799000
   }
 ]
