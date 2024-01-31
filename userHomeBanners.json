@@ -1,27 +1,5 @@
 [
   {
-    "homeBannerId": 827,
-    "seq": 110,
-    "homeBannerType": "general",
-    "name": "[ガチャ]ワンダショ箱イベ16巡目_定常ガチャバナー",
-    "assetbundleName": "banner_gacha446",
-    "transitionDestinationType": "gacha",
-    "transitionDestinationId": 446,
-    "startAt": 1705978800000,
-    "endAt": 1706669999000
-  },
-  {
-    "homeBannerId": 828,
-    "seq": 100,
-    "homeBannerType": "event",
-    "name": "[イベント]ワンダショ箱イベ16巡目_イベントバナー",
-    "assetbundleName": "event_lensflare_2024",
-    "transitionDestinationType": "event",
-    "transitionDestinationId": 119,
-    "startAt": 1705989600000,
-    "endAt": 1706680799000
-  },
-  {
     "homeBannerId": 830,
     "seq": 90,
     "homeBannerType": "general",
@@ -31,5 +9,27 @@
     "transitionDestinationId": 447,
     "startAt": 1706238000000,
     "endAt": 1707015599000
+  },
+  {
+    "homeBannerId": 836,
+    "seq": 110,
+    "homeBannerType": "general",
+    "name": "[ガチャ]シャッフルバレンタイン2024イベ_定常ガチャバナー",
+    "assetbundleName": "banner_gacha454",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 454,
+    "startAt": 1706670000000,
+    "endAt": 1707533999000
+  },
+  {
+    "homeBannerId": 837,
+    "seq": 100,
+    "homeBannerType": "event",
+    "name": "[イベント]シャッフルバレンタイン2024イベ_イベントバナー",
+    "assetbundleName": "event_bestshot_2024",
+    "transitionDestinationType": "event",
+    "transitionDestinationId": 120,
+    "startAt": 1706698800000,
+    "endAt": 1707544799000
   }
 ]
