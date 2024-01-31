@@ -3299,6 +3299,19 @@
     "purchaseOption": "exchange"
   },
   {
+    "id": 10161,
+    "seq": 185,
+    "billingShopItemType": "value_set",
+    "name": "サイドストーリーチケット×3",
+    "description": "サイドストーリーチケット×3",
+    "billableLimitType": "unlimited",
+    "billableLimitResetIntervalType": "none",
+    "assetbundleName": "shop_10161",
+    "resourceBoxId": 272,
+    "startAt": 1706666400000,
+    "purchaseOption": "exchange"
+  },
+  {
     "id": 300000,
     "seq": 300000,
     "billingShopItemType": "costume_3d",
@@ -5522,6 +5535,71 @@
     "assetbundleName": "shop_300505",
     "resourceBoxId": 270,
     "startAt": 1704034800000,
+    "purchaseOption": "exchange"
+  },
+  {
+    "id": 300510,
+    "seq": 300510,
+    "billingShopItemType": "costume_3d",
+    "saleType": "bundle",
+    "name": "「忍者」衣装全カラー",
+    "billableLimitType": "count",
+    "billableLimitValue": 1,
+    "billableLimitResetIntervalType": "none",
+    "resourceBoxId": 273,
+    "startAt": 1706713200000,
+    "purchaseOption": "exchange"
+  },
+  {
+    "id": 300511,
+    "seq": 300511,
+    "billingShopItemType": "costume_3d",
+    "saleType": "single",
+    "name": "「忍者」衣装オリジナルカラー",
+    "billableLimitType": "count",
+    "billableLimitValue": 1,
+    "billableLimitResetIntervalType": "none",
+    "resourceBoxId": 274,
+    "startAt": 1706713200000,
+    "purchaseOption": "exchange"
+  },
+  {
+    "id": 300512,
+    "seq": 300512,
+    "billingShopItemType": "costume_3d",
+    "saleType": "single",
+    "name": "「忍者」衣装アナザーカラー1",
+    "billableLimitType": "count",
+    "billableLimitValue": 1,
+    "billableLimitResetIntervalType": "none",
+    "resourceBoxId": 275,
+    "startAt": 1706713200000,
+    "purchaseOption": "exchange"
+  },
+  {
+    "id": 300513,
+    "seq": 300513,
+    "billingShopItemType": "costume_3d",
+    "saleType": "single",
+    "name": "「忍者」衣装アナザーカラー2",
+    "billableLimitType": "count",
+    "billableLimitValue": 1,
+    "billableLimitResetIntervalType": "none",
+    "resourceBoxId": 276,
+    "startAt": 1706713200000,
+    "purchaseOption": "exchange"
+  },
+  {
+    "id": 300514,
+    "seq": 300514,
+    "billingShopItemType": "costume_3d",
+    "saleType": "single",
+    "name": "「忍者」衣装アナザーカラー3",
+    "billableLimitType": "count",
+    "billableLimitValue": 1,
+    "billableLimitResetIntervalType": "none",
+    "resourceBoxId": 277,
+    "startAt": 1706713200000,
     "purchaseOption": "exchange"
   }
 ]

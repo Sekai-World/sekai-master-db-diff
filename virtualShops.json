@@ -6167,5 +6167,40 @@
       }
     ],
     "virtualShopType": "birthday"
+  },
+  {
+    "id": 249,
+    "seq": 249,
+    "name": "第120回イベント物販",
+    "virtualShopItems": [
+      {
+        "id": 426,
+        "virtualShopId": 249,
+        "virtualShopItemType": "accessory",
+        "seq": 99886,
+        "resourceBoxId": 322,
+        "costVirtualCoin": 3000,
+        "costJewel": 1000,
+        "startAt": 1706698800000
+      }
+    ],
+    "virtualShopType": "event"
+  },
+  {
+    "id": 250,
+    "seq": 250,
+    "name": "奏 BIRTHDAY",
+    "virtualShopItems": [
+      {
+        "id": 427,
+        "virtualShopId": 250,
+        "virtualShopItemType": "coordinate",
+        "seq": 99836,
+        "resourceBoxId": 323,
+        "costPaidJewel": 1000,
+        "startAt": 1707372000000
+      }
+    ],
+    "virtualShopType": "birthday"
   }
 ]
