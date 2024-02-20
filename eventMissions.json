@@ -5943,5 +5943,150 @@
         "resourceBoxId": 8001
       }
     ]
+  },
+  {
+    "id": 329,
+    "eventId": 122,
+    "seq": 1,
+    "eventMissionType": "live_clear_daily",
+    "eventMissionCategory": "normal",
+    "requirement1": 8,
+    "sentence": "累計8日ライブを1日1回クリアしよう。",
+    "rewards": [
+      {
+        "id": 8200,
+        "missionType": "event_mission",
+        "missionId": 329,
+        "seq": 1,
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 330,
+    "eventId": 122,
+    "seq": 2,
+    "eventMissionType": "any_live_clear",
+    "eventMissionCategory": "normal",
+    "requirement1": 50,
+    "sentence": "ライブを50回クリアしよう。",
+    "rewards": [
+      {
+        "id": 8201,
+        "missionType": "event_mission",
+        "missionId": 330,
+        "seq": 1,
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 331,
+    "eventId": 122,
+    "seq": 3,
+    "eventMissionType": "live_clear_full_combo",
+    "eventMissionCategory": "normal",
+    "requirement1": 10,
+    "sentence": "ライブで楽曲をフルコンボで10回クリアしよう。",
+    "rewards": [
+      {
+        "id": 8202,
+        "missionType": "event_mission",
+        "missionId": 331,
+        "seq": 1,
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 332,
+    "eventId": 122,
+    "seq": 4,
+    "eventMissionType": "live_clear_different_music",
+    "eventMissionCategory": "normal",
+    "requirement1": 10,
+    "requirement2": 1,
+    "sentence": "ライブで10種類の楽曲をクリアしよう。",
+    "rewards": [
+      {
+        "id": 8203,
+        "missionType": "event_mission",
+        "missionId": 332,
+        "seq": 1,
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 333,
+    "eventId": 122,
+    "seq": 5,
+    "eventMissionType": "read_last_event_story_episode",
+    "eventMissionCategory": "normal",
+    "requirement1": 1,
+    "sentence": "イベント「刻まれた傷は、やがて」のイベントストーリー第8話を読もう。",
+    "rewards": [
+      {
+        "id": 8204,
+        "missionType": "event_mission",
+        "missionId": 333,
+        "seq": 1,
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 334,
+    "eventId": 122,
+    "seq": 6,
+    "eventMissionType": "consume_event_item",
+    "eventMissionCategory": "normal",
+    "requirement1": 20000,
+    "sentence": "イベント「刻まれた傷は、やがて」の交換所でバッジを20000個消費しよう。",
+    "rewards": [
+      {
+        "id": 8205,
+        "missionType": "event_mission",
+        "missionId": 334,
+        "seq": 1,
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 335,
+    "eventId": 122,
+    "seq": 7,
+    "eventMissionType": "join_virtual_live",
+    "eventMissionCategory": "normal",
+    "requirement1": 1,
+    "sentence": "「刻まれた傷は、やがて アフターライブ」に参加しよう。",
+    "rewards": [
+      {
+        "id": 8206,
+        "missionType": "event_mission",
+        "missionId": 335,
+        "seq": 1,
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 336,
+    "eventId": 122,
+    "seq": 8,
+    "eventMissionType": "achieve_event_mission",
+    "eventMissionCategory": "complete",
+    "requirement1": 7,
+    "sentence": "7つのミッションを全て達成しよう。",
+    "rewards": [
+      {
+        "id": 8207,
+        "missionType": "event_mission",
+        "missionId": 336,
+        "seq": 1,
+        "resourceBoxId": 8001
+      }
+    ]
   }
 ]
