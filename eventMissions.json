@@ -6088,5 +6088,150 @@
         "resourceBoxId": 8001
       }
     ]
+  },
+  {
+    "id": 337,
+    "eventId": 123,
+    "seq": 1,
+    "eventMissionType": "live_clear_daily",
+    "eventMissionCategory": "normal",
+    "requirement1": 7,
+    "sentence": "累計7日ライブを1日1回クリアしよう。",
+    "rewards": [
+      {
+        "id": 8208,
+        "missionType": "event_mission",
+        "missionId": 337,
+        "seq": 1,
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 338,
+    "eventId": 123,
+    "seq": 2,
+    "eventMissionType": "any_live_clear",
+    "eventMissionCategory": "normal",
+    "requirement1": 50,
+    "sentence": "ライブを50回クリアしよう。",
+    "rewards": [
+      {
+        "id": 8209,
+        "missionType": "event_mission",
+        "missionId": 338,
+        "seq": 1,
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 339,
+    "eventId": 123,
+    "seq": 3,
+    "eventMissionType": "live_clear_full_combo",
+    "eventMissionCategory": "normal",
+    "requirement1": 10,
+    "sentence": "ライブで楽曲をフルコンボで10回クリアしよう。",
+    "rewards": [
+      {
+        "id": 8210,
+        "missionType": "event_mission",
+        "missionId": 339,
+        "seq": 1,
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 340,
+    "eventId": 123,
+    "seq": 4,
+    "eventMissionType": "live_clear_different_music",
+    "eventMissionCategory": "normal",
+    "requirement1": 10,
+    "requirement2": 1,
+    "sentence": "ライブで10種類の楽曲をクリアしよう。",
+    "rewards": [
+      {
+        "id": 8211,
+        "missionType": "event_mission",
+        "missionId": 340,
+        "seq": 1,
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 341,
+    "eventId": 123,
+    "seq": 5,
+    "eventMissionType": "read_last_event_story_episode",
+    "eventMissionCategory": "normal",
+    "requirement1": 1,
+    "sentence": "イベント「リラックスティータイム」のイベントストーリー第8話を読もう。",
+    "rewards": [
+      {
+        "id": 8212,
+        "missionType": "event_mission",
+        "missionId": 341,
+        "seq": 1,
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 342,
+    "eventId": 123,
+    "seq": 6,
+    "eventMissionType": "consume_event_item",
+    "eventMissionCategory": "normal",
+    "requirement1": 20000,
+    "sentence": "イベント「リラックスティータイム」の交換所でバッジを20000個消費しよう。",
+    "rewards": [
+      {
+        "id": 8213,
+        "missionType": "event_mission",
+        "missionId": 342,
+        "seq": 1,
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 343,
+    "eventId": 123,
+    "seq": 7,
+    "eventMissionType": "join_virtual_live",
+    "eventMissionCategory": "normal",
+    "requirement1": 1,
+    "sentence": "「リラックスティータイム アフターライブ」に参加しよう。",
+    "rewards": [
+      {
+        "id": 8214,
+        "missionType": "event_mission",
+        "missionId": 343,
+        "seq": 1,
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 344,
+    "eventId": 123,
+    "seq": 8,
+    "eventMissionType": "achieve_event_mission",
+    "eventMissionCategory": "complete",
+    "requirement1": 7,
+    "sentence": "7つのミッションを全て達成しよう。",
+    "rewards": [
+      {
+        "id": 8215,
+        "missionType": "event_mission",
+        "missionId": 344,
+        "seq": 1,
+        "resourceBoxId": 8001
+      }
+    ]
   }
 ]
