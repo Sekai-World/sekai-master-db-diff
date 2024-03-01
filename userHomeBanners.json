@@ -1,27 +1,5 @@
 [
   {
-    "homeBannerId": 849,
-    "seq": 110,
-    "homeBannerType": "general",
-    "name": "[ガチャ]モモジャン箱イベ16巡目_定常ガチャバナー",
-    "assetbundleName": "banner_gacha466",
-    "transitionDestinationType": "gacha",
-    "transitionDestinationId": 466,
-    "startAt": 1708398000000,
-    "endAt": 1709175599000
-  },
-  {
-    "homeBannerId": 850,
-    "seq": 100,
-    "homeBannerType": "event",
-    "name": "[イベント]モモジャン箱イベ16巡目_イベントバナー",
-    "assetbundleName": "event_graven_2024",
-    "transitionDestinationType": "event",
-    "transitionDestinationId": 122,
-    "startAt": 1708408800000,
-    "endAt": 1709186399000
-  },
-  {
     "homeBannerId": 853,
     "seq": 90,
     "homeBannerType": "general",
@@ -31,5 +9,38 @@
     "transitionDestinationId": 467,
     "startAt": 1708743600000,
     "endAt": 1709521199000
+  },
+  {
+    "homeBannerId": 854,
+    "seq": 110,
+    "homeBannerType": "general",
+    "name": "[ガチャ]シャッフルホワイトデー_定常ガチャバナー",
+    "assetbundleName": "banner_gacha468",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 468,
+    "startAt": 1709175600000,
+    "endAt": 1709866799000
+  },
+  {
+    "homeBannerId": 855,
+    "seq": 100,
+    "homeBannerType": "event",
+    "name": "[イベント]シャッフルホワイトデー_イベントバナー",
+    "assetbundleName": "event_teatime_2024",
+    "transitionDestinationType": "event",
+    "transitionDestinationId": 123,
+    "startAt": 1709186400000,
+    "endAt": 1709895599000
+  },
+  {
+    "homeBannerId": 856,
+    "seq": 130,
+    "homeBannerType": "general",
+    "name": "[小豆沢こはね]HAPPY BIRTHDAYライブ",
+    "assetbundleName": "banner_virtuallive289",
+    "transitionDestinationType": "virtual_live",
+    "transitionDestinationId": 289,
+    "startAt": 1709186400000,
+    "endAt": 1709305199000
   }
 ]
