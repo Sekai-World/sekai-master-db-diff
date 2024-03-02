@@ -33,14 +33,25 @@
     "endAt": 1709895599000
   },
   {
-    "homeBannerId": 856,
+    "homeBannerId": 857,
     "seq": 130,
     "homeBannerType": "general",
-    "name": "[小豆沢こはね]HAPPY BIRTHDAYライブ",
-    "assetbundleName": "banner_virtuallive289",
-    "transitionDestinationType": "virtual_live",
-    "transitionDestinationId": 289,
-    "startAt": 1709186400000,
-    "endAt": 1709305199000
+    "name": "[小豆沢こはね]HAPPY BIRTHDAY2024ガチャ",
+    "assetbundleName": "banner_gacha470",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 470,
+    "startAt": 1709305200000,
+    "endAt": 1709391599000
+  },
+  {
+    "homeBannerId": 858,
+    "seq": 130,
+    "homeBannerType": "general",
+    "name": "[ガチャ]ワールドリンクイベントサポートガチャ",
+    "assetbundleName": "banner_gacha469",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 469,
+    "startAt": 1709262000000,
+    "endAt": 1709866799000
   }
 ]
