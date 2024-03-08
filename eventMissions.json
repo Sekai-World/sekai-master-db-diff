@@ -6233,5 +6233,150 @@
         "resourceBoxId": 8001
       }
     ]
+  },
+  {
+    "id": 345,
+    "eventId": 124,
+    "seq": 1,
+    "eventMissionType": "live_clear_daily",
+    "eventMissionCategory": "normal",
+    "requirement1": 13,
+    "sentence": "累計13日ライブを1日1回クリアしよう。",
+    "rewards": [
+      {
+        "id": 8416,
+        "missionType": "event_mission",
+        "missionId": 345,
+        "seq": 1,
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 346,
+    "eventId": 124,
+    "seq": 2,
+    "eventMissionType": "any_live_clear",
+    "eventMissionCategory": "normal",
+    "requirement1": 50,
+    "sentence": "ライブを50回クリアしよう。",
+    "rewards": [
+      {
+        "id": 8417,
+        "missionType": "event_mission",
+        "missionId": 346,
+        "seq": 1,
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 347,
+    "eventId": 124,
+    "seq": 3,
+    "eventMissionType": "live_clear_full_combo",
+    "eventMissionCategory": "normal",
+    "requirement1": 10,
+    "sentence": "ライブで楽曲をフルコンボで10回クリアしよう。",
+    "rewards": [
+      {
+        "id": 8418,
+        "missionType": "event_mission",
+        "missionId": 347,
+        "seq": 1,
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 348,
+    "eventId": 124,
+    "seq": 4,
+    "eventMissionType": "live_clear_different_music",
+    "eventMissionCategory": "normal",
+    "requirement1": 10,
+    "requirement2": 1,
+    "sentence": "ライブで10種類の楽曲をクリアしよう。",
+    "rewards": [
+      {
+        "id": 8419,
+        "missionType": "event_mission",
+        "missionId": 348,
+        "seq": 1,
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 349,
+    "eventId": 124,
+    "seq": 5,
+    "eventMissionType": "read_last_event_story_episode",
+    "eventMissionCategory": "normal",
+    "requirement1": 1,
+    "sentence": "イベント「星を目指して、ヨーソロー！」のエンディングを読もう。",
+    "rewards": [
+      {
+        "id": 8420,
+        "missionType": "event_mission",
+        "missionId": 349,
+        "seq": 1,
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 350,
+    "eventId": 124,
+    "seq": 6,
+    "eventMissionType": "consume_event_item",
+    "eventMissionCategory": "normal",
+    "requirement1": 20000,
+    "sentence": "イベント「星を目指して、ヨーソロー！」の交換所でバッジを20000個消費しよう。",
+    "rewards": [
+      {
+        "id": 8421,
+        "missionType": "event_mission",
+        "missionId": 350,
+        "seq": 1,
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 351,
+    "eventId": 124,
+    "seq": 7,
+    "eventMissionType": "join_virtual_live",
+    "eventMissionCategory": "normal",
+    "requirement1": 1,
+    "sentence": "「星を目指して、ヨーソロー！ アフターライブ」に参加しよう。",
+    "rewards": [
+      {
+        "id": 8422,
+        "missionType": "event_mission",
+        "missionId": 351,
+        "seq": 1,
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 352,
+    "eventId": 124,
+    "seq": 8,
+    "eventMissionType": "achieve_event_mission",
+    "eventMissionCategory": "complete",
+    "requirement1": 7,
+    "sentence": "7つのミッションを全て達成しよう。",
+    "rewards": [
+      {
+        "id": 8423,
+        "missionType": "event_mission",
+        "missionId": 352,
+        "seq": 1,
+        "resourceBoxId": 8001
+      }
+    ]
   }
 ]

@@ -6289,5 +6289,39 @@
       }
     ],
     "virtualShopType": "birthday"
+  },
+  {
+    "id": 256,
+    "seq": 256,
+    "name": "第124回イベント物販",
+    "virtualShopItems": [
+      {
+        "id": 433,
+        "virtualShopId": 256,
+        "virtualShopItemType": "penlight",
+        "seq": 99913,
+        "resourceBoxId": 329,
+        "costPaidJewel": 1000,
+        "startAt": 1709895600000
+      }
+    ],
+    "virtualShopType": "event"
+  },
+  {
+    "id": 257,
+    "seq": 257,
+    "name": "愛莉 BIRTHDAY",
+    "virtualShopItems": [
+      {
+        "id": 434,
+        "virtualShopId": 257,
+        "virtualShopItemType": "coordinate",
+        "seq": 99833,
+        "resourceBoxId": 330,
+        "costPaidJewel": 1000,
+        "startAt": 1710655200000
+      }
+    ],
+    "virtualShopType": "birthday"
   }
 ]

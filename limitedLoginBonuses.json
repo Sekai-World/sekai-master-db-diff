@@ -2067,5 +2067,39 @@
         "resourceBoxId": 111
       }
     ]
+  },
+  {
+    "id": 86,
+    "seq": 86,
+    "name": "ミクの日記念ログインキャンペーン",
+    "startAt": 1709910000000,
+    "endAt": 1709996399000,
+    "assetbundleName": "mikusday_2024",
+    "closeAt": 1709996399000,
+    "limitedLoginBonusDetails": [
+      {
+        "id": 190,
+        "limitedLoginBonusId": 86,
+        "day": 1,
+        "resourceBoxId": 112
+      }
+    ]
+  },
+  {
+    "id": 87,
+    "seq": 87,
+    "name": "ホワイトデーログインキャンペーン",
+    "startAt": 1710342000000,
+    "endAt": 1710514799000,
+    "assetbundleName": "whiteday_2024",
+    "closeAt": 1710514799000,
+    "limitedLoginBonusDetails": [
+      {
+        "id": 191,
+        "limitedLoginBonusId": 87,
+        "day": 1,
+        "resourceBoxId": 113
+      }
+    ]
   }
 ]
