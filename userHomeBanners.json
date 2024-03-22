@@ -1,27 +1,5 @@
 [
   {
-    "homeBannerId": 859,
-    "seq": 110,
-    "homeBannerType": "general",
-    "name": "[ガチャ]ワンダショワールドリンクイベ_定常ガチャバナー",
-    "assetbundleName": "banner_gacha474",
-    "transitionDestinationType": "gacha",
-    "transitionDestinationId": 474,
-    "startAt": 1709866800000,
-    "endAt": 1711076399000
-  },
-  {
-    "homeBannerId": 860,
-    "seq": 100,
-    "homeBannerType": "event",
-    "name": "[イベント]ワンダショワールドリンクイベ_イベントバナー",
-    "assetbundleName": "event_yosoro_2024",
-    "transitionDestinationType": "event",
-    "transitionDestinationId": 124,
-    "startAt": 1709895600000,
-    "endAt": 1711087199000
-  },
-  {
     "homeBannerId": 864,
     "seq": 150,
     "homeBannerType": "general",
@@ -42,5 +20,27 @@
     "transitionDestinationId": 478,
     "startAt": 1710730800000,
     "endAt": 1711508399000
+  },
+  {
+    "homeBannerId": 868,
+    "seq": 110,
+    "homeBannerType": "general",
+    "name": "[ガチャ]ビビバス箱イベ16巡目_定常ガチャバナー",
+    "assetbundleName": "banner_gacha482",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 482,
+    "startAt": 1711076400000,
+    "endAt": 1711767599000
+  },
+  {
+    "homeBannerId": 870,
+    "seq": 100,
+    "homeBannerType": "event",
+    "name": "[イベント]ビビバス箱イベ16巡目_イベントバナー",
+    "assetbundleName": "event_concerto_2024",
+    "transitionDestinationType": "event",
+    "transitionDestinationId": 125,
+    "startAt": 1711087200000,
+    "endAt": 1711778399000
   }
 ]
