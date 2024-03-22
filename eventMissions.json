@@ -6378,5 +6378,150 @@
         "resourceBoxId": 8001
       }
     ]
+  },
+  {
+    "id": 353,
+    "eventId": 125,
+    "seq": 1,
+    "eventMissionType": "live_clear_daily",
+    "eventMissionCategory": "normal",
+    "requirement1": 7,
+    "sentence": "累計7日ライブを1日1回クリアしよう。",
+    "rewards": [
+      {
+        "id": 8424,
+        "missionType": "event_mission",
+        "missionId": 353,
+        "seq": 1,
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 354,
+    "eventId": 125,
+    "seq": 2,
+    "eventMissionType": "any_live_clear",
+    "eventMissionCategory": "normal",
+    "requirement1": 50,
+    "sentence": "ライブを50回クリアしよう。",
+    "rewards": [
+      {
+        "id": 8425,
+        "missionType": "event_mission",
+        "missionId": 354,
+        "seq": 1,
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 355,
+    "eventId": 125,
+    "seq": 3,
+    "eventMissionType": "live_clear_full_combo",
+    "eventMissionCategory": "normal",
+    "requirement1": 10,
+    "sentence": "ライブで楽曲をフルコンボで10回クリアしよう。",
+    "rewards": [
+      {
+        "id": 8426,
+        "missionType": "event_mission",
+        "missionId": 355,
+        "seq": 1,
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 356,
+    "eventId": 125,
+    "seq": 4,
+    "eventMissionType": "live_clear_different_music",
+    "eventMissionCategory": "normal",
+    "requirement1": 10,
+    "requirement2": 1,
+    "sentence": "ライブで10種類の楽曲をクリアしよう。",
+    "rewards": [
+      {
+        "id": 8427,
+        "missionType": "event_mission",
+        "missionId": 356,
+        "seq": 1,
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 357,
+    "eventId": 125,
+    "seq": 5,
+    "eventMissionType": "read_last_event_story_episode",
+    "eventMissionCategory": "normal",
+    "requirement1": 1,
+    "sentence": "イベント「The first concerto」のイベントストーリー第8話を読もう。",
+    "rewards": [
+      {
+        "id": 8428,
+        "missionType": "event_mission",
+        "missionId": 357,
+        "seq": 1,
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 358,
+    "eventId": 125,
+    "seq": 6,
+    "eventMissionType": "consume_event_item",
+    "eventMissionCategory": "normal",
+    "requirement1": 20000,
+    "sentence": "イベント「The first concerto」の交換所でバッジを20000個消費しよう。",
+    "rewards": [
+      {
+        "id": 8429,
+        "missionType": "event_mission",
+        "missionId": 358,
+        "seq": 1,
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 359,
+    "eventId": 125,
+    "seq": 7,
+    "eventMissionType": "join_virtual_live",
+    "eventMissionCategory": "normal",
+    "requirement1": 1,
+    "sentence": "「The first concerto アフターライブ」に参加しよう。",
+    "rewards": [
+      {
+        "id": 8430,
+        "missionType": "event_mission",
+        "missionId": 359,
+        "seq": 1,
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 360,
+    "eventId": 125,
+    "seq": 8,
+    "eventMissionType": "achieve_event_mission",
+    "eventMissionCategory": "complete",
+    "requirement1": 7,
+    "sentence": "7つのミッションを全て達成しよう。",
+    "rewards": [
+      {
+        "id": 8431,
+        "missionType": "event_mission",
+        "missionId": 360,
+        "seq": 1,
+        "resourceBoxId": 8001
+      }
+    ]
   }
 ]
