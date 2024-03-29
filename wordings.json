@@ -116,6 +116,14 @@
     "value": "ライブPの獲得について"
   },
   {
+    "wordingKey": "MSG_ABOUT_LIVE_POINT_AD_REWARD_CONTENT",
+    "value": "1日1回まで「ライブP&想いのカケラプレゼント」のCM視聴を完了するとライブPを<color=#ff5599>30獲得<\/color>できます。"
+  },
+  {
+    "wordingKey": "MSG_ABOUT_LIVE_POINT_AD_REWARD_CONTENT_TITLE",
+    "value": "CM視聴"
+  },
+  {
     "wordingKey": "MSG_ABOUT_LIVE_POINT_BONUS_MISSION_CONTENT",
     "value": "イベント期間に開催されるボーナスミッションを1つクリアする毎に\nライブPを<color=#ff5599>50獲得<\/color>できます。\nまた、全ミッションクリアでさらにライブPを<color=#ff5599>150獲得<\/color>できます。"
   },
@@ -170,6 +178,58 @@
   {
     "wordingKey": "MSG_ADMISSION_LIMIT_PAID_FOR_CONNECT_LIVE",
     "value": "「お試し入場」での視聴可能範囲が過ぎました。\n公演の続きを見る場合は、チケットを購入してください。"
+  },
+  {
+    "wordingKey": "MSG_ADREWARD_WEBVIEW_OPEN",
+    "value": "報酬詳細"
+  },
+  {
+    "wordingKey": "MSG_AD_REWARD_BOOST_CONFIRM_DIALOG",
+    "value": "CMを視聴してライブボーナスを5回復します。\nよろしいですか？\n<size=24><color=#ff5599>一定時間視聴後に出現する「閉じるマーク」のタップで報酬を貰えます。<\/color><\/size>"
+  },
+  {
+    "wordingKey": "MSG_AD_REWARD_CONFIRM_DIALOG",
+    "value": "CM視聴を開始してよろしいですか？\n<size=24><color=#ff5599>一定時間視聴後に出現する「閉じるマーク」のタップで報酬を貰えます。<\/color><\/size>"
+  },
+  {
+    "wordingKey": "MSG_AD_REWARD_COTION",
+    "value": "CMは弊社が適切と判断したカテゴリのもののみ配信しておりますが、\n万が一不適切に感じる映像が再生された場合はサポートよりご連絡ください。\nただちに調査を行い、不適切と判断した場合は停止いたします。"
+  },
+  {
+    "wordingKey": "MSG_AD_REWARD_DAILY_COUNT",
+    "value": "本日あと{0}回"
+  },
+  {
+    "wordingKey": "MSG_AD_REWARD_DAILY_END",
+    "value": "本日分終了"
+  },
+  {
+    "wordingKey": "MSG_AD_REWARD_ERROR",
+    "value": "CM視聴を完了できなかったため、報酬を受け取ることができませんでした。"
+  },
+  {
+    "wordingKey": "MSG_AD_REWARD_EVENT_EXPIRED",
+    "value": "イベント期間が終了したため利用することができません。"
+  },
+  {
+    "wordingKey": "MSG_AD_REWARD_LIVE_BOOST_RECOVER_ANOUNCE",
+    "value": "ライブボーナスが99を超える場合、\n超過分は切り捨てられます。\nライブボーナスを回復しますか？"
+  },
+  {
+    "wordingKey": "MSG_AD_REWARD_MASTER_EXPIRED",
+    "value": "現在、この機能は期間外のためご利用になれません。"
+  },
+  {
+    "wordingKey": "MSG_AD_REWARD_NOT_READY",
+    "value": "広告を読み込むことができませんでした。時間をおいてお試しください。"
+  },
+  {
+    "wordingKey": "MSG_AD_REWARD_PRESENT_BOX",
+    "value": "毎日抽選でアイテムか★2～★4メンバーをGET！"
+  },
+  {
+    "wordingKey": "MSG_AD_REWARD_WORLD_LINK_EVENT_CHAPTER_EXPIRED",
+    "value": "チャプター期間が終了したため利用することができません。"
   },
   {
     "wordingKey": "MSG_ALBUM_PERMISSION_NOT_GRANTED",
@@ -333,7 +393,7 @@
   },
   {
     "wordingKey": "MSG_BONDS_CHARACTER_SELECT_DESCRIPTION",
-    "value": "「<color=#ff77aa>{0}<\/color>」とのキズナランクを確認するキャラクターを選択してください"
+    "value": "「<color=#77eedd>{0}<\/color>」とのキズナランクを確認するキャラクターを選択してください"
   },
   {
     "wordingKey": "MSG_BONDS_RANK_MAX",
@@ -434,6 +494,10 @@
   {
     "wordingKey": "MSG_CHAPTER_RANKING_REWARD_HEAD_LINE",
     "value": " のランキング報酬"
+  },
+  {
+    "wordingKey": "MSG_CHARACTER_ARCHIVE_VOICE_LOAD_ERROR",
+    "value": "ダウンロードに失敗しました。"
   },
   {
     "wordingKey": "MSG_CHARACTER_MISSION_RECEIVED_MISSION_DIALOG_BODY",
@@ -1004,12 +1068,20 @@
     "value": "{0}で交換"
   },
   {
+    "wordingKey": "MSG_EXCHANGE_OUT_OF_DATE",
+    "value": "期限が過ぎたため、交換できませんでした。"
+  },
+  {
+    "wordingKey": "MSG_EXCHANGE_SUCCESS",
+    "value": "{0}を交換しました。"
+  },
+  {
     "wordingKey": "MSG_EXCHANGE_VIRTUAL_COIN",
     "value": "バーチャルコインで交換"
   },
   {
     "wordingKey": "MSG_EXHCHANGE_TICKET_LIMIT_ALERT",
-    "value": "交換期限が近いセレクトチケットがあります。\nチケット交換所へ移動しますか？"
+    "value": "交換期限が近いチケットがあります。\nチケット交換所へ移動しますか？"
   },
   {
     "wordingKey": "MSG_EXP",
@@ -2356,6 +2428,10 @@
     "value": "あと<size={0}>{1}回<\/size>"
   },
   {
+    "wordingKey": "MSG_REPLACE_CUT_IN_NOTE",
+    "value": "※変更前後のいずれかのセリフで条件を満たすと解放されます。"
+  },
+  {
     "wordingKey": "MSG_REQUIRE_MEMBER_LV",
     "value": "メンバーLv.{0}以上が必要です。"
   },
@@ -2609,7 +2685,7 @@
   },
   {
     "wordingKey": "MSG_STAMP_CARD_BACK_SCREEN_WARNING",
-    "value": "スタンプカードの設定が完了していません。\nスタンプミッションはスタンプカードを3枚選択し、\n「ミッションスタート」することで開始できます。\nスタンプカードをあとで設定しますか？\n\n<color=#ff5588>※スタンプカードは「ミッションスタート」するまで\n何度でも変更できます。<\/color>"
+    "value": "スタンプカードの設定が完了していません。\nスタンプミッションはスタンプカードを{0}枚選択し、\n「ミッションスタート」することで開始できます。\nスタンプカードをあとで設定しますか？\n\n<color=#ff5588>※スタンプカードは「ミッションスタート」するまで\n何度でも変更できます。<\/color>"
   },
   {
     "wordingKey": "MSG_STAMP_CARD_CHOOSE_TO_REQUEST",
@@ -3260,6 +3336,50 @@
     "value": "＋{0}"
   },
   {
+    "wordingKey": "WORD_AD_REWARD_COMMON_LABEL",
+    "value": "CM視聴"
+  },
+  {
+    "wordingKey": "WORD_AD_REWARD_CONFIRM_DIALOG_OK",
+    "value": "視聴開始"
+  },
+  {
+    "wordingKey": "WORD_AD_REWARD_HOME_LABEL",
+    "value": "CM"
+  },
+  {
+    "wordingKey": "WORD_AD_REWARD_LIST_CRYSTAL",
+    "value": "クリスタルプレゼント"
+  },
+  {
+    "wordingKey": "WORD_AD_REWARD_LIST_EVENT",
+    "value": "イベントバッジプレゼント"
+  },
+  {
+    "wordingKey": "WORD_AD_REWARD_LIST_LIVE_BONUS",
+    "value": "ライブボーナス5回復"
+  },
+  {
+    "wordingKey": "WORD_AD_REWARD_LIST_LIVE_MISSION",
+    "value": "ライブP＆想いのカケラ\nプレゼント"
+  },
+  {
+    "wordingKey": "WORD_AD_REWARD_LIST_PRESENT",
+    "value": "スペシャルギフト"
+  },
+  {
+    "wordingKey": "WORD_AD_REWARD_LIVE_BONUS",
+    "value": "CM視聴で回復"
+  },
+  {
+    "wordingKey": "WORD_AD_REWARD_LIVE_BONUS_LIMIT",
+    "value": "ライブボーナス上限"
+  },
+  {
+    "wordingKey": "WORD_AD_REWARD_MUSIC_SHOP",
+    "value": "CM視聴で交換"
+  },
+  {
     "wordingKey": "WORD_AFTER_LIVE",
     "value": "アフターライブ"
   },
@@ -3644,6 +3764,10 @@
     "value": "キズナランク報酬一覧"
   },
   {
+    "wordingKey": "WORD_BOND_VOICE",
+    "value": "掛け合い"
+  },
+  {
     "wordingKey": "WORD_BONUS",
     "value": "ボーナス"
   },
@@ -3828,6 +3952,10 @@
     "value": "想いの結晶"
   },
   {
+    "wordingKey": "WORD_CARD_RELEASE_CONDITION_FORMAT",
+    "value": "「{0} {1}」を入手"
+  },
+  {
     "wordingKey": "WORD_CARD_SORT",
     "value": "メンバー並び替え"
   },
@@ -3976,16 +4104,80 @@
     "value": "アルバム"
   },
   {
+    "wordingKey": "WORD_CHARACTER_ARCHIVE_CARD_PREFIX_FORMAT",
+    "value": "[{0}]"
+  },
+  {
+    "wordingKey": "WORD_CHARACTER_ARCHIVE_CATEGORY_GACHA",
+    "value": "ガチャ"
+  },
+  {
+    "wordingKey": "WORD_CHARACTER_ARCHIVE_CATEGORY_LIVE",
+    "value": "ライブ"
+  },
+  {
+    "wordingKey": "WORD_CHARACTER_ARCHIVE_CATEGORY_ONE_WORD",
+    "value": "ひとこと"
+  },
+  {
+    "wordingKey": "WORD_CHARACTER_ARCHIVE_CATEGORY_TRAINING",
+    "value": "育成"
+  },
+  {
     "wordingKey": "WORD_CHARACTER_ARCHIVE_COSTUME",
     "value": "衣装"
+  },
+  {
+    "wordingKey": "WORD_CHARACTER_ARCHIVE_FILTER_VOICE_TYPE_INGAME",
+    "value": "ライブ中"
+  },
+  {
+    "wordingKey": "WORD_CHARACTER_ARCHIVE_FILTER_VOICE_TYPE_RESULT",
+    "value": "リザルト"
+  },
+  {
+    "wordingKey": "WORD_CHARACTER_ARCHIVE_FILTER_VOICE_TYPE_TITLE",
+    "value": "セリフ種別"
+  },
+  {
+    "wordingKey": "WORD_CHARACTER_ARCHIVE_GACHA_PLAY_TYPE_ANIMATION",
+    "value": "演出"
+  },
+  {
+    "wordingKey": "WORD_CHARACTER_ARCHIVE_GACHA_PLAY_TYPE_VOICE_ONLY",
+    "value": "音声"
   },
   {
     "wordingKey": "WORD_CHARACTER_ARCHIVE_MEMORY_AREA_TALK_SPAWN",
     "value": "進級前の「{0}」にて発生"
   },
   {
+    "wordingKey": "WORD_CHARACTER_ARCHIVE_ONE_WORD_PLAY_TYPE_LIVE2D",
+    "value": "Live2D"
+  },
+  {
+    "wordingKey": "WORD_CHARACTER_ARCHIVE_ONE_WORD_PLAY_TYPE_VOICE_ONLY",
+    "value": "音声"
+  },
+  {
+    "wordingKey": "WORD_CHARACTER_ARCHIVE_SERIF",
+    "value": "セリフ"
+  },
+  {
     "wordingKey": "WORD_CHARACTER_ARCHIVE_STAMP",
     "value": "スタンプ"
+  },
+  {
+    "wordingKey": "WORD_CHARACTER_ARCHIVE_UNIT_SWITCH_BUTTON_CAPTION",
+    "value": "サブユニット"
+  },
+  {
+    "wordingKey": "WORD_CHARACTER_ARCHIVE_VOICE",
+    "value": "セリフ"
+  },
+  {
+    "wordingKey": "WORD_CHARACTER_ARCHIVE_VOICE_LOAD_ERROR_TITLE",
+    "value": "エラー"
   },
   {
     "wordingKey": "WORD_CHARACTER_EFFECT",
@@ -4084,6 +4276,10 @@
     "value": "FREE MATCH"
   },
   {
+    "wordingKey": "WORD_CHEERFUL_CARNIVAL_GROUP_AREA",
+    "value": "グループ\nエリア"
+  },
+  {
     "wordingKey": "WORD_CHEERFUL_CARNIVAL_LIVE",
     "value": "チアフルライブ"
   },
@@ -4149,7 +4345,7 @@
   },
   {
     "wordingKey": "WORD_COLLABORATION_AREA",
-    "value": "コラボ限定セカイ"
+    "value": "限定エリア出現中！"
   },
   {
     "wordingKey": "WORD_COLLECTION",
@@ -4250,6 +4446,10 @@
   {
     "wordingKey": "WORD_COMMENT_SETTING",
     "value": "コメント設定"
+  },
+  {
+    "wordingKey": "WORD_COMMON_CUT_IN_RELEASE_CONDITION_FORMAT",
+    "value": "{0}を編成してライブで再生"
   },
   {
     "wordingKey": "WORD_COMMUNICATION",
@@ -4968,6 +5168,10 @@
     "value": "サポートボーナス"
   },
   {
+    "wordingKey": "WORD_EVENT_TOP_CHEERFUL_CARNIVAL_LIVE",
+    "value": "チアフル\nライブ"
+  },
+  {
     "wordingKey": "WORD_EVNET_STORY_INFOMATION",
     "value": "イベント情報"
   },
@@ -4990,6 +5194,10 @@
   {
     "wordingKey": "WORD_EXCHANGE_ERROR_TITLE",
     "value": "交換確認"
+  },
+  {
+    "wordingKey": "WORD_EXCHANGE_IS_COMPLETE",
+    "value": "の交換が完了しました。"
   },
   {
     "wordingKey": "WORD_EXCHANGE_LIMIT",
@@ -5366,6 +5574,42 @@
   {
     "wordingKey": "WORD_GACHA",
     "value": "ガチャ"
+  },
+  {
+    "wordingKey": "WORD_GACHA_CATEGORY_ACQUISITION_FILTER_CAPTION",
+    "value": "獲得状況"
+  },
+  {
+    "wordingKey": "WORD_GACHA_CATEGORY_OBTAIN_FILTER_ACQUIRED",
+    "value": "獲得済み"
+  },
+  {
+    "wordingKey": "WORD_GACHA_CATEGORY_OBTAIN_FILTER_NOT_ACQUIRED",
+    "value": "未獲得"
+  },
+  {
+    "wordingKey": "WORD_GACHA_CATEGORY_RARITY_FILTER_ANNIVERSARY",
+    "value": "BD・AN"
+  },
+  {
+    "wordingKey": "WORD_GACHA_CATEGORY_RARITY_FILTER_CAPTION",
+    "value": "レアリティ"
+  },
+  {
+    "wordingKey": "WORD_GACHA_CATEGORY_RARITY_FILTER_RARITY_FOUR",
+    "value": "★4"
+  },
+  {
+    "wordingKey": "WORD_GACHA_CATEGORY_RARITY_FILTER_RARITY_THREE",
+    "value": "★3"
+  },
+  {
+    "wordingKey": "WORD_GACHA_CATEGORY_SORT_CAPTION_DEFAULT",
+    "value": "デフォルト"
+  },
+  {
+    "wordingKey": "WORD_GACHA_CATEGORY_SORT_CAPTION_RARITY",
+    "value": "レアリティ"
   },
   {
     "wordingKey": "WORD_GACHA_DESCRIPTION",
@@ -7060,6 +7304,34 @@
     "value": "もう一度ライブ確認"
   },
   {
+    "wordingKey": "WORD_ONE_WORD_CATEGORY_SORT_CAPTION_CATEGORY",
+    "value": "カテゴリ"
+  },
+  {
+    "wordingKey": "WORD_ONE_WORD_CATEGORY_SORT_CAPTION_DEFAULT",
+    "value": "デフォルト"
+  },
+  {
+    "wordingKey": "WORD_ONE_WORD_CATEGORY_VOICE_FILTER_ANNIVERSARY",
+    "value": "お祝い"
+  },
+  {
+    "wordingKey": "WORD_ONE_WORD_CATEGORY_VOICE_FILTER_CAPTION",
+    "value": "セリフ種類"
+  },
+  {
+    "wordingKey": "WORD_ONE_WORD_CATEGORY_VOICE_FILTER_NORMAL",
+    "value": "通常"
+  },
+  {
+    "wordingKey": "WORD_ONE_WORD_CATEGORY_VOICE_FILTER_OTHERS",
+    "value": "その他"
+  },
+  {
+    "wordingKey": "WORD_ONE_WORD_CATEGORY_VOICE_FILTER_SEASON_EVENT",
+    "value": "季節イベント"
+  },
+  {
     "wordingKey": "WORD_OP",
     "value": "OP"
   },
@@ -7166,6 +7438,14 @@
   {
     "wordingKey": "WORD_PAID_STREAMING_LIVE_RESUME",
     "value": "続きから再生"
+  },
+  {
+    "wordingKey": "WORD_PAIR_CUT_IN_RELEASE_CONDITION_BONDS_FORMAT",
+    "value": "{0}と{1}がキズナランク{2}に到達"
+  },
+  {
+    "wordingKey": "WORD_PAIR_CUT_IN_RELEASE_CONDITION_FORMATION_FORMAT",
+    "value": "{0}と{1}を編成してライブで再生"
   },
   {
     "wordingKey": "WORD_PAMPHLET_PAGE_NUM",
@@ -7790,6 +8070,14 @@
   {
     "wordingKey": "WORD_RESULT_NEW_RECORD",
     "value": "NEW RECORD!"
+  },
+  {
+    "wordingKey": "WORD_RESULT_VOICE_OVER_RANK_C_RELEASE_CONDITION_FORMAT",
+    "value": "{0}を編成し、ライブでスコアランクC以上を獲得して再生"
+  },
+  {
+    "wordingKey": "WORD_RESULT_VOICE_RANK_D_RELEASE_CONDITION_FORMAT",
+    "value": "{0}を編成し、ライブでスコアランクDを獲得して再生"
   },
   {
     "wordingKey": "WORD_RESUME",
@@ -8514,6 +8802,10 @@
   {
     "wordingKey": "WORD_STREAMING_LIVE_RE_ENTER_TITLE",
     "value": "再入場確認"
+  },
+  {
+    "wordingKey": "WORD_STREAMING_LIVE_SHOP_CONFIRM_DUPLICATE",
+    "value": "購入済みのスペシャルグッズセットが含まれています。\nセットに含まれる以下のグッズは\n再度購入しても重複して獲得することはできません。"
   },
   {
     "wordingKey": "WORD_STREAMING_LIVE_TICKET_PURCHASED",

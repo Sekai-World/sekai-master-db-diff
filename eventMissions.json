@@ -6523,5 +6523,150 @@
         "resourceBoxId": 8001
       }
     ]
+  },
+  {
+    "id": 361,
+    "eventId": 126,
+    "seq": 1,
+    "eventMissionType": "live_clear_daily",
+    "eventMissionCategory": "normal",
+    "requirement1": 10,
+    "sentence": "累計10日ライブを1日1回クリアしよう。",
+    "rewards": [
+      {
+        "id": 8624,
+        "missionType": "event_mission",
+        "missionId": 361,
+        "seq": 1,
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 362,
+    "eventId": 126,
+    "seq": 2,
+    "eventMissionType": "any_live_clear",
+    "eventMissionCategory": "normal",
+    "requirement1": 50,
+    "sentence": "ライブを50回クリアしよう。",
+    "rewards": [
+      {
+        "id": 8625,
+        "missionType": "event_mission",
+        "missionId": 362,
+        "seq": 1,
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 363,
+    "eventId": 126,
+    "seq": 3,
+    "eventMissionType": "live_clear_full_combo",
+    "eventMissionCategory": "normal",
+    "requirement1": 10,
+    "sentence": "ライブで楽曲をフルコンボで10回クリアしよう。",
+    "rewards": [
+      {
+        "id": 8626,
+        "missionType": "event_mission",
+        "missionId": 363,
+        "seq": 1,
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 364,
+    "eventId": 126,
+    "seq": 4,
+    "eventMissionType": "live_clear_different_music",
+    "eventMissionCategory": "normal",
+    "requirement1": 10,
+    "requirement2": 1,
+    "sentence": "ライブで10種類の楽曲をクリアしよう。",
+    "rewards": [
+      {
+        "id": 8627,
+        "missionType": "event_mission",
+        "missionId": 364,
+        "seq": 1,
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 365,
+    "eventId": 126,
+    "seq": 5,
+    "eventMissionType": "read_last_event_story_episode",
+    "eventMissionCategory": "normal",
+    "requirement1": 1,
+    "sentence": "イベント「Rise as ONE！」のイベントストーリー第8話を読もう。",
+    "rewards": [
+      {
+        "id": 8628,
+        "missionType": "event_mission",
+        "missionId": 365,
+        "seq": 1,
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 366,
+    "eventId": 126,
+    "seq": 6,
+    "eventMissionType": "consume_event_item",
+    "eventMissionCategory": "normal",
+    "requirement1": 20000,
+    "sentence": "イベント「Rise as ONE！」の交換所でバッジを20000個消費しよう。",
+    "rewards": [
+      {
+        "id": 8629,
+        "missionType": "event_mission",
+        "missionId": 366,
+        "seq": 1,
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 367,
+    "eventId": 126,
+    "seq": 7,
+    "eventMissionType": "join_virtual_live",
+    "eventMissionCategory": "normal",
+    "requirement1": 1,
+    "sentence": "「Rise as ONE！ アフターライブ」に参加しよう。",
+    "rewards": [
+      {
+        "id": 8630,
+        "missionType": "event_mission",
+        "missionId": 367,
+        "seq": 1,
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 368,
+    "eventId": 126,
+    "seq": 8,
+    "eventMissionType": "achieve_event_mission",
+    "eventMissionCategory": "complete",
+    "requirement1": 7,
+    "sentence": "7つのミッションを全て達成しよう。",
+    "rewards": [
+      {
+        "id": 8631,
+        "missionType": "event_mission",
+        "missionId": 368,
+        "seq": 1,
+        "resourceBoxId": 8001
+      }
+    ]
   }
 ]
