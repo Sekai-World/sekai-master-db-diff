@@ -6359,5 +6359,39 @@
       }
     ],
     "virtualShopType": "event"
+  },
+  {
+    "id": 260,
+    "seq": 260,
+    "name": "第127回イベント物販",
+    "virtualShopItems": [
+      {
+        "id": 437,
+        "virtualShopId": 260,
+        "virtualShopItemType": "penlight",
+        "seq": 99912,
+        "resourceBoxId": 333,
+        "costPaidJewel": 1000,
+        "startAt": 1712728800000
+      }
+    ],
+    "virtualShopType": "event"
+  },
+  {
+    "id": 261,
+    "seq": 261,
+    "name": "みのり BIRTHDAY",
+    "virtualShopItems": [
+      {
+        "id": 438,
+        "virtualShopId": 261,
+        "virtualShopItemType": "coordinate",
+        "seq": 99832,
+        "resourceBoxId": 334,
+        "costPaidJewel": 1000,
+        "startAt": 1712901600000
+      }
+    ],
+    "virtualShopType": "birthday"
   }
 ]

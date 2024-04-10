@@ -1,18 +1,7 @@
 [
   {
-    "homeBannerId": 876,
-    "seq": 110,
-    "homeBannerType": "general",
-    "name": "[ガチャ]シャッフル犬イベ_ガチャバナー",
-    "assetbundleName": "banner_gacha489",
-    "transitionDestinationType": "gacha",
-    "transitionDestinationId": 489,
-    "startAt": 1712199600000,
-    "endAt": 1712717999000
-  },
-  {
-    "homeBannerId": 878,
-    "seq": 80,
+    "homeBannerId": 879,
+    "seq": 190,
     "homeBannerType": "general",
     "name": "[ガチャ]3900'sプレミアムプレゼントガチャ",
     "assetbundleName": "banner_gacha485",
@@ -20,28 +9,6 @@
     "transitionDestinationId": 485,
     "startAt": 1711767600000,
     "endAt": 1714489199000
-  },
-  {
-    "homeBannerId": 880,
-    "seq": 200,
-    "homeBannerType": "general",
-    "name": "[ガチャ]ガチャ_無料10連ガチャバナー",
-    "assetbundleName": "banner_gacha486",
-    "transitionDestinationType": "gacha",
-    "transitionDestinationId": 486,
-    "startAt": 1711767600000,
-    "endAt": 1714489199000
-  },
-  {
-    "homeBannerId": 881,
-    "seq": 100,
-    "homeBannerType": "event",
-    "name": "[イベント]シャッフル犬イベ_イベントバナー",
-    "assetbundleName": "event_rise_2024",
-    "transitionDestinationType": "event",
-    "transitionDestinationId": 126,
-    "startAt": 1711778400000,
-    "endAt": 1712728799000
   },
   {
     "homeBannerId": 883,
@@ -52,5 +19,27 @@
     "transitionDestinationType": "billing_shop_for_jewel",
     "startAt": 1711767600000,
     "endAt": 1714489199000
+  },
+  {
+    "homeBannerId": 904,
+    "seq": 100,
+    "homeBannerType": "event",
+    "name": "[イベント]ニーゴ箱イベ_イベントバナー",
+    "assetbundleName": "event_unseen_2024",
+    "transitionDestinationType": "event",
+    "transitionDestinationId": 127,
+    "startAt": 1712728800000,
+    "endAt": 1713592799000
+  },
+  {
+    "homeBannerId": 907,
+    "seq": 110,
+    "homeBannerType": "general",
+    "name": "[ガチャ]ニーゴ箱イベ_ガチャバナー",
+    "assetbundleName": "banner_gacha490",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 490,
+    "startAt": 1712718000000,
+    "endAt": 1713581999000
   }
 ]
