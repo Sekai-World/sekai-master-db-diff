@@ -6813,5 +6813,150 @@
         "resourceBoxId": 8001
       }
     ]
+  },
+  {
+    "id": 377,
+    "eventId": 128,
+    "seq": 1,
+    "eventMissionType": "live_clear_daily",
+    "eventMissionCategory": "normal",
+    "requirement1": 9,
+    "sentence": "累計9日ライブを1日1回クリアしよう。",
+    "rewards": [
+      {
+        "id": 8920,
+        "missionType": "event_mission",
+        "missionId": 377,
+        "seq": 1,
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 378,
+    "eventId": 128,
+    "seq": 2,
+    "eventMissionType": "any_live_clear",
+    "eventMissionCategory": "normal",
+    "requirement1": 50,
+    "sentence": "ライブを50回クリアしよう。",
+    "rewards": [
+      {
+        "id": 8921,
+        "missionType": "event_mission",
+        "missionId": 378,
+        "seq": 1,
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 379,
+    "eventId": 128,
+    "seq": 3,
+    "eventMissionType": "live_clear_full_combo",
+    "eventMissionCategory": "normal",
+    "requirement1": 10,
+    "sentence": "ライブで楽曲をフルコンボで10回クリアしよう。",
+    "rewards": [
+      {
+        "id": 8922,
+        "missionType": "event_mission",
+        "missionId": 379,
+        "seq": 1,
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 380,
+    "eventId": 128,
+    "seq": 4,
+    "eventMissionType": "live_clear_different_music",
+    "eventMissionCategory": "normal",
+    "requirement1": 10,
+    "requirement2": 1,
+    "sentence": "ライブで10種類の楽曲をクリアしよう。",
+    "rewards": [
+      {
+        "id": 8923,
+        "missionType": "event_mission",
+        "missionId": 380,
+        "seq": 1,
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 381,
+    "eventId": 128,
+    "seq": 5,
+    "eventMissionType": "read_last_event_story_episode",
+    "eventMissionCategory": "normal",
+    "requirement1": 1,
+    "sentence": "イベント「Parallel Harmonies」のイベントストーリー第8話を読もう。",
+    "rewards": [
+      {
+        "id": 8924,
+        "missionType": "event_mission",
+        "missionId": 381,
+        "seq": 1,
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 382,
+    "eventId": 128,
+    "seq": 6,
+    "eventMissionType": "consume_event_item",
+    "eventMissionCategory": "normal",
+    "requirement1": 20000,
+    "sentence": "イベント「Parallel Harmonies」の交換所でバッジを20000個消費しよう。",
+    "rewards": [
+      {
+        "id": 8925,
+        "missionType": "event_mission",
+        "missionId": 382,
+        "seq": 1,
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 383,
+    "eventId": 128,
+    "seq": 7,
+    "eventMissionType": "join_virtual_live",
+    "eventMissionCategory": "normal",
+    "requirement1": 1,
+    "sentence": "「Parallel Harmonies アフターライブ」に参加しよう。",
+    "rewards": [
+      {
+        "id": 8926,
+        "missionType": "event_mission",
+        "missionId": 383,
+        "seq": 1,
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 384,
+    "eventId": 128,
+    "seq": 8,
+    "eventMissionType": "achieve_event_mission",
+    "eventMissionCategory": "complete",
+    "requirement1": 7,
+    "sentence": "7つのミッションを全て達成しよう。",
+    "rewards": [
+      {
+        "id": 8927,
+        "missionType": "event_mission",
+        "missionId": 384,
+        "seq": 1,
+        "resourceBoxId": 8001
+      }
+    ]
   }
 ]
