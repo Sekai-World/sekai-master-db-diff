@@ -32,30 +32,8 @@
     "endAt": 1714489199000
   },
   {
-    "homeBannerId": 917,
-    "seq": 110,
-    "homeBannerType": "event",
-    "name": "[イベント]レオニ箱イベ_イベントバナー",
-    "assetbundleName": "event_parallel_2024",
-    "transitionDestinationType": "event",
-    "transitionDestinationId": 128,
-    "startAt": 1713592800000,
-    "endAt": 1714456800000
-  },
-  {
-    "homeBannerId": 920,
-    "seq": 100,
-    "homeBannerType": "general",
-    "name": "[ガチャ]レオニ箱イベ_ガチャバナー",
-    "assetbundleName": "banner_gacha498",
-    "transitionDestinationType": "gacha",
-    "transitionDestinationId": 498,
-    "startAt": 1713582000000,
-    "endAt": 1714446000000
-  },
-  {
-    "homeBannerId": 922,
-    "seq": 80,
+    "homeBannerId": 923,
+    "seq": 190,
     "homeBannerType": "general",
     "name": "[ガチャ]3900'sプレミアムプレゼントガチャ GLOBAL EDITION",
     "assetbundleName": "banner_gacha499",
@@ -65,14 +43,36 @@
     "endAt": 1714489200000
   },
   {
-    "homeBannerId": 924,
+    "homeBannerId": 925,
     "seq": 130,
     "homeBannerType": "general",
-    "name": "[東雲絵名]HAPPY BIRTHDAYライブ",
-    "assetbundleName": "banner_virtuallive298",
-    "transitionDestinationType": "virtual_live",
-    "transitionDestinationId": 298,
-    "startAt": 1714284000000,
-    "endAt": 1714402800000
+    "name": "[東雲絵名]HAPPY BIRTHDAY2024ガチャ",
+    "assetbundleName": "banner_gacha500",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 500,
+    "startAt": 1714402800000,
+    "endAt": 1714489200000
+  },
+  {
+    "homeBannerId": 927,
+    "seq": 110,
+    "homeBannerType": "event",
+    "name": "[イベント]ビビバス箱イベ_イベントバナー",
+    "assetbundleName": "event_whip_2024",
+    "transitionDestinationType": "event",
+    "transitionDestinationId": 129,
+    "startAt": 1714456800000,
+    "endAt": 1715252400000
+  },
+  {
+    "homeBannerId": 930,
+    "seq": 100,
+    "homeBannerType": "general",
+    "name": "[ガチャ]ビビバス箱イベ_ガチャバナー",
+    "assetbundleName": "banner_gacha503",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 503,
+    "startAt": 1714446000000,
+    "endAt": 1715223600000
   }
 ]

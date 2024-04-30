@@ -176,6 +176,10 @@
     "value": "無料観賞の期間が終了しました。"
   },
   {
+    "wordingKey": "MSG_ADMISSION_LIMIT_PAID_FOR_AFTER_EVENT",
+    "value": "アフターイベントは「アフターイベントチケット」を\nお持ちの方のみ参加できます。\n公演に参加される場合は、チケットを購入してください。"
+  },
+  {
     "wordingKey": "MSG_ADMISSION_LIMIT_PAID_FOR_CONNECT_LIVE",
     "value": "「お試し入場」での視聴可能範囲が過ぎました。\n公演の続きを見る場合は、チケットを購入してください。"
   },
@@ -2756,6 +2760,10 @@
     "value": "プレイに必要な端末の空き容量が不足しております。\nデータをダウンロードできません。\nタイトルに戻ります。"
   },
   {
+    "wordingKey": "MSG_STREAMINGLIVE_AFTEREVENT_NOTICE",
+    "value": "アフターイベントでは移動はできません"
+  },
+  {
     "wordingKey": "MSG_STREAMING_LIVE_FINISH",
     "value": "公演終了"
   },
@@ -2952,6 +2960,14 @@
     "value": "スクリーンショット機能をご利用いただく場合、\n端末内のメディアやファイルへのアクセスを\n「プロセカ」に許可する必要があります。"
   },
   {
+    "wordingKey": "MSG_VIRTUAL_LIVE_SHOP_DUPLICATE_CONFIRM",
+    "value": "選択したセットを購入しますか？"
+  },
+  {
+    "wordingKey": "MSG_VIRTUAL_LIVE_SHOP_DUPLICATE_WARNING",
+    "value": "選択したセットには既に所持しているアイテムが含まれており、\n以下のアイテムは獲得できません。"
+  },
+  {
     "wordingKey": "MSG_VIRTUAL_LIVE_TO_BE_HELD_SOON",
     "value": "バーチャルライブまもなく開演！"
   },
@@ -3005,11 +3021,11 @@
   },
   {
     "wordingKey": "MSG_WARN_ENTER_STREAMING_LIVE_WITH_TICKET_DIALOG",
-    "value": "※公演チケットを利用して入場すると、\n本公演のみ自由に再入場できます。\n\n※お試し入場の場合、観覧はライブの序盤までになります。"
+    "value": "※公演チケットを利用して入場すると、\nこの公演に限り、自由に再入場できます。\n\n※お試し入場の場合、観覧はライブの序盤までになります。"
   },
   {
     "wordingKey": "MSG_WARN_ENTER_STREAMING_LIVE_WITH_TICKET_ONLY_DIALOG",
-    "value": "※本公演に限り、自由に再入場できます。"
+    "value": "※この公演に限り、自由に再入場できます。"
   },
   {
     "wordingKey": "MSG_WARN_STREAMING_LIVE_WITHOUT_TICKET",
@@ -3378,6 +3394,10 @@
   {
     "wordingKey": "WORD_AD_REWARD_MUSIC_SHOP",
     "value": "CM視聴で交換"
+  },
+  {
+    "wordingKey": "WORD_AFTER_EVENT",
+    "value": "アフターイベント"
   },
   {
     "wordingKey": "WORD_AFTER_LIVE",
@@ -4812,6 +4832,14 @@
     "value": "セカイの住人"
   },
   {
+    "wordingKey": "WORD_DELAY_OPTION_TIME_TITLE",
+    "value": "判定ラインの位置"
+  },
+  {
+    "wordingKey": "WORD_DELAY_TIME_DESCRIPTION",
+    "value": "ノーツの速さによって、判定ラインの位置は変化します。"
+  },
+  {
     "wordingKey": "WORD_DELETE",
     "value": "削除"
   },
@@ -5880,6 +5908,10 @@
     "value": "育成"
   },
   {
+    "wordingKey": "WORD_GUIDE_ALPHA",
+    "value": "ガイドの不透明度"
+  },
+  {
     "wordingKey": "WORD_HAIR",
     "value": "ヘアスタイル"
   },
@@ -6308,6 +6340,10 @@
     "value": "ライブ調整"
   },
   {
+    "wordingKey": "WORD_LIVE_ASSIST_SETTING",
+    "value": "ライブ補助設定"
+  },
+  {
     "wordingKey": "WORD_LIVE_BONUS_PRESENT",
     "value": "ライブボーナスをプレゼントしますか？"
   },
@@ -6385,7 +6421,7 @@
   },
   {
     "wordingKey": "WORD_LIVE_EFFECT_SETTING",
-    "value": "表示・演出設定"
+    "value": "見やすさ・演出設定"
   },
   {
     "wordingKey": "WORD_LIVE_FAILED",
@@ -6558,6 +6594,10 @@
   {
     "wordingKey": "WORD_MAIN_DECK_SETTING",
     "value": "メイン\n編成中"
+  },
+  {
+    "wordingKey": "WORD_MAIN_PERFORMANCE",
+    "value": "本公演"
   },
   {
     "wordingKey": "WORD_MAIN_STORY",
@@ -6746,6 +6786,10 @@
   {
     "wordingKey": "WORD_MIGRATION_NL",
     "value": "データ引き継ぎ"
+  },
+  {
+    "wordingKey": "WORD_MILD",
+    "value": "控えめ"
   },
   {
     "wordingKey": "WORD_MINI_CHARACTER",
@@ -7696,6 +7740,14 @@
     "value": "プレビュー"
   },
   {
+    "wordingKey": "WORD_PREVIEW_NOTE_SHOW_TIME_FORMAT",
+    "value": "{0:0.000}秒"
+  },
+  {
+    "wordingKey": "WORD_PREVIEW_NOTE_SHOW_TIME_TEXT",
+    "value": "表示から判定までの時間"
+  },
+  {
     "wordingKey": "WORD_PRE_DOWNLOAD",
     "value": "事前DL"
   },
@@ -8070,6 +8122,14 @@
   {
     "wordingKey": "WORD_RESULT_NEW_RECORD",
     "value": "NEW RECORD!"
+  },
+  {
+    "wordingKey": "WORD_RESULT_VOICE_ALL_PERFECT_RELEASE_CONDITION_FORMAT",
+    "value": "{0}を編成し、ライブでALL PERFECTを達成して再生"
+  },
+  {
+    "wordingKey": "WORD_RESULT_VOICE_FULL_COMBO_RELEASE_CONDITION_FORMAT",
+    "value": "{0}を編成し、ライブでフルコンボを達成して再生"
   },
   {
     "wordingKey": "WORD_RESULT_VOICE_OVER_RANK_C_RELEASE_CONDITION_FORMAT",
@@ -8476,8 +8536,12 @@
     "value": "年"
   },
   {
+    "wordingKey": "WORD_SHOW_NOTE_LINE",
+    "value": "ノーツの開始位置"
+  },
+  {
     "wordingKey": "WORD_SHOW_PREVIEW_SETTING",
-    "value": "プレビューを見ながら調整"
+    "value": "プレビューで詳細設定"
   },
   {
     "wordingKey": "WORD_SIDE_STORY_CARD_TITLE",
@@ -8872,6 +8936,10 @@
     "value": "タップ"
   },
   {
+    "wordingKey": "WORD_TAP_EFFECT",
+    "value": "タップエフェクト"
+  },
+  {
     "wordingKey": "WORD_TEMPLATE_LAYOUT",
     "value": "テンプレート"
   },
@@ -9250,6 +9318,14 @@
   {
     "wordingKey": "WORD_VIRTUAL_LIVE_CAST",
     "value": "出演"
+  },
+  {
+    "wordingKey": "WORD_VIRTUAL_LIVE_CAST_AFTER_EVENT",
+    "value": "アフターイベント出演"
+  },
+  {
+    "wordingKey": "WORD_VIRTUAL_LIVE_CAST_MAIN_PERFORMANCE",
+    "value": "本公演出演"
   },
   {
     "wordingKey": "WORD_VIRTUAL_LIVE_DATETIME",

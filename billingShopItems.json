@@ -833,11 +833,11 @@
     "billableLimitType": "count",
     "billableLimitValue": 1,
     "billableLimitResetIntervalType": "monthly",
-    "assetbundleName": "shop_62",
+    "assetbundleName": "shop_62_v2",
     "resourceBoxId": 152,
     "bonusResourceBoxId": 39,
-    "startAt": 1664550000000,
-    "endAt": 1711897199000
+    "startAt": 1714489200000,
+    "endAt": 4097141999000
   },
   {
     "id": 56,
@@ -1280,7 +1280,7 @@
     "billableLimitType": "count",
     "billableLimitValue": 1,
     "billableLimitResetIntervalType": "monthly",
-    "assetbundleName": "shop_83",
+    "assetbundleName": "shop_83_v2",
     "resourceBoxId": 152,
     "bonusResourceBoxId": 39,
     "startAt": 1711897200000,
@@ -5896,6 +5896,71 @@
     "assetbundleName": "shop_300540",
     "resourceBoxId": 289,
     "startAt": 1711897200000,
+    "purchaseOption": "exchange"
+  },
+  {
+    "id": 300550,
+    "seq": 300550,
+    "billingShopItemType": "costume_3d",
+    "saleType": "bundle",
+    "name": "「フローラル」衣装全カラー",
+    "billableLimitType": "count",
+    "billableLimitValue": 1,
+    "billableLimitResetIntervalType": "none",
+    "resourceBoxId": 294,
+    "startAt": 1714489200000,
+    "purchaseOption": "exchange"
+  },
+  {
+    "id": 300551,
+    "seq": 300551,
+    "billingShopItemType": "costume_3d",
+    "saleType": "single",
+    "name": "「フローラル」衣装オリジナルカラー",
+    "billableLimitType": "count",
+    "billableLimitValue": 1,
+    "billableLimitResetIntervalType": "none",
+    "resourceBoxId": 295,
+    "startAt": 1714489200000,
+    "purchaseOption": "exchange"
+  },
+  {
+    "id": 300552,
+    "seq": 300552,
+    "billingShopItemType": "costume_3d",
+    "saleType": "single",
+    "name": "「フローラル」衣装アナザーカラー1",
+    "billableLimitType": "count",
+    "billableLimitValue": 1,
+    "billableLimitResetIntervalType": "none",
+    "resourceBoxId": 296,
+    "startAt": 1714489200000,
+    "purchaseOption": "exchange"
+  },
+  {
+    "id": 300553,
+    "seq": 300553,
+    "billingShopItemType": "costume_3d",
+    "saleType": "single",
+    "name": "「フローラル」衣装アナザーカラー2",
+    "billableLimitType": "count",
+    "billableLimitValue": 1,
+    "billableLimitResetIntervalType": "none",
+    "resourceBoxId": 297,
+    "startAt": 1714489200000,
+    "purchaseOption": "exchange"
+  },
+  {
+    "id": 300554,
+    "seq": 300554,
+    "billingShopItemType": "costume_3d",
+    "saleType": "single",
+    "name": "「フローラル」衣装アナザーカラー3",
+    "billableLimitType": "count",
+    "billableLimitValue": 1,
+    "billableLimitResetIntervalType": "none",
+    "resourceBoxId": 298,
+    "startAt": 1714489200000,
     "purchaseOption": "exchange"
   }
 ]
