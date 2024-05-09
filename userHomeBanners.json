@@ -1,7 +1,7 @@
 [
   {
-    "homeBannerId": 927,
-    "seq": 110,
+    "homeBannerId": 928,
+    "seq": 180,
     "homeBannerType": "event",
     "name": "[イベント]ビビバス箱イベ_イベントバナー",
     "assetbundleName": "event_whip_2024",
@@ -9,17 +9,6 @@
     "transitionDestinationId": 129,
     "startAt": 1714456800000,
     "endAt": 1715252400000
-  },
-  {
-    "homeBannerId": 930,
-    "seq": 100,
-    "homeBannerType": "general",
-    "name": "[ガチャ]ビビバス箱イベ_ガチャバナー",
-    "assetbundleName": "banner_gacha503",
-    "transitionDestinationType": "gacha",
-    "transitionDestinationId": 503,
-    "startAt": 1714446000000,
-    "endAt": 1715223600000
   },
   {
     "homeBannerId": 932,
@@ -33,14 +22,25 @@
     "endAt": 1716433200000
   },
   {
-    "homeBannerId": 933,
+    "homeBannerId": 934,
     "seq": 130,
     "homeBannerType": "general",
-    "name": "[天馬咲希]HAPPY BIRTHDAYライブ",
-    "assetbundleName": "banner_virtuallive300",
-    "transitionDestinationType": "virtual_live",
-    "transitionDestinationId": 300,
-    "startAt": 1715061600000,
-    "endAt": 1715180400000
+    "name": "[天馬咲希]HAPPY BIRTHDAY2024ガチャ",
+    "assetbundleName": "banner_gacha506",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 506,
+    "startAt": 1715180400000,
+    "endAt": 1715266800000
+  },
+  {
+    "homeBannerId": 938,
+    "seq": 110,
+    "homeBannerType": "general",
+    "name": "[ガチャ]モモジャンWLイベ_ガチャバナー",
+    "assetbundleName": "banner_gacha509",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 509,
+    "startAt": 1715223600000,
+    "endAt": 1716433200000
   }
 ]
