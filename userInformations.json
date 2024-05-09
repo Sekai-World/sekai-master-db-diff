@@ -555,19 +555,6 @@
     "bannerAssetbundleName": "banner_news_gacha500"
   },
   {
-    "id": 3768,
-    "seq": 1,
-    "displayOrder": 62600,
-    "informationType": "normal",
-    "informationTag": "information",
-    "browseType": "internal",
-    "platform": "all",
-    "title": "5月開催予定のワールドリンクイベントのご案内",
-    "path": "information\/index.html?id=info_next-world-link-event_20240509",
-    "startAt": 1712815200000,
-    "endAt": 1715148000000
-  },
-  {
     "id": 3771,
     "seq": 1,
     "displayOrder": 25440,
@@ -673,19 +660,6 @@
     "startAt": 1714618800000,
     "endAt": 1716433200000,
     "bannerAssetbundleName": "banner_news_gacha504"
-  },
-  {
-    "id": 3797,
-    "seq": 1,
-    "displayOrder": 63170,
-    "informationType": "normal",
-    "informationTag": "music",
-    "browseType": "internal",
-    "platform": "all",
-    "title": "楽曲「Help me, ERINNNNNN!!」追加！",
-    "path": "information\/index.html?id=info_music_20240505",
-    "startAt": 1714888800000,
-    "endAt": 1715108400000
   },
   {
     "id": 3798,
@@ -823,6 +797,47 @@
     "endAt": 1715799600000
   },
   {
+    "id": 3808,
+    "seq": 1,
+    "displayOrder": 63260,
+    "informationType": "normal",
+    "informationTag": "information",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "過去に登場した★2～★4メンバーのガチャ・交換所への追加のご案内",
+    "path": "information\/index.html?id=info_member-update_20240509",
+    "startAt": 1715223600000,
+    "endAt": 1717988400000
+  },
+  {
+    "id": 3809,
+    "seq": 1,
+    "displayOrder": 63270,
+    "informationType": "normal",
+    "informationTag": "gacha",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "「とびっきりをあげちゃうよ！ガチャ」開催！",
+    "path": "information\/index.html?id=info_gacha509_held",
+    "startAt": 1715223600000,
+    "endAt": 1719111600000,
+    "bannerAssetbundleName": "banner_news_gacha509"
+  },
+  {
+    "id": 3810,
+    "seq": 1,
+    "displayOrder": 63280,
+    "informationType": "normal",
+    "informationTag": "event",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "イベント「いつか花咲くステージへ」開催！",
+    "path": "information\/index.html?id=info_event130_held",
+    "startAt": 1715252400000,
+    "endAt": 1716984000000,
+    "bannerAssetbundleName": "banner_news_event130"
+  },
+  {
     "id": 3825,
     "seq": 1,
     "displayOrder": 62900,
@@ -834,18 +849,6 @@
     "path": "information\/index.html?id=info_livebroadcast_summary_20240424",
     "startAt": 1713963600000,
     "endAt": 1716303600000
-  },
-  {
-    "id": 3828,
-    "seq": 1,
-    "displayOrder": 62950,
-    "informationType": "normal",
-    "informationTag": "update",
-    "browseType": "internal",
-    "platform": "all",
-    "title": "「v3.5.0」アップデートおよびメンテナンスのご案内",
-    "path": "information\/index.html?id=info_update_v3-5-0_notice",
-    "startAt": 1714122000000
   },
   {
     "id": 3829,
@@ -882,7 +885,8 @@
     "platform": "all",
     "title": "【5月1日20時00分追記】アプリバージョン「v3.5.0」までに確認している不具合について",
     "path": "information\/index.html?id=bug_summary_to_v3-5-0_add2",
-    "startAt": 1714561200000
+    "startAt": 1714561200000,
+    "endAt": 1715223600000
   },
   {
     "id": 3834,
@@ -895,5 +899,42 @@
     "title": "【重要】開発環境アップデートに伴う変更や約5GBのデータ再ダウンロードなどの注意事項について",
     "path": "information\/index.html?id=info_unity_update_20240503",
     "startAt": 1714705200000
+  },
+  {
+    "id": 3835,
+    "seq": 1,
+    "displayOrder": 63250,
+    "informationType": "normal",
+    "informationTag": "information",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "5月10日20時よりWEBラジオ番組「セカラジ#15」を配信！",
+    "path": "information\/index.html?id=info_webradio_sekarazi_15_20240510",
+    "startAt": 1715223600000,
+    "endAt": 1715799600000
+  },
+  {
+    "id": 3836,
+    "seq": 1,
+    "displayOrder": 25570,
+    "informationType": "bug",
+    "informationTag": "bug",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "【5月9日12時00分追記】アプリバージョン「v3.5.0」までに確認している不具合について",
+    "path": "information\/index.html?id=bug_summary_to_v3-5-0_add3",
+    "startAt": 1715223600000
+  },
+  {
+    "id": 3837,
+    "seq": 1,
+    "displayOrder": 25565,
+    "informationType": "bug",
+    "informationTag": "bug",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "楽曲「ももいろの鍵」のバーチャルライブ中におけるライト点滅演出について",
+    "path": "information\/index.html?id=bug_music_momoironokagi_20240509",
+    "startAt": 1715223600000
   }
 ]
