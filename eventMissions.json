@@ -7103,5 +7103,150 @@
         "resourceBoxId": 8001
       }
     ]
+  },
+  {
+    "id": 393,
+    "eventId": 130,
+    "seq": 1,
+    "eventMissionType": "live_clear_daily",
+    "eventMissionCategory": "normal",
+    "requirement1": 13,
+    "sentence": "累計13日ライブを1日1回クリアしよう。",
+    "rewards": [
+      {
+        "id": 9136,
+        "missionType": "event_mission",
+        "missionId": 393,
+        "seq": 1,
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 394,
+    "eventId": 130,
+    "seq": 2,
+    "eventMissionType": "any_live_clear",
+    "eventMissionCategory": "normal",
+    "requirement1": 50,
+    "sentence": "ライブを50回クリアしよう。",
+    "rewards": [
+      {
+        "id": 9137,
+        "missionType": "event_mission",
+        "missionId": 394,
+        "seq": 1,
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 395,
+    "eventId": 130,
+    "seq": 3,
+    "eventMissionType": "live_clear_full_combo",
+    "eventMissionCategory": "normal",
+    "requirement1": 10,
+    "sentence": "ライブで楽曲をフルコンボで10回クリアしよう。",
+    "rewards": [
+      {
+        "id": 9138,
+        "missionType": "event_mission",
+        "missionId": 395,
+        "seq": 1,
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 396,
+    "eventId": 130,
+    "seq": 4,
+    "eventMissionType": "live_clear_different_music",
+    "eventMissionCategory": "normal",
+    "requirement1": 10,
+    "requirement2": 1,
+    "sentence": "ライブで10種類の楽曲をクリアしよう。",
+    "rewards": [
+      {
+        "id": 9139,
+        "missionType": "event_mission",
+        "missionId": 396,
+        "seq": 1,
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 397,
+    "eventId": 130,
+    "seq": 5,
+    "eventMissionType": "read_last_event_story_episode",
+    "eventMissionCategory": "normal",
+    "requirement1": 1,
+    "sentence": "イベント「いつか花咲くステージへ」のエンディングを読もう。",
+    "rewards": [
+      {
+        "id": 9140,
+        "missionType": "event_mission",
+        "missionId": 397,
+        "seq": 1,
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 398,
+    "eventId": 130,
+    "seq": 6,
+    "eventMissionType": "consume_event_item",
+    "eventMissionCategory": "normal",
+    "requirement1": 20000,
+    "sentence": "イベント「いつか花咲くステージへ」の交換所でバッジを20000個消費しよう。",
+    "rewards": [
+      {
+        "id": 9141,
+        "missionType": "event_mission",
+        "missionId": 398,
+        "seq": 1,
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 399,
+    "eventId": 130,
+    "seq": 7,
+    "eventMissionType": "join_virtual_live",
+    "eventMissionCategory": "normal",
+    "requirement1": 1,
+    "sentence": "「いつか花咲くステージへ アフターライブ」に参加しよう。",
+    "rewards": [
+      {
+        "id": 9142,
+        "missionType": "event_mission",
+        "missionId": 399,
+        "seq": 1,
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 400,
+    "eventId": 130,
+    "seq": 8,
+    "eventMissionType": "achieve_event_mission",
+    "eventMissionCategory": "complete",
+    "requirement1": 7,
+    "sentence": "7つのミッションを全て達成しよう。",
+    "rewards": [
+      {
+        "id": 9143,
+        "missionType": "event_mission",
+        "missionId": 400,
+        "seq": 1,
+        "resourceBoxId": 8001
+      }
+    ]
   }
 ]
