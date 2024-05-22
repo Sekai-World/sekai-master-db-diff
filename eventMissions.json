@@ -7248,5 +7248,150 @@
         "resourceBoxId": 8001
       }
     ]
+  },
+  {
+    "id": 401,
+    "eventId": 131,
+    "seq": 1,
+    "eventMissionType": "live_clear_daily",
+    "eventMissionCategory": "normal",
+    "requirement1": 7,
+    "sentence": "累計7日ライブを1日1回クリアしよう。",
+    "rewards": [
+      {
+        "id": 9144,
+        "missionType": "event_mission",
+        "missionId": 401,
+        "seq": 1,
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 402,
+    "eventId": 131,
+    "seq": 2,
+    "eventMissionType": "any_live_clear",
+    "eventMissionCategory": "normal",
+    "requirement1": 50,
+    "sentence": "ライブを50回クリアしよう。",
+    "rewards": [
+      {
+        "id": 9145,
+        "missionType": "event_mission",
+        "missionId": 402,
+        "seq": 1,
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 403,
+    "eventId": 131,
+    "seq": 3,
+    "eventMissionType": "live_clear_full_combo",
+    "eventMissionCategory": "normal",
+    "requirement1": 10,
+    "sentence": "ライブで楽曲をフルコンボで10回クリアしよう。",
+    "rewards": [
+      {
+        "id": 9146,
+        "missionType": "event_mission",
+        "missionId": 403,
+        "seq": 1,
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 404,
+    "eventId": 131,
+    "seq": 4,
+    "eventMissionType": "live_clear_different_music",
+    "eventMissionCategory": "normal",
+    "requirement1": 10,
+    "requirement2": 1,
+    "sentence": "ライブで10種類の楽曲をクリアしよう。",
+    "rewards": [
+      {
+        "id": 9147,
+        "missionType": "event_mission",
+        "missionId": 404,
+        "seq": 1,
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 405,
+    "eventId": 131,
+    "seq": 5,
+    "eventMissionType": "read_last_event_story_episode",
+    "eventMissionCategory": "normal",
+    "requirement1": 1,
+    "sentence": "イベント「perspective for smile」のイベントストーリー第8話を読もう。",
+    "rewards": [
+      {
+        "id": 9148,
+        "missionType": "event_mission",
+        "missionId": 405,
+        "seq": 1,
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 406,
+    "eventId": 131,
+    "seq": 6,
+    "eventMissionType": "consume_event_item",
+    "eventMissionCategory": "normal",
+    "requirement1": 20000,
+    "sentence": "イベント「perspective for smile」の交換所でバッジを20000個消費しよう。",
+    "rewards": [
+      {
+        "id": 9149,
+        "missionType": "event_mission",
+        "missionId": 406,
+        "seq": 1,
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 407,
+    "eventId": 131,
+    "seq": 7,
+    "eventMissionType": "join_virtual_live",
+    "eventMissionCategory": "normal",
+    "requirement1": 1,
+    "sentence": "「perspective for smile アフターライブ」に参加しよう。",
+    "rewards": [
+      {
+        "id": 9150,
+        "missionType": "event_mission",
+        "missionId": 407,
+        "seq": 1,
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 408,
+    "eventId": 131,
+    "seq": 8,
+    "eventMissionType": "achieve_event_mission",
+    "eventMissionCategory": "complete",
+    "requirement1": 7,
+    "sentence": "7つのミッションを全て達成しよう。",
+    "rewards": [
+      {
+        "id": 9151,
+        "missionType": "event_mission",
+        "missionId": 408,
+        "seq": 1,
+        "resourceBoxId": 8001
+      }
+    ]
   }
 ]

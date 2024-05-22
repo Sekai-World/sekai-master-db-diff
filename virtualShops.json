@@ -6497,5 +6497,59 @@
       }
     ],
     "virtualShopType": "birthday"
+  },
+  {
+    "id": 268,
+    "seq": 268,
+    "name": "第131回イベント物販",
+    "virtualShopItems": [
+      {
+        "id": 445,
+        "virtualShopId": 268,
+        "virtualShopItemType": "coordinate",
+        "seq": 99828,
+        "resourceBoxId": 341,
+        "costPaidJewel": 1000,
+        "startAt": 1716444000000
+      }
+    ],
+    "virtualShopType": "event"
+  },
+  {
+    "id": 269,
+    "seq": 269,
+    "name": "冬弥 BIRTHDAY",
+    "virtualShopItems": [
+      {
+        "id": 446,
+        "virtualShopId": 269,
+        "virtualShopItemType": "coordinate",
+        "seq": 99827,
+        "resourceBoxId": 342,
+        "costPaidJewel": 1000,
+        "startAt": 1716444000000
+      }
+    ],
+    "virtualShopType": "birthday"
+  },
+  {
+    "id": 270,
+    "seq": 270,
+    "name": "コネクトライブ テクニカルテスト",
+    "virtualLiveId": 310,
+    "virtualShopItems": [
+      {
+        "id": 447,
+        "virtualShopId": 270,
+        "virtualShopItemType": "premium_virtual_live_ticket",
+        "seq": 299985,
+        "resourceBoxId": 343,
+        "costPaidJewel": 0,
+        "startAt": 1716357600000,
+        "endAt": 1716551999000,
+        "limitValue": 0
+      }
+    ],
+    "virtualShopType": "virtual_live_ticket"
   }
 ]
