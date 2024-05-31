@@ -7393,5 +7393,150 @@
         "resourceBoxId": 8001
       }
     ]
+  },
+  {
+    "id": 409,
+    "eventId": 132,
+    "seq": 1,
+    "eventMissionType": "live_clear_daily",
+    "eventMissionCategory": "normal",
+    "requirement1": 9,
+    "sentence": "累計9日ライブを1日1回クリアしよう。",
+    "rewards": [
+      {
+        "id": 9352,
+        "missionType": "event_mission",
+        "missionId": 409,
+        "seq": 1,
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 410,
+    "eventId": 132,
+    "seq": 2,
+    "eventMissionType": "any_live_clear",
+    "eventMissionCategory": "normal",
+    "requirement1": 50,
+    "sentence": "ライブを50回クリアしよう。",
+    "rewards": [
+      {
+        "id": 9353,
+        "missionType": "event_mission",
+        "missionId": 410,
+        "seq": 1,
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 411,
+    "eventId": 132,
+    "seq": 3,
+    "eventMissionType": "live_clear_full_combo",
+    "eventMissionCategory": "normal",
+    "requirement1": 10,
+    "sentence": "ライブで楽曲をフルコンボで10回クリアしよう。",
+    "rewards": [
+      {
+        "id": 9354,
+        "missionType": "event_mission",
+        "missionId": 411,
+        "seq": 1,
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 412,
+    "eventId": 132,
+    "seq": 4,
+    "eventMissionType": "live_clear_different_music",
+    "eventMissionCategory": "normal",
+    "requirement1": 10,
+    "requirement2": 1,
+    "sentence": "ライブで10種類の楽曲をクリアしよう。",
+    "rewards": [
+      {
+        "id": 9355,
+        "missionType": "event_mission",
+        "missionId": 412,
+        "seq": 1,
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 413,
+    "eventId": 132,
+    "seq": 5,
+    "eventMissionType": "read_last_event_story_episode",
+    "eventMissionCategory": "normal",
+    "requirement1": 1,
+    "sentence": "イベント「みんなで配信♡WEDDING LIVE！」のイベントストーリー第8話を読もう。",
+    "rewards": [
+      {
+        "id": 9356,
+        "missionType": "event_mission",
+        "missionId": 413,
+        "seq": 1,
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 414,
+    "eventId": 132,
+    "seq": 6,
+    "eventMissionType": "consume_event_item",
+    "eventMissionCategory": "normal",
+    "requirement1": 20000,
+    "sentence": "イベント「みんなで配信♡WEDDING LIVE！」の交換所でバッジを20000個消費しよう。",
+    "rewards": [
+      {
+        "id": 9357,
+        "missionType": "event_mission",
+        "missionId": 414,
+        "seq": 1,
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 415,
+    "eventId": 132,
+    "seq": 7,
+    "eventMissionType": "join_virtual_live",
+    "eventMissionCategory": "normal",
+    "requirement1": 1,
+    "sentence": "「みんなで配信♡WEDDING LIVE！ アフターライブ」に参加しよう。",
+    "rewards": [
+      {
+        "id": 9358,
+        "missionType": "event_mission",
+        "missionId": 415,
+        "seq": 1,
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 416,
+    "eventId": 132,
+    "seq": 8,
+    "eventMissionType": "achieve_event_mission",
+    "eventMissionCategory": "complete",
+    "requirement1": 7,
+    "sentence": "7つのミッションを全て達成しよう。",
+    "rewards": [
+      {
+        "id": 9359,
+        "missionType": "event_mission",
+        "missionId": 416,
+        "seq": 1,
+        "resourceBoxId": 8001
+      }
+    ]
   }
 ]
