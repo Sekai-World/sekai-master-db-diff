@@ -6569,5 +6569,92 @@
       }
     ],
     "virtualShopType": "event"
+  },
+  {
+    "id": 272,
+    "seq": 272,
+    "name": "「コネクトライブ RESONANCE BEATS!!」チケットショップ",
+    "virtualLiveId": 306,
+    "virtualShopItems": [
+      {
+        "id": 449,
+        "virtualShopId": 272,
+        "virtualShopItemType": "premium_virtual_live_ticket",
+        "seq": 299985,
+        "resourceBoxId": 345,
+        "costPaidJewel": 6980,
+        "startAt": 1717653600000,
+        "endAt": 1718463599000,
+        "limitValue": 1
+      },
+      {
+        "id": 450,
+        "virtualShopId": 272,
+        "virtualShopItemType": "premium_virtual_live_ticket",
+        "seq": 299984,
+        "resourceBoxId": 346,
+        "costPaidJewel": 4980,
+        "startAt": 1717653600000,
+        "endAt": 1718463599000,
+        "limitValue": 1
+      },
+      {
+        "id": 451,
+        "virtualShopId": 272,
+        "virtualShopItemType": "premium_virtual_live_ticket",
+        "seq": 299983,
+        "resourceBoxId": 347,
+        "costPaidJewel": 2980,
+        "startAt": 1717653600000,
+        "endAt": 1718463599000,
+        "limitValue": 2
+      }
+    ],
+    "virtualShopType": "virtual_live_ticket"
+  },
+  {
+    "id": 273,
+    "seq": 273,
+    "name": "「コネクトライブ RESONANCE BEATS!!」グッズショップ",
+    "virtualLiveId": 306,
+    "virtualShopItems": [
+      {
+        "id": 452,
+        "virtualShopId": 273,
+        "virtualShopItemType": "costume",
+        "seq": 99877,
+        "resourceBoxId": 348,
+        "costVirtualCoin": 3000,
+        "costJewel": 1000,
+        "startAt": 1717653600000,
+        "endAt": 1718603999000,
+        "limitValue": 1
+      },
+      {
+        "id": 453,
+        "virtualShopId": 273,
+        "virtualShopItemType": "costume",
+        "seq": 99878,
+        "resourceBoxId": 349,
+        "costVirtualCoin": 3000,
+        "costJewel": 1000,
+        "startAt": 1717653600000,
+        "endAt": 1718603999000,
+        "limitValue": 1
+      },
+      {
+        "id": 454,
+        "virtualShopId": 273,
+        "virtualShopItemType": "accessory",
+        "seq": 99878,
+        "resourceBoxId": 350,
+        "costVirtualCoin": 3000,
+        "costJewel": 1000,
+        "startAt": 1717653600000,
+        "endAt": 1718603999000,
+        "limitValue": 1
+      }
+    ],
+    "virtualShopType": "other"
   }
 ]
