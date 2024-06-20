@@ -1,7 +1,7 @@
 [
   {
-    "homeBannerId": 961,
-    "seq": 110,
+    "homeBannerId": 962,
+    "seq": 180,
     "homeBannerType": "event",
     "name": "[イベント]モモジャン箱イベ_イベントバナー",
     "assetbundleName": "event_shine_2024",
@@ -9,17 +9,6 @@
     "transitionDestinationId": 133,
     "startAt": 1717999200000,
     "endAt": 1718863200000
-  },
-  {
-    "homeBannerId": 964,
-    "seq": 100,
-    "homeBannerType": "general",
-    "name": "[ガチャ]モモジャン箱イベ_ガチャバナー",
-    "assetbundleName": "banner_gacha523",
-    "transitionDestinationType": "gacha",
-    "transitionDestinationId": 523,
-    "startAt": 1717988400000,
-    "endAt": 1718852400000
   },
   {
     "homeBannerId": 966,
@@ -75,5 +64,16 @@
     "transitionDestinationId": 528,
     "startAt": 1718420400000,
     "endAt": 1719198000000
+  },
+  {
+    "homeBannerId": 974,
+    "seq": 100,
+    "homeBannerType": "general",
+    "name": "[ガチャ]ニーゴ箱イベ_ガチャバナー",
+    "assetbundleName": "banner_gacha529",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 529,
+    "startAt": 1718852400000,
+    "endAt": 1719716400000
   }
 ]
