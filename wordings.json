@@ -125,7 +125,7 @@
   },
   {
     "wordingKey": "MSG_ABOUT_LIVE_POINT_BONUS_MISSION_CONTENT",
-    "value": "イベント期間に開催されるボーナスミッションを1つクリアする毎に\nライブPを<color=#ff5599>50獲得<\/color>できます。\nまた、全ミッションクリアでさらにライブPを<color=#ff5599>150獲得<\/color>できます。"
+    "value": "イベント期間に開催されるボーナスミッションを1つクリアする毎にライブPを<color=#ff5599>50獲得<\/color>できます。\nまた、全ミッションクリア時に選べる報酬から、さらにライブPを<color=#ff5599>150獲得<\/color>できます。"
   },
   {
     "wordingKey": "MSG_ABOUT_LIVE_POINT_BONUS_MISSION_CONTENT_TITLE",
@@ -273,7 +273,7 @@
   },
   {
     "wordingKey": "MSG_ALREADY_CLEARED_LIVE_RETRY",
-    "value": "通信切断を検知したため、タイトル画面に戻ります。\nライブ結果は正常に反映されています。"
+    "value": "通信が切断されました。ホームに戻ります。\nライブの結果は正常に反映されます。"
   },
   {
     "wordingKey": "MSG_ANDROID_RATING",
@@ -922,6 +922,10 @@
   {
     "wordingKey": "MSG_DISCONNECT_LEFT_ROOM_CODE",
     "value": "通信が切断されたためホームに戻ります。<size=28>({0})<\/size>"
+  },
+  {
+    "wordingKey": "MSG_DOUBLE_SKILL_INFO_DIALOG",
+    "value": "特訓前・特訓後で1種類ずつスキルを持ちます。 \nライブ中に発動するスキルは、表示するイラストの設定を切り替えることで変更されます。"
   },
   {
     "wordingKey": "MSG_DOWNLOAD_CONFIRM_1",
@@ -1641,7 +1645,7 @@
   },
   {
     "wordingKey": "MSG_MEMBER_DETAIL_EXPLANATION_NL",
-    "value": "ステータスはレベルMAX、スキルレベルMAX時のものです。"
+    "value": "ステータスはレベルMAX、スキルレベル・効果がMAX時のものです。"
   },
   {
     "wordingKey": "MSG_MEMBER_DUPLICATE_CONFIRM",
@@ -2216,6 +2220,10 @@
     "value": "スタートランクの決定まで\n残り<color=#FF5599>{0}<\/color>マッチ"
   },
   {
+    "wordingKey": "MSG_PLEASE_SELECT_REWARD",
+    "value": "受け取る報酬を1つ選んでください。"
+  },
+  {
     "wordingKey": "MSG_PRACTICE_EXECUTE",
     "value": "{0}を消費して練習します。 \nよろしいですか？"
   },
@@ -2402,6 +2410,10 @@
   {
     "wordingKey": "MSG_RECEIVE_EVENT_MISSION_EXPIRED_REWARD",
     "value": "未受け取り分のボーナスミッション報酬を獲得しました。"
+  },
+  {
+    "wordingKey": "MSG_RECOLLECTION_SELECT_END_CONFIRM",
+    "value": "このメンバーを設定します。よろしいですか？"
   },
   {
     "wordingKey": "MSG_RECOMMEND_SUPPORT_DECK",
@@ -2876,6 +2888,14 @@
     "value": "※選択していないユニットのオープニングも、\nチュートリアル終了後に見ることができます。"
   },
   {
+    "wordingKey": "MSG_UNABLE_CLAIM_REWARD_EXPIRED",
+    "value": "受け取り期限を過ぎたため、報酬を獲得できませんでした。"
+  },
+  {
+    "wordingKey": "MSG_UNCLAIMED_REWARD",
+    "value": "報酬が未受け取りです。"
+  },
+  {
     "wordingKey": "MSG_UNLOCK_AREAITEM",
     "value": "エリア「{0}」のショップに入荷されました。"
   },
@@ -3348,6 +3368,10 @@
     "value": "アクション"
   },
   {
+    "wordingKey": "WORD_ACTIVATED_W_SKILL",
+    "value": "2つ目のスキルが解放されました！"
+  },
+  {
     "wordingKey": "WORD_ADD",
     "value": "加算"
   },
@@ -3608,6 +3632,10 @@
     "value": "昇順"
   },
   {
+    "wordingKey": "WORD_ATRAINING_AFTER",
+    "value": "特訓後"
+  },
+  {
     "wordingKey": "WORD_ATTRIBUTE",
     "value": "タイプ"
   },
@@ -3830,6 +3858,10 @@
   {
     "wordingKey": "WORD_BONUS_MISSION",
     "value": "ボーナスミッション"
+  },
+  {
+    "wordingKey": "WORD_BONUS_MISSION_COMPLETE_REWARD",
+    "value": "ボーナスミッション コンプリート報酬"
   },
   {
     "wordingKey": "WORD_BONUS_MISSION_TAB",
@@ -4914,6 +4946,10 @@
   {
     "wordingKey": "WORD_DOT",
     "value": "・"
+  },
+  {
+    "wordingKey": "WORD_DOUBLE_SKILL",
+    "value": "ダブルスキル"
   },
   {
     "wordingKey": "WORD_DOWNLOAD",
@@ -8040,6 +8076,10 @@
     "value": "解放条件"
   },
   {
+    "wordingKey": "WORD_RELEASE_FROM_TRAINING",
+    "value": "特訓で解放"
+  },
+  {
     "wordingKey": "WORD_RELEASE_PROFILE",
     "value": "プロフィール解除"
   },
@@ -8328,6 +8368,10 @@
     "value": "決定"
   },
   {
+    "wordingKey": "WORD_SELECTABLE_REWARD",
+    "value": "以下の中から選択した報酬を1つ獲得できます。"
+  },
+  {
     "wordingKey": "WORD_SELECTED_MEMBER",
     "value": "セレクトメンバー"
   },
@@ -8354,6 +8398,10 @@
   {
     "wordingKey": "WORD_SELECTION_ALL_MEMBERS",
     "value": "全員を選択"
+  },
+  {
+    "wordingKey": "WORD_SELECT_AFTER",
+    "value": "あとで選ぶ"
   },
   {
     "wordingKey": "WORD_SELECT_CLEANUP_TITLE",
@@ -8598,6 +8646,10 @@
   {
     "wordingKey": "WORD_SKILL",
     "value": "スキル"
+  },
+  {
+    "wordingKey": "WORD_SKILL_CHANGE",
+    "value": "＋スキル変更"
   },
   {
     "wordingKey": "WORD_SKILL_LEVEL",
@@ -9204,6 +9256,10 @@
     "value": "トレース"
   },
   {
+    "wordingKey": "WORD_TRANING_BEFORE",
+    "value": "特訓前"
+  },
+  {
     "wordingKey": "WORD_TRANSACTION_LAW_DIALOG_TITLE",
     "value": "特商法・資金決済法"
   },
@@ -9686,6 +9742,10 @@
   {
     "wordingKey": "WORD_WELCOME_ARCHIVE_TITLE",
     "value": "ウェルカムライブ"
+  },
+  {
+    "wordingKey": "WORD_WILL_ACTIVATE_W_SKILL",
+    "value": "2つ目のスキルを解放"
   },
   {
     "wordingKey": "WORD_WIN",

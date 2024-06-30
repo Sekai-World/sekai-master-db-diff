@@ -7828,5 +7828,143 @@
         "resourceBoxId": 8001
       }
     ]
+  },
+  {
+    "id": 433,
+    "eventId": 135,
+    "seq": 1,
+    "eventMissionType": "live_clear_daily",
+    "eventMissionCategory": "normal",
+    "requirement1": 8,
+    "sentence": "累計8日ライブを1日1回クリアしよう。",
+    "rewards": [
+      {
+        "id": 9576,
+        "missionType": "event_mission",
+        "missionId": 433,
+        "seq": 1,
+        "resourceBoxId": 8002
+      }
+    ]
+  },
+  {
+    "id": 434,
+    "eventId": 135,
+    "seq": 2,
+    "eventMissionType": "any_live_clear",
+    "eventMissionCategory": "normal",
+    "requirement1": 50,
+    "sentence": "ライブを50回クリアしよう。",
+    "rewards": [
+      {
+        "id": 9577,
+        "missionType": "event_mission",
+        "missionId": 434,
+        "seq": 1,
+        "resourceBoxId": 8002
+      }
+    ]
+  },
+  {
+    "id": 435,
+    "eventId": 135,
+    "seq": 3,
+    "eventMissionType": "live_clear_full_combo",
+    "eventMissionCategory": "normal",
+    "requirement1": 10,
+    "sentence": "ライブで楽曲をフルコンボで10回クリアしよう。",
+    "rewards": [
+      {
+        "id": 9578,
+        "missionType": "event_mission",
+        "missionId": 435,
+        "seq": 1,
+        "resourceBoxId": 8002
+      }
+    ]
+  },
+  {
+    "id": 436,
+    "eventId": 135,
+    "seq": 4,
+    "eventMissionType": "live_clear_different_music",
+    "eventMissionCategory": "normal",
+    "requirement1": 10,
+    "requirement2": 1,
+    "sentence": "ライブで10種類の楽曲をクリアしよう。",
+    "rewards": [
+      {
+        "id": 9579,
+        "missionType": "event_mission",
+        "missionId": 436,
+        "seq": 1,
+        "resourceBoxId": 8002
+      }
+    ]
+  },
+  {
+    "id": 437,
+    "eventId": 135,
+    "seq": 5,
+    "eventMissionType": "read_last_event_story_episode",
+    "eventMissionCategory": "normal",
+    "requirement1": 1,
+    "sentence": "イベント「OVER RAD SQUAD!!」のイベントストーリー第8話を読もう。",
+    "rewards": [
+      {
+        "id": 9580,
+        "missionType": "event_mission",
+        "missionId": 437,
+        "seq": 1,
+        "resourceBoxId": 8002
+      }
+    ]
+  },
+  {
+    "id": 438,
+    "eventId": 135,
+    "seq": 6,
+    "eventMissionType": "consume_event_item",
+    "eventMissionCategory": "normal",
+    "requirement1": 20000,
+    "sentence": "イベント「OVER RAD SQUAD!!」の交換所でバッジを20000個消費しよう。",
+    "rewards": [
+      {
+        "id": 9581,
+        "missionType": "event_mission",
+        "missionId": 438,
+        "seq": 1,
+        "resourceBoxId": 8002
+      }
+    ]
+  },
+  {
+    "id": 439,
+    "eventId": 135,
+    "seq": 7,
+    "eventMissionType": "join_virtual_live",
+    "eventMissionCategory": "normal",
+    "requirement1": 1,
+    "sentence": "「OVER RAD SQUAD!! アフターライブ」に参加しよう。",
+    "rewards": [
+      {
+        "id": 9582,
+        "missionType": "event_mission",
+        "missionId": 439,
+        "seq": 1,
+        "resourceBoxId": 8002
+      }
+    ]
+  },
+  {
+    "id": 440,
+    "eventId": 135,
+    "seq": 8,
+    "eventMissionType": "achieve_event_mission",
+    "eventMissionCategory": "complete_selectable_reward",
+    "requirement1": 7,
+    "eventMissionSelectableRewardGroupId": 1,
+    "sentence": "7つのミッションを全て達成しよう。",
+    "rewards": []
   }
 ]

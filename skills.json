@@ -1922,5 +1922,2100 @@
         }
       }
     ]
+  },
+  {
+    "id": 22,
+    "shortDescription": "{{53;d}}秒間 スコアが{{53;v}}%UP、更に「{{0;c}}」のキャラクターランクによって{{54,103;r}}%UPする（ランク2毎に+1%、現在の合計{{53,103;s}}%\/最大{{53,103;v}}%)",
+    "description": "{{53;d}}秒間  スコアが{{53;v}}%UP、更に「{{0;c}}」のキャラクターランクによって{{54,103;r}}%UPする（ランク2毎に+1%、現在の合計{{53,103;s}}%\/最大{{53,103;v}}%)",
+    "descriptionSpriteName": "score_up",
+    "skillFilterId": 2,
+    "skillEffects": [
+      {
+        "id": 53,
+        "skillEffectType": "score_up",
+        "activateNotesJudgmentType": "good",
+        "skillEffectDetails": [
+          {
+            "id": 209,
+            "level": 1,
+            "activateEffectDuration": 5.0,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 90
+          },
+          {
+            "id": 210,
+            "level": 2,
+            "activateEffectDuration": 5.0,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 95
+          },
+          {
+            "id": 211,
+            "level": 3,
+            "activateEffectDuration": 5.0,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 100
+          },
+          {
+            "id": 212,
+            "level": 4,
+            "activateEffectDuration": 5.0,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 110
+          }
+        ]
+      },
+      {
+        "id": 54,
+        "skillEffectType": "score_up_character_rank",
+        "activateNotesJudgmentType": "good",
+        "activateCharacterRank": 2,
+        "conditionType": "equals_or_over",
+        "skillEffectDetails": [
+          {
+            "id": 213,
+            "level": 1,
+            "activateEffectDuration": 5.0,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 1
+          },
+          {
+            "id": 214,
+            "level": 2,
+            "activateEffectDuration": 5.0,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 1
+          },
+          {
+            "id": 215,
+            "level": 3,
+            "activateEffectDuration": 5.0,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 1
+          },
+          {
+            "id": 216,
+            "level": 4,
+            "activateEffectDuration": 5.0,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 1
+          }
+        ]
+      },
+      {
+        "id": 55,
+        "skillEffectType": "score_up_character_rank",
+        "activateNotesJudgmentType": "good",
+        "activateCharacterRank": 4,
+        "conditionType": "equals_or_over",
+        "skillEffectDetails": [
+          {
+            "id": 217,
+            "level": 1,
+            "activateEffectDuration": 5.0,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 2
+          },
+          {
+            "id": 218,
+            "level": 2,
+            "activateEffectDuration": 5.0,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 2
+          },
+          {
+            "id": 219,
+            "level": 3,
+            "activateEffectDuration": 5.0,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 2
+          },
+          {
+            "id": 220,
+            "level": 4,
+            "activateEffectDuration": 5.0,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 2
+          }
+        ]
+      },
+      {
+        "id": 56,
+        "skillEffectType": "score_up_character_rank",
+        "activateNotesJudgmentType": "good",
+        "activateCharacterRank": 6,
+        "conditionType": "equals_or_over",
+        "skillEffectDetails": [
+          {
+            "id": 221,
+            "level": 1,
+            "activateEffectDuration": 5.0,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 3
+          },
+          {
+            "id": 222,
+            "level": 2,
+            "activateEffectDuration": 5.0,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 3
+          },
+          {
+            "id": 223,
+            "level": 3,
+            "activateEffectDuration": 5.0,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 3
+          },
+          {
+            "id": 224,
+            "level": 4,
+            "activateEffectDuration": 5.0,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 3
+          }
+        ]
+      },
+      {
+        "id": 57,
+        "skillEffectType": "score_up_character_rank",
+        "activateNotesJudgmentType": "good",
+        "activateCharacterRank": 8,
+        "conditionType": "equals_or_over",
+        "skillEffectDetails": [
+          {
+            "id": 225,
+            "level": 1,
+            "activateEffectDuration": 5.0,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 4
+          },
+          {
+            "id": 226,
+            "level": 2,
+            "activateEffectDuration": 5.0,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 4
+          },
+          {
+            "id": 227,
+            "level": 3,
+            "activateEffectDuration": 5.0,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 4
+          },
+          {
+            "id": 228,
+            "level": 4,
+            "activateEffectDuration": 5.0,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 4
+          }
+        ]
+      },
+      {
+        "id": 58,
+        "skillEffectType": "score_up_character_rank",
+        "activateNotesJudgmentType": "good",
+        "activateCharacterRank": 10,
+        "conditionType": "equals_or_over",
+        "skillEffectDetails": [
+          {
+            "id": 229,
+            "level": 1,
+            "activateEffectDuration": 5.0,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 5
+          },
+          {
+            "id": 230,
+            "level": 2,
+            "activateEffectDuration": 5.0,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 5
+          },
+          {
+            "id": 231,
+            "level": 3,
+            "activateEffectDuration": 5.0,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 5
+          },
+          {
+            "id": 232,
+            "level": 4,
+            "activateEffectDuration": 5.0,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 5
+          }
+        ]
+      },
+      {
+        "id": 59,
+        "skillEffectType": "score_up_character_rank",
+        "activateNotesJudgmentType": "good",
+        "activateCharacterRank": 12,
+        "conditionType": "equals_or_over",
+        "skillEffectDetails": [
+          {
+            "id": 233,
+            "level": 1,
+            "activateEffectDuration": 5.0,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 6
+          },
+          {
+            "id": 234,
+            "level": 2,
+            "activateEffectDuration": 5.0,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 6
+          },
+          {
+            "id": 235,
+            "level": 3,
+            "activateEffectDuration": 5.0,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 6
+          },
+          {
+            "id": 236,
+            "level": 4,
+            "activateEffectDuration": 5.0,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 6
+          }
+        ]
+      },
+      {
+        "id": 60,
+        "skillEffectType": "score_up_character_rank",
+        "activateNotesJudgmentType": "good",
+        "activateCharacterRank": 14,
+        "conditionType": "equals_or_over",
+        "skillEffectDetails": [
+          {
+            "id": 237,
+            "level": 1,
+            "activateEffectDuration": 5.0,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 7
+          },
+          {
+            "id": 238,
+            "level": 2,
+            "activateEffectDuration": 5.0,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 7
+          },
+          {
+            "id": 239,
+            "level": 3,
+            "activateEffectDuration": 5.0,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 7
+          },
+          {
+            "id": 240,
+            "level": 4,
+            "activateEffectDuration": 5.0,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 7
+          }
+        ]
+      },
+      {
+        "id": 61,
+        "skillEffectType": "score_up_character_rank",
+        "activateNotesJudgmentType": "good",
+        "activateCharacterRank": 16,
+        "conditionType": "equals_or_over",
+        "skillEffectDetails": [
+          {
+            "id": 241,
+            "level": 1,
+            "activateEffectDuration": 5.0,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 8
+          },
+          {
+            "id": 242,
+            "level": 2,
+            "activateEffectDuration": 5.0,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 8
+          },
+          {
+            "id": 243,
+            "level": 3,
+            "activateEffectDuration": 5.0,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 8
+          },
+          {
+            "id": 244,
+            "level": 4,
+            "activateEffectDuration": 5.0,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 8
+          }
+        ]
+      },
+      {
+        "id": 62,
+        "skillEffectType": "score_up_character_rank",
+        "activateNotesJudgmentType": "good",
+        "activateCharacterRank": 18,
+        "conditionType": "equals_or_over",
+        "skillEffectDetails": [
+          {
+            "id": 245,
+            "level": 1,
+            "activateEffectDuration": 5.0,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 9
+          },
+          {
+            "id": 246,
+            "level": 2,
+            "activateEffectDuration": 5.0,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 9
+          },
+          {
+            "id": 247,
+            "level": 3,
+            "activateEffectDuration": 5.0,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 9
+          },
+          {
+            "id": 248,
+            "level": 4,
+            "activateEffectDuration": 5.0,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 9
+          }
+        ]
+      },
+      {
+        "id": 63,
+        "skillEffectType": "score_up_character_rank",
+        "activateNotesJudgmentType": "good",
+        "activateCharacterRank": 20,
+        "conditionType": "equals_or_over",
+        "skillEffectDetails": [
+          {
+            "id": 249,
+            "level": 1,
+            "activateEffectDuration": 5.0,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 10
+          },
+          {
+            "id": 250,
+            "level": 2,
+            "activateEffectDuration": 5.0,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 10
+          },
+          {
+            "id": 251,
+            "level": 3,
+            "activateEffectDuration": 5.0,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 10
+          },
+          {
+            "id": 252,
+            "level": 4,
+            "activateEffectDuration": 5.0,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 10
+          }
+        ]
+      },
+      {
+        "id": 64,
+        "skillEffectType": "score_up_character_rank",
+        "activateNotesJudgmentType": "good",
+        "activateCharacterRank": 22,
+        "conditionType": "equals_or_over",
+        "skillEffectDetails": [
+          {
+            "id": 253,
+            "level": 1,
+            "activateEffectDuration": 5.0,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 11
+          },
+          {
+            "id": 254,
+            "level": 2,
+            "activateEffectDuration": 5.0,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 11
+          },
+          {
+            "id": 255,
+            "level": 3,
+            "activateEffectDuration": 5.0,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 11
+          },
+          {
+            "id": 256,
+            "level": 4,
+            "activateEffectDuration": 5.0,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 11
+          }
+        ]
+      },
+      {
+        "id": 65,
+        "skillEffectType": "score_up_character_rank",
+        "activateNotesJudgmentType": "good",
+        "activateCharacterRank": 24,
+        "conditionType": "equals_or_over",
+        "skillEffectDetails": [
+          {
+            "id": 257,
+            "level": 1,
+            "activateEffectDuration": 5.0,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 12
+          },
+          {
+            "id": 258,
+            "level": 2,
+            "activateEffectDuration": 5.0,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 12
+          },
+          {
+            "id": 259,
+            "level": 3,
+            "activateEffectDuration": 5.0,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 12
+          },
+          {
+            "id": 260,
+            "level": 4,
+            "activateEffectDuration": 5.0,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 12
+          }
+        ]
+      },
+      {
+        "id": 66,
+        "skillEffectType": "score_up_character_rank",
+        "activateNotesJudgmentType": "good",
+        "activateCharacterRank": 26,
+        "conditionType": "equals_or_over",
+        "skillEffectDetails": [
+          {
+            "id": 261,
+            "level": 1,
+            "activateEffectDuration": 5.0,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 13
+          },
+          {
+            "id": 262,
+            "level": 2,
+            "activateEffectDuration": 5.0,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 13
+          },
+          {
+            "id": 263,
+            "level": 3,
+            "activateEffectDuration": 5.0,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 13
+          },
+          {
+            "id": 264,
+            "level": 4,
+            "activateEffectDuration": 5.0,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 13
+          }
+        ]
+      },
+      {
+        "id": 67,
+        "skillEffectType": "score_up_character_rank",
+        "activateNotesJudgmentType": "good",
+        "activateCharacterRank": 28,
+        "conditionType": "equals_or_over",
+        "skillEffectDetails": [
+          {
+            "id": 265,
+            "level": 1,
+            "activateEffectDuration": 5.0,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 14
+          },
+          {
+            "id": 266,
+            "level": 2,
+            "activateEffectDuration": 5.0,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 14
+          },
+          {
+            "id": 267,
+            "level": 3,
+            "activateEffectDuration": 5.0,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 14
+          },
+          {
+            "id": 268,
+            "level": 4,
+            "activateEffectDuration": 5.0,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 14
+          }
+        ]
+      },
+      {
+        "id": 68,
+        "skillEffectType": "score_up_character_rank",
+        "activateNotesJudgmentType": "good",
+        "activateCharacterRank": 30,
+        "conditionType": "equals_or_over",
+        "skillEffectDetails": [
+          {
+            "id": 269,
+            "level": 1,
+            "activateEffectDuration": 5.0,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 15
+          },
+          {
+            "id": 270,
+            "level": 2,
+            "activateEffectDuration": 5.0,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 15
+          },
+          {
+            "id": 271,
+            "level": 3,
+            "activateEffectDuration": 5.0,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 15
+          },
+          {
+            "id": 272,
+            "level": 4,
+            "activateEffectDuration": 5.0,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 15
+          }
+        ]
+      },
+      {
+        "id": 69,
+        "skillEffectType": "score_up_character_rank",
+        "activateNotesJudgmentType": "good",
+        "activateCharacterRank": 32,
+        "conditionType": "equals_or_over",
+        "skillEffectDetails": [
+          {
+            "id": 273,
+            "level": 1,
+            "activateEffectDuration": 5.0,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 16
+          },
+          {
+            "id": 274,
+            "level": 2,
+            "activateEffectDuration": 5.0,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 16
+          },
+          {
+            "id": 275,
+            "level": 3,
+            "activateEffectDuration": 5.0,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 16
+          },
+          {
+            "id": 276,
+            "level": 4,
+            "activateEffectDuration": 5.0,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 16
+          }
+        ]
+      },
+      {
+        "id": 70,
+        "skillEffectType": "score_up_character_rank",
+        "activateNotesJudgmentType": "good",
+        "activateCharacterRank": 34,
+        "conditionType": "equals_or_over",
+        "skillEffectDetails": [
+          {
+            "id": 277,
+            "level": 1,
+            "activateEffectDuration": 5.0,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 17
+          },
+          {
+            "id": 278,
+            "level": 2,
+            "activateEffectDuration": 5.0,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 17
+          },
+          {
+            "id": 279,
+            "level": 3,
+            "activateEffectDuration": 5.0,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 17
+          },
+          {
+            "id": 280,
+            "level": 4,
+            "activateEffectDuration": 5.0,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 17
+          }
+        ]
+      },
+      {
+        "id": 71,
+        "skillEffectType": "score_up_character_rank",
+        "activateNotesJudgmentType": "good",
+        "activateCharacterRank": 36,
+        "conditionType": "equals_or_over",
+        "skillEffectDetails": [
+          {
+            "id": 281,
+            "level": 1,
+            "activateEffectDuration": 5.0,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 18
+          },
+          {
+            "id": 282,
+            "level": 2,
+            "activateEffectDuration": 5.0,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 18
+          },
+          {
+            "id": 283,
+            "level": 3,
+            "activateEffectDuration": 5.0,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 18
+          },
+          {
+            "id": 284,
+            "level": 4,
+            "activateEffectDuration": 5.0,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 18
+          }
+        ]
+      },
+      {
+        "id": 72,
+        "skillEffectType": "score_up_character_rank",
+        "activateNotesJudgmentType": "good",
+        "activateCharacterRank": 38,
+        "conditionType": "equals_or_over",
+        "skillEffectDetails": [
+          {
+            "id": 285,
+            "level": 1,
+            "activateEffectDuration": 5.0,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 19
+          },
+          {
+            "id": 286,
+            "level": 2,
+            "activateEffectDuration": 5.0,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 19
+          },
+          {
+            "id": 287,
+            "level": 3,
+            "activateEffectDuration": 5.0,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 19
+          },
+          {
+            "id": 288,
+            "level": 4,
+            "activateEffectDuration": 5.0,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 19
+          }
+        ]
+      },
+      {
+        "id": 73,
+        "skillEffectType": "score_up_character_rank",
+        "activateNotesJudgmentType": "good",
+        "activateCharacterRank": 40,
+        "conditionType": "equals_or_over",
+        "skillEffectDetails": [
+          {
+            "id": 289,
+            "level": 1,
+            "activateEffectDuration": 5.0,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 20
+          },
+          {
+            "id": 290,
+            "level": 2,
+            "activateEffectDuration": 5.0,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 20
+          },
+          {
+            "id": 291,
+            "level": 3,
+            "activateEffectDuration": 5.0,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 20
+          },
+          {
+            "id": 292,
+            "level": 4,
+            "activateEffectDuration": 5.0,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 20
+          }
+        ]
+      },
+      {
+        "id": 74,
+        "skillEffectType": "score_up_character_rank",
+        "activateNotesJudgmentType": "good",
+        "activateCharacterRank": 42,
+        "conditionType": "equals_or_over",
+        "skillEffectDetails": [
+          {
+            "id": 293,
+            "level": 1,
+            "activateEffectDuration": 5.0,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 21
+          },
+          {
+            "id": 294,
+            "level": 2,
+            "activateEffectDuration": 5.0,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 21
+          },
+          {
+            "id": 295,
+            "level": 3,
+            "activateEffectDuration": 5.0,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 21
+          },
+          {
+            "id": 296,
+            "level": 4,
+            "activateEffectDuration": 5.0,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 21
+          }
+        ]
+      },
+      {
+        "id": 75,
+        "skillEffectType": "score_up_character_rank",
+        "activateNotesJudgmentType": "good",
+        "activateCharacterRank": 44,
+        "conditionType": "equals_or_over",
+        "skillEffectDetails": [
+          {
+            "id": 297,
+            "level": 1,
+            "activateEffectDuration": 5.0,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 22
+          },
+          {
+            "id": 298,
+            "level": 2,
+            "activateEffectDuration": 5.0,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 22
+          },
+          {
+            "id": 299,
+            "level": 3,
+            "activateEffectDuration": 5.0,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 22
+          },
+          {
+            "id": 300,
+            "level": 4,
+            "activateEffectDuration": 5.0,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 22
+          }
+        ]
+      },
+      {
+        "id": 76,
+        "skillEffectType": "score_up_character_rank",
+        "activateNotesJudgmentType": "good",
+        "activateCharacterRank": 46,
+        "conditionType": "equals_or_over",
+        "skillEffectDetails": [
+          {
+            "id": 301,
+            "level": 1,
+            "activateEffectDuration": 5.0,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 23
+          },
+          {
+            "id": 302,
+            "level": 2,
+            "activateEffectDuration": 5.0,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 23
+          },
+          {
+            "id": 303,
+            "level": 3,
+            "activateEffectDuration": 5.0,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 23
+          },
+          {
+            "id": 304,
+            "level": 4,
+            "activateEffectDuration": 5.0,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 23
+          }
+        ]
+      },
+      {
+        "id": 77,
+        "skillEffectType": "score_up_character_rank",
+        "activateNotesJudgmentType": "good",
+        "activateCharacterRank": 48,
+        "conditionType": "equals_or_over",
+        "skillEffectDetails": [
+          {
+            "id": 305,
+            "level": 1,
+            "activateEffectDuration": 5.0,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 24
+          },
+          {
+            "id": 306,
+            "level": 2,
+            "activateEffectDuration": 5.0,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 24
+          },
+          {
+            "id": 307,
+            "level": 3,
+            "activateEffectDuration": 5.0,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 24
+          },
+          {
+            "id": 308,
+            "level": 4,
+            "activateEffectDuration": 5.0,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 24
+          }
+        ]
+      },
+      {
+        "id": 78,
+        "skillEffectType": "score_up_character_rank",
+        "activateNotesJudgmentType": "good",
+        "activateCharacterRank": 50,
+        "conditionType": "equals_or_over",
+        "skillEffectDetails": [
+          {
+            "id": 309,
+            "level": 1,
+            "activateEffectDuration": 5.0,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 25
+          },
+          {
+            "id": 310,
+            "level": 2,
+            "activateEffectDuration": 5.0,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 25
+          },
+          {
+            "id": 311,
+            "level": 3,
+            "activateEffectDuration": 5.0,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 25
+          },
+          {
+            "id": 312,
+            "level": 4,
+            "activateEffectDuration": 5.0,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 25
+          }
+        ]
+      },
+      {
+        "id": 79,
+        "skillEffectType": "score_up_character_rank",
+        "activateNotesJudgmentType": "good",
+        "activateCharacterRank": 52,
+        "conditionType": "equals_or_over",
+        "skillEffectDetails": [
+          {
+            "id": 313,
+            "level": 1,
+            "activateEffectDuration": 5.0,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 26
+          },
+          {
+            "id": 314,
+            "level": 2,
+            "activateEffectDuration": 5.0,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 26
+          },
+          {
+            "id": 315,
+            "level": 3,
+            "activateEffectDuration": 5.0,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 26
+          },
+          {
+            "id": 316,
+            "level": 4,
+            "activateEffectDuration": 5.0,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 26
+          }
+        ]
+      },
+      {
+        "id": 80,
+        "skillEffectType": "score_up_character_rank",
+        "activateNotesJudgmentType": "good",
+        "activateCharacterRank": 54,
+        "conditionType": "equals_or_over",
+        "skillEffectDetails": [
+          {
+            "id": 317,
+            "level": 1,
+            "activateEffectDuration": 5.0,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 27
+          },
+          {
+            "id": 318,
+            "level": 2,
+            "activateEffectDuration": 5.0,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 27
+          },
+          {
+            "id": 319,
+            "level": 3,
+            "activateEffectDuration": 5.0,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 27
+          },
+          {
+            "id": 320,
+            "level": 4,
+            "activateEffectDuration": 5.0,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 27
+          }
+        ]
+      },
+      {
+        "id": 81,
+        "skillEffectType": "score_up_character_rank",
+        "activateNotesJudgmentType": "good",
+        "activateCharacterRank": 56,
+        "conditionType": "equals_or_over",
+        "skillEffectDetails": [
+          {
+            "id": 321,
+            "level": 1,
+            "activateEffectDuration": 5.0,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 28
+          },
+          {
+            "id": 322,
+            "level": 2,
+            "activateEffectDuration": 5.0,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 28
+          },
+          {
+            "id": 323,
+            "level": 3,
+            "activateEffectDuration": 5.0,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 28
+          },
+          {
+            "id": 324,
+            "level": 4,
+            "activateEffectDuration": 5.0,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 28
+          }
+        ]
+      },
+      {
+        "id": 82,
+        "skillEffectType": "score_up_character_rank",
+        "activateNotesJudgmentType": "good",
+        "activateCharacterRank": 58,
+        "conditionType": "equals_or_over",
+        "skillEffectDetails": [
+          {
+            "id": 325,
+            "level": 1,
+            "activateEffectDuration": 5.0,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 29
+          },
+          {
+            "id": 326,
+            "level": 2,
+            "activateEffectDuration": 5.0,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 29
+          },
+          {
+            "id": 327,
+            "level": 3,
+            "activateEffectDuration": 5.0,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 29
+          },
+          {
+            "id": 328,
+            "level": 4,
+            "activateEffectDuration": 5.0,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 29
+          }
+        ]
+      },
+      {
+        "id": 83,
+        "skillEffectType": "score_up_character_rank",
+        "activateNotesJudgmentType": "good",
+        "activateCharacterRank": 60,
+        "conditionType": "equals_or_over",
+        "skillEffectDetails": [
+          {
+            "id": 329,
+            "level": 1,
+            "activateEffectDuration": 5.0,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 30
+          },
+          {
+            "id": 330,
+            "level": 2,
+            "activateEffectDuration": 5.0,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 30
+          },
+          {
+            "id": 331,
+            "level": 3,
+            "activateEffectDuration": 5.0,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 30
+          },
+          {
+            "id": 332,
+            "level": 4,
+            "activateEffectDuration": 5.0,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 30
+          }
+        ]
+      },
+      {
+        "id": 84,
+        "skillEffectType": "score_up_character_rank",
+        "activateNotesJudgmentType": "good",
+        "activateCharacterRank": 62,
+        "conditionType": "equals_or_over",
+        "skillEffectDetails": [
+          {
+            "id": 333,
+            "level": 1,
+            "activateEffectDuration": 5.0,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 31
+          },
+          {
+            "id": 334,
+            "level": 2,
+            "activateEffectDuration": 5.0,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 31
+          },
+          {
+            "id": 335,
+            "level": 3,
+            "activateEffectDuration": 5.0,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 31
+          },
+          {
+            "id": 336,
+            "level": 4,
+            "activateEffectDuration": 5.0,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 31
+          }
+        ]
+      },
+      {
+        "id": 85,
+        "skillEffectType": "score_up_character_rank",
+        "activateNotesJudgmentType": "good",
+        "activateCharacterRank": 64,
+        "conditionType": "equals_or_over",
+        "skillEffectDetails": [
+          {
+            "id": 337,
+            "level": 1,
+            "activateEffectDuration": 5.0,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 32
+          },
+          {
+            "id": 338,
+            "level": 2,
+            "activateEffectDuration": 5.0,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 32
+          },
+          {
+            "id": 339,
+            "level": 3,
+            "activateEffectDuration": 5.0,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 32
+          },
+          {
+            "id": 340,
+            "level": 4,
+            "activateEffectDuration": 5.0,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 32
+          }
+        ]
+      },
+      {
+        "id": 86,
+        "skillEffectType": "score_up_character_rank",
+        "activateNotesJudgmentType": "good",
+        "activateCharacterRank": 66,
+        "conditionType": "equals_or_over",
+        "skillEffectDetails": [
+          {
+            "id": 341,
+            "level": 1,
+            "activateEffectDuration": 5.0,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 33
+          },
+          {
+            "id": 342,
+            "level": 2,
+            "activateEffectDuration": 5.0,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 33
+          },
+          {
+            "id": 343,
+            "level": 3,
+            "activateEffectDuration": 5.0,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 33
+          },
+          {
+            "id": 344,
+            "level": 4,
+            "activateEffectDuration": 5.0,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 33
+          }
+        ]
+      },
+      {
+        "id": 87,
+        "skillEffectType": "score_up_character_rank",
+        "activateNotesJudgmentType": "good",
+        "activateCharacterRank": 68,
+        "conditionType": "equals_or_over",
+        "skillEffectDetails": [
+          {
+            "id": 345,
+            "level": 1,
+            "activateEffectDuration": 5.0,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 34
+          },
+          {
+            "id": 346,
+            "level": 2,
+            "activateEffectDuration": 5.0,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 34
+          },
+          {
+            "id": 347,
+            "level": 3,
+            "activateEffectDuration": 5.0,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 34
+          },
+          {
+            "id": 348,
+            "level": 4,
+            "activateEffectDuration": 5.0,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 34
+          }
+        ]
+      },
+      {
+        "id": 88,
+        "skillEffectType": "score_up_character_rank",
+        "activateNotesJudgmentType": "good",
+        "activateCharacterRank": 70,
+        "conditionType": "equals_or_over",
+        "skillEffectDetails": [
+          {
+            "id": 349,
+            "level": 1,
+            "activateEffectDuration": 5.0,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 35
+          },
+          {
+            "id": 350,
+            "level": 2,
+            "activateEffectDuration": 5.0,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 35
+          },
+          {
+            "id": 351,
+            "level": 3,
+            "activateEffectDuration": 5.0,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 35
+          },
+          {
+            "id": 352,
+            "level": 4,
+            "activateEffectDuration": 5.0,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 35
+          }
+        ]
+      },
+      {
+        "id": 89,
+        "skillEffectType": "score_up_character_rank",
+        "activateNotesJudgmentType": "good",
+        "activateCharacterRank": 72,
+        "conditionType": "equals_or_over",
+        "skillEffectDetails": [
+          {
+            "id": 353,
+            "level": 1,
+            "activateEffectDuration": 5.0,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 36
+          },
+          {
+            "id": 354,
+            "level": 2,
+            "activateEffectDuration": 5.0,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 36
+          },
+          {
+            "id": 355,
+            "level": 3,
+            "activateEffectDuration": 5.0,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 36
+          },
+          {
+            "id": 356,
+            "level": 4,
+            "activateEffectDuration": 5.0,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 36
+          }
+        ]
+      },
+      {
+        "id": 90,
+        "skillEffectType": "score_up_character_rank",
+        "activateNotesJudgmentType": "good",
+        "activateCharacterRank": 74,
+        "conditionType": "equals_or_over",
+        "skillEffectDetails": [
+          {
+            "id": 357,
+            "level": 1,
+            "activateEffectDuration": 5.0,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 37
+          },
+          {
+            "id": 358,
+            "level": 2,
+            "activateEffectDuration": 5.0,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 37
+          },
+          {
+            "id": 359,
+            "level": 3,
+            "activateEffectDuration": 5.0,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 37
+          },
+          {
+            "id": 360,
+            "level": 4,
+            "activateEffectDuration": 5.0,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 37
+          }
+        ]
+      },
+      {
+        "id": 91,
+        "skillEffectType": "score_up_character_rank",
+        "activateNotesJudgmentType": "good",
+        "activateCharacterRank": 76,
+        "conditionType": "equals_or_over",
+        "skillEffectDetails": [
+          {
+            "id": 361,
+            "level": 1,
+            "activateEffectDuration": 5.0,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 38
+          },
+          {
+            "id": 362,
+            "level": 2,
+            "activateEffectDuration": 5.0,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 38
+          },
+          {
+            "id": 363,
+            "level": 3,
+            "activateEffectDuration": 5.0,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 38
+          },
+          {
+            "id": 364,
+            "level": 4,
+            "activateEffectDuration": 5.0,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 38
+          }
+        ]
+      },
+      {
+        "id": 92,
+        "skillEffectType": "score_up_character_rank",
+        "activateNotesJudgmentType": "good",
+        "activateCharacterRank": 78,
+        "conditionType": "equals_or_over",
+        "skillEffectDetails": [
+          {
+            "id": 365,
+            "level": 1,
+            "activateEffectDuration": 5.0,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 39
+          },
+          {
+            "id": 366,
+            "level": 2,
+            "activateEffectDuration": 5.0,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 39
+          },
+          {
+            "id": 367,
+            "level": 3,
+            "activateEffectDuration": 5.0,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 39
+          },
+          {
+            "id": 368,
+            "level": 4,
+            "activateEffectDuration": 5.0,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 39
+          }
+        ]
+      },
+      {
+        "id": 93,
+        "skillEffectType": "score_up_character_rank",
+        "activateNotesJudgmentType": "good",
+        "activateCharacterRank": 80,
+        "conditionType": "equals_or_over",
+        "skillEffectDetails": [
+          {
+            "id": 369,
+            "level": 1,
+            "activateEffectDuration": 5.0,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 40
+          },
+          {
+            "id": 370,
+            "level": 2,
+            "activateEffectDuration": 5.0,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 40
+          },
+          {
+            "id": 371,
+            "level": 3,
+            "activateEffectDuration": 5.0,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 40
+          },
+          {
+            "id": 372,
+            "level": 4,
+            "activateEffectDuration": 5.0,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 40
+          }
+        ]
+      },
+      {
+        "id": 94,
+        "skillEffectType": "score_up_character_rank",
+        "activateNotesJudgmentType": "good",
+        "activateCharacterRank": 82,
+        "conditionType": "equals_or_over",
+        "skillEffectDetails": [
+          {
+            "id": 373,
+            "level": 1,
+            "activateEffectDuration": 5.0,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 41
+          },
+          {
+            "id": 374,
+            "level": 2,
+            "activateEffectDuration": 5.0,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 41
+          },
+          {
+            "id": 375,
+            "level": 3,
+            "activateEffectDuration": 5.0,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 41
+          },
+          {
+            "id": 376,
+            "level": 4,
+            "activateEffectDuration": 5.0,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 41
+          }
+        ]
+      },
+      {
+        "id": 95,
+        "skillEffectType": "score_up_character_rank",
+        "activateNotesJudgmentType": "good",
+        "activateCharacterRank": 84,
+        "conditionType": "equals_or_over",
+        "skillEffectDetails": [
+          {
+            "id": 377,
+            "level": 1,
+            "activateEffectDuration": 5.0,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 42
+          },
+          {
+            "id": 378,
+            "level": 2,
+            "activateEffectDuration": 5.0,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 42
+          },
+          {
+            "id": 379,
+            "level": 3,
+            "activateEffectDuration": 5.0,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 42
+          },
+          {
+            "id": 380,
+            "level": 4,
+            "activateEffectDuration": 5.0,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 42
+          }
+        ]
+      },
+      {
+        "id": 96,
+        "skillEffectType": "score_up_character_rank",
+        "activateNotesJudgmentType": "good",
+        "activateCharacterRank": 86,
+        "conditionType": "equals_or_over",
+        "skillEffectDetails": [
+          {
+            "id": 381,
+            "level": 1,
+            "activateEffectDuration": 5.0,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 43
+          },
+          {
+            "id": 382,
+            "level": 2,
+            "activateEffectDuration": 5.0,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 43
+          },
+          {
+            "id": 383,
+            "level": 3,
+            "activateEffectDuration": 5.0,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 43
+          },
+          {
+            "id": 384,
+            "level": 4,
+            "activateEffectDuration": 5.0,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 43
+          }
+        ]
+      },
+      {
+        "id": 97,
+        "skillEffectType": "score_up_character_rank",
+        "activateNotesJudgmentType": "good",
+        "activateCharacterRank": 88,
+        "conditionType": "equals_or_over",
+        "skillEffectDetails": [
+          {
+            "id": 385,
+            "level": 1,
+            "activateEffectDuration": 5.0,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 44
+          },
+          {
+            "id": 386,
+            "level": 2,
+            "activateEffectDuration": 5.0,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 44
+          },
+          {
+            "id": 387,
+            "level": 3,
+            "activateEffectDuration": 5.0,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 44
+          },
+          {
+            "id": 388,
+            "level": 4,
+            "activateEffectDuration": 5.0,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 44
+          }
+        ]
+      },
+      {
+        "id": 98,
+        "skillEffectType": "score_up_character_rank",
+        "activateNotesJudgmentType": "good",
+        "activateCharacterRank": 90,
+        "conditionType": "equals_or_over",
+        "skillEffectDetails": [
+          {
+            "id": 389,
+            "level": 1,
+            "activateEffectDuration": 5.0,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 45
+          },
+          {
+            "id": 390,
+            "level": 2,
+            "activateEffectDuration": 5.0,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 45
+          },
+          {
+            "id": 391,
+            "level": 3,
+            "activateEffectDuration": 5.0,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 45
+          },
+          {
+            "id": 392,
+            "level": 4,
+            "activateEffectDuration": 5.0,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 45
+          }
+        ]
+      },
+      {
+        "id": 99,
+        "skillEffectType": "score_up_character_rank",
+        "activateNotesJudgmentType": "good",
+        "activateCharacterRank": 92,
+        "conditionType": "equals_or_over",
+        "skillEffectDetails": [
+          {
+            "id": 393,
+            "level": 1,
+            "activateEffectDuration": 5.0,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 46
+          },
+          {
+            "id": 394,
+            "level": 2,
+            "activateEffectDuration": 5.0,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 46
+          },
+          {
+            "id": 395,
+            "level": 3,
+            "activateEffectDuration": 5.0,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 46
+          },
+          {
+            "id": 396,
+            "level": 4,
+            "activateEffectDuration": 5.0,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 46
+          }
+        ]
+      },
+      {
+        "id": 100,
+        "skillEffectType": "score_up_character_rank",
+        "activateNotesJudgmentType": "good",
+        "activateCharacterRank": 94,
+        "conditionType": "equals_or_over",
+        "skillEffectDetails": [
+          {
+            "id": 397,
+            "level": 1,
+            "activateEffectDuration": 5.0,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 47
+          },
+          {
+            "id": 398,
+            "level": 2,
+            "activateEffectDuration": 5.0,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 47
+          },
+          {
+            "id": 399,
+            "level": 3,
+            "activateEffectDuration": 5.0,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 47
+          },
+          {
+            "id": 400,
+            "level": 4,
+            "activateEffectDuration": 5.0,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 47
+          }
+        ]
+      },
+      {
+        "id": 101,
+        "skillEffectType": "score_up_character_rank",
+        "activateNotesJudgmentType": "good",
+        "activateCharacterRank": 96,
+        "conditionType": "equals_or_over",
+        "skillEffectDetails": [
+          {
+            "id": 401,
+            "level": 1,
+            "activateEffectDuration": 5.0,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 48
+          },
+          {
+            "id": 402,
+            "level": 2,
+            "activateEffectDuration": 5.0,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 48
+          },
+          {
+            "id": 403,
+            "level": 3,
+            "activateEffectDuration": 5.0,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 48
+          },
+          {
+            "id": 404,
+            "level": 4,
+            "activateEffectDuration": 5.0,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 48
+          }
+        ]
+      },
+      {
+        "id": 102,
+        "skillEffectType": "score_up_character_rank",
+        "activateNotesJudgmentType": "good",
+        "activateCharacterRank": 98,
+        "conditionType": "equals_or_over",
+        "skillEffectDetails": [
+          {
+            "id": 405,
+            "level": 1,
+            "activateEffectDuration": 5.0,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 49
+          },
+          {
+            "id": 406,
+            "level": 2,
+            "activateEffectDuration": 5.0,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 49
+          },
+          {
+            "id": 407,
+            "level": 3,
+            "activateEffectDuration": 5.0,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 49
+          },
+          {
+            "id": 408,
+            "level": 4,
+            "activateEffectDuration": 5.0,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 49
+          }
+        ]
+      },
+      {
+        "id": 103,
+        "skillEffectType": "score_up_character_rank",
+        "activateNotesJudgmentType": "good",
+        "activateCharacterRank": 100,
+        "conditionType": "equals_or_over",
+        "skillEffectDetails": [
+          {
+            "id": 409,
+            "level": 1,
+            "activateEffectDuration": 5.0,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 50
+          },
+          {
+            "id": 410,
+            "level": 2,
+            "activateEffectDuration": 5.0,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 50
+          },
+          {
+            "id": 411,
+            "level": 3,
+            "activateEffectDuration": 5.0,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 50
+          },
+          {
+            "id": 412,
+            "level": 4,
+            "activateEffectDuration": 5.0,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "shortDescription": "5秒間  スコアが{{104;v}}%UP、更に編成からランダムに選んだメンバー1人が持つスキルのスコアUP最大値の{{105;v}}%をUP（最大で合計{{104,105;o}}%）",
+    "description": "5秒間  スコアが{{104;v}}%UP、更に編成からランダムに選んだ他メンバー1人が持つスキルのスコアUP最大値の{{105;v}}%をUP（最大で合計{{104,105;o}}%）",
+    "descriptionSpriteName": "score_up",
+    "skillFilterId": 2,
+    "skillEffects": [
+      {
+        "id": 104,
+        "skillEffectType": "score_up",
+        "activateNotesJudgmentType": "good",
+        "skillEffectDetails": [
+          {
+            "id": 413,
+            "level": 1,
+            "activateEffectDuration": 5.0,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 60
+          },
+          {
+            "id": 414,
+            "level": 2,
+            "activateEffectDuration": 5.0,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 65
+          },
+          {
+            "id": 415,
+            "level": 3,
+            "activateEffectDuration": 5.0,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 70
+          },
+          {
+            "id": 416,
+            "level": 4,
+            "activateEffectDuration": 5.0,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 80
+          }
+        ]
+      },
+      {
+        "id": 105,
+        "skillEffectType": "other_member_score_up_reference_rate",
+        "activateNotesJudgmentType": "good",
+        "skillEffectDetails": [
+          {
+            "id": 417,
+            "level": 1,
+            "activateEffectDuration": 5.0,
+            "activateEffectValueType": "reference_rate",
+            "activateEffectValue": 50,
+            "activateEffectValue2": 60
+          },
+          {
+            "id": 418,
+            "level": 2,
+            "activateEffectDuration": 5.0,
+            "activateEffectValueType": "reference_rate",
+            "activateEffectValue": 50,
+            "activateEffectValue2": 65
+          },
+          {
+            "id": 419,
+            "level": 3,
+            "activateEffectDuration": 5.0,
+            "activateEffectValueType": "reference_rate",
+            "activateEffectValue": 50,
+            "activateEffectValue2": 70
+          },
+          {
+            "id": 420,
+            "level": 4,
+            "activateEffectDuration": 5.0,
+            "activateEffectValueType": "reference_rate",
+            "activateEffectValue": 50,
+            "activateEffectValue2": 70
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "shortDescription": "5秒間スコアが{{106;v}}%UP\n自身と異なるユニットを最大2種類まで、1種類編成する毎にスコアが30%UPする(最大{{106,038;u}}%)",
+    "description": "5秒間  スコアが{{106;v}}%UP\n自身と異なるユニットを最大2種類まで、1種類編成する毎にスコアが30%UPする(最大{{106,108;u}}%)",
+    "descriptionSpriteName": "score_up",
+    "skillFilterId": 2,
+    "skillEffects": [
+      {
+        "id": 106,
+        "skillEffectType": "score_up",
+        "activateNotesJudgmentType": "good",
+        "skillEffectDetails": [
+          {
+            "id": 421,
+            "level": 1,
+            "activateEffectDuration": 5.0,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 70
+          },
+          {
+            "id": 422,
+            "level": 2,
+            "activateEffectDuration": 5.0,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 75
+          },
+          {
+            "id": 423,
+            "level": 3,
+            "activateEffectDuration": 5.0,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 80
+          },
+          {
+            "id": 424,
+            "level": 4,
+            "activateEffectDuration": 5.0,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 90
+          }
+        ]
+      },
+      {
+        "id": 107,
+        "skillEffectType": "score_up_unit_count",
+        "activateNotesJudgmentType": "good",
+        "activateUnitCount": 1,
+        "conditionType": "equals_or_over",
+        "skillEffectDetails": [
+          {
+            "id": 425,
+            "level": 1,
+            "activateEffectDuration": 5.0,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 30
+          },
+          {
+            "id": 426,
+            "level": 2,
+            "activateEffectDuration": 5.0,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 30
+          },
+          {
+            "id": 427,
+            "level": 3,
+            "activateEffectDuration": 5.0,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 30
+          },
+          {
+            "id": 428,
+            "level": 4,
+            "activateEffectDuration": 5.0,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 30
+          }
+        ]
+      },
+      {
+        "id": 108,
+        "skillEffectType": "score_up_unit_count",
+        "activateNotesJudgmentType": "good",
+        "activateUnitCount": 2,
+        "conditionType": "equals_or_over",
+        "skillEffectDetails": [
+          {
+            "id": 429,
+            "level": 1,
+            "activateEffectDuration": 5.0,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 60
+          },
+          {
+            "id": 430,
+            "level": 2,
+            "activateEffectDuration": 5.0,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 60
+          },
+          {
+            "id": 431,
+            "level": 3,
+            "activateEffectDuration": 5.0,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 60
+          },
+          {
+            "id": 432,
+            "level": 4,
+            "activateEffectDuration": 5.0,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 60
+          }
+        ]
+      }
+    ]
   }
 ]
