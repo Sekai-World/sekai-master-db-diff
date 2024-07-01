@@ -882,14 +882,14 @@
   {
     "id": 3945,
     "seq": 1,
-    "displayOrder": 64320,
+    "displayOrder": 64365,
     "informationType": "normal",
     "informationTag": "event",
     "browseType": "internal",
     "platform": "all",
-    "title": "イベント「OVER RAD SQUAD!!」開催！",
-    "path": "information\/index.html?id=info_event135_held",
-    "startAt": 1719727200000,
+    "title": "【7月1日12時00分追記】イベント「OVER RAD SQUAD!!」開催！",
+    "path": "information\/index.html?id=info_event135_held_add",
+    "startAt": 1719802800000,
     "endAt": 1721044800000,
     "bannerAssetbundleName": "banner_news_event135"
   },
@@ -948,6 +948,33 @@
     "endAt": 1722798000000
   },
   {
+    "id": 3950,
+    "seq": 1,
+    "displayOrder": 64370,
+    "informationType": "normal",
+    "informationTag": "information",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "『第9回ランクマッチ シーズン「2024 SUMMER」』開催！",
+    "path": "information\/index.html?id=info_rankmatch009_season-2024-summer_held",
+    "startAt": 1719802800000,
+    "endAt": 1727751600000,
+    "bannerAssetbundleName": "banner_news_rankmatch009_season-2024-summer"
+  },
+  {
+    "id": 3951,
+    "seq": 1,
+    "displayOrder": 64380,
+    "informationType": "normal",
+    "informationTag": "music",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "楽曲「ポッピンキャンディ☆フィーバー！」追加！",
+    "path": "information\/index.html?id=info_music_20240701",
+    "startAt": 1719813600000,
+    "endAt": 1720033200000
+  },
+  {
     "id": 3956,
     "seq": 1,
     "displayOrder": 19750,
@@ -996,7 +1023,8 @@
     "platform": "all",
     "title": "アプリバージョン「v3.7.0」までに確認している不具合について",
     "path": "information\/index.html?id=bug_summary_to_v3-7-0",
-    "startAt": 1719712800000
+    "startAt": 1719712800000,
+    "endAt": 1719802800000
   },
   {
     "id": 3978,
@@ -1022,5 +1050,17 @@
     "title": "【6月30日11時00分追記】ライブ衣装「モーモー☆ニューイヤー(メンズ)」における不具合修正、及び修正に伴う有償クリスタル返還対応についてのご案内",
     "path": "information\/index.html?id=info_moomoo-newyear_20240531_add2",
     "startAt": 1719712800000
+  },
+  {
+    "id": 3980,
+    "seq": 1,
+    "displayOrder": 25740,
+    "informationType": "bug",
+    "informationTag": "bug",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "【7月1日12時00分追記】アプリバージョン「v3.7.0」までに確認している不具合について",
+    "path": "information\/index.html?id=bug_summary_to_v3-7-0_add",
+    "startAt": 1719802800000
   }
 ]
