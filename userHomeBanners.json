@@ -1,7 +1,7 @@
 [
   {
-    "homeBannerId": 987,
-    "seq": 110,
+    "homeBannerId": 988,
+    "seq": 180,
     "homeBannerType": "event",
     "name": "[イベント]ワンダショ箱イベ_イベントバナー",
     "assetbundleName": "event_torimonothou_2024",
@@ -9,28 +9,6 @@
     "transitionDestinationId": 136,
     "startAt": 1720504800000,
     "endAt": 1721214000000
-  },
-  {
-    "homeBannerId": 990,
-    "seq": 100,
-    "homeBannerType": "general",
-    "name": "[ガチャ]ワンダショ箱イベ_ガチャバナー",
-    "assetbundleName": "banner_gacha536",
-    "transitionDestinationType": "gacha",
-    "transitionDestinationId": 536,
-    "startAt": 1720494000000,
-    "endAt": 1721185200000
-  },
-  {
-    "homeBannerId": 992,
-    "seq": 130,
-    "homeBannerType": "general",
-    "name": "[ガチャ]ワールドリンクイベントサポートガチャ",
-    "assetbundleName": "banner_gacha537",
-    "transitionDestinationType": "gacha",
-    "transitionDestinationId": 537,
-    "startAt": 1720580400000,
-    "endAt": 1721185200000
   },
   {
     "homeBannerId": 993,
@@ -64,5 +42,16 @@
     "transitionDestinationId": 540,
     "startAt": 1721012400000,
     "endAt": 1721790000000
+  },
+  {
+    "homeBannerId": 999,
+    "seq": 100,
+    "homeBannerType": "general",
+    "name": "[イベント]レオニWLイベ_ガチャバナー",
+    "assetbundleName": "banner_gacha541",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 541,
+    "startAt": 1721185200000,
+    "endAt": 1722394800000
   }
 ]
