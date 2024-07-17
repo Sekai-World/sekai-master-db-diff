@@ -8104,5 +8104,143 @@
     "eventMissionSelectableRewardGroupId": 1,
     "sentence": "7つのミッションを全て達成しよう。",
     "rewards": []
+  },
+  {
+    "id": 449,
+    "eventId": 137,
+    "seq": 1,
+    "eventMissionType": "live_clear_daily",
+    "eventMissionCategory": "normal",
+    "requirement1": 13,
+    "sentence": "累計13日ライブを1日1回クリアしよう。",
+    "rewards": [
+      {
+        "id": 9590,
+        "missionType": "event_mission",
+        "missionId": 449,
+        "seq": 1,
+        "resourceBoxId": 8002
+      }
+    ]
+  },
+  {
+    "id": 450,
+    "eventId": 137,
+    "seq": 2,
+    "eventMissionType": "any_live_clear",
+    "eventMissionCategory": "normal",
+    "requirement1": 50,
+    "sentence": "ライブを50回クリアしよう。",
+    "rewards": [
+      {
+        "id": 9591,
+        "missionType": "event_mission",
+        "missionId": 450,
+        "seq": 1,
+        "resourceBoxId": 8002
+      }
+    ]
+  },
+  {
+    "id": 451,
+    "eventId": 137,
+    "seq": 3,
+    "eventMissionType": "live_clear_full_combo",
+    "eventMissionCategory": "normal",
+    "requirement1": 10,
+    "sentence": "ライブで楽曲をフルコンボで10回クリアしよう。",
+    "rewards": [
+      {
+        "id": 9592,
+        "missionType": "event_mission",
+        "missionId": 451,
+        "seq": 1,
+        "resourceBoxId": 8002
+      }
+    ]
+  },
+  {
+    "id": 452,
+    "eventId": 137,
+    "seq": 4,
+    "eventMissionType": "live_clear_different_music",
+    "eventMissionCategory": "normal",
+    "requirement1": 10,
+    "requirement2": 1,
+    "sentence": "ライブで10種類の楽曲をクリアしよう。",
+    "rewards": [
+      {
+        "id": 9593,
+        "missionType": "event_mission",
+        "missionId": 452,
+        "seq": 1,
+        "resourceBoxId": 8002
+      }
+    ]
+  },
+  {
+    "id": 453,
+    "eventId": 137,
+    "seq": 5,
+    "eventMissionType": "read_last_event_story_episode",
+    "eventMissionCategory": "normal",
+    "requirement1": 1,
+    "sentence": "イベント「あの日見た夜空は、いつかの未来へ」のエンディングを読もう。",
+    "rewards": [
+      {
+        "id": 9594,
+        "missionType": "event_mission",
+        "missionId": 453,
+        "seq": 1,
+        "resourceBoxId": 8002
+      }
+    ]
+  },
+  {
+    "id": 454,
+    "eventId": 137,
+    "seq": 6,
+    "eventMissionType": "consume_event_item",
+    "eventMissionCategory": "normal",
+    "requirement1": 20000,
+    "sentence": "イベント「あの日見た夜空は、いつかの未来へ」の交換所でバッジを20000個消費しよう。",
+    "rewards": [
+      {
+        "id": 9595,
+        "missionType": "event_mission",
+        "missionId": 454,
+        "seq": 1,
+        "resourceBoxId": 8002
+      }
+    ]
+  },
+  {
+    "id": 455,
+    "eventId": 137,
+    "seq": 7,
+    "eventMissionType": "join_virtual_live",
+    "eventMissionCategory": "normal",
+    "requirement1": 1,
+    "sentence": "「あの日見た夜空は、いつかの未来へ アフターライブ」に参加しよう。",
+    "rewards": [
+      {
+        "id": 9596,
+        "missionType": "event_mission",
+        "missionId": 455,
+        "seq": 1,
+        "resourceBoxId": 8002
+      }
+    ]
+  },
+  {
+    "id": 456,
+    "eventId": 137,
+    "seq": 8,
+    "eventMissionType": "achieve_event_mission",
+    "eventMissionCategory": "complete_selectable_reward",
+    "requirement1": 7,
+    "eventMissionSelectableRewardGroupId": 1,
+    "sentence": "7つのミッションを全て達成しよう。",
+    "rewards": []
   }
 ]
