@@ -43360,6 +43360,26 @@
     "startAt": 1704780000000
   },
   {
+    "id": 10688,
+    "shopId": 4,
+    "seq": 9957703,
+    "releaseConditionId": 5,
+    "resourceBoxId": 10688,
+    "costs": [
+      {
+        "shopItemId": 10688,
+        "seq": 1,
+        "cost": {
+          "resourceId": 20,
+          "resourceType": "material",
+          "resourceLevel": 0,
+          "quantity": 1
+        }
+      }
+    ],
+    "startAt": 1722391200000
+  },
+  {
     "id": 10689,
     "shopId": 2,
     "seq": 997200,
@@ -44215,16 +44235,6 @@
           "resourceLevel": 0,
           "quantity": 1
         }
-      },
-      {
-        "shopItemId": 10733,
-        "seq": 2,
-        "cost": {
-          "resourceId": 40,
-          "resourceType": "material",
-          "resourceLevel": 0,
-          "quantity": 1
-        }
       }
     ],
     "startAt": 1719712800000
@@ -44388,6 +44398,66 @@
       }
     ],
     "startAt": 1722232800000
+  },
+  {
+    "id": 10742,
+    "shopId": 2,
+    "seq": 996720,
+    "releaseConditionId": 1,
+    "resourceBoxId": 10742,
+    "costs": [
+      {
+        "shopItemId": 10742,
+        "seq": 1,
+        "cost": {
+          "resourceId": 13,
+          "resourceType": "material",
+          "resourceLevel": 0,
+          "quantity": 10
+        }
+      }
+    ],
+    "startAt": 1722664800000
+  },
+  {
+    "id": 10743,
+    "shopId": 2,
+    "seq": 996710,
+    "releaseConditionId": 1,
+    "resourceBoxId": 10743,
+    "costs": [
+      {
+        "shopItemId": 10743,
+        "seq": 1,
+        "cost": {
+          "resourceId": 13,
+          "resourceType": "material",
+          "resourceLevel": 0,
+          "quantity": 10
+        }
+      }
+    ],
+    "startAt": 1722751200000
+  },
+  {
+    "id": 10744,
+    "shopId": 4,
+    "seq": 9992226,
+    "releaseConditionId": 5,
+    "resourceBoxId": 10744,
+    "costs": [
+      {
+        "shopItemId": 10744,
+        "seq": 1,
+        "cost": {
+          "resourceId": 43,
+          "resourceType": "material",
+          "resourceLevel": 0,
+          "quantity": 1
+        }
+      }
+    ],
+    "startAt": 1722391200000
   },
   {
     "id": 20001,
