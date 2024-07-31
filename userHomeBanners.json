@@ -1,7 +1,7 @@
 [
   {
-    "homeBannerId": 996,
-    "seq": 110,
+    "homeBannerId": 997,
+    "seq": 180,
     "homeBannerType": "event",
     "name": "[イベント]レオニWLイベ_イベントバナー",
     "assetbundleName": "event_nightsky_2024",
@@ -9,17 +9,6 @@
     "transitionDestinationId": 137,
     "startAt": 1721214000000,
     "endAt": 1722405600000
-  },
-  {
-    "homeBannerId": 999,
-    "seq": 100,
-    "homeBannerType": "general",
-    "name": "[イベント]レオニWLイベ_ガチャバナー",
-    "assetbundleName": "banner_gacha541",
-    "transitionDestinationType": "gacha",
-    "transitionDestinationId": 541,
-    "startAt": 1721185200000,
-    "endAt": 1722394800000
   },
   {
     "homeBannerId": 1007,
@@ -31,5 +20,16 @@
     "transitionDestinationId": 548,
     "startAt": 1721962800000,
     "endAt": 1722740400000
+  },
+  {
+    "homeBannerId": 1011,
+    "seq": 100,
+    "homeBannerType": "general",
+    "name": "[ガチャ]モモジャン箱イベ_ガチャバナー",
+    "assetbundleName": "banner_gacha549",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 549,
+    "startAt": 1722394800000,
+    "endAt": 1723172400000
   }
 ]
