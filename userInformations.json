@@ -1226,6 +1226,20 @@
     "bannerAssetbundleName": "banner_news_event140"
   },
   {
+    "id": 4057,
+    "seq": 1,
+    "displayOrder": 65230,
+    "informationType": "normal",
+    "informationTag": "information",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "「プロジェクトセカイ COLORFUL LIVE 4th」チケットのアプリ内先行に関するご案内",
+    "path": "information\/index.html?id=info_sekarai-4th-20240816",
+    "startAt": 1723798800000,
+    "endAt": 1724770800000,
+    "bannerAssetbundleName": "banner_news_pjsekailive4th_01"
+  },
+  {
     "id": 4077,
     "seq": 1,
     "displayOrder": 25840,
@@ -1248,7 +1262,8 @@
     "platform": "all",
     "title": "【8月14日21時30分追記】アプリバージョン「v3.8.0」までに確認している不具合について",
     "path": "information\/index.html?id=bug_summary_to_v3-8-0_3",
-    "startAt": 1723638600000
+    "startAt": 1723638600000,
+    "endAt": 1723798800000
   },
   {
     "id": 4079,
@@ -1261,5 +1276,30 @@
     "title": "アプリが正常に起動できず、強制終了する事象について",
     "path": "information\/index.html?id=bug_error_20240815",
     "startAt": 1723734900000
+  },
+  {
+    "id": 4080,
+    "seq": 1,
+    "displayOrder": 25890,
+    "informationType": "bug",
+    "informationTag": "bug",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "【8月16日18時00分追記】アプリが正常に起動できず、強制終了する事象について",
+    "path": "information\/index.html?id=bug_error_20240815_add",
+    "startAt": 1723798800000,
+    "endAt": 1726167600000
+  },
+  {
+    "id": 4081,
+    "seq": 1,
+    "displayOrder": 25900,
+    "informationType": "bug",
+    "informationTag": "bug",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "【8月16日18時00分追記】アプリバージョン「v3.8.0」までに確認している不具合について",
+    "path": "information\/index.html?id=bug_summary_to_v3-8-0_4",
+    "startAt": 1723798800000
   }
 ]
