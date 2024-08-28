@@ -1340,6 +1340,10 @@
     "value": "{0}つき"
   },
   {
+    "wordingKey": "MSG_GET_GACHA_BONUS",
+    "value": "ガチャボーナスを獲得しました。"
+  },
+  {
     "wordingKey": "MSG_GET_LIVE_MISSION_POINT",
     "value": "ライブPを合計{0}P獲得する"
   },
@@ -2410,6 +2414,42 @@
   {
     "wordingKey": "MSG_RECEIVE_EVENT_MISSION_EXPIRED_REWARD",
     "value": "未受け取り分のボーナスミッション報酬を獲得しました。"
+  },
+  {
+    "wordingKey": "MSG_RECOLLECTION_APPEAL_SELECT_CARD",
+    "value": "今回でガチャボーナス{0}に到達！\nボーナスメンバーをセレクトしてください。"
+  },
+  {
+    "wordingKey": "MSG_RECOLLECTION_RANDOM_NOTICE",
+    "value": "提供メンバーの中から、未獲得のメンバーが提供される★4メンバーとして登場します。\n未獲得メンバーがいない場合は、全提供メンバーの中から登場します。"
+  },
+  {
+    "wordingKey": "MSG_RECOLLECTION_RANDOM_ONLY_NORMAL_NOTICE",
+    "value": "恒常メンバーの中から、未獲得のメンバーが提供される★4メンバーとして登場します。\n未獲得メンバーがいない場合は、全恒常メンバーの中から登場します。"
+  },
+  {
+    "wordingKey": "MSG_RECOLLECTION_SELECT",
+    "value": "好きなメンバーを下から1人選んでください"
+  },
+  {
+    "wordingKey": "MSG_RECOLLECTION_SELECT_END_CONFIRM",
+    "value": "このメンバーを設定します。よろしいですか？"
+  },
+  {
+    "wordingKey": "MSG_RECOLLECTION_SELECT_NOTICE",
+    "value": "提供メンバーの中から、ボーナスとして選択したメンバーが、★4メンバーとして登場します。"
+  },
+  {
+    "wordingKey": "MSG_RECOLLECTION_SELECT_ONLY_NORMAL_NOTICE",
+    "value": "恒常メンバーの中から、ボーナスとして選択したメンバーが、★4メンバーとして登場します。"
+  },
+  {
+    "wordingKey": "MSG_RECOLLECTION_WISH_LIST_CONFIRM",
+    "value": "メンバーが未設定です。\nメンバーを設定するまで、\nリコレクションフェスティバルガチャを引くことができません。\nメンバーをあとで設定しますか？"
+  },
+  {
+    "wordingKey": "MSG_RECOLLECTION_WISH_LIST_CONFIRM_TIPS",
+    "value": "※ガチャボーナスメンバーは\nボーナス獲得まで何度でも変更できます。"
   },
   {
     "wordingKey": "MSG_RECOMMEND_SUPPORT_DECK",
@@ -5416,12 +5456,28 @@
     "value": "絞り込み"
   },
   {
+    "wordingKey": "WORD_FILTER_CARD_NORMAL",
+    "value": "恒常"
+  },
+  {
+    "wordingKey": "WORD_FILTER_CARD_SUPPLY_TYPE",
+    "value": "メンバー種類"
+  },
+  {
+    "wordingKey": "WORD_FILTER_COLORFUL_FESTIVAL_LIMITED",
+    "value": "カラフェス限定"
+  },
+  {
     "wordingKey": "WORD_FILTER_COSTUME_BODY_HEAD",
     "value": "衣装あり"
   },
   {
     "wordingKey": "WORD_FILTER_COSTUME_HAIR",
     "value": "ヘアスタイルあり"
+  },
+  {
+    "wordingKey": "WORD_FILTER_PERIOD_LIMITED",
+    "value": "期間限定"
   },
   {
     "wordingKey": "WORD_FILTER_SKILL_SCORE",
@@ -5658,6 +5714,10 @@
   {
     "wordingKey": "WORD_GACHA",
     "value": "ガチャ"
+  },
+  {
+    "wordingKey": "WORD_GACHA_BONUS",
+    "value": "ガチャボーナス"
   },
   {
     "wordingKey": "WORD_GACHA_CATEGORY_ACQUISITION_FILTER_CAPTION",
@@ -8006,6 +8066,14 @@
   {
     "wordingKey": "WORD_RECEIVE_PRESENT",
     "value": "以下のアイテムを受け取りました。"
+  },
+  {
+    "wordingKey": "WORD_RECOLLECTION_BONUS_PROVISION_RATE_TAB",
+    "value": "ボーナス{0}"
+  },
+  {
+    "wordingKey": "WORD_RECOLLECTION_CONFIRM_CARD_NAME_FORMAT",
+    "value": "[{0}]\n{1}"
   },
   {
     "wordingKey": "WORD_RECOMMEND",
