@@ -1,7 +1,7 @@
 [
   {
-    "homeBannerId": 1023,
-    "seq": 110,
+    "homeBannerId": 1024,
+    "seq": 180,
     "homeBannerType": "event",
     "name": "[イベント]バチャシンWLイベ_イベントバナー",
     "assetbundleName": "event_beginning_2024",
@@ -11,8 +11,8 @@
     "endAt": 1725084000000
   },
   {
-    "homeBannerId": 1025,
-    "seq": 100,
+    "homeBannerId": 1026,
+    "seq": 170,
     "homeBannerType": "general",
     "name": "[ガチャ]バチャシンWLイベ_ガチャバナー",
     "assetbundleName": "banner_gacha559",
@@ -20,6 +20,17 @@
     "transitionDestinationId": 559,
     "startAt": 1723863600000,
     "endAt": 1725073200000
+  },
+  {
+    "homeBannerId": 1029,
+    "seq": 130,
+    "homeBannerType": "general",
+    "name": "[初音ミク]HAPPY ANNIVERSARYライブ",
+    "assetbundleName": "banner_virtuallive322",
+    "transitionDestinationType": "virtual_live",
+    "transitionDestinationId": 322,
+    "startAt": 1724911200000,
+    "endAt": 1725030000000
   },
   {
     "homeBannerId": 1034,
@@ -31,5 +42,16 @@
     "transitionDestinationId": 563,
     "startAt": 1724814000000,
     "endAt": 1725159600000
+  },
+  {
+    "homeBannerId": 1035,
+    "seq": 50,
+    "homeBannerType": "general",
+    "name": "[マジカルミライ2024]プレミアムプレゼントガチャバナー",
+    "assetbundleName": "banner_gacha564",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 564,
+    "startAt": 1724986800000,
+    "endAt": 1725505200000
   }
 ]
