@@ -1,27 +1,5 @@
 [
   {
-    "homeBannerId": 1024,
-    "seq": 180,
-    "homeBannerType": "event",
-    "name": "[イベント]バチャシンWLイベ_イベントバナー",
-    "assetbundleName": "event_beginning_2024",
-    "transitionDestinationType": "event",
-    "transitionDestinationId": 140,
-    "startAt": 1723892400000,
-    "endAt": 1725084000000
-  },
-  {
-    "homeBannerId": 1030,
-    "seq": 130,
-    "homeBannerType": "general",
-    "name": "[初音ミク]HAPPY ANNIVERSARY2024ガチャ",
-    "assetbundleName": "banner_gacha565",
-    "transitionDestinationType": "gacha",
-    "transitionDestinationId": 565,
-    "startAt": 1725030000000,
-    "endAt": 1725116400000
-  },
-  {
     "homeBannerId": 1034,
     "seq": 10,
     "homeBannerType": "general",
@@ -42,6 +20,17 @@
     "transitionDestinationId": 564,
     "startAt": 1724986800000,
     "endAt": 1725505200000
+  },
+  {
+    "homeBannerId": 1036,
+    "seq": 110,
+    "homeBannerType": "event",
+    "name": "[イベント]シャッフル肝試しイベ_イベントバナー",
+    "assetbundleName": "event_horror_2024",
+    "transitionDestinationType": "event",
+    "transitionDestinationId": 141,
+    "startAt": 1725084000000,
+    "endAt": 1725948000000
   },
   {
     "homeBannerId": 1038,
