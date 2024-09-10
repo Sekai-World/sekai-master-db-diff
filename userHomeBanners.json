@@ -11,8 +11,30 @@
     "endAt": 1725948000000
   },
   {
+    "homeBannerId": 1037,
+    "seq": 180,
+    "homeBannerType": "event",
+    "name": "[イベント]シャッフル肝試しイベ_イベントバナー",
+    "assetbundleName": "event_horror_2024",
+    "transitionDestinationType": "event",
+    "transitionDestinationId": 141,
+    "startAt": 1725084000000,
+    "endAt": 1725948000000
+  },
+  {
     "homeBannerId": 1038,
     "seq": 100,
+    "homeBannerType": "general",
+    "name": "[ガチャ]シャッフル肝試しイベ_ガチャバナー",
+    "assetbundleName": "banner_gacha568",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 568,
+    "startAt": 1725073200000,
+    "endAt": 1725937200000
+  },
+  {
+    "homeBannerId": 1039,
+    "seq": 170,
     "homeBannerType": "general",
     "name": "[ガチャ]シャッフル肝試しイベ_ガチャバナー",
     "assetbundleName": "banner_gacha568",
