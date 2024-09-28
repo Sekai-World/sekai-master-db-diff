@@ -222,7 +222,8 @@
     "billableLimitValue": 8000,
     "billableLimitResetIntervalType": "monthly",
     "assetbundleName": "shop_12",
-    "resourceBoxId": 21
+    "resourceBoxId": 21,
+    "endAt": 1727621999000
   },
   {
     "id": 17,
@@ -473,7 +474,8 @@
     "billableLimitResetIntervalType": "monthly",
     "assetbundleName": "shop_33",
     "resourceBoxId": 33,
-    "startAt": 1614232800000
+    "startAt": 1614232800000,
+    "endAt": 1727621999000
   },
   {
     "id": 34,
@@ -687,7 +689,8 @@
     "resourceBoxId": 153,
     "bonusResourceBoxId": 28,
     "label": "1回限定",
-    "startAt": 1632927600000
+    "startAt": 1632927600000,
+    "endAt": 1728615599000
   },
   {
     "id": 47,
@@ -703,7 +706,8 @@
     "resourceBoxId": 154,
     "bonusResourceBoxId": 29,
     "label": "1回限定",
-    "startAt": 1632927600000
+    "startAt": 1632927600000,
+    "endAt": 1728615599000
   },
   {
     "id": 48,
@@ -719,7 +723,8 @@
     "resourceBoxId": 42,
     "bonusResourceBoxId": 30,
     "label": "1回限定",
-    "startAt": 1632927600000
+    "startAt": 1632927600000,
+    "endAt": 1728615599000
   },
   {
     "id": 49,
@@ -1034,7 +1039,7 @@
     "billableLimitValue": 1,
     "billableLimitResetIntervalType": "day",
     "billableLimitResetIntervalValue": 30,
-    "assetbundleName": "shop_69",
+    "assetbundleName": "shop_69_v2",
     "resourceBoxId": 902
   },
   {
@@ -1048,7 +1053,7 @@
     "billableLimitValue": 1,
     "billableLimitResetIntervalType": "day",
     "billableLimitResetIntervalValue": 30,
-    "assetbundleName": "shop_70",
+    "assetbundleName": "shop_70_v2",
     "resourceBoxId": 903
   },
   {
@@ -1166,7 +1171,8 @@
     "assetbundleName": "shop_76",
     "resourceBoxId": 228,
     "bonusResourceBoxId": 53,
-    "startAt": 1695999600000
+    "startAt": 1695999600000,
+    "endAt": 1728615599000
   },
   {
     "id": 77,
@@ -1285,6 +1291,181 @@
     "bonusResourceBoxId": 39,
     "startAt": 1711897200000,
     "endAt": 1714489199000
+  },
+  {
+    "id": 100,
+    "seq": 7,
+    "billingShopItemType": "jewel",
+    "billingProductGroupId": 83,
+    "name": "クリスタル A",
+    "description": "■商品\n・クリスタル×150\n■景品\n・無償クリスタル×30（WEB限定ボーナス）",
+    "billableLimitType": "count",
+    "billableLimitValue": 1,
+    "billableLimitResetIntervalType": "none",
+    "assetbundleName": "shop_100",
+    "resourceBoxId": 146,
+    "startAt": 1704034800000
+  },
+  {
+    "id": 101,
+    "seq": 6,
+    "billingShopItemType": "jewel",
+    "billingProductGroupId": 84,
+    "name": "クリスタル B",
+    "description": "■商品\n・クリスタル×460\n■景品\n・無償クリスタル×90（WEB限定ボーナス）",
+    "billableLimitType": "count",
+    "billableLimitValue": 1,
+    "billableLimitResetIntervalType": "none",
+    "assetbundleName": "shop_101",
+    "resourceBoxId": 147,
+    "startAt": 1704034800000
+  },
+  {
+    "id": 102,
+    "seq": 5,
+    "billingShopItemType": "jewel",
+    "billingProductGroupId": 85,
+    "name": "クリスタル C",
+    "description": "■商品\n・クリスタル×970\n■景品\n・無償クリスタル×180（WEB限定ボーナス）",
+    "billableLimitType": "count",
+    "billableLimitValue": 1,
+    "billableLimitResetIntervalType": "none",
+    "assetbundleName": "shop_102",
+    "resourceBoxId": 148,
+    "startAt": 1704034800000
+  },
+  {
+    "id": 103,
+    "seq": 4,
+    "billingShopItemType": "jewel",
+    "billingProductGroupId": 86,
+    "name": "クリスタル D",
+    "description": "■商品\n・クリスタル×1760\n■景品\n・無償クリスタル×340（WEB限定ボーナス）",
+    "billableLimitType": "count",
+    "billableLimitValue": 1,
+    "billableLimitResetIntervalType": "none",
+    "assetbundleName": "shop_103",
+    "resourceBoxId": 149,
+    "startAt": 1704034800000
+  },
+  {
+    "id": 104,
+    "seq": 3,
+    "billingShopItemType": "jewel",
+    "billingProductGroupId": 87,
+    "name": "クリスタル E",
+    "description": "■商品\n・クリスタル×3000\n■景品\n・無償クリスタル×600（WEB限定ボーナス）\n・想いのカケラ×200（WEB限定ボーナス）",
+    "billableLimitType": "count",
+    "billableLimitValue": 1,
+    "billableLimitResetIntervalType": "none",
+    "assetbundleName": "shop_104",
+    "resourceBoxId": 150,
+    "startAt": 1704034800000
+  },
+  {
+    "id": 105,
+    "seq": 2,
+    "billingShopItemType": "jewel",
+    "billingProductGroupId": 88,
+    "name": "クリスタル F",
+    "description": "■商品\n・クリスタル×5000\n■景品\n・無償クリスタル×1000（WEB限定ボーナス）\n・想いのカケラ×400（WEB限定ボーナス）",
+    "billableLimitType": "count",
+    "billableLimitValue": 1,
+    "billableLimitResetIntervalType": "none",
+    "assetbundleName": "shop_105",
+    "resourceBoxId": 7,
+    "startAt": 1704034800000
+  },
+  {
+    "id": 106,
+    "seq": 1,
+    "billingShopItemType": "jewel",
+    "billingProductGroupId": 89,
+    "name": "クリスタル G",
+    "description": "■商品\n・クリスタル×10500\n■景品\n・無償クリスタル×2100（WEB限定ボーナス）\n・想いのカケラ×1000（WEB限定ボーナス）",
+    "billableLimitType": "count",
+    "billableLimitValue": 1,
+    "billableLimitResetIntervalType": "none",
+    "assetbundleName": "shop_106",
+    "resourceBoxId": 8,
+    "startAt": 1704034800000
+  },
+  {
+    "id": 107,
+    "seq": 9,
+    "billingShopItemType": "jewel",
+    "billingProductGroupId": 90,
+    "name": "クリスタル G×3",
+    "description": "■商品\n・クリスタル×31500\n■景品\n・無償クリスタル×1575（WEB限定ボーナス）\n・想いのカケラ×750（WEB限定ボーナス）",
+    "billableLimitType": "unlimited",
+    "billableLimitResetIntervalType": "none",
+    "assetbundleName": "shop_107",
+    "resourceBoxId": 330,
+    "startAt": 1704034800000
+  },
+  {
+    "id": 108,
+    "seq": 8,
+    "billingShopItemType": "jewel",
+    "billingProductGroupId": 91,
+    "name": "クリスタル G×5",
+    "description": "■商品\n・クリスタル×52500\n■景品\n・無償クリスタル×2625（WEB限定ボーナス）\n・想いのカケラ×1250（WEB限定ボーナス）",
+    "billableLimitType": "unlimited",
+    "billableLimitResetIntervalType": "none",
+    "assetbundleName": "shop_108",
+    "resourceBoxId": 331,
+    "startAt": 1704034800000
+  },
+  {
+    "id": 109,
+    "seq": 300,
+    "billingShopItemType": "jewel",
+    "billingProductGroupId": 92,
+    "name": "[4周年記念セール]クリスタルE",
+    "description": "■商品\n・クリスタル×3,000\n■景品\n・無償クリスタル×500\n・想いのカケラ×50（WEB限定ボーナス）",
+    "billableLimitType": "count",
+    "billableLimitValue": 3,
+    "billableLimitResetIntervalType": "none",
+    "assetbundleName": "shop_67",
+    "resourceBoxId": 150,
+    "bonusResourceBoxId": 47,
+    "label": "期間限定",
+    "startAt": 1727622000000,
+    "endAt": 1730343599000
+  },
+  {
+    "id": 110,
+    "seq": 290,
+    "billingShopItemType": "jewel",
+    "billingProductGroupId": 93,
+    "name": "[4周年記念セール]クリスタルF",
+    "description": "■商品\n・クリスタル×5,000\n■景品\n・無償クリスタル×850\n・想いのカケラ×100（WEB限定ボーナス）",
+    "billableLimitType": "count",
+    "billableLimitValue": 3,
+    "billableLimitResetIntervalType": "none",
+    "assetbundleName": "shop_19",
+    "resourceBoxId": 19,
+    "bonusResourceBoxId": 12,
+    "label": "期間限定",
+    "startAt": 1727622000000,
+    "endAt": 1730343599000
+  },
+  {
+    "id": 111,
+    "seq": 280,
+    "billingShopItemType": "jewel",
+    "billingProductGroupId": 94,
+    "name": "[4周年記念セール]クリスタルG",
+    "description": "■商品\n・クリスタル×10,500\n■景品\n・無償クリスタル×1800\n・想いのカケラ×250（WEB限定ボーナス）",
+    "billableLimitType": "count",
+    "billableLimitValue": 3,
+    "billableLimitResetIntervalType": "none",
+    "assetbundleName": "shop_20",
+    "resourceBoxId": 20,
+    "bonusResourceBoxId": 13,
+    "label": "期間限定",
+    "startAt": 1727622000000,
+    "endAt": 1730343599000
   },
   {
     "id": 10001,
@@ -3461,6 +3642,34 @@
     "label": "期間中1回限定",
     "startAt": 1711767600000,
     "endAt": 1714489199000,
+    "purchaseOption": "exchange"
+  },
+  {
+    "id": 10171,
+    "seq": 10,
+    "billingShopItemType": "value_set",
+    "name": "ライブP ×100",
+    "description": "ライブP×100",
+    "billableLimitType": "live_point",
+    "billableLimitValue": 8000,
+    "billableLimitResetIntervalType": "monthly",
+    "assetbundleName": "shop_12",
+    "resourceBoxId": 21,
+    "startAt": 1727622000000,
+    "purchaseOption": "exchange"
+  },
+  {
+    "id": 10172,
+    "seq": 20,
+    "billingShopItemType": "value_set",
+    "name": "ライブP ×1000",
+    "description": "ライブP×1000",
+    "billableLimitType": "live_point",
+    "billableLimitValue": 8000,
+    "billableLimitResetIntervalType": "monthly",
+    "assetbundleName": "shop_33",
+    "resourceBoxId": 33,
+    "startAt": 1727622000000,
     "purchaseOption": "exchange"
   },
   {

@@ -367,18 +367,19 @@
             "seq": 1,
             "resourceType": "material",
             "resourceId": 15,
-            "quantity": 2000
+            "quantity": 1000
           }
         ]
       }
-    ]
+    ],
+    "materialExchangeDisplayResourceGroups": []
   },
   {
     "id": 2,
-    "seq": 30,
+    "seq": 40,
     "exchangeCategory": "card_ticket",
     "materialExchangeType": "normal",
-    "name": "★3メンバー",
+    "name": "★3メンバー\nチケット",
     "assetbundleName": "icon_memberTicket_star3",
     "startAt": 1607320800000,
     "materialExchanges": [
@@ -2541,7 +2542,8 @@
           }
         ]
       }
-    ]
+    ],
+    "materialExchangeDisplayResourceGroups": []
   },
   {
     "id": 3,
@@ -4048,11 +4050,12 @@
           }
         ]
       }
-    ]
+    ],
+    "materialExchangeDisplayResourceGroups": []
   },
   {
     "id": 4,
-    "seq": 4,
+    "seq": 30,
     "exchangeCategory": "vocal_card_ticket",
     "materialExchangeType": "normal",
     "name": "ボーカルカード",
@@ -4687,7 +4690,8 @@
           }
         ]
       }
-    ]
+    ],
+    "materialExchangeDisplayResourceGroups": []
   },
   {
     "id": 5,
@@ -7482,7 +7486,8 @@
           }
         ]
       }
-    ]
+    ],
+    "materialExchangeDisplayResourceGroups": []
   },
   {
     "id": 6,
@@ -10224,7 +10229,8 @@
           }
         ]
       }
-    ]
+    ],
+    "materialExchangeDisplayResourceGroups": []
   },
   {
     "id": 7,
@@ -14899,14 +14905,15 @@
           }
         ]
       }
-    ]
+    ],
+    "materialExchangeDisplayResourceGroups": []
   },
   {
     "id": 8,
     "seq": 1,
     "exchangeCategory": "card_ticket",
     "materialExchangeType": "beginner",
-    "name": "[初心者限定]\n★4メンバー",
+    "name": "[初心者限定]\n★4メンバー\nチケット",
     "assetbundleName": "icon_memberTicket_star4",
     "startAt": 1635660000000,
     "notificationRemainHour": 168,
@@ -19015,7 +19022,8 @@
           }
         ]
       }
-    ]
+    ],
+    "materialExchangeDisplayResourceGroups": []
   },
   {
     "id": 9,
@@ -20126,7 +20134,8 @@
           }
         ]
       }
-    ]
+    ],
+    "materialExchangeDisplayResourceGroups": []
   },
   {
     "id": 10,
@@ -20155,7 +20164,8 @@
           }
         ]
       }
-    ]
+    ],
+    "materialExchangeDisplayResourceGroups": []
   },
   {
     "id": 11,
@@ -22976,7 +22986,8 @@
           }
         ]
       }
-    ]
+    ],
+    "materialExchangeDisplayResourceGroups": []
   },
   {
     "id": 12,
@@ -27093,7 +27104,8 @@
           }
         ]
       }
-    ]
+    ],
+    "materialExchangeDisplayResourceGroups": []
   },
   {
     "id": 13,
@@ -27519,7 +27531,8 @@
           }
         ]
       }
-    ]
+    ],
+    "materialExchangeDisplayResourceGroups": []
   },
   {
     "id": 14,
@@ -28050,6 +28063,37 @@
           }
         ]
       }
-    ]
+    ],
+    "materialExchangeDisplayResourceGroups": []
+  },
+  {
+    "id": 15,
+    "seq": 40,
+    "exchangeCategory": "common_ticket",
+    "materialExchangeType": "normal",
+    "name": "限定\nガチャシール券",
+    "assetbundleName": "icon_gachaSealTicket_Limited",
+    "startAt": 1727622000000,
+    "materialExchanges": [
+      {
+        "id": 150001,
+        "materialExchangeSummaryId": 15,
+        "seq": 10,
+        "isDisplayQuantity": true,
+        "resourceBoxId": 150001,
+        "refreshCycle": "none",
+        "costs": [
+          {
+            "materialExchangeId": 150001,
+            "costGroupId": 1,
+            "seq": 1,
+            "resourceType": "material",
+            "resourceId": 48,
+            "quantity": 1
+          }
+        ]
+      }
+    ],
+    "materialExchangeDisplayResourceGroups": []
   }
 ]

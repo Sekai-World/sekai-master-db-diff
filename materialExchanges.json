@@ -358,7 +358,7 @@
         "seq": 1,
         "resourceType": "material",
         "resourceId": 15,
-        "quantity": 2000
+        "quantity": 1000
       }
     ]
   },
@@ -27883,6 +27883,24 @@
         "seq": 1,
         "resourceType": "material",
         "resourceId": 85,
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "id": 150001,
+    "materialExchangeSummaryId": 15,
+    "seq": 10,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 150001,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 150001,
+        "costGroupId": 1,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 48,
         "quantity": 1
       }
     ]

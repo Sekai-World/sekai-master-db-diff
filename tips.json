@@ -261,7 +261,7 @@
   {
     "id": 101,
     "title": "オートライブ",
-    "description": "「ひとりでライブ」では\n自動でプレイするオートライブを使用できます。",
+    "description": "「ひとりでライブ」と「チャレンジライブ」では\n自動でプレイするオートライブを使用できます。",
     "fromUserRank": 1,
     "toUserRank": 999
   },
@@ -275,7 +275,7 @@
   {
     "id": 105,
     "title": "チャレンジライブのEXステージ",
-    "description": "「チャレンジライブ」のステージが100に到達すると\nEXステージに変化します。",
+    "description": "「チャレンジライブ」のステージが150に到達すると\nEXステージに変化します。",
     "fromUserRank": 250,
     "toUserRank": 999
   },
@@ -395,6 +395,13 @@
     "id": 140,
     "title": "フルコンボ・ALL PERFECT専用のライブリザルトセリフ",
     "description": "フルコンボやALL PERFECTを達成すると\n専用のライブリザルトセリフが再生されます。",
+    "fromUserRank": 1,
+    "toUserRank": 999
+  },
+  {
+    "id": 141,
+    "title": "ストーリーの完読",
+    "description": "メイン\/イベントストーリーをスキップ・早送りせずに\n読了した話数に応じて報酬が獲得できます。",
     "fromUserRank": 1,
     "toUserRank": 999
   },

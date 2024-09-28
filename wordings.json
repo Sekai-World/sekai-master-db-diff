@@ -217,7 +217,7 @@
   },
   {
     "wordingKey": "MSG_AD_REWARD_LIVE_BOOST_RECOVER_ANOUNCE",
-    "value": "ライブボーナスが99を超える場合、\n超過分は切り捨てられます。\nライブボーナスを回復しますか？"
+    "value": "ライブボーナスが999を超える場合、\n超過分は切り捨てられます。\nライブボーナスを回復しますか？"
   },
   {
     "wordingKey": "MSG_AD_REWARD_MASTER_EXPIRED",
@@ -672,6 +672,10 @@
     "value": "通報いただいたプレイヤーに対して、ペナルティ処置を行いました。\nご協力いただきありがとうございました。"
   },
   {
+    "wordingKey": "MSG_COMPLETE_READ_REWARD_TIPS",
+    "value": "「メインストーリー」「イベントストーリー」を\nスキップ・早送りせずに読むことで、完読スタンプを1つ獲得できます。"
+  },
+  {
     "wordingKey": "MSG_CONDITION_GET_CARD",
     "value": "「[{0}] {1}」を入手"
   },
@@ -694,6 +698,14 @@
   {
     "wordingKey": "MSG_CONFIRM_OVERWRITE_DATA_LINK_IOS",
     "value": "GameCenterに連携中のプレイヤーデータがあります。\n連携を解除して、現在のプレイヤーデータに連携しますか？"
+  },
+  {
+    "wordingKey": "MSG_CONFIRM_OVERWRITE_STORE_ACCOUNT_APPLE",
+    "value": "Apple IDに連携中のプレイヤーデータがあります。\n連携を解除して、現在のプレイヤーデータに連携しますか？"
+  },
+  {
+    "wordingKey": "MSG_CONFIRM_OVERWRITE_STORE_ACCOUNT_GOOGLE",
+    "value": "Googleに連携中のプレイヤーデータがあります。\n連携を解除して、現在のプレイヤーデータに連携しますか？"
   },
   {
     "wordingKey": "MSG_CONFIRM_PLAY_LOGIN_STORY_DIALOG",
@@ -1052,8 +1064,16 @@
     "value": "{0}を購入しました。"
   },
   {
+    "wordingKey": "MSG_EXCHANGE_CONFIRM_DIALOG_FREEBIE",
+    "value": "既に獲得済みのため、アイテムボーナスを獲得できます。\n<color=#ff5588>※獲得済みメンバーは控え室に送られます。<\/color>"
+  },
+  {
     "wordingKey": "MSG_EXCHANGE_ERROR",
     "value": "交換できるアイテムがありません。\nホームに戻ります"
+  },
+  {
+    "wordingKey": "MSG_EXCHANGE_FREEBIE_CONFIRM_DIALOG",
+    "value": "獲得済みメンバーのため以下のボーナスが付きます。"
   },
   {
     "wordingKey": "MSG_EXCHANGE_GACHA_CIEL_1",
@@ -1229,7 +1249,7 @@
   },
   {
     "wordingKey": "MSG_FRIEND_INVITE_REWARD_DIALOG",
-    "value": "<color=#ff5588>{0}<\/color>さんが\n{1}、{2}、\n{3}のメインストーリーを読破し、\n招待ミッションを達成したため、報酬を獲得しました。"
+    "value": "<color=#ff5588>{0}さん<\/color>が\n招待ミッションを達成したため、報酬を獲得しました。"
   },
   {
     "wordingKey": "MSG_FRIEND_LIMIT_COUNT_FOR_OTHER",
@@ -1270,6 +1290,14 @@
   {
     "wordingKey": "MSG_FRIEND_UNDEFINED_ERROR",
     "value": "通信に失敗しました。"
+  },
+  {
+    "wordingKey": "MSG_GACHA_BONUS_ITEM_DESCRIPTION",
+    "value": "ガチャボーナスが{0}に到達すると、提供割合に応じて以下のアイテムを獲得できます。"
+  },
+  {
+    "wordingKey": "MSG_GACHA_BONUS_ITEM_REWARD_SELECT_CONFIRM_TIPS",
+    "value": "このアイテムを獲得します。よろしいですか？"
   },
   {
     "wordingKey": "MSG_GACHA_CEIL_TICKET_CONVERT_CONFIRM",
@@ -1640,6 +1668,10 @@
     "value": "{0}を<color=#FF5599>{1}<\/color>個消費して \nアイテムと交換しますか？"
   },
   {
+    "wordingKey": "MSG_MATERIAL_EXCHANGE_CONFIRM_BY_GACHA_CIEL",
+    "value": "{0}を<color=#FF5599>{1}<\/color>枚消費して \nアイテムと交換しますか？"
+  },
+  {
     "wordingKey": "MSG_MAX_ANOUNCE",
     "value": "※最大{0}まで。"
   },
@@ -1778,6 +1810,14 @@
   {
     "wordingKey": "MSG_MULTIPLAY_ROOM_NOT_FOUND_WITH_ERROR_CODE",
     "value": "ルームが見つかりません。({0})"
+  },
+  {
+    "wordingKey": "MSG_MULTI_COSTUME_COST_CONFIRM",
+    "value": "以下のアイテムを消費して衣装と交換しますか？"
+  },
+  {
+    "wordingKey": "MSG_MULTI_COST_CONFIRM",
+    "value": "以下のアイテムを消費してアイテムと交換しますか？"
   },
   {
     "wordingKey": "MSG_MULTI_DISSOLUSION",
@@ -2068,6 +2108,10 @@
     "value": "他のプレイヤーの不正行為が検出されたため\n勝敗結果が無効になりました。"
   },
   {
+    "wordingKey": "MSG_NO_DEMETION_RANK_MATCH",
+    "value": "現在のランク以下への降格はありません。"
+  },
+  {
     "wordingKey": "MSG_NO_FILTERING_RESULT",
     "value": "絞り込み結果がありません。"
   },
@@ -2161,7 +2205,7 @@
   },
   {
     "wordingKey": "MSG_OVER_RECOVER",
-    "value": "ライブボーナスの上限は99です"
+    "value": "ライブボーナス上限は999です"
   },
   {
     "wordingKey": "MSG_PAID_LIVE_DISC",
@@ -2258,6 +2302,10 @@
   {
     "wordingKey": "MSG_PRESENT_COUNT",
     "value": "{0}件"
+  },
+  {
+    "wordingKey": "MSG_PRIZE_GIFT_DESCRIPTION_1",
+    "value": "ガチャを1回引くごとに、各種アイテムがプライズとして獲得できます。\n\n※プライズの抽選は、ガチャの結果画面にて実行されます。\n※プライズは提供割合に基づき1回ごとに抽選を行います。例えば提供割合1%のアイテムが100回中1回必ず出現するという仕組みではありません。\n※プライズで獲得できる「[4周年記念]ブルームフェスティバルガチャ専用チケット」は、9月30日12時開催予定の「[4周年記念]ブルームフェスティバルガチャ ドリームピック」でのみ使用できるガチャチケットです。また、開催期限を過ぎた場合、「[4周年記念]ブルームフェスティバルガチャ専用チケット」はご利用いただけなくなりますのでご注意ください。\n※プライズで獲得できる「[4周年記念]10連無料ガチャチケット」は、9月30日12時開催予定の「[4周年記念]10連無料ガチャ」でのみ使用できるガチャチケットです。また、開催期限を過ぎた場合、「[4周年記念]10連無料ガチャチケット」はご利用いただけなくなりますのでご注意ください。"
   },
   {
     "wordingKey": "MSG_PRODUCT_IS_PENDING",
@@ -2420,6 +2468,10 @@
     "value": "今回でガチャボーナス{0}に到達！\nボーナスメンバーをセレクトしてください。"
   },
   {
+    "wordingKey": "MSG_RECOLLECTION_APPEAL_SELECT_ITEM",
+    "value": "今回でガチャボーナス{0}に到達！\nボーナスアイテムをセレクトしてください。"
+  },
+  {
     "wordingKey": "MSG_RECOLLECTION_RANDOM_NOTICE",
     "value": "提供メンバーの中から、未獲得のメンバーが提供される★4メンバーとして登場します。\n未獲得メンバーがいない場合は、全提供メンバーの中から登場します。"
   },
@@ -2528,6 +2580,10 @@
     "value": "本日あと{0}回"
   },
   {
+    "wordingKey": "MSG_REVIEW_GIFT",
+    "value": "プライズを見る"
+  },
+  {
     "wordingKey": "MSG_REWARDED_AD_LOADING",
     "value": "CMの読み込み中です。"
   },
@@ -2573,7 +2629,7 @@
   },
   {
     "wordingKey": "MSG_SELECT_LIST",
-    "value": "好きなメンバーを下から10人選んでください"
+    "value": "好きなメンバーを下から{0}人選んでください"
   },
   {
     "wordingKey": "MSG_SELECT_LIVE_ENTER",
@@ -3012,6 +3068,10 @@
     "value": "途中まで参加していた「{0}」の報酬を獲得しました。"
   },
   {
+    "wordingKey": "MSG_VIRTUAL_LIVE_HOME_REWARD_LIST_DIALOG_BODY",
+    "value": "バーチャルライブの報酬を獲得しました。"
+  },
+  {
     "wordingKey": "MSG_VIRTUAL_LIVE_IN_SESSION",
     "value": "バーチャルライブ開演中！"
   },
@@ -3122,6 +3182,10 @@
   {
     "wordingKey": "MSG_WEB_LINK_BANNER_CONFIRM_DIALOG_BODY",
     "value": "外部サイトに移動します。よろしいですか？"
+  },
+  {
+    "wordingKey": "MSG_WEB_PAYMENT_REFLECT",
+    "value": "公式ストアで購入した以下のアイテムが反映されました。"
   },
   {
     "wordingKey": "MSG_WISH_LIST_BACK_GACHA_TOP_CONFIRM",
@@ -3900,6 +3964,10 @@
     "value": "ボーナスミッション コンプリート報酬"
   },
   {
+    "wordingKey": "WORD_BONUS_MISSION_EVENT_BUTTON",
+    "value": "ボーナス\nミッション"
+  },
+  {
     "wordingKey": "WORD_BONUS_MISSION_TAB",
     "value": "ボーナス"
   },
@@ -4584,6 +4652,14 @@
     "value": "購入完了"
   },
   {
+    "wordingKey": "WORD_COMPLETE_READ_RATE",
+    "value": "ストーリー完読率"
+  },
+  {
+    "wordingKey": "WORD_COMPLETE_READ_STAMP",
+    "value": "完読スタンプ"
+  },
+  {
     "wordingKey": "WORD_COMPOSER",
     "value": "作曲"
   },
@@ -5168,6 +5244,10 @@
     "value": "サイドストーリーボーナス"
   },
   {
+    "wordingKey": "WORD_EPISODE_SKIP_OR_FAST",
+    "value": "スキップ・早送り"
+  },
+  {
     "wordingKey": "WORD_EPISODE_UNLOCK",
     "value": "サイドストーリー解放"
   },
@@ -5178,6 +5258,10 @@
   {
     "wordingKey": "WORD_EPISODE_UNREAD_ALL",
     "value": "全て未読"
+  },
+  {
+    "wordingKey": "WORD_EPISODE_UNREAD_OR_SKIP_OR_FAST",
+    "value": "未読\/スキップ・早送り"
   },
   {
     "wordingKey": "WORD_EQUIP_MEMBER",
@@ -5720,6 +5804,18 @@
     "value": "ガチャボーナス"
   },
   {
+    "wordingKey": "WORD_GACHA_BONUS_ITEM_PROVISION",
+    "value": "アイテム提供割合"
+  },
+  {
+    "wordingKey": "WORD_GACHA_BONUS_ITEM_REWARD_SELECT_TITLE",
+    "value": "獲得する{0}を選んでください。"
+  },
+  {
+    "wordingKey": "WORD_GACHA_BONUS_SUMMARY",
+    "value": "ガチャボーナスについて"
+  },
+  {
     "wordingKey": "WORD_GACHA_CATEGORY_ACQUISITION_FILTER_CAPTION",
     "value": "獲得状況"
   },
@@ -5790,6 +5886,10 @@
   {
     "wordingKey": "WORD_GACHA_LIMITED_SET_PERIOD",
     "value": "開催期間 {0}まで"
+  },
+  {
+    "wordingKey": "WORD_GACHA_OMAKE_CHARA_TICKET_EXCHANGE_DIALOG",
+    "value": "ボーナス\n付き"
   },
   {
     "wordingKey": "WORD_GACHA_SELECT_LIST",
@@ -6157,7 +6257,7 @@
   },
   {
     "wordingKey": "WORD_HONOR_ACHIEVEMENT",
-    "value": "称号 \nアチーブメント"
+    "value": "アチーブメント"
   },
   {
     "wordingKey": "WORD_HONOR_AND_PROFILE",
@@ -6438,6 +6538,10 @@
   {
     "wordingKey": "WORD_LINE_SPACE",
     "value": "行間サイズ"
+  },
+  {
+    "wordingKey": "WORD_LINKED",
+    "value": "連携中"
   },
   {
     "wordingKey": "WORD_LIST",
@@ -7060,6 +7164,10 @@
     "value": "{0}×{1}"
   },
   {
+    "wordingKey": "WORD_MULTIPLE_ITEM_SPACE_FORMAT",
+    "value": "{0} × {1}"
+  },
+  {
     "wordingKey": "WORD_MULTIPLY_FORMAT",
     "value": "×{0}"
   },
@@ -7404,12 +7512,20 @@
     "value": "{0}人"
   },
   {
+    "wordingKey": "WORD_OBTAINED_COMPLETE_READ_STAMP",
+    "value": "集めた完読スタンプ"
+  },
+  {
     "wordingKey": "WORD_OBTAIN_ALL",
     "value": "一括受け取り"
   },
   {
     "wordingKey": "WORD_OFF",
     "value": "OFF"
+  },
+  {
+    "wordingKey": "WORD_OFFER_ITEM_LIST",
+    "value": "提供アイテム一覧"
   },
   {
     "wordingKey": "WORD_OFFLINE_EVENT_LIST_DIALOG_TITLE",
@@ -7878,6 +7994,14 @@
   {
     "wordingKey": "WORD_PRIVATE_ROOM",
     "value": "プライベートルーム"
+  },
+  {
+    "wordingKey": "WORD_PRIZE_GIFT",
+    "value": "プライズ"
+  },
+  {
+    "wordingKey": "WORD_PRIZE_GIFT_SUMMARY",
+    "value": "プライズ概要"
   },
   {
     "wordingKey": "WORD_PROFILE",
@@ -8972,6 +9096,10 @@
     "value": "ストーリー紹介"
   },
   {
+    "wordingKey": "WORD_STORY_READ_STATUS",
+    "value": "読了状況"
+  },
+  {
     "wordingKey": "WORD_STORY_REWARD",
     "value": "ストーリー報酬"
   },
@@ -9388,6 +9516,14 @@
     "value": "不参加"
   },
   {
+    "wordingKey": "WORD_UNLINK_APPLE_ACCOUNT_BUTTON",
+    "value": "Appleと連携解除"
+  },
+  {
+    "wordingKey": "WORD_UNLINK_GOOGLE_ACCOUNT_BUTTON",
+    "value": "Googleと連携解除"
+  },
+  {
     "wordingKey": "WORD_UNLOCK",
     "value": "解放"
   },
@@ -9770,6 +9906,14 @@
   {
     "wordingKey": "WORD_WEARABLE_MEMBER",
     "value": "着用可能メンバー"
+  },
+  {
+    "wordingKey": "WORD_WEB_PAYMENT_REFLECTION_ITEM_NAME_FORMAT",
+    "value": "・{0}"
+  },
+  {
+    "wordingKey": "WORD_WEB_PAYMENT_REFLECTION_LIST_PREFIX",
+    "value": "・"
   },
   {
     "wordingKey": "WORD_WEEK_FRY",
