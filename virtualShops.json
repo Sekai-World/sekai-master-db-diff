@@ -6966,5 +6966,110 @@
       }
     ],
     "virtualShopType": "event"
+  },
+  {
+    "id": 292,
+    "seq": 292,
+    "name": "「コネクトライブ 4th ANNIVERSARY Brilliant Stage」チケットショップ",
+    "virtualLiveId": 327,
+    "virtualShopItems": [
+      {
+        "id": 473,
+        "virtualShopId": 292,
+        "virtualShopItemType": "premium_virtual_live_ticket",
+        "seq": 299982,
+        "resourceBoxId": 369,
+        "costPaidJewel": 6980,
+        "startAt": 1727676000000,
+        "endAt": 1728226799000,
+        "limitValue": 1
+      },
+      {
+        "id": 474,
+        "virtualShopId": 292,
+        "virtualShopItemType": "premium_virtual_live_ticket",
+        "seq": 299981,
+        "resourceBoxId": 370,
+        "costPaidJewel": 5980,
+        "startAt": 1727676000000,
+        "endAt": 1728226799000,
+        "limitValue": 1
+      },
+      {
+        "id": 475,
+        "virtualShopId": 292,
+        "virtualShopItemType": "premium_virtual_live_ticket",
+        "seq": 299980,
+        "resourceBoxId": 371,
+        "costPaidJewel": 2980,
+        "startAt": 1727676000000,
+        "endAt": 1728226799000,
+        "limitValue": 2
+      }
+    ],
+    "virtualShopType": "virtual_live_ticket"
+  },
+  {
+    "id": 293,
+    "seq": 293,
+    "name": "「コネクトライブ 4th ANNIVERSARY Brilliant Stage」グッズショップ",
+    "virtualLiveId": 327,
+    "virtualShopItems": [
+      {
+        "id": 476,
+        "virtualShopId": 293,
+        "virtualShopItemType": "costume",
+        "seq": 99876,
+        "resourceBoxId": 372,
+        "costVirtualCoin": 3000,
+        "costJewel": 1000,
+        "startAt": 1727676000000,
+        "endAt": 1728626399000,
+        "limitValue": 1
+      },
+      {
+        "id": 477,
+        "virtualShopId": 293,
+        "virtualShopItemType": "costume",
+        "seq": 99877,
+        "resourceBoxId": 373,
+        "costVirtualCoin": 3000,
+        "costJewel": 1000,
+        "startAt": 1727676000000,
+        "endAt": 1728626399000,
+        "limitValue": 1
+      },
+      {
+        "id": 478,
+        "virtualShopId": 293,
+        "virtualShopItemType": "accessory",
+        "seq": 99873,
+        "resourceBoxId": 374,
+        "costVirtualCoin": 3000,
+        "costJewel": 1000,
+        "startAt": 1727676000000,
+        "endAt": 1728626399000,
+        "limitValue": 1
+      }
+    ],
+    "virtualShopType": "other"
+  },
+  {
+    "id": 294,
+    "seq": 294,
+    "name": "第144回イベント物販",
+    "virtualShopItems": [
+      {
+        "id": 479,
+        "virtualShopId": 294,
+        "virtualShopItemType": "accessory",
+        "seq": 99872,
+        "resourceBoxId": 375,
+        "costVirtualCoin": 3000,
+        "costJewel": 1000,
+        "startAt": 1727676000000
+      }
+    ],
+    "virtualShopType": "event"
   }
 ]

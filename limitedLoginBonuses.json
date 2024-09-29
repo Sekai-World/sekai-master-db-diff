@@ -2372,5 +2372,75 @@
         "resourceBoxId": 131
       }
     ]
+  },
+  {
+    "id": 99,
+    "seq": 99,
+    "name": "4周年記念ログインキャンペーン",
+    "startAt": 1727665200000,
+    "endAt": 1728759599000,
+    "assetbundleName": "4th_anniversary",
+    "closeAt": 1728241200000,
+    "limitedLoginBonusDetails": [
+      {
+        "id": 217,
+        "limitedLoginBonusId": 99,
+        "day": 1,
+        "resourceBoxId": 132
+      },
+      {
+        "id": 218,
+        "limitedLoginBonusId": 99,
+        "day": 2,
+        "resourceBoxId": 133
+      },
+      {
+        "id": 219,
+        "limitedLoginBonusId": 99,
+        "day": 3,
+        "resourceBoxId": 133
+      },
+      {
+        "id": 220,
+        "limitedLoginBonusId": 99,
+        "day": 4,
+        "resourceBoxId": 133
+      },
+      {
+        "id": 221,
+        "limitedLoginBonusId": 99,
+        "day": 5,
+        "resourceBoxId": 133
+      },
+      {
+        "id": 222,
+        "limitedLoginBonusId": 99,
+        "day": 6,
+        "resourceBoxId": 133
+      },
+      {
+        "id": 223,
+        "limitedLoginBonusId": 99,
+        "day": 7,
+        "resourceBoxId": 133
+      }
+    ]
+  },
+  {
+    "id": 100,
+    "seq": 100,
+    "name": "[4周年記念]Present 4 youキャンペーン",
+    "startAt": 1727665200000,
+    "endAt": 1728615599000,
+    "assetbundleName": "4th_present4you_001",
+    "closeAt": 1728615599000,
+    "limitedLoginBonusDetails": [
+      {
+        "id": 224,
+        "limitedLoginBonusId": 100,
+        "day": 1,
+        "resourceBoxId": 134
+      }
+    ]
   }
 ]
