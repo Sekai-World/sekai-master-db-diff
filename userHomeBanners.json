@@ -1,46 +1,68 @@
 [
   {
-    "homeBannerId": 1049,
-    "seq": 110,
-    "homeBannerType": "event",
-    "name": "[イベント]レオニ箱イベ_イベントバナー",
-    "assetbundleName": "event_moment_2024",
-    "transitionDestinationType": "event",
-    "transitionDestinationId": 143,
-    "startAt": 1726812000000,
-    "endAt": 1727676000000
+    "homeBannerId": 1057,
+    "seq": 20,
+    "homeBannerType": "general",
+    "name": "[3周年記念]カラフルフェスティバルガチャ ドリームピック",
+    "assetbundleName": "banner_gacha581",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 581,
+    "startAt": 1727665200000,
+    "endAt": 1728010800000
   },
   {
-    "homeBannerId": 1051,
+    "homeBannerId": 1058,
+    "seq": 30,
+    "homeBannerType": "general",
+    "name": "[ガチャ]セレクトリストガチャ LIMITED EDITION",
+    "assetbundleName": "banner_gacha588",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 588,
+    "startAt": 1727622000000,
+    "endAt": 1730343600000
+  },
+  {
+    "homeBannerId": 1059,
+    "seq": 40,
+    "homeBannerType": "general",
+    "name": "[ガチャ]メモリアルセレクトガチャ",
+    "assetbundleName": "banner_gacha589",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 589,
+    "startAt": 1727622000000,
+    "endAt": 1730343600000
+  },
+  {
+    "homeBannerId": 1060,
+    "seq": 50,
+    "homeBannerType": "general",
+    "name": "[ガチャ]ガチャ_プレプレガチャ全体バナー",
+    "assetbundleName": "banner_gacha_tab32",
+    "transitionDestinationType": "gacha_tab_parent",
+    "transitionDestinationId": 67,
+    "startAt": 1727622000000,
+    "endAt": 1730343600000
+  },
+  {
+    "homeBannerId": 1061,
+    "seq": 200,
+    "homeBannerType": "general",
+    "name": "[ガチャ]ガチャ_無料10連ガチャバナー",
+    "assetbundleName": "banner_gacha590",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 590,
+    "startAt": 1727665200000,
+    "endAt": 1732935600000
+  },
+  {
+    "homeBannerId": 1062,
     "seq": 100,
-    "homeBannerType": "general",
-    "name": "[ガチャ]レオニ箱イベ_ガチャバナー",
-    "assetbundleName": "banner_gacha577",
-    "transitionDestinationType": "gacha",
-    "transitionDestinationId": 577,
-    "startAt": 1726801200000,
-    "endAt": 1727665200000
-  },
-  {
-    "homeBannerId": 1055,
-    "seq": 60,
-    "homeBannerType": "general",
-    "name": "4周年前夜祭スペシャルプライズガチャ",
-    "assetbundleName": "banner_gacha578",
-    "transitionDestinationType": "gacha",
-    "transitionDestinationId": 578,
-    "startAt": 1727492400000,
-    "endAt": 1727665200000
-  },
-  {
-    "homeBannerId": 1056,
-    "seq": 10,
-    "homeBannerType": "general",
-    "name": "9月29日生放送（当日",
-    "assetbundleName": "banner_4th_annive_broadcast_02_held",
-    "transitionDestinationType": "information",
-    "transitionDestinationId": 4148,
-    "startAt": 1727575200000,
-    "endAt": 1727622000000
+    "homeBannerType": "event",
+    "name": "[イベント]4周年シャッフルイベ_イベントバナー",
+    "assetbundleName": "event_dreamstage_2024",
+    "transitionDestinationType": "event",
+    "transitionDestinationId": 144,
+    "startAt": 1727676000000,
+    "endAt": 1728626400000
   }
 ]
