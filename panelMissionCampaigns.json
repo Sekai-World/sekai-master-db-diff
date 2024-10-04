@@ -11118,5 +11118,2984 @@
         ]
       }
     ]
+  },
+  {
+    "id": 5,
+    "name": "4周年記念スタンプミッション CONNECT",
+    "assetbundleName": "4th_anniv_pm_connect",
+    "bgmAssetbundleName": "4th_anniv_pm_connect_bgm",
+    "selectableLimit": 3,
+    "startAt": 1728626400000,
+    "progressEndAt": 1729490399000,
+    "closedAt": 1729490399000,
+    "distributionEndAt": 1730699999000,
+    "informationId": 4180,
+    "panelMissionSheetGroups": [
+      {
+        "id": 501,
+        "panelMissionCampaignId": 5,
+        "name": "イロイロ",
+        "selectableLimit": 1,
+        "seq": 1,
+        "panelMissionSheets": [
+          {
+            "id": 50101,
+            "panelMissionSheetGroupId": 501,
+            "name": "グリーン イロイロカード レギュラー",
+            "seq": 1,
+            "assetbundleName": "sheet_regular_something_green",
+            "panelMissions": [
+              {
+                "id": 5010101,
+                "panelMissionSheetId": 50101,
+                "name": "「SUPER FEVER」\nを5回達成",
+                "description": "「みんなでライブ」で「SUPER FEVER」を\n累計5回達成しよう。",
+                "seq": 1,
+                "panelMissionType": "multi_live_clear_super_fever",
+                "requirement1": 5,
+                "rewards": [
+                  {
+                    "id": 10753,
+                    "missionType": "panel_mission",
+                    "missionId": 5010101,
+                    "seq": 1,
+                    "resourceBoxId": 1611
+                  }
+                ]
+              },
+              {
+                "id": 5010102,
+                "panelMissionSheetId": 50101,
+                "name": "特定ユニット\nメンバーを含んで\n10回ライブ",
+                "description": "MORE MORE JUMP！メンバーを1人以上ユニットに編成して\n10回ライブしよう。",
+                "seq": 2,
+                "panelMissionType": "play_live_with_unit",
+                "requirement1": 10,
+                "rewards": [
+                  {
+                    "id": 10754,
+                    "missionType": "panel_mission",
+                    "missionId": 5010102,
+                    "seq": 1,
+                    "resourceBoxId": 1611
+                  }
+                ]
+              },
+              {
+                "id": 5010103,
+                "panelMissionSheetId": 50101,
+                "name": "特定メンバーを\nレベル50に育成",
+                "description": "メンバー「〇〇」を\nレベル50に育成しよう。",
+                "seq": 3,
+                "panelMissionType": "card_level_up",
+                "requirement1": 50,
+                "rewards": [
+                  {
+                    "id": 10755,
+                    "missionType": "panel_mission",
+                    "missionId": 5010103,
+                    "seq": 1,
+                    "resourceBoxId": 1611
+                  }
+                ]
+              },
+              {
+                "id": 5010104,
+                "panelMissionSheetId": 50101,
+                "name": "イベント\n「〇〇」\n最終話を読む",
+                "description": "イベント「〇〇」の\nイベントストーリー最終話を読もう。",
+                "seq": 4,
+                "panelMissionType": "read_event_story_episode",
+                "requirement1": 1,
+                "rewards": [
+                  {
+                    "id": 10756,
+                    "missionType": "panel_mission",
+                    "missionId": 5010104,
+                    "seq": 1,
+                    "resourceBoxId": 1611
+                  }
+                ]
+              },
+              {
+                "id": 5010105,
+                "panelMissionSheetId": 50101,
+                "name": "「〇〇\nアフターライブ」\nに1回参加",
+                "description": "「〇〇 アフターライブ」に1回参加しよう。",
+                "seq": 5,
+                "panelMissionType": "join_virtual_live",
+                "requirement1": 1,
+                "rewards": [
+                  {
+                    "id": 10757,
+                    "missionType": "panel_mission",
+                    "missionId": 5010105,
+                    "seq": 1,
+                    "resourceBoxId": 1612
+                  }
+                ]
+              },
+              {
+                "id": 5010106,
+                "panelMissionSheetId": 50101,
+                "name": "ライブボーナスを\n累計100消費",
+                "description": "ライブボーナスを累計100消費しよう。",
+                "seq": 6,
+                "panelMissionType": "consume_boost_count",
+                "requirement1": 100,
+                "rewards": [
+                  {
+                    "id": 10758,
+                    "missionType": "panel_mission",
+                    "missionId": 5010106,
+                    "seq": 1,
+                    "resourceBoxId": 1614
+                  }
+                ]
+              },
+              {
+                "id": 5010107,
+                "panelMissionSheetId": 50101,
+                "name": "イベントP\n累計70万獲得",
+                "description": "イベント「〇〇」で\nイベントPを累計70万獲得しよう。",
+                "seq": 7,
+                "panelMissionType": "collect_event_point",
+                "requirement1": 700000,
+                "rewards": [
+                  {
+                    "id": 10759,
+                    "missionType": "panel_mission",
+                    "missionId": 5010107,
+                    "seq": 1,
+                    "resourceBoxId": 1614
+                  }
+                ]
+              }
+            ],
+            "rewards": [
+              {
+                "id": 10760,
+                "missionType": "panel_mission_complete",
+                "missionId": 50101,
+                "seq": 1,
+                "resourceBoxId": 1619
+              }
+            ]
+          },
+          {
+            "id": 50102,
+            "panelMissionSheetGroupId": 501,
+            "name": "グリーン イロイロカード アンリミテッド",
+            "seq": 2,
+            "assetbundleName": "sheet_unlimited_something_green",
+            "panelMissions": [
+              {
+                "id": 5010201,
+                "panelMissionSheetId": 50102,
+                "name": "「SUPER FEVER」\nを10回達成",
+                "description": "「みんなでライブ」で「SUPER FEVER」を\n累計10回達成しよう。",
+                "seq": 1,
+                "panelMissionType": "multi_live_clear_super_fever",
+                "requirement1": 10,
+                "rewards": [
+                  {
+                    "id": 10761,
+                    "missionType": "panel_mission",
+                    "missionId": 5010201,
+                    "seq": 1,
+                    "resourceBoxId": 1612
+                  }
+                ]
+              },
+              {
+                "id": 5010202,
+                "panelMissionSheetId": 50102,
+                "name": "特定ユニット\nメンバーを含んで\n20回ライブ",
+                "description": "MORE MORE JUMP！メンバーを1人以上ユニットに編成して\n20回ライブしよう。",
+                "seq": 2,
+                "panelMissionType": "play_live_with_unit",
+                "requirement1": 20,
+                "rewards": [
+                  {
+                    "id": 10762,
+                    "missionType": "panel_mission",
+                    "missionId": 5010202,
+                    "seq": 1,
+                    "resourceBoxId": 1612
+                  }
+                ]
+              },
+              {
+                "id": 5010203,
+                "panelMissionSheetId": 50102,
+                "name": "イベント「〇〇」\n関連サイド\nストーリーを\n4話読もう",
+                "description": "スキップ・早送りせずに\nイベント「〇〇」関連のサイドストーリーを4話読もう。",
+                "seq": 3,
+                "panelMissionType": "read_event_linked_card_episode_without_skip",
+                "requirement1": 4,
+                "requirement2": 1,
+                "rewards": [
+                  {
+                    "id": 10763,
+                    "missionType": "panel_mission",
+                    "missionId": 5010203,
+                    "seq": 1,
+                    "resourceBoxId": 1612
+                  }
+                ]
+              },
+              {
+                "id": 5010204,
+                "panelMissionSheetId": 50102,
+                "name": "イベント全話完読",
+                "description": "スキップ・早送りせずに\nイベント「〇〇」のイベントストーリー全話を読もう。",
+                "seq": 4,
+                "panelMissionType": "read_all_event_story_episode_without_skip",
+                "requirement1": 10,
+                "requirement2": 1,
+                "rewards": [
+                  {
+                    "id": 10764,
+                    "missionType": "panel_mission",
+                    "missionId": 5010204,
+                    "seq": 1,
+                    "resourceBoxId": 1612
+                  }
+                ]
+              },
+              {
+                "id": 5010205,
+                "panelMissionSheetId": 50102,
+                "name": "「〇〇\nアフターライブ」\nで応援ポイントを\n累計1500達成",
+                "description": "「〇〇 アフターライブ」で\n応援ポイントを累計1500達成しよう。",
+                "seq": 5,
+                "panelMissionType": "collect_virtual_live_cheer_point_in_live",
+                "requirement1": 1500,
+                "rewards": [
+                  {
+                    "id": 10765,
+                    "missionType": "panel_mission",
+                    "missionId": 5010205,
+                    "seq": 1,
+                    "resourceBoxId": 1616
+                  }
+                ]
+              },
+              {
+                "id": 5010206,
+                "panelMissionSheetId": 50102,
+                "name": "ライブボーナスを\n累計300消費",
+                "description": "ライブボーナスを累計300消費しよう。",
+                "seq": 6,
+                "panelMissionType": "consume_boost_count",
+                "requirement1": 300,
+                "rewards": [
+                  {
+                    "id": 10766,
+                    "missionType": "panel_mission",
+                    "missionId": 5010206,
+                    "seq": 1,
+                    "resourceBoxId": 1616
+                  }
+                ]
+              },
+              {
+                "id": 5010207,
+                "panelMissionSheetId": 50102,
+                "name": "イベントP\n累計150万獲得",
+                "description": "イベント「〇〇」で\nイベントPを累計150万獲得しよう。",
+                "seq": 7,
+                "panelMissionType": "collect_event_point",
+                "requirement1": 1500000,
+                "rewards": [
+                  {
+                    "id": 10767,
+                    "missionType": "panel_mission",
+                    "missionId": 5010207,
+                    "seq": 1,
+                    "resourceBoxId": 1616
+                  }
+                ]
+              }
+            ],
+            "rewards": [
+              {
+                "id": 10768,
+                "missionType": "panel_mission_complete",
+                "missionId": 50102,
+                "seq": 1,
+                "resourceBoxId": 1620
+              }
+            ]
+          },
+          {
+            "id": 50103,
+            "panelMissionSheetGroupId": 501,
+            "name": "レッド イロイロカード レギュラー",
+            "seq": 3,
+            "assetbundleName": "sheet_regular_something_red",
+            "panelMissions": [
+              {
+                "id": 5010301,
+                "panelMissionSheetId": 50103,
+                "name": "「SUPER FEVER」\nを5回達成",
+                "description": "「みんなでライブ」で「SUPER FEVER」を\n累計5回達成しよう。",
+                "seq": 1,
+                "panelMissionType": "multi_live_clear_super_fever",
+                "requirement1": 5,
+                "rewards": [
+                  {
+                    "id": 10769,
+                    "missionType": "panel_mission",
+                    "missionId": 5010301,
+                    "seq": 1,
+                    "resourceBoxId": 1624
+                  }
+                ]
+              },
+              {
+                "id": 5010302,
+                "panelMissionSheetId": 50103,
+                "name": "特定ユニット\nメンバーを含んで\n10回ライブ",
+                "description": "Vivid BAD SQUADメンバーを1人以上ユニットに編成して\n10回ライブしよう。",
+                "seq": 2,
+                "panelMissionType": "play_live_with_unit",
+                "requirement1": 10,
+                "rewards": [
+                  {
+                    "id": 10770,
+                    "missionType": "panel_mission",
+                    "missionId": 5010302,
+                    "seq": 1,
+                    "resourceBoxId": 1624
+                  }
+                ]
+              },
+              {
+                "id": 5010303,
+                "panelMissionSheetId": 50103,
+                "name": "特定メンバーを\nレベル50に育成",
+                "description": "メンバー「〇〇」を\nレベル50に育成しよう。",
+                "seq": 3,
+                "panelMissionType": "card_level_up",
+                "requirement1": 50,
+                "rewards": [
+                  {
+                    "id": 10771,
+                    "missionType": "panel_mission",
+                    "missionId": 5010303,
+                    "seq": 1,
+                    "resourceBoxId": 1624
+                  }
+                ]
+              },
+              {
+                "id": 5010304,
+                "panelMissionSheetId": 50103,
+                "name": "イベント\n「〇〇」\n最終話を読む",
+                "description": "イベント「〇〇」の\nイベントストーリー最終話を読もう。",
+                "seq": 4,
+                "panelMissionType": "read_event_story_episode",
+                "requirement1": 1,
+                "rewards": [
+                  {
+                    "id": 10772,
+                    "missionType": "panel_mission",
+                    "missionId": 5010304,
+                    "seq": 1,
+                    "resourceBoxId": 1624
+                  }
+                ]
+              },
+              {
+                "id": 5010305,
+                "panelMissionSheetId": 50103,
+                "name": "「〇〇\nアフターライブ」\nに1回参加",
+                "description": "「〇〇 アフターライブ」に1回参加しよう。",
+                "seq": 5,
+                "panelMissionType": "join_virtual_live",
+                "requirement1": 1,
+                "rewards": [
+                  {
+                    "id": 10773,
+                    "missionType": "panel_mission",
+                    "missionId": 5010305,
+                    "seq": 1,
+                    "resourceBoxId": 1625
+                  }
+                ]
+              },
+              {
+                "id": 5010306,
+                "panelMissionSheetId": 50103,
+                "name": "ライブボーナスを\n累計100消費",
+                "description": "ライブボーナスを累計100消費しよう。",
+                "seq": 6,
+                "panelMissionType": "consume_boost_count",
+                "requirement1": 100,
+                "rewards": [
+                  {
+                    "id": 10774,
+                    "missionType": "panel_mission",
+                    "missionId": 5010306,
+                    "seq": 1,
+                    "resourceBoxId": 1627
+                  }
+                ]
+              },
+              {
+                "id": 5010307,
+                "panelMissionSheetId": 50103,
+                "name": "イベントP\n累計70万獲得",
+                "description": "イベント「〇〇」で\nイベントPを累計70万獲得しよう。",
+                "seq": 7,
+                "panelMissionType": "collect_event_point",
+                "requirement1": 700000,
+                "rewards": [
+                  {
+                    "id": 10775,
+                    "missionType": "panel_mission",
+                    "missionId": 5010307,
+                    "seq": 1,
+                    "resourceBoxId": 1627
+                  }
+                ]
+              }
+            ],
+            "rewards": [
+              {
+                "id": 10776,
+                "missionType": "panel_mission_complete",
+                "missionId": 50103,
+                "seq": 1,
+                "resourceBoxId": 1632
+              }
+            ]
+          },
+          {
+            "id": 50104,
+            "panelMissionSheetGroupId": 501,
+            "name": "レッド イロイロカード アンリミテッド",
+            "seq": 4,
+            "assetbundleName": "sheet_unlimited_something_red",
+            "panelMissions": [
+              {
+                "id": 5010401,
+                "panelMissionSheetId": 50104,
+                "name": "「SUPER FEVER」\nを10回達成",
+                "description": "「みんなでライブ」で「SUPER FEVER」を\n累計10回達成しよう。",
+                "seq": 1,
+                "panelMissionType": "multi_live_clear_super_fever",
+                "requirement1": 10,
+                "rewards": [
+                  {
+                    "id": 10777,
+                    "missionType": "panel_mission",
+                    "missionId": 5010401,
+                    "seq": 1,
+                    "resourceBoxId": 1625
+                  }
+                ]
+              },
+              {
+                "id": 5010402,
+                "panelMissionSheetId": 50104,
+                "name": "特定ユニット\nメンバーを含んで\n20回ライブ",
+                "description": "Vivid BAD SQUADメンバーを1人以上ユニットに編成して\n20回ライブしよう。",
+                "seq": 2,
+                "panelMissionType": "play_live_with_unit",
+                "requirement1": 20,
+                "rewards": [
+                  {
+                    "id": 10778,
+                    "missionType": "panel_mission",
+                    "missionId": 5010402,
+                    "seq": 1,
+                    "resourceBoxId": 1625
+                  }
+                ]
+              },
+              {
+                "id": 5010403,
+                "panelMissionSheetId": 50104,
+                "name": "イベント「〇〇」\n関連サイド\nストーリーを\n4話読もう",
+                "description": "スキップ・早送りせずに\nイベント「〇〇」関連のサイドストーリーを4話読もう。",
+                "seq": 3,
+                "panelMissionType": "read_event_linked_card_episode_without_skip",
+                "requirement1": 4,
+                "requirement2": 1,
+                "rewards": [
+                  {
+                    "id": 10779,
+                    "missionType": "panel_mission",
+                    "missionId": 5010403,
+                    "seq": 1,
+                    "resourceBoxId": 1625
+                  }
+                ]
+              },
+              {
+                "id": 5010404,
+                "panelMissionSheetId": 50104,
+                "name": "イベント全話完読",
+                "description": "スキップ・早送りせずに\nイベント「〇〇」のイベントストーリー全話を読もう。",
+                "seq": 4,
+                "panelMissionType": "read_all_event_story_episode_without_skip",
+                "requirement1": 10,
+                "requirement2": 1,
+                "rewards": [
+                  {
+                    "id": 10780,
+                    "missionType": "panel_mission",
+                    "missionId": 5010404,
+                    "seq": 1,
+                    "resourceBoxId": 1625
+                  }
+                ]
+              },
+              {
+                "id": 5010405,
+                "panelMissionSheetId": 50104,
+                "name": "「〇〇\nアフターライブ」\nで応援ポイントを\n累計1500達成",
+                "description": "「〇〇 アフターライブ」で\n応援ポイントを累計1500達成しよう。",
+                "seq": 5,
+                "panelMissionType": "collect_virtual_live_cheer_point_in_live",
+                "requirement1": 1500,
+                "rewards": [
+                  {
+                    "id": 10781,
+                    "missionType": "panel_mission",
+                    "missionId": 5010405,
+                    "seq": 1,
+                    "resourceBoxId": 1629
+                  }
+                ]
+              },
+              {
+                "id": 5010406,
+                "panelMissionSheetId": 50104,
+                "name": "ライブボーナスを\n累計300消費",
+                "description": "ライブボーナスを累計300消費しよう。",
+                "seq": 6,
+                "panelMissionType": "consume_boost_count",
+                "requirement1": 300,
+                "rewards": [
+                  {
+                    "id": 10782,
+                    "missionType": "panel_mission",
+                    "missionId": 5010406,
+                    "seq": 1,
+                    "resourceBoxId": 1629
+                  }
+                ]
+              },
+              {
+                "id": 5010407,
+                "panelMissionSheetId": 50104,
+                "name": "イベントP\n累計150万獲得",
+                "description": "イベント「〇〇」で\nイベントPを累計150万獲得しよう。",
+                "seq": 7,
+                "panelMissionType": "collect_event_point",
+                "requirement1": 1500000,
+                "rewards": [
+                  {
+                    "id": 10783,
+                    "missionType": "panel_mission",
+                    "missionId": 5010407,
+                    "seq": 1,
+                    "resourceBoxId": 1629
+                  }
+                ]
+              }
+            ],
+            "rewards": [
+              {
+                "id": 10784,
+                "missionType": "panel_mission_complete",
+                "missionId": 50104,
+                "seq": 1,
+                "resourceBoxId": 1633
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 502,
+        "panelMissionCampaignId": 5,
+        "name": "ガチ",
+        "selectableLimit": 1,
+        "seq": 2,
+        "panelMissionSheets": [
+          {
+            "id": 50201,
+            "panelMissionSheetGroupId": 502,
+            "name": "グリーン ガチカード レギュラー",
+            "seq": 1,
+            "assetbundleName": "sheet_regular_hardlive_green",
+            "panelMissions": [
+              {
+                "id": 5020101,
+                "panelMissionSheetId": 50201,
+                "name": "『MVP・\nSUPER STAR』\n5回獲得",
+                "description": "「みんなでライブ」で『MVP・SUPER STAR』を\n累計5回獲得しよう。",
+                "seq": 1,
+                "panelMissionType": "multi_live_clear_top_score",
+                "requirement1": 5,
+                "rewards": [
+                  {
+                    "id": 10785,
+                    "missionType": "panel_mission",
+                    "missionId": 5020101,
+                    "seq": 1,
+                    "resourceBoxId": 1608
+                  }
+                ]
+              },
+              {
+                "id": 5020102,
+                "panelMissionSheetId": 50201,
+                "name": "ランクマッチで\n10回ライブ",
+                "description": "「ランクマッチ」で10回ライブしよう。",
+                "seq": 2,
+                "panelMissionType": "live_clear_rank_match",
+                "requirement1": 10,
+                "rewards": [
+                  {
+                    "id": 10786,
+                    "missionType": "panel_mission",
+                    "missionId": 5020102,
+                    "seq": 1,
+                    "resourceBoxId": 1608
+                  }
+                ]
+              },
+              {
+                "id": 5020103,
+                "panelMissionSheetId": 50201,
+                "name": "Lv.27～28の楽曲を\nフルコンボで\n5回クリア",
+                "description": "楽曲Lv.27～28の楽曲をフルコンボで5回クリアしよう。\n（難易度APPENDも対象）",
+                "seq": 3,
+                "panelMissionType": "live_clear_full_combo_in_music_level",
+                "requirement1": 5,
+                "rewards": [
+                  {
+                    "id": 10787,
+                    "missionType": "panel_mission",
+                    "missionId": 5020103,
+                    "seq": 1,
+                    "resourceBoxId": 1608
+                  }
+                ]
+              },
+              {
+                "id": 5020104,
+                "panelMissionSheetId": 50201,
+                "name": "Lv.29の楽曲を\nフルコンボで\n5回クリア",
+                "description": "楽曲Lv.29の楽曲をフルコンボで5回クリアしよう。\n（難易度APPENDも対象）",
+                "seq": 4,
+                "panelMissionType": "live_clear_full_combo_in_music_level",
+                "requirement1": 5,
+                "rewards": [
+                  {
+                    "id": 10788,
+                    "missionType": "panel_mission",
+                    "missionId": 5020104,
+                    "seq": 1,
+                    "resourceBoxId": 1608
+                  }
+                ]
+              },
+              {
+                "id": 5020105,
+                "panelMissionSheetId": 50201,
+                "name": "Lv.30以上の楽曲を\n5回クリア",
+                "description": "楽曲Lv.30以上の楽曲を5回クリアしよう。\n（難易度APPENDも対象）",
+                "seq": 5,
+                "panelMissionType": "live_clear_in_music_level",
+                "requirement1": 5,
+                "rewards": [
+                  {
+                    "id": 10789,
+                    "missionType": "panel_mission",
+                    "missionId": 5020105,
+                    "seq": 1,
+                    "resourceBoxId": 1608
+                  }
+                ]
+              },
+              {
+                "id": 5020106,
+                "panelMissionSheetId": 50201,
+                "name": "「熱風」の\n難易度5種類を\nフルコンボでクリア",
+                "description": "楽曲「熱風」の難易度のうち、5種類をフルコンボでクリアしよう。\n(EASY\/NORMAL\/HARD\/EXPERT\/MASTER\/APPENDが対象）",
+                "seq": 6,
+                "panelMissionType": "live_clear_full_combo_all_difficulty_in_music",
+                "requirement1": 5,
+                "requirement2": 1,
+                "rewards": [
+                  {
+                    "id": 10790,
+                    "missionType": "panel_mission",
+                    "missionId": 5020106,
+                    "seq": 1,
+                    "resourceBoxId": 1609
+                  }
+                ]
+              },
+              {
+                "id": 5020107,
+                "panelMissionSheetId": 50201,
+                "name": "EXPERT以上\nかつAPで\n5回クリア",
+                "description": "難易度EXPERT、MASTER、APPENDいずれかを\nALL PERFECTで楽曲を5回クリアしよう。",
+                "seq": 7,
+                "panelMissionType": "live_clear_all_perfect_in_music_difficulty",
+                "requirement1": 5,
+                "rewards": [
+                  {
+                    "id": 10791,
+                    "missionType": "panel_mission",
+                    "missionId": 5020107,
+                    "seq": 1,
+                    "resourceBoxId": 1610
+                  }
+                ]
+              }
+            ],
+            "rewards": [
+              {
+                "id": 10792,
+                "missionType": "panel_mission_complete",
+                "missionId": 50201,
+                "seq": 1,
+                "resourceBoxId": 1617
+              }
+            ]
+          },
+          {
+            "id": 50202,
+            "panelMissionSheetGroupId": 502,
+            "name": "グリーン ガチカード アンリミテッド",
+            "seq": 2,
+            "assetbundleName": "sheet_unlimited_hardlive_green",
+            "panelMissions": [
+              {
+                "id": 5020201,
+                "panelMissionSheetId": 50202,
+                "name": "『MVP・\nSUPER STAR』\n10回獲得",
+                "description": "「みんなでライブ」で『MVP・SUPER STAR』を累計10回獲得しよう。",
+                "seq": 1,
+                "panelMissionType": "multi_live_clear_top_score",
+                "requirement1": 10,
+                "rewards": [
+                  {
+                    "id": 10793,
+                    "missionType": "panel_mission",
+                    "missionId": 5020201,
+                    "seq": 1,
+                    "resourceBoxId": 1609
+                  }
+                ]
+              },
+              {
+                "id": 5020202,
+                "panelMissionSheetId": 50202,
+                "name": "ランクマッチで\n20回ライブ",
+                "description": "「ランクマッチ」で20回ライブしよう。",
+                "seq": 2,
+                "panelMissionType": "live_clear_rank_match",
+                "requirement1": 20,
+                "rewards": [
+                  {
+                    "id": 10794,
+                    "missionType": "panel_mission",
+                    "missionId": 5020202,
+                    "seq": 1,
+                    "resourceBoxId": 1609
+                  }
+                ]
+              },
+              {
+                "id": 5020203,
+                "panelMissionSheetId": 50202,
+                "name": "Lv.30～31の楽曲を\nフルコンボで\n5回クリア",
+                "description": "楽曲Lv.30～31の楽曲をフルコンボで5回クリアしよう。\n（難易度APPENDも対象）",
+                "seq": 3,
+                "panelMissionType": "live_clear_full_combo_in_music_level",
+                "requirement1": 5,
+                "rewards": [
+                  {
+                    "id": 10795,
+                    "missionType": "panel_mission",
+                    "missionId": 5020203,
+                    "seq": 1,
+                    "resourceBoxId": 1609
+                  }
+                ]
+              },
+              {
+                "id": 5020204,
+                "panelMissionSheetId": 50202,
+                "name": "Lv.32の楽曲を\nフルコンボで\n5回クリア",
+                "description": "楽曲Lv.32の楽曲をフルコンボで5回クリアしよう。\n（難易度APPENDも対象）",
+                "seq": 4,
+                "panelMissionType": "live_clear_full_combo_in_music_level",
+                "requirement1": 5,
+                "rewards": [
+                  {
+                    "id": 10796,
+                    "missionType": "panel_mission",
+                    "missionId": 5020204,
+                    "seq": 1,
+                    "resourceBoxId": 1609
+                  }
+                ]
+              },
+              {
+                "id": 5020205,
+                "panelMissionSheetId": 50202,
+                "name": "Lv.33以上の楽曲を\n5回クリア",
+                "description": "楽曲Lv.33以上の楽曲を5回クリアしよう。\n（難易度APPENDも対象）",
+                "seq": 5,
+                "panelMissionType": "live_clear_in_music_level",
+                "requirement1": 5,
+                "rewards": [
+                  {
+                    "id": 10797,
+                    "missionType": "panel_mission",
+                    "missionId": 5020205,
+                    "seq": 1,
+                    "resourceBoxId": 1609
+                  }
+                ]
+              },
+              {
+                "id": 5020206,
+                "panelMissionSheetId": 50202,
+                "name": "「熱風」の\n難易度5種類を\nAPでクリア",
+                "description": "楽曲「熱風」の難易度のうち、5種類をALL PERFECTでクリアしよう。\n(EASY\/NORMAL\/HARD\/EXPERT\/MASTER\/APPENDが対象）",
+                "seq": 6,
+                "panelMissionType": "live_clear_all_perfect_all_difficulty_in_music",
+                "requirement1": 5,
+                "requirement2": 1,
+                "rewards": [
+                  {
+                    "id": 10798,
+                    "missionType": "panel_mission",
+                    "missionId": 5020206,
+                    "seq": 1,
+                    "resourceBoxId": 1611
+                  }
+                ]
+              },
+              {
+                "id": 5020207,
+                "panelMissionSheetId": 50202,
+                "name": "MASTER\nかつAPで\n3回クリア",
+                "description": "難易度MASTERかつALL PERFECTで楽曲を3回クリアしよう。",
+                "seq": 7,
+                "panelMissionType": "live_clear_all_perfect_in_music_difficulty",
+                "requirement1": 3,
+                "rewards": [
+                  {
+                    "id": 10799,
+                    "missionType": "panel_mission",
+                    "missionId": 5020207,
+                    "seq": 1,
+                    "resourceBoxId": 1613
+                  }
+                ]
+              }
+            ],
+            "rewards": [
+              {
+                "id": 10800,
+                "missionType": "panel_mission_complete",
+                "missionId": 50202,
+                "seq": 1,
+                "resourceBoxId": 1618
+              }
+            ]
+          },
+          {
+            "id": 50203,
+            "panelMissionSheetGroupId": 502,
+            "name": "レッド ガチカード レギュラー",
+            "seq": 3,
+            "assetbundleName": "sheet_regular_hardlive_red",
+            "panelMissions": [
+              {
+                "id": 5020301,
+                "panelMissionSheetId": 50203,
+                "name": "『MVP・\nSUPER STAR』\n5回獲得",
+                "description": "「みんなでライブ」で『MVP・SUPER STAR』を累計5回獲得しよう。",
+                "seq": 1,
+                "panelMissionType": "multi_live_clear_top_score",
+                "requirement1": 5,
+                "rewards": [
+                  {
+                    "id": 10801,
+                    "missionType": "panel_mission",
+                    "missionId": 5020301,
+                    "seq": 1,
+                    "resourceBoxId": 1621
+                  }
+                ]
+              },
+              {
+                "id": 5020302,
+                "panelMissionSheetId": 50203,
+                "name": "ランクマッチで\n10回ライブ",
+                "description": "「ランクマッチ」で10回ライブしよう。",
+                "seq": 2,
+                "panelMissionType": "live_clear_rank_match",
+                "requirement1": 10,
+                "rewards": [
+                  {
+                    "id": 10802,
+                    "missionType": "panel_mission",
+                    "missionId": 5020302,
+                    "seq": 1,
+                    "resourceBoxId": 1621
+                  }
+                ]
+              },
+              {
+                "id": 5020303,
+                "panelMissionSheetId": 50203,
+                "name": "Lv.27～28の楽曲を\nフルコンボで\n5回クリア",
+                "description": "楽曲Lv.27～28の楽曲をフルコンボで5回クリアしよう。\n（難易度APPENDも対象）",
+                "seq": 3,
+                "panelMissionType": "live_clear_full_combo_in_music_level",
+                "requirement1": 5,
+                "rewards": [
+                  {
+                    "id": 10803,
+                    "missionType": "panel_mission",
+                    "missionId": 5020303,
+                    "seq": 1,
+                    "resourceBoxId": 1621
+                  }
+                ]
+              },
+              {
+                "id": 5020304,
+                "panelMissionSheetId": 50203,
+                "name": "Lv.29の楽曲を\nフルコンボで\n5回クリア",
+                "description": "楽曲Lv.29の楽曲をフルコンボで5回クリアしよう。\n（難易度APPENDも対象）",
+                "seq": 4,
+                "panelMissionType": "live_clear_full_combo_in_music_level",
+                "requirement1": 5,
+                "rewards": [
+                  {
+                    "id": 10804,
+                    "missionType": "panel_mission",
+                    "missionId": 5020304,
+                    "seq": 1,
+                    "resourceBoxId": 1621
+                  }
+                ]
+              },
+              {
+                "id": 5020305,
+                "panelMissionSheetId": 50203,
+                "name": "Lv.30以上の楽曲を\n5回クリア",
+                "description": "楽曲Lv.30以上の楽曲を5回クリアしよう。\n（難易度APPENDも対象）",
+                "seq": 5,
+                "panelMissionType": "live_clear_in_music_level",
+                "requirement1": 5,
+                "rewards": [
+                  {
+                    "id": 10805,
+                    "missionType": "panel_mission",
+                    "missionId": 5020305,
+                    "seq": 1,
+                    "resourceBoxId": 1621
+                  }
+                ]
+              },
+              {
+                "id": 5020306,
+                "panelMissionSheetId": 50203,
+                "name": "「熱風」の\n難易度5種類を\nフルコンボでクリア",
+                "description": "楽曲「熱風」の難易度のうち、5種類をフルコンボでクリアしよう。\n(EASY\/NORMAL\/HARD\/EXPERT\/MASTER\/APPENDが対象）",
+                "seq": 6,
+                "panelMissionType": "live_clear_full_combo_all_difficulty_in_music",
+                "requirement1": 5,
+                "requirement2": 1,
+                "rewards": [
+                  {
+                    "id": 10806,
+                    "missionType": "panel_mission",
+                    "missionId": 5020306,
+                    "seq": 1,
+                    "resourceBoxId": 1622
+                  }
+                ]
+              },
+              {
+                "id": 5020307,
+                "panelMissionSheetId": 50203,
+                "name": "EXPERT以上\nかつAPで\n5回クリア",
+                "description": "難易度EXPERT、MASTER、APPENDいずれかを\nALL PERFECTで楽曲を5回クリアしよう。",
+                "seq": 7,
+                "panelMissionType": "live_clear_all_perfect_in_music_difficulty",
+                "requirement1": 5,
+                "rewards": [
+                  {
+                    "id": 10807,
+                    "missionType": "panel_mission",
+                    "missionId": 5020307,
+                    "seq": 1,
+                    "resourceBoxId": 1623
+                  }
+                ]
+              }
+            ],
+            "rewards": [
+              {
+                "id": 10808,
+                "missionType": "panel_mission_complete",
+                "missionId": 50203,
+                "seq": 1,
+                "resourceBoxId": 1630
+              }
+            ]
+          },
+          {
+            "id": 50204,
+            "panelMissionSheetGroupId": 502,
+            "name": "レッド ガチカード アンリミテッド",
+            "seq": 4,
+            "assetbundleName": "sheet_unlimited_hardlive_red",
+            "panelMissions": [
+              {
+                "id": 5020401,
+                "panelMissionSheetId": 50204,
+                "name": "『MVP・\nSUPER STAR』\n10回獲得",
+                "description": "「みんなでライブ」で『MVP・SUPER STAR』を累計10回獲得しよう。",
+                "seq": 1,
+                "panelMissionType": "multi_live_clear_top_score",
+                "requirement1": 10,
+                "rewards": [
+                  {
+                    "id": 10809,
+                    "missionType": "panel_mission",
+                    "missionId": 5020401,
+                    "seq": 1,
+                    "resourceBoxId": 1622
+                  }
+                ]
+              },
+              {
+                "id": 5020402,
+                "panelMissionSheetId": 50204,
+                "name": "ランクマッチで\n20回ライブ",
+                "description": "「ランクマッチ」で20回ライブしよう。",
+                "seq": 2,
+                "panelMissionType": "live_clear_rank_match",
+                "requirement1": 20,
+                "rewards": [
+                  {
+                    "id": 10810,
+                    "missionType": "panel_mission",
+                    "missionId": 5020402,
+                    "seq": 1,
+                    "resourceBoxId": 1622
+                  }
+                ]
+              },
+              {
+                "id": 5020403,
+                "panelMissionSheetId": 50204,
+                "name": "Lv.30～31の楽曲を\nフルコンボで\n5回クリア",
+                "description": "楽曲Lv.30～31の楽曲をフルコンボで5回クリアしよう。\n（難易度APPENDも対象）",
+                "seq": 3,
+                "panelMissionType": "live_clear_full_combo_in_music_level",
+                "requirement1": 5,
+                "rewards": [
+                  {
+                    "id": 10811,
+                    "missionType": "panel_mission",
+                    "missionId": 5020403,
+                    "seq": 1,
+                    "resourceBoxId": 1622
+                  }
+                ]
+              },
+              {
+                "id": 5020404,
+                "panelMissionSheetId": 50204,
+                "name": "Lv.32の楽曲を\nフルコンボで\n5回クリア",
+                "description": "楽曲Lv.32の楽曲をフルコンボで5回クリアしよう。\n（難易度APPENDも対象）",
+                "seq": 4,
+                "panelMissionType": "live_clear_full_combo_in_music_level",
+                "requirement1": 5,
+                "rewards": [
+                  {
+                    "id": 10812,
+                    "missionType": "panel_mission",
+                    "missionId": 5020404,
+                    "seq": 1,
+                    "resourceBoxId": 1622
+                  }
+                ]
+              },
+              {
+                "id": 5020405,
+                "panelMissionSheetId": 50204,
+                "name": "Lv.33以上の楽曲を\n5回クリア",
+                "description": "楽曲Lv.33以上の楽曲を5回クリアしよう。\n（難易度APPENDも対象）",
+                "seq": 5,
+                "panelMissionType": "live_clear_in_music_level",
+                "requirement1": 5,
+                "rewards": [
+                  {
+                    "id": 10813,
+                    "missionType": "panel_mission",
+                    "missionId": 5020405,
+                    "seq": 1,
+                    "resourceBoxId": 1622
+                  }
+                ]
+              },
+              {
+                "id": 5020406,
+                "panelMissionSheetId": 50204,
+                "name": "「熱風」の\n難易度5種類を\nAPでクリア",
+                "description": "楽曲「熱風」の難易度のうち、5種類をALL PERFECTでクリアしよう。\n(EASY\/NORMAL\/HARD\/EXPERT\/MASTER\/APPENDが対象）",
+                "seq": 6,
+                "panelMissionType": "live_clear_all_perfect_all_difficulty_in_music",
+                "requirement1": 5,
+                "requirement2": 1,
+                "rewards": [
+                  {
+                    "id": 10814,
+                    "missionType": "panel_mission",
+                    "missionId": 5020406,
+                    "seq": 1,
+                    "resourceBoxId": 1624
+                  }
+                ]
+              },
+              {
+                "id": 5020407,
+                "panelMissionSheetId": 50204,
+                "name": "MASTER\nかつAPで\n3回クリア",
+                "description": "難易度MASTERかつALL PERFECTで楽曲を3回クリアしよう。",
+                "seq": 7,
+                "panelMissionType": "live_clear_all_perfect_in_music_difficulty",
+                "requirement1": 3,
+                "rewards": [
+                  {
+                    "id": 10815,
+                    "missionType": "panel_mission",
+                    "missionId": 5020407,
+                    "seq": 1,
+                    "resourceBoxId": 1626
+                  }
+                ]
+              }
+            ],
+            "rewards": [
+              {
+                "id": 10816,
+                "missionType": "panel_mission_complete",
+                "missionId": 50204,
+                "seq": 1,
+                "resourceBoxId": 1631
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 503,
+        "panelMissionCampaignId": 5,
+        "name": "ライブ",
+        "selectableLimit": 1,
+        "seq": 3,
+        "panelMissionSheets": [
+          {
+            "id": 50301,
+            "panelMissionSheetGroupId": 503,
+            "name": "グリーン ライブカード カジュアル",
+            "seq": 1,
+            "assetbundleName": "sheet_casual_normallive_green",
+            "panelMissions": [
+              {
+                "id": 5030101,
+                "panelMissionSheetId": 50301,
+                "name": "「熱風」を\n5回クリア",
+                "description": "楽曲「熱風」を5回クリアしよう。",
+                "seq": 1,
+                "panelMissionType": "live_clear_in_music",
+                "requirement1": 5,
+                "rewards": [
+                  {
+                    "id": 10817,
+                    "missionType": "panel_mission",
+                    "missionId": 5030101,
+                    "seq": 1,
+                    "resourceBoxId": 1608
+                  }
+                ]
+              },
+              {
+                "id": 5030102,
+                "panelMissionSheetId": 50301,
+                "name": "特定ユニットの\n楽曲で10回ライブ",
+                "description": "楽曲選択画面のMORE MORE JUMP！タブに\n含まれる楽曲で10回ライブしよう。",
+                "seq": 2,
+                "panelMissionType": "unit_live_clear_music",
+                "requirement1": 10,
+                "rewards": [
+                  {
+                    "id": 10818,
+                    "missionType": "panel_mission",
+                    "missionId": 5030102,
+                    "seq": 1,
+                    "resourceBoxId": 1609
+                  }
+                ]
+              },
+              {
+                "id": 5030103,
+                "panelMissionSheetId": 50301,
+                "name": "10種類の楽曲を\nクリア",
+                "description": "10種類の楽曲をクリアしよう。\n※オートライブでもカウントされます。",
+                "seq": 3,
+                "panelMissionType": "live_clear_with_different_music",
+                "requirement1": 10,
+                "requirement2": 1,
+                "rewards": [
+                  {
+                    "id": 10819,
+                    "missionType": "panel_mission",
+                    "missionId": 5030103,
+                    "seq": 1,
+                    "resourceBoxId": 1608
+                  }
+                ]
+              },
+              {
+                "id": 5030104,
+                "panelMissionSheetId": 50301,
+                "name": "みんなでライブを\n10回クリア",
+                "description": "「みんなでライブ」を10回クリアしよう。",
+                "seq": 4,
+                "panelMissionType": "multi_live_clear",
+                "requirement1": 10,
+                "rewards": [
+                  {
+                    "id": 10820,
+                    "missionType": "panel_mission",
+                    "missionId": 5030104,
+                    "seq": 1,
+                    "resourceBoxId": 1608
+                  }
+                ]
+              },
+              {
+                "id": 5030105,
+                "panelMissionSheetId": 50301,
+                "name": "累計50回\nライブをクリア",
+                "description": "累計50回ライブをクリアしよう。\n※オートライブでもカウントされます。",
+                "seq": 5,
+                "panelMissionType": "live_clear",
+                "requirement1": 50,
+                "rewards": [
+                  {
+                    "id": 10821,
+                    "missionType": "panel_mission",
+                    "missionId": 5030105,
+                    "seq": 1,
+                    "resourceBoxId": 1608
+                  }
+                ]
+              },
+              {
+                "id": 5030106,
+                "panelMissionSheetId": 50301,
+                "name": "2DMV・\n原曲MVモードで\n5回クリア",
+                "description": "2DMV・原曲MVモードで5回クリアをしよう。",
+                "seq": 6,
+                "panelMissionType": "live_clear_with_mv_2d_or_original",
+                "requirement1": 5,
+                "rewards": [
+                  {
+                    "id": 10822,
+                    "missionType": "panel_mission",
+                    "missionId": 5030106,
+                    "seq": 1,
+                    "resourceBoxId": 1609
+                  }
+                ]
+              },
+              {
+                "id": 5030107,
+                "panelMissionSheetId": 50301,
+                "name": "3DMVモードで\n5回クリア",
+                "description": "3DMVモードで5回クリアしよう。",
+                "seq": 7,
+                "panelMissionType": "live_clear_with_mv_3d",
+                "requirement1": 5,
+                "rewards": [
+                  {
+                    "id": 10823,
+                    "missionType": "panel_mission",
+                    "missionId": 5030107,
+                    "seq": 1,
+                    "resourceBoxId": 1609
+                  }
+                ]
+              }
+            ],
+            "rewards": [
+              {
+                "id": 10824,
+                "missionType": "panel_mission_complete",
+                "missionId": 50301,
+                "seq": 1,
+                "resourceBoxId": 1617
+              }
+            ]
+          },
+          {
+            "id": 50302,
+            "panelMissionSheetGroupId": 503,
+            "name": "グリーン ライブカード レギュラー",
+            "seq": 2,
+            "assetbundleName": "sheet_regular_normallive_green",
+            "panelMissions": [
+              {
+                "id": 5030201,
+                "panelMissionSheetId": 50302,
+                "name": "「熱風」を\n10回クリア",
+                "description": "楽曲「熱風」を10回クリアしよう。",
+                "seq": 1,
+                "panelMissionType": "live_clear_in_music",
+                "requirement1": 10,
+                "rewards": [
+                  {
+                    "id": 10825,
+                    "missionType": "panel_mission",
+                    "missionId": 5030201,
+                    "seq": 1,
+                    "resourceBoxId": 1609
+                  }
+                ]
+              },
+              {
+                "id": 5030202,
+                "panelMissionSheetId": 50302,
+                "name": "特定ユニットの\n楽曲で15回ライブ",
+                "description": "楽曲選択画面のMORE MORE JUMP！タブに\n含まれる楽曲で15回ライブしよう。",
+                "seq": 2,
+                "panelMissionType": "unit_live_clear_music",
+                "requirement1": 15,
+                "rewards": [
+                  {
+                    "id": 10826,
+                    "missionType": "panel_mission",
+                    "missionId": 5030202,
+                    "seq": 1,
+                    "resourceBoxId": 1610
+                  }
+                ]
+              },
+              {
+                "id": 5030203,
+                "panelMissionSheetId": 50302,
+                "name": "15種類の楽曲を\nクリア",
+                "description": "15種類の楽曲をクリアしよう。\n※オートライブでもカウントされます。",
+                "seq": 3,
+                "panelMissionType": "live_clear_with_different_music",
+                "requirement1": 15,
+                "requirement2": 1,
+                "rewards": [
+                  {
+                    "id": 10827,
+                    "missionType": "panel_mission",
+                    "missionId": 5030203,
+                    "seq": 1,
+                    "resourceBoxId": 1609
+                  }
+                ]
+              },
+              {
+                "id": 5030204,
+                "panelMissionSheetId": 50302,
+                "name": "みんなでライブを\n15回クリア",
+                "description": "「みんなでライブ」を15回クリアしよう。",
+                "seq": 4,
+                "panelMissionType": "multi_live_clear",
+                "requirement1": 15,
+                "rewards": [
+                  {
+                    "id": 10828,
+                    "missionType": "panel_mission",
+                    "missionId": 5030204,
+                    "seq": 1,
+                    "resourceBoxId": 1609
+                  }
+                ]
+              },
+              {
+                "id": 5030205,
+                "panelMissionSheetId": 50302,
+                "name": "累計100回\nライブをクリア",
+                "description": "累計100回ライブをクリアしよう。\n※オートライブでもカウントされます。",
+                "seq": 5,
+                "panelMissionType": "live_clear",
+                "requirement1": 100,
+                "rewards": [
+                  {
+                    "id": 10829,
+                    "missionType": "panel_mission",
+                    "missionId": 5030205,
+                    "seq": 1,
+                    "resourceBoxId": 1610
+                  }
+                ]
+              },
+              {
+                "id": 5030206,
+                "panelMissionSheetId": 50302,
+                "name": "PERFECT判定を\n累計20000回\n獲得",
+                "description": "ライブでPERFECT判定を累計20000回獲得しよう。",
+                "seq": 6,
+                "panelMissionType": "get_live_perfect",
+                "requirement1": 20000,
+                "rewards": [
+                  {
+                    "id": 10830,
+                    "missionType": "panel_mission",
+                    "missionId": 5030206,
+                    "seq": 1,
+                    "resourceBoxId": 1610
+                  }
+                ]
+              },
+              {
+                "id": 5030207,
+                "panelMissionSheetId": 50302,
+                "name": "楽曲をフルコンボで\n15回クリア",
+                "description": "楽曲をフルコンボで15回クリアしよう。",
+                "seq": 7,
+                "panelMissionType": "live_clear_full_combo",
+                "requirement1": 15,
+                "rewards": [
+                  {
+                    "id": 10831,
+                    "missionType": "panel_mission",
+                    "missionId": 5030207,
+                    "seq": 1,
+                    "resourceBoxId": 1612
+                  }
+                ]
+              }
+            ],
+            "rewards": [
+              {
+                "id": 10832,
+                "missionType": "panel_mission_complete",
+                "missionId": 50302,
+                "seq": 1,
+                "resourceBoxId": 1618
+              }
+            ]
+          },
+          {
+            "id": 50303,
+            "panelMissionSheetGroupId": 503,
+            "name": "レッド ライブカード カジュアル",
+            "seq": 3,
+            "assetbundleName": "sheet_casual_normallive_red",
+            "panelMissions": [
+              {
+                "id": 5030301,
+                "panelMissionSheetId": 50303,
+                "name": "「熱風」を\n5回クリア",
+                "description": "楽曲「熱風」を5回クリアしよう。",
+                "seq": 1,
+                "panelMissionType": "live_clear_in_music",
+                "requirement1": 5,
+                "rewards": [
+                  {
+                    "id": 10833,
+                    "missionType": "panel_mission",
+                    "missionId": 5030301,
+                    "seq": 1,
+                    "resourceBoxId": 1621
+                  }
+                ]
+              },
+              {
+                "id": 5030302,
+                "panelMissionSheetId": 50303,
+                "name": "特定ユニットの\n楽曲で10回ライブ",
+                "description": "楽曲選択画面のVivid BAD SQUADタブに\n含まれる楽曲で10回ライブしよう。",
+                "seq": 2,
+                "panelMissionType": "unit_live_clear_music",
+                "requirement1": 10,
+                "rewards": [
+                  {
+                    "id": 10834,
+                    "missionType": "panel_mission",
+                    "missionId": 5030302,
+                    "seq": 1,
+                    "resourceBoxId": 1622
+                  }
+                ]
+              },
+              {
+                "id": 5030303,
+                "panelMissionSheetId": 50303,
+                "name": "10種類の楽曲を\nクリア",
+                "description": "10種類の楽曲をクリアしよう。\n※オートライブでもカウントされます。",
+                "seq": 3,
+                "panelMissionType": "live_clear_with_different_music",
+                "requirement1": 10,
+                "requirement2": 1,
+                "rewards": [
+                  {
+                    "id": 10835,
+                    "missionType": "panel_mission",
+                    "missionId": 5030303,
+                    "seq": 1,
+                    "resourceBoxId": 1621
+                  }
+                ]
+              },
+              {
+                "id": 5030304,
+                "panelMissionSheetId": 50303,
+                "name": "みんなでライブを\n10回クリア",
+                "description": "「みんなでライブ」を10回クリアしよう。",
+                "seq": 4,
+                "panelMissionType": "multi_live_clear",
+                "requirement1": 10,
+                "rewards": [
+                  {
+                    "id": 10836,
+                    "missionType": "panel_mission",
+                    "missionId": 5030304,
+                    "seq": 1,
+                    "resourceBoxId": 1621
+                  }
+                ]
+              },
+              {
+                "id": 5030305,
+                "panelMissionSheetId": 50303,
+                "name": "累計50回\nライブをクリア",
+                "description": "累計50回ライブをクリアしよう。\n※オートライブでもカウントされます。",
+                "seq": 5,
+                "panelMissionType": "live_clear",
+                "requirement1": 50,
+                "rewards": [
+                  {
+                    "id": 10837,
+                    "missionType": "panel_mission",
+                    "missionId": 5030305,
+                    "seq": 1,
+                    "resourceBoxId": 1621
+                  }
+                ]
+              },
+              {
+                "id": 5030306,
+                "panelMissionSheetId": 50303,
+                "name": "2DMV・\n原曲MVモードで\n5回クリア",
+                "description": "2DMV・原曲MVモードで5回クリアをしよう。",
+                "seq": 6,
+                "panelMissionType": "live_clear_with_mv_2d_or_original",
+                "requirement1": 5,
+                "rewards": [
+                  {
+                    "id": 10838,
+                    "missionType": "panel_mission",
+                    "missionId": 5030306,
+                    "seq": 1,
+                    "resourceBoxId": 1622
+                  }
+                ]
+              },
+              {
+                "id": 5030307,
+                "panelMissionSheetId": 50303,
+                "name": "3DMVモードで\n5回クリア",
+                "description": "3DMVモードで5回クリアしよう。",
+                "seq": 7,
+                "panelMissionType": "live_clear_with_mv_3d",
+                "requirement1": 5,
+                "rewards": [
+                  {
+                    "id": 10839,
+                    "missionType": "panel_mission",
+                    "missionId": 5030307,
+                    "seq": 1,
+                    "resourceBoxId": 1622
+                  }
+                ]
+              }
+            ],
+            "rewards": [
+              {
+                "id": 10840,
+                "missionType": "panel_mission_complete",
+                "missionId": 50303,
+                "seq": 1,
+                "resourceBoxId": 1630
+              }
+            ]
+          },
+          {
+            "id": 50304,
+            "panelMissionSheetGroupId": 503,
+            "name": "レッド ライブカード レギュラー",
+            "seq": 4,
+            "assetbundleName": "sheet_regular_normallive_red",
+            "panelMissions": [
+              {
+                "id": 5030401,
+                "panelMissionSheetId": 50304,
+                "name": "「熱風」を\n10回クリア",
+                "description": "楽曲「熱風」を10回クリアしよう。",
+                "seq": 1,
+                "panelMissionType": "live_clear_in_music",
+                "requirement1": 10,
+                "rewards": [
+                  {
+                    "id": 10841,
+                    "missionType": "panel_mission",
+                    "missionId": 5030401,
+                    "seq": 1,
+                    "resourceBoxId": 1622
+                  }
+                ]
+              },
+              {
+                "id": 5030402,
+                "panelMissionSheetId": 50304,
+                "name": "特定ユニットの\n楽曲で15回ライブ",
+                "description": "楽曲選択画面のVivid BAD SQUADタブに\n含まれる楽曲で15回ライブしよう。",
+                "seq": 2,
+                "panelMissionType": "unit_live_clear_music",
+                "requirement1": 15,
+                "rewards": [
+                  {
+                    "id": 10842,
+                    "missionType": "panel_mission",
+                    "missionId": 5030402,
+                    "seq": 1,
+                    "resourceBoxId": 1623
+                  }
+                ]
+              },
+              {
+                "id": 5030403,
+                "panelMissionSheetId": 50304,
+                "name": "15種類の楽曲を\nクリア",
+                "description": "15種類の楽曲をクリアしよう。\n※オートライブでもカウントされます。",
+                "seq": 3,
+                "panelMissionType": "live_clear_with_different_music",
+                "requirement1": 15,
+                "requirement2": 1,
+                "rewards": [
+                  {
+                    "id": 10843,
+                    "missionType": "panel_mission",
+                    "missionId": 5030403,
+                    "seq": 1,
+                    "resourceBoxId": 1622
+                  }
+                ]
+              },
+              {
+                "id": 5030404,
+                "panelMissionSheetId": 50304,
+                "name": "みんなでライブを\n15回クリア",
+                "description": "「みんなでライブ」を15回クリアしよう。",
+                "seq": 4,
+                "panelMissionType": "multi_live_clear",
+                "requirement1": 15,
+                "rewards": [
+                  {
+                    "id": 10844,
+                    "missionType": "panel_mission",
+                    "missionId": 5030404,
+                    "seq": 1,
+                    "resourceBoxId": 1622
+                  }
+                ]
+              },
+              {
+                "id": 5030405,
+                "panelMissionSheetId": 50304,
+                "name": "累計100回\nライブをクリア",
+                "description": "累計100回ライブをクリアしよう。\n※オートライブでもカウントされます。",
+                "seq": 5,
+                "panelMissionType": "live_clear",
+                "requirement1": 100,
+                "rewards": [
+                  {
+                    "id": 10845,
+                    "missionType": "panel_mission",
+                    "missionId": 5030405,
+                    "seq": 1,
+                    "resourceBoxId": 1623
+                  }
+                ]
+              },
+              {
+                "id": 5030406,
+                "panelMissionSheetId": 50304,
+                "name": "PERFECT判定を\n累計20000回\n獲得",
+                "description": "ライブでPERFECT判定を累計20000回獲得しよう。",
+                "seq": 6,
+                "panelMissionType": "get_live_perfect",
+                "requirement1": 20000,
+                "rewards": [
+                  {
+                    "id": 10846,
+                    "missionType": "panel_mission",
+                    "missionId": 5030406,
+                    "seq": 1,
+                    "resourceBoxId": 1623
+                  }
+                ]
+              },
+              {
+                "id": 5030407,
+                "panelMissionSheetId": 50304,
+                "name": "楽曲をフルコンボで\n15回クリア",
+                "description": "楽曲をフルコンボで15回クリアしよう。",
+                "seq": 7,
+                "panelMissionType": "live_clear_full_combo",
+                "requirement1": 15,
+                "rewards": [
+                  {
+                    "id": 10847,
+                    "missionType": "panel_mission",
+                    "missionId": 5030407,
+                    "seq": 1,
+                    "resourceBoxId": 1625
+                  }
+                ]
+              }
+            ],
+            "rewards": [
+              {
+                "id": 10848,
+                "missionType": "panel_mission_complete",
+                "missionId": 50304,
+                "seq": 1,
+                "resourceBoxId": 1631
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 504,
+        "panelMissionCampaignId": 5,
+        "name": "キズナ",
+        "selectableLimit": 1,
+        "seq": 4,
+        "panelMissionSheets": [
+          {
+            "id": 50401,
+            "panelMissionSheetGroupId": 504,
+            "name": "グリーン キズナカード カジュアル",
+            "seq": 1,
+            "assetbundleName": "sheet_casual_bonds_green",
+            "panelMissions": [
+              {
+                "id": 5040101,
+                "panelMissionSheetId": 50401,
+                "name": "キズナランクを\n累計1組アップ",
+                "description": "累計1組のキズナランクを1アップさせよう。\n※期間中に一度でもランクがアップした組み合わせはカウントされません。",
+                "seq": 1,
+                "panelMissionType": "bonds_rank_up",
+                "requirement1": 1,
+                "requirement2": 1,
+                "rewards": [
+                  {
+                    "id": 10849,
+                    "missionType": "panel_mission",
+                    "missionId": 5040101,
+                    "seq": 1,
+                    "resourceBoxId": 1608
+                  }
+                ]
+              },
+              {
+                "id": 5040102,
+                "panelMissionSheetId": 50401,
+                "name": "キズナランクを\n累計3組アップ",
+                "description": "累計3組のキズナランクを1アップさせよう。\n※期間中に一度でもランクがアップした組み合わせはカウントされません。",
+                "seq": 2,
+                "panelMissionType": "bonds_rank_up",
+                "requirement1": 3,
+                "requirement2": 1,
+                "rewards": [
+                  {
+                    "id": 10850,
+                    "missionType": "panel_mission",
+                    "missionId": 5040102,
+                    "seq": 1,
+                    "resourceBoxId": 1608
+                  }
+                ]
+              },
+              {
+                "id": 5040103,
+                "panelMissionSheetId": 50401,
+                "name": "キズナランクを\n累計5組アップ",
+                "description": "累計5組のキズナランクを1アップさせよう。\n※期間中に一度でもランクがアップした組み合わせはカウントされません。",
+                "seq": 3,
+                "panelMissionType": "bonds_rank_up",
+                "requirement1": 5,
+                "requirement2": 1,
+                "rewards": [
+                  {
+                    "id": 10851,
+                    "missionType": "panel_mission",
+                    "missionId": 5040103,
+                    "seq": 1,
+                    "resourceBoxId": 1608
+                  }
+                ]
+              },
+              {
+                "id": 5040104,
+                "panelMissionSheetId": 50401,
+                "name": "キズナランクを\n累計7組アップ",
+                "description": "累計7組のキズナランクを1アップさせよう。\n※期間中に一度でもランクがアップした組み合わせはカウントされません。",
+                "seq": 4,
+                "panelMissionType": "bonds_rank_up",
+                "requirement1": 7,
+                "requirement2": 1,
+                "rewards": [
+                  {
+                    "id": 10852,
+                    "missionType": "panel_mission",
+                    "missionId": 5040104,
+                    "seq": 1,
+                    "resourceBoxId": 1608
+                  }
+                ]
+              },
+              {
+                "id": 5040105,
+                "panelMissionSheetId": 50401,
+                "name": "キズナランクを\n累計9組アップ",
+                "description": "累計9組のキズナランクを1アップさせよう。\n※期間中に一度でもランクがアップした組み合わせはカウントされません。",
+                "seq": 5,
+                "panelMissionType": "bonds_rank_up",
+                "requirement1": 9,
+                "requirement2": 1,
+                "rewards": [
+                  {
+                    "id": 10853,
+                    "missionType": "panel_mission",
+                    "missionId": 5040105,
+                    "seq": 1,
+                    "resourceBoxId": 1608
+                  }
+                ]
+              },
+              {
+                "id": 5040106,
+                "panelMissionSheetId": 50401,
+                "name": "キズナランクを\n累計12組アップ",
+                "description": "累計12組のキズナランクを1アップさせよう。\n※期間中に一度でもランクがアップした組み合わせはカウントされません。",
+                "seq": 6,
+                "panelMissionType": "bonds_rank_up",
+                "requirement1": 12,
+                "requirement2": 1,
+                "rewards": [
+                  {
+                    "id": 10854,
+                    "missionType": "panel_mission",
+                    "missionId": 5040106,
+                    "seq": 1,
+                    "resourceBoxId": 1609
+                  }
+                ]
+              },
+              {
+                "id": 5040107,
+                "panelMissionSheetId": 50401,
+                "name": "キズナランクを\n累計15組アップ",
+                "description": "累計15組のキズナランクを1アップさせよう。\n※期間中に一度でもランクがアップした組み合わせはカウントされません。",
+                "seq": 7,
+                "panelMissionType": "bonds_rank_up",
+                "requirement1": 15,
+                "requirement2": 1,
+                "rewards": [
+                  {
+                    "id": 10855,
+                    "missionType": "panel_mission",
+                    "missionId": 5040107,
+                    "seq": 1,
+                    "resourceBoxId": 1610
+                  }
+                ]
+              }
+            ],
+            "rewards": [
+              {
+                "id": 10856,
+                "missionType": "panel_mission_complete",
+                "missionId": 50401,
+                "seq": 1,
+                "resourceBoxId": 1617
+              }
+            ]
+          },
+          {
+            "id": 50402,
+            "panelMissionSheetGroupId": 504,
+            "name": "グリーン キズナカード レギュラー",
+            "seq": 2,
+            "assetbundleName": "sheet_regular_bonds_green",
+            "panelMissions": [
+              {
+                "id": 5040201,
+                "panelMissionSheetId": 50402,
+                "name": "キズナランクを\n累計1組アップ",
+                "description": "累計1組のキズナランクを1アップさせよう。\n※期間中に一度でもランクがアップした組み合わせはカウントされません。",
+                "seq": 1,
+                "panelMissionType": "bonds_rank_up",
+                "requirement1": 1,
+                "requirement2": 1,
+                "rewards": [
+                  {
+                    "id": 10857,
+                    "missionType": "panel_mission",
+                    "missionId": 5040201,
+                    "seq": 1,
+                    "resourceBoxId": 1609
+                  }
+                ]
+              },
+              {
+                "id": 5040202,
+                "panelMissionSheetId": 50402,
+                "name": "キズナランクを\n累計5組アップ",
+                "description": "累計5組のキズナランクを1アップさせよう。\n※期間中に一度でもランクがアップした組み合わせはカウントされません。",
+                "seq": 2,
+                "panelMissionType": "bonds_rank_up",
+                "requirement1": 5,
+                "requirement2": 1,
+                "rewards": [
+                  {
+                    "id": 10858,
+                    "missionType": "panel_mission",
+                    "missionId": 5040202,
+                    "seq": 1,
+                    "resourceBoxId": 1610
+                  }
+                ]
+              },
+              {
+                "id": 5040203,
+                "panelMissionSheetId": 50402,
+                "name": "キズナランクを\n累計10組アップ",
+                "description": "累計10組のキズナランクを1アップさせよう。\n※期間中に一度でもランクがアップした組み合わせはカウントされません。",
+                "seq": 3,
+                "panelMissionType": "bonds_rank_up",
+                "requirement1": 10,
+                "requirement2": 1,
+                "rewards": [
+                  {
+                    "id": 10859,
+                    "missionType": "panel_mission",
+                    "missionId": 5040203,
+                    "seq": 1,
+                    "resourceBoxId": 1610
+                  }
+                ]
+              },
+              {
+                "id": 5040204,
+                "panelMissionSheetId": 50402,
+                "name": "キズナランクを\n累計15組アップ",
+                "description": "累計15組のキズナランクを1アップさせよう。\n※期間中に一度でもランクがアップした組み合わせはカウントされません。",
+                "seq": 4,
+                "panelMissionType": "bonds_rank_up",
+                "requirement1": 15,
+                "requirement2": 1,
+                "rewards": [
+                  {
+                    "id": 10860,
+                    "missionType": "panel_mission",
+                    "missionId": 5040204,
+                    "seq": 1,
+                    "resourceBoxId": 1610
+                  }
+                ]
+              },
+              {
+                "id": 5040205,
+                "panelMissionSheetId": 50402,
+                "name": "キズナランクを\n累計20組アップ",
+                "description": "累計20組のキズナランクを1アップさせよう。\n※期間中に一度でもランクがアップした組み合わせはカウントされません。",
+                "seq": 5,
+                "panelMissionType": "bonds_rank_up",
+                "requirement1": 20,
+                "requirement2": 1,
+                "rewards": [
+                  {
+                    "id": 10861,
+                    "missionType": "panel_mission",
+                    "missionId": 5040205,
+                    "seq": 1,
+                    "resourceBoxId": 1610
+                  }
+                ]
+              },
+              {
+                "id": 5040206,
+                "panelMissionSheetId": 50402,
+                "name": "キズナランクを\n累計25組アップ",
+                "description": "累計25組のキズナランクを1アップさせよう。\n※期間中に一度でもランクがアップした組み合わせはカウントされません。",
+                "seq": 6,
+                "panelMissionType": "bonds_rank_up",
+                "requirement1": 25,
+                "requirement2": 1,
+                "rewards": [
+                  {
+                    "id": 10862,
+                    "missionType": "panel_mission",
+                    "missionId": 5040206,
+                    "seq": 1,
+                    "resourceBoxId": 1610
+                  }
+                ]
+              },
+              {
+                "id": 5040207,
+                "panelMissionSheetId": 50402,
+                "name": "キズナランクを\n累計30組アップ",
+                "description": "累計30組のキズナランクを1アップさせよう。\n※期間中に一度でもランクがアップした組み合わせはカウントされません。",
+                "seq": 7,
+                "panelMissionType": "bonds_rank_up",
+                "requirement1": 30,
+                "requirement2": 1,
+                "rewards": [
+                  {
+                    "id": 10863,
+                    "missionType": "panel_mission",
+                    "missionId": 5040207,
+                    "seq": 1,
+                    "resourceBoxId": 1610
+                  }
+                ]
+              }
+            ],
+            "rewards": [
+              {
+                "id": 10864,
+                "missionType": "panel_mission_complete",
+                "missionId": 50402,
+                "seq": 1,
+                "resourceBoxId": 1618
+              }
+            ]
+          },
+          {
+            "id": 50403,
+            "panelMissionSheetGroupId": 504,
+            "name": "レッド キズナカード カジュアル",
+            "seq": 3,
+            "assetbundleName": "sheet_casual_bonds_red",
+            "panelMissions": [
+              {
+                "id": 5040301,
+                "panelMissionSheetId": 50403,
+                "name": "キズナランクを\n累計1組アップ",
+                "description": "累計1組のキズナランクを1アップさせよう。\n※期間中に一度でもランクがアップした組み合わせはカウントされません。",
+                "seq": 1,
+                "panelMissionType": "bonds_rank_up",
+                "requirement1": 1,
+                "requirement2": 1,
+                "rewards": [
+                  {
+                    "id": 10865,
+                    "missionType": "panel_mission",
+                    "missionId": 5040301,
+                    "seq": 1,
+                    "resourceBoxId": 1621
+                  }
+                ]
+              },
+              {
+                "id": 5040302,
+                "panelMissionSheetId": 50403,
+                "name": "キズナランクを\n累計3組アップ",
+                "description": "累計3組のキズナランクを1アップさせよう。\n※期間中に一度でもランクがアップした組み合わせはカウントされません。",
+                "seq": 2,
+                "panelMissionType": "bonds_rank_up",
+                "requirement1": 3,
+                "requirement2": 1,
+                "rewards": [
+                  {
+                    "id": 10866,
+                    "missionType": "panel_mission",
+                    "missionId": 5040302,
+                    "seq": 1,
+                    "resourceBoxId": 1621
+                  }
+                ]
+              },
+              {
+                "id": 5040303,
+                "panelMissionSheetId": 50403,
+                "name": "キズナランクを\n累計5組アップ",
+                "description": "累計5組のキズナランクを1アップさせよう。\n※期間中に一度でもランクがアップした組み合わせはカウントされません。",
+                "seq": 3,
+                "panelMissionType": "bonds_rank_up",
+                "requirement1": 5,
+                "requirement2": 1,
+                "rewards": [
+                  {
+                    "id": 10867,
+                    "missionType": "panel_mission",
+                    "missionId": 5040303,
+                    "seq": 1,
+                    "resourceBoxId": 1621
+                  }
+                ]
+              },
+              {
+                "id": 5040304,
+                "panelMissionSheetId": 50403,
+                "name": "キズナランクを\n累計7組アップ",
+                "description": "累計7組のキズナランクを1アップさせよう。\n※期間中に一度でもランクがアップした組み合わせはカウントされません。",
+                "seq": 4,
+                "panelMissionType": "bonds_rank_up",
+                "requirement1": 7,
+                "requirement2": 1,
+                "rewards": [
+                  {
+                    "id": 10868,
+                    "missionType": "panel_mission",
+                    "missionId": 5040304,
+                    "seq": 1,
+                    "resourceBoxId": 1621
+                  }
+                ]
+              },
+              {
+                "id": 5040305,
+                "panelMissionSheetId": 50403,
+                "name": "キズナランクを\n累計9組アップ",
+                "description": "累計9組のキズナランクを1アップさせよう。\n※期間中に一度でもランクがアップした組み合わせはカウントされません。",
+                "seq": 5,
+                "panelMissionType": "bonds_rank_up",
+                "requirement1": 9,
+                "requirement2": 1,
+                "rewards": [
+                  {
+                    "id": 10869,
+                    "missionType": "panel_mission",
+                    "missionId": 5040305,
+                    "seq": 1,
+                    "resourceBoxId": 1621
+                  }
+                ]
+              },
+              {
+                "id": 5040306,
+                "panelMissionSheetId": 50403,
+                "name": "キズナランクを\n累計12組アップ",
+                "description": "累計12組のキズナランクを1アップさせよう。\n※期間中に一度でもランクがアップした組み合わせはカウントされません。",
+                "seq": 6,
+                "panelMissionType": "bonds_rank_up",
+                "requirement1": 12,
+                "requirement2": 1,
+                "rewards": [
+                  {
+                    "id": 10870,
+                    "missionType": "panel_mission",
+                    "missionId": 5040306,
+                    "seq": 1,
+                    "resourceBoxId": 1622
+                  }
+                ]
+              },
+              {
+                "id": 5040307,
+                "panelMissionSheetId": 50403,
+                "name": "キズナランクを\n累計15組アップ",
+                "description": "累計15組のキズナランクを1アップさせよう。\n※期間中に一度でもランクがアップした組み合わせはカウントされません。",
+                "seq": 7,
+                "panelMissionType": "bonds_rank_up",
+                "requirement1": 15,
+                "requirement2": 1,
+                "rewards": [
+                  {
+                    "id": 10871,
+                    "missionType": "panel_mission",
+                    "missionId": 5040307,
+                    "seq": 1,
+                    "resourceBoxId": 1623
+                  }
+                ]
+              }
+            ],
+            "rewards": [
+              {
+                "id": 10872,
+                "missionType": "panel_mission_complete",
+                "missionId": 50403,
+                "seq": 1,
+                "resourceBoxId": 1630
+              }
+            ]
+          },
+          {
+            "id": 50404,
+            "panelMissionSheetGroupId": 504,
+            "name": "レッド キズナカード レギュラー",
+            "seq": 4,
+            "assetbundleName": "sheet_regular_bonds_red",
+            "panelMissions": [
+              {
+                "id": 5040401,
+                "panelMissionSheetId": 50404,
+                "name": "キズナランクを\n累計1組アップ",
+                "description": "累計1組のキズナランクを1アップさせよう。\n※期間中に一度でもランクがアップした組み合わせはカウントされません。",
+                "seq": 1,
+                "panelMissionType": "bonds_rank_up",
+                "requirement1": 1,
+                "requirement2": 1,
+                "rewards": [
+                  {
+                    "id": 10873,
+                    "missionType": "panel_mission",
+                    "missionId": 5040401,
+                    "seq": 1,
+                    "resourceBoxId": 1622
+                  }
+                ]
+              },
+              {
+                "id": 5040402,
+                "panelMissionSheetId": 50404,
+                "name": "キズナランクを\n累計5組アップ",
+                "description": "累計5組のキズナランクを1アップさせよう。\n※期間中に一度でもランクがアップした組み合わせはカウントされません。",
+                "seq": 2,
+                "panelMissionType": "bonds_rank_up",
+                "requirement1": 5,
+                "requirement2": 1,
+                "rewards": [
+                  {
+                    "id": 10874,
+                    "missionType": "panel_mission",
+                    "missionId": 5040402,
+                    "seq": 1,
+                    "resourceBoxId": 1623
+                  }
+                ]
+              },
+              {
+                "id": 5040403,
+                "panelMissionSheetId": 50404,
+                "name": "キズナランクを\n累計10組アップ",
+                "description": "累計10組のキズナランクを1アップさせよう。\n※期間中に一度でもランクがアップした組み合わせはカウントされません。",
+                "seq": 3,
+                "panelMissionType": "bonds_rank_up",
+                "requirement1": 10,
+                "requirement2": 1,
+                "rewards": [
+                  {
+                    "id": 10875,
+                    "missionType": "panel_mission",
+                    "missionId": 5040403,
+                    "seq": 1,
+                    "resourceBoxId": 1623
+                  }
+                ]
+              },
+              {
+                "id": 5040404,
+                "panelMissionSheetId": 50404,
+                "name": "キズナランクを\n累計15組アップ",
+                "description": "累計15組のキズナランクを1アップさせよう。\n※期間中に一度でもランクがアップした組み合わせはカウントされません。",
+                "seq": 4,
+                "panelMissionType": "bonds_rank_up",
+                "requirement1": 15,
+                "requirement2": 1,
+                "rewards": [
+                  {
+                    "id": 10876,
+                    "missionType": "panel_mission",
+                    "missionId": 5040404,
+                    "seq": 1,
+                    "resourceBoxId": 1623
+                  }
+                ]
+              },
+              {
+                "id": 5040405,
+                "panelMissionSheetId": 50404,
+                "name": "キズナランクを\n累計20組アップ",
+                "description": "累計20組のキズナランクを1アップさせよう。\n※期間中に一度でもランクがアップした組み合わせはカウントされません。",
+                "seq": 5,
+                "panelMissionType": "bonds_rank_up",
+                "requirement1": 20,
+                "requirement2": 1,
+                "rewards": [
+                  {
+                    "id": 10877,
+                    "missionType": "panel_mission",
+                    "missionId": 5040405,
+                    "seq": 1,
+                    "resourceBoxId": 1623
+                  }
+                ]
+              },
+              {
+                "id": 5040406,
+                "panelMissionSheetId": 50404,
+                "name": "キズナランクを\n累計25組アップ",
+                "description": "累計25組のキズナランクを1アップさせよう。\n※期間中に一度でもランクがアップした組み合わせはカウントされません。",
+                "seq": 6,
+                "panelMissionType": "bonds_rank_up",
+                "requirement1": 25,
+                "requirement2": 1,
+                "rewards": [
+                  {
+                    "id": 10878,
+                    "missionType": "panel_mission",
+                    "missionId": 5040406,
+                    "seq": 1,
+                    "resourceBoxId": 1623
+                  }
+                ]
+              },
+              {
+                "id": 5040407,
+                "panelMissionSheetId": 50404,
+                "name": "キズナランクを\n累計30組アップ",
+                "description": "累計30組のキズナランクを1アップさせよう。\n※期間中に一度でもランクがアップした組み合わせはカウントされません。",
+                "seq": 7,
+                "panelMissionType": "bonds_rank_up",
+                "requirement1": 30,
+                "requirement2": 1,
+                "rewards": [
+                  {
+                    "id": 10879,
+                    "missionType": "panel_mission",
+                    "missionId": 5040407,
+                    "seq": 1,
+                    "resourceBoxId": 1623
+                  }
+                ]
+              }
+            ],
+            "rewards": [
+              {
+                "id": 10880,
+                "missionType": "panel_mission_complete",
+                "missionId": 50404,
+                "seq": 1,
+                "resourceBoxId": 1631
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 505,
+        "panelMissionCampaignId": 5,
+        "name": "ログイン",
+        "selectableLimit": 1,
+        "seq": 5,
+        "panelMissionSheets": [
+          {
+            "id": 50501,
+            "panelMissionSheetGroupId": 505,
+            "name": "グリーン ログインカード カジュアル",
+            "seq": 1,
+            "assetbundleName": "sheet_casual_login_green",
+            "panelMissions": [
+              {
+                "id": 5050101,
+                "panelMissionSheetId": 50501,
+                "name": "累計1日\nログイン",
+                "description": "累計1日ログインしよう。",
+                "seq": 1,
+                "panelMissionType": "login",
+                "requirement1": 1,
+                "rewards": [
+                  {
+                    "id": 10881,
+                    "missionType": "panel_mission",
+                    "missionId": 5050101,
+                    "seq": 1,
+                    "resourceBoxId": 1608
+                  }
+                ]
+              },
+              {
+                "id": 5050102,
+                "panelMissionSheetId": 50501,
+                "name": "累計2日\nログイン",
+                "description": "累計2日ログインしよう。",
+                "seq": 2,
+                "panelMissionType": "login",
+                "requirement1": 2,
+                "rewards": [
+                  {
+                    "id": 10882,
+                    "missionType": "panel_mission",
+                    "missionId": 5050102,
+                    "seq": 1,
+                    "resourceBoxId": 1608
+                  }
+                ]
+              },
+              {
+                "id": 5050103,
+                "panelMissionSheetId": 50501,
+                "name": "累計3日\nログイン",
+                "description": "累計3日ログインしよう。",
+                "seq": 3,
+                "panelMissionType": "login",
+                "requirement1": 3,
+                "rewards": [
+                  {
+                    "id": 10883,
+                    "missionType": "panel_mission",
+                    "missionId": 5050103,
+                    "seq": 1,
+                    "resourceBoxId": 1608
+                  }
+                ]
+              },
+              {
+                "id": 5050104,
+                "panelMissionSheetId": 50501,
+                "name": "累計4日\nログイン",
+                "description": "累計4日ログインしよう。",
+                "seq": 4,
+                "panelMissionType": "login",
+                "requirement1": 4,
+                "rewards": [
+                  {
+                    "id": 10884,
+                    "missionType": "panel_mission",
+                    "missionId": 5050104,
+                    "seq": 1,
+                    "resourceBoxId": 1608
+                  }
+                ]
+              },
+              {
+                "id": 5050105,
+                "panelMissionSheetId": 50501,
+                "name": "累計5日\nログイン",
+                "description": "累計5日ログインしよう。",
+                "seq": 5,
+                "panelMissionType": "login",
+                "requirement1": 5,
+                "rewards": [
+                  {
+                    "id": 10885,
+                    "missionType": "panel_mission",
+                    "missionId": 5050105,
+                    "seq": 1,
+                    "resourceBoxId": 1608
+                  }
+                ]
+              },
+              {
+                "id": 5050106,
+                "panelMissionSheetId": 50501,
+                "name": "累計6日\nログイン",
+                "description": "累計6日ログインしよう。",
+                "seq": 6,
+                "panelMissionType": "login",
+                "requirement1": 6,
+                "rewards": [
+                  {
+                    "id": 10886,
+                    "missionType": "panel_mission",
+                    "missionId": 5050106,
+                    "seq": 1,
+                    "resourceBoxId": 1608
+                  }
+                ]
+              },
+              {
+                "id": 5050107,
+                "panelMissionSheetId": 50501,
+                "name": "累計7日\nログイン",
+                "description": "累計7日ログインしよう。",
+                "seq": 7,
+                "panelMissionType": "login",
+                "requirement1": 7,
+                "rewards": [
+                  {
+                    "id": 10887,
+                    "missionType": "panel_mission",
+                    "missionId": 5050107,
+                    "seq": 1,
+                    "resourceBoxId": 1608
+                  }
+                ]
+              }
+            ],
+            "rewards": [
+              {
+                "id": 10888,
+                "missionType": "panel_mission_complete",
+                "missionId": 50501,
+                "seq": 1,
+                "resourceBoxId": 1615
+              }
+            ]
+          },
+          {
+            "id": 50502,
+            "panelMissionSheetGroupId": 505,
+            "name": "グリーン ログインカード レギュラー",
+            "seq": 2,
+            "assetbundleName": "sheet_regular_login_green",
+            "panelMissions": [
+              {
+                "id": 5050201,
+                "panelMissionSheetId": 50502,
+                "name": "累計1日\nログイン",
+                "description": "累計1日ログインしよう。",
+                "seq": 1,
+                "panelMissionType": "login",
+                "requirement1": 1,
+                "rewards": [
+                  {
+                    "id": 10889,
+                    "missionType": "panel_mission",
+                    "missionId": 5050201,
+                    "seq": 1,
+                    "resourceBoxId": 1608
+                  }
+                ]
+              },
+              {
+                "id": 5050202,
+                "panelMissionSheetId": 50502,
+                "name": "累計2日\nログイン",
+                "description": "累計2日ログインしよう。",
+                "seq": 2,
+                "panelMissionType": "login",
+                "requirement1": 2,
+                "rewards": [
+                  {
+                    "id": 10890,
+                    "missionType": "panel_mission",
+                    "missionId": 5050202,
+                    "seq": 1,
+                    "resourceBoxId": 1608
+                  }
+                ]
+              },
+              {
+                "id": 5050203,
+                "panelMissionSheetId": 50502,
+                "name": "累計3日\nログイン",
+                "description": "累計3日ログインしよう。",
+                "seq": 3,
+                "panelMissionType": "login",
+                "requirement1": 3,
+                "rewards": [
+                  {
+                    "id": 10891,
+                    "missionType": "panel_mission",
+                    "missionId": 5050203,
+                    "seq": 1,
+                    "resourceBoxId": 1608
+                  }
+                ]
+              },
+              {
+                "id": 5050204,
+                "panelMissionSheetId": 50502,
+                "name": "累計4日\nログイン",
+                "description": "累計4日ログインしよう。",
+                "seq": 4,
+                "panelMissionType": "login",
+                "requirement1": 4,
+                "rewards": [
+                  {
+                    "id": 10892,
+                    "missionType": "panel_mission",
+                    "missionId": 5050204,
+                    "seq": 1,
+                    "resourceBoxId": 1608
+                  }
+                ]
+              },
+              {
+                "id": 5050205,
+                "panelMissionSheetId": 50502,
+                "name": "累計5日\nログイン",
+                "description": "累計5日ログインしよう。",
+                "seq": 5,
+                "panelMissionType": "login",
+                "requirement1": 5,
+                "rewards": [
+                  {
+                    "id": 10893,
+                    "missionType": "panel_mission",
+                    "missionId": 5050205,
+                    "seq": 1,
+                    "resourceBoxId": 1608
+                  }
+                ]
+              },
+              {
+                "id": 5050206,
+                "panelMissionSheetId": 50502,
+                "name": "累計7日\nログイン",
+                "description": "累計7日ログインしよう。",
+                "seq": 6,
+                "panelMissionType": "login",
+                "requirement1": 7,
+                "rewards": [
+                  {
+                    "id": 10894,
+                    "missionType": "panel_mission",
+                    "missionId": 5050206,
+                    "seq": 1,
+                    "resourceBoxId": 1609
+                  }
+                ]
+              },
+              {
+                "id": 5050207,
+                "panelMissionSheetId": 50502,
+                "name": "累計10日\nログイン",
+                "description": "累計10日ログインしよう。",
+                "seq": 7,
+                "panelMissionType": "login",
+                "requirement1": 10,
+                "rewards": [
+                  {
+                    "id": 10895,
+                    "missionType": "panel_mission",
+                    "missionId": 5050207,
+                    "seq": 1,
+                    "resourceBoxId": 1610
+                  }
+                ]
+              }
+            ],
+            "rewards": [
+              {
+                "id": 10896,
+                "missionType": "panel_mission_complete",
+                "missionId": 50502,
+                "seq": 1,
+                "resourceBoxId": 1617
+              }
+            ]
+          },
+          {
+            "id": 50503,
+            "panelMissionSheetGroupId": 505,
+            "name": "レッド ログインカード カジュアル",
+            "seq": 3,
+            "assetbundleName": "sheet_casual_login_red",
+            "panelMissions": [
+              {
+                "id": 5050301,
+                "panelMissionSheetId": 50503,
+                "name": "累計1日\nログイン",
+                "description": "累計1日ログインしよう。",
+                "seq": 1,
+                "panelMissionType": "login",
+                "requirement1": 1,
+                "rewards": [
+                  {
+                    "id": 10897,
+                    "missionType": "panel_mission",
+                    "missionId": 5050301,
+                    "seq": 1,
+                    "resourceBoxId": 1621
+                  }
+                ]
+              },
+              {
+                "id": 5050302,
+                "panelMissionSheetId": 50503,
+                "name": "累計2日\nログイン",
+                "description": "累計2日ログインしよう。",
+                "seq": 2,
+                "panelMissionType": "login",
+                "requirement1": 2,
+                "rewards": [
+                  {
+                    "id": 10898,
+                    "missionType": "panel_mission",
+                    "missionId": 5050302,
+                    "seq": 1,
+                    "resourceBoxId": 1621
+                  }
+                ]
+              },
+              {
+                "id": 5050303,
+                "panelMissionSheetId": 50503,
+                "name": "累計3日\nログイン",
+                "description": "累計3日ログインしよう。",
+                "seq": 3,
+                "panelMissionType": "login",
+                "requirement1": 3,
+                "rewards": [
+                  {
+                    "id": 10899,
+                    "missionType": "panel_mission",
+                    "missionId": 5050303,
+                    "seq": 1,
+                    "resourceBoxId": 1621
+                  }
+                ]
+              },
+              {
+                "id": 5050304,
+                "panelMissionSheetId": 50503,
+                "name": "累計4日\nログイン",
+                "description": "累計4日ログインしよう。",
+                "seq": 4,
+                "panelMissionType": "login",
+                "requirement1": 4,
+                "rewards": [
+                  {
+                    "id": 10900,
+                    "missionType": "panel_mission",
+                    "missionId": 5050304,
+                    "seq": 1,
+                    "resourceBoxId": 1621
+                  }
+                ]
+              },
+              {
+                "id": 5050305,
+                "panelMissionSheetId": 50503,
+                "name": "累計5日\nログイン",
+                "description": "累計5日ログインしよう。",
+                "seq": 5,
+                "panelMissionType": "login",
+                "requirement1": 5,
+                "rewards": [
+                  {
+                    "id": 10901,
+                    "missionType": "panel_mission",
+                    "missionId": 5050305,
+                    "seq": 1,
+                    "resourceBoxId": 1621
+                  }
+                ]
+              },
+              {
+                "id": 5050306,
+                "panelMissionSheetId": 50503,
+                "name": "累計6日\nログイン",
+                "description": "累計6日ログインしよう。",
+                "seq": 6,
+                "panelMissionType": "login",
+                "requirement1": 6,
+                "rewards": [
+                  {
+                    "id": 10902,
+                    "missionType": "panel_mission",
+                    "missionId": 5050306,
+                    "seq": 1,
+                    "resourceBoxId": 1621
+                  }
+                ]
+              },
+              {
+                "id": 5050307,
+                "panelMissionSheetId": 50503,
+                "name": "累計7日\nログイン",
+                "description": "累計7日ログインしよう。",
+                "seq": 7,
+                "panelMissionType": "login",
+                "requirement1": 7,
+                "rewards": [
+                  {
+                    "id": 10903,
+                    "missionType": "panel_mission",
+                    "missionId": 5050307,
+                    "seq": 1,
+                    "resourceBoxId": 1621
+                  }
+                ]
+              }
+            ],
+            "rewards": [
+              {
+                "id": 10904,
+                "missionType": "panel_mission_complete",
+                "missionId": 50503,
+                "seq": 1,
+                "resourceBoxId": 1628
+              }
+            ]
+          },
+          {
+            "id": 50504,
+            "panelMissionSheetGroupId": 505,
+            "name": "レッド ログインカードレギュラー",
+            "seq": 4,
+            "assetbundleName": "sheet_regular_login_red",
+            "panelMissions": [
+              {
+                "id": 5050401,
+                "panelMissionSheetId": 50504,
+                "name": "累計1日\nログイン",
+                "description": "累計1日ログインしよう。",
+                "seq": 1,
+                "panelMissionType": "login",
+                "requirement1": 1,
+                "rewards": [
+                  {
+                    "id": 10905,
+                    "missionType": "panel_mission",
+                    "missionId": 5050401,
+                    "seq": 1,
+                    "resourceBoxId": 1621
+                  }
+                ]
+              },
+              {
+                "id": 5050402,
+                "panelMissionSheetId": 50504,
+                "name": "累計2日\nログイン",
+                "description": "累計2日ログインしよう。",
+                "seq": 2,
+                "panelMissionType": "login",
+                "requirement1": 2,
+                "rewards": [
+                  {
+                    "id": 10906,
+                    "missionType": "panel_mission",
+                    "missionId": 5050402,
+                    "seq": 1,
+                    "resourceBoxId": 1621
+                  }
+                ]
+              },
+              {
+                "id": 5050403,
+                "panelMissionSheetId": 50504,
+                "name": "累計3日\nログイン",
+                "description": "累計3日ログインしよう。",
+                "seq": 3,
+                "panelMissionType": "login",
+                "requirement1": 3,
+                "rewards": [
+                  {
+                    "id": 10907,
+                    "missionType": "panel_mission",
+                    "missionId": 5050403,
+                    "seq": 1,
+                    "resourceBoxId": 1621
+                  }
+                ]
+              },
+              {
+                "id": 5050404,
+                "panelMissionSheetId": 50504,
+                "name": "累計4日\nログイン",
+                "description": "累計4日ログインしよう。",
+                "seq": 4,
+                "panelMissionType": "login",
+                "requirement1": 4,
+                "rewards": [
+                  {
+                    "id": 10908,
+                    "missionType": "panel_mission",
+                    "missionId": 5050404,
+                    "seq": 1,
+                    "resourceBoxId": 1621
+                  }
+                ]
+              },
+              {
+                "id": 5050405,
+                "panelMissionSheetId": 50504,
+                "name": "累計5日\nログイン",
+                "description": "累計5日ログインしよう。",
+                "seq": 5,
+                "panelMissionType": "login",
+                "requirement1": 5,
+                "rewards": [
+                  {
+                    "id": 10909,
+                    "missionType": "panel_mission",
+                    "missionId": 5050405,
+                    "seq": 1,
+                    "resourceBoxId": 1621
+                  }
+                ]
+              },
+              {
+                "id": 5050406,
+                "panelMissionSheetId": 50504,
+                "name": "累計7日\nログイン",
+                "description": "累計7日ログインしよう。",
+                "seq": 6,
+                "panelMissionType": "login",
+                "requirement1": 7,
+                "rewards": [
+                  {
+                    "id": 10910,
+                    "missionType": "panel_mission",
+                    "missionId": 5050406,
+                    "seq": 1,
+                    "resourceBoxId": 1622
+                  }
+                ]
+              },
+              {
+                "id": 5050407,
+                "panelMissionSheetId": 50504,
+                "name": "累計10日\nログイン",
+                "description": "累計10日ログインしよう。",
+                "seq": 7,
+                "panelMissionType": "login",
+                "requirement1": 10,
+                "rewards": [
+                  {
+                    "id": 10911,
+                    "missionType": "panel_mission",
+                    "missionId": 5050407,
+                    "seq": 1,
+                    "resourceBoxId": 1623
+                  }
+                ]
+              }
+            ],
+            "rewards": [
+              {
+                "id": 10912,
+                "missionType": "panel_mission_complete",
+                "missionId": 50504,
+                "seq": 1,
+                "resourceBoxId": 1630
+              }
+            ]
+          }
+        ]
+      }
+    ]
   }
 ]
