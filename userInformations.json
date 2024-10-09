@@ -751,20 +751,6 @@
     "bannerAssetbundleName": "banner_news_logincp_4th_anniversary"
   },
   {
-    "id": 4188,
-    "seq": 1,
-    "displayOrder": 66500,
-    "informationType": "normal",
-    "informationTag": "campaign",
-    "browseType": "internal",
-    "platform": "all",
-    "title": "「[4周年記念]Present 4 youキャンペーン」開催！",
-    "path": "information\/index.html?id=info_4th_present4you_held",
-    "startAt": 1727665200000,
-    "endAt": 1727967600000,
-    "bannerAssetbundleName": "banner_news_logincp_4th_present4you"
-  },
-  {
     "id": 4189,
     "seq": 1,
     "displayOrder": 66520,
@@ -1124,7 +1110,8 @@
     "platform": "all",
     "title": "「v4.0.0」以前に開催済みのイベント交換所における「ボーカルカード交換チケット」獲得に対する追加補てんのご案内",
     "path": "information\/index.html?id=info_compensation_anothervocal_v4-0-0_20241002",
-    "startAt": 1727866800000
+    "startAt": 1727866800000,
+    "endAt": 1728442800000
   },
   {
     "id": 4225,
@@ -1162,8 +1149,9 @@
     "browseType": "internal",
     "platform": "all",
     "title": "【10月3日22時00分追記】【重要】「4周年記念スタンプミッション」のミッション修正に対するお詫びと補てんに関するご案内",
-    "path": "information\/index.html?id=bug_4th_annive_stampmission_broom_20240930_add2",
-    "startAt": 1727960400000
+    "path": "information\/index.html?id=bug_4th_annive_stampmission_broom_20240930_add",
+    "startAt": 1727960400000,
+    "endAt": 1728442800000
   },
   {
     "id": 4228,
@@ -1194,14 +1182,14 @@
   {
     "id": 4231,
     "seq": 1,
-    "displayOrder": 66860,
+    "displayOrder": 66880,
     "informationType": "normal",
     "informationTag": "campaign",
     "browseType": "internal",
     "platform": "all",
     "title": "予告、10月12日より「4周年記念スタンプミッション CONNECT」開催！",
     "path": "information\/index.html?id=info_4th_annive_stampmission_connect_notice",
-    "startAt": 1728378000000,
+    "startAt": 1728442800000,
     "endAt": 1728723600000,
     "bannerAssetbundleName": "banner_news_4thAnniversary_stampMission"
   },
@@ -1256,5 +1244,29 @@
     "path": "https:\/\/questant.jp\/q\/5WPID13U?id={userId}",
     "startAt": 1728219600000,
     "endAt": 1728399600000
+  },
+  {
+    "id": 4255,
+    "seq": 1,
+    "displayOrder": 66860,
+    "informationType": "normal",
+    "informationTag": "information",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "【10月9日12時00分追記】【重要】「4周年記念スタンプミッション」のミッション修正に対するお詫びと補てんに関するご案内",
+    "path": "information\/index.html?id=bug_4th_annive_stampmission_broom_20240930_add2",
+    "startAt": 1728442800000
+  },
+  {
+    "id": 4256,
+    "seq": 1,
+    "displayOrder": 66870,
+    "informationType": "normal",
+    "informationTag": "information",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "【10月9日12時00分追記】「v4.0.0」以前に開催済みのイベント交換所における「ボーカルカード交換チケット」獲得に対する追加補てんのご案内",
+    "path": "information\/index.html?id=info_compensation_anothervocal_v4-0-0_20241002_add",
+    "startAt": 1728442800000
   }
 ]
