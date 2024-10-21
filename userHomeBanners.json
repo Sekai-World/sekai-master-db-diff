@@ -44,8 +44,8 @@
     "endAt": 1732935600000
   },
   {
-    "homeBannerId": 1070,
-    "seq": 110,
+    "homeBannerId": 1071,
+    "seq": 180,
     "homeBannerType": "event",
     "name": "[イベント]ニーゴ箱イベ_イベントバナー",
     "assetbundleName": "event_thorns_2024",
@@ -53,17 +53,6 @@
     "transitionDestinationId": 145,
     "startAt": 1728723600000,
     "endAt": 1729490400000
-  },
-  {
-    "homeBannerId": 1074,
-    "seq": 170,
-    "homeBannerType": "general",
-    "name": "[ガチャ]ニーゴ箱イベ_ガチャバナー",
-    "assetbundleName": "banner_gacha598",
-    "transitionDestinationType": "gacha",
-    "transitionDestinationId": 598,
-    "startAt": 1728723600000,
-    "endAt": 1729479600000
   },
   {
     "homeBannerId": 1075,
@@ -97,5 +86,16 @@
     "transitionDestinationId": 601,
     "startAt": 1728874800000,
     "endAt": 1729652400000
+  },
+  {
+    "homeBannerId": 1080,
+    "seq": 100,
+    "homeBannerType": "general",
+    "name": "[ガチャ]ビビバス箱イベ_ガチャバナー",
+    "assetbundleName": "banner_gacha603",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 603,
+    "startAt": 1729479600000,
+    "endAt": 1730343600000
   }
 ]
