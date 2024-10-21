@@ -26935,6 +26935,26 @@
     "archivePublishedAt": 1720504800000
   },
   {
+    "id": 1026,
+    "musicId": 488,
+    "musicVocalType": "original_song",
+    "seq": 101,
+    "releaseConditionId": 5,
+    "caption": "バーチャル・シンガーver.",
+    "characters": [
+      {
+        "id": 1859,
+        "musicId": 488,
+        "musicVocalId": 1026,
+        "characterType": "game_character",
+        "characterId": 21,
+        "seq": 4880
+      }
+    ],
+    "assetbundleName": "vs_0488_01",
+    "archivePublishedAt": 1729490400000
+  },
+  {
     "id": 1030,
     "musicId": 492,
     "musicVocalType": "original_song",
@@ -26961,6 +26981,26 @@
     ],
     "assetbundleName": "vs_0492_01",
     "archivePublishedAt": 1723773600000
+  },
+  {
+    "id": 1031,
+    "musicId": 493,
+    "musicVocalType": "original_song",
+    "seq": 101,
+    "releaseConditionId": 5,
+    "caption": "バーチャル・シンガーver.",
+    "characters": [
+      {
+        "id": 1864,
+        "musicId": 493,
+        "musicVocalId": 1031,
+        "characterType": "outside_character",
+        "characterId": 1,
+        "seq": 4930
+      }
+    ],
+    "assetbundleName": "vs_0493_01",
+    "archivePublishedAt": 1729477800000
   },
   {
     "id": 1032,
@@ -28173,6 +28213,26 @@
     ],
     "assetbundleName": "vs_0543_01",
     "archivePublishedAt": 1728540000000
+  },
+  {
+    "id": 1102,
+    "musicId": 545,
+    "musicVocalType": "original_song",
+    "seq": 101,
+    "releaseConditionId": 5,
+    "caption": "バーチャル・シンガーver.",
+    "characters": [
+      {
+        "id": 1970,
+        "musicId": 545,
+        "musicVocalId": 1102,
+        "characterType": "game_character",
+        "characterId": 22,
+        "seq": 5450
+      }
+    ],
+    "assetbundleName": "vs_0545_01",
+    "archivePublishedAt": 1730095200000
   },
   {
     "id": 1106,
@@ -33478,5 +33538,45 @@
     ],
     "assetbundleName": "se_0530_01",
     "archivePublishedAt": 1728972000000
+  },
+  {
+    "id": 1520,
+    "musicId": 138,
+    "musicVocalType": "another_vocal",
+    "seq": 326,
+    "releaseConditionId": 9,
+    "caption": "アナザーボーカルver.",
+    "characters": [
+      {
+        "id": 2794,
+        "musicId": 138,
+        "musicVocalId": 1520,
+        "characterType": "game_character",
+        "characterId": 26,
+        "seq": 1385
+      }
+    ],
+    "assetbundleName": "an_0138_03",
+    "archivePublishedAt": 1729477800000
+  },
+  {
+    "id": 1521,
+    "musicId": 180,
+    "musicVocalType": "another_vocal",
+    "seq": 324,
+    "releaseConditionId": 9,
+    "caption": "アナザーボーカルver.",
+    "characters": [
+      {
+        "id": 2795,
+        "musicId": 180,
+        "musicVocalId": 1521,
+        "characterType": "game_character",
+        "characterId": 24,
+        "seq": 1808
+      }
+    ],
+    "assetbundleName": "an_0180_03",
+    "archivePublishedAt": 1729477800000
   }
 ]
