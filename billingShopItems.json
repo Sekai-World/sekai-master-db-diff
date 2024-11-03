@@ -841,8 +841,8 @@
     "assetbundleName": "shop_62_v2",
     "resourceBoxId": 152,
     "bonusResourceBoxId": 39,
-    "startAt": 1714489200000,
-    "endAt": 1727708399000
+    "startAt": 1730386800000,
+    "endAt": 4097141999000
   },
   {
     "id": 56,
@@ -6664,6 +6664,85 @@
     "assetbundleName": "shop_300660",
     "resourceBoxId": 329,
     "startAt": 1727708400000,
+    "purchaseOption": "exchange"
+  },
+  {
+    "id": 300670,
+    "seq": 300670,
+    "billingShopItemType": "costume_3d",
+    "saleType": "bundle",
+    "name": "「ゴージャス」衣装全カラー",
+    "billableLimitType": "count",
+    "billableLimitValue": 1,
+    "billableLimitResetIntervalType": "none",
+    "resourceBoxId": 336,
+    "startAt": 1730386800000,
+    "purchaseOption": "exchange"
+  },
+  {
+    "id": 300671,
+    "seq": 300671,
+    "billingShopItemType": "costume_3d",
+    "saleType": "single",
+    "name": "「ゴージャス」衣装オリジナルカラー",
+    "billableLimitType": "count",
+    "billableLimitValue": 1,
+    "billableLimitResetIntervalType": "none",
+    "resourceBoxId": 337,
+    "startAt": 1730386800000,
+    "purchaseOption": "exchange"
+  },
+  {
+    "id": 300672,
+    "seq": 300672,
+    "billingShopItemType": "costume_3d",
+    "saleType": "single",
+    "name": "「ゴージャス」衣装アナザーカラー1",
+    "billableLimitType": "count",
+    "billableLimitValue": 1,
+    "billableLimitResetIntervalType": "none",
+    "resourceBoxId": 338,
+    "startAt": 1730386800000,
+    "purchaseOption": "exchange"
+  },
+  {
+    "id": 300673,
+    "seq": 300673,
+    "billingShopItemType": "costume_3d",
+    "saleType": "single",
+    "name": "「ゴージャス」衣装アナザーカラー2",
+    "billableLimitType": "count",
+    "billableLimitValue": 1,
+    "billableLimitResetIntervalType": "none",
+    "resourceBoxId": 339,
+    "startAt": 1730386800000,
+    "purchaseOption": "exchange"
+  },
+  {
+    "id": 300674,
+    "seq": 300674,
+    "billingShopItemType": "costume_3d",
+    "saleType": "single",
+    "name": "「ゴージャス」衣装アナザーカラー3",
+    "billableLimitType": "count",
+    "billableLimitValue": 1,
+    "billableLimitResetIntervalType": "none",
+    "resourceBoxId": 340,
+    "startAt": 1730386800000,
+    "purchaseOption": "exchange"
+  },
+  {
+    "id": 300680,
+    "seq": 300680,
+    "billingShopItemType": "costume_3d",
+    "saleType": "bundle",
+    "name": "「2023ハロウィン」衣装",
+    "billableLimitType": "count",
+    "billableLimitValue": 1,
+    "billableLimitResetIntervalType": "none",
+    "assetbundleName": "shop_300680",
+    "resourceBoxId": 341,
+    "startAt": 1730386800000,
     "purchaseOption": "exchange"
   }
 ]

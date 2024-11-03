@@ -1,38 +1,5 @@
 [
   {
-    "homeBannerId": 1058,
-    "seq": 30,
-    "homeBannerType": "general",
-    "name": "[ガチャ]セレクトリストガチャ LIMITED EDITION",
-    "assetbundleName": "banner_gacha588",
-    "transitionDestinationType": "gacha",
-    "transitionDestinationId": 588,
-    "startAt": 1727622000000,
-    "endAt": 1730343600000
-  },
-  {
-    "homeBannerId": 1059,
-    "seq": 40,
-    "homeBannerType": "general",
-    "name": "[ガチャ]メモリアルセレクトガチャ",
-    "assetbundleName": "banner_gacha589",
-    "transitionDestinationType": "gacha",
-    "transitionDestinationId": 589,
-    "startAt": 1727622000000,
-    "endAt": 1730343600000
-  },
-  {
-    "homeBannerId": 1060,
-    "seq": 50,
-    "homeBannerType": "general",
-    "name": "[ガチャ]ガチャ_プレプレガチャ全体バナー",
-    "assetbundleName": "banner_gacha_tab32",
-    "transitionDestinationType": "gacha_tab_parent",
-    "transitionDestinationId": 67,
-    "startAt": 1727622000000,
-    "endAt": 1730343600000
-  },
-  {
     "homeBannerId": 1061,
     "seq": 200,
     "homeBannerType": "general",
@@ -44,36 +11,36 @@
     "endAt": 1732935600000
   },
   {
-    "homeBannerId": 1075,
-    "seq": 60,
-    "homeBannerType": "general",
-    "name": "[4周年記念]ハピネスパッケージガチャ",
-    "assetbundleName": "banner_gacha599",
-    "transitionDestinationType": "gacha",
-    "transitionDestinationId": 599,
-    "startAt": 1728788400000,
-    "endAt": 1730343600000
-  },
-  {
-    "homeBannerId": 1078,
+    "homeBannerId": 1088,
     "seq": 110,
     "homeBannerType": "event",
-    "name": "[イベント]ビビバス箱イベ_イベントバナー",
-    "assetbundleName": "event_rekindle_2024",
+    "name": "[イベント]レオニ箱イベ_イベントバナー",
+    "assetbundleName": "event_enjoymusic_2024",
     "transitionDestinationType": "event",
-    "transitionDestinationId": 146,
-    "startAt": 1729490400000,
-    "endAt": 1730354400000
+    "transitionDestinationId": 147,
+    "startAt": 1730354400000,
+    "endAt": 1731218400000
   },
   {
-    "homeBannerId": 1080,
+    "homeBannerId": 1090,
     "seq": 100,
     "homeBannerType": "general",
-    "name": "[ガチャ]ビビバス箱イベ_ガチャバナー",
-    "assetbundleName": "banner_gacha603",
+    "name": "[ガチャ]レオニ箱イベ_ガチャバナー",
+    "assetbundleName": "banner_gacha609",
     "transitionDestinationType": "gacha",
-    "transitionDestinationId": 603,
-    "startAt": 1729479600000,
-    "endAt": 1730343600000
+    "transitionDestinationId": 609,
+    "startAt": 1730343600000,
+    "endAt": 1731207600000
+  },
+  {
+    "homeBannerId": 1093,
+    "seq": 130,
+    "homeBannerType": "general",
+    "name": "[MEIKO]HAPPY ANNIVERSARYライブ",
+    "assetbundleName": "banner_virtuallive335",
+    "transitionDestinationType": "virtual_live",
+    "transitionDestinationId": 335,
+    "startAt": 1730613600000,
+    "endAt": 1730732400000
   }
 ]
