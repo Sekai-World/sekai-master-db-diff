@@ -1860,6 +1860,14 @@
     "value": "原曲動画を視聴するため、外部サイトに移動します。\nよろしいですか？"
   },
   {
+    "wordingKey": "MSG_MUSIC_SAVE_CAPACITY_DESCRIPTION",
+    "value": "端末に保存する楽曲のボーカルver.データ数を\n減らすことで容量を削減できます。\n設定した上限を超えた楽曲のボーカルver.データは古い順に削除され、\nプレイ時に再ダウンロードされます。"
+  },
+  {
+    "wordingKey": "MSG_MUSIC_SAVE_NUM_SETTING_CONFIRM",
+    "value": "楽曲のボーカルver.データ数の上限を以下で設定します。\nよろしいですか？"
+  },
+  {
     "wordingKey": "MSG_MUSIC_SHOP_PURCHASE",
     "value": "{0}を{1}個消費して楽曲と交換しますか？"
   },
@@ -1877,7 +1885,7 @@
   },
   {
     "wordingKey": "MSG_MV_SAVE_SIZE_SETTING_CONFIRM",
-    "value": "MVデータ数の上限を以下の通り設定しますか？"
+    "value": "MVデータ数の上限を以下で設定します。\nよろしいですか？"
   },
   {
     "wordingKey": "MSG_MV_SAVE_SIZE_SETTING_EXPLANATION",
@@ -7204,6 +7212,10 @@
     "value": "楽曲情報"
   },
   {
+    "wordingKey": "WORD_MUSIC_DATA_SAVE_CAPACITY",
+    "value": "ボーカルver.データ"
+  },
+  {
     "wordingKey": "WORD_MUSIC_DECIDE",
     "value": "楽曲決定"
   },
@@ -7238,6 +7250,22 @@
   {
     "wordingKey": "WORD_MUSIC_REWARD",
     "value": "楽曲報酬"
+  },
+  {
+    "wordingKey": "WORD_MUSIC_SAVE_ALL",
+    "value": "すべて保存"
+  },
+  {
+    "wordingKey": "WORD_MUSIC_SAVE_NONE",
+    "value": "保存しない"
+  },
+  {
+    "wordingKey": "WORD_MUSIC_SAVE_NUM_CAPTION",
+    "value": "ボーカルver."
+  },
+  {
+    "wordingKey": "WORD_MUSIC_SAVE_NUM_FORMAT",
+    "value": "{0}曲"
   },
   {
     "wordingKey": "WORD_MUSIC_SELECT",
