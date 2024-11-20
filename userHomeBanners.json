@@ -11,8 +11,8 @@
     "endAt": 1732935600000
   },
   {
-    "homeBannerId": 1095,
-    "seq": 110,
+    "homeBannerId": 1096,
+    "seq": 180,
     "homeBannerType": "event",
     "name": "[イベント]シャッフルイベ_イベントバナー",
     "assetbundleName": "event_foliage_2024",
@@ -20,17 +20,6 @@
     "transitionDestinationId": 148,
     "startAt": 1731218400000,
     "endAt": 1732082400000
-  },
-  {
-    "homeBannerId": 1097,
-    "seq": 100,
-    "homeBannerType": "general",
-    "name": "[ガチャ]シャッフルイベ_ガチャバナー",
-    "assetbundleName": "banner_gacha615",
-    "transitionDestinationType": "gacha",
-    "transitionDestinationId": 615,
-    "startAt": 1731207600000,
-    "endAt": 1732071600000
   },
   {
     "homeBannerId": 1099,
@@ -53,5 +42,16 @@
     "transitionDestinationId": 617,
     "startAt": 1731380400000,
     "endAt": 1732158000000
+  },
+  {
+    "homeBannerId": 1104,
+    "seq": 100,
+    "homeBannerType": "general",
+    "name": "[ガチャ]ワンダショ箱イベ_ガチャバナー",
+    "assetbundleName": "banner_gacha622",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 622,
+    "startAt": 1732071600000,
+    "endAt": 1732935600000
   }
 ]
