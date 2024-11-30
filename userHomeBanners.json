@@ -1,18 +1,7 @@
 [
   {
-    "homeBannerId": 1061,
-    "seq": 200,
-    "homeBannerType": "general",
-    "name": "[ガチャ]ガチャ_無料10連ガチャバナー",
-    "assetbundleName": "banner_gacha590",
-    "transitionDestinationType": "gacha",
-    "transitionDestinationId": 590,
-    "startAt": 1727665200000,
-    "endAt": 1732935600000
-  },
-  {
     "homeBannerId": 1103,
-    "seq": 110,
+    "seq": 180,
     "homeBannerType": "event",
     "name": "[イベント]ワンダショ箱イベ_イベントバナー",
     "assetbundleName": "event_regret_2024",
@@ -22,19 +11,8 @@
     "endAt": 1732946400000
   },
   {
-    "homeBannerId": 1104,
-    "seq": 100,
-    "homeBannerType": "general",
-    "name": "[ガチャ]ワンダショ箱イベ_ガチャバナー",
-    "assetbundleName": "banner_gacha622",
-    "transitionDestinationType": "gacha",
-    "transitionDestinationId": 622,
-    "startAt": 1732071600000,
-    "endAt": 1732935600000
-  },
-  {
     "homeBannerId": 1105,
-    "seq": 90,
+    "seq": 160,
     "homeBannerType": "general",
     "name": "[ガチャ]セレクトリストガチャ",
     "assetbundleName": "banner_gacha623",
@@ -42,5 +20,16 @@
     "transitionDestinationId": 623,
     "startAt": 1732590000000,
     "endAt": 1733281200000
+  },
+  {
+    "homeBannerId": 1110,
+    "seq": 100,
+    "homeBannerType": "general",
+    "name": "[ガチャ]ニーゴ箱イベ_ガチャバナー",
+    "assetbundleName": "banner_gacha624",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 624,
+    "startAt": 1732935600000,
+    "endAt": 1733886000000
   }
 ]
