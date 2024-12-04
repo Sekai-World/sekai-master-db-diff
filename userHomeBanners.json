@@ -1,16 +1,5 @@
 [
   {
-    "homeBannerId": 1105,
-    "seq": 160,
-    "homeBannerType": "general",
-    "name": "[ガチャ]セレクトリストガチャ",
-    "assetbundleName": "banner_gacha623",
-    "transitionDestinationType": "gacha",
-    "transitionDestinationId": 623,
-    "startAt": 1732590000000,
-    "endAt": 1733281200000
-  },
-  {
     "homeBannerId": 1108,
     "seq": 110,
     "homeBannerType": "event",
@@ -31,5 +20,16 @@
     "transitionDestinationId": 624,
     "startAt": 1732935600000,
     "endAt": 1733886000000
+  },
+  {
+    "homeBannerId": 1113,
+    "seq": 130,
+    "homeBannerType": "general",
+    "name": "[日野森雫]HAPPY BIRTHDAYライブ",
+    "assetbundleName": "banner_virtuallive340",
+    "transitionDestinationType": "virtual_live",
+    "transitionDestinationId": 340,
+    "startAt": 1733292000000,
+    "endAt": 1733410800000
   }
 ]
