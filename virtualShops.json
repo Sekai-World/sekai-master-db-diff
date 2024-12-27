@@ -7209,5 +7209,59 @@
       }
     ],
     "virtualShopType": "event"
+  },
+  {
+    "id": 303,
+    "seq": 303,
+    "name": "第153回イベント物販",
+    "virtualShopItems": [
+      {
+        "id": 488,
+        "virtualShopId": 303,
+        "virtualShopItemType": "penlight",
+        "seq": 99900,
+        "resourceBoxId": 384,
+        "costPaidJewel": 1000,
+        "startAt": 1735624800000
+      }
+    ],
+    "virtualShopType": "event"
+  },
+  {
+    "id": 304,
+    "seq": 304,
+    "name": "カウントダウンライブ\/ハッピーニューイヤーライブ",
+    "virtualShopItems": [
+      {
+        "id": 489,
+        "virtualShopId": 304,
+        "virtualShopItemType": "coordinate",
+        "seq": 99816,
+        "resourceBoxId": 385,
+        "costPaidJewel": 1000,
+        "startAt": 1735624800000
+      }
+    ],
+    "virtualShopType": "special_live"
+  },
+  {
+    "id": 305,
+    "seq": 305,
+    "name": "2025甘酒ショップ",
+    "virtualShopItems": [
+      {
+        "id": 490,
+        "virtualShopId": 305,
+        "virtualShopItemType": "boost_item",
+        "seq": 299999,
+        "resourceBoxId": 147,
+        "costVirtualCoin": 0,
+        "costJewel": 0,
+        "startAt": 1735624800000,
+        "endAt": 1736575199000,
+        "limitValue": 1
+      }
+    ],
+    "virtualShopType": "other"
   }
 ]
