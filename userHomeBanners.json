@@ -11,14 +11,46 @@
     "endAt": 1735624800000
   },
   {
-    "homeBannerId": 1126,
-    "seq": 170,
+    "homeBannerId": 1134,
+    "seq": 50,
     "homeBannerType": "general",
-    "name": "[ガチャ]シャッフルイベ_ガチャバナー",
-    "assetbundleName": "banner_gacha634",
+    "name": "[2025新春]ブルームフェスティバルガチャ",
+    "assetbundleName": "banner_gacha643",
     "transitionDestinationType": "gacha",
-    "transitionDestinationId": 634,
-    "startAt": 1734750000000,
-    "endAt": 1735614000000
+    "transitionDestinationId": 643,
+    "startAt": 1735614000000,
+    "endAt": 1735959599000
+  },
+  {
+    "homeBannerId": 1139,
+    "seq": 80,
+    "homeBannerType": "general",
+    "name": "[2025新春]プレミアムプレゼントガチャ",
+    "assetbundleName": "banner_gacha644",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 644,
+    "startAt": 1735614000000,
+    "endAt": 1736564399000
+  },
+  {
+    "homeBannerId": 1140,
+    "seq": 200,
+    "homeBannerType": "general",
+    "name": "[ガチャ][2025新春]お正月無料ガチャ",
+    "assetbundleName": "banner_gacha647",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 647,
+    "startAt": 1735614000000,
+    "endAt": 1735930799000
+  },
+  {
+    "homeBannerId": 1141,
+    "seq": 160,
+    "homeBannerType": "general",
+    "name": "お正月ショップ2025",
+    "assetbundleName": "banner_shop_newyear2025",
+    "transitionDestinationType": "billing_shop_for_jewel",
+    "startAt": 1735614000000,
+    "endAt": 1736564399000
   }
 ]
