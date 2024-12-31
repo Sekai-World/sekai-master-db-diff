@@ -1,16 +1,5 @@
 [
   {
-    "homeBannerId": 1124,
-    "seq": 180,
-    "homeBannerType": "event",
-    "name": "[イベント]シャッフルイベ_イベントバナー",
-    "assetbundleName": "event_specialpresent_2024",
-    "transitionDestinationType": "event",
-    "transitionDestinationId": 152,
-    "startAt": 1734760800000,
-    "endAt": 1735624800000
-  },
-  {
     "homeBannerId": 1134,
     "seq": 50,
     "homeBannerType": "general",
@@ -20,6 +9,17 @@
     "transitionDestinationId": 643,
     "startAt": 1735614000000,
     "endAt": 1735959599000
+  },
+  {
+    "homeBannerId": 1137,
+    "seq": 100,
+    "homeBannerType": "event",
+    "name": "[イベント]シャッフルモノノ怪イベ_イベントバナー",
+    "assetbundleName": "event_unfading_2024",
+    "transitionDestinationType": "event",
+    "transitionDestinationId": 153,
+    "startAt": 1735624800000,
+    "endAt": 1736575200000
   },
   {
     "homeBannerId": 1139,
@@ -52,5 +52,60 @@
     "transitionDestinationType": "billing_shop_for_jewel",
     "startAt": 1735614000000,
     "endAt": 1736564399000
+  },
+  {
+    "homeBannerId": 1142,
+    "seq": 180,
+    "homeBannerType": "general",
+    "name": "カウントダウン2025ライブ",
+    "assetbundleName": "banner_virtuallive346",
+    "transitionDestinationType": "virtual_live",
+    "transitionDestinationId": 346,
+    "startAt": 1735624800000,
+    "endAt": 1735829999000
+  },
+  {
+    "homeBannerId": 1143,
+    "seq": 190,
+    "homeBannerType": "general",
+    "name": "ハッピーニューイヤー2025ライブ",
+    "assetbundleName": "banner_virtuallive347",
+    "transitionDestinationType": "virtual_live",
+    "transitionDestinationId": 347,
+    "startAt": 1735624800000,
+    "endAt": 1735916399000
+  },
+  {
+    "homeBannerId": 1144,
+    "seq": 170,
+    "homeBannerType": "general",
+    "name": "セカイ神社訴求用バナー",
+    "assetbundleName": "banner_sekai_jinja_2025",
+    "transitionDestinationType": "virtual_live",
+    "transitionDestinationId": 346,
+    "startAt": 1735624800000,
+    "endAt": 1736575199000
+  },
+  {
+    "homeBannerId": 1145,
+    "seq": 150,
+    "homeBannerType": "general",
+    "name": "[2025新春]運試し1\/2セレクトリストガチャ",
+    "assetbundleName": "banner_gacha645",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 645,
+    "startAt": 1735657200000,
+    "endAt": 1736564399000
+  },
+  {
+    "homeBannerId": 1146,
+    "seq": 140,
+    "homeBannerType": "general",
+    "name": "[2025新春]初夢お年玉ガチャ",
+    "assetbundleName": "banner_gacha646",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 646,
+    "startAt": 1735657200000,
+    "endAt": 1735916399000
   }
 ]
