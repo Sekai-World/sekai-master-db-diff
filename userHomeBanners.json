@@ -1,7 +1,7 @@
 [
   {
-    "homeBannerId": 1135,
-    "seq": 110,
+    "homeBannerId": 1136,
+    "seq": 180,
     "homeBannerType": "general",
     "name": "[ガチャ]シャッフル東雲姉弟イベ_ガチャバナー",
     "assetbundleName": "banner_gacha648",
@@ -11,8 +11,8 @@
     "endAt": 1736564399000
   },
   {
-    "homeBannerId": 1137,
-    "seq": 100,
+    "homeBannerId": 1138,
+    "seq": 170,
     "homeBannerType": "event",
     "name": "[イベント]シャッフルモノノ怪イベ_イベントバナー",
     "assetbundleName": "event_unfading_2024",
@@ -63,5 +63,25 @@
     "transitionDestinationId": 645,
     "startAt": 1735657200000,
     "endAt": 1736564399000
+  },
+  {
+    "homeBannerId": 1156,
+    "seq": 60,
+    "homeBannerType": "general",
+    "name": "ワールドパスバナー",
+    "assetbundleName": "banner_worldpass_2025_01",
+    "transitionDestinationType": "billing_shop_for_jewel",
+    "startAt": 1736476200000,
+    "endAt": 1738335600000
+  },
+  {
+    "homeBannerId": 1158,
+    "seq": 70,
+    "homeBannerType": "general",
+    "name": "マイセカイミッションパスバナー",
+    "assetbundleName": "banner_mysekaimissionpass_2025_01",
+    "transitionDestinationType": "billing_shop_for_jewel",
+    "startAt": 1736476200000,
+    "endAt": 1738335600000
   }
 ]
