@@ -1,0 +1,757 @@
+[
+  {
+    "id": 1,
+    "seq": 1,
+    "mysekaiMaterialType": "wood",
+    "name": "想いの木材",
+    "pronunciation": "おもいのもくざい",
+    "description": "あなたの想いでできたらしい木材のようなもの。\n木を切ると獲得できる。",
+    "mysekaiMaterialRarityType": "rarity_1",
+    "iconAssetbundleName": "item_wood_1",
+    "modelAssetbundleName": "mdl_site_wood_common_logdrop01",
+    "mysekaiSiteIds": [
+      5,
+      7,
+      6
+    ]
+  },
+  {
+    "id": 2,
+    "seq": 2,
+    "mysekaiMaterialType": "wood",
+    "name": "おもたい木材",
+    "pronunciation": "おもたいもくざい",
+    "description": "非常に固く、多少の重さでは折れない木材。\n広葉樹を切ると獲得できる。",
+    "mysekaiMaterialRarityType": "rarity_1",
+    "iconAssetbundleName": "item_wood_2",
+    "modelAssetbundleName": "mdl_site_wood_common_logdrop03",
+    "mysekaiSiteIds": [
+      5
+    ]
+  },
+  {
+    "id": 3,
+    "seq": 3,
+    "mysekaiMaterialType": "wood",
+    "name": "かるい木材",
+    "pronunciation": "かるいもくざい",
+    "description": "柔らかく加工がしやすい木材。\n紙の材料にも最適。\n針葉樹を切ると獲得できる。",
+    "mysekaiMaterialRarityType": "rarity_1",
+    "iconAssetbundleName": "item_wood_3",
+    "modelAssetbundleName": "mdl_site_wood_common_logdrop02",
+    "mysekaiSiteIds": [
+      7
+    ]
+  },
+  {
+    "id": 4,
+    "seq": 4,
+    "mysekaiMaterialType": "wood",
+    "name": "ベタベタの樹液",
+    "pronunciation": "べたべたのじゅえき",
+    "description": "ベタベタしていて固まりやすい樹液。\nゴムの代わりに使える。\n熱帯樹を切ると獲得できる。",
+    "mysekaiMaterialRarityType": "rarity_1",
+    "iconAssetbundleName": "item_wood_4",
+    "modelAssetbundleName": "mdl_site_glassball_common_glassballdrop01",
+    "mysekaiSiteIds": [
+      6
+    ]
+  },
+  {
+    "id": 5,
+    "seq": 5,
+    "mysekaiMaterialType": "wood",
+    "name": "夕桐",
+    "pronunciation": "ゆうぎり",
+    "description": "貴重な高級木材。\n夕方に稀に見かける夕桐の木を切ると獲得できる。",
+    "mysekaiMaterialRarityType": "rarity_2",
+    "iconAssetbundleName": "item_wood_5",
+    "modelAssetbundleName": "mdl_site_wood_common_logdrop04",
+    "mysekaiSiteIds": [
+      5,
+      7,
+      6
+    ]
+  },
+  {
+    "id": 6,
+    "seq": 101,
+    "mysekaiMaterialType": "mineral",
+    "name": "想いの石ころ",
+    "pronunciation": "おもいのいしころ",
+    "description": "どこにでもある石ころに見えるが、あなたの想いでできたものなのである。\n岩を叩くと獲得できる。",
+    "mysekaiMaterialRarityType": "rarity_1",
+    "iconAssetbundleName": "item_mineral_1",
+    "modelAssetbundleName": "mdl_site_rock_common_stonedrop01",
+    "mysekaiSiteIds": [
+      5,
+      7,
+      6,
+      8
+    ]
+  },
+  {
+    "id": 7,
+    "seq": 102,
+    "mysekaiMaterialType": "mineral",
+    "name": "銅",
+    "pronunciation": "どう",
+    "description": "電気を通す鉱石。\n銅鉱石を叩くと獲得できる。",
+    "mysekaiMaterialRarityType": "rarity_1",
+    "iconAssetbundleName": "item_mineral_2",
+    "modelAssetbundleName": "mdl_site_rock_common_stonedrop02",
+    "mysekaiSiteIds": [
+      5,
+      8
+    ]
+  },
+  {
+    "id": 8,
+    "seq": 103,
+    "mysekaiMaterialType": "mineral",
+    "name": "鉄",
+    "pronunciation": "てつ",
+    "description": "とても頑丈な鉱石。\n鉄鉱石を叩くと獲得できる。",
+    "mysekaiMaterialRarityType": "rarity_1",
+    "iconAssetbundleName": "item_mineral_3",
+    "modelAssetbundleName": "mdl_site_rock_common_stonedrop03",
+    "mysekaiSiteIds": [
+      7,
+      8
+    ]
+  },
+  {
+    "id": 9,
+    "seq": 104,
+    "mysekaiMaterialType": "mineral",
+    "name": "粘土",
+    "pronunciation": "ねんど",
+    "description": "色々なものに使える粘土。\n岩を叩くと獲得できる。",
+    "mysekaiMaterialRarityType": "rarity_1",
+    "iconAssetbundleName": "item_mineral_4",
+    "modelAssetbundleName": "mdl_site_rock_common_claydrop01",
+    "mysekaiSiteIds": [
+      5,
+      7,
+      8
+    ]
+  },
+  {
+    "id": 10,
+    "seq": 105,
+    "mysekaiMaterialType": "mineral",
+    "name": "きれいなガラス",
+    "pronunciation": "きれいながらす",
+    "description": "透き通ったガラス。\nガラス石を叩くと獲得できる。",
+    "mysekaiMaterialRarityType": "rarity_1",
+    "iconAssetbundleName": "item_mineral_5",
+    "modelAssetbundleName": "mdl_site_rock_common_stonedrop04",
+    "mysekaiSiteIds": [
+      6,
+      8
+    ]
+  },
+  {
+    "id": 11,
+    "seq": 106,
+    "mysekaiMaterialType": "mineral",
+    "name": "きらきらクォーツ",
+    "pronunciation": "きらきらくぉーつ",
+    "description": "神秘的な佇まいの天然水晶。\n水晶石を叩くと獲得できる。\n夜の日に見つけやすい。",
+    "mysekaiMaterialRarityType": "rarity_2",
+    "iconAssetbundleName": "item_mineral_6",
+    "modelAssetbundleName": "mdl_site_rock_common_stonedrop05",
+    "mysekaiSiteIds": [
+      5,
+      7,
+      6,
+      8
+    ]
+  },
+  {
+    "id": 12,
+    "seq": 107,
+    "mysekaiMaterialType": "mineral",
+    "name": "ダイヤモンド",
+    "pronunciation": "だいやもんど",
+    "description": "虜になる輝きを放つ貴重な宝石。\n鉱石を叩くと非常に低い確率で獲得できる。",
+    "mysekaiMaterialRarityType": "rarity_3",
+    "iconAssetbundleName": "item_mineral_7",
+    "modelAssetbundleName": "mdl_site_glassball_common_glassballdrop03",
+    "mysekaiSiteIds": [
+      5,
+      7,
+      6,
+      8
+    ]
+  },
+  {
+    "id": 13,
+    "seq": 201,
+    "mysekaiMaterialType": "junk",
+    "name": "ねじ",
+    "pronunciation": "ねじ",
+    "description": "あらゆる家電に使われる部品。\n工具箱を開くと獲得できる。",
+    "mysekaiMaterialRarityType": "rarity_1",
+    "iconAssetbundleName": "item_junk_1",
+    "modelAssetbundleName": "mdl_site_glassball_common_glassballdrop01",
+    "mysekaiSiteIds": [
+      5,
+      6,
+      8
+    ]
+  },
+  {
+    "id": 14,
+    "seq": 202,
+    "mysekaiMaterialType": "junk",
+    "name": "釘",
+    "pronunciation": "くぎ",
+    "description": "家具の接合にはこれ。\n工具箱を開くと獲得できる。",
+    "mysekaiMaterialRarityType": "rarity_1",
+    "iconAssetbundleName": "item_junk_2",
+    "modelAssetbundleName": "mdl_site_glassball_common_glassballdrop01",
+    "mysekaiSiteIds": [
+      5,
+      6,
+      8
+    ]
+  },
+  {
+    "id": 15,
+    "seq": 203,
+    "mysekaiMaterialType": "junk",
+    "name": "プラスチック",
+    "pronunciation": "ぷらすちっく",
+    "description": "形を変えやすく、水も弾く万能素材。\n工具箱を開くと獲得できる。",
+    "mysekaiMaterialRarityType": "rarity_1",
+    "iconAssetbundleName": "item_junk_3",
+    "modelAssetbundleName": "mdl_site_glassball_common_glassballdrop01",
+    "mysekaiSiteIds": [
+      5,
+      6,
+      8
+    ]
+  },
+  {
+    "id": 16,
+    "seq": 204,
+    "mysekaiMaterialType": "junk",
+    "name": "モーター",
+    "pronunciation": "もーたー",
+    "description": "あらゆるものを電気で動かす心臓部。\n工具箱を開くと獲得できる。",
+    "mysekaiMaterialRarityType": "rarity_1",
+    "iconAssetbundleName": "item_junk_4",
+    "modelAssetbundleName": "mdl_site_glassball_common_glassballdrop01",
+    "mysekaiSiteIds": [
+      5,
+      6,
+      8
+    ]
+  },
+  {
+    "id": 17,
+    "seq": 205,
+    "mysekaiMaterialType": "junk",
+    "name": "電池",
+    "pronunciation": "でんち",
+    "description": "電気製品には必需品。\n工具箱を開くと獲得できる。",
+    "mysekaiMaterialRarityType": "rarity_1",
+    "iconAssetbundleName": "item_junk_5",
+    "modelAssetbundleName": "mdl_site_glassball_common_glassballdrop01",
+    "mysekaiSiteIds": [
+      5,
+      6,
+      8
+    ]
+  },
+  {
+    "id": 18,
+    "seq": 206,
+    "mysekaiMaterialType": "junk",
+    "name": "ライト",
+    "pronunciation": "らいと",
+    "description": "電気を通すと発光するパーツ。\n工具箱を開くと獲得できる。",
+    "mysekaiMaterialRarityType": "rarity_1",
+    "iconAssetbundleName": "item_junk_6",
+    "modelAssetbundleName": "mdl_site_glassball_common_glassballdrop01",
+    "mysekaiSiteIds": [
+      5,
+      6,
+      8
+    ]
+  },
+  {
+    "id": 19,
+    "seq": 207,
+    "mysekaiMaterialType": "junk",
+    "name": "電子基板",
+    "pronunciation": "でんしきばん",
+    "description": "複雑な電子制御を行う基盤。\n工具箱を開くと獲得できる。",
+    "mysekaiMaterialRarityType": "rarity_1",
+    "iconAssetbundleName": "item_junk_7",
+    "modelAssetbundleName": "mdl_site_glassball_common_glassballdrop01",
+    "mysekaiSiteIds": [
+      5,
+      6,
+      8
+    ]
+  },
+  {
+    "id": 20,
+    "seq": 301,
+    "mysekaiMaterialType": "plant",
+    "name": "四葉のクローバー",
+    "pronunciation": "よつばのくろーばー",
+    "description": "見つけると幸せを運んでくれる。\n植物を摘むとごく稀に獲得できる。\n雨の日に見つけやすい。",
+    "mysekaiMaterialRarityType": "rarity_3",
+    "iconAssetbundleName": "item_plant_1",
+    "modelAssetbundleName": "mdl_site_glassball_common_glassballdrop03",
+    "mysekaiSiteIds": [
+      5,
+      7
+    ]
+  },
+  {
+    "id": 21,
+    "seq": 302,
+    "mysekaiMaterialType": "plant",
+    "name": "さらさらリネン",
+    "pronunciation": "さらさらりねん",
+    "description": "布の原料。肌触りは滑らか。\n植物を摘むと獲得できる。",
+    "mysekaiMaterialRarityType": "rarity_1",
+    "iconAssetbundleName": "item_plant_2",
+    "modelAssetbundleName": "mdl_site_glassball_common_glassballdrop01",
+    "mysekaiSiteIds": [
+      7
+    ]
+  },
+  {
+    "id": 22,
+    "seq": 303,
+    "mysekaiMaterialType": "plant",
+    "name": "ふわふわコットン",
+    "pronunciation": "ふわふわこっとん",
+    "description": "ふかふかの綿。日向に干すと効果倍増。\n植物を摘むと獲得できる。",
+    "mysekaiMaterialRarityType": "rarity_1",
+    "iconAssetbundleName": "item_plant_3",
+    "modelAssetbundleName": "mdl_site_glassball_common_glassballdrop01",
+    "mysekaiSiteIds": [
+      5
+    ]
+  },
+  {
+    "id": 23,
+    "seq": 304,
+    "mysekaiMaterialType": "plant",
+    "name": "花びら",
+    "pronunciation": "はなびら",
+    "description": "色々な花の花弁。生活の彩りにぜひ。\n花を摘むと獲得できる。",
+    "mysekaiMaterialRarityType": "rarity_1",
+    "iconAssetbundleName": "item_plant_4",
+    "modelAssetbundleName": "mdl_site_glassball_common_glassballdrop01",
+    "mysekaiSiteIds": [
+      7
+    ]
+  },
+  {
+    "id": 24,
+    "seq": 401,
+    "mysekaiMaterialType": "tone",
+    "name": "まっさらな音色",
+    "pronunciation": "まっさらなねいろ",
+    "description": "なにものにも染まっていない音色。\n忘れ去られた場所で耳を澄ますと獲得できる。\nヘンカンマシンで様々な素材にヘンカンできる。",
+    "mysekaiMaterialRarityType": "rarity_1",
+    "iconAssetbundleName": "item_tone_8",
+    "modelAssetbundleName": "mdl_site_tone_common_tonedrop08",
+    "mysekaiSiteIds": [
+      8
+    ]
+  },
+  {
+    "id": 32,
+    "seq": 501,
+    "mysekaiMaterialType": "junk",
+    "name": "あおぞらシーグラス",
+    "pronunciation": "あおぞらしーぐらす",
+    "description": "太陽の光を存分に蓄えたガラス。\n夏日に落ちていることがある。",
+    "mysekaiMaterialRarityType": "rarity_2",
+    "iconAssetbundleName": "item_junk_8",
+    "modelAssetbundleName": "mdl_site_glassball_common_glassballdrop02",
+    "mysekaiPhenomenaGroupId": 4,
+    "mysekaiSiteIds": [
+      5,
+      7,
+      6,
+      8
+    ]
+  },
+  {
+    "id": 33,
+    "seq": 502,
+    "mysekaiMaterialType": "mineral",
+    "name": "月光石",
+    "pronunciation": "げっこうせき",
+    "description": "月光のように美しく輝く神秘的な石。\n満月の夜に落ちていることがある。",
+    "mysekaiMaterialRarityType": "rarity_2",
+    "iconAssetbundleName": "item_mineral_8",
+    "modelAssetbundleName": "mdl_site_glassball_common_glassballdrop02",
+    "mysekaiPhenomenaGroupId": 5,
+    "mysekaiSiteIds": [
+      5,
+      7,
+      6,
+      8
+    ]
+  },
+  {
+    "id": 34,
+    "seq": 503,
+    "mysekaiMaterialType": "junk",
+    "name": "流れ星のかけら",
+    "pronunciation": "ながれぼしのかけら",
+    "description": "流れ星から剥がれ落ちたロマンティックなかけら。\n流星群の夜に落ちていることがある。",
+    "mysekaiMaterialRarityType": "rarity_2",
+    "iconAssetbundleName": "item_junk_9",
+    "modelAssetbundleName": "mdl_site_glassball_common_glassballdrop02",
+    "mysekaiPhenomenaGroupId": 9,
+    "mysekaiSiteIds": [
+      5,
+      7,
+      6,
+      8
+    ]
+  },
+  {
+    "id": 35,
+    "seq": 601,
+    "mysekaiMaterialType": "game_character",
+    "name": "スカイブルーメモリア",
+    "pronunciation": "すかいぶるーめもりあ",
+    "description": "星乃 一歌との思い出のかけら。\n特定の家具の作成に使うことができる。",
+    "mysekaiMaterialRarityType": "rarity_4",
+    "iconAssetbundleName": "item_memoria_1",
+    "mysekaiSiteIds": []
+  },
+  {
+    "id": 36,
+    "seq": 602,
+    "mysekaiMaterialType": "game_character",
+    "name": "パッションイエローメモリア",
+    "pronunciation": "ぱっしょんいえろーめもりあ",
+    "description": "天馬 咲希との思い出のかけら。\n特定の家具の作成に使うことができる。",
+    "mysekaiMaterialRarityType": "rarity_4",
+    "iconAssetbundleName": "item_memoria_2",
+    "mysekaiSiteIds": []
+  },
+  {
+    "id": 37,
+    "seq": 603,
+    "mysekaiMaterialType": "game_character",
+    "name": "ポピーレッドメモリア",
+    "pronunciation": "ぽぴーれっどめもりあ",
+    "description": "望月 穂波との思い出のかけら。\n特定の家具の作成に使うことができる。",
+    "mysekaiMaterialRarityType": "rarity_4",
+    "iconAssetbundleName": "item_memoria_3",
+    "mysekaiSiteIds": []
+  },
+  {
+    "id": 38,
+    "seq": 604,
+    "mysekaiMaterialType": "game_character",
+    "name": "イエローグリーンメモリア",
+    "pronunciation": "いえろーぐりーんめもりあ",
+    "description": "日野森 志歩との思い出のかけら。\n特定の家具の作成に使うことができる。",
+    "mysekaiMaterialRarityType": "rarity_4",
+    "iconAssetbundleName": "item_memoria_4",
+    "mysekaiSiteIds": []
+  },
+  {
+    "id": 39,
+    "seq": 605,
+    "mysekaiMaterialType": "game_character",
+    "name": "アプリコットメモリア",
+    "pronunciation": "あぷりこっとめもりあ",
+    "description": "花里 みのりとの思い出のかけら。\n特定の家具の作成に使うことができる。",
+    "mysekaiMaterialRarityType": "rarity_4",
+    "iconAssetbundleName": "item_memoria_5",
+    "mysekaiSiteIds": []
+  },
+  {
+    "id": 40,
+    "seq": 606,
+    "mysekaiMaterialType": "game_character",
+    "name": "ストリクトブルーメモリア",
+    "pronunciation": "すとりくとぶるーめもりあ",
+    "description": "桐谷 遥との思い出のかけら。\n特定の家具の作成に使うことができる。",
+    "mysekaiMaterialRarityType": "rarity_4",
+    "iconAssetbundleName": "item_memoria_6",
+    "mysekaiSiteIds": []
+  },
+  {
+    "id": 41,
+    "seq": 607,
+    "mysekaiMaterialType": "game_character",
+    "name": "ラブリーピンクメモリア",
+    "pronunciation": "らぶりーぴんくめもりあ",
+    "description": "桃井 愛莉との思い出のかけら。\n特定の家具の作成に使うことができる。",
+    "mysekaiMaterialRarityType": "rarity_4",
+    "iconAssetbundleName": "item_memoria_7",
+    "mysekaiSiteIds": []
+  },
+  {
+    "id": 42,
+    "seq": 608,
+    "mysekaiMaterialType": "game_character",
+    "name": "オパールグリーンメモリア",
+    "pronunciation": "おぱーるぐりーんめもりあ",
+    "description": "日野森 雫との思い出のかけら。\n特定の家具の作成に使うことができる。",
+    "mysekaiMaterialRarityType": "rarity_4",
+    "iconAssetbundleName": "item_memoria_8",
+    "mysekaiSiteIds": []
+  },
+  {
+    "id": 43,
+    "seq": 609,
+    "mysekaiMaterialType": "game_character",
+    "name": "スリーズメモリア",
+    "pronunciation": "すりーずめもりあ",
+    "description": "小豆沢 こはねとの思い出のかけら。\n特定の家具の作成に使うことができる。",
+    "mysekaiMaterialRarityType": "rarity_4",
+    "iconAssetbundleName": "item_memoria_9",
+    "mysekaiSiteIds": []
+  },
+  {
+    "id": 44,
+    "seq": 610,
+    "mysekaiMaterialType": "game_character",
+    "name": "ターコイズブルーメモリア",
+    "pronunciation": "たーこいずぶるーめもりあ",
+    "description": "白石 杏との思い出のかけら。\n特定の家具の作成に使うことができる。",
+    "mysekaiMaterialRarityType": "rarity_4",
+    "iconAssetbundleName": "item_memoria_10",
+    "mysekaiSiteIds": []
+  },
+  {
+    "id": 45,
+    "seq": 611,
+    "mysekaiMaterialType": "game_character",
+    "name": "ジョリーコーラルメモリア",
+    "pronunciation": "じょりーこーらるめもりあ",
+    "description": "東雲 彰人との思い出のかけら。\n特定の家具の作成に使うことができる。",
+    "mysekaiMaterialRarityType": "rarity_4",
+    "iconAssetbundleName": "item_memoria_11",
+    "mysekaiSiteIds": []
+  },
+  {
+    "id": 46,
+    "seq": 612,
+    "mysekaiMaterialType": "game_character",
+    "name": "ロイヤルブルーメモリア",
+    "pronunciation": "ろいやるぶるーめもりあ",
+    "description": "青柳 冬弥との思い出のかけら。\n特定の家具の作成に使うことができる。",
+    "mysekaiMaterialRarityType": "rarity_4",
+    "iconAssetbundleName": "item_memoria_12",
+    "mysekaiSiteIds": []
+  },
+  {
+    "id": 47,
+    "seq": 613,
+    "mysekaiMaterialType": "game_character",
+    "name": "サンフラワーメモリア",
+    "pronunciation": "さんふらわーめもりあ",
+    "description": "天馬 司との思い出のかけら。\n特定の家具の作成に使うことができる。",
+    "mysekaiMaterialRarityType": "rarity_4",
+    "iconAssetbundleName": "item_memoria_13",
+    "mysekaiSiteIds": []
+  },
+  {
+    "id": 48,
+    "seq": 614,
+    "mysekaiMaterialType": "game_character",
+    "name": "ポカポカピンクメモリア",
+    "pronunciation": "ぽかぽかぴんくめもりあ",
+    "description": "鳳 えむとの思い出のかけら。\n特定の家具の作成に使うことができる。",
+    "mysekaiMaterialRarityType": "rarity_4",
+    "iconAssetbundleName": "item_memoria_14",
+    "mysekaiSiteIds": []
+  },
+  {
+    "id": 49,
+    "seq": 615,
+    "mysekaiMaterialType": "game_character",
+    "name": "スプリンググリーンメモリア",
+    "pronunciation": "すぷりんぐぐりーんめもりあ",
+    "description": "草薙 寧々との思い出のかけら。\n特定の家具の作成に使うことができる。",
+    "mysekaiMaterialRarityType": "rarity_4",
+    "iconAssetbundleName": "item_memoria_15",
+    "mysekaiSiteIds": []
+  },
+  {
+    "id": 50,
+    "seq": 616,
+    "mysekaiMaterialType": "game_character",
+    "name": "カンパヌラパープルメモリア",
+    "pronunciation": "かんぱぬらぱーぷるめもりあ",
+    "description": "神代 類との思い出のかけら。\n特定の家具の作成に使うことができる。",
+    "mysekaiMaterialRarityType": "rarity_4",
+    "iconAssetbundleName": "item_memoria_16",
+    "mysekaiSiteIds": []
+  },
+  {
+    "id": 51,
+    "seq": 617,
+    "mysekaiMaterialType": "game_character",
+    "name": "ファリダメモリア",
+    "pronunciation": "ふぁりだめもりあ",
+    "description": "宵崎 奏との思い出のかけら。\n特定の家具の作成に使うことができる。",
+    "mysekaiMaterialRarityType": "rarity_4",
+    "iconAssetbundleName": "item_memoria_17",
+    "mysekaiSiteIds": []
+  },
+  {
+    "id": 52,
+    "seq": 618,
+    "mysekaiMaterialType": "game_character",
+    "name": "ウィスタリアメモリア",
+    "pronunciation": "うぃすたりあめもりあ",
+    "description": "朝比奈 まふゆとの思い出のかけら。\n特定の家具の作成に使うことができる。",
+    "mysekaiMaterialRarityType": "rarity_4",
+    "iconAssetbundleName": "item_memoria_18",
+    "mysekaiSiteIds": []
+  },
+  {
+    "id": 53,
+    "seq": 619,
+    "mysekaiMaterialType": "game_character",
+    "name": "キャメルメモリア",
+    "pronunciation": "きゃらめるめもりあ",
+    "description": "東雲 絵名との思い出のかけら。\n特定の家具の作成に使うことができる。",
+    "mysekaiMaterialRarityType": "rarity_4",
+    "iconAssetbundleName": "item_memoria_19",
+    "mysekaiSiteIds": []
+  },
+  {
+    "id": 54,
+    "seq": 620,
+    "mysekaiMaterialType": "game_character",
+    "name": "シッスルメモリア",
+    "pronunciation": "しっするめもりあ",
+    "description": "暁山 瑞希との思い出のかけら。\n特定の家具の作成に使うことができる。",
+    "mysekaiMaterialRarityType": "rarity_4",
+    "iconAssetbundleName": "item_memoria_20",
+    "mysekaiSiteIds": []
+  },
+  {
+    "id": 55,
+    "seq": 621,
+    "mysekaiMaterialType": "game_character",
+    "name": "ブルーグリーンメモリア",
+    "pronunciation": "ぶるーぐりーんめもりあ",
+    "description": "初音ミクとの思い出のかけら。\n特定の家具の作成に使うことができる。",
+    "mysekaiMaterialRarityType": "rarity_4",
+    "iconAssetbundleName": "item_memoria_21",
+    "mysekaiSiteIds": []
+  },
+  {
+    "id": 56,
+    "seq": 622,
+    "mysekaiMaterialType": "game_character",
+    "name": "オレンジメモリア",
+    "pronunciation": "おれんじめもりあ",
+    "description": "鏡音リンとの思い出のかけら。\n特定の家具の作成に使うことができる。",
+    "mysekaiMaterialRarityType": "rarity_4",
+    "iconAssetbundleName": "item_memoria_22",
+    "mysekaiSiteIds": []
+  },
+  {
+    "id": 57,
+    "seq": 623,
+    "mysekaiMaterialType": "game_character",
+    "name": "イエローメモリア",
+    "pronunciation": "いえろーめもりあ",
+    "description": "鏡音レンとの思い出のかけら。\n特定の家具の作成に使うことができる。",
+    "mysekaiMaterialRarityType": "rarity_4",
+    "iconAssetbundleName": "item_memoria_23",
+    "mysekaiSiteIds": []
+  },
+  {
+    "id": 58,
+    "seq": 624,
+    "mysekaiMaterialType": "game_character",
+    "name": "ピンクメモリア",
+    "pronunciation": "ぴんくめもりあ",
+    "description": "巡音ルカとの思い出のかけら。\n特定の家具の作成に使うことができる。",
+    "mysekaiMaterialRarityType": "rarity_4",
+    "iconAssetbundleName": "item_memoria_24",
+    "mysekaiSiteIds": []
+  },
+  {
+    "id": 59,
+    "seq": 625,
+    "mysekaiMaterialType": "game_character",
+    "name": "レッドメモリア",
+    "pronunciation": "れっどめもりあ",
+    "description": "MEIKOとの思い出のかけら。\n特定の家具の作成に使うことができる。",
+    "mysekaiMaterialRarityType": "rarity_4",
+    "iconAssetbundleName": "item_memoria_25",
+    "mysekaiSiteIds": []
+  },
+  {
+    "id": 60,
+    "seq": 626,
+    "mysekaiMaterialType": "game_character",
+    "name": "ブルーメモリア",
+    "pronunciation": "ぶるーめもりあ",
+    "description": "KAITOとの思い出のかけら。\n特定の家具の作成に使うことができる。",
+    "mysekaiMaterialRarityType": "rarity_4",
+    "iconAssetbundleName": "item_memoria_26",
+    "mysekaiSiteIds": []
+  },
+  {
+    "id": 61,
+    "seq": 504,
+    "mysekaiMaterialType": "junk",
+    "name": "雪の結晶",
+    "pronunciation": "ゆきのけっしょう",
+    "description": "降り落ちた雪が溶けずに固まった結晶。\n雪の日に落ちていることがある。",
+    "mysekaiMaterialRarityType": "rarity_2",
+    "iconAssetbundleName": "item_junk_10",
+    "modelAssetbundleName": "mdl_site_glassball_common_glassballdrop02",
+    "mysekaiPhenomenaGroupId": 9,
+    "mysekaiSiteIds": [
+      5,
+      7,
+      6,
+      8
+    ]
+  },
+  {
+    "id": 62,
+    "seq": 701,
+    "mysekaiMaterialType": "junk",
+    "name": "最高のオノの刃",
+    "pronunciation": "さいこうのおののは",
+    "description": "最高のオノを作るのに必要。",
+    "mysekaiMaterialRarityType": "rarity_2",
+    "iconAssetbundleName": "item_junk_11",
+    "modelAssetbundleName": "mdl_site_glassball_common_glassballdrop02",
+    "mysekaiSiteIds": [
+      8
+    ]
+  },
+  {
+    "id": 63,
+    "seq": 702,
+    "mysekaiMaterialType": "junk",
+    "name": "最高のツルハシの先端",
+    "pronunciation": "さいこうのつるはしのせんたん",
+    "description": "最高のツルハシを作るのに必要。",
+    "mysekaiMaterialRarityType": "rarity_2",
+    "iconAssetbundleName": "item_junk_12",
+    "modelAssetbundleName": "mdl_site_glassball_common_glassballdrop02",
+    "mysekaiSiteIds": [
+      8
+    ]
+  }
+]

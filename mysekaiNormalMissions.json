@@ -1,0 +1,2083 @@
+[
+  {
+    "id": 100,
+    "mysekaiNormalMissionSheetId": 1,
+    "seq": 1,
+    "sentence": "マイセカイを歩いて材料を探そう！",
+    "mysekaiNormalMissionType": "complete_sheet",
+    "mysekaiNormalMissionCategory": "complete",
+    "requirement1": 2
+  },
+  {
+    "id": 101,
+    "mysekaiNormalMissionSheetId": 1,
+    "seq": 2,
+    "sentence": "木を切って『想いの木材』を10個集めよう",
+    "mysekaiNormalMissionType": "gather_specific_mysekai_material",
+    "mysekaiNormalMissionCategory": "normal",
+    "requirement1": 10,
+    "conditionValue1": 1
+  },
+  {
+    "id": 102,
+    "mysekaiNormalMissionSheetId": 1,
+    "seq": 3,
+    "sentence": "植物から『ふわふわコットン』を3個集めよう",
+    "mysekaiNormalMissionType": "gather_specific_mysekai_material",
+    "mysekaiNormalMissionCategory": "normal",
+    "requirement1": 3,
+    "conditionValue1": 22
+  },
+  {
+    "id": 200,
+    "mysekaiNormalMissionSheetId": 2,
+    "seq": 1,
+    "sentence": "はじめての家具をつくろう！",
+    "mysekaiNormalMissionType": "complete_sheet",
+    "mysekaiNormalMissionCategory": "complete",
+    "requirement1": 4
+  },
+  {
+    "id": 201,
+    "mysekaiNormalMissionSheetId": 2,
+    "seq": 2,
+    "sentence": "『ナチュラルなベッド』を1個つくろう",
+    "mysekaiNormalMissionType": "create_specific_mysekai_fixture",
+    "mysekaiNormalMissionCategory": "normal",
+    "requirement1": 1,
+    "conditionValue1": 141
+  },
+  {
+    "id": 202,
+    "mysekaiNormalMissionSheetId": 2,
+    "seq": 3,
+    "sentence": "『ナチュラルなチェスト』を1個つくろう",
+    "mysekaiNormalMissionType": "create_specific_mysekai_fixture",
+    "mysekaiNormalMissionCategory": "normal",
+    "requirement1": 1,
+    "conditionValue1": 140
+  },
+  {
+    "id": 203,
+    "mysekaiNormalMissionSheetId": 2,
+    "seq": 4,
+    "sentence": "つくった『ナチュラルなベッド』を家の中に置こう",
+    "mysekaiNormalMissionType": "put_specific_mysekai_fixture_specific_mysekai_site",
+    "mysekaiNormalMissionCategory": "normal",
+    "requirement1": 1,
+    "conditionValue1": 141,
+    "conditionValue2": 2
+  },
+  {
+    "id": 204,
+    "mysekaiNormalMissionSheetId": 2,
+    "seq": 5,
+    "sentence": "つくった『ナチュラルなチェスト』を家の中に置こう",
+    "mysekaiNormalMissionType": "put_specific_mysekai_fixture_specific_mysekai_site",
+    "mysekaiNormalMissionCategory": "normal",
+    "requirement1": 1,
+    "conditionValue1": 140,
+    "conditionValue2": 2
+  },
+  {
+    "id": 300,
+    "mysekaiNormalMissionSheetId": 3,
+    "seq": 1,
+    "sentence": "みんなで遊べる庭をつくろう！",
+    "mysekaiNormalMissionType": "complete_sheet",
+    "mysekaiNormalMissionCategory": "complete",
+    "requirement1": 3
+  },
+  {
+    "id": 301,
+    "mysekaiNormalMissionSheetId": 3,
+    "seq": 2,
+    "sentence": "『公園のタイヤ』を2個つくろう",
+    "mysekaiNormalMissionType": "create_specific_mysekai_fixture",
+    "mysekaiNormalMissionCategory": "normal",
+    "requirement1": 2,
+    "conditionValue1": 193
+  },
+  {
+    "id": 302,
+    "mysekaiNormalMissionSheetId": 3,
+    "seq": 4,
+    "sentence": "つくった家具を庭に置こう",
+    "mysekaiNormalMissionType": "put_mysekai_fixture_specific_tag_specific_mysekai_site",
+    "mysekaiNormalMissionCategory": "normal",
+    "requirement1": 3,
+    "conditionValue1": 33,
+    "conditionValue2": 1
+  },
+  {
+    "id": 303,
+    "mysekaiNormalMissionSheetId": 3,
+    "seq": 3,
+    "sentence": "『公園のベンチ』を1個つくろう",
+    "mysekaiNormalMissionType": "create_specific_mysekai_fixture",
+    "mysekaiNormalMissionCategory": "normal",
+    "requirement1": 1,
+    "conditionValue1": 189
+  },
+  {
+    "id": 400,
+    "mysekaiNormalMissionSheetId": 4,
+    "seq": 1,
+    "sentence": "ゲートを『誰もいないセカイとのゲート』に変更しよう！",
+    "mysekaiNormalMissionType": "complete_sheet",
+    "mysekaiNormalMissionCategory": "complete",
+    "requirement1": 1
+  },
+  {
+    "id": 401,
+    "mysekaiNormalMissionSheetId": 4,
+    "seq": 2,
+    "sentence": "ゲートに近づいて『誰もいないセカイとのゲート』に変更しよう",
+    "mysekaiNormalMissionType": "change_specific_mysekai_gate",
+    "mysekaiNormalMissionCategory": "normal",
+    "requirement1": 1,
+    "conditionValue1": 5
+  },
+  {
+    "id": 500,
+    "mysekaiNormalMissionSheetId": 5,
+    "seq": 1,
+    "sentence": "家の中を素敵に飾り付けよう！",
+    "mysekaiNormalMissionType": "complete_sheet",
+    "mysekaiNormalMissionCategory": "complete",
+    "requirement1": 4
+  },
+  {
+    "id": 501,
+    "mysekaiNormalMissionSheetId": 5,
+    "seq": 2,
+    "sentence": "壁に掛ける『フレンチスタイルの壁掛け時計』を1個つくろう",
+    "mysekaiNormalMissionType": "create_specific_mysekai_fixture",
+    "mysekaiNormalMissionCategory": "normal",
+    "requirement1": 1,
+    "conditionValue1": 278
+  },
+  {
+    "id": 502,
+    "mysekaiNormalMissionSheetId": 5,
+    "seq": 3,
+    "sentence": "小物の『エケベリア』を1個つくろう",
+    "mysekaiNormalMissionType": "create_specific_mysekai_fixture",
+    "mysekaiNormalMissionCategory": "normal",
+    "requirement1": 1,
+    "conditionValue1": 317
+  },
+  {
+    "id": 503,
+    "mysekaiNormalMissionSheetId": 5,
+    "seq": 4,
+    "sentence": "つくった家具を家の中の壁に掛けてみよう",
+    "mysekaiNormalMissionType": "put_specific_mysekai_fixture_specific_mysekai_site",
+    "mysekaiNormalMissionCategory": "normal",
+    "requirement1": 1,
+    "conditionValue1": 278,
+    "conditionValue2": 2
+  },
+  {
+    "id": 504,
+    "mysekaiNormalMissionSheetId": 5,
+    "seq": 5,
+    "sentence": "つくった小物を家の中のどこかに置いてみよう",
+    "mysekaiNormalMissionType": "put_specific_mysekai_fixture_specific_mysekai_site",
+    "mysekaiNormalMissionCategory": "normal",
+    "requirement1": 1,
+    "conditionValue1": 317,
+    "conditionValue2": 2
+  },
+  {
+    "id": 600,
+    "mysekaiNormalMissionSheetId": 6,
+    "seq": 1,
+    "sentence": "ゲートを『ステージのセカイとのゲート』に変更しよう！",
+    "mysekaiNormalMissionType": "complete_sheet",
+    "mysekaiNormalMissionCategory": "complete",
+    "requirement1": 1
+  },
+  {
+    "id": 601,
+    "mysekaiNormalMissionSheetId": 6,
+    "seq": 2,
+    "sentence": "ゲートに近づいて『ステージのセカイとのゲート』に変更しよう",
+    "mysekaiNormalMissionType": "change_specific_mysekai_gate",
+    "mysekaiNormalMissionCategory": "normal",
+    "requirement1": 1,
+    "conditionValue1": 2
+  },
+  {
+    "id": 700,
+    "mysekaiNormalMissionSheetId": 7,
+    "seq": 1,
+    "sentence": "お庭を整備して柵と道を置いてみよう！",
+    "mysekaiNormalMissionType": "complete_sheet",
+    "mysekaiNormalMissionCategory": "complete",
+    "requirement1": 9
+  },
+  {
+    "id": 701,
+    "mysekaiNormalMissionSheetId": 7,
+    "seq": 2,
+    "sentence": "彩りの花畑で『花びら』を5個集めよう",
+    "mysekaiNormalMissionType": "gather_specific_mysekai_material",
+    "mysekaiNormalMissionCategory": "normal",
+    "requirement1": 5,
+    "conditionValue1": 23
+  },
+  {
+    "id": 702,
+    "mysekaiNormalMissionSheetId": 7,
+    "seq": 5,
+    "sentence": "『土の道』を14個つくろう",
+    "mysekaiNormalMissionType": "create_specific_mysekai_fixture",
+    "mysekaiNormalMissionCategory": "normal",
+    "requirement1": 14,
+    "conditionValue1": 111
+  },
+  {
+    "id": 703,
+    "mysekaiNormalMissionSheetId": 7,
+    "seq": 6,
+    "sentence": "『シンプルな木の柵』を8個つくろう",
+    "mysekaiNormalMissionType": "create_specific_mysekai_fixture",
+    "mysekaiNormalMissionCategory": "normal",
+    "requirement1": 8,
+    "conditionValue1": 114
+  },
+  {
+    "id": 704,
+    "mysekaiNormalMissionSheetId": 7,
+    "seq": 7,
+    "sentence": "『ガーデンの素朴な花壇』を2個つくろう",
+    "mysekaiNormalMissionType": "create_specific_mysekai_fixture",
+    "mysekaiNormalMissionCategory": "normal",
+    "requirement1": 2,
+    "conditionValue1": 175
+  },
+  {
+    "id": 705,
+    "mysekaiNormalMissionSheetId": 7,
+    "seq": 8,
+    "sentence": "『土の道』を14個置こう",
+    "mysekaiNormalMissionType": "put_specific_mysekai_fixture_specific_mysekai_site",
+    "mysekaiNormalMissionCategory": "normal",
+    "requirement1": 14,
+    "conditionValue1": 111,
+    "conditionValue2": 1
+  },
+  {
+    "id": 706,
+    "mysekaiNormalMissionSheetId": 7,
+    "seq": 9,
+    "sentence": "『シンプルな木の柵』を8個置こう",
+    "mysekaiNormalMissionType": "put_specific_mysekai_fixture_specific_mysekai_site",
+    "mysekaiNormalMissionCategory": "normal",
+    "requirement1": 8,
+    "conditionValue1": 114,
+    "conditionValue2": 1
+  },
+  {
+    "id": 707,
+    "mysekaiNormalMissionSheetId": 7,
+    "seq": 10,
+    "sentence": "『ガーデンの素朴な花壇』を庭に2個置こう",
+    "mysekaiNormalMissionType": "put_specific_mysekai_fixture_specific_mysekai_site",
+    "mysekaiNormalMissionCategory": "normal",
+    "requirement1": 2,
+    "conditionValue1": 175,
+    "conditionValue2": 1
+  },
+  {
+    "id": 708,
+    "mysekaiNormalMissionSheetId": 7,
+    "seq": 3,
+    "sentence": "さいしょの原っぱで『釘』を3個集めよう",
+    "mysekaiNormalMissionType": "gather_specific_mysekai_material",
+    "mysekaiNormalMissionCategory": "normal",
+    "requirement1": 3,
+    "conditionValue1": 14
+  },
+  {
+    "id": 709,
+    "mysekaiNormalMissionSheetId": 7,
+    "seq": 4,
+    "sentence": "さいしょの原っぱか彩りの花畑で『想いの石ころ』を10個集めよう",
+    "mysekaiNormalMissionType": "gather_specific_mysekai_material",
+    "mysekaiNormalMissionCategory": "normal",
+    "requirement1": 10,
+    "conditionValue1": 6
+  },
+  {
+    "id": 800,
+    "mysekaiNormalMissionSheetId": 8,
+    "seq": 1,
+    "sentence": "ゲートを『ストリートのセカイとのゲート』に変更しよう！",
+    "mysekaiNormalMissionType": "complete_sheet",
+    "mysekaiNormalMissionCategory": "complete",
+    "requirement1": 1
+  },
+  {
+    "id": 801,
+    "mysekaiNormalMissionSheetId": 8,
+    "seq": 2,
+    "sentence": "ゲートに近づいて『ストリートのセカイとのゲート』に変更しよう",
+    "mysekaiNormalMissionType": "change_specific_mysekai_gate",
+    "mysekaiNormalMissionCategory": "normal",
+    "requirement1": 1,
+    "conditionValue1": 3
+  },
+  {
+    "id": 900,
+    "mysekaiNormalMissionSheetId": 9,
+    "seq": 1,
+    "sentence": "マイセカイのBGMを変えてみよう！",
+    "mysekaiNormalMissionType": "complete_sheet",
+    "mysekaiNormalMissionCategory": "complete",
+    "requirement1": 5
+  },
+  {
+    "id": 901,
+    "mysekaiNormalMissionSheetId": 9,
+    "seq": 4,
+    "sentence": "『レコードプレーヤー』をつくろう",
+    "mysekaiNormalMissionType": "create_specific_mysekai_fixture",
+    "mysekaiNormalMissionCategory": "normal",
+    "requirement1": 1,
+    "conditionValue1": 102
+  },
+  {
+    "id": 902,
+    "mysekaiNormalMissionSheetId": 9,
+    "seq": 5,
+    "sentence": "『レコードプレーヤー』を庭に置こう",
+    "mysekaiNormalMissionType": "put_specific_mysekai_fixture_specific_mysekai_site",
+    "mysekaiNormalMissionCategory": "normal",
+    "requirement1": 1,
+    "conditionValue1": 102,
+    "conditionValue2": 1
+  },
+  {
+    "id": 903,
+    "mysekaiNormalMissionSheetId": 9,
+    "seq": 2,
+    "sentence": "さいしょの原っぱに行ってレコードを1個手に入れよう",
+    "mysekaiNormalMissionType": "collect_any_mysekai_music_record",
+    "mysekaiNormalMissionCategory": "normal",
+    "requirement1": 1
+  },
+  {
+    "id": 904,
+    "mysekaiNormalMissionSheetId": 9,
+    "seq": 6,
+    "sentence": "『レコードプレーヤー』に触ってマイセカイのBGMを変更しよう",
+    "mysekaiNormalMissionType": "set_mysekai_record",
+    "mysekaiNormalMissionCategory": "normal",
+    "requirement1": 1
+  },
+  {
+    "id": 905,
+    "mysekaiNormalMissionSheetId": 9,
+    "seq": 3,
+    "sentence": "さいしょの原っぱで『プラスチック』を1個集めよう",
+    "mysekaiNormalMissionType": "gather_specific_mysekai_material",
+    "mysekaiNormalMissionCategory": "normal",
+    "requirement1": 1,
+    "conditionValue1": 15
+  },
+  {
+    "id": 1000,
+    "mysekaiNormalMissionSheetId": 10,
+    "seq": 1,
+    "sentence": "ゲートを『教室のセカイとのゲート』に変更しよう！",
+    "mysekaiNormalMissionType": "complete_sheet",
+    "mysekaiNormalMissionCategory": "complete",
+    "requirement1": 1
+  },
+  {
+    "id": 1001,
+    "mysekaiNormalMissionSheetId": 10,
+    "seq": 2,
+    "sentence": "ゲートに近づいて『教室のセカイとのゲート』に変更しよう",
+    "mysekaiNormalMissionType": "change_specific_mysekai_gate",
+    "mysekaiNormalMissionCategory": "normal",
+    "requirement1": 1,
+    "conditionValue1": 1
+  },
+  {
+    "id": 1100,
+    "mysekaiNormalMissionSheetId": 11,
+    "seq": 1,
+    "sentence": "天体観測をしよう！",
+    "mysekaiNormalMissionType": "complete_sheet",
+    "mysekaiNormalMissionCategory": "complete",
+    "requirement1": 3
+  },
+  {
+    "id": 1101,
+    "mysekaiNormalMissionSheetId": 11,
+    "seq": 2,
+    "sentence": "さいしょの原っぱか彩りの花畑に行って『流れ星のかけら』を1個拾おう",
+    "mysekaiNormalMissionType": "gather_specific_mysekai_material",
+    "mysekaiNormalMissionCategory": "normal",
+    "requirement1": 1,
+    "conditionValue1": 34
+  },
+  {
+    "id": 1102,
+    "mysekaiNormalMissionSheetId": 11,
+    "seq": 3,
+    "sentence": "『天文学者の研究室の天体望遠鏡』をつくろう",
+    "mysekaiNormalMissionType": "create_specific_mysekai_fixture",
+    "mysekaiNormalMissionCategory": "normal",
+    "requirement1": 1,
+    "conditionValue1": 333
+  },
+  {
+    "id": 1103,
+    "mysekaiNormalMissionSheetId": 11,
+    "seq": 4,
+    "sentence": "『天文学者の研究室の天体望遠鏡』を庭に置こう",
+    "mysekaiNormalMissionType": "put_specific_mysekai_fixture_specific_mysekai_site",
+    "mysekaiNormalMissionCategory": "normal",
+    "requirement1": 1,
+    "conditionValue1": 333,
+    "conditionValue2": 1
+  },
+  {
+    "id": 1200,
+    "mysekaiNormalMissionSheetId": 12,
+    "seq": 1,
+    "sentence": "あなただけのセカイをつくっていこう！",
+    "mysekaiNormalMissionType": "complete_sheet",
+    "mysekaiNormalMissionCategory": "complete",
+    "requirement1": 6
+  },
+  {
+    "id": 1201,
+    "mysekaiNormalMissionSheetId": 12,
+    "seq": 2,
+    "sentence": "木材系の素材を10個集めよう",
+    "mysekaiNormalMissionType": "gather_mysekai_material_specific_type",
+    "mysekaiNormalMissionCategory": "normal",
+    "requirement1": 10,
+    "conditionValue1": 1
+  },
+  {
+    "id": 1202,
+    "mysekaiNormalMissionSheetId": 12,
+    "seq": 3,
+    "sentence": "岩系の素材を10個集めよう",
+    "mysekaiNormalMissionType": "gather_mysekai_material_specific_type",
+    "mysekaiNormalMissionCategory": "normal",
+    "requirement1": 10,
+    "conditionValue1": 2
+  },
+  {
+    "id": 1203,
+    "mysekaiNormalMissionSheetId": 12,
+    "seq": 4,
+    "sentence": "植物系の素材を5個集めよう",
+    "mysekaiNormalMissionType": "gather_mysekai_material_specific_type",
+    "mysekaiNormalMissionCategory": "normal",
+    "requirement1": 5,
+    "conditionValue1": 3
+  },
+  {
+    "id": 1204,
+    "mysekaiNormalMissionSheetId": 12,
+    "seq": 5,
+    "sentence": "工具系の素材を5個集めよう",
+    "mysekaiNormalMissionType": "gather_mysekai_material_specific_mysekai_mission_mysekai_material_group",
+    "mysekaiNormalMissionCategory": "normal",
+    "requirement1": 5,
+    "conditionValue1": 1
+  },
+  {
+    "id": 1205,
+    "mysekaiNormalMissionSheetId": 12,
+    "seq": 6,
+    "sentence": "好きな家具を3個つくろう",
+    "mysekaiNormalMissionType": "create_any_mysekai_fixture",
+    "mysekaiNormalMissionCategory": "normal",
+    "requirement1": 3
+  },
+  {
+    "id": 1206,
+    "mysekaiNormalMissionSheetId": 12,
+    "seq": 7,
+    "sentence": "屋外でレイアウトから「天気」を変更してみよう",
+    "mysekaiNormalMissionType": "set_any_mysekai_phenomena_at_home_site",
+    "mysekaiNormalMissionCategory": "normal",
+    "requirement1": 1
+  },
+  {
+    "id": 1300,
+    "mysekaiNormalMissionSheetId": 13,
+    "seq": 1,
+    "sentence": "他の人のセカイにお出かけしてみよう！",
+    "mysekaiNormalMissionType": "complete_sheet",
+    "mysekaiNormalMissionCategory": "complete",
+    "requirement1": 1
+  },
+  {
+    "id": 1301,
+    "mysekaiNormalMissionSheetId": 13,
+    "seq": 2,
+    "sentence": "ゲートに近づいて「お出かけ」から誰かのセカイに行こう",
+    "mysekaiNormalMissionType": "visit_other_player_mysekai",
+    "mysekaiNormalMissionCategory": "normal",
+    "requirement1": 1,
+    "requirement2": 1,
+    "conditionValue1": 1
+  },
+  {
+    "id": 1400,
+    "mysekaiNormalMissionSheetId": 14,
+    "seq": 1,
+    "sentence": "ヘンカンマシンでアイテムをヘンカンしてみよう！",
+    "mysekaiNormalMissionType": "complete_sheet",
+    "mysekaiNormalMissionCategory": "complete",
+    "requirement1": 3
+  },
+  {
+    "id": 1401,
+    "mysekaiNormalMissionSheetId": 14,
+    "seq": 2,
+    "sentence": "『木のヘンカンマシン』を1個つくろう",
+    "mysekaiNormalMissionType": "create_specific_mysekai_fixture",
+    "mysekaiNormalMissionCategory": "normal",
+    "requirement1": 1,
+    "conditionValue1": 97
+  },
+  {
+    "id": 1402,
+    "mysekaiNormalMissionSheetId": 14,
+    "seq": 3,
+    "sentence": "『木のヘンカンマシン』を1個置こう",
+    "mysekaiNormalMissionType": "put_specific_mysekai_fixture",
+    "mysekaiNormalMissionCategory": "normal",
+    "requirement1": 1,
+    "conditionValue1": 97
+  },
+  {
+    "id": 1403,
+    "mysekaiNormalMissionSheetId": 14,
+    "seq": 4,
+    "sentence": "好きなアイテムをヘンカンして1個受け取ろう",
+    "mysekaiNormalMissionType": "receive_any_mysekai_convert_item",
+    "mysekaiNormalMissionCategory": "normal",
+    "requirement1": 1
+  },
+  {
+    "id": 1500,
+    "mysekaiNormalMissionSheetId": 15,
+    "seq": 1,
+    "sentence": "グッズを飾ってみよう！",
+    "mysekaiNormalMissionType": "complete_sheet",
+    "mysekaiNormalMissionCategory": "complete",
+    "requirement1": 2
+  },
+  {
+    "id": 1501,
+    "mysekaiNormalMissionSheetId": 15,
+    "seq": 2,
+    "sentence": "作業台から「ディスプレイ」を選び、なにか1個つくってみよう",
+    "mysekaiNormalMissionType": "create_mysekai_fixture_specific_mysekai_fixture_main_genre",
+    "mysekaiNormalMissionCategory": "normal",
+    "requirement1": 1,
+    "conditionValue1": 5
+  },
+  {
+    "id": 1502,
+    "mysekaiNormalMissionSheetId": 15,
+    "seq": 3,
+    "sentence": "レイアウトから「グッズ」を選び、どこかに置こう",
+    "mysekaiNormalMissionType": "put_mysekai_fixture_specific_mysekai_fixture_main_genre",
+    "mysekaiNormalMissionCategory": "normal",
+    "requirement1": 1,
+    "conditionValue1": 5
+  },
+  {
+    "id": 1600,
+    "mysekaiNormalMissionSheetId": 16,
+    "seq": 1,
+    "sentence": "誰かをキャンバスに描いてみよう！",
+    "mysekaiNormalMissionType": "complete_sheet",
+    "mysekaiNormalMissionCategory": "complete",
+    "requirement1": 2
+  },
+  {
+    "id": 1601,
+    "mysekaiNormalMissionSheetId": 16,
+    "seq": 2,
+    "sentence": "作業台から「キャンバス」を選び、誰かを描いてみよう",
+    "mysekaiNormalMissionType": "create_mysekai_fixture_specific_mysekai_fixture_main_genre",
+    "mysekaiNormalMissionCategory": "normal",
+    "requirement1": 1,
+    "conditionValue1": 6
+  },
+  {
+    "id": 1602,
+    "mysekaiNormalMissionSheetId": 16,
+    "seq": 3,
+    "sentence": "描き終わったキャンバスを、どこかに置こう",
+    "mysekaiNormalMissionType": "put_mysekai_fixture_specific_mysekai_fixture_main_genre",
+    "mysekaiNormalMissionCategory": "normal",
+    "requirement1": 1,
+    "conditionValue1": 6
+  },
+  {
+    "id": 1700,
+    "mysekaiNormalMissionSheetId": 17,
+    "seq": 1,
+    "sentence": "ひみつのショップにアクセスしてみよう！",
+    "mysekaiNormalMissionType": "complete_sheet",
+    "mysekaiNormalMissionCategory": "complete",
+    "requirement1": 2
+  },
+  {
+    "id": 1701,
+    "mysekaiNormalMissionSheetId": 17,
+    "seq": 2,
+    "sentence": "『シンプルなノートパソコン』を1個つくろう",
+    "mysekaiNormalMissionType": "create_specific_mysekai_fixture",
+    "mysekaiNormalMissionCategory": "normal",
+    "requirement1": 1,
+    "conditionValue1": 104
+  },
+  {
+    "id": 1702,
+    "mysekaiNormalMissionSheetId": 17,
+    "seq": 3,
+    "sentence": "『シンプルなノートパソコン』を1個置こう",
+    "mysekaiNormalMissionType": "put_specific_mysekai_fixture",
+    "mysekaiNormalMissionCategory": "normal",
+    "requirement1": 1,
+    "conditionValue1": 104
+  },
+  {
+    "id": 1900,
+    "mysekaiNormalMissionSheetId": 19,
+    "seq": 1,
+    "sentence": "他の人のセカイで「スケッチ」してみよう！",
+    "mysekaiNormalMissionType": "complete_sheet",
+    "mysekaiNormalMissionCategory": "complete",
+    "requirement1": 1
+  },
+  {
+    "id": 1901,
+    "mysekaiNormalMissionSheetId": 19,
+    "seq": 2,
+    "sentence": "誰かのセカイでメニューを開き、好きな家具を「スケッチ」してみよう",
+    "mysekaiNormalMissionType": "consume_specific_mysekai_item",
+    "mysekaiNormalMissionCategory": "normal",
+    "requirement1": 1,
+    "conditionValue1": 1
+  },
+  {
+    "id": 2000,
+    "mysekaiNormalMissionSheetId": 20,
+    "seq": 1,
+    "sentence": "フォトを撮って飾ってみよう！",
+    "mysekaiNormalMissionType": "complete_sheet",
+    "mysekaiNormalMissionCategory": "complete",
+    "requirement1": 3
+  },
+  {
+    "id": 2001,
+    "mysekaiNormalMissionSheetId": 20,
+    "seq": 2,
+    "sentence": "メニューから「フォト」を選び、1枚撮影してみよう",
+    "mysekaiNormalMissionType": "do_mysekai_photo_shot",
+    "mysekaiNormalMissionCategory": "normal",
+    "requirement1": 1
+  },
+  {
+    "id": 2002,
+    "mysekaiNormalMissionSheetId": 20,
+    "seq": 3,
+    "sentence": "作業台から「ディスプレイ」を選び、『フォトフレーム』を1個つくろう",
+    "mysekaiNormalMissionType": "create_specific_mysekai_fixture",
+    "mysekaiNormalMissionCategory": "normal",
+    "requirement1": 1,
+    "conditionValue1": 445
+  },
+  {
+    "id": 2003,
+    "mysekaiNormalMissionSheetId": 20,
+    "seq": 4,
+    "sentence": "レイアウトから「小物」→「フォト」を選び、撮影したフォトを飾ってみよう",
+    "mysekaiNormalMissionType": "put_specific_mysekai_fixture",
+    "mysekaiNormalMissionCategory": "normal",
+    "requirement1": 1,
+    "conditionValue1": 445
+  },
+  {
+    "id": 2100,
+    "mysekaiNormalMissionSheetId": 21,
+    "seq": 1,
+    "sentence": "次の日もマイセカイに遊びに来よう！",
+    "mysekaiNormalMissionType": "complete_sheet",
+    "mysekaiNormalMissionCategory": "complete",
+    "requirement1": 1
+  },
+  {
+    "id": 2101,
+    "mysekaiNormalMissionSheetId": 21,
+    "seq": 2,
+    "sentence": "マイセカイに2日ログインする",
+    "mysekaiNormalMissionType": "mysekai_login_total",
+    "mysekaiNormalMissionCategory": "normal",
+    "requirement1": 2,
+    "conditionValue1": 1
+  },
+  {
+    "id": 2200,
+    "mysekaiNormalMissionSheetId": 22,
+    "seq": 1,
+    "sentence": "もっと、あなただけのセカイをつくっていこう！",
+    "mysekaiNormalMissionType": "complete_sheet",
+    "mysekaiNormalMissionCategory": "complete",
+    "requirement1": 3
+  },
+  {
+    "id": 2201,
+    "mysekaiNormalMissionSheetId": 22,
+    "seq": 2,
+    "sentence": "採取エリアで素材を20個集めよう",
+    "mysekaiNormalMissionType": "gather_any_mysekai_material",
+    "mysekaiNormalMissionCategory": "normal",
+    "requirement1": 20
+  },
+  {
+    "id": 2202,
+    "mysekaiNormalMissionSheetId": 22,
+    "seq": 3,
+    "sentence": "好きな家具を3個つくろう",
+    "mysekaiNormalMissionType": "create_any_mysekai_fixture",
+    "mysekaiNormalMissionCategory": "normal",
+    "requirement1": 3
+  },
+  {
+    "id": 2203,
+    "mysekaiNormalMissionSheetId": 22,
+    "seq": 4,
+    "sentence": "「一般」の家具を1個つくろう",
+    "mysekaiNormalMissionType": "create_mysekai_fixture_specific_mysekai_fixture_main_genre",
+    "mysekaiNormalMissionCategory": "normal",
+    "requirement1": 1,
+    "conditionValue1": 2
+  },
+  {
+    "id": 2300,
+    "mysekaiNormalMissionSheetId": 23,
+    "seq": 1,
+    "sentence": "次の日もマイセカイに遊びに来よう！",
+    "mysekaiNormalMissionType": "complete_sheet",
+    "mysekaiNormalMissionCategory": "complete",
+    "requirement1": 1
+  },
+  {
+    "id": 2301,
+    "mysekaiNormalMissionSheetId": 23,
+    "seq": 2,
+    "sentence": "マイセカイに3日ログインする",
+    "mysekaiNormalMissionType": "mysekai_login_total",
+    "mysekaiNormalMissionCategory": "normal",
+    "requirement1": 3,
+    "conditionValue1": 1
+  },
+  {
+    "id": 2400,
+    "mysekaiNormalMissionSheetId": 24,
+    "seq": 1,
+    "sentence": "もっと、あなただけのセカイをつくっていこう！",
+    "mysekaiNormalMissionType": "complete_sheet",
+    "mysekaiNormalMissionCategory": "complete",
+    "requirement1": 3
+  },
+  {
+    "id": 2401,
+    "mysekaiNormalMissionSheetId": 24,
+    "seq": 2,
+    "sentence": "採取エリアで素材を30個集めよう",
+    "mysekaiNormalMissionType": "gather_any_mysekai_material",
+    "mysekaiNormalMissionCategory": "normal",
+    "requirement1": 30
+  },
+  {
+    "id": 2402,
+    "mysekaiNormalMissionSheetId": 24,
+    "seq": 3,
+    "sentence": "好きな家具を3個つくろう",
+    "mysekaiNormalMissionType": "create_any_mysekai_fixture",
+    "mysekaiNormalMissionCategory": "normal",
+    "requirement1": 3
+  },
+  {
+    "id": 2403,
+    "mysekaiNormalMissionSheetId": 24,
+    "seq": 4,
+    "sentence": "「小物」の家具を1個つくろう",
+    "mysekaiNormalMissionType": "create_mysekai_fixture_specific_mysekai_fixture_main_genre",
+    "mysekaiNormalMissionCategory": "normal",
+    "requirement1": 1,
+    "conditionValue1": 3
+  },
+  {
+    "id": 2500,
+    "mysekaiNormalMissionSheetId": 25,
+    "seq": 1,
+    "sentence": "次の日もマイセカイに遊びに来よう！",
+    "mysekaiNormalMissionType": "complete_sheet",
+    "mysekaiNormalMissionCategory": "complete",
+    "requirement1": 1
+  },
+  {
+    "id": 2501,
+    "mysekaiNormalMissionSheetId": 25,
+    "seq": 2,
+    "sentence": "マイセカイに4日ログインする",
+    "mysekaiNormalMissionType": "mysekai_login_total",
+    "mysekaiNormalMissionCategory": "normal",
+    "requirement1": 4,
+    "conditionValue1": 1
+  },
+  {
+    "id": 2600,
+    "mysekaiNormalMissionSheetId": 26,
+    "seq": 1,
+    "sentence": "もっと、あなただけのセカイをつくっていこう！",
+    "mysekaiNormalMissionType": "complete_sheet",
+    "mysekaiNormalMissionCategory": "complete",
+    "requirement1": 3
+  },
+  {
+    "id": 2601,
+    "mysekaiNormalMissionSheetId": 26,
+    "seq": 2,
+    "sentence": "採取エリアで素材を40個集めよう",
+    "mysekaiNormalMissionType": "gather_any_mysekai_material",
+    "mysekaiNormalMissionCategory": "normal",
+    "requirement1": 40
+  },
+  {
+    "id": 2602,
+    "mysekaiNormalMissionSheetId": 26,
+    "seq": 3,
+    "sentence": "好きな家具を3個つくろう",
+    "mysekaiNormalMissionType": "create_any_mysekai_fixture",
+    "mysekaiNormalMissionCategory": "normal",
+    "requirement1": 3
+  },
+  {
+    "id": 2603,
+    "mysekaiNormalMissionSheetId": 26,
+    "seq": 4,
+    "sentence": "「壁掛け」の家具を1個つくろう",
+    "mysekaiNormalMissionType": "create_mysekai_fixture_specific_mysekai_fixture_main_genre",
+    "mysekaiNormalMissionCategory": "normal",
+    "requirement1": 1,
+    "conditionValue1": 4
+  },
+  {
+    "id": 2800,
+    "mysekaiNormalMissionSheetId": 28,
+    "seq": 1,
+    "sentence": "次の日もマイセカイに遊びに来よう！",
+    "mysekaiNormalMissionType": "complete_sheet",
+    "mysekaiNormalMissionCategory": "complete",
+    "requirement1": 1
+  },
+  {
+    "id": 2801,
+    "mysekaiNormalMissionSheetId": 28,
+    "seq": 2,
+    "sentence": "マイセカイに5日ログインする",
+    "mysekaiNormalMissionType": "mysekai_login_total",
+    "mysekaiNormalMissionCategory": "normal",
+    "requirement1": 5,
+    "conditionValue1": 1
+  },
+  {
+    "id": 2900,
+    "mysekaiNormalMissionSheetId": 29,
+    "seq": 1,
+    "sentence": "もっと、あなただけのセカイをつくっていこう！",
+    "mysekaiNormalMissionType": "complete_sheet",
+    "mysekaiNormalMissionCategory": "complete",
+    "requirement1": 3
+  },
+  {
+    "id": 2901,
+    "mysekaiNormalMissionSheetId": 29,
+    "seq": 2,
+    "sentence": "採取エリアで素材を50個集めよう",
+    "mysekaiNormalMissionType": "gather_any_mysekai_material",
+    "mysekaiNormalMissionCategory": "normal",
+    "requirement1": 50
+  },
+  {
+    "id": 2902,
+    "mysekaiNormalMissionSheetId": 29,
+    "seq": 3,
+    "sentence": "好きな家具を3個つくろう",
+    "mysekaiNormalMissionType": "create_any_mysekai_fixture",
+    "mysekaiNormalMissionCategory": "normal",
+    "requirement1": 3
+  },
+  {
+    "id": 2903,
+    "mysekaiNormalMissionSheetId": 29,
+    "seq": 4,
+    "sentence": "「ディスプレイ」の家具を1個つくろう",
+    "mysekaiNormalMissionType": "create_mysekai_fixture_specific_mysekai_fixture_main_genre",
+    "mysekaiNormalMissionCategory": "normal",
+    "requirement1": 1,
+    "conditionValue1": 5
+  },
+  {
+    "id": 3000,
+    "mysekaiNormalMissionSheetId": 30,
+    "seq": 1,
+    "sentence": "次の日もマイセカイに遊びに来よう！",
+    "mysekaiNormalMissionType": "complete_sheet",
+    "mysekaiNormalMissionCategory": "complete",
+    "requirement1": 1
+  },
+  {
+    "id": 3001,
+    "mysekaiNormalMissionSheetId": 30,
+    "seq": 2,
+    "sentence": "マイセカイに6日ログインする",
+    "mysekaiNormalMissionType": "mysekai_login_total",
+    "mysekaiNormalMissionCategory": "normal",
+    "requirement1": 6,
+    "conditionValue1": 1
+  },
+  {
+    "id": 3100,
+    "mysekaiNormalMissionSheetId": 31,
+    "seq": 1,
+    "sentence": "もっと、あなただけのセカイをつくっていこう！",
+    "mysekaiNormalMissionType": "complete_sheet",
+    "mysekaiNormalMissionCategory": "complete",
+    "requirement1": 3
+  },
+  {
+    "id": 3101,
+    "mysekaiNormalMissionSheetId": 31,
+    "seq": 2,
+    "sentence": "採取エリアで素材を50個集めよう",
+    "mysekaiNormalMissionType": "gather_any_mysekai_material",
+    "mysekaiNormalMissionCategory": "normal",
+    "requirement1": 50
+  },
+  {
+    "id": 3102,
+    "mysekaiNormalMissionSheetId": 31,
+    "seq": 3,
+    "sentence": "好きな家具を3個つくろう",
+    "mysekaiNormalMissionType": "create_any_mysekai_fixture",
+    "mysekaiNormalMissionCategory": "normal",
+    "requirement1": 3
+  },
+  {
+    "id": 3103,
+    "mysekaiNormalMissionSheetId": 31,
+    "seq": 4,
+    "sentence": "「キャンバス」の家具を1個つくろう",
+    "mysekaiNormalMissionType": "create_mysekai_fixture_specific_mysekai_fixture_main_genre",
+    "mysekaiNormalMissionCategory": "normal",
+    "requirement1": 1,
+    "conditionValue1": 6
+  },
+  {
+    "id": 3200,
+    "mysekaiNormalMissionSheetId": 32,
+    "seq": 1,
+    "sentence": "新しいエリアを発見しよう！",
+    "mysekaiNormalMissionType": "complete_sheet",
+    "mysekaiNormalMissionCategory": "complete",
+    "requirement1": 1
+  },
+  {
+    "id": 3201,
+    "mysekaiNormalMissionSheetId": 32,
+    "seq": 2,
+    "sentence": "マイセカイランクを5にして「忘れ去られた場所」を解放しよう",
+    "mysekaiNormalMissionType": "reach_mysekai_rank",
+    "mysekaiNormalMissionCategory": "normal",
+    "requirement1": 5
+  },
+  {
+    "id": 3300,
+    "mysekaiNormalMissionSheetId": 33,
+    "seq": 1,
+    "sentence": "次の日もマイセカイに遊びに来よう！",
+    "mysekaiNormalMissionType": "complete_sheet",
+    "mysekaiNormalMissionCategory": "complete",
+    "requirement1": 1
+  },
+  {
+    "id": 3301,
+    "mysekaiNormalMissionSheetId": 33,
+    "seq": 2,
+    "sentence": "マイセカイに7日ログインする",
+    "mysekaiNormalMissionType": "mysekai_login_total",
+    "mysekaiNormalMissionCategory": "normal",
+    "requirement1": 7,
+    "conditionValue1": 1
+  },
+  {
+    "id": 3500,
+    "mysekaiNormalMissionSheetId": 35,
+    "seq": 1,
+    "sentence": "あなたのセカイを広げよう！",
+    "mysekaiNormalMissionType": "complete_sheet",
+    "mysekaiNormalMissionCategory": "complete",
+    "requirement1": 1
+  },
+  {
+    "id": 3501,
+    "mysekaiNormalMissionSheetId": 35,
+    "seq": 2,
+    "sentence": "マイセカイランクを6にして部屋を大きくしよう",
+    "mysekaiNormalMissionType": "reach_mysekai_rank",
+    "mysekaiNormalMissionCategory": "normal",
+    "requirement1": 6
+  },
+  {
+    "id": 3700,
+    "mysekaiNormalMissionSheetId": 37,
+    "seq": 1,
+    "sentence": "あなたのセカイを広げよう！",
+    "mysekaiNormalMissionType": "complete_sheet",
+    "mysekaiNormalMissionCategory": "complete",
+    "requirement1": 1
+  },
+  {
+    "id": 3701,
+    "mysekaiNormalMissionSheetId": 37,
+    "seq": 2,
+    "sentence": "マイセカイランクを7にして庭を大きくしよう",
+    "mysekaiNormalMissionType": "reach_mysekai_rank",
+    "mysekaiNormalMissionCategory": "normal",
+    "requirement1": 7
+  },
+  {
+    "id": 3900,
+    "mysekaiNormalMissionSheetId": 39,
+    "seq": 1,
+    "sentence": "あなたのセカイを広げよう！",
+    "mysekaiNormalMissionType": "complete_sheet",
+    "mysekaiNormalMissionCategory": "complete",
+    "requirement1": 1
+  },
+  {
+    "id": 3901,
+    "mysekaiNormalMissionSheetId": 39,
+    "seq": 2,
+    "sentence": "マイセカイランクを8にして2Fを増築しよう",
+    "mysekaiNormalMissionType": "reach_mysekai_rank",
+    "mysekaiNormalMissionCategory": "normal",
+    "requirement1": 8
+  },
+  {
+    "id": 4100,
+    "mysekaiNormalMissionSheetId": 41,
+    "seq": 1,
+    "sentence": "あなたのセカイを広げよう！",
+    "mysekaiNormalMissionType": "complete_sheet",
+    "mysekaiNormalMissionCategory": "complete",
+    "requirement1": 1
+  },
+  {
+    "id": 4101,
+    "mysekaiNormalMissionSheetId": 41,
+    "seq": 2,
+    "sentence": "マイセカイランクを9にして庭を大きくしよう",
+    "mysekaiNormalMissionType": "reach_mysekai_rank",
+    "mysekaiNormalMissionCategory": "normal",
+    "requirement1": 9
+  },
+  {
+    "id": 4300,
+    "mysekaiNormalMissionSheetId": 43,
+    "seq": 1,
+    "sentence": "あなたのセカイを広げよう！",
+    "mysekaiNormalMissionType": "complete_sheet",
+    "mysekaiNormalMissionCategory": "complete",
+    "requirement1": 1
+  },
+  {
+    "id": 4301,
+    "mysekaiNormalMissionSheetId": 43,
+    "seq": 2,
+    "sentence": "マイセカイランクを10にして3Fを増築しよう",
+    "mysekaiNormalMissionType": "reach_mysekai_rank",
+    "mysekaiNormalMissionCategory": "normal",
+    "requirement1": 10
+  },
+  {
+    "id": 4700,
+    "mysekaiNormalMissionSheetId": 47,
+    "seq": 1,
+    "sentence": "あなたのセカイを広げよう！",
+    "mysekaiNormalMissionType": "complete_sheet",
+    "mysekaiNormalMissionCategory": "complete",
+    "requirement1": 1
+  },
+  {
+    "id": 4701,
+    "mysekaiNormalMissionSheetId": 47,
+    "seq": 2,
+    "sentence": "マイセカイランクを3にしてお部屋を大きくしよう",
+    "mysekaiNormalMissionType": "reach_mysekai_rank",
+    "mysekaiNormalMissionCategory": "normal",
+    "requirement1": 3
+  },
+  {
+    "id": 4800,
+    "mysekaiNormalMissionSheetId": 48,
+    "seq": 1,
+    "sentence": "新しいエリアを発見しよう！",
+    "mysekaiNormalMissionType": "complete_sheet",
+    "mysekaiNormalMissionCategory": "complete",
+    "requirement1": 1
+  },
+  {
+    "id": 4801,
+    "mysekaiNormalMissionSheetId": 48,
+    "seq": 2,
+    "sentence": "マイセカイランクを4にして「願いの砂浜」を解放しよう",
+    "mysekaiNormalMissionType": "reach_mysekai_rank",
+    "mysekaiNormalMissionCategory": "normal",
+    "requirement1": 4
+  },
+  {
+    "id": 4900,
+    "mysekaiNormalMissionSheetId": 49,
+    "seq": 1,
+    "sentence": "マイセカイでいろんな家具をつくろう！（その1）",
+    "mysekaiNormalMissionType": "complete_sheet",
+    "mysekaiNormalMissionCategory": "complete",
+    "requirement1": 3
+  },
+  {
+    "id": 4901,
+    "mysekaiNormalMissionSheetId": 49,
+    "seq": 2,
+    "sentence": "好きな家具を3個つくろう",
+    "mysekaiNormalMissionType": "create_any_mysekai_fixture",
+    "mysekaiNormalMissionCategory": "normal",
+    "requirement1": 3
+  },
+  {
+    "id": 4902,
+    "mysekaiNormalMissionSheetId": 49,
+    "seq": 3,
+    "sentence": "「一般」の家具を1個つくろう",
+    "mysekaiNormalMissionType": "create_mysekai_fixture_specific_mysekai_fixture_main_genre",
+    "mysekaiNormalMissionCategory": "normal",
+    "requirement1": 1,
+    "conditionValue1": 2
+  },
+  {
+    "id": 4903,
+    "mysekaiNormalMissionSheetId": 49,
+    "seq": 4,
+    "sentence": "マイセカイに8日ログインする",
+    "mysekaiNormalMissionType": "mysekai_login_total",
+    "mysekaiNormalMissionCategory": "normal",
+    "requirement1": 8
+  },
+  {
+    "id": 5000,
+    "mysekaiNormalMissionSheetId": 50,
+    "seq": 1,
+    "sentence": "マイセカイでいろんな家具をつくろう！（その2）",
+    "mysekaiNormalMissionType": "complete_sheet",
+    "mysekaiNormalMissionCategory": "complete",
+    "requirement1": 2
+  },
+  {
+    "id": 5001,
+    "mysekaiNormalMissionSheetId": 50,
+    "seq": 2,
+    "sentence": "好きな家具を3個つくろう",
+    "mysekaiNormalMissionType": "create_any_mysekai_fixture",
+    "mysekaiNormalMissionCategory": "normal",
+    "requirement1": 3
+  },
+  {
+    "id": 5002,
+    "mysekaiNormalMissionSheetId": 50,
+    "seq": 3,
+    "sentence": "「小物」の家具を1個つくろう",
+    "mysekaiNormalMissionType": "create_mysekai_fixture_specific_mysekai_fixture_main_genre",
+    "mysekaiNormalMissionCategory": "normal",
+    "requirement1": 1,
+    "conditionValue1": 3
+  },
+  {
+    "id": 5100,
+    "mysekaiNormalMissionSheetId": 51,
+    "seq": 1,
+    "sentence": "マイセカイでいろんな家具をつくろう！（その3）",
+    "mysekaiNormalMissionType": "complete_sheet",
+    "mysekaiNormalMissionCategory": "complete",
+    "requirement1": 3
+  },
+  {
+    "id": 5101,
+    "mysekaiNormalMissionSheetId": 51,
+    "seq": 2,
+    "sentence": "好きな家具を3個つくろう",
+    "mysekaiNormalMissionType": "create_any_mysekai_fixture",
+    "mysekaiNormalMissionCategory": "normal",
+    "requirement1": 3
+  },
+  {
+    "id": 5102,
+    "mysekaiNormalMissionSheetId": 51,
+    "seq": 3,
+    "sentence": "「壁掛け」の家具を1個つくろう",
+    "mysekaiNormalMissionType": "create_mysekai_fixture_specific_mysekai_fixture_main_genre",
+    "mysekaiNormalMissionCategory": "normal",
+    "requirement1": 1,
+    "conditionValue1": 4
+  },
+  {
+    "id": 5103,
+    "mysekaiNormalMissionSheetId": 51,
+    "seq": 4,
+    "sentence": "マイセカイに10日ログインする",
+    "mysekaiNormalMissionType": "mysekai_login_total",
+    "mysekaiNormalMissionCategory": "normal",
+    "requirement1": 10
+  },
+  {
+    "id": 5200,
+    "mysekaiNormalMissionSheetId": 52,
+    "seq": 1,
+    "sentence": "マイセカイでいろんな家具をつくろう！（その4）",
+    "mysekaiNormalMissionType": "complete_sheet",
+    "mysekaiNormalMissionCategory": "complete",
+    "requirement1": 2
+  },
+  {
+    "id": 5201,
+    "mysekaiNormalMissionSheetId": 52,
+    "seq": 2,
+    "sentence": "好きな家具を5個つくろう",
+    "mysekaiNormalMissionType": "create_any_mysekai_fixture",
+    "mysekaiNormalMissionCategory": "normal",
+    "requirement1": 5
+  },
+  {
+    "id": 5202,
+    "mysekaiNormalMissionSheetId": 52,
+    "seq": 3,
+    "sentence": "「ディスプレイ」の家具を1個つくろう",
+    "mysekaiNormalMissionType": "create_mysekai_fixture_specific_mysekai_fixture_main_genre",
+    "mysekaiNormalMissionCategory": "normal",
+    "requirement1": 1,
+    "conditionValue1": 5
+  },
+  {
+    "id": 5300,
+    "mysekaiNormalMissionSheetId": 53,
+    "seq": 1,
+    "sentence": "マイセカイでいろんな家具をつくろう！（その5）",
+    "mysekaiNormalMissionType": "complete_sheet",
+    "mysekaiNormalMissionCategory": "complete",
+    "requirement1": 3
+  },
+  {
+    "id": 5301,
+    "mysekaiNormalMissionSheetId": 53,
+    "seq": 2,
+    "sentence": "好きな家具を5個つくろう",
+    "mysekaiNormalMissionType": "create_any_mysekai_fixture",
+    "mysekaiNormalMissionCategory": "normal",
+    "requirement1": 5
+  },
+  {
+    "id": 5302,
+    "mysekaiNormalMissionSheetId": 53,
+    "seq": 3,
+    "sentence": "「キャンバス」の家具を1個つくろう",
+    "mysekaiNormalMissionType": "create_mysekai_fixture_specific_mysekai_fixture_main_genre",
+    "mysekaiNormalMissionCategory": "normal",
+    "requirement1": 1,
+    "conditionValue1": 6
+  },
+  {
+    "id": 5303,
+    "mysekaiNormalMissionSheetId": 53,
+    "seq": 4,
+    "sentence": "マイセカイに12日ログインする",
+    "mysekaiNormalMissionType": "mysekai_login_total",
+    "mysekaiNormalMissionCategory": "normal",
+    "requirement1": 12
+  },
+  {
+    "id": 5400,
+    "mysekaiNormalMissionSheetId": 54,
+    "seq": 1,
+    "sentence": "マイセカイでいろんな家具をつくろう！（その6）",
+    "mysekaiNormalMissionType": "complete_sheet",
+    "mysekaiNormalMissionCategory": "complete",
+    "requirement1": 2
+  },
+  {
+    "id": 5401,
+    "mysekaiNormalMissionSheetId": 54,
+    "seq": 2,
+    "sentence": "好きな家具を5個つくろう",
+    "mysekaiNormalMissionType": "create_any_mysekai_fixture",
+    "mysekaiNormalMissionCategory": "normal",
+    "requirement1": 5
+  },
+  {
+    "id": 5402,
+    "mysekaiNormalMissionSheetId": 54,
+    "seq": 3,
+    "sentence": "「ラグ」の家具を1個つくろう",
+    "mysekaiNormalMissionType": "create_mysekai_fixture_specific_mysekai_fixture_main_genre",
+    "mysekaiNormalMissionCategory": "normal",
+    "requirement1": 1,
+    "conditionValue1": 9
+  },
+  {
+    "id": 5500,
+    "mysekaiNormalMissionSheetId": 55,
+    "seq": 1,
+    "sentence": "マイセカイでいろんな家具をつくろう！（その7）",
+    "mysekaiNormalMissionType": "complete_sheet",
+    "mysekaiNormalMissionCategory": "complete",
+    "requirement1": 3
+  },
+  {
+    "id": 5501,
+    "mysekaiNormalMissionSheetId": 55,
+    "seq": 2,
+    "sentence": "好きな家具を5個つくろう",
+    "mysekaiNormalMissionType": "create_any_mysekai_fixture",
+    "mysekaiNormalMissionCategory": "normal",
+    "requirement1": 5
+  },
+  {
+    "id": 5502,
+    "mysekaiNormalMissionSheetId": 55,
+    "seq": 3,
+    "sentence": "「ぬいぐるみ」の家具を1個つくろう",
+    "mysekaiNormalMissionType": "create_mysekai_fixture_specific_mysekai_fixture_main_genre",
+    "mysekaiNormalMissionCategory": "normal",
+    "requirement1": 1,
+    "conditionValue1": 29
+  },
+  {
+    "id": 5503,
+    "mysekaiNormalMissionSheetId": 55,
+    "seq": 4,
+    "sentence": "マイセカイに14日ログインする",
+    "mysekaiNormalMissionType": "mysekai_login_total",
+    "mysekaiNormalMissionCategory": "normal",
+    "requirement1": 14
+  },
+  {
+    "id": 5600,
+    "mysekaiNormalMissionSheetId": 56,
+    "seq": 1,
+    "sentence": "マイセカイでいろんな家具をつくろう！（その8）",
+    "mysekaiNormalMissionType": "complete_sheet",
+    "mysekaiNormalMissionCategory": "complete",
+    "requirement1": 3
+  },
+  {
+    "id": 5601,
+    "mysekaiNormalMissionSheetId": 56,
+    "seq": 2,
+    "sentence": "好きな家具を5個つくろう",
+    "mysekaiNormalMissionType": "create_any_mysekai_fixture",
+    "mysekaiNormalMissionCategory": "normal",
+    "requirement1": 5
+  },
+  {
+    "id": 5602,
+    "mysekaiNormalMissionSheetId": 56,
+    "seq": 3,
+    "sentence": "「道」の家具を1個つくろう",
+    "mysekaiNormalMissionType": "create_mysekai_fixture_specific_mysekai_fixture_main_genre",
+    "mysekaiNormalMissionCategory": "normal",
+    "requirement1": 1,
+    "conditionValue1": 12
+  },
+  {
+    "id": 5603,
+    "mysekaiNormalMissionSheetId": 56,
+    "seq": 4,
+    "sentence": "「柵」の家具を1個つくろう",
+    "mysekaiNormalMissionType": "create_mysekai_fixture_specific_mysekai_fixture_main_genre",
+    "mysekaiNormalMissionCategory": "normal",
+    "requirement1": 1,
+    "conditionValue1": 13
+  },
+  {
+    "id": 5700,
+    "mysekaiNormalMissionSheetId": 57,
+    "seq": 1,
+    "sentence": "マイセカイでいろんな家具をつくろう！（その9）",
+    "mysekaiNormalMissionType": "complete_sheet",
+    "mysekaiNormalMissionCategory": "complete",
+    "requirement1": 4
+  },
+  {
+    "id": 5701,
+    "mysekaiNormalMissionSheetId": 57,
+    "seq": 2,
+    "sentence": "好きな家具を8個つくろう",
+    "mysekaiNormalMissionType": "create_any_mysekai_fixture",
+    "mysekaiNormalMissionCategory": "normal",
+    "requirement1": 8
+  },
+  {
+    "id": 5702,
+    "mysekaiNormalMissionSheetId": 57,
+    "seq": 3,
+    "sentence": "「Leo\/need」のタグ付き家具を1個つくろう",
+    "mysekaiNormalMissionType": "create_mysekai_fixture_specific_tag",
+    "mysekaiNormalMissionCategory": "normal",
+    "requirement1": 1,
+    "conditionValue1": 5
+  },
+  {
+    "id": 5703,
+    "mysekaiNormalMissionSheetId": 57,
+    "seq": 4,
+    "sentence": "「MORE MORE JUMP！」のタグ付き家具を1個つくろう",
+    "mysekaiNormalMissionType": "create_mysekai_fixture_specific_tag",
+    "mysekaiNormalMissionCategory": "normal",
+    "requirement1": 1,
+    "conditionValue1": 10
+  },
+  {
+    "id": 5704,
+    "mysekaiNormalMissionSheetId": 57,
+    "seq": 5,
+    "sentence": "マイセカイに16日ログインする",
+    "mysekaiNormalMissionType": "mysekai_login_total",
+    "mysekaiNormalMissionCategory": "normal",
+    "requirement1": 16
+  },
+  {
+    "id": 5800,
+    "mysekaiNormalMissionSheetId": 58,
+    "seq": 1,
+    "sentence": "マイセカイでいろんな家具をつくろう！（その10）",
+    "mysekaiNormalMissionType": "complete_sheet",
+    "mysekaiNormalMissionCategory": "complete",
+    "requirement1": 3
+  },
+  {
+    "id": 5801,
+    "mysekaiNormalMissionSheetId": 58,
+    "seq": 2,
+    "sentence": "好きな家具を8個つくろう",
+    "mysekaiNormalMissionType": "create_any_mysekai_fixture",
+    "mysekaiNormalMissionCategory": "normal",
+    "requirement1": 8
+  },
+  {
+    "id": 5802,
+    "mysekaiNormalMissionSheetId": 58,
+    "seq": 3,
+    "sentence": "「Vivid BAD SQUAD」のタグ付き家具を1個つくろう",
+    "mysekaiNormalMissionType": "create_mysekai_fixture_specific_tag",
+    "mysekaiNormalMissionCategory": "normal",
+    "requirement1": 1,
+    "conditionValue1": 15
+  },
+  {
+    "id": 5803,
+    "mysekaiNormalMissionSheetId": 58,
+    "seq": 4,
+    "sentence": "「ワンダーランズ×ショウタイム」のタグ付き家具を1個つくろう",
+    "mysekaiNormalMissionType": "create_mysekai_fixture_specific_tag",
+    "mysekaiNormalMissionCategory": "normal",
+    "requirement1": 1,
+    "conditionValue1": 20
+  },
+  {
+    "id": 5900,
+    "mysekaiNormalMissionSheetId": 59,
+    "seq": 1,
+    "sentence": "マイセカイでいろんな家具をつくろう！（その11）",
+    "mysekaiNormalMissionType": "complete_sheet",
+    "mysekaiNormalMissionCategory": "complete",
+    "requirement1": 4
+  },
+  {
+    "id": 5901,
+    "mysekaiNormalMissionSheetId": 59,
+    "seq": 2,
+    "sentence": "好きな家具を8個つくろう",
+    "mysekaiNormalMissionType": "create_any_mysekai_fixture",
+    "mysekaiNormalMissionCategory": "normal",
+    "requirement1": 8
+  },
+  {
+    "id": 5902,
+    "mysekaiNormalMissionSheetId": 59,
+    "seq": 3,
+    "sentence": "「25時、ナイトコードで。」のタグ付き家具を1個つくろう",
+    "mysekaiNormalMissionType": "create_mysekai_fixture_specific_tag",
+    "mysekaiNormalMissionCategory": "normal",
+    "requirement1": 1,
+    "conditionValue1": 25
+  },
+  {
+    "id": 5903,
+    "mysekaiNormalMissionSheetId": 59,
+    "seq": 4,
+    "sentence": "「バーチャル・シンガー」のタグ付き家具を1個つくろう",
+    "mysekaiNormalMissionType": "create_mysekai_fixture_specific_tag",
+    "mysekaiNormalMissionCategory": "normal",
+    "requirement1": 1,
+    "conditionValue1": 32
+  },
+  {
+    "id": 5904,
+    "mysekaiNormalMissionSheetId": 59,
+    "seq": 5,
+    "sentence": "マイセカイに18日ログインする",
+    "mysekaiNormalMissionType": "mysekai_login_total",
+    "mysekaiNormalMissionCategory": "normal",
+    "requirement1": 18
+  },
+  {
+    "id": 6000,
+    "mysekaiNormalMissionSheetId": 60,
+    "seq": 1,
+    "sentence": "マイセカイでいろんな家具をつくろう！（その12）",
+    "mysekaiNormalMissionType": "complete_sheet",
+    "mysekaiNormalMissionCategory": "complete",
+    "requirement1": 3
+  },
+  {
+    "id": 6001,
+    "mysekaiNormalMissionSheetId": 60,
+    "seq": 2,
+    "sentence": "好きな家具を8個つくろう",
+    "mysekaiNormalMissionType": "create_any_mysekai_fixture",
+    "mysekaiNormalMissionCategory": "normal",
+    "requirement1": 8
+  },
+  {
+    "id": 6002,
+    "mysekaiNormalMissionSheetId": 60,
+    "seq": 3,
+    "sentence": "「公園」のタグ付き家具を1個つくろう",
+    "mysekaiNormalMissionType": "create_mysekai_fixture_specific_tag",
+    "mysekaiNormalMissionCategory": "normal",
+    "requirement1": 1,
+    "conditionValue1": 33
+  },
+  {
+    "id": 6003,
+    "mysekaiNormalMissionSheetId": 60,
+    "seq": 4,
+    "sentence": "「ナチュラル」のタグ付き家具を1個つくろう",
+    "mysekaiNormalMissionType": "create_mysekai_fixture_specific_tag",
+    "mysekaiNormalMissionCategory": "normal",
+    "requirement1": 1,
+    "conditionValue1": 35
+  },
+  {
+    "id": 6100,
+    "mysekaiNormalMissionSheetId": 61,
+    "seq": 1,
+    "sentence": "マイセカイでいろんな家具をつくろう！（その13）",
+    "mysekaiNormalMissionType": "complete_sheet",
+    "mysekaiNormalMissionCategory": "complete",
+    "requirement1": 4
+  },
+  {
+    "id": 6101,
+    "mysekaiNormalMissionSheetId": 61,
+    "seq": 2,
+    "sentence": "好きな家具を8個つくろう",
+    "mysekaiNormalMissionType": "create_any_mysekai_fixture",
+    "mysekaiNormalMissionCategory": "normal",
+    "requirement1": 8
+  },
+  {
+    "id": 6102,
+    "mysekaiNormalMissionSheetId": 61,
+    "seq": 3,
+    "sentence": "「ガーデン」のタグ付き家具を1個つくろう",
+    "mysekaiNormalMissionType": "create_mysekai_fixture_specific_tag",
+    "mysekaiNormalMissionCategory": "normal",
+    "requirement1": 1,
+    "conditionValue1": 34
+  },
+  {
+    "id": 6103,
+    "mysekaiNormalMissionSheetId": 61,
+    "seq": 4,
+    "sentence": "「シンプルポップキッチン」のタグ付き家具を1個つくろう",
+    "mysekaiNormalMissionType": "create_mysekai_fixture_specific_tag",
+    "mysekaiNormalMissionCategory": "normal",
+    "requirement1": 1,
+    "conditionValue1": 36
+  },
+  {
+    "id": 6104,
+    "mysekaiNormalMissionSheetId": 61,
+    "seq": 5,
+    "sentence": "マイセカイに20日ログインする",
+    "mysekaiNormalMissionType": "mysekai_login_total",
+    "mysekaiNormalMissionCategory": "normal",
+    "requirement1": 20
+  },
+  {
+    "id": 6200,
+    "mysekaiNormalMissionSheetId": 62,
+    "seq": 1,
+    "sentence": "マイセカイでいろんな家具をつくろう！（その14）",
+    "mysekaiNormalMissionType": "complete_sheet",
+    "mysekaiNormalMissionCategory": "complete",
+    "requirement1": 3
+  },
+  {
+    "id": 6201,
+    "mysekaiNormalMissionSheetId": 62,
+    "seq": 2,
+    "sentence": "好きな家具を8個つくろう",
+    "mysekaiNormalMissionType": "create_any_mysekai_fixture",
+    "mysekaiNormalMissionCategory": "normal",
+    "requirement1": 8
+  },
+  {
+    "id": 6202,
+    "mysekaiNormalMissionSheetId": 62,
+    "seq": 3,
+    "sentence": "「一般」の家具を2個つくろう",
+    "mysekaiNormalMissionType": "create_mysekai_fixture_specific_mysekai_fixture_main_genre",
+    "mysekaiNormalMissionCategory": "normal",
+    "requirement1": 2,
+    "conditionValue1": 2
+  },
+  {
+    "id": 6203,
+    "mysekaiNormalMissionSheetId": 62,
+    "seq": 4,
+    "sentence": "「ラグ」の家具を2個つくろう",
+    "mysekaiNormalMissionType": "create_mysekai_fixture_specific_mysekai_fixture_main_genre",
+    "mysekaiNormalMissionCategory": "normal",
+    "requirement1": 2,
+    "conditionValue1": 9
+  },
+  {
+    "id": 6300,
+    "mysekaiNormalMissionSheetId": 63,
+    "seq": 1,
+    "sentence": "マイセカイでいろんな家具をつくろう！（その15）",
+    "mysekaiNormalMissionType": "complete_sheet",
+    "mysekaiNormalMissionCategory": "complete",
+    "requirement1": 4
+  },
+  {
+    "id": 6301,
+    "mysekaiNormalMissionSheetId": 63,
+    "seq": 2,
+    "sentence": "好きな家具を10個つくろう",
+    "mysekaiNormalMissionType": "create_any_mysekai_fixture",
+    "mysekaiNormalMissionCategory": "normal",
+    "requirement1": 10
+  },
+  {
+    "id": 6302,
+    "mysekaiNormalMissionSheetId": 63,
+    "seq": 3,
+    "sentence": "「小物」の家具を2個つくろう",
+    "mysekaiNormalMissionType": "create_mysekai_fixture_specific_mysekai_fixture_main_genre",
+    "mysekaiNormalMissionCategory": "normal",
+    "requirement1": 2,
+    "conditionValue1": 3
+  },
+  {
+    "id": 6303,
+    "mysekaiNormalMissionSheetId": 63,
+    "seq": 4,
+    "sentence": "「道」の家具を5個つくろう",
+    "mysekaiNormalMissionType": "create_mysekai_fixture_specific_mysekai_fixture_main_genre",
+    "mysekaiNormalMissionCategory": "normal",
+    "requirement1": 5,
+    "conditionValue1": 12
+  },
+  {
+    "id": 6304,
+    "mysekaiNormalMissionSheetId": 63,
+    "seq": 5,
+    "sentence": "マイセカイに22日ログインする",
+    "mysekaiNormalMissionType": "mysekai_login_total",
+    "mysekaiNormalMissionCategory": "normal",
+    "requirement1": 22
+  },
+  {
+    "id": 6400,
+    "mysekaiNormalMissionSheetId": 64,
+    "seq": 1,
+    "sentence": "マイセカイでいろんな家具をつくろう！（その16）",
+    "mysekaiNormalMissionType": "complete_sheet",
+    "mysekaiNormalMissionCategory": "complete",
+    "requirement1": 3
+  },
+  {
+    "id": 6401,
+    "mysekaiNormalMissionSheetId": 64,
+    "seq": 2,
+    "sentence": "好きな家具を10個つくろう",
+    "mysekaiNormalMissionType": "create_any_mysekai_fixture",
+    "mysekaiNormalMissionCategory": "normal",
+    "requirement1": 10
+  },
+  {
+    "id": 6402,
+    "mysekaiNormalMissionSheetId": 64,
+    "seq": 3,
+    "sentence": "「壁掛け」の家具を2個つくろう",
+    "mysekaiNormalMissionType": "create_mysekai_fixture_specific_mysekai_fixture_main_genre",
+    "mysekaiNormalMissionCategory": "normal",
+    "requirement1": 2,
+    "conditionValue1": 4
+  },
+  {
+    "id": 6403,
+    "mysekaiNormalMissionSheetId": 64,
+    "seq": 4,
+    "sentence": "「柵」の家具を5個つくろう",
+    "mysekaiNormalMissionType": "create_mysekai_fixture_specific_mysekai_fixture_main_genre",
+    "mysekaiNormalMissionCategory": "normal",
+    "requirement1": 5,
+    "conditionValue1": 13
+  },
+  {
+    "id": 6500,
+    "mysekaiNormalMissionSheetId": 65,
+    "seq": 1,
+    "sentence": "マイセカイでいろんな家具をつくろう！（その17）",
+    "mysekaiNormalMissionType": "complete_sheet",
+    "mysekaiNormalMissionCategory": "complete",
+    "requirement1": 4
+  },
+  {
+    "id": 6501,
+    "mysekaiNormalMissionSheetId": 65,
+    "seq": 2,
+    "sentence": "好きな家具を7個つくろう",
+    "mysekaiNormalMissionType": "create_any_mysekai_fixture",
+    "mysekaiNormalMissionCategory": "normal",
+    "requirement1": 7
+  },
+  {
+    "id": 6502,
+    "mysekaiNormalMissionSheetId": 65,
+    "seq": 3,
+    "sentence": "「ディスプレイ」の家具を2個つくろう",
+    "mysekaiNormalMissionType": "create_mysekai_fixture_specific_mysekai_fixture_main_genre",
+    "mysekaiNormalMissionCategory": "normal",
+    "requirement1": 2,
+    "conditionValue1": 5
+  },
+  {
+    "id": 6503,
+    "mysekaiNormalMissionSheetId": 65,
+    "seq": 4,
+    "sentence": "「ぬいぐるみ」の家具を1個つくろう",
+    "mysekaiNormalMissionType": "create_mysekai_fixture_specific_mysekai_fixture_main_genre",
+    "mysekaiNormalMissionCategory": "normal",
+    "requirement1": 1,
+    "conditionValue1": 29
+  },
+  {
+    "id": 6504,
+    "mysekaiNormalMissionSheetId": 65,
+    "seq": 5,
+    "sentence": "マイセカイに24日ログインする",
+    "mysekaiNormalMissionType": "mysekai_login_total",
+    "mysekaiNormalMissionCategory": "normal",
+    "requirement1": 24
+  },
+  {
+    "id": 6600,
+    "mysekaiNormalMissionSheetId": 66,
+    "seq": 1,
+    "sentence": "マイセカイでいろんな家具をつくろう！（その18）",
+    "mysekaiNormalMissionType": "complete_sheet",
+    "mysekaiNormalMissionCategory": "complete",
+    "requirement1": 3
+  },
+  {
+    "id": 6601,
+    "mysekaiNormalMissionSheetId": 66,
+    "seq": 2,
+    "sentence": "好きな家具を7個つくろう",
+    "mysekaiNormalMissionType": "create_any_mysekai_fixture",
+    "mysekaiNormalMissionCategory": "normal",
+    "requirement1": 7
+  },
+  {
+    "id": 6602,
+    "mysekaiNormalMissionSheetId": 66,
+    "seq": 3,
+    "sentence": "「キャンバス」の家具を2個つくろう",
+    "mysekaiNormalMissionType": "create_mysekai_fixture_specific_mysekai_fixture_main_genre",
+    "mysekaiNormalMissionCategory": "normal",
+    "requirement1": 2,
+    "conditionValue1": 6
+  },
+  {
+    "id": 6603,
+    "mysekaiNormalMissionSheetId": 66,
+    "seq": 4,
+    "sentence": "「家」の家具を1個つくろう",
+    "mysekaiNormalMissionType": "create_mysekai_fixture_specific_mysekai_fixture_main_genre",
+    "mysekaiNormalMissionCategory": "normal",
+    "requirement1": 1,
+    "conditionValue1": 11
+  },
+  {
+    "id": 6700,
+    "mysekaiNormalMissionSheetId": 67,
+    "seq": 1,
+    "sentence": "マイセカイでいろんな家具をつくろう！（その19）",
+    "mysekaiNormalMissionType": "complete_sheet",
+    "mysekaiNormalMissionCategory": "complete",
+    "requirement1": 4
+  },
+  {
+    "id": 6701,
+    "mysekaiNormalMissionSheetId": 67,
+    "seq": 2,
+    "sentence": "好きな家具を6個つくろう",
+    "mysekaiNormalMissionType": "create_any_mysekai_fixture",
+    "mysekaiNormalMissionCategory": "normal",
+    "requirement1": 6
+  },
+  {
+    "id": 6702,
+    "mysekaiNormalMissionSheetId": 67,
+    "seq": 3,
+    "sentence": "「壁」の家具を1個つくろう",
+    "mysekaiNormalMissionType": "create_mysekai_fixture_specific_mysekai_fixture_main_genre",
+    "mysekaiNormalMissionCategory": "normal",
+    "requirement1": 1,
+    "conditionValue1": 7
+  },
+  {
+    "id": 6703,
+    "mysekaiNormalMissionSheetId": 67,
+    "seq": 4,
+    "sentence": "「床」の家具を1個つくろう",
+    "mysekaiNormalMissionType": "create_mysekai_fixture_specific_mysekai_fixture_main_genre",
+    "mysekaiNormalMissionCategory": "normal",
+    "requirement1": 1,
+    "conditionValue1": 8
+  },
+  {
+    "id": 6704,
+    "mysekaiNormalMissionSheetId": 67,
+    "seq": 5,
+    "sentence": "マイセカイに26日ログインする",
+    "mysekaiNormalMissionType": "mysekai_login_total",
+    "mysekaiNormalMissionCategory": "normal",
+    "requirement1": 26
+  },
+  {
+    "id": 6800,
+    "mysekaiNormalMissionSheetId": 68,
+    "seq": 1,
+    "sentence": "マイセカイでいろんな家具をつくろう！（その20）",
+    "mysekaiNormalMissionType": "complete_sheet",
+    "mysekaiNormalMissionCategory": "complete",
+    "requirement1": 3
+  },
+  {
+    "id": 6801,
+    "mysekaiNormalMissionSheetId": 68,
+    "seq": 2,
+    "sentence": "好きな家具を8個つくろう",
+    "mysekaiNormalMissionType": "create_any_mysekai_fixture",
+    "mysekaiNormalMissionCategory": "normal",
+    "requirement1": 8
+  },
+  {
+    "id": 6802,
+    "mysekaiNormalMissionSheetId": 68,
+    "seq": 3,
+    "sentence": "「壁掛け」の家具を2個つくろう",
+    "mysekaiNormalMissionType": "create_mysekai_fixture_specific_mysekai_fixture_main_genre",
+    "mysekaiNormalMissionCategory": "normal",
+    "requirement1": 2,
+    "conditionValue1": 4
+  },
+  {
+    "id": 6803,
+    "mysekaiNormalMissionSheetId": 68,
+    "seq": 4,
+    "sentence": "「ぬいぐるみ」の家具を1個つくろう",
+    "mysekaiNormalMissionType": "create_mysekai_fixture_specific_mysekai_fixture_main_genre",
+    "mysekaiNormalMissionCategory": "normal",
+    "requirement1": 1,
+    "conditionValue1": 29
+  },
+  {
+    "id": 6900,
+    "mysekaiNormalMissionSheetId": 69,
+    "seq": 1,
+    "sentence": "マイセカイでいろんな家具をつくろう！（その21）",
+    "mysekaiNormalMissionType": "complete_sheet",
+    "mysekaiNormalMissionCategory": "complete",
+    "requirement1": 4
+  },
+  {
+    "id": 6901,
+    "mysekaiNormalMissionSheetId": 69,
+    "seq": 2,
+    "sentence": "好きな家具を8個つくろう",
+    "mysekaiNormalMissionType": "create_any_mysekai_fixture",
+    "mysekaiNormalMissionCategory": "normal",
+    "requirement1": 8
+  },
+  {
+    "id": 6902,
+    "mysekaiNormalMissionSheetId": 69,
+    "seq": 3,
+    "sentence": "「ディスプレイ」の家具を2個つくろう",
+    "mysekaiNormalMissionType": "create_mysekai_fixture_specific_mysekai_fixture_main_genre",
+    "mysekaiNormalMissionCategory": "normal",
+    "requirement1": 2,
+    "conditionValue1": 5
+  },
+  {
+    "id": 6903,
+    "mysekaiNormalMissionSheetId": 69,
+    "seq": 4,
+    "sentence": "「キャンバス」の家具を2個つくろう",
+    "mysekaiNormalMissionType": "create_mysekai_fixture_specific_mysekai_fixture_main_genre",
+    "mysekaiNormalMissionCategory": "normal",
+    "requirement1": 2,
+    "conditionValue1": 6
+  },
+  {
+    "id": 6904,
+    "mysekaiNormalMissionSheetId": 69,
+    "seq": 5,
+    "sentence": "マイセカイに28日ログインする",
+    "mysekaiNormalMissionType": "mysekai_login_total",
+    "mysekaiNormalMissionCategory": "normal",
+    "requirement1": 28
+  },
+  {
+    "id": 7000,
+    "mysekaiNormalMissionSheetId": 70,
+    "seq": 1,
+    "sentence": "マイセカイでいろんな家具をつくろう！（その22）",
+    "mysekaiNormalMissionType": "complete_sheet",
+    "mysekaiNormalMissionCategory": "complete",
+    "requirement1": 3
+  },
+  {
+    "id": 7001,
+    "mysekaiNormalMissionSheetId": 70,
+    "seq": 2,
+    "sentence": "好きな家具を8個つくろう",
+    "mysekaiNormalMissionType": "create_any_mysekai_fixture",
+    "mysekaiNormalMissionCategory": "normal",
+    "requirement1": 8
+  },
+  {
+    "id": 7002,
+    "mysekaiNormalMissionSheetId": 70,
+    "seq": 3,
+    "sentence": "「一般」の家具を2個つくろう",
+    "mysekaiNormalMissionType": "create_mysekai_fixture_specific_mysekai_fixture_main_genre",
+    "mysekaiNormalMissionCategory": "normal",
+    "requirement1": 2,
+    "conditionValue1": 2
+  },
+  {
+    "id": 7003,
+    "mysekaiNormalMissionSheetId": 70,
+    "seq": 4,
+    "sentence": "「小物」の家具を2個つくろう",
+    "mysekaiNormalMissionType": "create_mysekai_fixture_specific_mysekai_fixture_main_genre",
+    "mysekaiNormalMissionCategory": "normal",
+    "requirement1": 2,
+    "conditionValue1": 3
+  },
+  {
+    "id": 7100,
+    "mysekaiNormalMissionSheetId": 71,
+    "seq": 1,
+    "sentence": "マイセカイでいろんな家具をつくろう！（その23）",
+    "mysekaiNormalMissionType": "complete_sheet",
+    "mysekaiNormalMissionCategory": "complete",
+    "requirement1": 5
+  },
+  {
+    "id": 7101,
+    "mysekaiNormalMissionSheetId": 71,
+    "seq": 2,
+    "sentence": "好きな家具を15個つくろう",
+    "mysekaiNormalMissionType": "create_any_mysekai_fixture",
+    "mysekaiNormalMissionCategory": "normal",
+    "requirement1": 15
+  },
+  {
+    "id": 7102,
+    "mysekaiNormalMissionSheetId": 71,
+    "seq": 3,
+    "sentence": "「ラグ」の家具を2個つくろう",
+    "mysekaiNormalMissionType": "create_mysekai_fixture_specific_mysekai_fixture_main_genre",
+    "mysekaiNormalMissionCategory": "normal",
+    "requirement1": 2,
+    "conditionValue1": 9
+  },
+  {
+    "id": 7103,
+    "mysekaiNormalMissionSheetId": 71,
+    "seq": 4,
+    "sentence": "「道」の家具を5個つくろう",
+    "mysekaiNormalMissionType": "create_mysekai_fixture_specific_mysekai_fixture_main_genre",
+    "mysekaiNormalMissionCategory": "normal",
+    "requirement1": 5,
+    "conditionValue1": 12
+  },
+  {
+    "id": 7104,
+    "mysekaiNormalMissionSheetId": 71,
+    "seq": 5,
+    "sentence": "「柵」の家具を5個つくろう",
+    "mysekaiNormalMissionType": "create_mysekai_fixture_specific_mysekai_fixture_main_genre",
+    "mysekaiNormalMissionCategory": "normal",
+    "requirement1": 5,
+    "conditionValue1": 13
+  },
+  {
+    "id": 7105,
+    "mysekaiNormalMissionSheetId": 71,
+    "seq": 6,
+    "sentence": "マイセカイに30日ログインする",
+    "mysekaiNormalMissionType": "mysekai_login_total",
+    "mysekaiNormalMissionCategory": "normal",
+    "requirement1": 30
+  }
+]

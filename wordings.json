@@ -72,6 +72,10 @@
     "value": "{0} x {1}"
   },
   {
+    "wordingKey": "FORMAT_CONVERT_SHORTEN_TIME_HAVE_JOINED_PASS",
+    "value": "パス加入につき{0}%短縮中"
+  },
+  {
     "wordingKey": "FORMAT_DAY",
     "value": "DAY {0}"
   },
@@ -80,12 +84,76 @@
     "value": "Lv.{0}"
   },
   {
+    "wordingKey": "FORMAT_MSG_CONFIRM_CANCEL_INVITATION",
+    "value": "{0}に招待状を送るのを取りやめますか？"
+  },
+  {
+    "wordingKey": "FORMAT_MSG_CONFIRM_GATE_CHANGE",
+    "value": "{0}を設置します。\nよろしいですか？\n\n<color=#FF5588>※翌日の5:00までメモリアを受け取ることができなくなります。\n※ゲートの再設置が{1}日間できなくなります。\n※誰かに招待状を送っている場合は、キャンセルされます。<\/color>"
+  },
+  {
+    "wordingKey": "FORMAT_MSG_CONFIRM_GATE_CHANGE_TUTORIAL",
+    "value": "{0}を設置します。\nよろしいですか？"
+  },
+  {
+    "wordingKey": "FORMAT_MYSEKAI_BLUEPRINT_NAME",
+    "value": "{0}の設計図"
+  },
+  {
+    "wordingKey": "FORMAT_MYSEKAI_CONVERT_SLOT_NO",
+    "value": "<size=36><color=#0faf9d>SLOT<\/color><\/size><size=80><color=#0faf9d>0{0}<\/color><\/size>"
+  },
+  {
+    "wordingKey": "FORMAT_MYSEKAI_EXPIRE_SITE_HOUSING_PRESET_EXTEND_SLOT_CONFIRM",
+    "value": "ワールドパスの有効期限切れから{0}日経過したため、\nマイセカイの拡張プリセット枠に保存された内容が削除されます。\n内容を引き継ぐために新しく購入しますか？"
+  },
+  {
+    "wordingKey": "FORMAT_MYSEKAI_GATE_MAX_LEVEL",
+    "value": "{0} <size=28>MAX<\/size>"
+  },
+  {
+    "wordingKey": "FORMAT_MYSEKAI_GATE_VISIT_CHARACTER",
+    "value": "ゲートレベル{0}以降に来訪するキャラクター"
+  },
+  {
+    "wordingKey": "FORMAT_MYSEKAI_HARVEST_TOOL_QUANTITY",
+    "value": "×{0}"
+  },
+  {
+    "wordingKey": "FORMAT_MYSEKAI_PHOTO_ALBUM_PAGE_COUNT",
+    "value": "{0}\/{1}"
+  },
+  {
+    "wordingKey": "FORMAT_MYSEKAI_PHOTO_FILM_QUANTITY",
+    "value": "×{0}"
+  },
+  {
+    "wordingKey": "FORMAT_MYSEKAI_PUT_LIMIT",
+    "value": "{0}\/{1}"
+  },
+  {
+    "wordingKey": "FORMAT_MYSEKAI_SECRET_SHOP_PURCHASE_LIMIT_COUNT",
+    "value": "{0}\/{1}回"
+  },
+  {
+    "wordingKey": "FORMAT_MYSEKAI_SITE_LAYOUT_SIZE",
+    "value": "{0}×{1}"
+  },
+  {
     "wordingKey": "FORMAT_RECEIVE_PRESENTED_MUSIC",
     "value": "「{0}」\nプレゼントされた楽曲を受け取りました。"
   },
   {
     "wordingKey": "FORMAT_RELEASE_EVENT_RELATED_MUSIC_INFO",
     "value": "ストーリーを{0}話まで見ると解放"
+  },
+  {
+    "wordingKey": "FORMAT_SECRET_SHOP_PURCHASE_CONFIRM",
+    "value": "クリスタル<color=#ff5599>{0}個<\/color>を消費して\n{1}を購入します。\nよろしいですか？"
+  },
+  {
+    "wordingKey": "FORMAT_SEND_INVITATION_CHARACTER",
+    "value": "{0} {1}"
   },
   {
     "wordingKey": "MEG_VERSUS_MATCH_TIMEOUT",
@@ -154,6 +222,14 @@
   {
     "wordingKey": "MSG_ABOUT_LIVE_POINT_DAILY_BONUS_CONTENT_TITLE",
     "value": "デイリーボーナス"
+  },
+  {
+    "wordingKey": "MSG_ABOUT_LIVE_POINT_HARVEST_CONTENT",
+    "value": "通常スタミナの場合、1メモリ分のスタミナ消費でライブPを<color=#ff55AA>1獲得<\/color>できます。\nブーストスタミナの場合、1メモリ分のスタミナ消費でライブPを<color=#ff55AA>5獲得<\/color>できます。\n※小数点以下のライブPが発生する場合があります。\n※小数点以下のライブPは1に到達する毎に累積ライブPに加算されます。\n※小数点以下のライブPは毎月0:00に破棄されるためご注意ください。"
+  },
+  {
+    "wordingKey": "MSG_ABOUT_LIVE_POINT_HARVEST_TITLE",
+    "value": "マイセカイ 採取"
   },
   {
     "wordingKey": "MSG_ACCESSORY_DEFAULT_HAIR",
@@ -274,6 +350,10 @@
   {
     "wordingKey": "MSG_ALREADY_CLEARED_LIVE_RETRY",
     "value": "通信が切断されました。ホームに戻ります。\nライブの結果は正常に反映されます。"
+  },
+  {
+    "wordingKey": "MSG_ALREADY_GET_BLUEPRINT",
+    "value": "獲得済みの設計図です"
   },
   {
     "wordingKey": "MSG_ANDROID_RATING",
@@ -428,12 +508,40 @@
     "value": "クリスタルを<color=#ff5599>{0}<\/color>消費して、 \nライブボーナスを<color=#ff5599>{1}<\/color>回復しますか？"
   },
   {
+    "wordingKey": "MSG_BOOST_STAMINA_HARVEST_SPEED",
+    "value": "スタミナのブースト中は採取スピードが大幅に上昇します。"
+  },
+  {
+    "wordingKey": "MSG_BOOST_STAMINA_RECOVER_COMPLETE",
+    "value": "スタミナを回復しました。"
+  },
+  {
+    "wordingKey": "MSG_BOOST_STAMINA_RECOVER_CONFIRM",
+    "value": "スタミナを<color=#ff5599>{0}<\/color>メモリ回復し、さらにブーストします。 \nよろしいですか？"
+  },
+  {
+    "wordingKey": "MSG_BOOST_STAMINA_RECOVER_METHOD_JEWEL_CONFIRM",
+    "value": "クリスタルを<color=#ff5599>{0}<\/color>消費してスタミナを<color=#ff5599>{1}<\/color>メモリ回復し、\nさらにブーストします。"
+  },
+  {
+    "wordingKey": "MSG_BOOST_STAMINA_RECOVER_METHOD_LIVE_BONUS_CONFIRM",
+    "value": "ライブボーナスを<color=#ff5599>{0}<\/color>消費してスタミナを<color=#ff5599>{1}<\/color>メモリ回復し、\nさらにブーストします。"
+  },
+  {
     "wordingKey": "MSG_BORDER_RANKING",
     "value": "ハイライト"
   },
   {
+    "wordingKey": "MSG_BROKEN_TOOL",
+    "value": "ツールが壊れました。"
+  },
+  {
     "wordingKey": "MSG_BUY_COMPLETE",
     "value": "購入が完了しました。"
+  },
+  {
+    "wordingKey": "MSG_CANVAS_BONUS_DIALOG_DESCRIPTION",
+    "value": "マイセカイでこのメンバーをキャンバスに描くと\nパフォーマンスがUPします。"
   },
   {
     "wordingKey": "MSG_CAN_BUY_BY_COSTUME_SHOP",
@@ -510,6 +618,10 @@
   {
     "wordingKey": "MSG_CHARACTER_SELECT_DESCRIPTION",
     "value": "キャラクターを選択してください"
+  },
+  {
+    "wordingKey": "MSG_CHARA_MATERIAL_DROP",
+    "value": "{0}を見つけました。"
   },
   {
     "wordingKey": "MSG_CHARA_NOT_HAVE",
@@ -672,6 +784,10 @@
     "value": "通報いただいたプレイヤーに対して、ペナルティ処置を行いました。\nご協力いただきありがとうございました。"
   },
   {
+    "wordingKey": "MSG_COMPLETE_CANCEL_INVITATION",
+    "value": "招待を取りやめました。"
+  },
+  {
     "wordingKey": "MSG_COMPLETE_READ_REWARD_TIPS",
     "value": "「メインストーリー」「イベントストーリー」を\nスキップ・早送りせずに読むことで、完読スタンプを1つ獲得できます。"
   },
@@ -684,8 +800,24 @@
     "value": "「[{0}] {1}」を特訓"
   },
   {
+    "wordingKey": "MSG_CONFIRME_KICK_DIALOG",
+    "value": "このプレイヤーをマイセカイからキックします。\nよろしいですか？"
+  },
+  {
+    "wordingKey": "MSG_CONFIRME_OTHER_PLAYER_MYSEKAI_VISIT",
+    "value": "{0}のマイセカイにおでかけします。\nよろしいですか？"
+  },
+  {
     "wordingKey": "MSG_CONFIRM_DATA_LINK",
     "value": "以下のプレイヤーデータで連携します。\nよろしいですか？"
+  },
+  {
+    "wordingKey": "MSG_CONFIRM_GATE_LEVEL_UP",
+    "value": "{0}をレベルアップします。\nよろしいですか？"
+  },
+  {
+    "wordingKey": "MSG_CONFIRM_LEAVE_MYSEKAI",
+    "value": "{0}のマイセカイを退出します。\nよろしいですか？"
   },
   {
     "wordingKey": "MSG_CONFIRM_MYLIST_RESET",
@@ -710,6 +842,10 @@
   {
     "wordingKey": "MSG_CONFIRM_PLAY_LOGIN_STORY_DIALOG",
     "value": "ログインストーリーを再生します。\nよろしいですか？"
+  },
+  {
+    "wordingKey": "MSG_CONFIRM_RANDOM_VISIT",
+    "value": "ランダムでマイセカイにおでかけします。\nよろしいですか？"
   },
   {
     "wordingKey": "MSG_CONFIRM_REMOVE_BOOK_MARK",
@@ -796,8 +932,64 @@
     "value": "<size={0}>{1}<\/size>消費"
   },
   {
+    "wordingKey": "MSG_CONVERT_BLUEPRINT_RANDOM_BOX_CHOICE_DESCRIPTION",
+    "value": "ヘンカンすると{0}の中からランダムで設計図を入手できる。"
+  },
+  {
+    "wordingKey": "MSG_CONVERT_BLUEPRINT_RANDOM_BOX_DESCRIPTION",
+    "value": "ヘンカンするとランダムで設計図を入手できる。"
+  },
+  {
+    "wordingKey": "MSG_CONVERT_ITEM_NONE",
+    "value": "ヘンカンできるアイテムが\nありません。"
+  },
+  {
     "wordingKey": "MSG_CONVERT_MESSAGE",
     "value": "「{0}」の交換期限が過ぎたため、\n{1}に変換されました。"
+  },
+  {
+    "wordingKey": "MSG_CONVERT_NOT_ENOUGH_CONSUMED_RESOURCE",
+    "value": "必要な素材が足りません"
+  },
+  {
+    "wordingKey": "MSG_CONVERT_NOT_EXPIRED_PASS",
+    "value": "ワールドパスの有効期限を過ぎたため、\nヘンカンすることができません。 "
+  },
+  {
+    "wordingKey": "MSG_CONVERT_RECORD_RANDOM_BOX_CHOICE_DESCRIPTION",
+    "value": "ヘンカンすると{0}の中からランダムでレコードを入手できる。"
+  },
+  {
+    "wordingKey": "MSG_CONVERT_RECORD_RANDOM_BOX_DESCRIPTION",
+    "value": "ヘンカンするとランダムでレコードを入手できる。"
+  },
+  {
+    "wordingKey": "MSG_CONVERT_SLOT_LOCK_EXPIRED_PASS",
+    "value": "ワールドパスの有効期限を過ぎたため、スロットがロックされました。"
+  },
+  {
+    "wordingKey": "MSG_CONVERT_SLOT_SHORTEN_CONFIRM",
+    "value": "クリスタル<color=#ff5588>{0}個<\/color>を消費して\n{1}のヘンカン時間をスキップします。\nよろしいですか？"
+  },
+  {
+    "wordingKey": "MSG_CONVERT_SURPLUS_BLUEPRINT_CHOICE_ATTENTION",
+    "value": "※設計図は被る可能性があります。"
+  },
+  {
+    "wordingKey": "MSG_CONVERT_SURPLUS_BLUEPRINT_CHOICE_TITLE",
+    "value": "ヘンカンする設計図のカテゴリを選択してください。"
+  },
+  {
+    "wordingKey": "MSG_CONVERT_SURPLUS_RECORD_CHOICE_ATTENTION",
+    "value": "※レコードは被る可能性があります。"
+  },
+  {
+    "wordingKey": "MSG_CONVERT_SURPLUS_RECORD_CHOICE_TITLE",
+    "value": "ヘンカンするレコードのユニットを選択してください。"
+  },
+  {
+    "wordingKey": "MSG_CONVERT_UPPER_LIMIT_PASS",
+    "value": "ワールドパスの有効期限を超えるため、\nこの数量をヘンカンすることができません。 \nもう一度選択してください。"
   },
   {
     "wordingKey": "MSG_COPY_COMPLETE_ROOM_ID",
@@ -818,6 +1010,14 @@
   {
     "wordingKey": "MSG_COUNTING_NOW",
     "value": "結果発表はすべてのライブ終了後、\n{0}月{1}日 {2}頃になる予定です。"
+  },
+  {
+    "wordingKey": "MSG_CRAFT_NOT_ENOUGH_MATERIAL",
+    "value": "必要な素材が足りません"
+  },
+  {
+    "wordingKey": "MSG_CRAFT_REACHED_POSSESSION_LIMIT",
+    "value": "持ち物に収納できる数量の上限に達しています"
   },
   {
     "wordingKey": "MSG_CREATE_PRIVATE_ROOM",
@@ -936,6 +1136,10 @@
     "value": "通信が切断されたためホームに戻ります。<size=28>({0})<\/size>"
   },
   {
+    "wordingKey": "MSG_DL_MYSEKAI_VOICE",
+    "value": "マイセカイ用のボイスをダウンロードしますか？\n\n<color=#ff5599>およそ{0}MB<\/color>\n\nマイセカイでの会話をフルボイスでお楽しみいただけます。\n※マイセカイ設定で後から設定可能です。"
+  },
+  {
     "wordingKey": "MSG_DOUBLE_SKILL_INFO_DIALOG",
     "value": "特訓前・特訓後で1種類ずつスキルを持ちます。 \nライブ中に発動するスキルは、表示するイラストの設定を切り替えることで変更されます。"
   },
@@ -962,6 +1166,10 @@
   {
     "wordingKey": "MSG_DO_UPDATE",
     "value": "アップデートする"
+  },
+  {
+    "wordingKey": "MSG_EACH_COLOR_ONE_ONLY",
+    "value": "※この家具は各カラー{0}つしか製作できません。"
   },
   {
     "wordingKey": "MSG_EDITABLE_MYLIST",
@@ -1042,6 +1250,10 @@
   {
     "wordingKey": "MSG_ERROR_NAME_INPUT_MIN",
     "value": "1文字以上入力してください。"
+  },
+  {
+    "wordingKey": "MSG_ERROR_TO_HOME",
+    "value": "エラーが発生しました。\nホームに戻ります。"
   },
   {
     "wordingKey": "MSG_ERROR_TO_TITLE",
@@ -1166,6 +1378,18 @@
   {
     "wordingKey": "MSG_FINISHED_TODAY_CHALLENGE",
     "value": "本日のチャレンジは終了しました。"
+  },
+  {
+    "wordingKey": "MSG_FIXTURE_ACTION_WARNING_OWNER_EDIT_MODE",
+    "value": "オーナーが編集中のため家具にさわれません。"
+  },
+  {
+    "wordingKey": "MSG_FIXTURE_BONUS_UP_DIALOG",
+    "value": "家具ボーナスがアップしました。"
+  },
+  {
+    "wordingKey": "MSG_FIXTURE_POSSESSION",
+    "value": "家具の所持上限が上がりました。"
   },
   {
     "wordingKey": "MSG_FIX_MIKU_COSTUME",
@@ -1368,12 +1592,36 @@
     "value": "{0}つき"
   },
   {
+    "wordingKey": "MSG_GATE_LEVEL_UP_INCREASE_VISITS",
+    "value": "ゲートレベルが上がると、複数人での来訪が増えます。"
+  },
+  {
+    "wordingKey": "MSG_GATE_SEND_INVITATION_CHARACTER_SELECT",
+    "value": "招待状を送るキャラクターを選んでください。"
+  },
+  {
+    "wordingKey": "MSG_GET_BLUEPRINT",
+    "value": "「{0}」を獲得しました。"
+  },
+  {
     "wordingKey": "MSG_GET_GACHA_BONUS",
     "value": "ガチャボーナスを獲得しました。"
   },
   {
     "wordingKey": "MSG_GET_LIVE_MISSION_POINT",
     "value": "ライブPを合計{0}P獲得する"
+  },
+  {
+    "wordingKey": "MSG_GET_RECORD",
+    "value": "レコードを獲得しました。"
+  },
+  {
+    "wordingKey": "MSG_GET_SURPLUS_BLUEPRINT",
+    "value": "設計図を獲得しましたが、すでに所持していたため「<color=#ff5588>{0}<\/color>」として獲得しました。"
+  },
+  {
+    "wordingKey": "MSG_GET_SURPLUS_RECORD",
+    "value": "レコードを獲得しましたが、すでに所持していたため「<color=#ff5588>余ったレコード<\/color>」として獲得しました。"
   },
   {
     "wordingKey": "MSG_GIFT_NOT_SELECT_CONFIRM",
@@ -1396,6 +1644,10 @@
     "value": "<color=#ff5599>{0}<\/color>から\nライブボーナス×{1}をプレゼントされました。"
   },
   {
+    "wordingKey": "MSG_HARVST_SITE_RELEASE_NEW_SITE",
+    "value": "新しいエリアが解放されました。"
+  },
+  {
     "wordingKey": "MSG_HAS_CUTIN",
     "value": "アナザーカットあり"
   },
@@ -1406,6 +1658,14 @@
   {
     "wordingKey": "MSG_HIGH_SCORE_UPDATE_REWARD",
     "value": "ハイスコア<color=#FF5599>{0}<\/color>ごとの更新報酬"
+  },
+  {
+    "wordingKey": "MSG_HOME_SITE_SIZE_EXPAND",
+    "value": "庭のサイズが拡張されました。"
+  },
+  {
+    "wordingKey": "MSG_HOUSING_PRESET_SLOT_LOCK_EXPIRED_PASS",
+    "value": "ワールドパスの有効期限を過ぎたため、スロットがロックされました。"
   },
   {
     "wordingKey": "MSG_ID_NOT_FOUND",
@@ -1460,6 +1720,10 @@
     "value": "プレイヤーIDを入力してください。"
   },
   {
+    "wordingKey": "MSG_INVENTORY_OVER",
+    "value": "持ち物がいっぱいです。"
+  },
+  {
     "wordingKey": "MSG_INVITE_FAILED_CHEERFUL_INVALID_TEAM",
     "value": "所属チームが違うため、招待ルームに入室できませんでした。"
   },
@@ -1484,6 +1748,10 @@
     "value": "グループのアバター衣装を獲得しました。"
   },
   {
+    "wordingKey": "MSG_KICKOUT_DIALOG_TEXT",
+    "value": "プレイヤーの設定変更により退出しました。\n自分のマイセカイに戻ります。"
+  },
+  {
     "wordingKey": "MSG_KICKOUT_TO_HOME",
     "value": "現在、問題が発生し入場することができません。\n入場が再開されましたら、お知らせにて告知いたします。"
   },
@@ -1500,6 +1768,10 @@
     "value": "最新のライブ"
   },
   {
+    "wordingKey": "MSG_LAYOUT_UPDATE",
+    "value": "マイセカイを更新しています…"
+  },
+  {
     "wordingKey": "MSG_LB_RECEIVE_LIMIT",
     "value": "相手の受け取り回数が上限に達したため、\nライブボーナスをプレゼントできませんでした。"
   },
@@ -1510,6 +1782,14 @@
   {
     "wordingKey": "MSG_LEADER_SETTING_CAUTION",
     "value": "リーダーを設定してください。"
+  },
+  {
+    "wordingKey": "MSG_LEARN_PHENOMENA",
+    "value": "新しい天気「<color=#ff5588>{0}<\/color>」に出会い、マイホームに設定できるようになりました。"
+  },
+  {
+    "wordingKey": "MSG_LEAVE_CHARACTER",
+    "value": "{0}が帰りました。"
   },
   {
     "wordingKey": "MSG_LEFT_ROOM",
@@ -1670,6 +1950,10 @@
   {
     "wordingKey": "MSG_MATERIAL_EXCHANGE_CONFIRM_BY_GACHA_CIEL",
     "value": "{0}を<color=#FF5599>{1}<\/color>枚消費して \nアイテムと交換しますか？"
+  },
+  {
+    "wordingKey": "MSG_MATERIAL_POSSESSION",
+    "value": "素材の所持上限が上がりました。"
   },
   {
     "wordingKey": "MSG_MAX_ANOUNCE",
@@ -1900,6 +2184,170 @@
     "value": "※あとからでも変更できます。"
   },
   {
+    "wordingKey": "MSG_MYROOM_SITE_RELEASE_NEW_FLOOR",
+    "value": "新しいフロアが解放されました。"
+  },
+  {
+    "wordingKey": "MSG_MYROOM_SITE_SIZE_EXPAND",
+    "value": "部屋のサイズが拡張されました。"
+  },
+  {
+    "wordingKey": "MSG_MYSEKAI_COLORFUL_PASS_ALERT",
+    "value": "カラフルパスの有効期限が過ぎています。\n新しく購入しますか？"
+  },
+  {
+    "wordingKey": "MSG_MYSEKAI_FIXTURE_JOINT_RELEASE_PUT_LIMIT",
+    "value": "マイホームに置ける<color=#ff5599>柵と道<\/color>の最大数がアップしました。"
+  },
+  {
+    "wordingKey": "MSG_MYSEKAI_FIXTURE_RELEASE_PUT_LIMIT",
+    "value": "マイホームに置ける<color=#ff5599>家具<\/color>の最大数がアップしました。"
+  },
+  {
+    "wordingKey": "MSG_MYSEKAI_GATE_CHANGE_INTERVAL_FORMAT",
+    "value": "変更可能まであと{0}"
+  },
+  {
+    "wordingKey": "MSG_MYSEKAI_GATE_DETAIL_ATTENTION",
+    "value": "※サブユニットが同じバーチャル・シンガーにもボーナスが発生します。\n※オリジナルのバーチャル・シンガーは、すべてのゲートの中で最も高いボーナスが発生するひとつから恩恵を受けられます。"
+  },
+  {
+    "wordingKey": "MSG_MYSEKAI_GATE_IN_INVITATION",
+    "value": "招待状を投函中です。"
+  },
+  {
+    "wordingKey": "MSG_MYSEKAI_GATE_IN_SETTING",
+    "value": "既に設定済みです"
+  },
+  {
+    "wordingKey": "MSG_MYSEKAI_GATE_NOT_ENOUGH_MATERIAL_TO_LEVEL_UP",
+    "value": "レベルアップに必要な素材が足りません"
+  },
+  {
+    "wordingKey": "MSG_MYSEKAI_GATE_REACHED_TO_MAX_LEVEL",
+    "value": "ゲートレベルは上限に達しています"
+  },
+  {
+    "wordingKey": "MSG_MYSEKAI_GATE_SEND_INVITATION",
+    "value": "招待状を投函しよう！"
+  },
+  {
+    "wordingKey": "MSG_MYSEKAI_GATE_SEND_INVITATION_COMPLETED",
+    "value": "{0}をマイセカイに招待しました。"
+  },
+  {
+    "wordingKey": "MSG_MYSEKAI_GATE_SEND_INVITATION_CONFIRM",
+    "value": "{0}に招待状を送りますか？\n<color=#FF3366>一度招待状を送ると、再度招待状を送れるようになるまで\n{1}日かかります。<\/color>"
+  },
+  {
+    "wordingKey": "MSG_MYSEKAI_GATE_SKIN_NOT_SETUP",
+    "value": "このスキンは{0}にのみ設定可能です。"
+  },
+  {
+    "wordingKey": "MSG_MYSEKAI_GATE_SKIN_RELEASE",
+    "value": "スキンを解放しました。"
+  },
+  {
+    "wordingKey": "MSG_MYSEKAI_GATE_SKIN_RELEASE_CONFIRM",
+    "value": "「{0}」を解放します。\nよろしいですか？"
+  },
+  {
+    "wordingKey": "MSG_MYSEKAI_INVALID_TO_TRIPOD_MODE",
+    "value": "うしろにスペースがないため、三脚を置けません。"
+  },
+  {
+    "wordingKey": "MSG_MYSEKAI_JOIN_ERROR",
+    "value": "現在訪問できる人数の上限に達しているため\nこのプレイヤーのマイセカイに遊びに行けません。"
+  },
+  {
+    "wordingKey": "MSG_MYSEKAI_LAYOUT_EDIT_PLANNING_COUNT",
+    "value": "あと{0}"
+  },
+  {
+    "wordingKey": "MSG_MYSEKAI_MATCHING_MODEL_ROOM_DESCRIPTION",
+    "value": "モデルルームを探しています…"
+  },
+  {
+    "wordingKey": "MSG_MYSEKAI_MATCHING_NOW_DESCRIPTION",
+    "value": "マイセカイを探しています…"
+  },
+  {
+    "wordingKey": "MSG_MYSEKAI_MISSION_COMING_SOON",
+    "value": "coming soon..."
+  },
+  {
+    "wordingKey": "MSG_MYSEKAI_MOVE_TO_PRESET_CONFIRM",
+    "value": "現在のレイアウトを保存してプリセットに移動します。\nよろしいですか？"
+  },
+  {
+    "wordingKey": "MSG_MYSEKAI_NOT_ENOUGH_PHOTO_FILM",
+    "value": "フィルムが不足しているため撮影できません。\nフィルムは購入かヘンカンで入手できます。"
+  },
+  {
+    "wordingKey": "MSG_MYSEKAI_OPEN_SITE_MESSAGE",
+    "value": "新しいエリア「{0}」が解放されました。"
+  },
+  {
+    "wordingKey": "MSG_MYSEKAI_OWNER_LEAVE",
+    "value": "通信が切断されました。\n自分のマイセカイに戻ります。"
+  },
+  {
+    "wordingKey": "MSG_MYSEKAI_PHOTO_RELEASE_INFO",
+    "value": "フォトをトップから解除しました。"
+  },
+  {
+    "wordingKey": "MSG_MYSEKAI_PHOTO_SETTING_INFO",
+    "value": "フォトをトップに設定しました。"
+  },
+  {
+    "wordingKey": "MSG_MYSEKAI_PHOTO_SHOT_SAVE",
+    "value": "撮ったフォトをアルバムに保存しました。"
+  },
+  {
+    "wordingKey": "MSG_MYSEKAI_PUT_LIMIT",
+    "value": "家具設置数の上限に達しています。"
+  },
+  {
+    "wordingKey": "MSG_MYSEKAI_SECRET_SHOP_PURCHASE_LIMIT_REACHED",
+    "value": "今週の購入可能回数の上限に達しているため、購入できません。"
+  },
+  {
+    "wordingKey": "MSG_MYSEKAI_SITE_EDIT_SAVE",
+    "value": "保存しました"
+  },
+  {
+    "wordingKey": "MSG_MYSEKAI_SITE_LAYOUT_EDIT_CLEAN_UP_CONFIRM",
+    "value": "編集中のエリアにある家具を全て片付けます。\nよろしいですか？"
+  },
+  {
+    "wordingKey": "MSG_MYSEKAI_SKETCH_CONFIRM",
+    "value": "白紙の設計図にこの家具をスケッチします。\nよろしいですか？"
+  },
+  {
+    "wordingKey": "MSG_MYSEKAI_SKETCH_CRYSTAL_SHOP_GO",
+    "value": "クリスタル ショップへ"
+  },
+  {
+    "wordingKey": "MSG_MYSEKAI_SKETCH_HAD_BLUE_PRINT",
+    "value": "この家具の設計図は既に獲得済みのためスケッチできません。"
+  },
+  {
+    "wordingKey": "MSG_MYSEKAI_SKETCH_HAS_NOT_FIXTURE",
+    "value": "このマイセカイにはスケッチできる家具がありません。"
+  },
+  {
+    "wordingKey": "MSG_MYSEKAI_SKETCH_SPECIAL_FIXTURE",
+    "value": "特別な家具のためスケッチできません。"
+  },
+  {
+    "wordingKey": "MSG_MYSEKAI_SKETCH_TRADE_GO",
+    "value": "ヘンカンへ"
+  },
+  {
+    "wordingKey": "MSG_MYSEKAI_TUTORIAL_CALL_CHARACTER_IN_PHOTO_MODE",
+    "value": "タップしてキャラクターを呼んでみよう！"
+  },
+  {
     "wordingKey": "MSG_NAME_INPUT",
     "value": "名前を10文字以内で入力してください。"
   },
@@ -1956,8 +2404,20 @@
     "value": "練習用スコアがありません。"
   },
   {
+    "wordingKey": "MSG_NONE_INVITATION",
+    "value": "招待状がありません。"
+  },
+  {
+    "wordingKey": "MSG_NONE_MYSEKAI_FRIEND_LIST",
+    "value": "遊びに行けるフレンドがいません。"
+  },
+  {
     "wordingKey": "MSG_NONE_PAID_LIVE_REWARD",
     "value": "初回参加報酬はありません。"
+  },
+  {
+    "wordingKey": "MSG_NONE_TAG_OPTIONS",
+    "value": "キーワードを入力すると候補タグが表示されます。"
   },
   {
     "wordingKey": "MSG_NOTHING_ACCESSORY_ITEM",
@@ -2020,8 +2480,16 @@
     "value": "深夜帯の通知"
   },
   {
+    "wordingKey": "MSG_NOT_CANCEL_INVITATION_EXPIRED_PASS",
+    "value": "ワールドパスの有効期限を過ぎたため、\n招待を取りやめることができません。\nマイホームに戻ります。"
+  },
+  {
     "wordingKey": "MSG_NOT_CONSUME",
     "value": "消費なし"
+  },
+  {
+    "wordingKey": "MSG_NOT_EDIT_LAYOUT_VISITING_CHARACTER_FROM_GATE",
+    "value": "キャラクターがゲートを使用している間はレイアウト変更できません。"
   },
   {
     "wordingKey": "MSG_NOT_ENOUGH_CURRENCY",
@@ -2048,6 +2516,10 @@
     "value": "チケットが足りません。 "
   },
   {
+    "wordingKey": "MSG_NOT_ENOUGH_WHITE_BLUE_PRINT",
+    "value": "白紙の設計図を所持していません。\nクリスタルショップで購入するか、ヘンカンマシンで入手できます。"
+  },
+  {
     "wordingKey": "MSG_NOT_ENTRY_EVENT",
     "value": "イベントに参加していません。"
   },
@@ -2060,6 +2532,14 @@
     "value": "開催中のイベントはありません。"
   },
   {
+    "wordingKey": "MSG_NOT_HAVE_TOOL",
+    "value": "ツールを持っていません。\n作業台で製作してください。"
+  },
+  {
+    "wordingKey": "MSG_NOT_INVITATION_EXPIRED_PASS",
+    "value": "ワールドパスの有効期限を過ぎたため、招待できません。\nマイホームに戻ります。"
+  },
+  {
     "wordingKey": "MSG_NOT_PLAYABLE_EVENT",
     "value": "イベント期間が終了しました。"
   },
@@ -2070,6 +2550,10 @@
   {
     "wordingKey": "MSG_NOT_PUBLISH_MUSIC_ERROR",
     "value": "この楽曲はまだプレイできません。"
+  },
+  {
+    "wordingKey": "MSG_NOT_PURCHASE_SECRET_SHOP_EXPIRED_PASS",
+    "value": "ワールドパスの有効期限を過ぎたため、\nひみつのおみせを利用できません。\nマイホームに戻ります。"
   },
   {
     "wordingKey": "MSG_NOT_RESULT_CONFIRM_NOW",
@@ -2188,8 +2672,16 @@
     "value": "1回限定"
   },
   {
+    "wordingKey": "MSG_ONE_ONLY_CRAFT",
+    "value": "※この家具は{0}つしか製作できません。"
+  },
+  {
     "wordingKey": "MSG_ON_GOING_EVENT_MAINTENANCE",
     "value": "イベントメンテナンス中です。"
+  },
+  {
+    "wordingKey": "MSG_OTHER_MYSEKAI_NAME",
+    "value": "{0}のマイセカイ"
   },
   {
     "wordingKey": "MSG_OTHER_UNIT",
@@ -2204,6 +2696,10 @@
     "value": "開催時間外のためランクマッチTOPに戻ります。"
   },
   {
+    "wordingKey": "MSG_OVER_BOOST_STAMINA_RECOVER",
+    "value": "上限いっぱいです"
+  },
+  {
     "wordingKey": "MSG_OVER_RARITY_3_ONCE",
     "value": "★3以上1人確定!"
   },
@@ -2214,6 +2710,14 @@
   {
     "wordingKey": "MSG_OVER_RECOVER",
     "value": "ライブボーナス上限は999です"
+  },
+  {
+    "wordingKey": "MSG_OWNER_JOIN_NOTICE",
+    "value": "{0}が\nマイセカイに戻りました。"
+  },
+  {
+    "wordingKey": "MSG_OWNER_LEAVE_NOTICE",
+    "value": "{0}が\n退出しました。{1}秒後に\n自分のマイセカイに戻ります。"
   },
   {
     "wordingKey": "MSG_PAID_LIVE_DISC",
@@ -2264,6 +2768,10 @@
     "value": "お支払いが完了していない商品があります。"
   },
   {
+    "wordingKey": "MSG_PHOTOSHOT_UNSAVE",
+    "value": "撮影した写真を破棄して撮影前に戻ります。\nよろしいですか？"
+  },
+  {
     "wordingKey": "MSG_PIN_THE_LEADER",
     "value": "リーダーを固定にする"
   },
@@ -2276,8 +2784,28 @@
     "value": "スタートランクの決定まで\n残り<color=#FF5599>{0}<\/color>マッチ"
   },
   {
+    "wordingKey": "MSG_PLAYER_KICKOUT_AND_BLOCK_RESULT",
+    "value": "このプレイヤーをマイセカイからブロックし、キックしました。"
+  },
+  {
+    "wordingKey": "MSG_PLAYER_KICKOUT_RESULT",
+    "value": "このプレイヤーをマイセカイからキックしました。"
+  },
+  {
+    "wordingKey": "MSG_PLAYER_LEAVE_NOTICE",
+    "value": "{0}がマイセカイから\n退出しました。"
+  },
+  {
+    "wordingKey": "MSG_PLAYER_VISIT_NOTICE",
+    "value": "{0}が\nマイセカイに遊びに来ました。"
+  },
+  {
     "wordingKey": "MSG_PLEASE_SELECT_REWARD",
     "value": "受け取る報酬を1つ選んでください。"
+  },
+  {
+    "wordingKey": "MSG_POSSESSION_OVER_LIMIT",
+    "value": "アイテム所持数上限に達しているため\nアイテムを受け取れませんでした。"
   },
   {
     "wordingKey": "MSG_PRACTICE_EXECUTE",
@@ -2448,6 +2976,10 @@
     "value": "会場の混雑状況を取得しています..."
   },
   {
+    "wordingKey": "MSG_RECEIVED_CONVERT_REWARD",
+    "value": "ヘンカンしたアイテムを受け取りました。"
+  },
+  {
     "wordingKey": "MSG_RECEIVED_COSTUME",
     "value": "獲得しました。"
   },
@@ -2462,6 +2994,10 @@
   {
     "wordingKey": "MSG_RECEIVED_LOGIN_BONUS",
     "value": "報酬を獲得しました。"
+  },
+  {
+    "wordingKey": "MSG_RECEIVED_PARTIAL_REWARD_DUE_TO_POSSESSION_LIMIT",
+    "value": "アイテム所持数上限に達しているため一部受け取ることができませんでした。"
   },
   {
     "wordingKey": "MSG_RECEIVED_PRESENT_MUSIC",
@@ -2540,12 +3076,24 @@
     "value": "育成で新しく「スキルアップ」が\nできるようになりました。\n今すぐ移動しますか？"
   },
   {
+    "wordingKey": "MSG_RELEASING_AT_MYSEKAI_COLORFUL_PASS_PURCHASE",
+    "value": "ワールドパス購入で解放"
+  },
+  {
+    "wordingKey": "MSG_RELEASING_AT_MYSEKAI_MISSION_PASS_PURCHASE",
+    "value": "マイセカイミッションパス\nを購入で解放"
+  },
+  {
     "wordingKey": "MSG_RELEASING_AT_PREMIUM_MISSION_PATH_PURCHASE",
     "value": "プレミアムミッションパス\nを購入で解放"
   },
   {
     "wordingKey": "MSG_REMING_COUNT_SIZE_FORMAT",
     "value": "あと<size={0}>{1}回<\/size>"
+  },
+  {
+    "wordingKey": "MSG_REPAIR_TOOL",
+    "value": "ツールが壊れています。\n作業台で作成してください。"
   },
   {
     "wordingKey": "MSG_REPLACE_CUT_IN_NOTE",
@@ -2672,6 +3220,10 @@
     "value": "※オプションからも設定できます。"
   },
   {
+    "wordingKey": "MSG_SET_DISCOUNT_ANNOTATION",
+    "value": "※ミッションパスのセット購入による割引が適用されています。"
+  },
+  {
     "wordingKey": "MSG_SHOP_AGE_CONFIRM",
     "value": "有償アイテムを購入するには、生年月日の設定が必要です。\n年齢によって1ヶ月に購入できる金額がきまっています。"
   },
@@ -2784,6 +3336,10 @@
     "value": "Vo. {0}"
   },
   {
+    "wordingKey": "MSG_SKETCH_WARNING_OWNER_EDIT_MODE",
+    "value": "オーナーが編集中のためスケッチができません。"
+  },
+  {
     "wordingKey": "MSG_SKILL_PRACTICE_EXECUTE",
     "value": "{0}を消費して スキルアップします。\nよろしいですか？"
   },
@@ -2794,6 +3350,10 @@
   {
     "wordingKey": "MSG_SKILL_PRACTICE_NOTHING",
     "value": "スキル練習可能なメンバーいません。"
+  },
+  {
+    "wordingKey": "MSG_SKIP_SCENE_CONFIRM",
+    "value": "シーンをスキップしますか？"
   },
   {
     "wordingKey": "MSG_SPECIAL_TRAINING_1_CONFIRM",
@@ -2968,8 +3528,24 @@
     "value": "タイトルに戻ります。"
   },
   {
+    "wordingKey": "MSG_TRADE_MACHINE_LEVEL_UP",
+    "value": "ヘンカンマシンのレベルが上がりました"
+  },
+  {
+    "wordingKey": "MSG_TREASURE_BOX_NOTICE",
+    "value": "{0}に\n宝箱が出現！"
+  },
+  {
     "wordingKey": "MSG_TROUBLE_MULTILIVE",
     "value": "他のお客様に迷惑がかかる行為が検出されたため、\n今回のライブ結果が無効になります。\n\n迷惑行為が繰り返し検出された場合、\nデータの利用が停止される可能性があります。"
+  },
+  {
+    "wordingKey": "MSG_TUTORIAL_HARVEST_LIMIT",
+    "value": "ここから採れる素材は十分に揃いました。"
+  },
+  {
+    "wordingKey": "MSG_TUTORIAL_NEXT_CONFIRM",
+    "value": "次のチュートリアルに進んでよろしいですか？"
   },
   {
     "wordingKey": "MSG_TUTORIAL_QUESTION1",
@@ -2982,6 +3558,10 @@
   {
     "wordingKey": "MSG_TUTORIAL_QUESTION3",
     "value": "見えた景色は……"
+  },
+  {
+    "wordingKey": "MSG_TUTORIAL_REQUIRE_RECORD",
+    "value": "レコードを持っていないため、使えません。"
   },
   {
     "wordingKey": "MSG_TUTORIAL_UNIT_CONFIRM_BODY",
@@ -3006,6 +3586,10 @@
   {
     "wordingKey": "MSG_UNLOCK_EVENTSTORY_BODY",
     "value": "イベントストーリー 第{0}話\n「{1}」が解放されました。"
+  },
+  {
+    "wordingKey": "MSG_UNLOCK_FROM_BUY_MYSEKAI_MISSION_PASS",
+    "value": "マイセカイミッションパス購入で解放"
   },
   {
     "wordingKey": "MSG_UNLOCK_FROM_BUY_PREMIUM",
@@ -3050,6 +3634,14 @@
   {
     "wordingKey": "MSG_USE_VSYNC_DIALOG",
     "value": "ライブの滑らかさ(FPS)が端末の性能に合わせて自動調整されます。\n\n<color=#FF3366>※このオプションはプレリリース機能です。\n正常に動作しない場合は設定をONに変更し、\nお問い合わせからご報告ください。<\/color>"
+  },
+  {
+    "wordingKey": "MSG_VALID_SET_UP_IN_FLOOR",
+    "value": "ゆかで設置可能"
+  },
+  {
+    "wordingKey": "MSG_VALID_SET_UP_IN_WALL",
+    "value": "かべで設置可能"
   },
   {
     "wordingKey": "MSG_VETERAN_ROOM_DESCRIPTION",
@@ -3124,6 +3716,10 @@
     "value": "開演まであと{0}分"
   },
   {
+    "wordingKey": "MSG_VISIT_CHARACTER",
+    "value": "{0}から\n{1}が遊びに来ました。"
+  },
+  {
     "wordingKey": "MSG_VL_MESSAGE_CURRENCY_NOT_ENOUGH",
     "value": "入力文字数に対して不足しています"
   },
@@ -3160,6 +3756,14 @@
     "value": "このストーリー以降、\n一時的に暁山 瑞希が「現実世界」に現れなくなります。\n読み進めてもよろしいですか？"
   },
   {
+    "wordingKey": "MSG_WARNING_SKETCH_OTHER_PLAYER",
+    "value": "他のプレイヤーがスケッチ中のため編集ができません。"
+  },
+  {
+    "wordingKey": "MSG_WARNING_USE_FIXTURE_OTHER_PLAYER",
+    "value": "他のプレイヤーが家具を使用中のため編集ができません。"
+  },
+  {
     "wordingKey": "MSG_WARN_ALREADY_USE_STREAMING_LIVE_TICKET",
     "value": "※すでに\n{0}を\n使用しているので消費されません。"
   },
@@ -3194,6 +3798,10 @@
   {
     "wordingKey": "MSG_WEAR_COSTUME_RESULT",
     "value": "ライブ衣装の変更が完了しました。"
+  },
+  {
+    "wordingKey": "MSG_WEAR_OUT_TOOL",
+    "value": "ツールが壊れそうです。"
   },
   {
     "wordingKey": "MSG_WEB_LINK_BANNER_CONFIRM_DIALOG_BODY",
@@ -3292,6 +3900,14 @@
     "value": "達成報酬"
   },
   {
+    "wordingKey": "MYSEKAI_EXPIRE_SITE_HOUSING_PRESET_EXTEND_SLOT_CONFIRM",
+    "value": "マイセカイの拡張プリセット枠に保存された内容を削除して\nマイセカイへ遊びに行きます。\nよろしいですか？"
+  },
+  {
+    "wordingKey": "MYSEKAI_EXPIRE_SITE_HOUSING_PRESET_EXTEND_SLOT_DELETE",
+    "value": "削除して\nマイセカイへ"
+  },
+  {
     "wordingKey": "OMIKUJI_PROVISION_TAB_TITLE",
     "value": "おみくじ説明"
   },
@@ -3336,6 +3952,10 @@
     "value": "大会モードについて"
   },
   {
+    "wordingKey": "TOTAL_POSSESSION_NUMBER",
+    "value": "所持"
+  },
+  {
     "wordingKey": "VIRTUAL_SINGER_NAME_SUBUNIT_FORMAT",
     "value": "{0}[{1}]"
   },
@@ -3352,8 +3972,16 @@
     "value": "リズムゲーム中のオリジナル掛け合いボイス解放\n{0}×{1}"
   },
   {
+    "wordingKey": "WARD_EXCHANGE_ANOTHER_VOCAL",
+    "value": "アナザーボーカルショップで交換"
+  },
+  {
     "wordingKey": "WORD_\bEXCHANGE_NUM",
     "value": "交換数"
+  },
+  {
+    "wordingKey": "WORD_  REQUIRED_MATERIAL",
+    "value": "必要素材"
   },
   {
     "wordingKey": "WORD_10_SONGS",
@@ -3438,6 +4066,10 @@
   {
     "wordingKey": "WORD_ACCESSORIES_CHANGE_CONFIRM_TITLE",
     "value": "アクセサリ変更"
+  },
+  {
+    "wordingKey": "WORD_ACCESSORIES_FURNITURE",
+    "value": "小物家具"
   },
   {
     "wordingKey": "WORD_ACCESSORY",
@@ -3550,6 +4182,10 @@
   {
     "wordingKey": "WORD_AD_REWARD_MUSIC_SHOP",
     "value": "CM視聴で交換"
+  },
+  {
+    "wordingKey": "WORD_AFTER",
+    "value": "アフター"
   },
   {
     "wordingKey": "WORD_AFTER_EVENT",
@@ -3792,6 +4428,14 @@
     "value": "アバター衣装\nアクセサリ"
   },
   {
+    "wordingKey": "WORD_AVATOR_PENLIGHT_INFO",
+    "value": "ペンライトの設定はバーチャルライブでのみ反映されます。"
+  },
+  {
+    "wordingKey": "WORD_AXE",
+    "value": "オノ"
+  },
+  {
     "wordingKey": "WORD_A_PARENTHESES_B_FORMAT",
     "value": "{0}（{1}）"
   },
@@ -3814,6 +4458,14 @@
   {
     "wordingKey": "WORD_BATTERY_ALERT",
     "value": "バッテリーアラート"
+  },
+  {
+    "wordingKey": "WORD_BED",
+    "value": "ベッド"
+  },
+  {
+    "wordingKey": "WORD_BEFORE",
+    "value": " ビフォー"
   },
   {
     "wordingKey": "WORD_BEGINNER_MISSION",
@@ -3842,6 +4494,10 @@
   {
     "wordingKey": "WORD_BLOCKED_USER",
     "value": "ブロックしたプレイヤー"
+  },
+  {
+    "wordingKey": "WORD_BLOCK_AND_KICK",
+    "value": "ブロックしてキック"
   },
   {
     "wordingKey": "WORD_BLOCK_LIST",
@@ -4012,6 +4668,10 @@
     "value": "ライフ０ {0}"
   },
   {
+    "wordingKey": "WORD_BONUS_TARGET",
+    "value": "ボーナス対象"
+  },
+  {
     "wordingKey": "WORD_BOOKMARK",
     "value": "しおりから読む"
   },
@@ -4068,6 +4728,10 @@
     "value": "不具合"
   },
   {
+    "wordingKey": "WORD_BUILDING",
+    "value": "ディスプレイ"
+  },
+  {
     "wordingKey": "WORD_BULK_DOWNLOAD",
     "value": "一括ダウンロード"
   },
@@ -4096,12 +4760,52 @@
     "value": "キャンセル"
   },
   {
+    "wordingKey": "WORD_CANCEL_INVITATION",
+    "value": "取りやめる"
+  },
+  {
+    "wordingKey": "WORD_CANVAS",
+    "value": "キャンバス"
+  },
+  {
+    "wordingKey": "WORD_CANVAS_BONUS",
+    "value": "キャンバスボーナス"
+  },
+  {
+    "wordingKey": "WORD_CANVAS_BONUS_DESCRIPTION",
+    "value": "「{0}　{1}」のパフォーマンス<color=#FF5588>{2}<\/color>UP。(メンバー毎に1回まで)"
+  },
+  {
+    "wordingKey": "WORD_CANVAS_BONUS_DIALOG_DESCRIPTION",
+    "value": "マイセカイで「キャンバス」のいずれか1種類に描くことでパフォーマンス<color=#ff5599>{0}<\/color>UP。"
+  },
+  {
+    "wordingKey": "WORD_CANVAS_FINISHED_FILTER",
+    "value": "製作済"
+  },
+  {
+    "wordingKey": "WORD_CANVAS_FINISH_FILTER",
+    "value": "キャンバス製作状況"
+  },
+  {
+    "wordingKey": "WORD_CANVAS_MENBER_CARD_FINISH",
+    "value": "製作済のため変化なし"
+  },
+  {
+    "wordingKey": "WORD_CANVAS_NOT_FINISHED_FILTER",
+    "value": "未製作"
+  },
+  {
     "wordingKey": "WORD_CAN_ARCHIVE_EVENT_STORY_TIME_SORT",
     "value": "開催順"
   },
   {
     "wordingKey": "WORD_CAN_ENTRY_OFFLINE_EVENT_DIALOG_TITLE",
     "value": "確認"
+  },
+  {
+    "wordingKey": "WORD_CAN_NOT_RECYCLED",
+    "value": "リサイクル不可"
   },
   {
     "wordingKey": "WORD_CAPACITY_SETTING",
@@ -4156,6 +4860,14 @@
     "value": "メンバー種類"
   },
   {
+    "wordingKey": "WORD_CARPET",
+    "value": "カーペット"
+  },
+  {
+    "wordingKey": "WORD_CATEGORY_ORDER",
+    "value": "種類順"
+  },
+  {
     "wordingKey": "WORD_CCU_BUSY",
     "value": "残りわずか"
   },
@@ -4166,6 +4878,10 @@
   {
     "wordingKey": "WORD_CCU_FULL",
     "value": "満員"
+  },
+  {
+    "wordingKey": "WORD_CHAIR",
+    "value": "チェア"
   },
   {
     "wordingKey": "WORD_CHALLENGE",
@@ -4416,6 +5132,10 @@
     "value": "キャラクターランクEXP+{0}"
   },
   {
+    "wordingKey": "WORD_CHARACTER_SEARCH",
+    "value": "キャラクターリアクション検索"
+  },
+  {
     "wordingKey": "WORD_CHARACTER_SELECT",
     "value": "キャラクター選択"
   },
@@ -4512,8 +5232,20 @@
     "value": "応援ランキング"
   },
   {
+    "wordingKey": "WORD_CHEST_FURNITURE_NUM",
+    "value": "所持している家具の総数"
+  },
+  {
+    "wordingKey": "WORD_CHEST_MATERIAL_NUM",
+    "value": "所持している素材の総数"
+  },
+  {
     "wordingKey": "WORD_CLASS",
     "value": "クラス{0}"
+  },
+  {
+    "wordingKey": "WORD_CLEAN_UP",
+    "value": "片付ける"
   },
   {
     "wordingKey": "WORD_CLEAR",
@@ -4522,6 +5254,10 @@
   {
     "wordingKey": "WORD_CLOSE",
     "value": "閉じる"
+  },
+  {
+    "wordingKey": "WORD_CLOSET",
+    "value": "クローゼット"
   },
   {
     "wordingKey": "WORD_CLOTH_COUNT",
@@ -4538,6 +5274,10 @@
   {
     "wordingKey": "WORD_COLLECTION",
     "value": "コレクション"
+  },
+  {
+    "wordingKey": "WORD_COLLECTION_BOARD",
+    "value": "コレクションボード"
   },
   {
     "wordingKey": "WORD_COLLECTION_GACHA",
@@ -4562,6 +5302,14 @@
   {
     "wordingKey": "WORD_COLLECTION_GOODS",
     "value": "甘酒"
+  },
+  {
+    "wordingKey": "WORD_COLLECTION_STAGE",
+    "value": "コレクションステージ"
+  },
+  {
+    "wordingKey": "WORD_COLLECTION_STAND",
+    "value": "コレクションスタンド"
   },
   {
     "wordingKey": "WORD_COLLECTION_STATE",
@@ -4676,6 +5424,10 @@
     "value": "完読スタンプ"
   },
   {
+    "wordingKey": "WORD_COMPLETE_REWARD",
+    "value": "コンプリート報酬"
+  },
+  {
     "wordingKey": "WORD_COMPOSER",
     "value": "作曲"
   },
@@ -4754,6 +5506,94 @@
   {
     "wordingKey": "WORD_CONTINUOUS_BUY_HIGH_TIER_COUNT_BUTTON_TEXT",
     "value": "{0}ヶ月"
+  },
+  {
+    "wordingKey": "WORD_CONVERSATION_DETAIL",
+    "value": "リアクションするキャラクター"
+  },
+  {
+    "wordingKey": "WORD_CONVERT_COMPLETE_FORMAT",
+    "value": "<size=60><color=#f280b7>{0}<\/color><\/size><size=60><color=#ffffff>\/<\/color><\/size><size=32><color=#ffffff>{1}<\/color><\/size>"
+  },
+  {
+    "wordingKey": "WORD_CONVERT_COMPLETE_STATUS",
+    "value": "完了"
+  },
+  {
+    "wordingKey": "WORD_CONVERT_FIXTURE_LEVEL_RELEASE",
+    "value": "マイセカイミッション\nクリアで解放"
+  },
+  {
+    "wordingKey": "WORD_CONVERT_ITEM_END_AT",
+    "value": "{0}まで"
+  },
+  {
+    "wordingKey": "WORD_CONVERT_ITEM_REFRESH",
+    "value": "{0}にリセット"
+  },
+  {
+    "wordingKey": "WORD_CONVERT_ITEM_REMAINING_COUNT",
+    "value": "あと{0}回"
+  },
+  {
+    "wordingKey": "WORD_CONVERT_ITEM_SELECT",
+    "value": "アイテム選択"
+  },
+  {
+    "wordingKey": "WORD_CONVERT_ITEM_SELECT_TAB",
+    "value": "つくるもの"
+  },
+  {
+    "wordingKey": "WORD_CONVERT_ITEM_SURPLUS_BLUEPRINT_FIXTURE_MAIN_GENRE_CHOICE",
+    "value": "なにかの設計図\n（家具種類からランダム）"
+  },
+  {
+    "wordingKey": "WORD_CONVERT_ITEM_SURPLUS_BLUEPRINT_RANDOM",
+    "value": "なにかの設計図\n（オールランダム）"
+  },
+  {
+    "wordingKey": "WORD_CONVERT_ITEM_SURPLUS_RECORD_CATEGORY_CHOICE",
+    "value": "ひとつのレコード\n（ユニットからランダム）"
+  },
+  {
+    "wordingKey": "WORD_CONVERT_ITEM_SURPLUS_RECORD_RANDOM",
+    "value": "ひとつのレコード\n（オールランダム）"
+  },
+  {
+    "wordingKey": "WORD_CONVERT_MACHINE_LEVEL",
+    "value": "マシンLv.{0}に到達"
+  },
+  {
+    "wordingKey": "WORD_CONVERT_NOTIFICATION",
+    "value": "ヘンカン完了通知"
+  },
+  {
+    "wordingKey": "WORD_CONVERT_PROGRESS_FORMAT",
+    "value": "<size=60><color=#f280b7>{0}<\/color><\/size><size=60><color=#ffffff>\/<\/color><\/size><size=32><color=#ffffff>{1}<\/color><\/size>"
+  },
+  {
+    "wordingKey": "WORD_CONVERT_RECEIVE_COMPLETED_ALL",
+    "value": "受け取り"
+  },
+  {
+    "wordingKey": "WORD_CONVERT_RECEIVE_COMPLETED_PART",
+    "value": "完成分受け取り"
+  },
+  {
+    "wordingKey": "WORD_CONVERT_RECEIVE_PROGRESS",
+    "value": "アイテムヘンカン中"
+  },
+  {
+    "wordingKey": "WORD_CONVERT_SLOT_COMPLETED_MOBILE_NOTIFICATION",
+    "value": "アイテムのヘンカンが完了しました。"
+  },
+  {
+    "wordingKey": "WORD_CONVERT_SLOT_SHORTEN_DECIDE",
+    "value": "スキップ"
+  },
+  {
+    "wordingKey": "WORD_CONVERT_START",
+    "value": "ヘンカンする"
   },
   {
     "wordingKey": "WORD_COPY",
@@ -4836,8 +5676,24 @@
     "value": "製作する衣装"
   },
   {
+    "wordingKey": "WORD_CRAFT_COUNT",
+    "value": "製作数"
+  },
+  {
+    "wordingKey": "WORD_CRAFT_REACHED_POSSESSION_LIMIT",
+    "value": "作成不可"
+  },
+  {
     "wordingKey": "WORD_CREATE",
     "value": "作成"
+  },
+  {
+    "wordingKey": "WORD_CREATED",
+    "value": "製作済"
+  },
+  {
+    "wordingKey": "WORD_CREATE_CONFIRM",
+    "value": "{0}を<color=#ff5599>{1}個<\/color>製作します。\nよろしいですか？"
   },
   {
     "wordingKey": "WORD_CREATE_PRIVATE_ROOM",
@@ -4846,6 +5702,10 @@
   {
     "wordingKey": "WORD_CREATE_ROOM",
     "value": "ルーム作成"
+  },
+  {
+    "wordingKey": "WORD_CREATOR",
+    "value": "作者"
   },
   {
     "wordingKey": "WORD_CREATOR_NAME",
@@ -4882,6 +5742,22 @@
   {
     "wordingKey": "WORD_CURRENT_HIGH_SCORE",
     "value": "現在のハイスコア"
+  },
+  {
+    "wordingKey": "WORD_CUSTOM_DISPLAY_TITLE",
+    "value": "ディスプレイ"
+  },
+  {
+    "wordingKey": "WORD_CUSTOM_FURNITURE",
+    "value": "ディスプレイ家具"
+  },
+  {
+    "wordingKey": "WORD_CUSTOM_GOODS_DISPLAY",
+    "value": "グッズを置くディスプレイを選択してください。"
+  },
+  {
+    "wordingKey": "WORD_CUSTOM_PHOTO_DISPLAY",
+    "value": "フォトを飾るディスプレイを選択してください"
   },
   {
     "wordingKey": "WORD_CUSTOM_PROFILE",
@@ -5020,6 +5896,10 @@
     "value": "削除"
   },
   {
+    "wordingKey": "WORD_DEMOLITION",
+    "value": "リサイクル"
+  },
+  {
     "wordingKey": "WORD_DESC_ORDER",
     "value": "降順"
   },
@@ -5052,6 +5932,10 @@
     "value": "難易度解放"
   },
   {
+    "wordingKey": "WORD_DiSASSEMBLE_FIXTURE_CONFIRM",
+    "value": "選択した家具をリサイクルします。よろしいですか？"
+  },
+  {
     "wordingKey": "WORD_DISCONNECT",
     "value": "通信切断"
   },
@@ -5070,6 +5954,10 @@
   {
     "wordingKey": "WORD_DIVIDE_FORMAT",
     "value": "÷{0}"
+  },
+  {
+    "wordingKey": "WORD_DOLL",
+    "value": "ぬいぐるみ"
   },
   {
     "wordingKey": "WORD_DOT",
@@ -5120,8 +6008,16 @@
     "value": "設定する"
   },
   {
+    "wordingKey": "WORD_DRAW_MEMBER",
+    "value": "描くメンバー"
+  },
+  {
     "wordingKey": "WORD_DURING_SHOW",
     "value": "開演中！"
+  },
+  {
+    "wordingKey": "WORD_EARN_MATERIAL",
+    "value": "獲得素材"
   },
   {
     "wordingKey": "WORD_EASY_FILTER",
@@ -5136,12 +6032,20 @@
     "value": "編集破棄"
   },
   {
+    "wordingKey": "WORD_EDIT_MODE",
+    "value": "編集モード"
+  },
+  {
     "wordingKey": "WORD_EDIT_MYLIST",
     "value": "楽曲マイリスト編集"
   },
   {
     "wordingKey": "WORD_EDIT_MYLIST_DECIDE",
     "value": "マイリスト編集"
+  },
+  {
+    "wordingKey": "WORD_EDIT_SAVE_CONFIRMATION",
+    "value": "編集内容が保存されていません。\n保存して戻りますか？"
   },
   {
     "wordingKey": "WORD_EFFECT",
@@ -5156,20 +6060,76 @@
     "value": "{0}倍"
   },
   {
+    "wordingKey": "WORD_ELEMENT",
+    "value": "素材"
+  },
+  {
+    "wordingKey": "WORD_ELEMENT_COUNT",
+    "value": "素材所持数"
+  },
+  {
     "wordingKey": "WORD_ELIPSIS_SCREEN_SHOT",
     "value": "スクショ"
+  },
+  {
+    "wordingKey": "WORD_EMPTY_AVATAR",
+    "value": "表示できるアバターがありません。"
   },
   {
     "wordingKey": "WORD_EMPTY_BACKGROUND",
     "value": "表示できる背景がありません。"
   },
   {
+    "wordingKey": "WORD_EMPTY_CHEKI",
+    "value": "表示できるフォトがありません。"
+  },
+  {
     "wordingKey": "WORD_EMPTY_COLLECTION",
     "value": "表示できるコレクションがありません。"
   },
   {
+    "wordingKey": "WORD_EMPTY_FURNITURE",
+    "value": "家具がありません。"
+  },
+  {
+    "wordingKey": "WORD_EMPTY_HONOR",
+    "value": "表示できる称号がありません。"
+  },
+  {
+    "wordingKey": "WORD_EMPTY_ITEM",
+    "value": "アイテムがありません。"
+  },
+  {
+    "wordingKey": "WORD_EMPTY_MATERIAL",
+    "value": "素材がありません。"
+  },
+  {
     "wordingKey": "WORD_EMPTY_MEMBER",
     "value": "表示できるメンバーがいません。"
+  },
+  {
+    "wordingKey": "WORD_EMPTY_MYSEKAI_COLLECTION",
+    "value": "表示できるコレクションがありません。"
+  },
+  {
+    "wordingKey": "WORD_EMPTY_MYSEKAI_MEMBER",
+    "value": "表示できるメンバーがいません。"
+  },
+  {
+    "wordingKey": "WORD_EMPTY_PENLIGHT",
+    "value": "表示できるペンライトがありません。"
+  },
+  {
+    "wordingKey": "WORD_EMPTY_PRESET",
+    "value": "表示できるプリセットがありません。"
+  },
+  {
+    "wordingKey": "WORD_EMPTY_RECORDJACKET",
+    "value": "表示できるジャケットがありません。"
+  },
+  {
+    "wordingKey": "WORD_EMPTY_RECYCLE_FURNITURE",
+    "value": "リサイクルできる家具がありません。"
   },
   {
     "wordingKey": "WORD_EMPTY_SHAPE",
@@ -5178,6 +6138,10 @@
   {
     "wordingKey": "WORD_EMPTY_SUPPORT_DECK_MEMBER",
     "value": "--"
+  },
+  {
+    "wordingKey": "WORD_EMPTY_TOOL",
+    "value": "ツールがありません。"
   },
   {
     "wordingKey": "WORD_END",
@@ -5540,6 +6504,10 @@
     "value": "ご意見のお願い"
   },
   {
+    "wordingKey": "WORD_FENCE",
+    "value": "柵"
+  },
+  {
     "wordingKey": "WORD_FEVER_EFFECT",
     "value": "FEVER演出"
   },
@@ -5600,6 +6568,14 @@
     "value": "最終確認"
   },
   {
+    "wordingKey": "WORD_FIND_FROM_SONG_TITLE_CREATOR_NAME",
+    "value": "曲名・クリエイター名から探す"
+  },
+  {
+    "wordingKey": "WORD_FIRST_CRAFT_BONUS",
+    "value": "新規製作ボーナス<size=32>＋{0}<\/size>"
+  },
+  {
     "wordingKey": "WORD_FIRST_REWARD",
     "value": "初回参加報酬"
   },
@@ -5612,8 +6588,52 @@
     "value": "確定枠提供割合"
   },
   {
+    "wordingKey": "WORD_FIXTURE",
+    "value": "家具"
+  },
+  {
+    "wordingKey": "WORD_FIXTURE_BONUS_DESCRIPTION",
+    "value": "{0}のパフォーマンス<color=#FF5588>{1}%<\/color>UP。(サイズ毎に1回まで)"
+  },
+  {
+    "wordingKey": "WORD_FIXTURE_CRAFT_CONFIRM",
+    "value": "{0}を<color=#ff5599>{1}個<\/color>製作します。\nよろしいですか？"
+  },
+  {
+    "wordingKey": "WORD_FIXTURE_CREATE_RESULT",
+    "value": "家具の製作が完了しました。"
+  },
+  {
+    "wordingKey": "WORD_FIXTURE_DETAIL",
+    "value": "家具詳細"
+  },
+  {
+    "wordingKey": "WORD_FIXTURE_POSSESSION",
+    "value": "家具所持上限アップ"
+  },
+  {
+    "wordingKey": "WORD_FIXTURE_RECYCLE_RESULT",
+    "value": "家具をリサイクルしてアイテムを獲得しました。"
+  },
+  {
     "wordingKey": "WORD_FLICK",
     "value": "フリック"
+  },
+  {
+    "wordingKey": "WORD_FLOOR",
+    "value": "床"
+  },
+  {
+    "wordingKey": "WORD_FLOORING",
+    "value": "床"
+  },
+  {
+    "wordingKey": "WORD_FLOWER",
+    "value": "花"
+  },
+  {
+    "wordingKey": "WORD_FOLIAGE_PLANT",
+    "value": "観葉植物"
   },
   {
     "wordingKey": "WORD_FONT",
@@ -5626,6 +6646,10 @@
   {
     "wordingKey": "WORD_FONT_OUTLINE_COLOR_SELECT",
     "value": "枠線カラー選択"
+  },
+  {
+    "wordingKey": "WORD_FORMAT_RECORD_NAME",
+    "value": "『{0}』のレコード"
   },
   {
     "wordingKey": "WORD_FORTUNE",
@@ -5812,6 +6836,10 @@
     "value": "メイン"
   },
   {
+    "wordingKey": "WORD_FURNITURE",
+    "value": "家具"
+  },
+  {
     "wordingKey": "WORD_GACHA",
     "value": "ガチャ"
   },
@@ -5920,6 +6948,22 @@
     "value": "ガチャチケット"
   },
   {
+    "wordingKey": "WORD_GARDEN",
+    "value": "庭"
+  },
+  {
+    "wordingKey": "WORD_GATE_CONTENT_INVITATION",
+    "value": "招待状"
+  },
+  {
+    "wordingKey": "WORD_GATE_CONTENT_SKIN",
+    "value": "スキン"
+  },
+  {
+    "wordingKey": "WORD_GATE_CONTENT_UNIT",
+    "value": "ユニット"
+  },
+  {
     "wordingKey": "WORD_GENERAL",
     "value": "汎用"
   },
@@ -6000,6 +7044,10 @@
     "value": "アイテム設定確認"
   },
   {
+    "wordingKey": "WORD_GOTO_SELECT_MEMBER",
+    "value": "メンバー選択へ"
+  },
+  {
     "wordingKey": "WORD_GOTO_SHOP_TEXT",
     "value": "ショップへ"
   },
@@ -6014,6 +7062,10 @@
   {
     "wordingKey": "WORD_GO_AREA_SHOP",
     "value": "エリアアイテムショップへ"
+  },
+  {
+    "wordingKey": "WORD_GO_BACK",
+    "value": "戻る"
   },
   {
     "wordingKey": "WORD_GO_CHALLENGE_LIVE",
@@ -6108,6 +7160,26 @@
     "value": "イベントTOPへ"
   },
   {
+    "wordingKey": "WORD_GO_TO_FRIEND_MYSEKAI_LIST",
+    "value": "フレンドの\nマイセカイへ"
+  },
+  {
+    "wordingKey": "WORD_GO_TO_MYSEKAI",
+    "value": "出発"
+  },
+  {
+    "wordingKey": "WORD_GO_TO_MYSEKAI＿HOUSING_COMPETITION",
+    "value": "COMING SOON..."
+  },
+  {
+    "wordingKey": "WORD_GO_TO_MY_SEKAI",
+    "value": "マイセカイへ"
+  },
+  {
+    "wordingKey": "WORD_GO_TO_OTHER_MYSEKAI",
+    "value": "だれかの\nマイセカイへ"
+  },
+  {
     "wordingKey": "WORD_GO_TO_STREAMING_LIVE_TICKET_SHOP",
     "value": "チケット購入"
   },
@@ -6122,6 +7194,10 @@
   {
     "wordingKey": "WORD_GRATE_MISFORTUNE",
     "value": "大凶"
+  },
+  {
+    "wordingKey": "WORD_GROUND",
+    "value": "地面"
   },
   {
     "wordingKey": "WORD_GROUP_DECIDE",
@@ -6182,6 +7258,18 @@
   {
     "wordingKey": "WORD_HAIR_TYPE",
     "value": "ヘアスタイル"
+  },
+  {
+    "wordingKey": "WORD_HANGING_FURNITURE",
+    "value": "壁掛け家具"
+  },
+  {
+    "wordingKey": "WORD_HARVST_SITE_RELEASE_NEW_SITE",
+    "value": "採取エリアの拡大"
+  },
+  {
+    "wordingKey": "WORD_HASH_TAG_FORMAT",
+    "value": "#{0}"
   },
   {
     "wordingKey": "WORD_HAS_3D_MV_CUTIN",
@@ -6268,6 +7356,22 @@
     "value": "ホームに戻る"
   },
   {
+    "wordingKey": "WORD_HOME_ELECTRONICS",
+    "value": "家電"
+  },
+  {
+    "wordingKey": "WORD_HOME_SITE_GARDEN",
+    "value": "ホームサイト（庭）"
+  },
+  {
+    "wordingKey": "WORD_HOME_SITE_ROOM",
+    "value": "ホームサイト（部屋）"
+  },
+  {
+    "wordingKey": "WORD_HOME_SITE_SIZE_EXPAND",
+    "value": "庭のサイズ拡張"
+  },
+  {
     "wordingKey": "WORD_HONOR",
     "value": "称号"
   },
@@ -6320,6 +7424,30 @@
     "value": "称号「{0}」"
   },
   {
+    "wordingKey": "WORD_HONOR_GROUP_FILTER_ACHIEVEMENT",
+    "value": "アチーブメント"
+  },
+  {
+    "wordingKey": "WORD_HONOR_GROUP_FILTER_ALL",
+    "value": "すべて"
+  },
+  {
+    "wordingKey": "WORD_HONOR_GROUP_FILTER_BONDS",
+    "value": "キズナ"
+  },
+  {
+    "wordingKey": "WORD_HONOR_GROUP_FILTER_CHARACTER",
+    "value": "キャラクター"
+  },
+  {
+    "wordingKey": "WORD_HONOR_GROUP_FILTER_EVENT",
+    "value": "イベント"
+  },
+  {
+    "wordingKey": "WORD_HONOR_GROUP_FILTER_TITLE",
+    "value": "称号"
+  },
+  {
     "wordingKey": "WORD_HONOR_NO_SETTING",
     "value": "称号未設定"
   },
@@ -6338,6 +7466,14 @@
   {
     "wordingKey": "WORD_HOURS_LEFT",
     "value": "あと{0}時間"
+  },
+  {
+    "wordingKey": "WORD_HOUSE",
+    "value": "家"
+  },
+  {
+    "wordingKey": "WORD_HOUSING_COMPETITION_COMING_SOON",
+    "value": "アップデート予定"
   },
   {
     "wordingKey": "WORD_ID",
@@ -6428,6 +7564,10 @@
     "value": "ライブ中"
   },
   {
+    "wordingKey": "WORD_IN_SETTING",
+    "value": "設置中"
+  },
+  {
     "wordingKey": "WORD_IN_VIRTUAL_LIVE",
     "value": "バーチャル\nライブ中"
   },
@@ -6436,8 +7576,20 @@
     "value": "補填開催中"
   },
   {
+    "wordingKey": "WORD_IS_TO_MOVING",
+    "value": "{0}に移動しますか？"
+  },
+  {
+    "wordingKey": "WORD_IS_TO_MOVING_NOT_DROP",
+    "value": "{0}に移動しますか？\n<color=#FF3366>※現在の天気ではこの素材は採取できません。<\/color>"
+  },
+  {
     "wordingKey": "WORD_ITEM",
     "value": "アイテム"
+  },
+  {
+    "wordingKey": "WORD_ITEM_CRYSTAL",
+    "value": "アイテム・クリスタル"
   },
   {
     "wordingKey": "WORD_ITEM_DETAIL",
@@ -6450,6 +7602,10 @@
   {
     "wordingKey": "WORD_I_HAVE",
     "value": "所持"
+  },
+  {
+    "wordingKey": "WORD_JACKET_MUSIC_SELECT",
+    "value": "ジャケット"
   },
   {
     "wordingKey": "WORD_JEWEL",
@@ -6484,6 +7640,10 @@
     "value": "キーストーリー"
   },
   {
+    "wordingKey": "WORD_LAG",
+    "value": "ラグ"
+  },
+  {
     "wordingKey": "WORD_LATEST_STORY",
     "value": "最新ストーリー"
   },
@@ -6502,6 +7662,10 @@
   {
     "wordingKey": "WORD_LAYER_UP",
     "value": "前面"
+  },
+  {
+    "wordingKey": "WORD_LAYOUT_LIST",
+    "value": "レイアウト一覧"
   },
   {
     "wordingKey": "WORD_LEFT_ROOM",
@@ -6568,6 +7732,10 @@
     "value": "提供メンバー一覧"
   },
   {
+    "wordingKey": "WORD_LIST_MUSIC_SELECT",
+    "value": "リスト"
+  },
+  {
     "wordingKey": "WORD_LIVE",
     "value": "ライブ"
   },
@@ -6578,6 +7746,14 @@
   {
     "wordingKey": "WORD_LIVE_ASSIST_SETTING",
     "value": "ライブ補助設定"
+  },
+  {
+    "wordingKey": "WORD_LIVE_BONUS",
+    "value": "ライブボーナス"
+  },
+  {
+    "wordingKey": "WORD_LIVE_BONUS_NOT_ENOUGH",
+    "value": "ライブボーナスが不足しています。"
   },
   {
     "wordingKey": "WORD_LIVE_BONUS_PRESENT",
@@ -6928,6 +8104,18 @@
     "value": "{0}連勝中！"
   },
   {
+    "wordingKey": "WORD_MATERIAL_MISSING",
+    "value": "材料不足"
+  },
+  {
+    "wordingKey": "WORD_MATERIAL_POSSESSION",
+    "value": "素材所持上限アップ"
+  },
+  {
+    "wordingKey": "WORD_MATERIAL_RECYCLE_RESULT",
+    "value": "素材をリサイクルしてコインを獲得しました。"
+  },
+  {
     "wordingKey": "WORD_MAX",
     "value": "MAX"
   },
@@ -6942,6 +8130,10 @@
   {
     "wordingKey": "WORD_MEMBER",
     "value": "メンバー"
+  },
+  {
+    "wordingKey": "WORD_MEMBER_CANVAS_CRAFT_CONFIRM",
+    "value": "以下のメンバーのキャンバスを<color=#ff5599>{0}個<\/color>製作します。\nよろしいですか？"
   },
   {
     "wordingKey": "WORD_MEMBER_CONFIRM",
@@ -7010,6 +8202,10 @@
   {
     "wordingKey": "WORD_MENU_COSTUME",
     "value": "メニュー衣装"
+  },
+  {
+    "wordingKey": "WORD_MENU_MYSEKAI_RANK",
+    "value": "マイセカイランク"
   },
   {
     "wordingKey": "WORD_MESSAGE",
@@ -7104,6 +8300,10 @@
     "value": "メンバー集め"
   },
   {
+    "wordingKey": "WORD_MISSION_TITLE_COLLECT_MYSEKAI_FIXTURE",
+    "value": "マイセカイ家具"
+  },
+  {
     "wordingKey": "WORD_MISSION_TITLE_COLLECT_STAMP",
     "value": "スタンプ集め"
   },
@@ -7154,6 +8354,10 @@
   {
     "wordingKey": "WORD_MODE",
     "value": "モード"
+  },
+  {
+    "wordingKey": "WORD_MODEL_ROOM",
+    "value": "モデルルーム"
   },
   {
     "wordingKey": "WORD_MODE_SETTING",
@@ -7252,6 +8456,10 @@
     "value": "移動"
   },
   {
+    "wordingKey": "WORD_MUSIC_PLAYER",
+    "value": "MUSIC PLAYER"
+  },
+  {
     "wordingKey": "WORD_MUSIC_REWARD",
     "value": "楽曲報酬"
   },
@@ -7344,12 +8552,172 @@
     "value": "マイリストが保存されていません。\n保存して戻りますか？"
   },
   {
+    "wordingKey": "WORD_MYROOM_SITE_RELEASE_NEW_FLOOR",
+    "value": "部屋の解放"
+  },
+  {
+    "wordingKey": "WORD_MYROOM_SITE_SIZE_EXPAND",
+    "value": "部屋サイズの拡張"
+  },
+  {
+    "wordingKey": "WORD_MYSEKAI",
+    "value": "マイセカイ"
+  },
+  {
+    "wordingKey": "WORD_MYSEKAI_CAN_PUT",
+    "value": "置いてある家具"
+  },
+  {
+    "wordingKey": "WORD_MYSEKAI_COLORFUL_PASS_ALERT_TITLE",
+    "value": "有効期限切れ"
+  },
+  {
+    "wordingKey": "WORD_MYSEKAI_COLORFUL_PASS_OK",
+    "value": "クリスタルショップへ"
+  },
+  {
+    "wordingKey": "WORD_MYSEKAI_CONVERT_OUT_OF_STOCK_DETAIL",
+    "value": "OUT OF STOCK"
+  },
+  {
+    "wordingKey": "WORD_MYSEKAI_CONVERT_OUT_OF_STOCK_THUMBNAIL",
+    "value": "OUT OF\nSTOCK"
+  },
+  {
+    "wordingKey": "WORD_MYSEKAI_DAILY_UPDATE",
+    "value": "毎日更新"
+  },
+  {
+    "wordingKey": "WORD_MYSEKAI_FIXTURE_JOINT_LAYOUT_COUNT",
+    "value": "置いてある道と柵"
+  },
+  {
+    "wordingKey": "WORD_MYSEKAI_FIXTURE_LAYOUT_COUNT",
+    "value": "置いてある家具"
+  },
+  {
+    "wordingKey": "WORD_MYSEKAI_FIXTURE_RELEASE_PUT_LIMIT",
+    "value": "設置物の数"
+  },
+  {
+    "wordingKey": "WORD_MYSEKAI_GATE_CHARACTER_VISIT_COUNT_RATE",
+    "value": "遊びに来る人数の確率"
+  },
+  {
+    "wordingKey": "WORD_MYSEKAI_GATE_LEVEL",
+    "value": "ゲートレベル"
+  },
+  {
+    "wordingKey": "WORD_MYSEKAI_GATE_POWER_BONUS_RATE",
+    "value": "パフォーマンスボーナス"
+  },
+  {
+    "wordingKey": "WORD_MYSEKAI_GATE_POWER_BONUS_UNIT",
+    "value": "のメンバー"
+  },
+  {
+    "wordingKey": "WORD_MYSEKAI_GATE_VISIT_CHARACTER",
+    "value": "来訪するキャラクター"
+  },
+  {
+    "wordingKey": "WORD_MYSEKAI_GATE_VISIT_COUNT",
+    "value": "{0}人"
+  },
+  {
+    "wordingKey": "WORD_MYSEKAI_GATE_VISIT_COUNT_LEVEL",
+    "value": "レベル{0}"
+  },
+  {
+    "wordingKey": "WORD_MYSEKAI_GATE_VISIT_DEFAULT_CHARACTER",
+    "value": "最初から来訪するキャラクター"
+  },
+  {
+    "wordingKey": "WORD_MYSEKAI_INFO",
+    "value": "マイセカイインフォ"
+  },
+  {
+    "wordingKey": "WORD_MYSEKAI_INVALID_ANIMATION_SPACE",
+    "value": "アニメーションスペースの確保が必要な家具があります。\n配置を見直してください。"
+  },
+  {
+    "wordingKey": "WORD_MYSEKAI_INVALID_LAYOUT",
+    "value": "不正な配置を行っている家具があります。\n全ての変更を破棄してホームに戻りますか？"
+  },
+  {
+    "wordingKey": "WORD_MYSEKAI_INVALID_PUT_SPACE",
+    "value": "この家具を設置するスペースがありません。"
+  },
+  {
+    "wordingKey": "WORD_MYSEKAI_IN_DOOR_NAME",
+    "value": "室内({0})"
+  },
+  {
+    "wordingKey": "WORD_MYSEKAI_ITEM_MAX",
+    "value": "999+"
+  },
+  {
+    "wordingKey": "WORD_MYSEKAI_MATERIAL_MAX",
+    "value": "9,999+"
+  },
+  {
+    "wordingKey": "WORD_MYSEKAI_NOT_ENOUGH_PHOTO_FILM_TO_CONVERT",
+    "value": "ヘンカンへ"
+  },
+  {
+    "wordingKey": "WORD_MYSEKAI_NOT_ENOUGH_PHOTO_FILM_TO_CRYSTAL_SHOP",
+    "value": "クリスタル\nショップへ"
+  },
+  {
+    "wordingKey": "WORD_MYSEKAI_PHOTO_ALBUM_EMPTY",
+    "value": "保存した写真がありません。"
+  },
+  {
+    "wordingKey": "WORD_MYSEKAI_PHOTO_ALBUM_NAME",
+    "value": "アルバム"
+  },
+  {
+    "wordingKey": "WORD_MYSEKAI_PUT_LIMIT_FIXTURE_COUNT",
+    "value": "置ける家具の数"
+  },
+  {
+    "wordingKey": "WORD_MYSEKAI_PUT_LIMIT_FIXTURE_JOINT_COUNT",
+    "value": "置ける道と柵の数"
+  },
+  {
+    "wordingKey": "WORD_MYSEKAI_RANK",
+    "value": "マイセカイランク"
+  },
+  {
+    "wordingKey": "WORD_MYSEKAI_RANK_UP_ICON_TITLE",
+    "value": "ランク"
+  },
+  {
+    "wordingKey": "WORD_MYSEKAI_SIZE",
+    "value": "サイズ"
+  },
+  {
+    "wordingKey": "WORD_MYSEKAI_VISIST",
+    "value": "マイセカイへの受け入れ"
+  },
+  {
+    "wordingKey": "WORD_MYSEKAI_VOICE",
+    "value": "マイセカイボイス"
+  },
+  {
+    "wordingKey": "WORD_MYSEKAI_WEEKLY_UPDATE",
+    "value": "毎週月曜日更新"
+  },
+  {
     "wordingKey": "WORD_MY_FAVORITE_STORY",
     "value": "推しストーリー"
   },
   {
     "wordingKey": "WORD_MY_LIST",
     "value": "楽曲マイリスト"
+  },
+  {
+    "wordingKey": "WORD_MY_SEKAI_MATERIAL_GAME_CHARACTER",
+    "value": "七色の\nメモリア"
   },
   {
     "wordingKey": "WORD_NAME",
@@ -7396,8 +8764,16 @@
     "value": "未参加"
   },
   {
+    "wordingKey": "WORD_NORMAL_FURNITURE",
+    "value": "一般"
+  },
+  {
     "wordingKey": "WORD_NORMAL_MISSION",
     "value": "通常ミッション"
+  },
+  {
+    "wordingKey": "WORD_NORMAL_VOICE",
+    "value": "基本ボイス"
   },
   {
     "wordingKey": "WORD_NOTATION",
@@ -7414,6 +8790,10 @@
   {
     "wordingKey": "WORD_NOTICE",
     "value": "通知"
+  },
+  {
+    "wordingKey": "WORD_NOT_BLOCK_AND_KICK",
+    "value": "ブロックせずキック"
   },
   {
     "wordingKey": "WORD_NOT_CLEAR",
@@ -7516,6 +8896,10 @@
     "value": "今選択する"
   },
   {
+    "wordingKey": "WORD_NO_BLUE_PRINT",
+    "value": "つくれる家具がありません。"
+  },
+  {
     "wordingKey": "WORD_NO_CHANGE1",
     "value": "同グループのため"
   },
@@ -7526,6 +8910,10 @@
   {
     "wordingKey": "WORD_NO_CHARGE",
     "value": "無償"
+  },
+  {
+    "wordingKey": "WORD_NO_HAS_FIXTURE_TALK",
+    "value": "この家具でのリアクションはありません。"
   },
   {
     "wordingKey": "WORD_NO_PLACE_CONTENT",
@@ -7544,12 +8932,20 @@
     "value": "未設定"
   },
   {
+    "wordingKey": "WORD_NUMBER_I_HAVE",
+    "value": "所持数"
+  },
+  {
     "wordingKey": "WORD_NUMBER_OF_PEPLE",
     "value": "{0}人"
   },
   {
     "wordingKey": "WORD_OBTAINED_COMPLETE_READ_STAMP",
     "value": "集めた完読スタンプ"
+  },
+  {
+    "wordingKey": "WORD_OBTAINING_LOCATION",
+    "value": "入手場所"
   },
   {
     "wordingKey": "WORD_OBTAIN_ALL",
@@ -7724,6 +9120,18 @@
     "value": "その他"
   },
   {
+    "wordingKey": "WORD_OTHER_COUNT",
+    "value": "他{0}件"
+  },
+  {
+    "wordingKey": "WORD_OTHER_KIND_COUNT",
+    "value": "他{0}種類"
+  },
+  {
+    "wordingKey": "WORD_OUTING_LIST",
+    "value": "お出かけリスト"
+  },
+  {
     "wordingKey": "WORD_OUT_OF_RANKING",
     "value": "圏外"
   },
@@ -7832,6 +9240,22 @@
     "value": "期間限定"
   },
   {
+    "wordingKey": "WORD_PERSON_CONVERSATION",
+    "value": "{0}人でリアクション"
+  },
+  {
+    "wordingKey": "WORD_PHENOMENA_DEFAULT",
+    "value": "時間によって変化"
+  },
+  {
+    "wordingKey": "WORD_PHOTO",
+    "value": "フォト"
+  },
+  {
+    "wordingKey": "WORD_PHOTO_STAND",
+    "value": "卓上キャンバス(写真立て)"
+  },
+  {
     "wordingKey": "WORD_PIAPRO_IDOL_STORY_TITLE",
     "value": "ステージのセカイ編"
   },
@@ -7852,12 +9276,32 @@
     "value": "ワンダーランドのセカイ編"
   },
   {
+    "wordingKey": "WORD_PICKAXE",
+    "value": "ツルハシ"
+  },
+  {
     "wordingKey": "WORD_PICKUP_LIST",
     "value": "ピックアップリスト"
   },
   {
     "wordingKey": "WORD_PICKUP_MEMBER",
     "value": "ピックアップメンバー"
+  },
+  {
+    "wordingKey": "WORD_PILLAR",
+    "value": "柱"
+  },
+  {
+    "wordingKey": "WORD_PLACEHOLDER_SEARCH_KEYWORD_TAG",
+    "value": "キーワード・タグから探す"
+  },
+  {
+    "wordingKey": "WORD_PLACEHOLDER_SEARCH_TAG",
+    "value": "タグから探す"
+  },
+  {
+    "wordingKey": "WORD_PLANT",
+    "value": "植物"
   },
   {
     "wordingKey": "WORD_PLAYER_COMMENT",
@@ -7878,6 +9322,10 @@
   {
     "wordingKey": "WORD_PLAYER_RANK",
     "value": "プレイヤーランク"
+  },
+  {
+    "wordingKey": "WORD_PLAYER_RANK_EXP",
+    "value": "プレイヤーランクEXP"
   },
   {
     "wordingKey": "WORD_PLAYER_RANK_REWARD",
@@ -7928,6 +9376,10 @@
     "value": "再生"
   },
   {
+    "wordingKey": "WORD_PLEASE_SELECT_MEMBER",
+    "value": "キャンバスに描くメンバーを選択してください。"
+  },
+  {
     "wordingKey": "WORD_PLUS_PERCENT_VALUE",
     "value": "+{0}％"
   },
@@ -7936,8 +9388,24 @@
     "value": "「12:00～23:59」"
   },
   {
+    "wordingKey": "WORD_POPULARITY",
+    "value": "人気"
+  },
+  {
     "wordingKey": "WORD_POSSESSION",
     "value": "所持"
+  },
+  {
+    "wordingKey": "WORD_POSSESSION_COUNT_ORDER",
+    "value": "所持数順"
+  },
+  {
+    "wordingKey": "WORD_POSSIBLE_TO_RECYCLED",
+    "value": "解体できる"
+  },
+  {
+    "wordingKey": "WORD_POST",
+    "value": "投稿"
   },
   {
     "wordingKey": "WORD_PRACTICE",
@@ -8004,6 +9472,58 @@
     "value": "受け取り期限が過ぎています"
   },
   {
+    "wordingKey": "WORD_PRESET",
+    "value": "プリセット"
+  },
+  {
+    "wordingKey": "WORD_PRESET_COUNT_MAX",
+    "value": "家具の設置数上限を超えるためプリセットを配置できませんでした。"
+  },
+  {
+    "wordingKey": "WORD_PRESET_DELETE_CONFIRMATION",
+    "value": "<color=#F59>{0}<\/color>を削除します。\nよろしいですか？"
+  },
+  {
+    "wordingKey": "WORD_PRESET_DELETE_FINISH",
+    "value": "プリセットを削除しました。"
+  },
+  {
+    "wordingKey": "WORD_PRESET_HAD_BEEN_SET_CONFIRMATION",
+    "value": "<color=#F59>{0}<\/color>のプリセットをマイセカイに配置します。 \n現在配置している家具は片付けられますがよろしいですか？ \n\n<color=#F36>※現在マイセカイに配置中の家具は一度片づけてから配置されます。<\/color>"
+  },
+  {
+    "wordingKey": "WORD_PRESET_NO_HAVE_CONFIRMATION",
+    "value": "<color=#F59>{0}<\/color>のプリセットをマイセカイに配置します。 \n現在配置している家具は片付けられますがよろしいですか？ \n\n<color=#F36>※プリセットに含まれる現在所持していない家具は配置されません。<\/color>"
+  },
+  {
+    "wordingKey": "WORD_PRESET_OVERWRITE_CONFIRMATION",
+    "value": "<color=#F59>{0}<\/color>に現在のプリセットを上書き保存します。 \n以前保存したプリセットは消えてしまいますがよろしいですか？"
+  },
+  {
+    "wordingKey": "WORD_PRESET_SAVE_FINISH",
+    "value": "プリセットを保存しました。"
+  },
+  {
+    "wordingKey": "WORD_PRESET_SETUP",
+    "value": "配置"
+  },
+  {
+    "wordingKey": "WORD_PRESET_SET_CONFIRMATION",
+    "value": "<color=#F59>{0}<\/color>のプリセットをマイセカイに配置します。 \n現在配置している家具は片付けられますがよろしいですか？"
+  },
+  {
+    "wordingKey": "WORD_PRESET_SET_FINISH",
+    "value": "プリセットを配置しました。"
+  },
+  {
+    "wordingKey": "WORD_PRESET_SLOT_NAME",
+    "value": "プリセット"
+  },
+  {
+    "wordingKey": "WORD_PRESET_WARNING",
+    "value": "期間内にワールドパスに再加入しない場合は、ロック中のプリセットは削除されます。"
+  },
+  {
     "wordingKey": "WORD_PREVIEW",
     "value": "プレビュー"
   },
@@ -8038,6 +9558,10 @@
   {
     "wordingKey": "WORD_PRIZE_GIFT_SUMMARY",
     "value": "プライズ概要"
+  },
+  {
+    "wordingKey": "WORD_PRODUCTION",
+    "value": "製作"
   },
   {
     "wordingKey": "WORD_PROFILE",
@@ -8120,6 +9644,14 @@
     "value": "購入状況"
   },
   {
+    "wordingKey": "WORD_PUT",
+    "value": "設置"
+  },
+  {
+    "wordingKey": "WORD_QUALITY_SETTING",
+    "value": "マイセカイ品質設定"
+  },
+  {
     "wordingKey": "WORD_RANGE",
     "value": "範囲"
   },
@@ -8158,6 +9690,10 @@
   {
     "wordingKey": "WORD_RANK_POINT_BONUS",
     "value": "ランクポイントボーナス"
+  },
+  {
+    "wordingKey": "WORD_RANK_REACHING_BY_RELEASE",
+    "value": "マイセカイランク{0}に到達で解放"
   },
   {
     "wordingKey": "WORD_RARITY",
@@ -8202,6 +9738,10 @@
   {
     "wordingKey": "WORD_REACH_BONUS",
     "value": "達成ボーナス"
+  },
+  {
+    "wordingKey": "WORD_REACTION_CHARACTER",
+    "value": "リアクションするキャラクター"
   },
   {
     "wordingKey": "WORD_READ",
@@ -8252,6 +9792,10 @@
     "value": "収録バージョン"
   },
   {
+    "wordingKey": "WORD_RECORDJACKET",
+    "value": "ジャケット"
+  },
+  {
     "wordingKey": "WORD_RECOVER",
     "value": "回復"
   },
@@ -8262,6 +9806,30 @@
   {
     "wordingKey": "WORD_RECRUITTING",
     "value": "募集中..."
+  },
+  {
+    "wordingKey": "WORD_RECYCLE",
+    "value": "リサイクル"
+  },
+  {
+    "wordingKey": "WORD_RECYCLE_FURNITURE",
+    "value": "リサイクルする家具"
+  },
+  {
+    "wordingKey": "WORD_RECYCLE_MATERIAL",
+    "value": "リサイクルする素材"
+  },
+  {
+    "wordingKey": "WORD_RECYCLE_MATERIAL_CONFIRM",
+    "value": "選択した素材をリサイクルします。よろしいですか？"
+  },
+  {
+    "wordingKey": "WORD_RECYCLE_TOOL",
+    "value": "リサイクルするツール"
+  },
+  {
+    "wordingKey": "WORD_RECYCLE_TOOL_CONFIRM",
+    "value": "選択したツールをリサイクルします。よろしいですか？"
   },
   {
     "wordingKey": "WORD_REGISTER",
@@ -8336,8 +9904,16 @@
     "value": "外す"
   },
   {
+    "wordingKey": "WORD_REMOVE_FIXTURE",
+    "value": "しまう"
+  },
+  {
     "wordingKey": "WORD_REMOVING_ASSET",
     "value": "不要なデータを削除中"
+  },
+  {
+    "wordingKey": "WORD_REPOST",
+    "value": "再投稿"
   },
   {
     "wordingKey": "WORD_REQUEST",
@@ -8358,6 +9934,10 @@
   {
     "wordingKey": "WORD_RESET",
     "value": "リセット"
+  },
+  {
+    "wordingKey": "WORD_RESET_ROTATION",
+    "value": "回転リセット"
   },
   {
     "wordingKey": "WORD_RESTRICT_TIME",
@@ -8480,8 +10060,16 @@
     "value": "報酬受け取り期限"
   },
   {
+    "wordingKey": "WORD_RIGHT_ARROW",
+    "value": "→"
+  },
+  {
     "wordingKey": "WORD_RIGHT_NATATION",
     "value": "権利表記"
+  },
+  {
+    "wordingKey": "WORD_ROAD",
+    "value": "地面"
   },
   {
     "wordingKey": "WORD_ROOM_ID",
@@ -8490,6 +10078,10 @@
   {
     "wordingKey": "WORD_ROOM_TYPE",
     "value": "ルームタイプ"
+  },
+  {
+    "wordingKey": "WORD_ROTATE",
+    "value": "回転"
   },
   {
     "wordingKey": "WORD_SANDWITCH",
@@ -8552,6 +10144,10 @@
     "value": "検索"
   },
   {
+    "wordingKey": "WORD_SEARCH_CANDIDATES",
+    "value": "検索候補"
+  },
+  {
     "wordingKey": "WORD_SEARCH_ID",
     "value": "ID検索"
   },
@@ -8576,8 +10172,24 @@
     "value": "過去シーズン"
   },
   {
+    "wordingKey": "WORD_SECRET_DAILY_PICKUP",
+    "value": "TOP>DAILY PICKUP"
+  },
+  {
+    "wordingKey": "WORD_SECRET_WEEKLY_PICKUP",
+    "value": "TOP>WEEKLY PICKUP"
+  },
+  {
     "wordingKey": "WORD_SEE_CONTENT",
     "value": "中身をみる"
+  },
+  {
+    "wordingKey": "WORD_SEKAI_MISSION",
+    "value": "マイセカイミッション"
+  },
+  {
+    "wordingKey": "WORD_SEKAI_RANK_EXP",
+    "value": "マイセカイランクEXP"
   },
   {
     "wordingKey": "WORD_SEKAI_VERSION",
@@ -8696,8 +10308,20 @@
     "value": "メッセージを送る"
   },
   {
+    "wordingKey": "WORD_SERIES_LIST",
+    "value": "シリーズ一覧"
+  },
+  {
     "wordingKey": "WORD_SETTING",
     "value": "設定"
+  },
+  {
+    "wordingKey": "WORD_SETTINGS_QUALITY",
+    "value": "画像品質"
+  },
+  {
+    "wordingKey": "WORD_SETTING_MYSITE",
+    "value": "マイホーム設定中"
   },
   {
     "wordingKey": "WORD_SETTING_UP",
@@ -8708,8 +10332,16 @@
     "value": "あとで設定"
   },
   {
+    "wordingKey": "WORD_SET_MYSITE",
+    "value": "マイホーム設定"
+  },
+  {
     "wordingKey": "WORD_SET_PROFILE",
     "value": "プロフィールに設定"
+  },
+  {
+    "wordingKey": "WORD_SET_PURCHASE",
+    "value": "セットで購入"
   },
   {
     "wordingKey": "WORD_SHAPE",
@@ -8730,6 +10362,10 @@
   {
     "wordingKey": "WORD_SHAPE_TRANSPARENCY",
     "value": "図形不透明度"
+  },
+  {
+    "wordingKey": "WORD_SHELF",
+    "value": "シェルフ"
   },
   {
     "wordingKey": "WORD_SHOP_AD",
@@ -8780,8 +10416,20 @@
     "value": "サービス内通貨について"
   },
   {
+    "wordingKey": "WORD_SHOP_MISSION_PASS_SET_DETAIL",
+    "value": "ミッションパスセット詳細"
+  },
+  {
     "wordingKey": "WORD_SHOP_MONTH",
     "value": "月"
+  },
+  {
+    "wordingKey": "WORD_SHOP_MYSEKAI_COLORFUL_PASS_DETAIL",
+    "value": "ワールドパス詳細"
+  },
+  {
+    "wordingKey": "WORD_SHOP_MYSEKAI_MISSION_PASS_DETAIL",
+    "value": "マイセカイミッションパス詳細"
   },
   {
     "wordingKey": "WORD_SHOP_PREMIUM_MISSION_PASS_DETAIL",
@@ -8856,6 +10504,14 @@
     "value": "サイド\nストーリー"
   },
   {
+    "wordingKey": "WORD_SIGHTSEEING",
+    "value": "SIGHTSEEING"
+  },
+  {
+    "wordingKey": "WORD_SIGHTSEEING_JP",
+    "value": "観光"
+  },
+  {
     "wordingKey": "WORD_SIMULTANEOUS_PUSHI_LINE",
     "value": "同時押しライン"
   },
@@ -8864,8 +10520,52 @@
     "value": "Vo."
   },
   {
+    "wordingKey": "WORD_SITE_1_NAME",
+    "value": "マイホーム"
+  },
+  {
+    "wordingKey": "WORD_SITE_2_NAME",
+    "value": "1F"
+  },
+  {
+    "wordingKey": "WORD_SITE_3_NAME",
+    "value": "2F"
+  },
+  {
+    "wordingKey": "WORD_SITE_4_NAME",
+    "value": "3F"
+  },
+  {
+    "wordingKey": "WORD_SITE_5_NAME",
+    "value": "さいしょの原っぱ"
+  },
+  {
+    "wordingKey": "WORD_SITE_6_NAME",
+    "value": "彩りの花畑"
+  },
+  {
+    "wordingKey": "WORD_SITE_7_NAME",
+    "value": "願いの砂浜"
+  },
+  {
+    "wordingKey": "WORD_SITE_8_NAME",
+    "value": "忘れ去られた場所"
+  },
+  {
+    "wordingKey": "WORD_SITE_ENVIRONMENT",
+    "value": "天気"
+  },
+  {
+    "wordingKey": "WORD_SITE_RELEASE",
+    "value": "マイセカイランク{0}に到達"
+  },
+  {
     "wordingKey": "WORD_SIZE",
     "value": "表示"
+  },
+  {
+    "wordingKey": "WORD_SKETCH",
+    "value": "スケッチ"
   },
   {
     "wordingKey": "WORD_SKILL",
@@ -8916,6 +10616,14 @@
     "value": "スキップ"
   },
   {
+    "wordingKey": "WORD_SKYROKETING",
+    "value": "急上昇"
+  },
+  {
+    "wordingKey": "WORD_SKYROKETING_TAB",
+    "value": "急上昇！"
+  },
+  {
     "wordingKey": "WORD_SL_SETTINGS_CAMERA_SHAKE",
     "value": "移動時のカメラ揺れ"
   },
@@ -8938,6 +10646,10 @@
   {
     "wordingKey": "WORD_SMALL_FORTUNE",
     "value": "小吉"
+  },
+  {
+    "wordingKey": "WORD_SMALL_FURNITURE",
+    "value": "小物家具"
   },
   {
     "wordingKey": "WORD_SOHW_ONLINE",
@@ -8998,6 +10710,14 @@
   {
     "wordingKey": "WORD_SPECIAL",
     "value": "SPECIAL"
+  },
+  {
+    "wordingKey": "WORD_SPECIAL_FEATURE",
+    "value": "特集"
+  },
+  {
+    "wordingKey": "WORD_SPECIAL_OFFER_DETAIL",
+    "value": "特典詳細"
   },
   {
     "wordingKey": "WORD_SPECIAL_SKILL",
@@ -9228,12 +10948,24 @@
     "value": "システム"
   },
   {
+    "wordingKey": "WORD_TABLE",
+    "value": "テーブル"
+  },
+  {
     "wordingKey": "WORD_TAB_NEWLY_WRITTEN_MUSIC_DETAIL_INFO",
     "value": "楽曲情報"
   },
   {
+    "wordingKey": "WORD_TAG_OPTIONS",
+    "value": "候補タグ"
+  },
+  {
     "wordingKey": "WORD_TALK",
     "value": "はなす"
+  },
+  {
+    "wordingKey": "WORD_TALK_CHARACTER",
+    "value": "会話するキャラクター"
   },
   {
     "wordingKey": "WORD_TALK_LOG",
@@ -9274,6 +11006,22 @@
   {
     "wordingKey": "WORD_THANK_YOU",
     "value": "ありがとうございました！"
+  },
+  {
+    "wordingKey": "WORD_THEMA",
+    "value": "テーマ"
+  },
+  {
+    "wordingKey": "WORD_THIS_FURNITURE_IS_CREATED",
+    "value": "この家具は製作済です"
+  },
+  {
+    "wordingKey": "WORD_THIS_FURNITURE_IS_CREATED_COLOR",
+    "value": "このカラーは製作済です"
+  },
+  {
+    "wordingKey": "WORD_THREE_HYPHEN",
+    "value": "---"
   },
   {
     "wordingKey": "WORD_THREE_POINT_LEADER",
@@ -9336,8 +11084,28 @@
     "value": "滑らかさ(FPS)"
   },
   {
+    "wordingKey": "WORD_TITLE_PANEL",
+    "value": "タイトルパネル"
+  },
+  {
+    "wordingKey": "WORD_TITLE_SEARCH_KEYWORD_TAG",
+    "value": "キーワード・タグ検索"
+  },
+  {
+    "wordingKey": "WORD_TITLE_SEARCH_TAG",
+    "value": "タグ検索"
+  },
+  {
+    "wordingKey": "WORD_TITLE_STAND",
+    "value": "タイトルスタンド"
+  },
+  {
     "wordingKey": "WORD_TITLE_STREAMING_LIVE_TICKET_EXCHANGE_CONFIRM",
     "value": "購入確認"
+  },
+  {
+    "wordingKey": "WORD_TODAY",
+    "value": "TODAY"
   },
   {
     "wordingKey": "WORD_TODAY_CHALLENGE",
@@ -9360,12 +11128,32 @@
     "value": "基本データのみ"
   },
   {
+    "wordingKey": "WORD_TOOL",
+    "value": "ツール"
+  },
+  {
+    "wordingKey": "WORD_TOOL_COUNT",
+    "value": "ツール所持数"
+  },
+  {
+    "wordingKey": "WORD_TOOL_CREATE_RESULT",
+    "value": "ツールの製作が完了しました。"
+  },
+  {
+    "wordingKey": "WORD_TOOL_RECYCLE_RESULT",
+    "value": "ツールをリサイクルしてコインを獲得しました。"
+  },
+  {
     "wordingKey": "WORD_TOP",
     "value": "TOP"
   },
   {
     "wordingKey": "WORD_TOS",
     "value": "利用規約"
+  },
+  {
+    "wordingKey": "WORD_TOTAL_FURNITURE_IS_CREATED",
+    "value": "持ち物の上限に達しています"
   },
   {
     "wordingKey": "WORD_TOTAL_MATCH_COUNT",
@@ -9386,6 +11174,10 @@
   {
     "wordingKey": "WORD_TOTAL_POWER_BONUS",
     "value": "総合力ボーナス"
+  },
+  {
+    "wordingKey": "WORD_TOTAL_POWER_BONUS_RATE",
+    "value": "パフォーマンスボーナス"
   },
   {
     "wordingKey": "WORD_TOTAL_POWER_CARD",
@@ -9420,6 +11212,14 @@
     "value": "キャラクターランクボーナス"
   },
   {
+    "wordingKey": "WORD_TOTAL_POWER_FIXTURE_BONUS",
+    "value": "家具ボーナス"
+  },
+  {
+    "wordingKey": "WORD_TOTAL_POWER_GATE_BONUS",
+    "value": "ゲートボーナス"
+  },
+  {
     "wordingKey": "WORD_TOTAL_POWER_HONOR_BONUS",
     "value": "称号ボーナス"
   },
@@ -9446,6 +11246,10 @@
   {
     "wordingKey": "WORD_TOURNAMENT_SCORE_NONE",
     "value": "--------"
+  },
+  {
+    "wordingKey": "WORD_TO_CHEST",
+    "value": "持ち物へ"
   },
   {
     "wordingKey": "WORD_TO_CURRENT_TIME_ANNOTATION",
@@ -9476,8 +11280,16 @@
     "value": "記憶のカケラに触れて、\n進級前の時間軸を覗きに行きますか？"
   },
   {
+    "wordingKey": "WORD_TO_VISIT",
+    "value": "訪問先"
+  },
+  {
     "wordingKey": "WORD_TRACE",
     "value": "トレース"
+  },
+  {
+    "wordingKey": "WORD_TRADE_MACHINE_LEVEL_UP",
+    "value": "ヘンカンマシンのレベルアップ"
   },
   {
     "wordingKey": "WORD_TRANING_BEFORE",
@@ -9486,6 +11298,18 @@
   {
     "wordingKey": "WORD_TRANSACTION_LAW_DIALOG_TITLE",
     "value": "特商法・資金決済法"
+  },
+  {
+    "wordingKey": "WORD_TREE",
+    "value": "木"
+  },
+  {
+    "wordingKey": "WORD_TRESURE_BOX_NOTIFICATION",
+    "value": "紙飛行機が出現しました！"
+  },
+  {
+    "wordingKey": "WORD_TUTORIAL_THIS_FURNITURE_IS_CREATED",
+    "value": "チュートリアル中は製作できません"
   },
   {
     "wordingKey": "WORD_TWITTER",
@@ -9498,6 +11322,14 @@
   {
     "wordingKey": "WORD_UNCERTAIN_LUCK",
     "value": "末吉"
+  },
+  {
+    "wordingKey": "WORD_UNCREATED",
+    "value": "未製作"
+  },
+  {
+    "wordingKey": "WORD_UNDO",
+    "value": "キャンセル"
   },
   {
     "wordingKey": "WORD_UNIT",
@@ -9832,6 +11664,26 @@
     "value": "表示"
   },
   {
+    "wordingKey": "WORD_VISIT",
+    "value": "VISIT"
+  },
+  {
+    "wordingKey": "WORD_VISITING_MYSEKAI",
+    "value": "おでかけ中"
+  },
+  {
+    "wordingKey": "WORD_VISIT_JP",
+    "value": "訪問"
+  },
+  {
+    "wordingKey": "WORD_VISIT_LIST",
+    "value": "おでかけリスト"
+  },
+  {
+    "wordingKey": "WORD_VISIT_SETTING",
+    "value": "訪問設定"
+  },
+  {
     "wordingKey": "WORD_VL_SETTINGS_LABEL_ALL",
     "value": "バーチャルライブ・待合エリア共通設定"
   },
@@ -9861,7 +11713,7 @@
   },
   {
     "wordingKey": "WORD_VL_SETTINGS_QUALITY",
-    "value": "画像品質"
+    "value": "バーチャルライブ画像品質"
   },
   {
     "wordingKey": "WORD_VL_SETTINGS_QUALITY_DEFAULT",
@@ -9924,6 +11776,14 @@
     "value": "承認待ちリスト"
   },
   {
+    "wordingKey": "WORD_WALL",
+    "value": "壁"
+  },
+  {
+    "wordingKey": "WORD_WALLPAPER",
+    "value": "壁"
+  },
+  {
     "wordingKey": "WORD_WARERABLE_MEMBER",
     "value": "着用可能キャラクター"
   },
@@ -9938,6 +11798,10 @@
   {
     "wordingKey": "WORD_WEARABLE_MEMBER",
     "value": "着用可能メンバー"
+  },
+  {
+    "wordingKey": "WORD_WEATHER",
+    "value": "天気予報"
   },
   {
     "wordingKey": "WORD_WEB_PAYMENT_REFLECTION_ITEM_NAME_FORMAT",

@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "mysekaiPhenomenaBrightnessType": "normal",
+    "name": "晴れ",
+    "englishName": "SUNNY",
+    "description": "はれ",
+    "mysekaiPhenomenaTimePeriodType": "daytime",
+    "mysekaiPhenomenaBackgroundColorId": 1,
+    "assetbundleName": "001_sunny",
+    "rampTextureAssetbundleName": "001_sunny",
+    "iconAssetbundleName": "env_sunny"
+  },
+  {
+    "id": 2,
+    "mysekaiPhenomenaBrightnessType": "bright",
+    "name": "夕焼け",
+    "englishName": "EVENING",
+    "description": "ゆうやけ",
+    "mysekaiPhenomenaTimePeriodType": "evening",
+    "mysekaiPhenomenaBackgroundColorId": 2,
+    "assetbundleName": "002_evening",
+    "rampTextureAssetbundleName": "002_evening",
+    "iconAssetbundleName": "env_evening"
+  },
+  {
+    "id": 3,
+    "mysekaiPhenomenaBrightnessType": "dark",
+    "name": "夜",
+    "englishName": "NIGHT",
+    "description": "よる",
+    "mysekaiPhenomenaTimePeriodType": "night",
+    "mysekaiPhenomenaBackgroundColorId": 3,
+    "assetbundleName": "003_night",
+    "rampTextureAssetbundleName": "003_night",
+    "iconAssetbundleName": "env_night"
+  },
+  {
+    "id": 4,
+    "mysekaiPhenomenaBrightnessType": "bright",
+    "name": "夏日",
+    "englishName": "FINE",
+    "description": "なつび",
+    "mysekaiPhenomenaTimePeriodType": "daytime",
+    "mysekaiPhenomenaBackgroundColorId": 1,
+    "assetbundleName": "004_fine",
+    "rampTextureAssetbundleName": "004_fine",
+    "iconAssetbundleName": "env_fine"
+  },
+  {
+    "id": 5,
+    "mysekaiPhenomenaBrightnessType": "normal",
+    "name": "満月",
+    "englishName": "FULLMOON",
+    "description": "まんげつ",
+    "mysekaiPhenomenaTimePeriodType": "night",
+    "mysekaiPhenomenaBackgroundColorId": 3,
+    "assetbundleName": "005_fullmoon",
+    "rampTextureAssetbundleName": "005_fullmoon",
+    "iconAssetbundleName": "env_fullmoon"
+  },
+  {
+    "id": 6,
+    "mysekaiPhenomenaBrightnessType": "dark",
+    "name": "雨",
+    "englishName": "RAIN",
+    "description": "あめ",
+    "mysekaiPhenomenaTimePeriodType": "daytime",
+    "mysekaiPhenomenaBackgroundColorId": 4,
+    "assetbundleName": "006_rain",
+    "rampTextureAssetbundleName": "006_rain",
+    "iconAssetbundleName": "env_rain"
+  },
+  {
+    "id": 7,
+    "mysekaiPhenomenaBrightnessType": "dark",
+    "name": "雨の夜",
+    "englishName": "RAINNIGHT",
+    "description": "あめのよる",
+    "mysekaiPhenomenaTimePeriodType": "night",
+    "mysekaiPhenomenaBackgroundColorId": 3,
+    "assetbundleName": "007_rainnight",
+    "rampTextureAssetbundleName": "007_rainnight",
+    "iconAssetbundleName": "env_rainnight"
+  },
+  {
+    "id": 9,
+    "mysekaiPhenomenaBrightnessType": "none",
+    "name": "流星群",
+    "englishName": "METEOR SHOWER",
+    "description": "りゅうせいぐん",
+    "mysekaiPhenomenaTimePeriodType": "night",
+    "mysekaiPhenomenaBackgroundColorId": 3,
+    "assetbundleName": "009_meteorshower",
+    "rampTextureAssetbundleName": "009_meteorshower",
+    "iconAssetbundleName": "env_meteorshower"
+  },
+  {
+    "id": 10,
+    "mysekaiPhenomenaBrightnessType": "none",
+    "name": "雪",
+    "englishName": "SNOW",
+    "description": "ゆき",
+    "mysekaiPhenomenaTimePeriodType": "daytime",
+    "mysekaiPhenomenaBackgroundColorId": 4,
+    "assetbundleName": "010_snow",
+    "rampTextureAssetbundleName": "010_snow",
+    "iconAssetbundleName": "env_snow"
+  },
+  {
+    "id": 11,
+    "mysekaiPhenomenaBrightnessType": "none",
+    "name": "雪降る夜",
+    "englishName": "SNOWNIGHT",
+    "description": "ゆきふるよる",
+    "mysekaiPhenomenaTimePeriodType": "night",
+    "mysekaiPhenomenaBackgroundColorId": 3,
+    "assetbundleName": "011_snownight",
+    "rampTextureAssetbundleName": "011_snownight",
+    "iconAssetbundleName": "env_snownight"
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "mysekaiSiteType": "home_site",
+    "mysekaiSiteCategory": "housing_home",
+    "assetbundleName": "home",
+    "name": "マイホーム",
+    "positionX": 0,
+    "positionY": 0,
+    "positionZ": 0,
+    "isBase": true,
+    "isEnabledForMulti": true,
+    "presetGroupId": 1
+  },
+  {
+    "id": 2,
+    "mysekaiSiteType": "first_floor",
+    "mysekaiSiteCategory": "housing_room",
+    "assetbundleName": "first_floor",
+    "name": "1F",
+    "positionX": 400,
+    "positionY": 0,
+    "positionZ": 0,
+    "isBase": false,
+    "isEnabledForMulti": true,
+    "presetGroupId": 2
+  },
+  {
+    "id": 3,
+    "mysekaiSiteType": "second_floor",
+    "mysekaiSiteCategory": "housing_room",
+    "assetbundleName": "first_floor",
+    "name": "2F",
+    "positionX": 400,
+    "positionY": 500,
+    "positionZ": 0,
+    "isBase": false,
+    "isEnabledForMulti": true,
+    "presetGroupId": 3
+  },
+  {
+    "id": 4,
+    "mysekaiSiteType": "third_floor",
+    "mysekaiSiteCategory": "housing_room",
+    "assetbundleName": "first_floor",
+    "name": "3F",
+    "positionX": 400,
+    "positionY": 1000,
+    "positionZ": 0,
+    "isBase": false,
+    "isEnabledForMulti": true,
+    "presetGroupId": 3
+  },
+  {
+    "id": 5,
+    "mysekaiSiteType": "grassland",
+    "mysekaiSiteCategory": "harvest",
+    "assetbundleName": "grasslands",
+    "name": "さいしょの原っぱ",
+    "positionX": 600,
+    "positionY": 0,
+    "positionZ": 0,
+    "isBase": true,
+    "isEnabledForMulti": false
+  },
+  {
+    "id": 6,
+    "mysekaiSiteType": "shore",
+    "mysekaiSiteCategory": "harvest",
+    "assetbundleName": "beach",
+    "name": "願いの砂浜",
+    "positionX": -200,
+    "positionY": 0,
+    "positionZ": 600,
+    "isBase": false,
+    "isEnabledForMulti": false
+  },
+  {
+    "id": 7,
+    "mysekaiSiteType": "flower_garden",
+    "mysekaiSiteCategory": "harvest",
+    "assetbundleName": "flowergarden",
+    "name": "彩りの花畑",
+    "positionX": -200,
+    "positionY": 0,
+    "positionZ": -200,
+    "isBase": false,
+    "isEnabledForMulti": false
+  },
+  {
+    "id": 8,
+    "mysekaiSiteType": "memorial_place",
+    "mysekaiSiteCategory": "harvest",
+    "assetbundleName": "memorialplace",
+    "name": "忘れ去られた場所",
+    "positionX": -600,
+    "positionY": 0,
+    "positionZ": 600,
+    "isBase": false,
+    "isEnabledForMulti": false
+  }
+]
