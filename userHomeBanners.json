@@ -1,7 +1,7 @@
 [
   {
-    "homeBannerId": 1149,
-    "seq": 110,
+    "homeBannerId": 1150,
+    "seq": 180,
     "homeBannerType": "event",
     "name": "[イベント]ビビバス箱イベ_イベントバナー",
     "assetbundleName": "event_takeoff_2025",
@@ -11,8 +11,8 @@
     "endAt": 1737439200000
   },
   {
-    "homeBannerId": 1151,
-    "seq": 100,
+    "homeBannerId": 1152,
+    "seq": 170,
     "homeBannerType": "general",
     "name": "[ガチャ]ビビバス箱イベ_ガチャバナー",
     "assetbundleName": "banner_gacha654",
@@ -44,8 +44,8 @@
     "endAt": 1737601200000
   },
   {
-    "homeBannerId": 1156,
-    "seq": 60,
+    "homeBannerId": 1157,
+    "seq": 190,
     "homeBannerType": "general",
     "name": "ワールドパスバナー",
     "assetbundleName": "banner_worldpass_2025_01",
@@ -54,13 +54,24 @@
     "endAt": 1738335600000
   },
   {
-    "homeBannerId": 1158,
-    "seq": 70,
+    "homeBannerId": 1159,
+    "seq": 200,
     "homeBannerType": "general",
     "name": "マイセカイミッションパスバナー",
     "assetbundleName": "banner_mysekaimissionpass_2025_01",
     "transitionDestinationType": "billing_shop_for_jewel",
     "startAt": 1736476200000,
     "endAt": 1738335600000
+  },
+  {
+    "homeBannerId": 1160,
+    "seq": 130,
+    "homeBannerType": "general",
+    "name": "[ガチャ]劇場版リコフェス[Leo\/need]_ガチャバナー",
+    "assetbundleName": "banner_gacha657",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 657,
+    "startAt": 1737082800000,
+    "endAt": 1737514800000
   }
 ]
