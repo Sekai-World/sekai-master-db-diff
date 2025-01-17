@@ -1616,6 +1616,10 @@
     "value": "レコードを獲得しました。"
   },
   {
+    "wordingKey": "MSG_GET_SERIAL_CODE_STAMP_RALLY_REWARD",
+    "value": "報酬を獲得しました。"
+  },
+  {
     "wordingKey": "MSG_GET_SURPLUS_BLUEPRINT",
     "value": "設計図を獲得しましたが、すでに所持していたため「<color=#ff5588>{0}<\/color>」として獲得しました。"
   },
@@ -2372,6 +2376,10 @@
     "value": "通信に失敗しました。"
   },
   {
+    "wordingKey": "MSG_NEW_AREA_RELEASE",
+    "value": "新しいエリアが解放されました。"
+  },
+  {
     "wordingKey": "MSG_NEXT_EPISODE_RELEASE_DATE_AT",
     "value": "{0}のストーリー\n<color=#ff77AA>{1:MM\/dd HH:mm} 解放<\/color>"
   },
@@ -2517,7 +2525,7 @@
   },
   {
     "wordingKey": "MSG_NOT_ENOUGH_WHITE_BLUE_PRINT",
-    "value": "白紙の設計図を所持していません。\nクリスタルショップで購入するか、ヘンカンマシンで入手できます。"
+    "value": "白紙の設計図を所持していません。\nマイセカイミッションパスのマイセカイ報酬か、\nヘンカンマシンで入手できます。"
   },
   {
     "wordingKey": "MSG_NOT_ENTRY_EVENT",
@@ -3093,7 +3101,7 @@
   },
   {
     "wordingKey": "MSG_REPAIR_TOOL",
-    "value": "ツールが壊れています。\n作業台で作成してください。"
+    "value": "ツールを持っていません。\n作業台で製作してください。"
   },
   {
     "wordingKey": "MSG_REPLACE_CUT_IN_NOTE",
@@ -3214,6 +3222,10 @@
   {
     "wordingKey": "MSG_SERCH_MATCHING_OPPONENT",
     "value": "マッチング中..."
+  },
+  {
+    "wordingKey": "MSG_SERIAL_CODE_STAMP_RALLY_COSTUME_GET",
+    "value": "ライブ衣装を獲得しました。"
   },
   {
     "wordingKey": "MSG_SETTABLE_FROM_OPTION",
@@ -4114,6 +4126,10 @@
   {
     "wordingKey": "WORD_ACTION",
     "value": "アクション"
+  },
+  {
+    "wordingKey": "WORD_ACTION_SET_RELEASE_FORMAT",
+    "value": "「{0}」の新しいエリア会話が解放されました。"
   },
   {
     "wordingKey": "WORD_ACTIVATED_W_SKILL",
@@ -11026,6 +11042,10 @@
   {
     "wordingKey": "WORD_THREE_POINT_LEADER",
     "value": "…"
+  },
+  {
+    "wordingKey": "WORD_THUMBNAIL_COUNT_FORMAT",
+    "value": "×{0}"
   },
   {
     "wordingKey": "WORD_TICKET_EXCHANGE_SHOP",
