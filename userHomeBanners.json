@@ -1,27 +1,5 @@
 [
   {
-    "homeBannerId": 1150,
-    "seq": 180,
-    "homeBannerType": "event",
-    "name": "[イベント]ビビバス箱イベ_イベントバナー",
-    "assetbundleName": "event_takeoff_2025",
-    "transitionDestinationType": "event",
-    "transitionDestinationId": 154,
-    "startAt": 1736575200000,
-    "endAt": 1737439200000
-  },
-  {
-    "homeBannerId": 1152,
-    "seq": 170,
-    "homeBannerType": "general",
-    "name": "[ガチャ]ビビバス箱イベ_ガチャバナー",
-    "assetbundleName": "banner_gacha654",
-    "transitionDestinationType": "gacha",
-    "transitionDestinationId": 654,
-    "startAt": 1736564400000,
-    "endAt": 1737428400000
-  },
-  {
     "homeBannerId": 1154,
     "seq": 140,
     "homeBannerType": "general",
@@ -73,5 +51,27 @@
     "transitionDestinationId": 657,
     "startAt": 1737082800000,
     "endAt": 1737514800000
+  },
+  {
+    "homeBannerId": 1161,
+    "seq": 110,
+    "homeBannerType": "general",
+    "name": "[ガチャ]シャッフル奏イベ_ガチャバナー",
+    "assetbundleName": "banner_gacha662",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 662,
+    "startAt": 1737428400000,
+    "endAt": 1738292400000
+  },
+  {
+    "homeBannerId": 1163,
+    "seq": 100,
+    "homeBannerType": "event",
+    "name": "[イベント]シャッフル奏イベ_イベントバナー",
+    "assetbundleName": "event_yourshine_2025",
+    "transitionDestinationType": "event",
+    "transitionDestinationId": 155,
+    "startAt": 1737439200000,
+    "endAt": 1738303200000
   }
 ]
