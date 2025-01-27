@@ -7587,5 +7587,142 @@
     ],
     "virtualShopType": "event",
     "virtualShopDisplayType": "out_of_scope"
+  },
+  {
+    "id": 307,
+    "seq": 307,
+    "name": "「Eコラボ」チケットショップ",
+    "virtualLiveId": 355,
+    "virtualShopItems": [
+      {
+        "id": 492,
+        "virtualShopId": 307,
+        "virtualShopItemType": "premium_virtual_live_ticket",
+        "seq": 299976,
+        "resourceBoxId": 387,
+        "costPaidJewel": 3980,
+        "startAt": 1737979200000,
+        "endAt": 1740236399000,
+        "limitValue": 2,
+        "virtualShopItemFirstPurchaseBonusId": 1
+      },
+      {
+        "id": 493,
+        "virtualShopId": 307,
+        "virtualShopItemType": "premium_virtual_live_ticket",
+        "seq": 299977,
+        "resourceBoxId": 388,
+        "costPaidJewel": 7980,
+        "startAt": 1737979200000,
+        "endAt": 1740236399000,
+        "limitValue": 1,
+        "virtualShopItemFirstPurchaseBonusId": 1,
+        "bonusResourceBoxId": 1
+      },
+      {
+        "id": 494,
+        "virtualShopId": 307,
+        "virtualShopItemType": "premium_virtual_live_ticket",
+        "seq": 299978,
+        "resourceBoxId": 389,
+        "costPaidJewel": 3980,
+        "startAt": 1737979200000,
+        "endAt": 1740322799000,
+        "limitValue": 2,
+        "virtualShopItemFirstPurchaseBonusId": 1
+      },
+      {
+        "id": 495,
+        "virtualShopId": 307,
+        "virtualShopItemType": "premium_virtual_live_ticket",
+        "seq": 299979,
+        "resourceBoxId": 390,
+        "costPaidJewel": 7980,
+        "startAt": 1737979200000,
+        "endAt": 1740322799000,
+        "limitValue": 1,
+        "virtualShopItemFirstPurchaseBonusId": 1,
+        "bonusResourceBoxId": 1
+      },
+      {
+        "id": 496,
+        "virtualShopId": 307,
+        "virtualShopItemType": "premium_virtual_live_ticket",
+        "seq": 299980,
+        "resourceBoxId": 391,
+        "costPaidJewel": 15980,
+        "startAt": 1737979200000,
+        "endAt": 1740322799000,
+        "limitValue": 1,
+        "virtualShopItemFirstPurchaseBonusId": 1,
+        "bonusResourceBoxId": 1
+      }
+    ],
+    "virtualShopType": "virtual_live_ticket",
+    "virtualShopDisplayType": "divide_bonus_info"
+  },
+  {
+    "id": 308,
+    "seq": 308,
+    "name": "「Eコラボ」チケットショップ_物販",
+    "virtualLiveId": 355,
+    "virtualShopItems": [
+      {
+        "id": 497,
+        "virtualShopId": 308,
+        "virtualShopItemType": "costume",
+        "seq": 99873,
+        "resourceBoxId": 392,
+        "costVirtualCoin": 3000,
+        "costJewel": 1000,
+        "startAt": 1737979200000,
+        "endAt": 1740927599000,
+        "limitValue": 1
+      },
+      {
+        "id": 498,
+        "virtualShopId": 308,
+        "virtualShopItemType": "costume",
+        "seq": 99874,
+        "resourceBoxId": 393,
+        "costVirtualCoin": 3000,
+        "costJewel": 1000,
+        "startAt": 1737979200000,
+        "endAt": 1740927599000,
+        "limitValue": 1
+      },
+      {
+        "id": 499,
+        "virtualShopId": 308,
+        "virtualShopItemType": "accessory",
+        "seq": 99875,
+        "resourceBoxId": 394,
+        "costVirtualCoin": 3000,
+        "costJewel": 1000,
+        "startAt": 1737979200000,
+        "endAt": 1740927599000,
+        "limitValue": 1
+      }
+    ],
+    "virtualShopType": "other",
+    "virtualShopDisplayType": "out_of_scope"
+  },
+  {
+    "id": 309,
+    "seq": 309,
+    "name": "「Eコラボ」チケットショップ",
+    "virtualLiveId": 356,
+    "virtualShopItems": [],
+    "virtualShopType": "virtual_live_ticket",
+    "virtualShopDisplayType": "divide_bonus_info"
+  },
+  {
+    "id": 310,
+    "seq": 310,
+    "name": "「Eコラボ」チケットショップ_物販",
+    "virtualLiveId": 356,
+    "virtualShopItems": [],
+    "virtualShopType": "other",
+    "virtualShopDisplayType": "out_of_scope"
   }
 ]
