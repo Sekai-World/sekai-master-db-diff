@@ -1,36 +1,5 @@
 [
   {
-    "homeBannerId": 1157,
-    "seq": 190,
-    "homeBannerType": "general",
-    "name": "ワールドパスバナー",
-    "assetbundleName": "banner_worldpass_2025_01",
-    "transitionDestinationType": "billing_shop_for_jewel",
-    "startAt": 1736476200000,
-    "endAt": 1738335600000
-  },
-  {
-    "homeBannerId": 1159,
-    "seq": 200,
-    "homeBannerType": "general",
-    "name": "マイセカイミッションパスバナー",
-    "assetbundleName": "banner_mysekaimissionpass_2025_01",
-    "transitionDestinationType": "billing_shop_for_jewel",
-    "startAt": 1736476200000,
-    "endAt": 1738335600000
-  },
-  {
-    "homeBannerId": 1164,
-    "seq": 170,
-    "homeBannerType": "event",
-    "name": "[イベント]シャッフル奏イベ_イベントバナー",
-    "assetbundleName": "event_yourshine_2025",
-    "transitionDestinationType": "event",
-    "transitionDestinationId": 155,
-    "startAt": 1737439200000,
-    "endAt": 1738303200000
-  },
-  {
     "homeBannerId": 1166,
     "seq": 140,
     "homeBannerType": "general",
@@ -62,5 +31,16 @@
     "transitionDestinationId": 672,
     "startAt": 1738292400000,
     "endAt": 1739156400000
+  },
+  {
+    "homeBannerId": 1183,
+    "seq": 100,
+    "homeBannerType": "event",
+    "name": "[イベント]シャッフル雫イベ_イベントバナー",
+    "assetbundleName": "event_needle_2025",
+    "transitionDestinationType": "event",
+    "transitionDestinationId": 156,
+    "startAt": 1738303200000,
+    "endAt": 1739167200000
   }
 ]
