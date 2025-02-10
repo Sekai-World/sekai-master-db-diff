@@ -1,16 +1,5 @@
 [
   {
-    "homeBannerId": 1182,
-    "seq": 180,
-    "homeBannerType": "general",
-    "name": "[ガチャ]シャッフル雫イベ_ガチャバナー",
-    "assetbundleName": "banner_gacha672",
-    "transitionDestinationType": "gacha",
-    "transitionDestinationId": 672,
-    "startAt": 1738292400000,
-    "endAt": 1739156400000
-  },
-  {
     "homeBannerId": 1184,
     "seq": 170,
     "homeBannerType": "event",
@@ -33,14 +22,25 @@
     "endAt": 1739242800000
   },
   {
-    "homeBannerId": 1187,
+    "homeBannerId": 1188,
     "seq": 130,
     "homeBannerType": "general",
-    "name": "[宵崎奏]HAPPY BIRTHDAYライブ",
-    "assetbundleName": "banner_virtuallive358",
-    "transitionDestinationType": "virtual_live",
-    "transitionDestinationId": 358,
-    "startAt": 1738994400000,
-    "endAt": 1739113199000
+    "name": "[宵崎奏]HAPPY BIRTHDAY2025ガチャ",
+    "assetbundleName": "banner_gacha674",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 674,
+    "startAt": 1739113200000,
+    "endAt": 1739199599000
+  },
+  {
+    "homeBannerId": 1189,
+    "seq": 110,
+    "homeBannerType": "general",
+    "name": "[ガチャ]モモジャン箱イベ_ガチャバナー",
+    "assetbundleName": "banner_gacha678",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 678,
+    "startAt": 1739156400000,
+    "endAt": 1740020400000
   }
 ]
