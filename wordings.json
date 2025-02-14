@@ -972,6 +972,14 @@
     "value": "クリスタル<color=#ff5588>{0}個<\/color>を消費して\n{1}のヘンカン時間をスキップします。\nよろしいですか？"
   },
   {
+    "wordingKey": "MSG_CONVERT_START_ATTENTION_EXPIRED_PASS",
+    "value": "※開始までにワールドパスの有効期限が切れた場合、ヘンカン時間が変わります。"
+  },
+  {
+    "wordingKey": "MSG_CONVERT_START_CONFIRM",
+    "value": "ヘンカンを開始します。よろしいですか？"
+  },
+  {
     "wordingKey": "MSG_CONVERT_SURPLUS_BLUEPRINT_CHOICE_ATTENTION",
     "value": "※設計図は被る可能性があります。"
   },
@@ -994,6 +1002,10 @@
   {
     "wordingKey": "MSG_COPY_COMPLETE_ROOM_ID",
     "value": "ルームIDをコピーしました。"
+  },
+  {
+    "wordingKey": "MSG_COPY_COMPLETE_SERIAL_CODE",
+    "value": "シリアルコードをコピーしました。"
   },
   {
     "wordingKey": "MSG_COPY_COMPLETE_USER_ID",
@@ -1614,6 +1626,10 @@
   {
     "wordingKey": "MSG_GET_RECORD",
     "value": "レコードを獲得しました。"
+  },
+  {
+    "wordingKey": "MSG_GET_SERIAL_CODE_REWARD",
+    "value": "シリアルコードの特典を獲得しました。"
   },
   {
     "wordingKey": "MSG_GET_SERIAL_CODE_STAMP_RALLY_REWARD",
@@ -2544,6 +2560,10 @@
     "value": "ツールを持っていません。\n作業台で製作してください。"
   },
   {
+    "wordingKey": "MSG_NOT_HOUSE_INCLUDED_IN_PRESET",
+    "value": "プリセットに所持していない家\n<color=#FF5599>{0}<\/color>が含まれているため、\n配置することが出来ません。"
+  },
+  {
     "wordingKey": "MSG_NOT_INVITATION_EXPIRED_PASS",
     "value": "ワールドパスの有効期限を過ぎたため、招待できません。\nマイホームに戻ります。"
   },
@@ -3224,6 +3244,10 @@
     "value": "マッチング中..."
   },
   {
+    "wordingKey": "MSG_SERIAL_CODE_COSTUME_GET",
+    "value": "ライブ衣装を獲得しました。"
+  },
+  {
     "wordingKey": "MSG_SERIAL_CODE_STAMP_RALLY_COSTUME_GET",
     "value": "ライブ衣装を獲得しました。"
   },
@@ -3462,6 +3486,14 @@
   {
     "wordingKey": "MSG_STREAMINGLIVE_AFTEREVENT_NOTICE",
     "value": "アフターイベントでは移動はできません"
+  },
+  {
+    "wordingKey": "MSG_STREAMINGLIVE_AFTEREVENT_STATE_NOTICE",
+    "value": "以降の公演ではアフターイベント同様に移動することができません"
+  },
+  {
+    "wordingKey": "MSG_STREAMING_LIVE_ENTER_FREE_CHARGE",
+    "value": "本公演は、公演チケットなしでライブの最後まで観覧いただけます。\n入場しますか？"
   },
   {
     "wordingKey": "MSG_STREAMING_LIVE_FINISH",
@@ -4644,6 +4676,14 @@
     "value": "ライブ衣装"
   },
   {
+    "wordingKey": "WORD_BONUS_DETAIL_CUSTOM_PROFILE",
+    "value": "カスタムプロフィール素材"
+  },
+  {
+    "wordingKey": "WORD_BONUS_DETAIL_STAMP",
+    "value": "スタンプ"
+  },
+  {
     "wordingKey": "WORD_BONUS_MISSION",
     "value": "ボーナスミッション"
   },
@@ -5468,6 +5508,10 @@
     "value": "しおりを外す"
   },
   {
+    "wordingKey": "WORD_CONFIRM_SERIAL_CODE",
+    "value": "シリアルコード確認"
+  },
+  {
     "wordingKey": "WORD_CONFIRM_START_LIVE",
     "value": "ライブ開始"
   },
@@ -5610,6 +5654,10 @@
   {
     "wordingKey": "WORD_CONVERT_START",
     "value": "ヘンカンする"
+  },
+  {
+    "wordingKey": "WORD_CONVERT_START_CONFIRM",
+    "value": "ヘンカン開始"
   },
   {
     "wordingKey": "WORD_COPY",
@@ -6166,6 +6214,10 @@
   {
     "wordingKey": "WORD_END_AT_FORMAT",
     "value": "{0}\/{1:00}\/{2:00} {3:00}:{4:00}まで"
+  },
+  {
+    "wordingKey": "WORD_END_AT_WITHOUT_YEAR_FORMAT",
+    "value": "{0:00}\/{1:00} {2:00}:{3:00}まで"
   },
   {
     "wordingKey": "WORD_ENTER_LIMIT",
@@ -6942,6 +6994,14 @@
   {
     "wordingKey": "WORD_GACHA_EXTRA_COSTUME",
     "value": "ライブ衣装付き"
+  },
+  {
+    "wordingKey": "WORD_GACHA_EXTRA_CUSTOM_PROFILE",
+    "value": "カスタムプロフィール素材付き"
+  },
+  {
+    "wordingKey": "WORD_GACHA_EXTRA_STAMP",
+    "value": "スタンプ付き"
   },
   {
     "wordingKey": "WORD_GACHA_LIMITED_SET_PERIOD",
@@ -10196,8 +10256,16 @@
     "value": "TOP>DAILY PICKUP"
   },
   {
+    "wordingKey": "WORD_SECRET_DAILY_PICKUP_COMPLETE",
+    "value": "TOP>DAILY PICKUP>注文完了"
+  },
+  {
     "wordingKey": "WORD_SECRET_WEEKLY_PICKUP",
     "value": "TOP>WEEKLY PICKUP"
+  },
+  {
+    "wordingKey": "WORD_SECRET_WEEKLY_PICKUP_COMPLETE",
+    "value": "TOP>WEEKLY PICKUP>注文完了"
   },
   {
     "wordingKey": "WORD_SEE_CONTENT",
@@ -10326,6 +10394,10 @@
   {
     "wordingKey": "WORD_SEND_MESSAGE",
     "value": "メッセージを送る"
+  },
+  {
+    "wordingKey": "WORD_SERIAL_CODE",
+    "value": "シリアルコード"
   },
   {
     "wordingKey": "WORD_SERIES_LIST",
