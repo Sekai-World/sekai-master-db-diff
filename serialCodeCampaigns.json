@@ -519,5 +519,41 @@
         "externalId": 3
       }
     ]
+  },
+  {
+    "id": 2,
+    "serialCodeCampaignType": "obtain_reward_directly",
+    "useCountLimit": 1,
+    "startAt": 1740229200000,
+    "closedAt": 1740927600000,
+    "serialCodeCampaignRewards": [
+      {
+        "id": 65,
+        "serialCodeCampaignId": 2,
+        "requirement": 1,
+        "seq": 1,
+        "serialCodeCampaignRewardType": "resource_box",
+        "externalId": 4,
+        "displayText": "プロセカ発行シリアルコード入力時報酬"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "serialCodeCampaignType": "obtain_reward_directly",
+    "useCountLimit": 1,
+    "startAt": 1739599200000,
+    "closedAt": 1740927600000,
+    "serialCodeCampaignRewards": [
+      {
+        "id": 66,
+        "serialCodeCampaignId": 3,
+        "requirement": 1,
+        "seq": 1,
+        "serialCodeCampaignRewardType": "resource_box",
+        "externalId": 5,
+        "displayText": "あんスタ発行シリアルコード入力時報酬"
+      }
+    ]
   }
 ]
