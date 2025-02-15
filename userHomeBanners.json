@@ -1,16 +1,5 @@
 [
   {
-    "homeBannerId": 1176,
-    "seq": 10,
-    "homeBannerType": "general",
-    "name": "Eコラコネライ _プレライブ_当日バナー",
-    "assetbundleName": "banner_connectlive_002_collab_live_es_mainlive",
-    "transitionDestinationType": "virtual_live",
-    "transitionDestinationId": 354,
-    "startAt": 1739545200000,
-    "endAt": 1739611800000
-  },
-  {
     "homeBannerId": 1190,
     "seq": 180,
     "homeBannerType": "general",
@@ -55,14 +44,36 @@
     "endAt": 1740106800000
   },
   {
-    "homeBannerId": 1197,
-    "seq": 130,
+    "homeBannerId": 1195,
+    "seq": 120,
     "homeBannerType": "general",
-    "name": "バレンタイン2025ライブ",
-    "assetbundleName": "banner_virtuallive359",
+    "name": "[KAITO]HAPPY ANNIVERSARYライブ",
+    "assetbundleName": "banner_virtuallive360",
     "transitionDestinationType": "virtual_live",
-    "transitionDestinationId": 359,
-    "startAt": 1739340000000,
-    "endAt": 1739631599000
+    "transitionDestinationId": 360,
+    "startAt": 1739599200000,
+    "endAt": 1739717999000
+  },
+  {
+    "homeBannerId": 1198,
+    "seq": 15,
+    "homeBannerType": "general",
+    "name": "[ガチャ]交わるせかいのアンサンブルガチャ_バナー",
+    "assetbundleName": "banner_gacha685",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 685,
+    "startAt": 1739599200000,
+    "endAt": 1740927600000
+  },
+  {
+    "homeBannerId": 1200,
+    "seq": 20,
+    "homeBannerType": "general",
+    "name": "[ガチャ][プロセカ×あんさんぶるスターズ！！コラボ記念]プレミアムプレゼントガチャ_バナー",
+    "assetbundleName": "banner_gacha686",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 686,
+    "startAt": 1739599200000,
+    "endAt": 1740927600000
   }
 ]
