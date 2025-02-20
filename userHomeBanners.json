@@ -1,27 +1,5 @@
 [
   {
-    "homeBannerId": 1176,
-    "seq": 10,
-    "homeBannerType": "general",
-    "name": "Eコラコネライ _プレライブ_当日バナー",
-    "assetbundleName": "banner_connectlive_002_collab_live_es_mainlive",
-    "transitionDestinationType": "virtual_live",
-    "transitionDestinationId": 354,
-    "startAt": 1739890800000,
-    "endAt": 1739964600000
-  },
-  {
-    "homeBannerId": 1190,
-    "seq": 180,
-    "homeBannerType": "general",
-    "name": "[ガチャ]モモジャン箱イベ_ガチャバナー",
-    "assetbundleName": "banner_gacha678",
-    "transitionDestinationType": "gacha",
-    "transitionDestinationId": 678,
-    "startAt": 1739156400000,
-    "endAt": 1740020400000
-  },
-  {
     "homeBannerId": 1192,
     "seq": 170,
     "homeBannerType": "event",
@@ -75,5 +53,16 @@
     "transitionDestinationId": 686,
     "startAt": 1739599200000,
     "endAt": 1740927600000
+  },
+  {
+    "homeBannerId": 1203,
+    "seq": 110,
+    "homeBannerType": "general",
+    "name": "[ガチャ]シャッフル穂波イベ_ガチャバナー",
+    "assetbundleName": "banner_gacha687",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 687,
+    "startAt": 1740020400000,
+    "endAt": 1740711600000
   }
 ]
