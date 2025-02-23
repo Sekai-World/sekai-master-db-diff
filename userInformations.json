@@ -351,19 +351,6 @@
     "bannerAssetbundleName": "banner_conference_support_program_20240823"
   },
   {
-    "id": 4089,
-    "seq": 1,
-    "displayOrder": 65380,
-    "informationType": "normal",
-    "informationTag": "information",
-    "browseType": "internal",
-    "platform": "iOS",
-    "title": "【8月27日19時00分追記】「iOS\/iPadOS 18」へのアップデートに関するご案内",
-    "path": "information\/index.html?id=info_update_ios18_2",
-    "startAt": 1724752800000,
-    "endAt": 1735657200000
-  },
-  {
     "id": 4133,
     "seq": 1,
     "displayOrder": 25960,
@@ -477,47 +464,6 @@
     "title": "【10月17日18時20分追記】【重要】「4周年記念スタンプミッション」のミッション修正に対するお詫びと補てんに関するご案内",
     "path": "information\/index.html?id=bug_4th_annive_stampmission_broom_20240930_add4",
     "startAt": 1729156800000
-  },
-  {
-    "id": 4289,
-    "seq": 1,
-    "displayOrder": 67240,
-    "informationType": "normal",
-    "informationTag": "information",
-    "browseType": "internal",
-    "platform": "Android",
-    "title": "【10月21日18時00分追記】「Android 15」へのアップデートに関するご案内",
-    "path": "information\/index.html?id=info_update_android15_3",
-    "startAt": 1729501200000,
-    "endAt": 1735657200000
-  },
-  {
-    "id": 4425,
-    "seq": 1,
-    "displayOrder": 68290,
-    "informationType": "normal",
-    "informationTag": "information",
-    "browseType": "internal",
-    "platform": "all",
-    "title": "12月26日19時00分より「プロセカ放送局 年末大特番」を生配信！",
-    "path": "information\/index.html?id=info_livebroadcast_15_20241226",
-    "startAt": 1734404400000,
-    "endAt": 1735218000000,
-    "bannerAssetbundleName": "banner_year_end_broadcast_01_held"
-  },
-  {
-    "id": 4426,
-    "seq": 1,
-    "displayOrder": 68280,
-    "informationType": "normal",
-    "informationTag": "information",
-    "browseType": "internal",
-    "platform": "all",
-    "title": "【12月16日18時30分追記】「プロジェクトセカイ Championship 2024 Autumn powered by ヴァイスシュヴァルツ」大会結果発表！",
-    "path": "information\/index.html?id=info_cs_autumn_2024_result2",
-    "startAt": 1734341400000,
-    "endAt": 1738335600000,
-    "bannerAssetbundleName": "banner_news_CS2024-autumn"
   },
   {
     "id": 4430,
@@ -1396,5 +1342,81 @@
     "startAt": 1740213000000,
     "endAt": 1740279600000,
     "bannerAssetbundleName": "banner_news_virtuallive_connectlive_collab_es"
+  },
+  {
+    "id": 4679,
+    "seq": 1,
+    "displayOrder": 70460,
+    "informationType": "normal",
+    "informationTag": "music",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "楽曲「Fire◎Flower (Rerec)」追加決定！",
+    "path": "information\/index.html?id=info_music_20250223_announce",
+    "startAt": 1740317400000,
+    "endAt": 1740337200000
+  },
+  {
+    "id": 4680,
+    "seq": 1,
+    "displayOrder": 70450,
+    "informationType": "normal",
+    "informationTag": "information",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "【2月23日22時30分追記】本日13時30分･17時30分より「コネクトライブ 特別版 プロジェクトセカイ×あんさんぶるスターズ！！Ensemble in SEKAI」DAY2を開催！",
+    "path": "information\/index.html?id=info_connectlive_collaboration_day2_remind_add",
+    "startAt": 1740317400000,
+    "endAt": 1740927600000
+  },
+  {
+    "id": 4681,
+    "seq": 1,
+    "displayOrder": 70480,
+    "informationType": "normal",
+    "informationTag": "information",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "「コネクトライブ 特別版 プロジェクトセカイ×あんさんぶるスターズ！！Ensemble in SEKAI」に関するアンケートへのご協力のお願い",
+    "path": "information\/index.html?id=info_questionnaire_20250223",
+    "startAt": 1740319200000,
+    "endAt": 1740495599000
+  },
+  {
+    "id": 4682,
+    "seq": 1,
+    "displayOrder": 70470,
+    "informationType": "normal",
+    "informationTag": "information",
+    "browseType": "external",
+    "platform": "all",
+    "title": "【回答時間：約4分】アンケートはコチラ！",
+    "path": "https:\/\/questant.jp\/q\/3XXPVKQO?id={userId}",
+    "startAt": 1740319200000,
+    "endAt": 1740495599000
+  },
+  {
+    "id": 4683,
+    "seq": 1,
+    "displayOrder": 26750,
+    "informationType": "bug",
+    "informationTag": "bug",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "2月23日22時30分ごろに修正した不具合について",
+    "path": "information\/index.html?id=bug_fix_something_20250223",
+    "startAt": 1740317400000
+  },
+  {
+    "id": 4684,
+    "seq": 1,
+    "displayOrder": 26760,
+    "informationType": "bug",
+    "informationTag": "bug",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "【2月23日22時30分追記】アプリバージョン「v5.1.1」までに確認している不具合について",
+    "path": "information\/index.html?id=bug_summary_to_v5-1-1_add",
+    "startAt": 1740317400000
   }
 ]
