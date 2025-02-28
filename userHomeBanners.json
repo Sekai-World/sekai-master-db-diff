@@ -22,28 +22,6 @@
     "endAt": 1740927600000
   },
   {
-    "homeBannerId": 1204,
-    "seq": 180,
-    "homeBannerType": "general",
-    "name": "[ガチャ]シャッフル穂波イベ_ガチャバナー",
-    "assetbundleName": "banner_gacha687",
-    "transitionDestinationType": "gacha",
-    "transitionDestinationId": 687,
-    "startAt": 1740020400000,
-    "endAt": 1740711600000
-  },
-  {
-    "homeBannerId": 1206,
-    "seq": 170,
-    "homeBannerType": "event",
-    "name": "[イベント]シャッフル穂波イベ_イベントバナー",
-    "assetbundleName": "event_readaloud_2025",
-    "transitionDestinationType": "event",
-    "transitionDestinationId": 158,
-    "startAt": 1740031200000,
-    "endAt": 1740722400000
-  },
-  {
     "homeBannerId": 1208,
     "seq": 160,
     "homeBannerType": "general",
@@ -53,5 +31,38 @@
     "transitionDestinationId": 688,
     "startAt": 1740279600000,
     "endAt": 1741057200000
+  },
+  {
+    "homeBannerId": 1210,
+    "seq": 110,
+    "homeBannerType": "general",
+    "name": "[ガチャ]シャッフル咲希イベ_ガチャバナー",
+    "assetbundleName": "banner_gacha689",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 689,
+    "startAt": 1740711600000,
+    "endAt": 1741575600000
+  },
+  {
+    "homeBannerId": 1212,
+    "seq": 100,
+    "homeBannerType": "event",
+    "name": "[イベント]シャッフル咲希イベ_イベントバナー",
+    "assetbundleName": "event_heartsmessage_2025",
+    "transitionDestinationType": "event",
+    "transitionDestinationId": 159,
+    "startAt": 1740722400000,
+    "endAt": 1741586400000
+  },
+  {
+    "homeBannerId": 1214,
+    "seq": 130,
+    "homeBannerType": "general",
+    "name": "[小豆沢こはね]HAPPY BIRTHDAYライブ",
+    "assetbundleName": "banner_virtuallive363",
+    "transitionDestinationType": "virtual_live",
+    "transitionDestinationId": 363,
+    "startAt": 1740722400000,
+    "endAt": 1740841199000
   }
 ]
