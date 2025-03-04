@@ -517,18 +517,6 @@
     "startAt": 1736476200000
   },
   {
-    "id": 4501,
-    "seq": 1,
-    "displayOrder": 26430,
-    "informationType": "bug",
-    "informationTag": "bug",
-    "browseType": "internal",
-    "platform": "all",
-    "title": "【1月11日0時30分追記】マイセカイで進行不能となる一部不具合の修正と報告、お詫びについて",
-    "path": "information\/index.html?id=bug_mysekai_unable to progress_add",
-    "startAt": 1736523000000
-  },
-  {
     "id": 4522,
     "seq": 1,
     "displayOrder": 69250,
@@ -553,18 +541,6 @@
     "startAt": 1736587800000
   },
   {
-    "id": 4536,
-    "seq": 1,
-    "displayOrder": 26550,
-    "informationType": "bug",
-    "informationTag": "bug",
-    "browseType": "internal",
-    "platform": "all",
-    "title": "【1月21日11時45分追記】「劇場版プロジェクトセカイ公開記念スタンプミッション」で確認している不具合について",
-    "path": "information\/index.html?id=bug_cinema_stampmission_20250117_add3",
-    "startAt": 1737427500000
-  },
-  {
     "id": 4556,
     "seq": 1,
     "displayOrder": 69580,
@@ -575,6 +551,7 @@
     "title": "1月27日配信「プロジェクトセカイ×あんさんぶるスターズ！！コラボスペシャル生放送」で発表された内容について",
     "path": "information\/index.html?id=info_livebroadcast_summary_20250127",
     "startAt": 1737980100000,
+    "endAt": 1740927600000,
     "bannerAssetbundleName": "banner_new_ecollab_livebroadcast_01_held"
   },
   {
@@ -602,7 +579,7 @@
     "title": "【1月21日18時30分追記】「ワールドパス」販売開始のお知らせ",
     "path": "information\/index.html?id=info_worldpass_start_announce_202501_add1",
     "startAt": 1737451800000,
-    "endAt": 1751295600000,
+    "endAt": 1741057200000,
     "bannerAssetbundleName": "banner_news_worldpass_2025_01"
   },
   {
@@ -833,7 +810,8 @@
     "platform": "all",
     "title": "【2月17日11時30分追記】【重要】2月15日（土）開催予定のプレライブの延期について",
     "path": "information\/index.html?id=info_connectlive-pre_announce_20250215_add",
-    "startAt": 1739759400000
+    "startAt": 1739759400000,
+    "endAt": 1740927600000
   },
   {
     "id": 4656,
@@ -915,18 +893,6 @@
     "startAt": 1740279600000,
     "endAt": 1740927600000,
     "bannerAssetbundleName": "banner_news_virtuallive_connectlive_collab_es"
-  },
-  {
-    "id": 4677,
-    "seq": 1,
-    "displayOrder": 70425,
-    "informationType": "normal",
-    "informationTag": "information",
-    "browseType": "internal",
-    "platform": "all",
-    "title": "2月24日メンテナンス実施のお知らせ",
-    "path": "information\/index.html?id=info_maintenance_20250225",
-    "startAt": 1740279600000
   },
   {
     "id": 4680,
@@ -1261,6 +1227,19 @@
     "bannerAssetbundleName": "banner_news_gacha690"
   },
   {
+    "id": 4712,
+    "seq": 1,
+    "displayOrder": 70720,
+    "informationType": "normal",
+    "informationTag": "information",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "3月9日20時より「ミクの日生放送」を配信！",
+    "path": "information\/index.html?id=info_livebroadcast_mikunohi_20250309",
+    "startAt": 1741057200000,
+    "endAt": 1741546800000
+  },
+  {
     "id": 4713,
     "seq": 1,
     "displayOrder": 70670,
@@ -1296,7 +1275,8 @@
     "platform": "all",
     "title": "【3月2日16時00分追記】アプリバージョン「v5.1.1」までに確認している不具合について",
     "path": "information\/index.html?id=bug_summary_to_v5-1-1_add2",
-    "startAt": 1740898800000
+    "startAt": 1740898800000,
+    "endAt": 1741057200000
   },
   {
     "id": 4721,
@@ -1309,5 +1289,30 @@
     "title": "3月1日に追加した一部バーチャルライブのアーカイブにおいて、初回参加報酬のスタンプが獲得できない不具合について",
     "path": "information\/index.html?id=bug_virtuallive_archive_20250303",
     "startAt": 1740974400000
+  },
+  {
+    "id": 4722,
+    "seq": 1,
+    "displayOrder": 70700,
+    "informationType": "normal",
+    "informationTag": "information",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "【3月4日12時00分追記】「ワールドパス」販売開始のお知らせ",
+    "path": "information\/index.html?id=info_worldpass_start_announce_202501_add2",
+    "startAt": 1741057200000,
+    "bannerAssetbundleName": "banner_news_worldpass_2025_01"
+  },
+  {
+    "id": 4723,
+    "seq": 1,
+    "displayOrder": 70710,
+    "informationType": "normal",
+    "informationTag": "information",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "マイセカイで発生した不具合における補てん・お詫びについて",
+    "path": "information\/index.html?id=info_summary_mysekai-bug_20250304",
+    "startAt": 1741057200000
   }
 ]
