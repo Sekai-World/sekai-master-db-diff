@@ -11416,5 +11416,143 @@
     "eventMissionSelectableRewardGroupId": 1,
     "sentence": "7つのミッションを全て達成しよう。",
     "rewards": []
+  },
+  {
+    "id": 641,
+    "eventId": 161,
+    "seq": 1,
+    "eventMissionType": "live_clear_daily",
+    "eventMissionCategory": "normal",
+    "requirement1": 9,
+    "sentence": "累計9日ライブを1日1回クリアしよう。",
+    "rewards": [
+      {
+        "id": 12629,
+        "missionType": "event_mission",
+        "missionId": 641,
+        "seq": 1,
+        "resourceBoxId": 8002
+      }
+    ]
+  },
+  {
+    "id": 642,
+    "eventId": 161,
+    "seq": 2,
+    "eventMissionType": "any_live_clear",
+    "eventMissionCategory": "normal",
+    "requirement1": 50,
+    "sentence": "ライブを50回クリアしよう。",
+    "rewards": [
+      {
+        "id": 12630,
+        "missionType": "event_mission",
+        "missionId": 642,
+        "seq": 1,
+        "resourceBoxId": 8002
+      }
+    ]
+  },
+  {
+    "id": 643,
+    "eventId": 161,
+    "seq": 3,
+    "eventMissionType": "live_clear_full_combo",
+    "eventMissionCategory": "normal",
+    "requirement1": 10,
+    "sentence": "ライブで楽曲をフルコンボで10回クリアしよう。",
+    "rewards": [
+      {
+        "id": 12631,
+        "missionType": "event_mission",
+        "missionId": 643,
+        "seq": 1,
+        "resourceBoxId": 8002
+      }
+    ]
+  },
+  {
+    "id": 644,
+    "eventId": 161,
+    "seq": 4,
+    "eventMissionType": "live_clear_different_music",
+    "eventMissionCategory": "normal",
+    "requirement1": 10,
+    "requirement2": 1,
+    "sentence": "ライブで10種類の楽曲をクリアしよう。",
+    "rewards": [
+      {
+        "id": 12632,
+        "missionType": "event_mission",
+        "missionId": 644,
+        "seq": 1,
+        "resourceBoxId": 8002
+      }
+    ]
+  },
+  {
+    "id": 645,
+    "eventId": 161,
+    "seq": 5,
+    "eventMissionType": "read_last_event_story_episode",
+    "eventMissionCategory": "normal",
+    "requirement1": 1,
+    "sentence": "イベント「Unreliable Notes」のイベントストーリー第8話を読もう。",
+    "rewards": [
+      {
+        "id": 12633,
+        "missionType": "event_mission",
+        "missionId": 645,
+        "seq": 1,
+        "resourceBoxId": 8002
+      }
+    ]
+  },
+  {
+    "id": 646,
+    "eventId": 161,
+    "seq": 6,
+    "eventMissionType": "consume_event_item",
+    "eventMissionCategory": "normal",
+    "requirement1": 20000,
+    "sentence": "イベント「Unreliable Notes」の交換所でバッジを20000個消費しよう。",
+    "rewards": [
+      {
+        "id": 12634,
+        "missionType": "event_mission",
+        "missionId": 646,
+        "seq": 1,
+        "resourceBoxId": 8002
+      }
+    ]
+  },
+  {
+    "id": 647,
+    "eventId": 161,
+    "seq": 7,
+    "eventMissionType": "join_virtual_live",
+    "eventMissionCategory": "normal",
+    "requirement1": 1,
+    "sentence": "「Unreliable Notes アフターライブ」に参加しよう。",
+    "rewards": [
+      {
+        "id": 12635,
+        "missionType": "event_mission",
+        "missionId": 647,
+        "seq": 1,
+        "resourceBoxId": 8002
+      }
+    ]
+  },
+  {
+    "id": 648,
+    "eventId": 161,
+    "seq": 8,
+    "eventMissionType": "achieve_event_mission",
+    "eventMissionCategory": "complete_selectable_reward",
+    "requirement1": 7,
+    "eventMissionSelectableRewardGroupId": 1,
+    "sentence": "7つのミッションを全て達成しよう。",
+    "rewards": []
   }
 ]

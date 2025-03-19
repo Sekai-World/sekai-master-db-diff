@@ -6391,7 +6391,7 @@
     "name": "ガーデンのパラソルテーブル",
     "pronunciation": "がーでんのぱらそるてーぶる",
     "flavorText": "ガーデンのパラソルテーブル",
-    "seq": 30004002,
+    "seq": 30004005,
     "gridSize": {
       "width": 2,
       "depth": 2,
@@ -6432,7 +6432,7 @@
     "name": "ガーデンのアイアンチェア",
     "pronunciation": "がーでんのあいあんちぇあ",
     "flavorText": "ガーデンのアイアンチェア",
-    "seq": 30004003,
+    "seq": 30004006,
     "gridSize": {
       "width": 2,
       "depth": 2,
@@ -6473,7 +6473,7 @@
     "name": "ガーデンのベンチ",
     "pronunciation": "がーでんのべんち",
     "flavorText": "ガーデンのベンチ",
-    "seq": 30004004,
+    "seq": 30004007,
     "gridSize": {
       "width": 4,
       "depth": 2,
@@ -6514,7 +6514,7 @@
     "name": "ガーデンのラティスプランター",
     "pronunciation": "がーでんのらてぃすぷらんたー",
     "flavorText": "ガーデンのラティスプランター",
-    "seq": 30004005,
+    "seq": 30004008,
     "gridSize": {
       "width": 2,
       "depth": 1,
@@ -6555,7 +6555,7 @@
     "name": "ガーデンのステップラダー",
     "pronunciation": "がーでんのすてっぷらだー",
     "flavorText": "ガーデンのステップラダー",
-    "seq": 30004006,
+    "seq": 30004012,
     "gridSize": {
       "width": 2,
       "depth": 2,
@@ -6596,7 +6596,7 @@
     "name": "ガーデンツールシェルフ",
     "pronunciation": "がーでんつーるしぇるふ",
     "flavorText": "ガーデンツールシェルフ",
-    "seq": 30004007,
+    "seq": 30004013,
     "gridSize": {
       "width": 3,
       "depth": 2,
@@ -6637,7 +6637,7 @@
     "name": "ガーデンカート",
     "pronunciation": "がーでんかーと",
     "flavorText": "ガーデンカート",
-    "seq": 30004008,
+    "seq": 30004014,
     "gridSize": {
       "width": 2,
       "depth": 3,
@@ -6678,7 +6678,7 @@
     "name": "ガーデンのブリキじょうろ",
     "pronunciation": "がーでんののぶりきじょうろ",
     "flavorText": "ガーデンのブリキじょうろ",
-    "seq": 30004009,
+    "seq": 30004018,
     "gridSize": {
       "width": 2,
       "depth": 1,
@@ -19245,6 +19245,218 @@
     "assetbundleName": "mdl_ext0002_fixture_basket1"
   },
   {
+    "id": 531,
+    "mysekaiFixtureType": "normal",
+    "name": "サッカーボール",
+    "pronunciation": "さっかーぼーる",
+    "flavorText": "サッカーボール",
+    "seq": 30016001,
+    "gridSize": {
+      "width": 1,
+      "depth": 1,
+      "height": 1
+    },
+    "mysekaiFixtureMainGenreId": 2,
+    "mysekaiFixtureSubGenreId": 9,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "any",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "none",
+    "mysekaiFixtureAnotherColors": [],
+    "mysekaiFixturePutSoundId": 9,
+    "mysekaiFixtureTagGroup": {
+      "id": 531,
+      "mysekaiFixtureTagId1": 10580,
+      "mysekaiFixtureTagId2": 10586
+    },
+    "isAssembled": true,
+    "isDisassembled": true,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": true,
+    "assetbundleName": "mdl_ext0016_fixture_soccerball1"
+  },
+  {
+    "id": 532,
+    "mysekaiFixtureType": "normal",
+    "name": "バスケットボール",
+    "pronunciation": "ばすけっとぼーる",
+    "flavorText": "バスケットボール",
+    "seq": 30016002,
+    "gridSize": {
+      "width": 1,
+      "depth": 1,
+      "height": 1
+    },
+    "mysekaiFixtureMainGenreId": 2,
+    "mysekaiFixtureSubGenreId": 9,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "any",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "none",
+    "mysekaiFixtureAnotherColors": [],
+    "mysekaiFixturePutSoundId": 9,
+    "mysekaiFixtureTagGroup": {
+      "id": 532,
+      "mysekaiFixtureTagId1": 10581,
+      "mysekaiFixtureTagId2": 10586
+    },
+    "isAssembled": true,
+    "isDisassembled": true,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": true,
+    "assetbundleName": "mdl_ext0016_fixture_basketball1"
+  },
+  {
+    "id": 533,
+    "mysekaiFixtureType": "normal",
+    "name": "テニスラケットバッグ",
+    "pronunciation": "てにすらけっとばっぐ",
+    "flavorText": "テニスラケットバッグ",
+    "seq": 30016003,
+    "gridSize": {
+      "width": 3,
+      "depth": 1,
+      "height": 2
+    },
+    "colorCode": "#FF3535",
+    "mysekaiFixtureMainGenreId": 2,
+    "mysekaiFixtureSubGenreId": 9,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "any",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "none",
+    "mysekaiFixtureAnotherColors": [
+      {
+        "textureId": 2,
+        "colorCode": "#4C69FF"
+      },
+      {
+        "textureId": 3,
+        "colorCode": "#222222"
+      }
+    ],
+    "mysekaiFixturePutSoundId": 7,
+    "mysekaiFixtureTagGroup": {
+      "id": 533,
+      "mysekaiFixtureTagId1": 10582,
+      "mysekaiFixtureTagId2": 10586
+    },
+    "isAssembled": true,
+    "isDisassembled": true,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_ext0016_fixture_tennisracket1"
+  },
+  {
+    "id": 534,
+    "mysekaiFixtureType": "normal",
+    "name": "卓球台",
+    "pronunciation": "たっきゅうだい",
+    "flavorText": "卓球台",
+    "seq": 30016004,
+    "gridSize": {
+      "width": 4,
+      "depth": 6,
+      "height": 2
+    },
+    "colorCode": "#1B90D2",
+    "mysekaiFixtureMainGenreId": 2,
+    "mysekaiFixtureSubGenreId": 9,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "any",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "none",
+    "mysekaiFixtureAnotherColors": [
+      {
+        "textureId": 2,
+        "colorCode": "#39A936"
+      }
+    ],
+    "mysekaiFixturePutSoundId": 4,
+    "mysekaiFixtureTagGroup": {
+      "id": 534,
+      "mysekaiFixtureTagId1": 10583,
+      "mysekaiFixtureTagId2": 10586
+    },
+    "isAssembled": true,
+    "isDisassembled": true,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": true,
+    "assetbundleName": "mdl_ext0016_fixture_pingpongtable1"
+  },
+  {
+    "id": 535,
+    "mysekaiFixtureType": "normal",
+    "name": "バドミントンラケット",
+    "pronunciation": "ばどみんとんらけっと",
+    "flavorText": "バドミントンラケット",
+    "seq": 30016005,
+    "gridSize": {
+      "width": 2,
+      "depth": 2,
+      "height": 1
+    },
+    "colorCode": "#43D540",
+    "mysekaiFixtureMainGenreId": 3,
+    "mysekaiFixtureSubGenreId": 13,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "any",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "put_target",
+    "mysekaiFixtureAnotherColors": [
+      {
+        "textureId": 2,
+        "colorCode": "#FF7FDB"
+      },
+      {
+        "textureId": 3,
+        "colorCode": "#FF3535"
+      }
+    ],
+    "mysekaiFixturePutSoundId": 7,
+    "mysekaiFixtureTagGroup": {
+      "id": 535,
+      "mysekaiFixtureTagId1": 10584,
+      "mysekaiFixtureTagId2": 10586
+    },
+    "isAssembled": true,
+    "isDisassembled": true,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_ext0016_fixture_badmintonracket1"
+  },
+  {
+    "id": 536,
+    "mysekaiFixtureType": "normal",
+    "name": "野球バットとグローブ",
+    "pronunciation": "やきゅうばっととぐろーぶ",
+    "flavorText": "野球バットとグローブ",
+    "seq": 30016006,
+    "gridSize": {
+      "width": 2,
+      "depth": 1,
+      "height": 1
+    },
+    "mysekaiFixtureMainGenreId": 3,
+    "mysekaiFixtureSubGenreId": 13,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "any",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "put_target",
+    "mysekaiFixtureAnotherColors": [],
+    "mysekaiFixturePutSoundId": 9,
+    "mysekaiFixtureTagGroup": {
+      "id": 536,
+      "mysekaiFixtureTagId1": 10585,
+      "mysekaiFixtureTagId2": 10586
+    },
+    "isAssembled": true,
+    "isDisassembled": true,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_ext0016_fixture_baseballglove1"
+  },
+  {
     "id": 537,
     "mysekaiFixtureType": "normal",
     "name": "苔むした岩",
@@ -20767,6 +20979,406 @@
     "mysekaiFixturePlayerActionType": "no_action",
     "isGameCharacterAction": false,
     "assetbundleName": "mdl_pas125_fixture_doll1large"
+  },
+  {
+    "id": 585,
+    "mysekaiFixtureType": "normal",
+    "name": "グランドライト",
+    "pronunciation": "ぐらんどらいと",
+    "flavorText": "グランドライト",
+    "seq": 29001001,
+    "gridSize": {
+      "width": 1,
+      "depth": 1,
+      "height": 1
+    },
+    "mysekaiFixtureMainGenreId": 2,
+    "mysekaiFixtureSubGenreId": 8,
+    "mysekaiFixtureHandleType": "light",
+    "mysekaiSettableSiteType": "any",
+    "mysekaiSettableLayoutType": "rug",
+    "mysekaiFixturePutType": "none",
+    "mysekaiFixtureAnotherColors": [],
+    "mysekaiFixturePutSoundId": 13,
+    "mysekaiFixtureTagGroup": {
+      "id": 585,
+      "mysekaiFixtureTagId1": 10587,
+      "mysekaiFixtureTagId2": 70
+    },
+    "isAssembled": true,
+    "isDisassembled": true,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_non9001_fixture_groundlight1"
+  },
+  {
+    "id": 586,
+    "mysekaiFixtureType": "normal",
+    "name": "ガーデンの素朴な花壇\/ポピー",
+    "pronunciation": "がーでんのそぼくなかだんぽぴー",
+    "flavorText": "ガーデンの素朴な花壇\/ポピー",
+    "seq": 30004002,
+    "gridSize": {
+      "width": 2,
+      "depth": 1,
+      "height": 1
+    },
+    "colorCode": "#C3944D",
+    "mysekaiFixtureMainGenreId": 2,
+    "mysekaiFixtureSubGenreId": 7,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "any",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "none",
+    "mysekaiFixtureAnotherColors": [
+      {
+        "textureId": 2,
+        "colorCode": "#F7ECD2"
+      },
+      {
+        "textureId": 3,
+        "colorCode": "#6A450E"
+      }
+    ],
+    "mysekaiFixturePutSoundId": 1,
+    "mysekaiFixtureTagGroup": {
+      "id": 586,
+      "mysekaiFixtureTagId1": 10588,
+      "mysekaiFixtureTagId2": 34
+    },
+    "isAssembled": true,
+    "isDisassembled": true,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": true,
+    "assetbundleName": "mdl_ext0004_fixture_flowerbed2"
+  },
+  {
+    "id": 587,
+    "mysekaiFixtureType": "normal",
+    "name": "ガーデンの素朴な花壇\/コスモス",
+    "pronunciation": "がーでんのそぼくなかだんこすもす",
+    "flavorText": "ガーデンの素朴な花壇\/コスモス",
+    "seq": 30004003,
+    "gridSize": {
+      "width": 2,
+      "depth": 1,
+      "height": 1
+    },
+    "colorCode": "#C3944D",
+    "mysekaiFixtureMainGenreId": 2,
+    "mysekaiFixtureSubGenreId": 7,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "any",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "none",
+    "mysekaiFixtureAnotherColors": [
+      {
+        "textureId": 2,
+        "colorCode": "#F7ECD2"
+      },
+      {
+        "textureId": 3,
+        "colorCode": "#6A450E"
+      }
+    ],
+    "mysekaiFixturePutSoundId": 1,
+    "mysekaiFixtureTagGroup": {
+      "id": 587,
+      "mysekaiFixtureTagId1": 10589,
+      "mysekaiFixtureTagId2": 34
+    },
+    "isAssembled": true,
+    "isDisassembled": true,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": true,
+    "assetbundleName": "mdl_ext0004_fixture_flowerbed3"
+  },
+  {
+    "id": 588,
+    "mysekaiFixtureType": "normal",
+    "name": "ガーデンの素朴な花壇\/ラベンダー",
+    "pronunciation": "がーでんのそぼくなかだんらべんだー",
+    "flavorText": "ガーデンの素朴な花壇\/ラベンダー",
+    "seq": 30004004,
+    "gridSize": {
+      "width": 2,
+      "depth": 1,
+      "height": 1
+    },
+    "colorCode": "#C3944D",
+    "mysekaiFixtureMainGenreId": 2,
+    "mysekaiFixtureSubGenreId": 7,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "any",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "none",
+    "mysekaiFixtureAnotherColors": [
+      {
+        "textureId": 2,
+        "colorCode": "#F7ECD2"
+      },
+      {
+        "textureId": 3,
+        "colorCode": "#6A450E"
+      }
+    ],
+    "mysekaiFixturePutSoundId": 1,
+    "mysekaiFixtureTagGroup": {
+      "id": 588,
+      "mysekaiFixtureTagId1": 10590,
+      "mysekaiFixtureTagId2": 34
+    },
+    "isAssembled": true,
+    "isDisassembled": true,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": true,
+    "assetbundleName": "mdl_ext0004_fixture_flowerbed4"
+  },
+  {
+    "id": 589,
+    "mysekaiFixtureType": "normal",
+    "name": "ガーデンのラティスプランター\/ポピー",
+    "pronunciation": "がーでんのらてぃすぷらんたーぽぴー",
+    "flavorText": "ガーデンのラティスプランター\/ぽぴー",
+    "seq": 30004009,
+    "gridSize": {
+      "width": 2,
+      "depth": 1,
+      "height": 3
+    },
+    "colorCode": "#C3944D",
+    "mysekaiFixtureMainGenreId": 2,
+    "mysekaiFixtureSubGenreId": 7,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "any",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "none",
+    "mysekaiFixtureAnotherColors": [
+      {
+        "textureId": 2,
+        "colorCode": "#F7ECD2"
+      },
+      {
+        "textureId": 3,
+        "colorCode": "#6A450E"
+      }
+    ],
+    "mysekaiFixturePutSoundId": 1,
+    "mysekaiFixtureTagGroup": {
+      "id": 589,
+      "mysekaiFixtureTagId1": 10591,
+      "mysekaiFixtureTagId2": 34
+    },
+    "isAssembled": true,
+    "isDisassembled": true,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_ext0004_fixture_planter2"
+  },
+  {
+    "id": 590,
+    "mysekaiFixtureType": "normal",
+    "name": "ガーデンのラティスプランター\/コスモス",
+    "pronunciation": "がーでんのらてぃすぷらんたーこすもす",
+    "flavorText": "ガーデンのラティスプランター\/こすもす",
+    "seq": 30004010,
+    "gridSize": {
+      "width": 2,
+      "depth": 1,
+      "height": 3
+    },
+    "colorCode": "#C3944D",
+    "mysekaiFixtureMainGenreId": 2,
+    "mysekaiFixtureSubGenreId": 7,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "any",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "none",
+    "mysekaiFixtureAnotherColors": [
+      {
+        "textureId": 2,
+        "colorCode": "#F7ECD2"
+      },
+      {
+        "textureId": 3,
+        "colorCode": "#6A450E"
+      }
+    ],
+    "mysekaiFixturePutSoundId": 1,
+    "mysekaiFixtureTagGroup": {
+      "id": 590,
+      "mysekaiFixtureTagId1": 10592,
+      "mysekaiFixtureTagId2": 34
+    },
+    "isAssembled": true,
+    "isDisassembled": true,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_ext0004_fixture_planter3"
+  },
+  {
+    "id": 591,
+    "mysekaiFixtureType": "normal",
+    "name": "ガーデンのラティスプランター\/ラベンダー",
+    "pronunciation": "がーでんのらてぃすぷらんたーらべんだー",
+    "flavorText": "ガーデンのラティスプランター\/ラベンダー",
+    "seq": 30004011,
+    "gridSize": {
+      "width": 2,
+      "depth": 1,
+      "height": 3
+    },
+    "colorCode": "#C3944D",
+    "mysekaiFixtureMainGenreId": 2,
+    "mysekaiFixtureSubGenreId": 7,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "any",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "none",
+    "mysekaiFixtureAnotherColors": [
+      {
+        "textureId": 2,
+        "colorCode": "#F7ECD2"
+      },
+      {
+        "textureId": 3,
+        "colorCode": "#6A450E"
+      }
+    ],
+    "mysekaiFixturePutSoundId": 1,
+    "mysekaiFixtureTagGroup": {
+      "id": 591,
+      "mysekaiFixtureTagId1": 10593,
+      "mysekaiFixtureTagId2": 34
+    },
+    "isAssembled": true,
+    "isDisassembled": true,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_ext0004_fixture_planter4"
+  },
+  {
+    "id": 592,
+    "mysekaiFixtureType": "normal",
+    "name": "ガーデンカート\/ポピー",
+    "pronunciation": "がーでんかーとぽぴー",
+    "flavorText": "ガーデンカート\/ポピー",
+    "seq": 30004015,
+    "gridSize": {
+      "width": 2,
+      "depth": 3,
+      "height": 3
+    },
+    "colorCode": "#C3944D",
+    "mysekaiFixtureMainGenreId": 2,
+    "mysekaiFixtureSubGenreId": 9,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "any",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "none",
+    "mysekaiFixtureAnotherColors": [
+      {
+        "textureId": 2,
+        "colorCode": "#F7ECD2"
+      },
+      {
+        "textureId": 3,
+        "colorCode": "#6A450E"
+      }
+    ],
+    "mysekaiFixturePutSoundId": 2,
+    "mysekaiFixtureTagGroup": {
+      "id": 592,
+      "mysekaiFixtureTagId1": 10594,
+      "mysekaiFixtureTagId2": 34
+    },
+    "isAssembled": true,
+    "isDisassembled": true,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_ext0004_fixture_cart2"
+  },
+  {
+    "id": 593,
+    "mysekaiFixtureType": "normal",
+    "name": "ガーデンカート\/コスモス",
+    "pronunciation": "がーでんかーとこすもす",
+    "flavorText": "ガーデンカート\/コスモス",
+    "seq": 30004016,
+    "gridSize": {
+      "width": 2,
+      "depth": 3,
+      "height": 3
+    },
+    "colorCode": "#C3944D",
+    "mysekaiFixtureMainGenreId": 2,
+    "mysekaiFixtureSubGenreId": 9,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "any",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "none",
+    "mysekaiFixtureAnotherColors": [
+      {
+        "textureId": 2,
+        "colorCode": "#F7ECD2"
+      },
+      {
+        "textureId": 3,
+        "colorCode": "#6A450E"
+      }
+    ],
+    "mysekaiFixturePutSoundId": 2,
+    "mysekaiFixtureTagGroup": {
+      "id": 593,
+      "mysekaiFixtureTagId1": 10595,
+      "mysekaiFixtureTagId2": 34
+    },
+    "isAssembled": true,
+    "isDisassembled": true,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_ext0004_fixture_cart3"
+  },
+  {
+    "id": 594,
+    "mysekaiFixtureType": "normal",
+    "name": "ガーデンカート\/ラベンダー",
+    "pronunciation": "がーでんかーとらべんだー",
+    "flavorText": "ガーデンカート\/ラベンダー",
+    "seq": 30004017,
+    "gridSize": {
+      "width": 2,
+      "depth": 3,
+      "height": 3
+    },
+    "colorCode": "#C3944D",
+    "mysekaiFixtureMainGenreId": 2,
+    "mysekaiFixtureSubGenreId": 9,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "any",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "none",
+    "mysekaiFixtureAnotherColors": [
+      {
+        "textureId": 2,
+        "colorCode": "#F7ECD2"
+      },
+      {
+        "textureId": 3,
+        "colorCode": "#6A450E"
+      }
+    ],
+    "mysekaiFixturePutSoundId": 2,
+    "mysekaiFixtureTagGroup": {
+      "id": 594,
+      "mysekaiFixtureTagId1": 10596,
+      "mysekaiFixtureTagId2": 34
+    },
+    "isAssembled": true,
+    "isDisassembled": true,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_ext0004_fixture_cart4"
   },
   {
     "id": 900002,
