@@ -88,6 +88,10 @@
     "value": "{0}に招待状を送るのを取りやめますか？"
   },
   {
+    "wordingKey": "FORMAT_MSG_CONFIRM_CANCEL_INVITATION_NOT_RECEIVED_MEMORIA",
+    "value": "{0}に招待状を送るのを取りやめますか？\n<color=#FF3366>※本日分のメモリアをまだ受け取っていません。\n招待を取りやめると、本日獲得できるメモリアが1個になります。<\/color>"
+  },
+  {
     "wordingKey": "FORMAT_MSG_CONFIRM_GATE_CHANGE",
     "value": "{0}を設置します。\nよろしいですか？\n\n<color=#FF5588>※翌日の5:00までメモリアを受け取ることができなくなります。\n※ゲートの再設置が{1}日間できなくなります。\n※誰かに招待状を送っている場合は、キャンセルされます。<\/color>"
   },
@@ -2276,6 +2280,10 @@
     "value": "うしろにスペースがないため、三脚を置けません。"
   },
   {
+    "wordingKey": "MSG_MYSEKAI_INVITATION_BALLOON",
+    "value": "招待中は獲得メモリア＋1個！"
+  },
+  {
     "wordingKey": "MSG_MYSEKAI_JOIN_ERROR",
     "value": "現在訪問できる人数の上限に達しているため\nこのプレイヤーのマイセカイに遊びに行けません。"
   },
@@ -2362,6 +2370,30 @@
   {
     "wordingKey": "MSG_MYSEKAI_SKETCH_TRADE_GO",
     "value": "ヘンカンへ"
+  },
+  {
+    "wordingKey": "MSG_MYSEKAI_TALK_RELEASE_CONDITION_CHARACTER_VISIT_COUNT_FORMAT",
+    "value": "マイセカイに{0}回以上訪問してくれた{1}に話しかけると発生"
+  },
+  {
+    "wordingKey": "MSG_MYSEKAI_TALK_RELEASE_CONDITION_CHARACTER_VISIT_COUNT_ONCE_FORMAT",
+    "value": "{0}に話しかけると発生"
+  },
+  {
+    "wordingKey": "MSG_MYSEKAI_TALK_RELEASE_CONDITION_FIXTURE_MULTI_FORMAT",
+    "value": "{0}が対象の家具を使用した場合に発生"
+  },
+  {
+    "wordingKey": "MSG_MYSEKAI_TALK_RELEASE_CONDITION_FIXTURE_SINGLE_FORMAT",
+    "value": "{0}が｢{1}｣を使用した場合に発生"
+  },
+  {
+    "wordingKey": "MSG_MYSEKAI_TALK_RELEASE_CONDITION_PHENOMENA_FORMAT",
+    "value": "天気が{0}のときに、{1}に話しかけると発生"
+  },
+  {
+    "wordingKey": "MSG_MYSEKAI_TALK_RELEASE_CONDITION_READ_EVENT_STORY_EPISODE_FORMAT",
+    "value": "「{0}」の第{1}話を読む\n{2}に話しかけると発生"
   },
   {
     "wordingKey": "MSG_MYSEKAI_TUTORIAL_CALL_CHARACTER_IN_PHOTO_MODE",
@@ -2638,6 +2670,10 @@
   {
     "wordingKey": "MSG_NO_INVITE",
     "value": "招待がありません。"
+  },
+  {
+    "wordingKey": "MSG_NO_SETTING_CHARACTER",
+    "value": "メンバーが編成されていません。"
   },
   {
     "wordingKey": "MSG_NO_STORY_FOUND",
@@ -4288,6 +4324,10 @@
     "value": "コピー済み"
   },
   {
+    "wordingKey": "WORD_ALREADY_CREATED_COSTUME",
+    "value": "製作済み"
+  },
+  {
     "wordingKey": "WORD_ALREADY_DOWNLOADED",
     "value": "DL済み"
   },
@@ -4860,6 +4900,10 @@
     "value": "確認"
   },
   {
+    "wordingKey": "WORD_CAN_MAKE_COSTUME",
+    "value": "製作可能"
+  },
+  {
     "wordingKey": "WORD_CAN_NOT_RECYCLED",
     "value": "リサイクル不可"
   },
@@ -5068,8 +5112,16 @@
     "value": "[{0}]"
   },
   {
+    "wordingKey": "WORD_CHARACTER_ARCHIVE_CATEGORY_FIXTURE_TALK",
+    "value": "家具"
+  },
+  {
     "wordingKey": "WORD_CHARACTER_ARCHIVE_CATEGORY_GACHA",
     "value": "ガチャ"
+  },
+  {
+    "wordingKey": "WORD_CHARACTER_ARCHIVE_CATEGORY_GENERAL_TALK",
+    "value": "通常"
   },
   {
     "wordingKey": "WORD_CHARACTER_ARCHIVE_CATEGORY_LIVE",
@@ -6590,6 +6642,10 @@
   {
     "wordingKey": "WORD_FILTER",
     "value": "絞り込み"
+  },
+  {
+    "wordingKey": "WORD_FILTERED_COSTUME_EMPTY",
+    "value": "対象の衣装がありません。"
   },
   {
     "wordingKey": "WORD_FILTER_CARD_NORMAL",
@@ -8380,8 +8436,12 @@
     "value": "メンバー集め"
   },
   {
+    "wordingKey": "WORD_MISSION_TITLE_COLLECT_MYSEKAI_CANVAS",
+    "value": "キャンバス"
+  },
+  {
     "wordingKey": "WORD_MISSION_TITLE_COLLECT_MYSEKAI_FIXTURE",
-    "value": "マイセカイ家具"
+    "value": "キャラクタータグ付き家具"
   },
   {
     "wordingKey": "WORD_MISSION_TITLE_COLLECT_STAMP",
@@ -8776,6 +8836,14 @@
     "value": "サイズ"
   },
   {
+    "wordingKey": "WORD_MYSEKAI_TALK_RELEASE_CONDITION_SEPARATOR",
+    "value": "・"
+  },
+  {
+    "wordingKey": "WORD_MYSEKAI_TALK_RELEASE_CONDITION_TWEET_FORMAT",
+    "value": "「{0}」"
+  },
+  {
     "wordingKey": "WORD_MYSEKAI_VISIST",
     "value": "マイセカイへの受け入れ"
   },
@@ -8902,6 +8970,10 @@
   {
     "wordingKey": "WORD_NOT_FULL_COMBO",
     "value": "未フルコンボ"
+  },
+  {
+    "wordingKey": "WORD_NOT_GET_COSTUME",
+    "value": "未獲得"
   },
   {
     "wordingKey": "WORD_NOT_INVITED",
@@ -9569,11 +9641,11 @@
   },
   {
     "wordingKey": "WORD_PRESET_HAD_BEEN_SET_CONFIRMATION",
-    "value": "<color=#F59>{0}<\/color>のプリセットをマイセカイに配置します。 \n現在配置している家具は片付けられますがよろしいですか？ \n\n<color=#F36>※現在マイセカイに配置中の家具は一度片づけてから配置されます。<\/color>"
+    "value": "<color=#F59>{0}<\/color>のプリセットをマイセカイに配置します。 \n現在配置している家具は片付けられますがよろしいですか？ \n<color=#F36>※現在マイセカイに配置中の家具は一度片づけてから配置されます。<\/color>\n<color=#F36>※ブロック家具が含まれている場合、\n持ち物か同じエリアに配置している必要があります。<\/color>"
   },
   {
     "wordingKey": "WORD_PRESET_NO_HAVE_CONFIRMATION",
-    "value": "<color=#F59>{0}<\/color>のプリセットをマイセカイに配置します。 \n現在配置している家具は片付けられますがよろしいですか？ \n\n<color=#F36>※プリセットに含まれる現在所持していない家具は配置されません。<\/color>"
+    "value": "<color=#F59>{0}<\/color>のプリセットをマイセカイに配置します。 \n現在配置している家具は片付けられますがよろしいですか？ \n<color=#F36>※プリセットに含まれる現在所持していない家具は配置されません。<\/color>\n<color=#F36>※ブロック家具が含まれている場合、\n持ち物か同じエリアに配置している必要があります。<\/color>"
   },
   {
     "wordingKey": "WORD_PRESET_OVERWRITE_CONFIRMATION",
@@ -9822,6 +9894,10 @@
   {
     "wordingKey": "WORD_REACTION_CHARACTER",
     "value": "リアクションするキャラクター"
+  },
+  {
+    "wordingKey": "WORD_REACTION_IN_UNDER_FIXTURE",
+    "value": "以下の家具で発生することがあります。"
   },
   {
     "wordingKey": "WORD_READ",
@@ -10413,7 +10489,7 @@
   },
   {
     "wordingKey": "WORD_SETTING_MYSITE",
-    "value": "マイホーム設定中"
+    "value": "設定中"
   },
   {
     "wordingKey": "WORD_SETTING_UP",
@@ -10425,7 +10501,7 @@
   },
   {
     "wordingKey": "WORD_SET_MYSITE",
-    "value": "マイホーム設定"
+    "value": "BGMに設定"
   },
   {
     "wordingKey": "WORD_SET_PROFILE",
@@ -10578,6 +10654,18 @@
   {
     "wordingKey": "WORD_SHOP_YEAR",
     "value": "年"
+  },
+  {
+    "wordingKey": "WORD_SHORTAGE_COUNT",
+    "value": "不足数"
+  },
+  {
+    "wordingKey": "WORD_SHORTAGE_FIXTURE",
+    "value": "不足家具"
+  },
+  {
+    "wordingKey": "WORD_SHORTAGE_FIXTURE_FOR_PRESET",
+    "value": "下記の家具が不足しているため、プリセットを反映できません。"
   },
   {
     "wordingKey": "WORD_SHOW_NOTE_LINE",
@@ -11018,6 +11106,10 @@
   {
     "wordingKey": "WORD_SUPPORT_DECK_EDIT",
     "value": "サポート編成"
+  },
+  {
+    "wordingKey": "WORD_SUPPORT_DECK_EDIT_COUNT_FORMAT",
+    "value": "{0}\/{1}"
   },
   {
     "wordingKey": "WORD_SUPPORT_MEMBR",

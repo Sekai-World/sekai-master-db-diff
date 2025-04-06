@@ -1,35 +1,89 @@
 [
   {
-    "homeBannerId": 1226,
+    "homeBannerId": 1232,
     "seq": 110,
     "homeBannerType": "general",
-    "name": "[ガチャ]ニーゴ箱イベ_ガチャバナー",
-    "assetbundleName": "banner_gacha703",
+    "name": "[ガチャ]レオニ箱イベ_ガチャバナー",
+    "assetbundleName": "banner_gacha711",
     "transitionDestinationType": "gacha",
-    "transitionDestinationId": 703,
-    "startAt": 1742439600000,
-    "endAt": 1743303600000
+    "transitionDestinationId": 711,
+    "startAt": 1743735600000,
+    "endAt": 1744081200000
   },
   {
-    "homeBannerId": 1228,
+    "homeBannerId": 1234,
     "seq": 100,
     "homeBannerType": "event",
-    "name": "[イベント]ニーゴ箱イベ_イベントバナー",
-    "assetbundleName": "event_notes_2025",
+    "name": "[イベント]レオニ箱イベ_イベントバナー",
+    "assetbundleName": "event_dreamview_2025",
     "transitionDestinationType": "event",
-    "transitionDestinationId": 161,
-    "startAt": 1742450400000,
-    "endAt": 1743314400000
+    "transitionDestinationId": 162,
+    "startAt": 1743314400000,
+    "endAt": 1744110000000
   },
   {
-    "homeBannerId": 1231,
-    "seq": 10,
+    "homeBannerId": 1238,
+    "seq": 80,
     "homeBannerType": "general",
-    "name": "3月28日生放送（当日",
-    "assetbundleName": "banner_new_livebroadcast_logo_held",
-    "transitionDestinationType": "information",
-    "transitionDestinationId": 4767,
-    "startAt": 1743127200000,
-    "endAt": 1743166800000
+    "name": "[4.5周年記念]プレミアムプレゼントガチャ",
+    "assetbundleName": "banner_gacha705",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 705,
+    "startAt": 1743303600000,
+    "endAt": 1744081200000
+  },
+  {
+    "homeBannerId": 1239,
+    "seq": 200,
+    "homeBannerType": "general",
+    "name": "[4.5周年記念]無料ガチャ",
+    "assetbundleName": "banner_gacha707",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 707,
+    "startAt": 1743303600000,
+    "endAt": 1747925999000
+  },
+  {
+    "homeBannerId": 1240,
+    "seq": 30,
+    "homeBannerType": "general",
+    "name": "[4.5周年記念]セレクトリストガチャ Limited Edition",
+    "assetbundleName": "banner_gacha709",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 709,
+    "startAt": 1743303600000,
+    "endAt": 1744081200000
+  },
+  {
+    "homeBannerId": 1241,
+    "seq": 60,
+    "homeBannerType": "general",
+    "name": "[4.5周年記念]ハートフルギフトガチャ",
+    "assetbundleName": "banner_gacha710",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 710,
+    "startAt": 1743303600000,
+    "endAt": 1744081200000
+  },
+  {
+    "homeBannerId": 1242,
+    "seq": 130,
+    "homeBannerType": "general",
+    "name": "[Vivid BAD SQUAD]ワールドリンクイベントサポートガチャ",
+    "assetbundleName": "banner_gacha712",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 712,
+    "startAt": 1743476400000,
+    "endAt": 1745290800000
+  },
+  {
+    "homeBannerId": 1244,
+    "seq": 160,
+    "homeBannerType": "general",
+    "name": "4.5周年クリスタルショップ",
+    "assetbundleName": "banner_shop_4-5th_anniversary",
+    "transitionDestinationType": "billing_shop_for_jewel",
+    "startAt": 1743303600000,
+    "endAt": 1744081200000
   }
 ]

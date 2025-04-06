@@ -1197,5 +1197,74 @@
         "rewardResourceBoxIds": []
       }
     ]
+  },
+  {
+    "id": 52,
+    "seq": 1,
+    "title": "ワールドリンクイベント前日譚ログインストーリー",
+    "assetbundleName": "wl-2nd-event-pre-story",
+    "startAt": 1743303600000,
+    "endAt": 1745146799000,
+    "episodes": [
+      {
+        "id": 57,
+        "specialStoryId": 52,
+        "episodeNo": 1,
+        "title": "ワールドリンクイベント前日譚ログインストーリー",
+        "specialStoryEpisodeType": "none",
+        "assetbundleName": "story_wl_2nd_pre",
+        "scenarioId": "wl_2nd_pre_01",
+        "releaseConditionId": 1,
+        "isAbleSkip": true,
+        "isActionSetRefresh": false,
+        "rewardResourceBoxIds": []
+      }
+    ]
+  },
+  {
+    "id": 53,
+    "seq": 1,
+    "title": "エイプリルフール2025導入ムービー",
+    "assetbundleName": "aprilfool-story-2025",
+    "startAt": 1743433200000,
+    "endAt": 1743519599000,
+    "episodes": [
+      {
+        "id": 58,
+        "specialStoryId": 53,
+        "episodeNo": 1,
+        "title": "エイプリルフール2025導入ムービー",
+        "specialStoryEpisodeType": "none",
+        "assetbundleName": "story_aprilfool_2025",
+        "scenarioId": "aprilfool_2025_01",
+        "releaseConditionId": 1,
+        "isAbleSkip": true,
+        "isActionSetRefresh": true,
+        "rewardResourceBoxIds": []
+      }
+    ]
+  },
+  {
+    "id": 54,
+    "seq": 1,
+    "title": "エイプリルフール2025後日談ムービー",
+    "assetbundleName": "aprilfool-story-2025",
+    "startAt": 1743519600000,
+    "endAt": 1743605999000,
+    "episodes": [
+      {
+        "id": 59,
+        "specialStoryId": 54,
+        "episodeNo": 1,
+        "title": "エイプリルフール2025後日談ムービー",
+        "specialStoryEpisodeType": "none",
+        "assetbundleName": "story_aprilfool_2025",
+        "scenarioId": "aprilfool_2025_02",
+        "releaseConditionId": 1000300,
+        "isAbleSkip": true,
+        "isActionSetRefresh": true,
+        "rewardResourceBoxIds": []
+      }
+    ]
   }
 ]

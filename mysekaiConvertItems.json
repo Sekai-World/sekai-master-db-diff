@@ -321,5 +321,19 @@
     "convertMinutes": 120,
     "refreshCycle": "none",
     "onceConvertLimit": 10
+  },
+  {
+    "id": 30,
+    "mysekaiConvertItemTabId": 5,
+    "consumeResourceBoxId": 50001,
+    "mysekaiConvertItemObtainType": "resource_box",
+    "externalId": 50001,
+    "requiredConvertFixtureLevel": 1,
+    "convertMinutes": 120,
+    "refreshCycle": "none",
+    "convertLimit": 100,
+    "startAt": 1743303600000,
+    "endAt": 1744081199000,
+    "onceConvertLimit": 20
   }
 ]
