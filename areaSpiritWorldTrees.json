@@ -45,7 +45,7 @@
     "seq": 2,
     "displayAssetbundleName": "seedling_leo",
     "releaseConditionId1": 113908,
-    "releaseConditionId2": 9999999,
+    "releaseConditionId2": 116200,
     "areaSpiritWorldTreeReactionLotteries": [
       {
         "id": 101,
@@ -111,7 +111,7 @@
     "seq": 2,
     "displayAssetbundleName": "seedling_mmj",
     "releaseConditionId1": 113908,
-    "releaseConditionId2": 9999999,
+    "releaseConditionId2": 116200,
     "areaSpiritWorldTreeReactionLotteries": [
       {
         "id": 201,
@@ -177,7 +177,7 @@
     "seq": 2,
     "displayAssetbundleName": "seedling_vbs",
     "releaseConditionId1": 113908,
-    "releaseConditionId2": 9999999,
+    "releaseConditionId2": 116200,
     "areaSpiritWorldTreeReactionLotteries": [
       {
         "id": 301,
@@ -243,7 +243,7 @@
     "seq": 2,
     "displayAssetbundleName": "seedling_wnd",
     "releaseConditionId1": 113908,
-    "releaseConditionId2": 9999999,
+    "releaseConditionId2": 116200,
     "areaSpiritWorldTreeReactionLotteries": [
       {
         "id": 401,
@@ -309,7 +309,7 @@
     "seq": 2,
     "displayAssetbundleName": "seedling_nig",
     "releaseConditionId1": 113908,
-    "releaseConditionId2": 9999999,
+    "releaseConditionId2": 116200,
     "areaSpiritWorldTreeReactionLotteries": [
       {
         "id": 501,
@@ -366,6 +366,72 @@
         "weight": 25,
         "assetbundleName": "seedling_wnd",
         "cueName": "SE_PLA_WONDERLANDS"
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "areaId": 19,
+    "seq": 3,
+    "displayAssetbundleName": "sapling_vbs",
+    "releaseConditionId1": 116206,
+    "releaseConditionId2": 9999999,
+    "areaSpiritWorldTreeReactionLotteries": [
+      {
+        "id": 801,
+        "areaSpiritWorldTreeId": 13,
+        "flavorText": "風に揺れている",
+        "weight": 300,
+        "assetbundleName": "none",
+        "cueName": "SE_PLA"
+      },
+      {
+        "id": 802,
+        "areaSpiritWorldTreeId": 13,
+        "flavorText": "静かにたたずんでいる",
+        "weight": 300,
+        "assetbundleName": "none",
+        "cueName": "SE_PLA"
+      },
+      {
+        "id": 803,
+        "areaSpiritWorldTreeId": 13,
+        "flavorText": "元気そうだ",
+        "weight": 300,
+        "assetbundleName": "none",
+        "cueName": "SE_PLA"
+      },
+      {
+        "id": 804,
+        "areaSpiritWorldTreeId": 13,
+        "flavorText": "楽器の音が聞こえる",
+        "weight": 25,
+        "assetbundleName": "sapling_leo",
+        "cueName": "SE_PLA_LEONEED"
+      },
+      {
+        "id": 805,
+        "areaSpiritWorldTreeId": 13,
+        "flavorText": "歓声が聞こえる",
+        "weight": 25,
+        "assetbundleName": "sapling_mmj",
+        "cueName": "SE_PLA_MOREMORE"
+      },
+      {
+        "id": 806,
+        "areaSpiritWorldTreeId": 13,
+        "flavorText": "賑やかそうな\n音が聞こえる",
+        "weight": 25,
+        "assetbundleName": "sapling_wnd",
+        "cueName": "SE_PLA_WONDERLANDS"
+      },
+      {
+        "id": 807,
+        "areaSpiritWorldTreeId": 13,
+        "flavorText": "どこか寂しげな\n音が聞こえる",
+        "weight": 25,
+        "assetbundleName": "sapling_nig",
+        "cueName": "SE_PLA_NIGHTCODE"
       }
     ]
   }
