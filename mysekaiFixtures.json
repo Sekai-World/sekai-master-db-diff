@@ -23225,6 +23225,488 @@
     "assetbundleName": "mdl_pas124_fixture_doll1large"
   },
   {
+    "id": 655,
+    "mysekaiFixtureType": "system",
+    "name": "虹色アトリエルームの家",
+    "pronunciation": "にじいろあとりえるーむのいえ",
+    "flavorText": "虹色アトリエルームの家",
+    "seq": 40010001,
+    "gridSize": {
+      "width": 12,
+      "depth": 12,
+      "height": 13
+    },
+    "colorCode": "#CA2828",
+    "mysekaiFixtureMainGenreId": 11,
+    "mysekaiFixtureSubGenreId": 24,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "home",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "none",
+    "mysekaiFixtureAnotherColors": [
+      {
+        "textureId": 2,
+        "colorCode": "#28AEA6"
+      },
+      {
+        "textureId": 3,
+        "colorCode": "#C8A800"
+      }
+    ],
+    "mysekaiFixturePutSoundId": 2,
+    "mysekaiFixtureTagGroup": {
+      "id": 655,
+      "mysekaiFixtureTagId1": 10657,
+      "mysekaiFixtureTagId2": 78
+    },
+    "isAssembled": true,
+    "isDisassembled": false,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_env0010_house_house1"
+  },
+  {
+    "id": 656,
+    "mysekaiFixtureType": "surface_appearance",
+    "name": "虹色アトリエルームの壁紙",
+    "pronunciation": "にじいろあとりえるーむのかべがみ",
+    "flavorText": "虹色アトリエルームの壁紙",
+    "seq": 40010002,
+    "gridSize": {
+      "width": 0,
+      "depth": 0,
+      "height": 0
+    },
+    "colorCode": "#F5B467",
+    "mysekaiFixtureMainGenreId": 7,
+    "mysekaiFixtureSubGenreId": 19,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "room",
+    "mysekaiSettableLayoutType": "wall_appearance",
+    "mysekaiFixturePutType": "none",
+    "mysekaiFixtureAnotherColors": [
+      {
+        "textureId": 2,
+        "colorCode": "#EFCF90"
+      },
+      {
+        "textureId": 3,
+        "colorCode": "#956E20"
+      }
+    ],
+    "mysekaiFixturePutSoundId": 15,
+    "mysekaiFixtureTagGroup": {
+      "id": 656,
+      "mysekaiFixtureTagId1": 10658,
+      "mysekaiFixtureTagId2": 78
+    },
+    "isAssembled": true,
+    "isDisassembled": true,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "env0010"
+  },
+  {
+    "id": 657,
+    "mysekaiFixtureType": "surface_appearance",
+    "name": "虹色アトリエルームの床",
+    "pronunciation": "にじいろあとりえるーむのゆか",
+    "flavorText": "虹色アトリエルームの床",
+    "seq": 40010003,
+    "gridSize": {
+      "width": 0,
+      "depth": 0,
+      "height": 0
+    },
+    "colorCode": "#CA2828",
+    "mysekaiFixtureMainGenreId": 8,
+    "mysekaiFixtureSubGenreId": 20,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "room",
+    "mysekaiSettableLayoutType": "floor_appearance",
+    "mysekaiFixturePutType": "none",
+    "mysekaiFixtureAnotherColors": [
+      {
+        "textureId": 2,
+        "colorCode": "#28AEA6"
+      },
+      {
+        "textureId": 3,
+        "colorCode": "#C8A800"
+      }
+    ],
+    "mysekaiFixturePutSoundId": 15,
+    "mysekaiFixtureTagGroup": {
+      "id": 657,
+      "mysekaiFixtureTagId1": 10659,
+      "mysekaiFixtureTagId2": 78
+    },
+    "isAssembled": true,
+    "isDisassembled": true,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "env0010"
+  },
+  {
+    "id": 658,
+    "mysekaiFixtureType": "normal",
+    "name": "虹色アトリエルームの窓",
+    "pronunciation": "にじいろあとりえるーむのまど",
+    "flavorText": "虹色アトリエルームの窓",
+    "seq": 40010004,
+    "gridSize": {
+      "width": 2,
+      "depth": 1,
+      "height": 2
+    },
+    "colorCode": "#CA2828",
+    "mysekaiFixtureMainGenreId": 4,
+    "mysekaiFixtureSubGenreId": 14,
+    "mysekaiFixtureHandleType": "windowpane",
+    "mysekaiSettableSiteType": "room",
+    "mysekaiSettableLayoutType": "wall",
+    "mysekaiFixturePutType": "none",
+    "mysekaiFixtureAnotherColors": [
+      {
+        "textureId": 2,
+        "colorCode": "#28AEA6"
+      },
+      {
+        "textureId": 3,
+        "colorCode": "#C8A800"
+      }
+    ],
+    "mysekaiFixturePutSoundId": 1,
+    "mysekaiFixtureTagGroup": {
+      "id": 658,
+      "mysekaiFixtureTagId1": 10660,
+      "mysekaiFixtureTagId2": 78
+    },
+    "isAssembled": true,
+    "isDisassembled": true,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_env0010_window_window1"
+  },
+  {
+    "id": 659,
+    "mysekaiFixtureType": "system",
+    "name": "虹色アトリエルームのチェスト",
+    "pronunciation": "にじいろあとりえるーむのちぇすと",
+    "flavorText": "虹色アトリエルームのチェスト",
+    "seq": 40010005,
+    "gridSize": {
+      "width": 2,
+      "depth": 2,
+      "height": 2
+    },
+    "colorCode": "#D5882D",
+    "mysekaiFixtureMainGenreId": 2,
+    "mysekaiFixtureSubGenreId": 5,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "any",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "none",
+    "mysekaiFixtureAnotherColors": [
+      {
+        "textureId": 2,
+        "colorCode": "#E0B16A"
+      },
+      {
+        "textureId": 3,
+        "colorCode": "#6A450E"
+      }
+    ],
+    "mysekaiFixturePutSoundId": 1,
+    "mysekaiFixtureTagGroup": {
+      "id": 659,
+      "mysekaiFixtureTagId1": 10661,
+      "mysekaiFixtureTagId2": 78
+    },
+    "isAssembled": true,
+    "isDisassembled": true,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_env0010_system_chest1"
+  },
+  {
+    "id": 660,
+    "mysekaiFixtureType": "normal",
+    "name": "虹色アトリエルームのスツール",
+    "pronunciation": "にじいろあとりえるーむのすつーる",
+    "flavorText": "虹色アトリエルームのスツール",
+    "seq": 40010006,
+    "gridSize": {
+      "width": 2,
+      "depth": 2,
+      "height": 1
+    },
+    "colorCode": "#D5882D",
+    "mysekaiFixtureMainGenreId": 2,
+    "mysekaiFixtureSubGenreId": 4,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "any",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "none",
+    "mysekaiFixtureAnotherColors": [
+      {
+        "textureId": 2,
+        "colorCode": "#E0B16A"
+      },
+      {
+        "textureId": 3,
+        "colorCode": "#6A450E"
+      }
+    ],
+    "mysekaiFixturePutSoundId": 1,
+    "mysekaiFixtureTagGroup": {
+      "id": 660,
+      "mysekaiFixtureTagId1": 10662,
+      "mysekaiFixtureTagId2": 78
+    },
+    "isAssembled": true,
+    "isDisassembled": true,
+    "mysekaiFixturePlayerActionType": "timeline",
+    "isGameCharacterAction": true,
+    "assetbundleName": "mdl_env0010_fixture_chair1"
+  },
+  {
+    "id": 661,
+    "mysekaiFixtureType": "normal",
+    "name": "虹色アトリエルームのイーゼル",
+    "pronunciation": "にじいろあとりえるーむのいーぜる",
+    "flavorText": "虹色アトリエルームのイーゼル",
+    "seq": 40010007,
+    "gridSize": {
+      "width": 2,
+      "depth": 2,
+      "height": 3
+    },
+    "colorCode": "#D5882D",
+    "mysekaiFixtureMainGenreId": 2,
+    "mysekaiFixtureSubGenreId": 9,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "any",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "none",
+    "mysekaiFixtureAnotherColors": [
+      {
+        "textureId": 2,
+        "colorCode": "#E0B16A"
+      },
+      {
+        "textureId": 3,
+        "colorCode": "#6A450E"
+      }
+    ],
+    "mysekaiFixturePutSoundId": 2,
+    "mysekaiFixtureTagGroup": {
+      "id": 661,
+      "mysekaiFixtureTagId1": 10663,
+      "mysekaiFixtureTagId2": 78
+    },
+    "isAssembled": true,
+    "isDisassembled": true,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_env0010_fixture_canvas1"
+  },
+  {
+    "id": 662,
+    "mysekaiFixtureType": "normal",
+    "name": "虹色アトリエルームの机",
+    "pronunciation": "にじいろあとりえるーむのつくえ",
+    "flavorText": "虹色アトリエルームの机",
+    "seq": 40010008,
+    "gridSize": {
+      "width": 4,
+      "depth": 2,
+      "height": 3
+    },
+    "colorCode": "#D5882D",
+    "mysekaiFixtureMainGenreId": 2,
+    "mysekaiFixtureSubGenreId": 3,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "any",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "none",
+    "mysekaiFixtureAnotherColors": [
+      {
+        "textureId": 2,
+        "colorCode": "#E0B16A"
+      },
+      {
+        "textureId": 3,
+        "colorCode": "#6A450E"
+      }
+    ],
+    "mysekaiFixturePutSoundId": 2,
+    "mysekaiFixtureTagGroup": {
+      "id": 662,
+      "mysekaiFixtureTagId1": 10664,
+      "mysekaiFixtureTagId2": 78
+    },
+    "isAssembled": true,
+    "isDisassembled": true,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_env0010_fixture_table1"
+  },
+  {
+    "id": 663,
+    "mysekaiFixtureType": "normal",
+    "name": "虹色アトリエルームの絵画",
+    "pronunciation": "にじいろあとりえるーむのかいが",
+    "flavorText": "虹色アトリエルームの絵画",
+    "seq": 40010009,
+    "gridSize": {
+      "width": 4,
+      "depth": 1,
+      "height": 3
+    },
+    "colorCode": "#D5882D",
+    "mysekaiFixtureMainGenreId": 4,
+    "mysekaiFixtureSubGenreId": 14,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "room",
+    "mysekaiSettableLayoutType": "wall",
+    "mysekaiFixturePutType": "none",
+    "mysekaiFixtureAnotherColors": [
+      {
+        "textureId": 2,
+        "colorCode": "#E0B16A"
+      },
+      {
+        "textureId": 3,
+        "colorCode": "#6A450E"
+      }
+    ],
+    "mysekaiFixturePutSoundId": 2,
+    "mysekaiFixtureTagGroup": {
+      "id": 663,
+      "mysekaiFixtureTagId1": 10665,
+      "mysekaiFixtureTagId2": 78
+    },
+    "isAssembled": true,
+    "isDisassembled": true,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_env0010_fixture_picture1"
+  },
+  {
+    "id": 664,
+    "mysekaiFixtureType": "normal",
+    "name": "虹色アトリエルームのガーランド",
+    "pronunciation": "にじいろあとりえるーむのがーらんど",
+    "flavorText": "虹色アトリエルームのガーランド",
+    "seq": 40010010,
+    "gridSize": {
+      "width": 4,
+      "depth": 1,
+      "height": 3
+    },
+    "mysekaiFixtureMainGenreId": 4,
+    "mysekaiFixtureSubGenreId": 14,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "room",
+    "mysekaiSettableLayoutType": "wall",
+    "mysekaiFixturePutType": "none",
+    "mysekaiFixtureAnotherColors": [],
+    "mysekaiFixturePutSoundId": 2,
+    "mysekaiFixtureTagGroup": {
+      "id": 664,
+      "mysekaiFixtureTagId1": 10666,
+      "mysekaiFixtureTagId2": 78
+    },
+    "isAssembled": true,
+    "isDisassembled": true,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_env0010_fixture_garland1"
+  },
+  {
+    "id": 665,
+    "mysekaiFixtureType": "normal",
+    "name": "虹色アトリエルームのシェルフ",
+    "pronunciation": "にじいろあとりえるーむのしぇるふ",
+    "flavorText": "虹色アトリエルームのシェルフ",
+    "seq": 40010011,
+    "gridSize": {
+      "width": 4,
+      "depth": 2,
+      "height": 3
+    },
+    "colorCode": "#D5882D",
+    "mysekaiFixtureMainGenreId": 2,
+    "mysekaiFixtureSubGenreId": 5,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "any",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "none",
+    "mysekaiFixtureAnotherColors": [
+      {
+        "textureId": 2,
+        "colorCode": "#E0B16A"
+      },
+      {
+        "textureId": 3,
+        "colorCode": "#6A450E"
+      }
+    ],
+    "mysekaiFixturePutSoundId": 2,
+    "mysekaiFixtureTagGroup": {
+      "id": 665,
+      "mysekaiFixtureTagId1": 10667,
+      "mysekaiFixtureTagId2": 78
+    },
+    "isAssembled": true,
+    "isDisassembled": true,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_env0010_fixture_shelf1"
+  },
+  {
+    "id": 666,
+    "mysekaiFixtureType": "normal",
+    "name": "虹色アトリエルームのパレット",
+    "pronunciation": "にじいろあとりえるーむのぱれっと",
+    "flavorText": "虹色アトリエルームのパレット",
+    "seq": 40010012,
+    "gridSize": {
+      "width": 1,
+      "depth": 1,
+      "height": 1
+    },
+    "colorCode": "#D5882D",
+    "mysekaiFixtureMainGenreId": 3,
+    "mysekaiFixtureSubGenreId": 13,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "any",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "put_target",
+    "mysekaiFixtureAnotherColors": [
+      {
+        "textureId": 2,
+        "colorCode": "#E0B16A"
+      },
+      {
+        "textureId": 3,
+        "colorCode": "#6A450E"
+      }
+    ],
+    "mysekaiFixturePutSoundId": 1,
+    "mysekaiFixtureTagGroup": {
+      "id": 666,
+      "mysekaiFixtureTagId1": 10668,
+      "mysekaiFixtureTagId2": 78
+    },
+    "isAssembled": true,
+    "isDisassembled": true,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_env0010_fixture_palette1"
+  },
+  {
     "id": 900002,
     "mysekaiFixtureType": "gate",
     "name": "ゲート",
