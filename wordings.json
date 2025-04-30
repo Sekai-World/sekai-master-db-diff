@@ -544,6 +544,10 @@
     "value": "購入が完了しました。"
   },
   {
+    "wordingKey": "MSG_CANT_COPY_CARD_SET",
+    "value": "コピー可能なセットがありません。\n※プロフィールカードを削除する必要があります。"
+  },
+  {
     "wordingKey": "MSG_CANVAS_BONUS_DIALOG_DESCRIPTION",
     "value": "マイセカイでこのメンバーをキャンバスに描くと\nパフォーマンスがUPします。"
   },
@@ -674,6 +678,10 @@
   {
     "wordingKey": "MSG_COIN_DESCRIPTION",
     "value": "各エリアのショップで様々なアイテムと交換できるコイン。ライブなどで手に入る。"
+  },
+  {
+    "wordingKey": "MSG_COLLECTION_GACHA_RESALE_TIME_OVER",
+    "value": "販売期間が終了しています。"
   },
   {
     "wordingKey": "MSG_COLLECTION_GACHA_SPIN_CONFIRM",
@@ -1004,6 +1012,10 @@
     "value": "ワールドパスの有効期限を超えるため、\nこの数量をヘンカンすることができません。 \nもう一度選択してください。"
   },
   {
+    "wordingKey": "MSG_COPY_CARD_CONFIRMATION",
+    "value": "{0}に選択したプロフィールカードの\nコピーを作成します。\nよろしいですか？"
+  },
+  {
     "wordingKey": "MSG_COPY_COMPLETE_ROOM_ID",
     "value": "ルームIDをコピーしました。"
   },
@@ -1070,6 +1082,10 @@
   {
     "wordingKey": "MSG_CUSTOM_PROFILE_COLLECTION_ALERT",
     "value": "選択したコレクションの所持数が0になると、\n同じセット内で使用できなくなります。\n\n※コレクションのレイヤーを削除すると、\n削除した枚数に応じて所持数が戻ります。\n※使用数はセット内の合計でカウントされます。"
+  },
+  {
+    "wordingKey": "MSG_CUSTOM_PROFILE_COLLECTION_SHORTAGE",
+    "value": "以下のコレクションが不足しているため、\nコピーできません。\n"
   },
   {
     "wordingKey": "MSG_CUSTOM_PROFILE_PARTS_VISUAL_SELECT",
@@ -1190,6 +1206,10 @@
   {
     "wordingKey": "MSG_EDITABLE_MYLIST",
     "value": "好きな楽曲を追加して、\nあなたのマイリストをつくりましょう。"
+  },
+  {
+    "wordingKey": "MSG_EMPTY_COLLECTION_GACHA_RESALE_BOX",
+    "value": "対象のコレクションBOXがありません。"
   },
   {
     "wordingKey": "MSG_EMPTY_HISTORY",
@@ -2297,7 +2317,7 @@
   },
   {
     "wordingKey": "MSG_MYSEKAI_MATCHING_NOW_DESCRIPTION",
-    "value": "マイセカイを探しています…"
+    "value": "マイセカイに向かっています…"
   },
   {
     "wordingKey": "MSG_MYSEKAI_MISSION_COMING_SOON",
@@ -3250,6 +3270,10 @@
   {
     "wordingKey": "MSG_SELECT_CLEANUP",
     "value": "プロフィールカードが保存されていません。\n保存して戻りますか？"
+  },
+  {
+    "wordingKey": "MSG_SELECT_COPY_SET",
+    "value": "コピーを作成するセットを01～10の中から選択してください"
   },
   {
     "wordingKey": "MSG_SELECT_LIST",
@@ -5412,6 +5436,10 @@
     "value": "甘酒"
   },
   {
+    "wordingKey": "WORD_COLLECTION_SHORTAGE",
+    "value": "不足コレクション"
+  },
+  {
     "wordingKey": "WORD_COLLECTION_STAGE",
     "value": "コレクションステージ"
   },
@@ -6668,6 +6696,10 @@
     "value": "ヘアスタイルあり"
   },
   {
+    "wordingKey": "WORD_FILTER_JOINED_VIRTUAL_LIVE",
+    "value": "バーチャルライブ参加状況"
+  },
+  {
     "wordingKey": "WORD_FILTER_PERIOD_LIMITED",
     "value": "期間限定"
   },
@@ -6686,6 +6718,10 @@
   {
     "wordingKey": "WORD_FILTER_TITLE_MV",
     "value": "MV"
+  },
+  {
+    "wordingKey": "WORD_FILTER_TOGGLE_NOT_JOINED_VIRTUAL_LIVE",
+    "value": "バーチャルライブ未視聴"
   },
   {
     "wordingKey": "WORD_FINAL_CONFIRM",
@@ -9641,11 +9677,11 @@
   },
   {
     "wordingKey": "WORD_PRESET_HAD_BEEN_SET_CONFIRMATION",
-    "value": "<color=#F59>{0}<\/color>のプリセットをマイセカイに配置します。 \n現在配置している家具は片付けられますがよろしいですか？ \n<color=#F36>※現在マイセカイに配置中の家具は一度片付けてから配置されます。<\/color>\n<color=#F36>※ブロック家具が含まれている場合、\n持ち物か同じエリアに配置している必要があります。<\/color>"
+    "value": "<color=#F59>{0}<\/color>のプリセットをマイセカイに配置します。 \n現在配置している家具は片付けられますがよろしいですか？ \n\n<color=#F36>※現在マイセカイに配置中の家具は一度片付けてから配置されます。<\/color>"
   },
   {
     "wordingKey": "WORD_PRESET_NO_HAVE_CONFIRMATION",
-    "value": "<color=#F59>{0}<\/color>のプリセットをマイセカイに配置します。 \n現在配置している家具は片付けられますがよろしいですか？ \n<color=#F36>※プリセットに含まれる現在所持していない家具は配置されません。<\/color>\n<color=#F36>※ブロック家具が含まれている場合、\n持ち物か同じエリアに配置している必要があります。<\/color>"
+    "value": "<color=#F59>{0}<\/color>のプリセットをマイセカイに配置します。 \n現在配置している家具は片付けられますがよろしいですか？ \n\n<color=#F36>※プリセットに含まれる現在所持していない家具は配置されません。<\/color>"
   },
   {
     "wordingKey": "WORD_PRESET_OVERWRITE_CONFIRMATION",
@@ -10665,7 +10701,7 @@
   },
   {
     "wordingKey": "WORD_SHORTAGE_FIXTURE_FOR_PRESET",
-    "value": "下記の家具が不足しているため、プリセットを反映できません。"
+    "value": "下記の家具が不足しているため、プリセットを反映できません。\n<color=#F36>※持ち物か同じエリアに配置している必要があります。<\/color>"
   },
   {
     "wordingKey": "WORD_SHOW_NOTE_LINE",
