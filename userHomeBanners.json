@@ -1,16 +1,5 @@
 [
   {
-    "homeBannerId": 1257,
-    "seq": 170,
-    "homeBannerType": "event",
-    "name": "[イベント]ワンダショ箱イベ_イベントバナー",
-    "assetbundleName": "event_choicesfuture_2025",
-    "transitionDestinationType": "event",
-    "transitionDestinationId": 164,
-    "startAt": 1745301600000,
-    "endAt": 1745992800000
-  },
-  {
     "homeBannerId": 1260,
     "seq": 130,
     "homeBannerType": "general",
@@ -31,5 +20,16 @@
     "transitionDestinationId": 725,
     "startAt": 1745982000000,
     "endAt": 1746759600000
+  },
+  {
+    "homeBannerId": 1264,
+    "seq": 100,
+    "homeBannerType": "event",
+    "name": "[イベント]ニーゴ箱イベ_イベントバナー",
+    "assetbundleName": "event_needlemoving_2025",
+    "transitionDestinationType": "event",
+    "transitionDestinationId": 165,
+    "startAt": 1745992800000,
+    "endAt": 1746619200000
   }
 ]
