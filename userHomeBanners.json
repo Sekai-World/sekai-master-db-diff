@@ -11,17 +11,6 @@
     "endAt": 1746759600000
   },
   {
-    "homeBannerId": 1264,
-    "seq": 100,
-    "homeBannerType": "event",
-    "name": "[イベント]ニーゴ箱イベ_イベントバナー",
-    "assetbundleName": "event_needlemoving_2025",
-    "transitionDestinationType": "event",
-    "transitionDestinationId": 165,
-    "startAt": 1745992800000,
-    "endAt": 1746619200000
-  },
-  {
     "homeBannerId": 1267,
     "seq": 130,
     "homeBannerType": "general",
@@ -33,6 +22,17 @@
     "endAt": 1747969200000
   },
   {
+    "homeBannerId": 1269,
+    "seq": 130,
+    "homeBannerType": "general",
+    "name": "[天馬咲希]HAPPY BIRTHDAYライブ",
+    "assetbundleName": "banner_virtuallive375",
+    "transitionDestinationType": "virtual_live",
+    "transitionDestinationId": 375,
+    "startAt": 1746597600000,
+    "endAt": 1746716399000
+  },
+  {
     "homeBannerId": 1271,
     "seq": 60,
     "homeBannerType": "general",
@@ -42,5 +42,16 @@
     "transitionDestinationId": 732,
     "startAt": 1746241200000,
     "endAt": 1747148400000
+  },
+  {
+    "homeBannerId": 1272,
+    "seq": 100,
+    "homeBannerType": "event",
+    "name": "チアフルカーニバルイベントテストイベント",
+    "assetbundleName": "event_cheerfutest_2025",
+    "transitionDestinationType": "event",
+    "transitionDestinationId": 165,
+    "startAt": 1746619200000,
+    "endAt": 1746788400000
   }
 ]
