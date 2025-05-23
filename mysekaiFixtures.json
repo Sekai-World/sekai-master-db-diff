@@ -4856,7 +4856,16 @@
     "mysekaiSettableSiteType": "home",
     "mysekaiSettableLayoutType": "floor",
     "mysekaiFixturePutType": "none",
-    "mysekaiFixtureAnotherColors": [],
+    "mysekaiFixtureAnotherColors": [
+      {
+        "textureId": 2,
+        "colorCode": "#93B315"
+      },
+      {
+        "textureId": 3,
+        "colorCode": "#008078"
+      }
+    ],
     "mysekaiFixturePutSoundId": 2,
     "mysekaiFixtureFootstepId": 6,
     "mysekaiFixtureTagGroup": {
@@ -24377,6 +24386,617 @@
     "mysekaiFixturePlayerActionType": "no_action",
     "isGameCharacterAction": false,
     "assetbundleName": "mdl_pas126_fixture_doll1large"
+  },
+  {
+    "id": 688,
+    "mysekaiFixtureType": "normal",
+    "name": "リゾートのデッキチェア",
+    "pronunciation": "りぞーとのでっきちぇあ",
+    "flavorText": "リゾートのデッキチェア",
+    "seq": 30019001,
+    "gridSize": {
+      "width": 2,
+      "depth": 4,
+      "height": 2
+    },
+    "colorCode": "#FFF8F1",
+    "mysekaiFixtureMainGenreId": 2,
+    "mysekaiFixtureSubGenreId": 4,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "any",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "none",
+    "mysekaiFixtureAnotherColors": [
+      {
+        "textureId": 2,
+        "colorCode": "#192B89"
+      },
+      {
+        "textureId": 3,
+        "colorCode": "#FFD600"
+      }
+    ],
+    "mysekaiFixturePutSoundId": 2,
+    "mysekaiFixtureTagGroup": {
+      "id": 688,
+      "mysekaiFixtureTagId1": 10690,
+      "mysekaiFixtureTagId2": 79
+    },
+    "isAssembled": true,
+    "isDisassembled": true,
+    "mysekaiFixturePlayerActionType": "timeline",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_ext0019_fixture_deckchair1"
+  },
+  {
+    "id": 689,
+    "mysekaiFixtureType": "normal",
+    "name": "リゾートの浮き輪",
+    "pronunciation": "りぞーとのうきわ",
+    "flavorText": "リゾートの浮き輪",
+    "seq": 30019002,
+    "gridSize": {
+      "width": 4,
+      "depth": 4,
+      "height": 2
+    },
+    "colorCode": "#2CB3FF",
+    "mysekaiFixtureMainGenreId": 2,
+    "mysekaiFixtureSubGenreId": 9,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "any",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "none",
+    "mysekaiFixtureAnotherColors": [
+      {
+        "textureId": 2,
+        "colorCode": "#192B89"
+      },
+      {
+        "textureId": 3,
+        "colorCode": "#FFD600"
+      }
+    ],
+    "mysekaiFixturePutSoundId": 12,
+    "mysekaiFixtureTagGroup": {
+      "id": 689,
+      "mysekaiFixtureTagId1": 10691,
+      "mysekaiFixtureTagId2": 79
+    },
+    "isAssembled": true,
+    "isDisassembled": true,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_ext0019_fixture_floatring1"
+  },
+  {
+    "id": 690,
+    "mysekaiFixtureType": "normal",
+    "name": "リゾートのランプ",
+    "pronunciation": "りぞーとのらんぷ",
+    "flavorText": "リゾートのランプ",
+    "seq": 30019003,
+    "gridSize": {
+      "width": 1,
+      "depth": 1,
+      "height": 4
+    },
+    "mysekaiFixtureMainGenreId": 2,
+    "mysekaiFixtureSubGenreId": 8,
+    "mysekaiFixtureHandleType": "light",
+    "mysekaiSettableSiteType": "any",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "none",
+    "mysekaiFixtureAnotherColors": [],
+    "mysekaiFixturePutSoundId": 13,
+    "mysekaiFixtureTagGroup": {
+      "id": 690,
+      "mysekaiFixtureTagId1": 10692,
+      "mysekaiFixtureTagId2": 79
+    },
+    "isAssembled": true,
+    "isDisassembled": true,
+    "mysekaiFixturePlayerActionType": "loop",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_ext0019_fixture_lamp1"
+  },
+  {
+    "id": 691,
+    "mysekaiFixtureType": "normal",
+    "name": "リゾートのパラソル",
+    "pronunciation": "りぞーとのぱらそる",
+    "flavorText": "リゾートのパラソル",
+    "seq": 30019004,
+    "gridSize": {
+      "width": 2,
+      "depth": 2,
+      "height": 7
+    },
+    "colorCode": "#F9F9FE",
+    "mysekaiFixtureMainGenreId": 2,
+    "mysekaiFixtureSubGenreId": 3,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "any",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "none",
+    "mysekaiFixtureAnotherColors": [
+      {
+        "textureId": 2,
+        "colorCode": "#192B89"
+      },
+      {
+        "textureId": 3,
+        "colorCode": "#FFD600"
+      }
+    ],
+    "mysekaiFixturePutSoundId": 4,
+    "mysekaiFixtureTagGroup": {
+      "id": 691,
+      "mysekaiFixtureTagId1": 10693,
+      "mysekaiFixtureTagId2": 79
+    },
+    "isAssembled": true,
+    "isDisassembled": true,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_ext0019_fixture_parasol1"
+  },
+  {
+    "id": 692,
+    "mysekaiFixtureType": "normal",
+    "name": "リゾートのラグ",
+    "pronunciation": "りぞーとのらぐ",
+    "flavorText": "リゾートのラグ",
+    "seq": 30019005,
+    "gridSize": {
+      "width": 4,
+      "depth": 4,
+      "height": 1
+    },
+    "colorCode": "#D5882D",
+    "mysekaiFixtureMainGenreId": 9,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "any",
+    "mysekaiSettableLayoutType": "rug",
+    "mysekaiFixturePutType": "none",
+    "mysekaiFixtureAnotherColors": [
+      {
+        "textureId": 2,
+        "colorCode": "#FFF8F1"
+      },
+      {
+        "textureId": 3,
+        "colorCode": "#9DE7FF"
+      }
+    ],
+    "mysekaiFixturePutSoundId": 10,
+    "mysekaiFixtureFootstepId": 6,
+    "mysekaiFixtureTagGroup": {
+      "id": 692,
+      "mysekaiFixtureTagId1": 10694,
+      "mysekaiFixtureTagId2": 79
+    },
+    "isAssembled": true,
+    "isDisassembled": true,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_ext0019_rug_rug1"
+  },
+  {
+    "id": 693,
+    "mysekaiFixtureType": "normal",
+    "name": "リゾートのプール",
+    "pronunciation": "りぞーとのぷーる",
+    "flavorText": "リゾートのプール",
+    "seq": 30019006,
+    "gridSize": {
+      "width": 12,
+      "depth": 7,
+      "height": 3
+    },
+    "mysekaiFixtureMainGenreId": 2,
+    "mysekaiFixtureSubGenreId": 9,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "any",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "none",
+    "mysekaiFixtureAnotherColors": [],
+    "mysekaiFixturePutSoundId": 6,
+    "mysekaiFixtureTagGroup": {
+      "id": 693,
+      "mysekaiFixtureTagId1": 10695,
+      "mysekaiFixtureTagId2": 79
+    },
+    "isAssembled": true,
+    "isDisassembled": true,
+    "mysekaiFixturePlayerActionType": "timeline",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_ext0019_pierce_pool1"
+  },
+  {
+    "id": 694,
+    "mysekaiFixtureType": "normal",
+    "name": "リゾートのジェットバス",
+    "pronunciation": "りぞーとのじぇっとばす",
+    "flavorText": "リゾートのジェトバス",
+    "seq": 30019007,
+    "gridSize": {
+      "width": 6,
+      "depth": 6,
+      "height": 2
+    },
+    "mysekaiFixtureMainGenreId": 2,
+    "mysekaiFixtureSubGenreId": 9,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "any",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "none",
+    "mysekaiFixtureAnotherColors": [],
+    "mysekaiFixturePutSoundId": 6,
+    "mysekaiFixtureTagGroup": {
+      "id": 694,
+      "mysekaiFixtureTagId1": 10696,
+      "mysekaiFixtureTagId2": 79
+    },
+    "isAssembled": true,
+    "isDisassembled": true,
+    "mysekaiFixturePlayerActionType": "timeline",
+    "isGameCharacterAction": true,
+    "assetbundleName": "mdl_ext0019_pierce_jacuzzi1"
+  },
+  {
+    "id": 695,
+    "mysekaiFixtureType": "normal",
+    "name": "リゾートのダブルソファ",
+    "pronunciation": "りぞーとのだぶるそふぁ",
+    "flavorText": "リゾートのダブルソファ",
+    "seq": 30019008,
+    "gridSize": {
+      "width": 4,
+      "depth": 2,
+      "height": 2
+    },
+    "colorCode": "#FFF8F1",
+    "mysekaiFixtureMainGenreId": 2,
+    "mysekaiFixtureSubGenreId": 4,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "any",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "none",
+    "mysekaiFixtureAnotherColors": [
+      {
+        "textureId": 2,
+        "colorCode": "#192B89"
+      },
+      {
+        "textureId": 3,
+        "colorCode": "#FFD600"
+      }
+    ],
+    "mysekaiFixturePutSoundId": 10,
+    "mysekaiFixtureTagGroup": {
+      "id": 695,
+      "mysekaiFixtureTagId1": 10697,
+      "mysekaiFixtureTagId2": 79
+    },
+    "isAssembled": true,
+    "isDisassembled": true,
+    "mysekaiFixturePlayerActionType": "timeline",
+    "isGameCharacterAction": true,
+    "assetbundleName": "mdl_ext0019_fixture_sofa1"
+  },
+  {
+    "id": 696,
+    "mysekaiFixtureType": "normal",
+    "name": "リゾートのハンモック",
+    "pronunciation": "りぞーとのはんもっく",
+    "flavorText": "リゾートのハンモック",
+    "seq": 30019009,
+    "gridSize": {
+      "width": 2,
+      "depth": 7,
+      "height": 2
+    },
+    "colorCode": "#A5EFEA",
+    "mysekaiFixtureMainGenreId": 2,
+    "mysekaiFixtureSubGenreId": 2,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "any",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "none",
+    "mysekaiFixtureAnotherColors": [
+      {
+        "textureId": 2,
+        "colorCode": "#B9D4E3"
+      },
+      {
+        "textureId": 3,
+        "colorCode": "#3954E0"
+      }
+    ],
+    "mysekaiFixturePutSoundId": 2,
+    "mysekaiFixtureTagGroup": {
+      "id": 696,
+      "mysekaiFixtureTagId1": 10698,
+      "mysekaiFixtureTagId2": 79
+    },
+    "isAssembled": true,
+    "isDisassembled": true,
+    "mysekaiFixturePlayerActionType": "timeline",
+    "isGameCharacterAction": true,
+    "assetbundleName": "mdl_ext0019_fixture_hammock1"
+  },
+  {
+    "id": 697,
+    "mysekaiFixtureType": "normal",
+    "name": "ユスラヤシ",
+    "pronunciation": "ゆすらやし",
+    "flavorText": "ユスラヤシ",
+    "seq": 30019010,
+    "gridSize": {
+      "width": 1,
+      "depth": 1,
+      "height": 3
+    },
+    "mysekaiFixtureMainGenreId": 2,
+    "mysekaiFixtureSubGenreId": 7,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "any",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "none",
+    "mysekaiFixtureAnotherColors": [],
+    "mysekaiFixturePutSoundId": 5,
+    "mysekaiFixtureTagGroup": {
+      "id": 697,
+      "mysekaiFixtureTagId1": 10699,
+      "mysekaiFixtureTagId2": 71,
+      "mysekaiFixtureTagId3": 79
+    },
+    "isAssembled": true,
+    "isDisassembled": true,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_ext0019_fixture_planter1"
+  },
+  {
+    "id": 698,
+    "mysekaiFixtureType": "normal",
+    "name": "リゾートのパーテーション",
+    "pronunciation": "りぞーとのぱーてーしょん",
+    "flavorText": "リゾートのパーテーション",
+    "seq": 30019011,
+    "gridSize": {
+      "width": 2,
+      "depth": 1,
+      "height": 5
+    },
+    "colorCode": "#D5882D",
+    "mysekaiFixtureMainGenreId": 2,
+    "mysekaiFixtureSubGenreId": 9,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "any",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "none",
+    "mysekaiFixtureAnotherColors": [
+      {
+        "textureId": 2,
+        "colorCode": "#6A450E"
+      },
+      {
+        "textureId": 3,
+        "colorCode": "#FFF8F1"
+      }
+    ],
+    "mysekaiFixturePutSoundId": 2,
+    "mysekaiFixtureTagGroup": {
+      "id": 698,
+      "mysekaiFixtureTagId1": 10700,
+      "mysekaiFixtureTagId2": 79
+    },
+    "isAssembled": true,
+    "isDisassembled": true,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_ext0019_fixture_partition1"
+  },
+  {
+    "id": 699,
+    "mysekaiFixtureType": "normal",
+    "name": "リゾートのローテーブル",
+    "pronunciation": "りぞーとのろーてーぶる",
+    "flavorText": "リゾートのローテーブル",
+    "seq": 30019012,
+    "gridSize": {
+      "width": 2,
+      "depth": 2,
+      "height": 1
+    },
+    "colorCode": "#D5882D",
+    "mysekaiFixtureMainGenreId": 2,
+    "mysekaiFixtureSubGenreId": 3,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "any",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "put_base",
+    "mysekaiFixtureAnotherColors": [
+      {
+        "textureId": 2,
+        "colorCode": "#6A450E"
+      },
+      {
+        "textureId": 3,
+        "colorCode": "#FFF8F1"
+      }
+    ],
+    "mysekaiFixturePutSoundId": 2,
+    "mysekaiFixtureTagGroup": {
+      "id": 699,
+      "mysekaiFixtureTagId1": 10701,
+      "mysekaiFixtureTagId2": 79
+    },
+    "isAssembled": true,
+    "isDisassembled": true,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_ext0019_fixture_table2"
+  },
+  {
+    "id": 700,
+    "mysekaiFixtureType": "normal",
+    "name": "リゾートのサイドテーブル",
+    "pronunciation": "りぞーとのさいどてーぶる",
+    "flavorText": "リゾートのサイドテーブル",
+    "seq": 30019013,
+    "gridSize": {
+      "width": 2,
+      "depth": 2,
+      "height": 2
+    },
+    "colorCode": "#A5EFEA",
+    "mysekaiFixtureMainGenreId": 2,
+    "mysekaiFixtureSubGenreId": 3,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "any",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "put_base",
+    "mysekaiFixtureAnotherColors": [
+      {
+        "textureId": 2,
+        "colorCode": "#B9D4E3"
+      },
+      {
+        "textureId": 3,
+        "colorCode": "#3954E0"
+      }
+    ],
+    "mysekaiFixturePutSoundId": 1,
+    "mysekaiFixtureTagGroup": {
+      "id": 700,
+      "mysekaiFixtureTagId1": 10702,
+      "mysekaiFixtureTagId2": 79
+    },
+    "isAssembled": true,
+    "isDisassembled": true,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_ext0019_fixture_table1"
+  },
+  {
+    "id": 701,
+    "mysekaiFixtureType": "normal",
+    "name": "丸太の柵",
+    "pronunciation": "まるたのさく",
+    "flavorText": "丸太の柵",
+    "seq": 22002005,
+    "gridSize": {
+      "width": 2,
+      "depth": 2,
+      "height": 2
+    },
+    "colorCode": "#E0B16A",
+    "mysekaiFixtureMainGenreId": 13,
+    "mysekaiFixtureHandleType": "fence",
+    "mysekaiSettableSiteType": "home",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "none",
+    "mysekaiFixtureAnotherColors": [
+      {
+        "textureId": 2,
+        "colorCode": "#6A450E"
+      },
+      {
+        "textureId": 3,
+        "colorCode": "#FBE9D9"
+      }
+    ],
+    "mysekaiFixturePutSoundId": 18,
+    "mysekaiFixtureTagGroup": {
+      "id": 701,
+      "mysekaiFixtureTagId1": 10703
+    },
+    "isAssembled": true,
+    "isDisassembled": true,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_non2002_fence_log1"
+  },
+  {
+    "id": 702,
+    "mysekaiFixtureType": "normal",
+    "name": "朱塗りの木柵",
+    "pronunciation": "しゅぬりのもくさく",
+    "flavorText": "朱塗りの木柵",
+    "seq": 22002006,
+    "gridSize": {
+      "width": 2,
+      "depth": 2,
+      "height": 2
+    },
+    "colorCode": "#CA2828",
+    "mysekaiFixtureMainGenreId": 13,
+    "mysekaiFixtureHandleType": "fence",
+    "mysekaiSettableSiteType": "home",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "none",
+    "mysekaiFixtureAnotherColors": [
+      {
+        "textureId": 2,
+        "colorCode": "#C3944D"
+      },
+      {
+        "textureId": 3,
+        "colorCode": "#824600"
+      }
+    ],
+    "mysekaiFixturePutSoundId": 18,
+    "mysekaiFixtureTagGroup": {
+      "id": 702,
+      "mysekaiFixtureTagId1": 10704
+    },
+    "isAssembled": true,
+    "isDisassembled": true,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_non2002_fence_shrine1"
+  },
+  {
+    "id": 703,
+    "mysekaiFixtureType": "normal",
+    "name": "竹の柵",
+    "pronunciation": "たけのさく",
+    "flavorText": "竹の柵",
+    "seq": 22002007,
+    "gridSize": {
+      "width": 2,
+      "depth": 2,
+      "height": 2
+    },
+    "colorCode": "#93B315",
+    "mysekaiFixtureMainGenreId": 13,
+    "mysekaiFixtureHandleType": "fence",
+    "mysekaiSettableSiteType": "home",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "none",
+    "mysekaiFixtureAnotherColors": [
+      {
+        "textureId": 2,
+        "colorCode": "#C8A800"
+      },
+      {
+        "textureId": 3,
+        "colorCode": "#B5680D"
+      }
+    ],
+    "mysekaiFixturePutSoundId": 18,
+    "mysekaiFixtureTagGroup": {
+      "id": 703,
+      "mysekaiFixtureTagId1": 10705
+    },
+    "isAssembled": true,
+    "isDisassembled": true,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_non2002_fence_bamboo1"
   },
   {
     "id": 900002,
