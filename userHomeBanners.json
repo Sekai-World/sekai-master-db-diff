@@ -1,27 +1,5 @@
 [
   {
-    "homeBannerId": 1283,
-    "seq": 180,
-    "homeBannerType": "general",
-    "name": "[ガチャ]モモジャン箱イベ_ガチャバナー",
-    "assetbundleName": "banner_gacha740",
-    "transitionDestinationType": "gacha",
-    "transitionDestinationId": 740,
-    "startAt": 1747969200000,
-    "endAt": 1748660400000
-  },
-  {
-    "homeBannerId": 1285,
-    "seq": 170,
-    "homeBannerType": "event",
-    "name": "[イベント]モモジャン箱イベ_イベントバナー",
-    "assetbundleName": "event_cheerheart_2025",
-    "transitionDestinationType": "event",
-    "transitionDestinationId": 168,
-    "startAt": 1747980000000,
-    "endAt": 1748671200000
-  },
-  {
     "homeBannerId": 1289,
     "seq": 90,
     "homeBannerType": "general",
@@ -31,5 +9,27 @@
     "transitionDestinationId": 745,
     "startAt": 1748228400000,
     "endAt": 1749005999000
+  },
+  {
+    "homeBannerId": 1291,
+    "seq": 110,
+    "homeBannerType": "general",
+    "name": "[ガチャ]ビビバス箱イベ_ガチャバナー",
+    "assetbundleName": "banner_gacha746",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 746,
+    "startAt": 1748660400000,
+    "endAt": 1749438000000
+  },
+  {
+    "homeBannerId": 1293,
+    "seq": 100,
+    "homeBannerType": "event",
+    "name": "[イベント]ビビバス箱イベ_イベントバナー",
+    "assetbundleName": "event_higher_2025",
+    "transitionDestinationType": "event",
+    "transitionDestinationId": 169,
+    "startAt": 1748671200000,
+    "endAt": 1749466800000
   }
 ]
