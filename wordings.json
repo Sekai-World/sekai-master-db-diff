@@ -2240,6 +2240,10 @@
     "value": "ワールドパスの有効期限が過ぎています。\n新しく購入しますか？"
   },
   {
+    "wordingKey": "MSG_MYSEKAI_CONFIRM_REMOVE_FIXTURE_INVALID_LAYOUT",
+    "value": "不正な配置を行っている家具があります。\n該当する家具を片付けて保存しますか？"
+  },
+  {
     "wordingKey": "MSG_MYSEKAI_FIXTURE_JOINT_RELEASE_PUT_LIMIT",
     "value": "マイホームに置ける<color=#ff5599>柵と道<\/color>の最大数がアップしました。"
   },
@@ -2450,6 +2454,14 @@
   {
     "wordingKey": "MSG_NEXT_EPISODE_RELEASE_DATE_AT",
     "value": "{0}のストーリー\n<color=#ff77AA>{1:MM\/dd HH:mm} 解放<\/color>"
+  },
+  {
+    "wordingKey": "MSG_NEXT_PLAYER_EXP",
+    "value": "次のランクまで あと<color=#FF5599>{0}<\/color>"
+  },
+  {
+    "wordingKey": "MSG_NEXT_PLAYER_EXP_MAX",
+    "value": "プレイヤーランクの\n上限に到達しています"
   },
   {
     "wordingKey": "MSG_NGWORD_BALLOON",
@@ -2730,6 +2742,14 @@
   {
     "wordingKey": "MSG_OFFLINE_EVENT_ENTRY_CONFIRM_DIALOG_ATTENSION2",
     "value": "※抽選申込みサイトでは申込みIDが必要になります。\n<color=#ff5588>※申込みIDは個人専用のIDになりますので\n他人には絶対に教えないでください。<\/color>"
+  },
+  {
+    "wordingKey": "MSG_OFFLINE_EVENT_ENTRY_EXPIRED_DIALOG_BODY",
+    "value": "イベントの申込み期間が終了しています。\nホーム画面に戻ります。"
+  },
+  {
+    "wordingKey": "MSG_OFFLINE_EVENT_ENTRY_NOTFOUND_DIALOG_BODY",
+    "value": "申込み可能なイベントがありません。\nホーム画面に戻ります。"
   },
   {
     "wordingKey": "MSG_OFFLINE_EVENT_EVALUATION_PERIOD",
@@ -8688,6 +8708,10 @@
     "value": "MVデータ"
   },
   {
+    "wordingKey": "WORD_MV_ONLY_DECK_NAME",
+    "value": "MV専用ユニット"
+  },
+  {
     "wordingKey": "WORD_MV_ON_JACKET",
     "value": "MV"
   },
@@ -8814,6 +8838,10 @@
   {
     "wordingKey": "WORD_MYSEKAI_INVALID_ANIMATION_SPACE",
     "value": "アニメーションスペースの確保が必要な家具があります。\n配置を見直してください。"
+  },
+  {
+    "wordingKey": "WORD_MYSEKAI_INVALID_FIXTURE_LIST_OK_BUTTON",
+    "value": "片付けて保存"
   },
   {
     "wordingKey": "WORD_MYSEKAI_INVALID_LAYOUT",

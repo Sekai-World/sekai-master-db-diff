@@ -28823,6 +28823,26 @@
     "archivePublishedAt": 1730095200000
   },
   {
+    "id": 1103,
+    "musicId": 546,
+    "musicVocalType": "original_song",
+    "seq": 101,
+    "releaseConditionId": 5,
+    "caption": "バーチャル・シンガーver.",
+    "characters": [
+      {
+        "id": 1971,
+        "musicId": 546,
+        "musicVocalId": 1103,
+        "characterType": "game_character",
+        "characterId": 21,
+        "seq": 5460
+      }
+    ],
+    "assetbundleName": "vs_0546_01",
+    "archivePublishedAt": 1750645800000
+  },
+  {
     "id": 1104,
     "musicId": 547,
     "musicVocalType": "original_song",
@@ -30105,6 +30125,26 @@
     ],
     "assetbundleName": "vs_0628_01",
     "archivePublishedAt": 1750053600000
+  },
+  {
+    "id": 1190,
+    "musicId": 633,
+    "musicVocalType": "original_song",
+    "seq": 101,
+    "releaseConditionId": 5,
+    "caption": "バーチャル・シンガーver.",
+    "characters": [
+      {
+        "id": 2058,
+        "musicId": 633,
+        "musicVocalId": 1190,
+        "characterType": "game_character",
+        "characterId": 21,
+        "seq": 6330
+      }
+    ],
+    "assetbundleName": "vs_0633_01",
+    "archivePublishedAt": 1750658400000
   },
   {
     "id": 1191,
@@ -39666,5 +39706,45 @@
     ],
     "assetbundleName": "se_0625_01",
     "archivePublishedAt": 1749448800000
+  },
+  {
+    "id": 1639,
+    "musicId": 546,
+    "musicVocalType": "another_vocal",
+    "seq": 302,
+    "releaseConditionId": 9,
+    "caption": "アナザーボーカルver.",
+    "characters": [
+      {
+        "id": 3160,
+        "musicId": 546,
+        "musicVocalId": 1639,
+        "characterType": "game_character",
+        "characterId": 2,
+        "seq": 5467
+      }
+    ],
+    "assetbundleName": "an_0546_02",
+    "archivePublishedAt": 1750645800000
+  },
+  {
+    "id": 1640,
+    "musicId": 286,
+    "musicVocalType": "another_vocal",
+    "seq": 304,
+    "releaseConditionId": 9,
+    "caption": "アナザーボーカルver.",
+    "characters": [
+      {
+        "id": 3161,
+        "musicId": 286,
+        "musicVocalId": 1640,
+        "characterType": "game_character",
+        "characterId": 4,
+        "seq": 2866
+      }
+    ],
+    "assetbundleName": "an_0286_01",
+    "archivePublishedAt": 1750645800000
   }
 ]
