@@ -1,16 +1,5 @@
 [
   {
-    "homeBannerId": 1301,
-    "seq": 170,
-    "homeBannerType": "event",
-    "name": "[イベント]ニーゴWL2イベ_イベントバナー",
-    "assetbundleName": "event_wl_2nd_schoolrefusal_2025",
-    "transitionDestinationType": "event",
-    "transitionDestinationId": 170,
-    "startAt": 1749466800000,
-    "endAt": 1750676399000
-  },
-  {
     "homeBannerId": 1306,
     "seq": 190,
     "homeBannerType": "general",
@@ -22,15 +11,15 @@
     "endAt": 1751857200000
   },
   {
-    "homeBannerId": 1307,
+    "homeBannerId": 1308,
     "seq": 130,
     "homeBannerType": "general",
-    "name": "[神代類]HAPPY BIRTHDAYライブ",
-    "assetbundleName": "banner_virtuallive382",
-    "transitionDestinationType": "virtual_live",
-    "transitionDestinationId": 382,
-    "startAt": 1750572000000,
-    "endAt": 1750690799000
+    "name": "[神代類]HAPPY BIRTHDAY2025ガチャ",
+    "assetbundleName": "banner_gacha753",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 753,
+    "startAt": 1750690800000,
+    "endAt": 1750777199000
   },
   {
     "homeBannerId": 1309,
@@ -42,5 +31,16 @@
     "transitionDestinationId": 757,
     "startAt": 1750647600000,
     "endAt": 1751857199000
+  },
+  {
+    "homeBannerId": 1311,
+    "seq": 100,
+    "homeBannerType": "event",
+    "name": "[イベント]レオニWL2イベ_イベントバナー",
+    "assetbundleName": "event_wl_2nd_lightsound_2025",
+    "transitionDestinationType": "event",
+    "transitionDestinationId": 171,
+    "startAt": 1750676400000,
+    "endAt": 1751867999000
   }
 ]
