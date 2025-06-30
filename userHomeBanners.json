@@ -33,8 +33,8 @@
     "endAt": 1751867999000
   },
   {
-    "homeBannerId": 1314,
-    "seq": 90,
+    "homeBannerId": 1315,
+    "seq": 160,
     "homeBannerType": "general",
     "name": "[ガチャ]セレクトリストガチャ",
     "assetbundleName": "banner_gacha758",
@@ -42,5 +42,27 @@
     "transitionDestinationId": 758,
     "startAt": 1750820400000,
     "endAt": 1751598000000
+  },
+  {
+    "homeBannerId": 1317,
+    "seq": 80,
+    "homeBannerType": "general",
+    "name": "ワールドコスチュームガチャ vol.1",
+    "assetbundleName": "banner_gacha759",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 759,
+    "startAt": 1751252400000,
+    "endAt": 1752030000000
+  },
+  {
+    "homeBannerId": 1318,
+    "seq": 80,
+    "homeBannerType": "general",
+    "name": "ワールドコスチュームガチャ vol.2",
+    "assetbundleName": "banner_gacha760",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 760,
+    "startAt": 1751252400000,
+    "endAt": 1752030000000
   }
 ]
