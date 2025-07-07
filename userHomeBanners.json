@@ -1,38 +1,5 @@
 [
   {
-    "homeBannerId": 1306,
-    "seq": 190,
-    "homeBannerType": "general",
-    "name": "[レオニ]ワールドリンクイベントサポートガチャ",
-    "assetbundleName": "banner_gacha752",
-    "transitionDestinationType": "gacha",
-    "transitionDestinationId": 752,
-    "startAt": 1750042800000,
-    "endAt": 1751857200000
-  },
-  {
-    "homeBannerId": 1309,
-    "seq": 110,
-    "homeBannerType": "general",
-    "name": "[ガチャ]レオニWL2イベ_定常ガチャバナー",
-    "assetbundleName": "banner_gacha757",
-    "transitionDestinationType": "gacha",
-    "transitionDestinationId": 757,
-    "startAt": 1750647600000,
-    "endAt": 1751857199000
-  },
-  {
-    "homeBannerId": 1311,
-    "seq": 100,
-    "homeBannerType": "event",
-    "name": "[イベント]レオニWL2イベ_イベントバナー",
-    "assetbundleName": "event_wl_2nd_lightsound_2025",
-    "transitionDestinationType": "event",
-    "transitionDestinationId": 171,
-    "startAt": 1750676400000,
-    "endAt": 1751867999000
-  },
-  {
     "homeBannerId": 1317,
     "seq": 80,
     "homeBannerType": "general",
@@ -64,5 +31,27 @@
     "transitionDestinationId": 384,
     "startAt": 1751695200000,
     "endAt": 1751986800000
+  },
+  {
+    "homeBannerId": 1320,
+    "seq": 50,
+    "homeBannerType": "general",
+    "name": "ブルームフェスティバルガチャ",
+    "assetbundleName": "banner_gacha762",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 762,
+    "startAt": 1751857200000,
+    "endAt": 1752202799000
+  },
+  {
+    "homeBannerId": 1323,
+    "seq": 100,
+    "homeBannerType": "event",
+    "name": "[イベント]ワンダショ箱イベ_イベントバナー",
+    "assetbundleName": "event_deeper_2025",
+    "transitionDestinationType": "event",
+    "transitionDestinationId": 172,
+    "startAt": 1751875200000,
+    "endAt": 1752559199000
   }
 ]
