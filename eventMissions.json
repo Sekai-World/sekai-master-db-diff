@@ -13071,5 +13071,143 @@
     "eventMissionSelectableRewardGroupId": 1,
     "sentence": "7つのミッションを全て達成しよう。",
     "rewards": []
+  },
+  {
+    "id": 737,
+    "eventId": 173,
+    "seq": 1,
+    "eventMissionType": "live_clear_daily",
+    "eventMissionCategory": "normal",
+    "requirement1": 7,
+    "sentence": "累計7日ライブを1日1回クリアしよう。",
+    "rewards": [
+      {
+        "id": 14033,
+        "missionType": "event_mission",
+        "missionId": 737,
+        "seq": 1,
+        "resourceBoxId": 8002
+      }
+    ]
+  },
+  {
+    "id": 738,
+    "eventId": 173,
+    "seq": 2,
+    "eventMissionType": "any_live_clear",
+    "eventMissionCategory": "normal",
+    "requirement1": 50,
+    "sentence": "ライブを50回クリアしよう。",
+    "rewards": [
+      {
+        "id": 14034,
+        "missionType": "event_mission",
+        "missionId": 738,
+        "seq": 1,
+        "resourceBoxId": 8002
+      }
+    ]
+  },
+  {
+    "id": 739,
+    "eventId": 173,
+    "seq": 3,
+    "eventMissionType": "live_clear_full_combo",
+    "eventMissionCategory": "normal",
+    "requirement1": 10,
+    "sentence": "ライブで楽曲をフルコンボで10回クリアしよう。",
+    "rewards": [
+      {
+        "id": 14035,
+        "missionType": "event_mission",
+        "missionId": 739,
+        "seq": 1,
+        "resourceBoxId": 8002
+      }
+    ]
+  },
+  {
+    "id": 740,
+    "eventId": 173,
+    "seq": 4,
+    "eventMissionType": "live_clear_different_music",
+    "eventMissionCategory": "normal",
+    "requirement1": 10,
+    "requirement2": 1,
+    "sentence": "ライブで10種類の楽曲をクリアしよう。",
+    "rewards": [
+      {
+        "id": 14036,
+        "missionType": "event_mission",
+        "missionId": 740,
+        "seq": 1,
+        "resourceBoxId": 8002
+      }
+    ]
+  },
+  {
+    "id": 741,
+    "eventId": 173,
+    "seq": 5,
+    "eventMissionType": "read_last_event_story_episode",
+    "eventMissionCategory": "normal",
+    "requirement1": 1,
+    "sentence": "イベント「Unsteady, still steady step」のイベントストーリー第8話を読もう。",
+    "rewards": [
+      {
+        "id": 14037,
+        "missionType": "event_mission",
+        "missionId": 741,
+        "seq": 1,
+        "resourceBoxId": 8002
+      }
+    ]
+  },
+  {
+    "id": 742,
+    "eventId": 173,
+    "seq": 6,
+    "eventMissionType": "consume_event_item",
+    "eventMissionCategory": "normal",
+    "requirement1": 20000,
+    "sentence": "イベント「Unsteady, still steady step」の交換所でバッジを20000個消費しよう。",
+    "rewards": [
+      {
+        "id": 14038,
+        "missionType": "event_mission",
+        "missionId": 742,
+        "seq": 1,
+        "resourceBoxId": 8002
+      }
+    ]
+  },
+  {
+    "id": 743,
+    "eventId": 173,
+    "seq": 7,
+    "eventMissionType": "join_virtual_live",
+    "eventMissionCategory": "normal",
+    "requirement1": 1,
+    "sentence": "「Unsteady, still steady step アフターライブ」に参加しよう。",
+    "rewards": [
+      {
+        "id": 14039,
+        "missionType": "event_mission",
+        "missionId": 743,
+        "seq": 1,
+        "resourceBoxId": 8002
+      }
+    ]
+  },
+  {
+    "id": 744,
+    "eventId": 173,
+    "seq": 8,
+    "eventMissionType": "achieve_event_mission",
+    "eventMissionCategory": "complete_selectable_reward",
+    "requirement1": 7,
+    "eventMissionSelectableRewardGroupId": 1,
+    "sentence": "7つのミッションを全て達成しよう。",
+    "rewards": []
   }
 ]
