@@ -1,7 +1,7 @@
 [
   {
-    "homeBannerId": 1328,
-    "seq": 110,
+    "homeBannerId": 1329,
+    "seq": 180,
     "homeBannerType": "general",
     "name": "[ガチャ]レオニ箱イベ_ガチャバナー",
     "assetbundleName": "banner_gacha766",
@@ -11,8 +11,8 @@
     "endAt": 1753239599000
   },
   {
-    "homeBannerId": 1330,
-    "seq": 100,
+    "homeBannerId": 1331,
+    "seq": 170,
     "homeBannerType": "event",
     "name": "[イベント]レオニ箱イベ_イベントバナー",
     "assetbundleName": "event_unsteady_2025",
@@ -20,5 +20,16 @@
     "transitionDestinationId": 173,
     "startAt": 1752559200000,
     "endAt": 1753250399000
+  },
+  {
+    "homeBannerId": 1342,
+    "seq": 45,
+    "homeBannerType": "general",
+    "name": "公式ストア",
+    "assetbundleName": "banner_official_store",
+    "transitionDestinationType": "web",
+    "startAt": 1753237800000,
+    "endAt": 4102412399000,
+    "url": "https:\/\/pjsekai.sega.jp\/index.html?from=official_store_banner"
   }
 ]
