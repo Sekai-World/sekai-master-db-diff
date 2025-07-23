@@ -555,5 +555,23 @@
         "displayText": "あんスタ発行シリアルコード入力時報酬"
       }
     ]
+  },
+  {
+    "id": 4,
+    "serialCodeCampaignType": "obtain_reward_directly",
+    "useCountLimit": 1,
+    "startAt": 1753239600000,
+    "closedAt": 1753974000000,
+    "serialCodeCampaignRewards": [
+      {
+        "id": 67,
+        "serialCodeCampaignId": 4,
+        "requirement": 1,
+        "seq": 1,
+        "serialCodeCampaignRewardType": "resource_box",
+        "externalId": 6,
+        "displayText": "プロセカ公式YouTubeチャンネル登録者200万人突破記念プレゼント"
+      }
+    ]
   }
 ]

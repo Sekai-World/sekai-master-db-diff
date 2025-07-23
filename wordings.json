@@ -376,8 +376,24 @@
     "value": "<color=#ff5588>※メンバーのマスターランクを2まで上げる必要があります。<\/color>"
   },
   {
+    "wordingKey": "MSG_ANOTHER_COLORFUL_PASS_WEB_PAYMENT_PURCHASE_LOCK",
+    "value": "他カラフルパスが決済待機状態です。\n決済を完了させるか、キャンセルするまで\n購入できません。"
+  },
+  {
+    "wordingKey": "MSG_ANOTHER_COLORFUL_PASS_WEB_PAYMENT_REFLECTION_AWAITING",
+    "value": "他カラフルパスを購入済みです。\nホームに遷移することで商品が\n反映されます。"
+  },
+  {
     "wordingKey": "MSG_ANOTHER_COLOR_ACQUISITION_CONDITIONS_NL",
     "value": "「{0}　{1}」の\n<color=#FF3366>マスターランク<\/color>を上げると\nアナザーカラーが解放されます。"
+  },
+  {
+    "wordingKey": "MSG_ANOTHER_PRODUCT_WEB_PAYMENT_PURCHASE_LOCK",
+    "value": "セット対象の商品が決済待機状態です。\n決済を完了させるか、キャンセルするまで\n購入できません。"
+  },
+  {
+    "wordingKey": "MSG_ANOTHER_PRODUCT_WEB_PAYMENT_REFLECTION_AWAITING",
+    "value": "セット対象商品が反映待ち状態のため購入ができません。\nホームに遷移することで商品が\n反映されます。"
   },
   {
     "wordingKey": "MSG_ANOTHER_VICAL_RELEASE_CONDITION",
@@ -3932,8 +3948,20 @@
     "value": "外部サイトに移動します。よろしいですか？"
   },
   {
+    "wordingKey": "MSG_WEB_PAYMENT_PURCHASE_LOCK",
+    "value": "決済待機状態です。\n決済を完了させるか、キャンセルするまで\n購入できません。"
+  },
+  {
     "wordingKey": "MSG_WEB_PAYMENT_REFLECT",
     "value": "公式ストアで購入した以下のアイテムが反映されました。"
+  },
+  {
+    "wordingKey": "MSG_WEB_PAYMENT_REFLECTION_AWAITING",
+    "value": "購入済みの商品です。\nホームに遷移することで商品が\n反映されます。"
+  },
+  {
+    "wordingKey": "MSG_WEB_PAYMENT_TERM_PRODUCT_REFLECT",
+    "value": "{0}を反映しました。"
   },
   {
     "wordingKey": "MSG_WISH_LIST_BACK_GACHA_TOP_CONFIRM",
