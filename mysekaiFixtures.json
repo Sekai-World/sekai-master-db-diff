@@ -26240,6 +26240,938 @@
     "assetbundleName": "mdl_non3001_block_concre2"
   },
   {
+    "id": 739,
+    "mysekaiFixtureType": "normal",
+    "name": "コンクリの道",
+    "pronunciation": "こんくりのみち",
+    "flavorText": "コンクリの道",
+    "seq": 22001004,
+    "gridSize": {
+      "width": 2,
+      "depth": 2,
+      "height": 1
+    },
+    "colorCode": "#D0D0D9",
+    "mysekaiFixtureMainGenreId": 12,
+    "mysekaiFixtureSubGenreId": 22,
+    "mysekaiFixtureHandleType": "road",
+    "mysekaiSettableSiteType": "home",
+    "mysekaiSettableLayoutType": "road",
+    "mysekaiFixturePutType": "none",
+    "mysekaiFixtureAnotherColors": [
+      {
+        "textureId": 2,
+        "colorCode": "#8D8C96"
+      },
+      {
+        "textureId": 3,
+        "colorCode": "#C8BADF"
+      }
+    ],
+    "mysekaiFixturePutSoundId": 18,
+    "mysekaiFixtureFootstepId": 7,
+    "mysekaiFixtureTagGroup": {
+      "id": 739,
+      "mysekaiFixtureTagId1": 10741
+    },
+    "isAssembled": true,
+    "isDisassembled": true,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_non2001_road_concre1"
+  },
+  {
+    "id": 740,
+    "mysekaiFixtureType": "normal",
+    "name": "砂利の道",
+    "pronunciation": "じゃりのみち",
+    "flavorText": "砂利の道",
+    "seq": 22001005,
+    "gridSize": {
+      "width": 2,
+      "depth": 2,
+      "height": 1
+    },
+    "colorCode": "#8D8C96",
+    "mysekaiFixtureMainGenreId": 12,
+    "mysekaiFixtureSubGenreId": 22,
+    "mysekaiFixtureHandleType": "road",
+    "mysekaiSettableSiteType": "home",
+    "mysekaiSettableLayoutType": "road",
+    "mysekaiFixturePutType": "none",
+    "mysekaiFixtureAnotherColors": [
+      {
+        "textureId": 2,
+        "colorCode": "#F9F9FE"
+      },
+      {
+        "textureId": 3,
+        "colorCode": "#93B315"
+      }
+    ],
+    "mysekaiFixturePutSoundId": 18,
+    "mysekaiFixtureFootstepId": 1,
+    "mysekaiFixtureTagGroup": {
+      "id": 740,
+      "mysekaiFixtureTagId1": 10742
+    },
+    "isAssembled": true,
+    "isDisassembled": true,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_non2001_road_gravel1"
+  },
+  {
+    "id": 741,
+    "mysekaiFixtureType": "normal",
+    "name": "白砂の道",
+    "pronunciation": "はくしゃのみち",
+    "flavorText": "白砂の道",
+    "seq": 22001006,
+    "gridSize": {
+      "width": 2,
+      "depth": 2,
+      "height": 1
+    },
+    "colorCode": "#F7ECD2",
+    "mysekaiFixtureMainGenreId": 12,
+    "mysekaiFixtureSubGenreId": 22,
+    "mysekaiFixtureHandleType": "road",
+    "mysekaiSettableSiteType": "home",
+    "mysekaiSettableLayoutType": "road",
+    "mysekaiFixturePutType": "none",
+    "mysekaiFixtureAnotherColors": [
+      {
+        "textureId": 2,
+        "colorCode": "#EFCF90"
+      },
+      {
+        "textureId": 3,
+        "colorCode": "#FFD0F2"
+      }
+    ],
+    "mysekaiFixturePutSoundId": 18,
+    "mysekaiFixtureFootstepId": 1,
+    "mysekaiFixtureTagGroup": {
+      "id": 741,
+      "mysekaiFixtureTagId1": 10743
+    },
+    "isAssembled": true,
+    "isDisassembled": true,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_non2001_road_whitesand1"
+  },
+  {
+    "id": 742,
+    "mysekaiFixtureType": "system",
+    "name": "ドリーミィベビールームの家",
+    "pronunciation": "どりーみぃべびーるーむのいえ",
+    "flavorText": "ドリーミィベビールームの家",
+    "seq": 40008001,
+    "gridSize": {
+      "width": 12,
+      "depth": 12,
+      "height": 13
+    },
+    "colorCode": "#B9D4E3",
+    "mysekaiFixtureMainGenreId": 11,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "home",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "none",
+    "mysekaiFixtureAnotherColors": [
+      {
+        "textureId": 2,
+        "colorCode": "#A6CECC"
+      },
+      {
+        "textureId": 3,
+        "colorCode": "#C8BADF"
+      }
+    ],
+    "mysekaiFixturePutSoundId": 2,
+    "mysekaiFixtureTagGroup": {
+      "id": 742,
+      "mysekaiFixtureTagId1": 10744,
+      "mysekaiFixtureTagId2": 81
+    },
+    "isAssembled": true,
+    "isDisassembled": false,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_env0008_house_house1"
+  },
+  {
+    "id": 743,
+    "mysekaiFixtureType": "surface_appearance",
+    "name": "ドリーミィベビールームの壁紙",
+    "pronunciation": "どりーみぃべびーるーむのかべがみ",
+    "flavorText": "ドリーミィベビールームの壁紙",
+    "seq": 40008002,
+    "gridSize": {
+      "width": 0,
+      "depth": 0,
+      "height": 0
+    },
+    "colorCode": "#B9D4E3",
+    "mysekaiFixtureMainGenreId": 7,
+    "mysekaiFixtureSubGenreId": 19,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "room",
+    "mysekaiSettableLayoutType": "wall_appearance",
+    "mysekaiFixturePutType": "none",
+    "mysekaiFixtureAnotherColors": [
+      {
+        "textureId": 2,
+        "colorCode": "#A6CECC"
+      },
+      {
+        "textureId": 3,
+        "colorCode": "#C8BADF"
+      }
+    ],
+    "mysekaiFixturePutSoundId": 15,
+    "mysekaiFixtureTagGroup": {
+      "id": 743,
+      "mysekaiFixtureTagId1": 10745,
+      "mysekaiFixtureTagId2": 81
+    },
+    "isAssembled": true,
+    "isDisassembled": true,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "env0008"
+  },
+  {
+    "id": 744,
+    "mysekaiFixtureType": "surface_appearance",
+    "name": "ドリーミィベビールームの床",
+    "pronunciation": "どりーみぃべびーるーむのゆか",
+    "flavorText": "ドリーミィベビールームの床",
+    "seq": 40008003,
+    "gridSize": {
+      "width": 0,
+      "depth": 0,
+      "height": 0
+    },
+    "colorCode": "#B9D4E3",
+    "mysekaiFixtureMainGenreId": 8,
+    "mysekaiFixtureSubGenreId": 20,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "room",
+    "mysekaiSettableLayoutType": "floor_appearance",
+    "mysekaiFixturePutType": "none",
+    "mysekaiFixtureAnotherColors": [
+      {
+        "textureId": 2,
+        "colorCode": "#A6CECC"
+      },
+      {
+        "textureId": 3,
+        "colorCode": "#C8BADF"
+      }
+    ],
+    "mysekaiFixturePutSoundId": 15,
+    "mysekaiFixtureTagGroup": {
+      "id": 744,
+      "mysekaiFixtureTagId1": 10746,
+      "mysekaiFixtureTagId2": 81
+    },
+    "isAssembled": true,
+    "isDisassembled": true,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "env0008"
+  },
+  {
+    "id": 745,
+    "mysekaiFixtureType": "normal",
+    "name": "ドリーミィベビールームの窓",
+    "pronunciation": "どりーみぃべびーるーむのまど",
+    "flavorText": "ドリーミィベビールームの窓",
+    "seq": 40008004,
+    "gridSize": {
+      "width": 4,
+      "depth": 1,
+      "height": 3
+    },
+    "mysekaiFixtureMainGenreId": 4,
+    "mysekaiFixtureSubGenreId": 14,
+    "mysekaiFixtureHandleType": "windowpane",
+    "mysekaiSettableSiteType": "room",
+    "mysekaiSettableLayoutType": "wall",
+    "mysekaiFixturePutType": "none",
+    "mysekaiFixtureAnotherColors": [],
+    "mysekaiFixturePutSoundId": 2,
+    "mysekaiFixtureTagGroup": {
+      "id": 745,
+      "mysekaiFixtureTagId1": 10747,
+      "mysekaiFixtureTagId2": 81
+    },
+    "isAssembled": true,
+    "isDisassembled": true,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_env0008_window_window1"
+  },
+  {
+    "id": 746,
+    "mysekaiFixtureType": "normal",
+    "name": "ドリーミィベビールームのベッド",
+    "pronunciation": "どりーみぃべびーるーむのべっど",
+    "flavorText": "ドリーミィベビールームのベッド",
+    "seq": 40008005,
+    "gridSize": {
+      "width": 4,
+      "depth": 3,
+      "height": 3
+    },
+    "colorCode": "#B9D4E3",
+    "mysekaiFixtureMainGenreId": 2,
+    "mysekaiFixtureSubGenreId": 2,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "any",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "none",
+    "mysekaiFixtureAnotherColors": [
+      {
+        "textureId": 2,
+        "colorCode": "#A6CECC"
+      },
+      {
+        "textureId": 3,
+        "colorCode": "#C8BADF"
+      }
+    ],
+    "mysekaiFixturePutSoundId": 2,
+    "mysekaiFixtureTagGroup": {
+      "id": 746,
+      "mysekaiFixtureTagId1": 10748,
+      "mysekaiFixtureTagId2": 81
+    },
+    "isAssembled": true,
+    "isDisassembled": true,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_env0008_fixture_bed1"
+  },
+  {
+    "id": 747,
+    "mysekaiFixtureType": "normal",
+    "name": "ドリーミィベビールームの絵本棚",
+    "pronunciation": "どりーみぃべびーるーむのえほんだな",
+    "flavorText": "ドリーミィベビールームの絵本棚",
+    "seq": 40008006,
+    "gridSize": {
+      "width": 2,
+      "depth": 2,
+      "height": 2
+    },
+    "colorCode": "#B9D4E3",
+    "mysekaiFixtureMainGenreId": 2,
+    "mysekaiFixtureSubGenreId": 5,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "any",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "none",
+    "mysekaiFixtureAnotherColors": [
+      {
+        "textureId": 2,
+        "colorCode": "#A6CECC"
+      },
+      {
+        "textureId": 3,
+        "colorCode": "#C8BADF"
+      }
+    ],
+    "mysekaiFixturePutSoundId": 1,
+    "mysekaiFixtureTagGroup": {
+      "id": 747,
+      "mysekaiFixtureTagId1": 10749,
+      "mysekaiFixtureTagId2": 81
+    },
+    "isAssembled": true,
+    "isDisassembled": true,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": true,
+    "assetbundleName": "mdl_env0008_fixture_bookshelf1"
+  },
+  {
+    "id": 748,
+    "mysekaiFixtureType": "normal",
+    "name": "ドリーミィベビールームのロッキングアニマル",
+    "pronunciation": "どりーみぃべびーるーむのろっきんぐあにまる",
+    "flavorText": "ドリーミィベビールームのロッキングアニマル",
+    "seq": 40008007,
+    "gridSize": {
+      "width": 2,
+      "depth": 1,
+      "height": 2
+    },
+    "colorCode": "#F9F7F1",
+    "mysekaiFixtureMainGenreId": 2,
+    "mysekaiFixtureSubGenreId": 9,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "any",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "none",
+    "mysekaiFixtureAnotherColors": [
+      {
+        "textureId": 2,
+        "colorCode": "#A6CECC"
+      },
+      {
+        "textureId": 3,
+        "colorCode": "#C8BADF"
+      }
+    ],
+    "mysekaiFixturePutSoundId": 1,
+    "mysekaiFixtureTagGroup": {
+      "id": 748,
+      "mysekaiFixtureTagId1": 10750,
+      "mysekaiFixtureTagId2": 81
+    },
+    "isAssembled": true,
+    "isDisassembled": true,
+    "mysekaiFixturePlayerActionType": "timeline",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_env0008_fixture_rockingsheep1"
+  },
+  {
+    "id": 749,
+    "mysekaiFixtureType": "normal",
+    "name": "ドリーミィベビールームのクッション",
+    "pronunciation": "どりーみぃべびーるーむのくっしょん",
+    "flavorText": "ドリーミィベビールームのクッション",
+    "seq": 40008008,
+    "gridSize": {
+      "width": 3,
+      "depth": 2,
+      "height": 1
+    },
+    "colorCode": "#B9D4E3",
+    "mysekaiFixtureMainGenreId": 2,
+    "mysekaiFixtureSubGenreId": 9,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "any",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "none",
+    "mysekaiFixtureAnotherColors": [
+      {
+        "textureId": 2,
+        "colorCode": "#A6CECC"
+      },
+      {
+        "textureId": 3,
+        "colorCode": "#C8BADF"
+      }
+    ],
+    "mysekaiFixturePutSoundId": 9,
+    "mysekaiFixtureTagGroup": {
+      "id": 749,
+      "mysekaiFixtureTagId1": 10751,
+      "mysekaiFixtureTagId2": 81
+    },
+    "isAssembled": true,
+    "isDisassembled": true,
+    "mysekaiFixturePlayerActionType": "timeline",
+    "isGameCharacterAction": true,
+    "assetbundleName": "mdl_env0008_fixture_cushion1"
+  },
+  {
+    "id": 750,
+    "mysekaiFixtureType": "normal",
+    "name": "ドリーミィベビールームのモビール",
+    "pronunciation": "どりーみぃべびーるーむのもびーる",
+    "flavorText": "ドリーミィベビールームのモビール",
+    "seq": 40008009,
+    "gridSize": {
+      "width": 2,
+      "depth": 1,
+      "height": 3
+    },
+    "colorCode": "#B9D4E3",
+    "mysekaiFixtureMainGenreId": 4,
+    "mysekaiFixtureSubGenreId": 14,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "any",
+    "mysekaiSettableLayoutType": "wall",
+    "mysekaiFixturePutType": "none",
+    "mysekaiFixtureAnotherColors": [
+      {
+        "textureId": 2,
+        "colorCode": "#A6CECC"
+      },
+      {
+        "textureId": 3,
+        "colorCode": "#C8BADF"
+      }
+    ],
+    "mysekaiFixturePutSoundId": 7,
+    "mysekaiFixtureTagGroup": {
+      "id": 750,
+      "mysekaiFixtureTagId1": 10752,
+      "mysekaiFixtureTagId2": 81
+    },
+    "isAssembled": true,
+    "isDisassembled": true,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_env0008_fixture_mobile1"
+  },
+  {
+    "id": 751,
+    "mysekaiFixtureType": "normal",
+    "name": "ドリーミィベビールームのラグマット",
+    "pronunciation": "どりーみぃべびーるーむのらぐまっと",
+    "flavorText": "ドリーミィベビールームのラグマット",
+    "seq": 40008010,
+    "gridSize": {
+      "width": 6,
+      "depth": 4,
+      "height": 1
+    },
+    "colorCode": "#B9D4E3",
+    "mysekaiFixtureMainGenreId": 9,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "any",
+    "mysekaiSettableLayoutType": "rug",
+    "mysekaiFixturePutType": "none",
+    "mysekaiFixtureAnotherColors": [
+      {
+        "textureId": 2,
+        "colorCode": "#A6CECC"
+      },
+      {
+        "textureId": 3,
+        "colorCode": "#C8BADF"
+      }
+    ],
+    "mysekaiFixturePutSoundId": 10,
+    "mysekaiFixtureFootstepId": 5,
+    "mysekaiFixtureTagGroup": {
+      "id": 751,
+      "mysekaiFixtureTagId1": 10753,
+      "mysekaiFixtureTagId2": 81
+    },
+    "isAssembled": true,
+    "isDisassembled": true,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_env0008_rug_rug1"
+  },
+  {
+    "id": 752,
+    "mysekaiFixtureType": "normal",
+    "name": "サイバーシティの水陸空車",
+    "pronunciation": "さいばーしてぃのすいりくくうしゃ",
+    "flavorText": "サイバーシティの水陸空車",
+    "seq": 70001001,
+    "gridSize": {
+      "width": 4,
+      "depth": 6,
+      "height": 3
+    },
+    "colorCode": "#9DE7FF",
+    "mysekaiFixtureMainGenreId": 2,
+    "mysekaiFixtureSubGenreId": 9,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "any",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "none",
+    "mysekaiFixtureAnotherColors": [
+      {
+        "textureId": 2,
+        "colorCode": "#FF7FDB"
+      },
+      {
+        "textureId": 3,
+        "colorCode": "#F9F9FE"
+      }
+    ],
+    "mysekaiFixturePutSoundId": 4,
+    "mysekaiFixtureTagGroup": {
+      "id": 752,
+      "mysekaiFixtureTagId1": 10754,
+      "mysekaiFixtureTagId2": 82
+    },
+    "isAssembled": true,
+    "isDisassembled": true,
+    "mysekaiFixturePlayerActionType": "timeline",
+    "isGameCharacterAction": true,
+    "assetbundleName": "mdl_con0001_fixture_flyingcar1"
+  },
+  {
+    "id": 753,
+    "mysekaiFixtureType": "normal",
+    "name": "サイバーシティアーチ",
+    "pronunciation": "さいばーしてぃあーち",
+    "flavorText": "サイバーシティアーチ",
+    "seq": 70001002,
+    "gridSize": {
+      "width": 8,
+      "depth": 2,
+      "height": 6
+    },
+    "colorCode": "#9DE7FF",
+    "mysekaiFixtureMainGenreId": 2,
+    "mysekaiFixtureSubGenreId": 9,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "any",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "none",
+    "mysekaiFixtureAnotherColors": [
+      {
+        "textureId": 2,
+        "colorCode": "#FF7FDB"
+      },
+      {
+        "textureId": 3,
+        "colorCode": "#F9F9FE"
+      }
+    ],
+    "mysekaiFixturePutSoundId": 4,
+    "mysekaiFixtureTagGroup": {
+      "id": 753,
+      "mysekaiFixtureTagId1": 10755,
+      "mysekaiFixtureTagId2": 82
+    },
+    "isAssembled": true,
+    "isDisassembled": true,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_con0001_fixture_gate1"
+  },
+  {
+    "id": 754,
+    "mysekaiFixtureType": "normal",
+    "name": "サイバーシティのネオン",
+    "pronunciation": "さいばーしてぃのねおん",
+    "flavorText": "サイバーシティのネオン",
+    "seq": 70001003,
+    "gridSize": {
+      "width": 4,
+      "depth": 1,
+      "height": 2
+    },
+    "colorCode": "#9DE7FF",
+    "mysekaiFixtureMainGenreId": 2,
+    "mysekaiFixtureSubGenreId": 9,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "any",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "none",
+    "mysekaiFixtureAnotherColors": [
+      {
+        "textureId": 2,
+        "colorCode": "#FF7FDB"
+      },
+      {
+        "textureId": 3,
+        "colorCode": "#F9F9FE"
+      }
+    ],
+    "mysekaiFixturePutSoundId": 4,
+    "mysekaiFixtureTagGroup": {
+      "id": 754,
+      "mysekaiFixtureTagId1": 10756,
+      "mysekaiFixtureTagId2": 82
+    },
+    "isAssembled": true,
+    "isDisassembled": true,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_con0001_fixture_guardrail1"
+  },
+  {
+    "id": 755,
+    "mysekaiFixtureType": "normal",
+    "name": "サイバーシティの機材の山",
+    "pronunciation": "さいばーしてぃのきざいのやま",
+    "flavorText": "サイバーシティの機材の山",
+    "seq": 70001004,
+    "gridSize": {
+      "width": 5,
+      "depth": 5,
+      "height": 4
+    },
+    "colorCode": "#9DE7FF",
+    "mysekaiFixtureMainGenreId": 2,
+    "mysekaiFixtureSubGenreId": 9,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "any",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "none",
+    "mysekaiFixtureAnotherColors": [
+      {
+        "textureId": 2,
+        "colorCode": "#FF7FDB"
+      },
+      {
+        "textureId": 3,
+        "colorCode": "#F9F9FE"
+      }
+    ],
+    "mysekaiFixturePutSoundId": 4,
+    "mysekaiFixtureTagGroup": {
+      "id": 755,
+      "mysekaiFixtureTagId1": 10757,
+      "mysekaiFixtureTagId2": 82
+    },
+    "isAssembled": true,
+    "isDisassembled": true,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_con0001_fixture_equipment1"
+  },
+  {
+    "id": 756,
+    "mysekaiFixtureType": "normal",
+    "name": "サイバーシティの道しるべ",
+    "pronunciation": "さいばーしてぃのみちしるべ",
+    "flavorText": "サイバーシティの道しるべ",
+    "seq": 70001005,
+    "gridSize": {
+      "width": 1,
+      "depth": 1,
+      "height": 7
+    },
+    "colorCode": "#9DE7FF",
+    "mysekaiFixtureMainGenreId": 2,
+    "mysekaiFixtureSubGenreId": 9,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "any",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "none",
+    "mysekaiFixtureAnotherColors": [
+      {
+        "textureId": 2,
+        "colorCode": "#FF7FDB"
+      },
+      {
+        "textureId": 3,
+        "colorCode": "#F9F9FE"
+      }
+    ],
+    "mysekaiFixturePutSoundId": 4,
+    "mysekaiFixtureTagGroup": {
+      "id": 756,
+      "mysekaiFixtureTagId1": 10758,
+      "mysekaiFixtureTagId2": 82
+    },
+    "isAssembled": true,
+    "isDisassembled": true,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_con0001_fixture_signpost1"
+  },
+  {
+    "id": 757,
+    "mysekaiFixtureType": "surface_appearance",
+    "name": "水色くじらの壁",
+    "pronunciation": "みずいろくじらのかべ",
+    "flavorText": "水色くじらの壁",
+    "seq": 70002001,
+    "gridSize": {
+      "width": 0,
+      "depth": 0,
+      "height": 0
+    },
+    "colorCode": "#9DE7FF",
+    "mysekaiFixtureMainGenreId": 7,
+    "mysekaiFixtureSubGenreId": 19,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "room",
+    "mysekaiSettableLayoutType": "wall_appearance",
+    "mysekaiFixturePutType": "none",
+    "mysekaiFixtureAnotherColors": [
+      {
+        "textureId": 2,
+        "colorCode": "#FFD0F2"
+      },
+      {
+        "textureId": 3,
+        "colorCode": "#FFF6A6"
+      }
+    ],
+    "mysekaiFixturePutSoundId": 15,
+    "mysekaiFixtureTagGroup": {
+      "id": 757,
+      "mysekaiFixtureTagId1": 10759,
+      "mysekaiFixtureTagId2": 83
+    },
+    "isAssembled": true,
+    "isDisassembled": true,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "con0002"
+  },
+  {
+    "id": 758,
+    "mysekaiFixtureType": "surface_appearance",
+    "name": "水色くじらの床",
+    "pronunciation": "みずいろくじらのゆか",
+    "flavorText": "水色くじらの床",
+    "seq": 70002002,
+    "gridSize": {
+      "width": 0,
+      "depth": 0,
+      "height": 0
+    },
+    "colorCode": "#9DE7FF",
+    "mysekaiFixtureMainGenreId": 8,
+    "mysekaiFixtureSubGenreId": 20,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "room",
+    "mysekaiSettableLayoutType": "floor_appearance",
+    "mysekaiFixturePutType": "none",
+    "mysekaiFixtureAnotherColors": [
+      {
+        "textureId": 2,
+        "colorCode": "#FFD0F2"
+      },
+      {
+        "textureId": 3,
+        "colorCode": "#FFF6A6"
+      }
+    ],
+    "mysekaiFixturePutSoundId": 15,
+    "mysekaiFixtureTagGroup": {
+      "id": 758,
+      "mysekaiFixtureTagId1": 10760,
+      "mysekaiFixtureTagId2": 83
+    },
+    "isAssembled": true,
+    "isDisassembled": true,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "con0002"
+  },
+  {
+    "id": 759,
+    "mysekaiFixtureType": "normal",
+    "name": "水色くじらのぬいぐるみ",
+    "pronunciation": "みずいろくじらのぬいぐるみ",
+    "flavorText": "水色くじらのぬいぐるみ",
+    "seq": 70002003,
+    "gridSize": {
+      "width": 3,
+      "depth": 4,
+      "height": 3
+    },
+    "colorCode": "#9DE7FF",
+    "mysekaiFixtureMainGenreId": 29,
+    "mysekaiFixtureSubGenreId": 10,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "any",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "none",
+    "mysekaiFixtureAnotherColors": [
+      {
+        "textureId": 2,
+        "colorCode": "#FFD0F2"
+      },
+      {
+        "textureId": 3,
+        "colorCode": "#FFF6A6"
+      }
+    ],
+    "mysekaiFixturePutSoundId": 10,
+    "mysekaiFixtureTagGroup": {
+      "id": 759,
+      "mysekaiFixtureTagId1": 10761,
+      "mysekaiFixtureTagId2": 83
+    },
+    "isAssembled": true,
+    "isDisassembled": true,
+    "mysekaiFixturePlayerActionType": "timeline",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_con0002_fixture_stuffedwhale1"
+  },
+  {
+    "id": 760,
+    "mysekaiFixtureType": "normal",
+    "name": "水色くじらの魚ソファ",
+    "pronunciation": "みずいろくじらのさかなそふぁ",
+    "flavorText": "水色くじらの魚ソファ",
+    "seq": 70002004,
+    "gridSize": {
+      "width": 4,
+      "depth": 3,
+      "height": 2
+    },
+    "colorCode": "#9DE7FF",
+    "mysekaiFixtureMainGenreId": 2,
+    "mysekaiFixtureSubGenreId": 4,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "any",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "none",
+    "mysekaiFixtureAnotherColors": [
+      {
+        "textureId": 2,
+        "colorCode": "#FFD0F2"
+      },
+      {
+        "textureId": 3,
+        "colorCode": "#FFF6A6"
+      }
+    ],
+    "mysekaiFixturePutSoundId": 2,
+    "mysekaiFixtureTagGroup": {
+      "id": 760,
+      "mysekaiFixtureTagId1": 10762,
+      "mysekaiFixtureTagId2": 83
+    },
+    "isAssembled": true,
+    "isDisassembled": true,
+    "mysekaiFixturePlayerActionType": "timeline",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_con0002_fixture_sofa1"
+  },
+  {
+    "id": 761,
+    "mysekaiFixtureType": "normal",
+    "name": "水色くじらのコーラル",
+    "pronunciation": "みずいろくじらのこーらる",
+    "flavorText": "水色くじらのコーラル",
+    "seq": 70002005,
+    "gridSize": {
+      "width": 2,
+      "depth": 2,
+      "height": 2
+    },
+    "colorCode": "#9DE7FF",
+    "mysekaiFixtureMainGenreId": 2,
+    "mysekaiFixtureSubGenreId": 9,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "any",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "none",
+    "mysekaiFixtureAnotherColors": [
+      {
+        "textureId": 2,
+        "colorCode": "#FFD0F2"
+      },
+      {
+        "textureId": 3,
+        "colorCode": "#FFF6A6"
+      }
+    ],
+    "mysekaiFixturePutSoundId": 1,
+    "mysekaiFixtureTagGroup": {
+      "id": 761,
+      "mysekaiFixtureTagId1": 10763,
+      "mysekaiFixtureTagId2": 83
+    },
+    "isAssembled": true,
+    "isDisassembled": true,
+    "mysekaiFixturePlayerActionType": "loop",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_con0002_fixture_coral1"
+  },
+  {
     "id": 762,
     "mysekaiFixtureType": "normal",
     "name": "[リミテッドスタイル vol.1] 一歌のぬいぐるみ\/S",
