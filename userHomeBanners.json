@@ -22,17 +22,6 @@
     "endAt": 1754362800000
   },
   {
-    "homeBannerId": 1348,
-    "seq": 10,
-    "homeBannerType": "general",
-    "name": "セカライ5th先行申込み",
-    "assetbundleName": "banner_pjsekailive5th_ticket",
-    "transitionDestinationType": "information",
-    "transitionDestinationId": 5105,
-    "startAt": 1753704000000,
-    "endAt": 1754233200000
-  },
-  {
     "homeBannerId": 1349,
     "seq": 110,
     "homeBannerType": "general",
@@ -64,5 +53,16 @@
     "transitionDestinationId": 779,
     "startAt": 1754017200000,
     "endAt": 1755831600000
+  },
+  {
+    "homeBannerId": 1356,
+    "seq": 50,
+    "homeBannerType": "general",
+    "name": "[ペルソナ５ ザ・ロイヤルタイアップ記念]プレミアムプレゼントガチャ",
+    "assetbundleName": "banner_gacha781",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 781,
+    "startAt": 1754276400000,
+    "endAt": 1755097199000
   }
 ]
