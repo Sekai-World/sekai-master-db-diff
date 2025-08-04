@@ -19005,6 +19005,7 @@
       }
     ],
     "mysekaiFixturePutSoundId": 2,
+    "mysekaiFixtureFootstepId": 6,
     "mysekaiFixtureTagGroup": {
       "id": 522,
       "mysekaiFixtureTagId1": 10522,
@@ -23263,6 +23264,7 @@
       }
     ],
     "mysekaiFixturePutSoundId": 2,
+    "mysekaiFixtureFootstepId": 6,
     "mysekaiFixtureTagGroup": {
       "id": 655,
       "mysekaiFixtureTagId1": 10657,
@@ -26242,9 +26244,9 @@
   {
     "id": 739,
     "mysekaiFixtureType": "normal",
-    "name": "コンクリの道",
-    "pronunciation": "こんくりのみち",
-    "flavorText": "コンクリの道",
+    "name": "コンクリートの道",
+    "pronunciation": "こんくりーとのみち",
+    "flavorText": "コンクリートの道",
     "seq": 22001004,
     "gridSize": {
       "width": 2,
@@ -26392,6 +26394,7 @@
       }
     ],
     "mysekaiFixturePutSoundId": 2,
+    "mysekaiFixtureFootstepId": 6,
     "mysekaiFixtureTagGroup": {
       "id": 742,
       "mysekaiFixtureTagId1": 10744,
@@ -28419,6 +28422,37 @@
     "mysekaiFixturePlayerActionType": "no_action",
     "isGameCharacterAction": false,
     "assetbundleName": "mdl_pas123_fixture_doll2large"
+  },
+  {
+    "id": 801,
+    "mysekaiFixtureType": "normal",
+    "name": "モルガナの像",
+    "pronunciation": "もるがなのぞう",
+    "flavorText": "モルガナの像",
+    "seq": 90001003,
+    "gridSize": {
+      "width": 2,
+      "depth": 2,
+      "height": 3
+    },
+    "mysekaiFixtureMainGenreId": 2,
+    "mysekaiFixtureSubGenreId": 9,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "any",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "none",
+    "mysekaiFixtureAnotherColors": [],
+    "mysekaiFixturePutSoundId": 8,
+    "mysekaiFixtureTagGroup": {
+      "id": 801,
+      "mysekaiFixtureTagId1": 10803,
+      "mysekaiFixtureTagId2": 84
+    },
+    "isAssembled": true,
+    "isDisassembled": true,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_clb1103_fixture_morgana1"
   },
   {
     "id": 900002,

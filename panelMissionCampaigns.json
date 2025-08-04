@@ -21984,5 +21984,179 @@
         ]
       }
     ]
+  },
+  {
+    "id": 9,
+    "name": "[ペルソナ５ ザ・ロイヤルタイアップ記念]スタンプミッション",
+    "assetbundleName": "persona5royal_collab_2025_pm",
+    "bgmAssetbundleName": "persona5royal_collab_2025_pm_bgm",
+    "selectableLimit": 1,
+    "startAt": 1754276400000,
+    "progressEndAt": 1755097199000,
+    "closedAt": 1755097199000,
+    "distributionEndAt": 1756306799000,
+    "informationId": 5128,
+    "panelMissionSelectionType": "auto",
+    "panelMissionSheetGroups": [
+      {
+        "id": 901,
+        "panelMissionCampaignId": 9,
+        "name": "スタンプ",
+        "selectableLimit": 1,
+        "seq": 1,
+        "panelMissionSheets": [
+          {
+            "id": 90101,
+            "panelMissionSheetGroupId": 901,
+            "name": "スタンプカード",
+            "seq": 1,
+            "assetbundleName": "sheet_persona5royal_collab",
+            "panelMissions": [
+              {
+                "id": 9010101,
+                "panelMissionSheetId": 90101,
+                "name": "楽曲\n「Life Will Change」を\n1回クリア",
+                "description": "楽曲「Life Will Change」を1回クリアしよう。",
+                "seq": 1,
+                "panelMissionType": "live_clear_in_music",
+                "requirement1": 1,
+                "rewards": [
+                  {
+                    "id": 14040,
+                    "missionType": "panel_mission",
+                    "missionId": 9010101,
+                    "seq": 1,
+                    "resourceBoxId": 1767
+                  }
+                ]
+              },
+              {
+                "id": 9010102,
+                "panelMissionSheetId": 90101,
+                "name": "3種類の楽曲を\nクリア",
+                "description": "3種類の楽曲をクリアしよう。\n※オートライブでもカウントされます。",
+                "seq": 2,
+                "panelMissionType": "live_clear_with_different_music",
+                "requirement1": 3,
+                "requirement2": 1,
+                "rewards": [
+                  {
+                    "id": 14041,
+                    "missionType": "panel_mission",
+                    "missionId": 9010102,
+                    "seq": 1,
+                    "resourceBoxId": 1767
+                  }
+                ]
+              },
+              {
+                "id": 9010103,
+                "panelMissionSheetId": 90101,
+                "name": "5種類の楽曲を\nクリア",
+                "description": "5種類の楽曲をクリアしよう。\n※オートライブでもカウントされます。",
+                "seq": 3,
+                "panelMissionType": "live_clear_with_different_music",
+                "requirement1": 5,
+                "requirement2": 1,
+                "rewards": [
+                  {
+                    "id": 14042,
+                    "missionType": "panel_mission",
+                    "missionId": 9010103,
+                    "seq": 1,
+                    "resourceBoxId": 1767
+                  }
+                ]
+              },
+              {
+                "id": 9010104,
+                "panelMissionSheetId": 90101,
+                "name": "10種類の楽曲を\nクリア",
+                "description": "10種類の楽曲をクリアしよう。\n※オートライブでもカウントされます。",
+                "seq": 4,
+                "panelMissionType": "live_clear_with_different_music",
+                "requirement1": 10,
+                "requirement2": 1,
+                "rewards": [
+                  {
+                    "id": 14043,
+                    "missionType": "panel_mission",
+                    "missionId": 9010104,
+                    "seq": 1,
+                    "resourceBoxId": 1767
+                  }
+                ]
+              },
+              {
+                "id": 9010105,
+                "panelMissionSheetId": 90101,
+                "name": "15種類の楽曲を\nクリア",
+                "description": "15種類の楽曲をクリアしよう。\n※オートライブでもカウントされます。",
+                "seq": 5,
+                "panelMissionType": "live_clear_with_different_music",
+                "requirement1": 15,
+                "requirement2": 1,
+                "rewards": [
+                  {
+                    "id": 14044,
+                    "missionType": "panel_mission",
+                    "missionId": 9010105,
+                    "seq": 1,
+                    "resourceBoxId": 1767
+                  }
+                ]
+              },
+              {
+                "id": 9010106,
+                "panelMissionSheetId": 90101,
+                "name": "20種類の楽曲を\nクリア",
+                "description": "20種類の楽曲をクリアしよう。\n※オートライブでもカウントされます。",
+                "seq": 6,
+                "panelMissionType": "live_clear_with_different_music",
+                "requirement1": 20,
+                "requirement2": 1,
+                "rewards": [
+                  {
+                    "id": 14045,
+                    "missionType": "panel_mission",
+                    "missionId": 9010106,
+                    "seq": 1,
+                    "resourceBoxId": 1767
+                  }
+                ]
+              },
+              {
+                "id": 9010107,
+                "panelMissionSheetId": 90101,
+                "name": "25種類の楽曲を\nクリア",
+                "description": "25種類の楽曲をクリアしよう。\n※オートライブでもカウントされます。",
+                "seq": 7,
+                "panelMissionType": "live_clear_with_different_music",
+                "requirement1": 25,
+                "requirement2": 1,
+                "rewards": [
+                  {
+                    "id": 14046,
+                    "missionType": "panel_mission",
+                    "missionId": 9010107,
+                    "seq": 1,
+                    "resourceBoxId": 1767
+                  }
+                ]
+              }
+            ],
+            "rewards": [
+              {
+                "id": 14047,
+                "missionType": "panel_mission_complete",
+                "missionId": 90101,
+                "seq": 1,
+                "resourceBoxId": 1768
+              }
+            ]
+          }
+        ]
+      }
+    ]
   }
 ]
