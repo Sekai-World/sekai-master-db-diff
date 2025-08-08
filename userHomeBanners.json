@@ -1,18 +1,18 @@
 [
   {
-    "homeBannerId": 1349,
-    "seq": 110,
+    "homeBannerId": 1342,
+    "seq": 45,
     "homeBannerType": "general",
-    "name": "[ガチャ]ビビバス箱イベ_ガチャバナー",
-    "assetbundleName": "banner_gacha778",
-    "transitionDestinationType": "gacha",
-    "transitionDestinationId": 778,
-    "startAt": 1753930800000,
-    "endAt": 1754622000000
+    "name": "公式ストア",
+    "assetbundleName": "banner_official_store",
+    "transitionDestinationType": "web",
+    "startAt": 1753237800000,
+    "endAt": 4102412399000,
+    "url": "https:\/\/pjsekai.sega.jp\/index.html?from=official_store_banner"
   },
   {
-    "homeBannerId": 1351,
-    "seq": 100,
+    "homeBannerId": 1352,
+    "seq": 170,
     "homeBannerType": "event",
     "name": "[イベント]ビビバス箱イベ_イベントバナー",
     "assetbundleName": "event_competitive_2025",
@@ -22,8 +22,8 @@
     "endAt": 1754650800000
   },
   {
-    "homeBannerId": 1354,
-    "seq": 130,
+    "homeBannerId": 1355,
+    "seq": 190,
     "homeBannerType": "general",
     "name": "[MORE MORE JUMP！]ワールドリンクイベントサポートガチャ",
     "assetbundleName": "banner_gacha779",
@@ -42,5 +42,16 @@
     "transitionDestinationId": 781,
     "startAt": 1754276400000,
     "endAt": 1755097199000
+  },
+  {
+    "homeBannerId": 1357,
+    "seq": 110,
+    "homeBannerType": "general",
+    "name": "[ガチャ]モモジャンWL2イベ_定常ガチャバナー",
+    "assetbundleName": "banner_gacha782",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 782,
+    "startAt": 1754622000000,
+    "endAt": 1755831599000
   }
 ]
