@@ -644,34 +644,6 @@
     "bannerAssetbundleName": "banner_news_rankmatch013_season-2025-summer"
   },
   {
-    "id": 5057,
-    "seq": 1,
-    "displayOrder": 73450,
-    "informationType": "normal",
-    "informationTag": "gacha",
-    "browseType": "internal",
-    "platform": "all",
-    "title": "「[復刻]新春・咲き誇る魅惑の華ガチャ」開催！",
-    "path": "information\/index.html?id=info_gacha765_held",
-    "startAt": 1752375600000,
-    "endAt": 1755745200000,
-    "bannerAssetbundleName": "banner_news_gacha765"
-  },
-  {
-    "id": 5058,
-    "seq": 1,
-    "displayOrder": 73460,
-    "informationType": "normal",
-    "informationTag": "gacha",
-    "browseType": "internal",
-    "platform": "all",
-    "title": "「[復刻]The Party Of Blast!!ガチャ」開催！",
-    "path": "information\/index.html?id=info_gacha764_held",
-    "startAt": 1752375600000,
-    "endAt": 1755745200000,
-    "bannerAssetbundleName": "banner_news_gacha764"
-  },
-  {
     "id": 5060,
     "seq": 1,
     "displayOrder": 27430,
@@ -681,7 +653,8 @@
     "platform": "all",
     "title": "7月7日緊急メンテナンスの実施について",
     "path": "information\/index.html?id=bug_maintenance-event_20250707",
-    "startAt": 1751875200000
+    "startAt": 1751875200000,
+    "endAt": 1755829800000
   },
   {
     "id": 5066,
@@ -1057,19 +1030,6 @@
     "endAt": 1755802800000
   },
   {
-    "id": 5167,
-    "seq": 1,
-    "displayOrder": 74360,
-    "informationType": "normal",
-    "informationTag": "music",
-    "browseType": "internal",
-    "platform": "all",
-    "title": "楽曲「リリィララ」追加！",
-    "path": "information\/index.html?id=info_music_20250818",
-    "startAt": 1755496800000,
-    "endAt": 1755716400000
-  },
-  {
     "id": 5168,
     "seq": 1,
     "displayOrder": 27570,
@@ -1106,7 +1066,7 @@
     "title": "「プロジェクトセカイChampionship 2025 in プロセカ感謝祭 powered by ヴァイスシュヴァルツ」 オンライン一次予選の結果について",
     "path": "information\/index.html?id=info_CS-2025-thanks_1st-round_result",
     "startAt": 1755658800000,
-    "endAt": 1756090800000,
+    "endAt": 1755831600000,
     "bannerAssetbundleName": "content_banner_CS2025-thanksfes"
   },
   {
@@ -1121,6 +1081,99 @@
     "path": "information\/index.html?id=info_event177_notice",
     "startAt": 1755756000000,
     "endAt": 1755842400000,
+    "bannerAssetbundleName": "banner_news_event177"
+  },
+  {
+    "id": 5172,
+    "seq": 1,
+    "displayOrder": 74410,
+    "informationType": "normal",
+    "informationTag": "information",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "8月22日11時30分ごろに追加したコンテンツのご案内",
+    "path": "information\/index.html?id=info_add_contents_20250822",
+    "startAt": 1755829800000,
+    "endAt": 1756407600000
+  },
+  {
+    "id": 5173,
+    "seq": 1,
+    "displayOrder": 27580,
+    "informationType": "bug",
+    "informationTag": "bug",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "8月22日11時30分ごろに修正した不具合について",
+    "path": "information\/index.html?id=bug_fix_something_20250822",
+    "startAt": 1755829800000,
+    "endAt": 1756407600000
+  },
+  {
+    "id": 5174,
+    "seq": 1,
+    "displayOrder": 74420,
+    "informationType": "normal",
+    "informationTag": "information",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "8月22日11時30分ごろに追加した[マイセカイ]新規家具のご案内",
+    "path": "information\/index.html?id=info_housing_20250822",
+    "startAt": 1755829800000,
+    "endAt": 1756407600000
+  },
+  {
+    "id": 5175,
+    "seq": 1,
+    "displayOrder": 74440,
+    "informationType": "normal",
+    "informationTag": "gacha",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "「キミに咲うfuzzy daisyガチャ」開催！",
+    "path": "information\/index.html?id=info_gacha789_held",
+    "startAt": 1755831600000,
+    "endAt": 1759114800000,
+    "bannerAssetbundleName": "banner_news_gacha789"
+  },
+  {
+    "id": 5176,
+    "seq": 1,
+    "displayOrder": 74430,
+    "informationType": "normal",
+    "informationTag": "information",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "「プロジェクトセカイChampionship 2025 in プロセカ感謝祭 powered by ヴァイスシュヴァルツ」 オンライン二次予選開催！",
+    "path": "information\/index.html?id=info_CS-2025-thanks_2nd-round_start",
+    "startAt": 1755831600000,
+    "bannerAssetbundleName": "content_banner_CS2025-thanksfes"
+  },
+  {
+    "id": 5177,
+    "seq": 1,
+    "displayOrder": 74450,
+    "informationType": "normal",
+    "informationTag": "music",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "楽曲「SAN値直葬」追加！",
+    "path": "information\/index.html?id=info_music_20250822",
+    "startAt": 1755842400000,
+    "endAt": 1756062000000
+  },
+  {
+    "id": 5178,
+    "seq": 1,
+    "displayOrder": 74460,
+    "informationType": "normal",
+    "informationTag": "event",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "イベント「ほどけぬ明日に手を伸ばして」開催！",
+    "path": "information\/index.html?id=info_event177_held",
+    "startAt": 1755842400000,
+    "endAt": 1756987200000,
     "bannerAssetbundleName": "banner_news_event177"
   },
   {
