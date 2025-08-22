@@ -19223,6 +19223,47 @@
     "assetbundleName": "ext0002"
   },
   {
+    "id": 528,
+    "mysekaiFixtureType": "normal",
+    "name": "キッチンシェルフ",
+    "pronunciation": "きっちんしぇるふ",
+    "flavorText": "キッチンシェルフ",
+    "seq": 30002014,
+    "gridSize": {
+      "width": 4,
+      "depth": 2,
+      "height": 2
+    },
+    "colorCode": "#FFC2C2",
+    "mysekaiFixtureMainGenreId": 2,
+    "mysekaiFixtureSubGenreId": 5,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "any",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "put_base",
+    "mysekaiFixtureAnotherColors": [
+      {
+        "textureId": 2,
+        "colorCode": "#B2CCFF"
+      },
+      {
+        "textureId": 3,
+        "colorCode": "#FFF6A6"
+      }
+    ],
+    "mysekaiFixturePutSoundId": 4,
+    "mysekaiFixtureTagGroup": {
+      "id": 528,
+      "mysekaiFixtureTagId1": 10528,
+      "mysekaiFixtureTagId2": 36
+    },
+    "isAssembled": true,
+    "isDisassembled": true,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_ext0002_fixture_shelf1"
+  },
+  {
     "id": 529,
     "mysekaiFixtureType": "normal",
     "name": "キッチン吊戸棚",
@@ -28453,6 +28494,550 @@
     "mysekaiFixturePlayerActionType": "no_action",
     "isGameCharacterAction": false,
     "assetbundleName": "mdl_clb1103_fixture_morgana1"
+  },
+  {
+    "id": 802,
+    "mysekaiFixtureType": "normal",
+    "name": "ベンジャミン",
+    "pronunciation": "べんじゃみん",
+    "flavorText": "ベンジャミン",
+    "seq": 30018007,
+    "gridSize": {
+      "width": 2,
+      "depth": 2,
+      "height": 3
+    },
+    "mysekaiFixtureMainGenreId": 2,
+    "mysekaiFixtureSubGenreId": 7,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "any",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "none",
+    "mysekaiFixtureAnotherColors": [],
+    "mysekaiFixturePutSoundId": 6,
+    "mysekaiFixtureTagGroup": {
+      "id": 802,
+      "mysekaiFixtureTagId1": 10804,
+      "mysekaiFixtureTagId2": 71
+    },
+    "isAssembled": true,
+    "isDisassembled": true,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_ext0018_fixture_benjamin1"
+  },
+  {
+    "id": 803,
+    "mysekaiFixtureType": "normal",
+    "name": "ゴールドクレスト",
+    "pronunciation": "ごーるどくれすと",
+    "flavorText": "ゴールドクレスト",
+    "seq": 30018008,
+    "gridSize": {
+      "width": 2,
+      "depth": 2,
+      "height": 3
+    },
+    "mysekaiFixtureMainGenreId": 2,
+    "mysekaiFixtureSubGenreId": 7,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "any",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "none",
+    "mysekaiFixtureAnotherColors": [],
+    "mysekaiFixturePutSoundId": 6,
+    "mysekaiFixtureTagGroup": {
+      "id": 803,
+      "mysekaiFixtureTagId1": 10805,
+      "mysekaiFixtureTagId2": 71
+    },
+    "isAssembled": true,
+    "isDisassembled": true,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_ext0018_fixture_goldcrest1"
+  },
+  {
+    "id": 804,
+    "mysekaiFixtureType": "normal",
+    "name": "ベゴニア",
+    "pronunciation": "べごにあ",
+    "flavorText": "ベゴニア",
+    "seq": 30018009,
+    "gridSize": {
+      "width": 1,
+      "depth": 1,
+      "height": 1
+    },
+    "mysekaiFixtureMainGenreId": 3,
+    "mysekaiFixtureSubGenreId": 13,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "any",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "put_target",
+    "mysekaiFixtureAnotherColors": [],
+    "mysekaiFixturePutSoundId": 5,
+    "mysekaiFixtureTagGroup": {
+      "id": 804,
+      "mysekaiFixtureTagId1": 10806,
+      "mysekaiFixtureTagId2": 71
+    },
+    "isAssembled": true,
+    "isDisassembled": true,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_ext0018_fixture_begonia1"
+  },
+  {
+    "id": 805,
+    "mysekaiFixtureType": "normal",
+    "name": "にっこりたい焼き屋さんのキッチンカー",
+    "pronunciation": "にっこりたいやきやさんのきっちんかー",
+    "flavorText": "にっこりたい焼き屋さんのキッチンカー",
+    "seq": 70003001,
+    "gridSize": {
+      "width": 8,
+      "depth": 9,
+      "height": 7
+    },
+    "colorCode": "#A5EFEA",
+    "mysekaiFixtureMainGenreId": 2,
+    "mysekaiFixtureSubGenreId": 9,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "any",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "none",
+    "mysekaiFixtureAnotherColors": [
+      {
+        "textureId": 2,
+        "colorCode": "#E4C9FF"
+      },
+      {
+        "textureId": 3,
+        "colorCode": "#CA2828"
+      }
+    ],
+    "mysekaiFixturePutSoundId": 4,
+    "mysekaiFixtureTagGroup": {
+      "id": 805,
+      "mysekaiFixtureTagId1": 10807,
+      "mysekaiFixtureTagId2": 85
+    },
+    "isAssembled": true,
+    "isDisassembled": true,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": true,
+    "assetbundleName": "mdl_con0003_fixture_kitchencar1"
+  },
+  {
+    "id": 806,
+    "mysekaiFixtureType": "normal",
+    "name": "にっこりたい焼き屋さんのメニュー看板",
+    "pronunciation": "にっこりたいやきやさんのめにゅーかんばん",
+    "flavorText": "にっこりたい焼き屋さんのメニュー看板",
+    "seq": 70003002,
+    "gridSize": {
+      "width": 2,
+      "depth": 2,
+      "height": 3
+    },
+    "colorCode": "#E6CEAA",
+    "mysekaiFixtureMainGenreId": 2,
+    "mysekaiFixtureSubGenreId": 9,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "any",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "none",
+    "mysekaiFixtureAnotherColors": [
+      {
+        "textureId": 2,
+        "colorCode": "#FFD0F2"
+      },
+      {
+        "textureId": 3,
+        "colorCode": "#8D8C96"
+      }
+    ],
+    "mysekaiFixturePutSoundId": 2,
+    "mysekaiFixtureTagGroup": {
+      "id": 806,
+      "mysekaiFixtureTagId1": 10808,
+      "mysekaiFixtureTagId2": 85
+    },
+    "isAssembled": true,
+    "isDisassembled": true,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_con0003_fixture_menusign1"
+  },
+  {
+    "id": 807,
+    "mysekaiFixtureType": "normal",
+    "name": "にっこりたい焼き屋さんのダストボックス",
+    "pronunciation": "にっこりたいやきやさんのだすとぼっくす",
+    "flavorText": "にっこりたい焼き屋さんのダストボックス",
+    "seq": 70003003,
+    "gridSize": {
+      "width": 2,
+      "depth": 2,
+      "height": 3
+    },
+    "colorCode": "#A5EFEA",
+    "mysekaiFixtureMainGenreId": 2,
+    "mysekaiFixtureSubGenreId": 9,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "any",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "none",
+    "mysekaiFixtureAnotherColors": [
+      {
+        "textureId": 2,
+        "colorCode": "#E4C9FF"
+      },
+      {
+        "textureId": 3,
+        "colorCode": "#CA2828"
+      }
+    ],
+    "mysekaiFixturePutSoundId": 2,
+    "mysekaiFixtureTagGroup": {
+      "id": 807,
+      "mysekaiFixtureTagId1": 10809,
+      "mysekaiFixtureTagId2": 85
+    },
+    "isAssembled": true,
+    "isDisassembled": true,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_con0003_fixture_dustbox1"
+  },
+  {
+    "id": 808,
+    "mysekaiFixtureType": "normal",
+    "name": "にっこりたい焼き屋さんのガーランド",
+    "pronunciation": "にっこりたいやきやさんのがーらんど",
+    "flavorText": "にっこりたい焼き屋さんのガーランド",
+    "seq": 70003004,
+    "gridSize": {
+      "width": 8,
+      "depth": 1,
+      "height": 8
+    },
+    "colorCode": "#F9F9FE",
+    "mysekaiFixtureMainGenreId": 2,
+    "mysekaiFixtureSubGenreId": 9,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "any",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "none",
+    "mysekaiFixtureAnotherColors": [
+      {
+        "textureId": 2,
+        "colorCode": "#FFD0F2"
+      },
+      {
+        "textureId": 3,
+        "colorCode": "#D0D0D9"
+      }
+    ],
+    "mysekaiFixturePutSoundId": 2,
+    "mysekaiFixtureTagGroup": {
+      "id": 808,
+      "mysekaiFixtureTagId1": 10810,
+      "mysekaiFixtureTagId2": 85
+    },
+    "isAssembled": true,
+    "isDisassembled": true,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_con0003_fixture_garland1"
+  },
+  {
+    "id": 809,
+    "mysekaiFixtureType": "normal",
+    "name": "にっこりたい焼き屋さんのたい焼き",
+    "pronunciation": "にっこりたいやきやさんのたいやき",
+    "flavorText": "にっこりたい焼き屋さんのたい焼き",
+    "seq": 70003005,
+    "gridSize": {
+      "width": 1,
+      "depth": 1,
+      "height": 1
+    },
+    "colorCode": "#E0B16A",
+    "mysekaiFixtureMainGenreId": 3,
+    "mysekaiFixtureSubGenreId": 13,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "any",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "put_target",
+    "mysekaiFixtureAnotherColors": [
+      {
+        "textureId": 2,
+        "colorCode": "#F9F7F1"
+      },
+      {
+        "textureId": 3,
+        "colorCode": "#6A450E"
+      }
+    ],
+    "mysekaiFixturePutSoundId": 7,
+    "mysekaiFixtureTagGroup": {
+      "id": 809,
+      "mysekaiFixtureTagId1": 10811,
+      "mysekaiFixtureTagId2": 85
+    },
+    "isAssembled": true,
+    "isDisassembled": true,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_con0003_fixture_taiyaki1"
+  },
+  {
+    "id": 810,
+    "mysekaiFixtureType": "surface_appearance",
+    "name": "もこもこおさんぽの壁",
+    "pronunciation": "もこもこおさんぽのかべ",
+    "flavorText": "もこもこおさんぽの壁",
+    "seq": 70004001,
+    "gridSize": {
+      "width": 0,
+      "depth": 0,
+      "height": 0
+    },
+    "colorCode": "#EFCF90",
+    "mysekaiFixtureMainGenreId": 7,
+    "mysekaiFixtureSubGenreId": 19,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "room",
+    "mysekaiSettableLayoutType": "wall_appearance",
+    "mysekaiFixturePutType": "none",
+    "mysekaiFixtureAnotherColors": [
+      {
+        "textureId": 2,
+        "colorCode": "#E2B9D7"
+      },
+      {
+        "textureId": 3,
+        "colorCode": "#B9D4E3"
+      }
+    ],
+    "mysekaiFixturePutSoundId": 15,
+    "mysekaiFixtureTagGroup": {
+      "id": 810,
+      "mysekaiFixtureTagId1": 10812,
+      "mysekaiFixtureTagId2": 86
+    },
+    "isAssembled": true,
+    "isDisassembled": true,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "con0004"
+  },
+  {
+    "id": 811,
+    "mysekaiFixtureType": "surface_appearance",
+    "name": "もこもこおさんぽの床",
+    "pronunciation": "もこもこおさんぽのゆか",
+    "flavorText": "もこもこおさんぽの床",
+    "seq": 70004002,
+    "gridSize": {
+      "width": 0,
+      "depth": 0,
+      "height": 0
+    },
+    "colorCode": "#EFCF90",
+    "mysekaiFixtureMainGenreId": 8,
+    "mysekaiFixtureSubGenreId": 20,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "room",
+    "mysekaiSettableLayoutType": "floor_appearance",
+    "mysekaiFixturePutType": "none",
+    "mysekaiFixtureAnotherColors": [
+      {
+        "textureId": 2,
+        "colorCode": "#E2B9D7"
+      },
+      {
+        "textureId": 3,
+        "colorCode": "#B9D4E3"
+      }
+    ],
+    "mysekaiFixturePutSoundId": 15,
+    "mysekaiFixtureTagGroup": {
+      "id": 811,
+      "mysekaiFixtureTagId1": 10813,
+      "mysekaiFixtureTagId2": 86
+    },
+    "isAssembled": true,
+    "isDisassembled": true,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "con0004"
+  },
+  {
+    "id": 812,
+    "mysekaiFixtureType": "normal",
+    "name": "もこもこおさんぽのウォールシェルフ",
+    "pronunciation": "もこもこおさんぽのうぉーるしぇるふ",
+    "flavorText": "もこもこおさんぽのウォールシェルフ",
+    "seq": 70004003,
+    "gridSize": {
+      "width": 2,
+      "depth": 1,
+      "height": 2
+    },
+    "colorCode": "#EFCF90",
+    "mysekaiFixtureMainGenreId": 4,
+    "mysekaiFixtureSubGenreId": 14,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "room",
+    "mysekaiSettableLayoutType": "wall",
+    "mysekaiFixturePutType": "none",
+    "mysekaiFixtureAnotherColors": [
+      {
+        "textureId": 2,
+        "colorCode": "#E2B9D7"
+      },
+      {
+        "textureId": 3,
+        "colorCode": "#B9D4E3"
+      }
+    ],
+    "mysekaiFixturePutSoundId": 1,
+    "mysekaiFixtureTagGroup": {
+      "id": 812,
+      "mysekaiFixtureTagId1": 10814,
+      "mysekaiFixtureTagId2": 86
+    },
+    "isAssembled": true,
+    "isDisassembled": true,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_con0004_fixture_wallshelf1"
+  },
+  {
+    "id": 813,
+    "mysekaiFixtureType": "normal",
+    "name": "もこもこおさんぽのベッド",
+    "pronunciation": "もこもこおさんぽのべっど",
+    "flavorText": "もこもこおさんぽのベッド",
+    "seq": 70004004,
+    "gridSize": {
+      "width": 4,
+      "depth": 5,
+      "height": 3
+    },
+    "colorCode": "#EFCF90",
+    "mysekaiFixtureMainGenreId": 2,
+    "mysekaiFixtureSubGenreId": 2,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "any",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "none",
+    "mysekaiFixtureAnotherColors": [
+      {
+        "textureId": 2,
+        "colorCode": "#E2B9D7"
+      },
+      {
+        "textureId": 3,
+        "colorCode": "#B9D4E3"
+      }
+    ],
+    "mysekaiFixturePutSoundId": 2,
+    "mysekaiFixtureTagGroup": {
+      "id": 813,
+      "mysekaiFixtureTagId1": 10815,
+      "mysekaiFixtureTagId2": 86
+    },
+    "isAssembled": true,
+    "isDisassembled": true,
+    "mysekaiFixturePlayerActionType": "timeline",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_con0004_fixture_bed1"
+  },
+  {
+    "id": 814,
+    "mysekaiFixtureType": "normal",
+    "name": "もこもこおさんぽのソファ",
+    "pronunciation": "もこもこおさんぽのそふぁ",
+    "flavorText": "もこもこおさんぽのソファ",
+    "seq": 70004005,
+    "gridSize": {
+      "width": 4,
+      "depth": 3,
+      "height": 3
+    },
+    "colorCode": "#EFCF90",
+    "mysekaiFixtureMainGenreId": 2,
+    "mysekaiFixtureSubGenreId": 4,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "any",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "none",
+    "mysekaiFixtureAnotherColors": [
+      {
+        "textureId": 2,
+        "colorCode": "#E2B9D7"
+      },
+      {
+        "textureId": 3,
+        "colorCode": "#B9D4E3"
+      }
+    ],
+    "mysekaiFixturePutSoundId": 2,
+    "mysekaiFixtureTagGroup": {
+      "id": 814,
+      "mysekaiFixtureTagId1": 10816,
+      "mysekaiFixtureTagId2": 86
+    },
+    "isAssembled": true,
+    "isDisassembled": true,
+    "mysekaiFixturePlayerActionType": "timeline",
+    "isGameCharacterAction": true,
+    "assetbundleName": "mdl_con0004_fixture_sofa1"
+  },
+  {
+    "id": 815,
+    "mysekaiFixtureType": "normal",
+    "name": "クリーンパウダールームの窓",
+    "pronunciation": "くりーんぱうだーるーむのまど",
+    "flavorText": "クリーンパウダールームの窓",
+    "seq": 30003010,
+    "gridSize": {
+      "width": 2,
+      "depth": 1,
+      "height": 3
+    },
+    "colorCode": "#A5EFEA",
+    "mysekaiFixtureMainGenreId": 4,
+    "mysekaiFixtureSubGenreId": 14,
+    "mysekaiFixtureHandleType": "windowpane",
+    "mysekaiSettableSiteType": "room",
+    "mysekaiSettableLayoutType": "wall",
+    "mysekaiFixturePutType": "none",
+    "mysekaiFixtureAnotherColors": [
+      {
+        "textureId": 2,
+        "colorCode": "#E6CEAA"
+      },
+      {
+        "textureId": 3,
+        "colorCode": "#B2CCFF"
+      }
+    ],
+    "mysekaiFixturePutSoundId": 17,
+    "mysekaiFixtureTagGroup": {
+      "id": 815,
+      "mysekaiFixtureTagId1": 10817,
+      "mysekaiFixtureTagId2": 37
+    },
+    "isAssembled": true,
+    "isDisassembled": true,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_ext0003_window_window1"
   },
   {
     "id": 900002,
