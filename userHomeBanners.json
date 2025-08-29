@@ -11,8 +11,8 @@
     "url": "https:\/\/pjsekai.sega.jp\/index.html?from=official_store_banner"
   },
   {
-    "homeBannerId": 1366,
-    "seq": 110,
+    "homeBannerId": 1367,
+    "seq": 180,
     "homeBannerType": "general",
     "name": "[ガチャ]ニーゴ箱イベ_ガチャバナー",
     "assetbundleName": "banner_gacha789",
@@ -22,8 +22,8 @@
     "endAt": 1756522799000
   },
   {
-    "homeBannerId": 1368,
-    "seq": 100,
+    "homeBannerId": 1369,
+    "seq": 170,
     "homeBannerType": "event",
     "name": "[イベント]ニーゴ箱イベ_イベントバナー",
     "assetbundleName": "event_tomorrow_2025",
@@ -33,14 +33,35 @@
     "endAt": 1756533599000
   },
   {
-    "homeBannerId": 1372,
+    "homeBannerId": 1373,
+    "seq": 50,
+    "homeBannerType": "general",
+    "name": "[マジカルミライ2025]プレミアムプレゼントガチャ",
+    "assetbundleName": "banner_gacha794",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 794,
+    "startAt": 1756436400000,
+    "endAt": 1756954799000
+  },
+  {
+    "homeBannerId": 1374,
     "seq": 130,
     "homeBannerType": "general",
-    "name": "[暁山瑞希]HAPPY BIRTHDAY2025ガチャ",
-    "assetbundleName": "banner_gacha790",
-    "transitionDestinationType": "gacha",
-    "transitionDestinationId": 790,
-    "startAt": 1756220400000,
-    "endAt": 1756306799000
+    "name": "[初音ミク]HAPPY ANNIVERSARYライブ",
+    "assetbundleName": "banner_virtuallive396",
+    "transitionDestinationType": "virtual_live",
+    "transitionDestinationId": 396,
+    "startAt": 1756447200000,
+    "endAt": 1756565999000
+  },
+  {
+    "homeBannerId": 1376,
+    "seq": 160,
+    "homeBannerType": "general",
+    "name": "マジカルミライ2024衣装再販",
+    "assetbundleName": "banner_shop_magicalmirai_costume_2024",
+    "transitionDestinationType": "billing_shop_for_jewel",
+    "startAt": 1756436400000,
+    "endAt": 1756954799000
   }
 ]
