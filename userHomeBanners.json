@@ -11,28 +11,6 @@
     "url": "https:\/\/pjsekai.sega.jp\/index.html?from=official_store_banner"
   },
   {
-    "homeBannerId": 1367,
-    "seq": 180,
-    "homeBannerType": "general",
-    "name": "[ガチャ]ニーゴ箱イベ_ガチャバナー",
-    "assetbundleName": "banner_gacha789",
-    "transitionDestinationType": "gacha",
-    "transitionDestinationId": 789,
-    "startAt": 1755831600000,
-    "endAt": 1756522799000
-  },
-  {
-    "homeBannerId": 1369,
-    "seq": 170,
-    "homeBannerType": "event",
-    "name": "[イベント]ニーゴ箱イベ_イベントバナー",
-    "assetbundleName": "event_tomorrow_2025",
-    "transitionDestinationType": "event",
-    "transitionDestinationId": 177,
-    "startAt": 1755842400000,
-    "endAt": 1756533599000
-  },
-  {
     "homeBannerId": 1373,
     "seq": 50,
     "homeBannerType": "general",
@@ -44,17 +22,6 @@
     "endAt": 1756954799000
   },
   {
-    "homeBannerId": 1374,
-    "seq": 130,
-    "homeBannerType": "general",
-    "name": "[初音ミク]HAPPY ANNIVERSARYライブ",
-    "assetbundleName": "banner_virtuallive396",
-    "transitionDestinationType": "virtual_live",
-    "transitionDestinationId": 396,
-    "startAt": 1756447200000,
-    "endAt": 1756565999000
-  },
-  {
     "homeBannerId": 1376,
     "seq": 160,
     "homeBannerType": "general",
@@ -62,6 +29,50 @@
     "assetbundleName": "banner_shop_magicalmirai_costume_2024",
     "transitionDestinationType": "billing_shop_for_jewel",
     "startAt": 1756436400000,
+    "endAt": 1756954799000
+  },
+  {
+    "homeBannerId": 1378,
+    "seq": 110,
+    "homeBannerType": "general",
+    "name": "[ガチャ]ワンダショ箱イベ_ガチャバナー",
+    "assetbundleName": "banner_gacha799",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 799,
+    "startAt": 1756522800000,
+    "endAt": 1757127599000
+  },
+  {
+    "homeBannerId": 1380,
+    "seq": 100,
+    "homeBannerType": "event",
+    "name": "[イベント]ワンダショ箱イベ_イベントバナー",
+    "assetbundleName": "event_forlight_2025",
+    "transitionDestinationType": "event",
+    "transitionDestinationId": 178,
+    "startAt": 1756533600000,
+    "endAt": 1757156399000
+  },
+  {
+    "homeBannerId": 1383,
+    "seq": 130,
+    "homeBannerType": "general",
+    "name": "[バーチャル・シンガー]ワールドリンクイベントサポートガチャ",
+    "assetbundleName": "banner_gacha800",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 800,
+    "startAt": 1756522800000,
+    "endAt": 1758337200000
+  },
+  {
+    "homeBannerId": 1385,
+    "seq": 10,
+    "homeBannerType": "general",
+    "name": "リコレクションフェスティバルガチャ",
+    "assetbundleName": "banner_gacha801",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 801,
+    "startAt": 1756609200000,
     "endAt": 1756954799000
   }
 ]
