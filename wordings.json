@@ -412,6 +412,10 @@
     "value": "サブユニットが設定されているメンバーには、\nパフォーマンスが高くなるユニットの\nエリアアイテム効果が自動的に適用されます。\n\n複数ユニットのエリアアイテム効果が\n適用されることはありません。"
   },
   {
+    "wordingKey": "MSG_AREA_RELEASED_WITH_THUMBNAIL",
+    "value": "新しいセカイが現れました。"
+  },
+  {
     "wordingKey": "MSG_AROUND_MB",
     "value": "およそ{0}MB"
   },
@@ -1364,6 +1368,10 @@
     "value": "{0}で交換"
   },
   {
+    "wordingKey": "MSG_EXCHANGE_MEANS_FORMAT",
+    "value": "{0}で交換"
+  },
+  {
     "wordingKey": "MSG_EXCHANGE_OUT_OF_DATE",
     "value": "期限が過ぎたため、交換できませんでした。"
   },
@@ -1422,6 +1430,10 @@
   {
     "wordingKey": "MSG_FEEDBACK_THANKS",
     "value": "貴重なご意見をありがとうございました。\n引き続き『プロジェクトセカイ』をよろしくお願いいたします。"
+  },
+  {
+    "wordingKey": "MSG_FINALE_SUPPORT_DECK_RESET",
+    "value": "サポートユニットをリセットします。\nよろしいですか？"
   },
   {
     "wordingKey": "MSG_FINAL_CHARA_TICKET_CONFIRM",
@@ -2010,6 +2022,10 @@
   {
     "wordingKey": "MSG_MATERIAL_EXCHANGE_CONFIRM_BY_GACHA_CIEL",
     "value": "{0}を<color=#FF5599>{1}<\/color>枚消費して \nアイテムと交換しますか？"
+  },
+  {
+    "wordingKey": "MSG_MATERIAL_EXCHANGE_COST_SELECT_DIALOG",
+    "value": "交換に使用するアイテムを1種類選択してください。"
   },
   {
     "wordingKey": "MSG_MATERIAL_POSSESSION",
@@ -2902,6 +2918,10 @@
   {
     "wordingKey": "MSG_PLACEMENT_MATCH_COUNT",
     "value": "スタートランクの決定まで\n残り<color=#FF5599>{0}<\/color>マッチ"
+  },
+  {
+    "wordingKey": "MSG_PLAYER_FRAME_NONE",
+    "value": "フレームがありません。"
   },
   {
     "wordingKey": "MSG_PLAYER_KICKOUT_AND_BLOCK_RESULT",
@@ -4024,6 +4044,10 @@
     "value": "イベント総合ランキング<color=#ff5588>{0}位<\/color>以内に到達しました。\n\nイベントの公平性を保つため、\n総合ランキング<color=#ff5588>{1}位<\/color>以内に到達したプレイヤーは、\n該当イベント期間中、データ引き継ぎ回数が制限されます。\n\n制限期間：イベント終了（{2}）まで\n制限回数：あと{3}回\n<color=#ff3366>※制限回数はチャプターごとのランキングと共有されます。<\/color>\n\nご理解のほどよろしくお願いいたします。"
   },
   {
+    "wordingKey": "MSG_WORLD_BLOOM_LEADER_CHANGE",
+    "value": "リーダーキャラクターを変更すると、\n編成中のサポートユニットはリセットされます。\nよろしいですか？"
+  },
+  {
     "wordingKey": "MSG_WORLD_BLOOM_YOUR_TOTAL_EVENT_POINT",
     "value": "あなたの総合イベントP"
   },
@@ -4362,6 +4386,10 @@
   {
     "wordingKey": "WORD_ALL",
     "value": "すべて"
+  },
+  {
+    "wordingKey": "WORD_ALL_CHARACTER",
+    "value": "全キャラクター"
   },
   {
     "wordingKey": "WORD_ALL_PERFECT",
@@ -7148,6 +7176,10 @@
     "value": "開催期間 {0}まで"
   },
   {
+    "wordingKey": "WORD_GACHA_MYSEKAI_FIXTURE",
+    "value": "家具付き"
+  },
+  {
     "wordingKey": "WORD_GACHA_OMAKE_CHARA_TICKET_EXCHANGE_DIALOG",
     "value": "ボーナス\n付き"
   },
@@ -8957,7 +8989,7 @@
   },
   {
     "wordingKey": "WORD_MY_SEKAI_MATERIAL_GAME_CHARACTER",
-    "value": "七色の\nメモリア"
+    "value": "メモリア"
   },
   {
     "wordingKey": "WORD_NAME",
@@ -9550,6 +9582,14 @@
   {
     "wordingKey": "WORD_PLAYER_COMMENT",
     "value": "ひと言"
+  },
+  {
+    "wordingKey": "WORD_PLAYER_FRAME",
+    "value": "フレーム"
+  },
+  {
+    "wordingKey": "WORD_PLAYER_FRAME_LIST_PREVIEW",
+    "value": "リストプレビュー"
   },
   {
     "wordingKey": "WORD_PLAYER_ID",
@@ -12214,5 +12254,9 @@
   {
     "wordingKey": "WORD_YES",
     "value": "はい"
+  },
+  {
+    "wordingKey": "WORD_YOU",
+    "value": "あなた"
   }
 ]
