@@ -14608,7 +14608,7 @@
   {
     "id": 113,
     "eventId": 113,
-    "outline": "夢を叶えるため、４人で様々な劇団を巡ることとなったワンダーランズ×ショウタイム。訪れた老舗の劇団『春名座』で、司は３つの台詞しかない平凡な人間の役を『”現実に存在している”と思わせてほしい』と言われ——。",
+    "outline": "夢を叶えるため、４人で様々な劇団を巡ることとなったワンダーランズ×ショウタイム。訪れた老舗の劇団『春名座』で、司は３つの台詞しかない平凡な人間の役を『“現実に存在している”と思わせてほしい』と言われ——。",
     "bannerGameCharacterUnitId": 13,
     "assetbundleName": "event_supporting_2023",
     "eventStoryEpisodes": [
@@ -23534,6 +23534,252 @@
           {
             "storyType": "event_story",
             "resourceBoxId": 130
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 179,
+    "eventId": 179,
+    "outline": "それぞれのセカイで、成長した木の世話をしていたバーチャル・シンガー達。しかし、突如木から発生した光に包み込まれ消えてしまう。それをセカイの狭間から見ていたミク達は、彼らの行方を追ってセカイに行くことに——。",
+    "bannerGameCharacterUnitId": 21,
+    "assetbundleName": "event_wl_2nd_piapro_2025",
+    "eventStoryEpisodes": [
+      {
+        "id": 1001458,
+        "eventStoryId": 179,
+        "episodeNo": 1,
+        "title": "セカイの異変！？",
+        "assetbundleName": "event_wl_2nd_piapro_2025_01",
+        "scenarioId": "wl_piapro_02_01",
+        "releaseConditionId": 1,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001459,
+        "eventStoryId": 179,
+        "gameCharacterId": 23,
+        "episodeNo": 2,
+        "title": "星に見守られて",
+        "assetbundleName": "event_wl_2nd_piapro_2025_02",
+        "scenarioId": "wl_piapro_02_02",
+        "releaseConditionId": 1,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001460,
+        "eventStoryId": 179,
+        "gameCharacterId": 23,
+        "episodeNo": 3,
+        "title": "離れていても",
+        "assetbundleName": "event_wl_2nd_piapro_2025_03",
+        "scenarioId": "wl_piapro_02_03",
+        "releaseConditionId": 1,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001461,
+        "eventStoryId": 179,
+        "gameCharacterId": 21,
+        "episodeNo": 4,
+        "title": "どこまでも灰色な",
+        "assetbundleName": "event_wl_2nd_piapro_2025_04",
+        "scenarioId": "wl_piapro_02_04",
+        "releaseConditionId": 117802,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001462,
+        "eventStoryId": 179,
+        "gameCharacterId": 21,
+        "episodeNo": 5,
+        "title": "希望を届けるために",
+        "assetbundleName": "event_wl_2nd_piapro_2025_05",
+        "scenarioId": "wl_piapro_02_05",
+        "releaseConditionId": 117802,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001463,
+        "eventStoryId": 179,
+        "gameCharacterId": 24,
+        "episodeNo": 6,
+        "title": "花畑のステージで",
+        "assetbundleName": "event_wl_2nd_piapro_2025_06",
+        "scenarioId": "wl_piapro_02_06",
+        "releaseConditionId": 117803,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001464,
+        "eventStoryId": 179,
+        "gameCharacterId": 24,
+        "episodeNo": 7,
+        "title": "世界中へ！",
+        "assetbundleName": "event_wl_2nd_piapro_2025_07",
+        "scenarioId": "wl_piapro_02_07",
+        "releaseConditionId": 117803,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001465,
+        "eventStoryId": 179,
+        "gameCharacterId": 25,
+        "episodeNo": 8,
+        "title": "美味しい料理を召し上がれ♪",
+        "assetbundleName": "event_wl_2nd_piapro_2025_08",
+        "scenarioId": "wl_piapro_02_08",
+        "releaseConditionId": 117804,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001466,
+        "eventStoryId": 179,
+        "gameCharacterId": 25,
+        "episodeNo": 9,
+        "title": "新しい景色を",
+        "assetbundleName": "event_wl_2nd_piapro_2025_09",
+        "scenarioId": "wl_piapro_02_09",
+        "releaseConditionId": 117804,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001467,
+        "eventStoryId": 179,
+        "gameCharacterId": 26,
+        "episodeNo": 10,
+        "title": "不思議がたくさん！？",
+        "assetbundleName": "event_wl_2nd_piapro_2025_10",
+        "scenarioId": "wl_piapro_02_10",
+        "releaseConditionId": 117805,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001468,
+        "eventStoryId": 179,
+        "gameCharacterId": 26,
+        "episodeNo": 11,
+        "title": "音でつなげよう",
+        "assetbundleName": "event_wl_2nd_piapro_2025_11",
+        "scenarioId": "wl_piapro_02_11",
+        "releaseConditionId": 117805,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001469,
+        "eventStoryId": 179,
+        "gameCharacterId": 22,
+        "episodeNo": 12,
+        "title": "楽しいがたくさん！",
+        "assetbundleName": "event_wl_2nd_piapro_2025_12",
+        "scenarioId": "wl_piapro_02_12",
+        "releaseConditionId": 117806,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001470,
+        "eventStoryId": 179,
+        "gameCharacterId": 22,
+        "episodeNo": 13,
+        "title": "みんながひとつに",
+        "assetbundleName": "event_wl_2nd_piapro_2025_13",
+        "scenarioId": "wl_piapro_02_13",
+        "releaseConditionId": 117806,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001471,
+        "eventStoryId": 179,
+        "episodeNo": 14,
+        "title": "出会えた奇跡を胸に",
+        "assetbundleName": "event_wl_2nd_piapro_2025_14",
+        "scenarioId": "wl_piapro_02_14",
+        "releaseConditionId": 117807,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001472,
+        "eventStoryId": 179,
+        "episodeNo": 15,
+        "title": "これからもずっと",
+        "assetbundleName": "event_wl_2nd_piapro_2025_15",
+        "scenarioId": "wl_piapro_02_15",
+        "releaseConditionId": 117807,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 131
           }
         ]
       }
