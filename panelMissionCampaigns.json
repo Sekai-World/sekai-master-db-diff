@@ -22158,5 +22158,479 @@
         ]
       }
     ]
+  },
+  {
+    "id": 10,
+    "name": "[プロセカ×たまごっち]コラボ記念スタンプミッション",
+    "assetbundleName": "tamagotchi_collab_2025_pm",
+    "bgmAssetbundleName": "tamagotchi_collab_2025_pm_bgm",
+    "selectableLimit": 3,
+    "startAt": 1758250800000,
+    "progressEndAt": 1759071599000,
+    "closedAt": 1759071599000,
+    "distributionEndAt": 1759676399000,
+    "informationId": 5260,
+    "panelMissionSelectionType": "auto",
+    "panelMissionSheetGroups": [
+      {
+        "id": 1001,
+        "panelMissionCampaignId": 10,
+        "name": "ログイン",
+        "selectableLimit": 1,
+        "seq": 1,
+        "panelMissionSheets": [
+          {
+            "id": 100101,
+            "panelMissionSheetGroupId": 1001,
+            "name": "ログインカード",
+            "seq": 1,
+            "assetbundleName": "sheet_tamagotchi_collab_login",
+            "panelMissions": [
+              {
+                "id": 10010101,
+                "panelMissionSheetId": 100101,
+                "name": "累計1日\nログイン",
+                "description": "累計1日ログインしよう。",
+                "seq": 1,
+                "panelMissionType": "login",
+                "requirement1": 1,
+                "rewards": [
+                  {
+                    "id": 14690,
+                    "missionType": "panel_mission",
+                    "missionId": 10010101,
+                    "seq": 1,
+                    "resourceBoxId": 1783
+                  }
+                ]
+              },
+              {
+                "id": 10010102,
+                "panelMissionSheetId": 100101,
+                "name": "累計2日\nログイン",
+                "description": "累計2日ログインしよう。",
+                "seq": 2,
+                "panelMissionType": "login",
+                "requirement1": 2,
+                "rewards": [
+                  {
+                    "id": 14691,
+                    "missionType": "panel_mission",
+                    "missionId": 10010102,
+                    "seq": 1,
+                    "resourceBoxId": 1783
+                  }
+                ]
+              },
+              {
+                "id": 10010103,
+                "panelMissionSheetId": 100101,
+                "name": "累計3日\nログイン",
+                "description": "累計3日ログインしよう。",
+                "seq": 3,
+                "panelMissionType": "login",
+                "requirement1": 3,
+                "rewards": [
+                  {
+                    "id": 14692,
+                    "missionType": "panel_mission",
+                    "missionId": 10010103,
+                    "seq": 1,
+                    "resourceBoxId": 1783
+                  }
+                ]
+              },
+              {
+                "id": 10010104,
+                "panelMissionSheetId": 100101,
+                "name": "累計4日\nログイン",
+                "description": "累計4日ログインしよう。",
+                "seq": 4,
+                "panelMissionType": "login",
+                "requirement1": 4,
+                "rewards": [
+                  {
+                    "id": 14693,
+                    "missionType": "panel_mission",
+                    "missionId": 10010104,
+                    "seq": 1,
+                    "resourceBoxId": 1783
+                  }
+                ]
+              },
+              {
+                "id": 10010105,
+                "panelMissionSheetId": 100101,
+                "name": "累計5日\nログイン",
+                "description": "累計5日ログインしよう。",
+                "seq": 5,
+                "panelMissionType": "login",
+                "requirement1": 5,
+                "rewards": [
+                  {
+                    "id": 14694,
+                    "missionType": "panel_mission",
+                    "missionId": 10010105,
+                    "seq": 1,
+                    "resourceBoxId": 1783
+                  }
+                ]
+              },
+              {
+                "id": 10010106,
+                "panelMissionSheetId": 100101,
+                "name": "累計6日\nログイン",
+                "description": "累計6日ログインしよう。",
+                "seq": 6,
+                "panelMissionType": "login",
+                "requirement1": 6,
+                "rewards": [
+                  {
+                    "id": 14695,
+                    "missionType": "panel_mission",
+                    "missionId": 10010106,
+                    "seq": 1,
+                    "resourceBoxId": 1783
+                  }
+                ]
+              },
+              {
+                "id": 10010107,
+                "panelMissionSheetId": 100101,
+                "name": "累計7日\nログイン",
+                "description": "累計7日ログインしよう。",
+                "seq": 7,
+                "panelMissionType": "login",
+                "requirement1": 7,
+                "rewards": [
+                  {
+                    "id": 14696,
+                    "missionType": "panel_mission",
+                    "missionId": 10010107,
+                    "seq": 1,
+                    "resourceBoxId": 1783
+                  }
+                ]
+              }
+            ],
+            "rewards": [
+              {
+                "id": 14697,
+                "missionType": "panel_mission_complete",
+                "missionId": 100101,
+                "seq": 1,
+                "resourceBoxId": 1785
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 1002,
+        "panelMissionCampaignId": 10,
+        "name": "ライブ",
+        "selectableLimit": 1,
+        "seq": 2,
+        "panelMissionSheets": [
+          {
+            "id": 100201,
+            "panelMissionSheetGroupId": 1002,
+            "name": "ライブカード",
+            "seq": 1,
+            "assetbundleName": "sheet_tamagotchi_collab_live",
+            "panelMissions": [
+              {
+                "id": 10020101,
+                "panelMissionSheetId": 100201,
+                "name": "累計1回\nライブをクリア",
+                "description": "累計1回ライブをクリアしよう。\n※オートライブでもカウントされます。",
+                "seq": 1,
+                "panelMissionType": "live_clear",
+                "requirement1": 1,
+                "rewards": [
+                  {
+                    "id": 14698,
+                    "missionType": "panel_mission",
+                    "missionId": 10020101,
+                    "seq": 1,
+                    "resourceBoxId": 1783
+                  }
+                ]
+              },
+              {
+                "id": 10020102,
+                "panelMissionSheetId": 100201,
+                "name": "累計3回\nライブをクリア",
+                "description": "累計3回ライブをクリアしよう。\n※オートライブでもカウントされます。",
+                "seq": 2,
+                "panelMissionType": "live_clear",
+                "requirement1": 3,
+                "rewards": [
+                  {
+                    "id": 14699,
+                    "missionType": "panel_mission",
+                    "missionId": 10020102,
+                    "seq": 1,
+                    "resourceBoxId": 1783
+                  }
+                ]
+              },
+              {
+                "id": 10020103,
+                "panelMissionSheetId": 100201,
+                "name": "累計5回\nライブをクリア",
+                "description": "累計5回ライブをクリアしよう。\n※オートライブでもカウントされます。",
+                "seq": 3,
+                "panelMissionType": "live_clear",
+                "requirement1": 5,
+                "rewards": [
+                  {
+                    "id": 14700,
+                    "missionType": "panel_mission",
+                    "missionId": 10020103,
+                    "seq": 1,
+                    "resourceBoxId": 1783
+                  }
+                ]
+              },
+              {
+                "id": 10020104,
+                "panelMissionSheetId": 100201,
+                "name": "累計10回\nライブをクリア",
+                "description": "累計10回ライブをクリアしよう。\n※オートライブでもカウントされます。",
+                "seq": 4,
+                "panelMissionType": "live_clear",
+                "requirement1": 10,
+                "rewards": [
+                  {
+                    "id": 14701,
+                    "missionType": "panel_mission",
+                    "missionId": 10020104,
+                    "seq": 1,
+                    "resourceBoxId": 1784
+                  }
+                ]
+              },
+              {
+                "id": 10020105,
+                "panelMissionSheetId": 100201,
+                "name": "累計15回\nライブをクリア",
+                "description": "累計15回ライブをクリアしよう。\n※オートライブでもカウントされます。",
+                "seq": 5,
+                "panelMissionType": "live_clear",
+                "requirement1": 15,
+                "rewards": [
+                  {
+                    "id": 14702,
+                    "missionType": "panel_mission",
+                    "missionId": 10020105,
+                    "seq": 1,
+                    "resourceBoxId": 1784
+                  }
+                ]
+              },
+              {
+                "id": 10020106,
+                "panelMissionSheetId": 100201,
+                "name": "累計20回\nライブをクリア",
+                "description": "累計20回ライブをクリアしよう。\n※オートライブでもカウントされます。",
+                "seq": 6,
+                "panelMissionType": "live_clear",
+                "requirement1": 20,
+                "rewards": [
+                  {
+                    "id": 14703,
+                    "missionType": "panel_mission",
+                    "missionId": 10020106,
+                    "seq": 1,
+                    "resourceBoxId": 1784
+                  }
+                ]
+              },
+              {
+                "id": 10020107,
+                "panelMissionSheetId": 100201,
+                "name": "累計30回\nライブをクリア",
+                "description": "累計30回ライブをクリアしよう。\n※オートライブでもカウントされます。",
+                "seq": 7,
+                "panelMissionType": "live_clear",
+                "requirement1": 30,
+                "rewards": [
+                  {
+                    "id": 14704,
+                    "missionType": "panel_mission",
+                    "missionId": 10020107,
+                    "seq": 1,
+                    "resourceBoxId": 1784
+                  }
+                ]
+              }
+            ],
+            "rewards": [
+              {
+                "id": 14705,
+                "missionType": "panel_mission_complete",
+                "missionId": 100201,
+                "seq": 1,
+                "resourceBoxId": 1786
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 1003,
+        "panelMissionCampaignId": 10,
+        "name": "マイセカイ",
+        "selectableLimit": 1,
+        "seq": 3,
+        "panelMissionSheets": [
+          {
+            "id": 100301,
+            "panelMissionSheetGroupId": 1003,
+            "name": "マイセカイカード",
+            "seq": 1,
+            "assetbundleName": "sheet_tamagotchi_collab_mysekai",
+            "panelMissions": [
+              {
+                "id": 10030101,
+                "panelMissionSheetId": 100301,
+                "name": "マイセカイで素材を\n10個採取",
+                "description": "マイセカイで素材を10個採取しよう。",
+                "seq": 1,
+                "panelMissionType": "mysekai_gather_any_mysekai_material",
+                "requirement1": 10,
+                "rewards": [
+                  {
+                    "id": 14706,
+                    "missionType": "panel_mission",
+                    "missionId": 10030101,
+                    "seq": 1,
+                    "resourceBoxId": 1783
+                  }
+                ]
+              },
+              {
+                "id": 10030102,
+                "panelMissionSheetId": 100301,
+                "name": "マイセカイで素材を\n50個採取",
+                "description": "マイセカイで素材を50個採取しよう。",
+                "seq": 2,
+                "panelMissionType": "mysekai_gather_any_mysekai_material",
+                "requirement1": 50,
+                "rewards": [
+                  {
+                    "id": 14707,
+                    "missionType": "panel_mission",
+                    "missionId": 10030102,
+                    "seq": 1,
+                    "resourceBoxId": 1783
+                  }
+                ]
+              },
+              {
+                "id": 10030103,
+                "panelMissionSheetId": 100301,
+                "name": "マイセカイで素材を\n100個採取",
+                "description": "マイセカイで素材を100個採取しよう。",
+                "seq": 3,
+                "panelMissionType": "mysekai_gather_any_mysekai_material",
+                "requirement1": 100,
+                "rewards": [
+                  {
+                    "id": 14708,
+                    "missionType": "panel_mission",
+                    "missionId": 10030103,
+                    "seq": 1,
+                    "resourceBoxId": 1784
+                  }
+                ]
+              },
+              {
+                "id": 10030104,
+                "panelMissionSheetId": 100301,
+                "name": "マイセカイで素材を\n300個採取",
+                "description": "マイセカイで素材を300個採取しよう。",
+                "seq": 4,
+                "panelMissionType": "mysekai_gather_any_mysekai_material",
+                "requirement1": 300,
+                "rewards": [
+                  {
+                    "id": 14709,
+                    "missionType": "panel_mission",
+                    "missionId": 10030104,
+                    "seq": 1,
+                    "resourceBoxId": 1784
+                  }
+                ]
+              },
+              {
+                "id": 10030105,
+                "panelMissionSheetId": 100301,
+                "name": "マイセカイで素材を\n500個採取",
+                "description": "マイセカイで素材を500個採取しよう。",
+                "seq": 5,
+                "panelMissionType": "mysekai_gather_any_mysekai_material",
+                "requirement1": 500,
+                "rewards": [
+                  {
+                    "id": 14710,
+                    "missionType": "panel_mission",
+                    "missionId": 10030105,
+                    "seq": 1,
+                    "resourceBoxId": 1784
+                  }
+                ]
+              },
+              {
+                "id": 10030106,
+                "panelMissionSheetId": 100301,
+                "name": "マイセカイで素材を\n700個採取",
+                "description": "マイセカイで素材を700個採取しよう。",
+                "seq": 6,
+                "panelMissionType": "mysekai_gather_any_mysekai_material",
+                "requirement1": 700,
+                "rewards": [
+                  {
+                    "id": 14711,
+                    "missionType": "panel_mission",
+                    "missionId": 10030106,
+                    "seq": 1,
+                    "resourceBoxId": 1784
+                  }
+                ]
+              },
+              {
+                "id": 10030107,
+                "panelMissionSheetId": 100301,
+                "name": "マイセカイで素材を\n1000個採取",
+                "description": "マイセカイで素材を1000個採取しよう。",
+                "seq": 7,
+                "panelMissionType": "mysekai_gather_any_mysekai_material",
+                "requirement1": 1000,
+                "rewards": [
+                  {
+                    "id": 14712,
+                    "missionType": "panel_mission",
+                    "missionId": 10030107,
+                    "seq": 1,
+                    "resourceBoxId": 1784
+                  }
+                ]
+              }
+            ],
+            "rewards": [
+              {
+                "id": 14713,
+                "missionType": "panel_mission_complete",
+                "missionId": 100301,
+                "seq": 1,
+                "resourceBoxId": 1787
+              }
+            ]
+          }
+        ]
+      }
+    ]
   }
 ]
