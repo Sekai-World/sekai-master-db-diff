@@ -90831,5 +90831,4870 @@
         ]
       }
     ]
+  },
+  {
+    "id": 180,
+    "eventType": "world_bloom",
+    "name": "Wishes in Bloom！",
+    "assetbundleName": "event_wl_2nd_finale_2025",
+    "bgmAssetbundleName": "event\/event_wl_2nd_finale_2025\/bgm\/event_wl_2nd_finale_2025_top",
+    "eventPointAssetbundleName": "icon_point",
+    "eventOnlyComponentDisplayStartAt": 1758348000000,
+    "standbyScreenDisplayStartAt": 1758348000000,
+    "startAt": 1758798000000,
+    "aggregateAt": 1759057199000,
+    "rankingAnnounceAt": 1759057799000,
+    "distributionStartAt": 1759111199000,
+    "eventOnlyComponentDisplayEndAt": 1759201199000,
+    "closedAt": 1759211999000,
+    "distributionEndAt": 1760367599000,
+    "unit": "none",
+    "isCountLeaderCharacterPlay": true,
+    "eventRankingRewardRanges": [
+      {
+        "id": 5445,
+        "eventId": 180,
+        "fromRank": 1,
+        "toRank": 1,
+        "isToRankBorder": false,
+        "eventRankingRewards": [
+          {
+            "id": 5445,
+            "eventRankingRewardRangeId": 5445,
+            "seq": 1,
+            "resourceBoxId": 5500,
+            "rewardConditionType": "none"
+          },
+          {
+            "id": 5446,
+            "eventRankingRewardRangeId": 5445,
+            "seq": 2,
+            "resourceBoxId": 5601,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 1
+          },
+          {
+            "id": 5447,
+            "eventRankingRewardRangeId": 5445,
+            "seq": 3,
+            "resourceBoxId": 5602,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 2
+          },
+          {
+            "id": 5448,
+            "eventRankingRewardRangeId": 5445,
+            "seq": 4,
+            "resourceBoxId": 5603,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 3
+          },
+          {
+            "id": 5449,
+            "eventRankingRewardRangeId": 5445,
+            "seq": 5,
+            "resourceBoxId": 5604,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 4
+          },
+          {
+            "id": 5450,
+            "eventRankingRewardRangeId": 5445,
+            "seq": 6,
+            "resourceBoxId": 5605,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 5
+          },
+          {
+            "id": 5451,
+            "eventRankingRewardRangeId": 5445,
+            "seq": 7,
+            "resourceBoxId": 5606,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 6
+          },
+          {
+            "id": 5452,
+            "eventRankingRewardRangeId": 5445,
+            "seq": 8,
+            "resourceBoxId": 5607,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 7
+          },
+          {
+            "id": 5453,
+            "eventRankingRewardRangeId": 5445,
+            "seq": 9,
+            "resourceBoxId": 5608,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 8
+          },
+          {
+            "id": 5454,
+            "eventRankingRewardRangeId": 5445,
+            "seq": 10,
+            "resourceBoxId": 5609,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 9
+          },
+          {
+            "id": 5455,
+            "eventRankingRewardRangeId": 5445,
+            "seq": 11,
+            "resourceBoxId": 5610,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 10
+          },
+          {
+            "id": 5456,
+            "eventRankingRewardRangeId": 5445,
+            "seq": 12,
+            "resourceBoxId": 5611,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 11
+          },
+          {
+            "id": 5457,
+            "eventRankingRewardRangeId": 5445,
+            "seq": 13,
+            "resourceBoxId": 5612,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 12
+          },
+          {
+            "id": 5458,
+            "eventRankingRewardRangeId": 5445,
+            "seq": 14,
+            "resourceBoxId": 5613,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 13
+          },
+          {
+            "id": 5459,
+            "eventRankingRewardRangeId": 5445,
+            "seq": 15,
+            "resourceBoxId": 5614,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 14
+          },
+          {
+            "id": 5460,
+            "eventRankingRewardRangeId": 5445,
+            "seq": 16,
+            "resourceBoxId": 5615,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 15
+          },
+          {
+            "id": 5461,
+            "eventRankingRewardRangeId": 5445,
+            "seq": 17,
+            "resourceBoxId": 5616,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 16
+          },
+          {
+            "id": 5462,
+            "eventRankingRewardRangeId": 5445,
+            "seq": 18,
+            "resourceBoxId": 5617,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 17
+          },
+          {
+            "id": 5463,
+            "eventRankingRewardRangeId": 5445,
+            "seq": 19,
+            "resourceBoxId": 5618,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 18
+          },
+          {
+            "id": 5464,
+            "eventRankingRewardRangeId": 5445,
+            "seq": 20,
+            "resourceBoxId": 5619,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 19
+          },
+          {
+            "id": 5465,
+            "eventRankingRewardRangeId": 5445,
+            "seq": 21,
+            "resourceBoxId": 5620,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 20
+          },
+          {
+            "id": 5466,
+            "eventRankingRewardRangeId": 5445,
+            "seq": 22,
+            "resourceBoxId": 5621,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 21
+          },
+          {
+            "id": 5467,
+            "eventRankingRewardRangeId": 5445,
+            "seq": 23,
+            "resourceBoxId": 5622,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 22
+          },
+          {
+            "id": 5468,
+            "eventRankingRewardRangeId": 5445,
+            "seq": 24,
+            "resourceBoxId": 5623,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 23
+          },
+          {
+            "id": 5469,
+            "eventRankingRewardRangeId": 5445,
+            "seq": 25,
+            "resourceBoxId": 5624,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 24
+          },
+          {
+            "id": 5470,
+            "eventRankingRewardRangeId": 5445,
+            "seq": 26,
+            "resourceBoxId": 5625,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 25
+          },
+          {
+            "id": 5471,
+            "eventRankingRewardRangeId": 5445,
+            "seq": 27,
+            "resourceBoxId": 5626,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 26
+          },
+          {
+            "id": 5472,
+            "eventRankingRewardRangeId": 5445,
+            "seq": 28,
+            "resourceBoxId": 5501,
+            "rewardConditionType": "none"
+          }
+        ]
+      },
+      {
+        "id": 5446,
+        "eventId": 180,
+        "fromRank": 2,
+        "toRank": 2,
+        "isToRankBorder": false,
+        "eventRankingRewards": [
+          {
+            "id": 5473,
+            "eventRankingRewardRangeId": 5446,
+            "seq": 1,
+            "resourceBoxId": 5502,
+            "rewardConditionType": "none"
+          },
+          {
+            "id": 5474,
+            "eventRankingRewardRangeId": 5446,
+            "seq": 2,
+            "resourceBoxId": 5601,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 1
+          },
+          {
+            "id": 5475,
+            "eventRankingRewardRangeId": 5446,
+            "seq": 3,
+            "resourceBoxId": 5602,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 2
+          },
+          {
+            "id": 5476,
+            "eventRankingRewardRangeId": 5446,
+            "seq": 4,
+            "resourceBoxId": 5603,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 3
+          },
+          {
+            "id": 5477,
+            "eventRankingRewardRangeId": 5446,
+            "seq": 5,
+            "resourceBoxId": 5604,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 4
+          },
+          {
+            "id": 5478,
+            "eventRankingRewardRangeId": 5446,
+            "seq": 6,
+            "resourceBoxId": 5605,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 5
+          },
+          {
+            "id": 5479,
+            "eventRankingRewardRangeId": 5446,
+            "seq": 7,
+            "resourceBoxId": 5606,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 6
+          },
+          {
+            "id": 5480,
+            "eventRankingRewardRangeId": 5446,
+            "seq": 8,
+            "resourceBoxId": 5607,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 7
+          },
+          {
+            "id": 5481,
+            "eventRankingRewardRangeId": 5446,
+            "seq": 9,
+            "resourceBoxId": 5608,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 8
+          },
+          {
+            "id": 5482,
+            "eventRankingRewardRangeId": 5446,
+            "seq": 10,
+            "resourceBoxId": 5609,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 9
+          },
+          {
+            "id": 5483,
+            "eventRankingRewardRangeId": 5446,
+            "seq": 11,
+            "resourceBoxId": 5610,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 10
+          },
+          {
+            "id": 5484,
+            "eventRankingRewardRangeId": 5446,
+            "seq": 12,
+            "resourceBoxId": 5611,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 11
+          },
+          {
+            "id": 5485,
+            "eventRankingRewardRangeId": 5446,
+            "seq": 13,
+            "resourceBoxId": 5612,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 12
+          },
+          {
+            "id": 5486,
+            "eventRankingRewardRangeId": 5446,
+            "seq": 14,
+            "resourceBoxId": 5613,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 13
+          },
+          {
+            "id": 5487,
+            "eventRankingRewardRangeId": 5446,
+            "seq": 15,
+            "resourceBoxId": 5614,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 14
+          },
+          {
+            "id": 5488,
+            "eventRankingRewardRangeId": 5446,
+            "seq": 16,
+            "resourceBoxId": 5615,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 15
+          },
+          {
+            "id": 5489,
+            "eventRankingRewardRangeId": 5446,
+            "seq": 17,
+            "resourceBoxId": 5616,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 16
+          },
+          {
+            "id": 5490,
+            "eventRankingRewardRangeId": 5446,
+            "seq": 18,
+            "resourceBoxId": 5617,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 17
+          },
+          {
+            "id": 5491,
+            "eventRankingRewardRangeId": 5446,
+            "seq": 19,
+            "resourceBoxId": 5618,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 18
+          },
+          {
+            "id": 5492,
+            "eventRankingRewardRangeId": 5446,
+            "seq": 20,
+            "resourceBoxId": 5619,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 19
+          },
+          {
+            "id": 5493,
+            "eventRankingRewardRangeId": 5446,
+            "seq": 21,
+            "resourceBoxId": 5620,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 20
+          },
+          {
+            "id": 5494,
+            "eventRankingRewardRangeId": 5446,
+            "seq": 22,
+            "resourceBoxId": 5621,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 21
+          },
+          {
+            "id": 5495,
+            "eventRankingRewardRangeId": 5446,
+            "seq": 23,
+            "resourceBoxId": 5622,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 22
+          },
+          {
+            "id": 5496,
+            "eventRankingRewardRangeId": 5446,
+            "seq": 24,
+            "resourceBoxId": 5623,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 23
+          },
+          {
+            "id": 5497,
+            "eventRankingRewardRangeId": 5446,
+            "seq": 25,
+            "resourceBoxId": 5624,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 24
+          },
+          {
+            "id": 5498,
+            "eventRankingRewardRangeId": 5446,
+            "seq": 26,
+            "resourceBoxId": 5625,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 25
+          },
+          {
+            "id": 5499,
+            "eventRankingRewardRangeId": 5446,
+            "seq": 27,
+            "resourceBoxId": 5626,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 26
+          },
+          {
+            "id": 5500,
+            "eventRankingRewardRangeId": 5446,
+            "seq": 28,
+            "resourceBoxId": 5503,
+            "rewardConditionType": "none"
+          }
+        ]
+      },
+      {
+        "id": 5447,
+        "eventId": 180,
+        "fromRank": 3,
+        "toRank": 3,
+        "isToRankBorder": false,
+        "eventRankingRewards": [
+          {
+            "id": 5501,
+            "eventRankingRewardRangeId": 5447,
+            "seq": 1,
+            "resourceBoxId": 5504,
+            "rewardConditionType": "none"
+          },
+          {
+            "id": 5502,
+            "eventRankingRewardRangeId": 5447,
+            "seq": 2,
+            "resourceBoxId": 5601,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 1
+          },
+          {
+            "id": 5503,
+            "eventRankingRewardRangeId": 5447,
+            "seq": 3,
+            "resourceBoxId": 5602,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 2
+          },
+          {
+            "id": 5504,
+            "eventRankingRewardRangeId": 5447,
+            "seq": 4,
+            "resourceBoxId": 5603,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 3
+          },
+          {
+            "id": 5505,
+            "eventRankingRewardRangeId": 5447,
+            "seq": 5,
+            "resourceBoxId": 5604,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 4
+          },
+          {
+            "id": 5506,
+            "eventRankingRewardRangeId": 5447,
+            "seq": 6,
+            "resourceBoxId": 5605,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 5
+          },
+          {
+            "id": 5507,
+            "eventRankingRewardRangeId": 5447,
+            "seq": 7,
+            "resourceBoxId": 5606,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 6
+          },
+          {
+            "id": 5508,
+            "eventRankingRewardRangeId": 5447,
+            "seq": 8,
+            "resourceBoxId": 5607,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 7
+          },
+          {
+            "id": 5509,
+            "eventRankingRewardRangeId": 5447,
+            "seq": 9,
+            "resourceBoxId": 5608,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 8
+          },
+          {
+            "id": 5510,
+            "eventRankingRewardRangeId": 5447,
+            "seq": 10,
+            "resourceBoxId": 5609,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 9
+          },
+          {
+            "id": 5511,
+            "eventRankingRewardRangeId": 5447,
+            "seq": 11,
+            "resourceBoxId": 5610,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 10
+          },
+          {
+            "id": 5512,
+            "eventRankingRewardRangeId": 5447,
+            "seq": 12,
+            "resourceBoxId": 5611,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 11
+          },
+          {
+            "id": 5513,
+            "eventRankingRewardRangeId": 5447,
+            "seq": 13,
+            "resourceBoxId": 5612,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 12
+          },
+          {
+            "id": 5514,
+            "eventRankingRewardRangeId": 5447,
+            "seq": 14,
+            "resourceBoxId": 5613,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 13
+          },
+          {
+            "id": 5515,
+            "eventRankingRewardRangeId": 5447,
+            "seq": 15,
+            "resourceBoxId": 5614,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 14
+          },
+          {
+            "id": 5516,
+            "eventRankingRewardRangeId": 5447,
+            "seq": 16,
+            "resourceBoxId": 5615,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 15
+          },
+          {
+            "id": 5517,
+            "eventRankingRewardRangeId": 5447,
+            "seq": 17,
+            "resourceBoxId": 5616,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 16
+          },
+          {
+            "id": 5518,
+            "eventRankingRewardRangeId": 5447,
+            "seq": 18,
+            "resourceBoxId": 5617,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 17
+          },
+          {
+            "id": 5519,
+            "eventRankingRewardRangeId": 5447,
+            "seq": 19,
+            "resourceBoxId": 5618,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 18
+          },
+          {
+            "id": 5520,
+            "eventRankingRewardRangeId": 5447,
+            "seq": 20,
+            "resourceBoxId": 5619,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 19
+          },
+          {
+            "id": 5521,
+            "eventRankingRewardRangeId": 5447,
+            "seq": 21,
+            "resourceBoxId": 5620,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 20
+          },
+          {
+            "id": 5522,
+            "eventRankingRewardRangeId": 5447,
+            "seq": 22,
+            "resourceBoxId": 5621,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 21
+          },
+          {
+            "id": 5523,
+            "eventRankingRewardRangeId": 5447,
+            "seq": 23,
+            "resourceBoxId": 5622,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 22
+          },
+          {
+            "id": 5524,
+            "eventRankingRewardRangeId": 5447,
+            "seq": 24,
+            "resourceBoxId": 5623,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 23
+          },
+          {
+            "id": 5525,
+            "eventRankingRewardRangeId": 5447,
+            "seq": 25,
+            "resourceBoxId": 5624,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 24
+          },
+          {
+            "id": 5526,
+            "eventRankingRewardRangeId": 5447,
+            "seq": 26,
+            "resourceBoxId": 5625,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 25
+          },
+          {
+            "id": 5527,
+            "eventRankingRewardRangeId": 5447,
+            "seq": 27,
+            "resourceBoxId": 5626,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 26
+          },
+          {
+            "id": 5528,
+            "eventRankingRewardRangeId": 5447,
+            "seq": 28,
+            "resourceBoxId": 5505,
+            "rewardConditionType": "none"
+          }
+        ]
+      },
+      {
+        "id": 5448,
+        "eventId": 180,
+        "fromRank": 4,
+        "toRank": 4,
+        "isToRankBorder": false,
+        "eventRankingRewards": [
+          {
+            "id": 5529,
+            "eventRankingRewardRangeId": 5448,
+            "seq": 1,
+            "resourceBoxId": 5506,
+            "rewardConditionType": "none"
+          },
+          {
+            "id": 5530,
+            "eventRankingRewardRangeId": 5448,
+            "seq": 2,
+            "resourceBoxId": 5601,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 1
+          },
+          {
+            "id": 5531,
+            "eventRankingRewardRangeId": 5448,
+            "seq": 3,
+            "resourceBoxId": 5602,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 2
+          },
+          {
+            "id": 5532,
+            "eventRankingRewardRangeId": 5448,
+            "seq": 4,
+            "resourceBoxId": 5603,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 3
+          },
+          {
+            "id": 5533,
+            "eventRankingRewardRangeId": 5448,
+            "seq": 5,
+            "resourceBoxId": 5604,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 4
+          },
+          {
+            "id": 5534,
+            "eventRankingRewardRangeId": 5448,
+            "seq": 6,
+            "resourceBoxId": 5605,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 5
+          },
+          {
+            "id": 5535,
+            "eventRankingRewardRangeId": 5448,
+            "seq": 7,
+            "resourceBoxId": 5606,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 6
+          },
+          {
+            "id": 5536,
+            "eventRankingRewardRangeId": 5448,
+            "seq": 8,
+            "resourceBoxId": 5607,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 7
+          },
+          {
+            "id": 5537,
+            "eventRankingRewardRangeId": 5448,
+            "seq": 9,
+            "resourceBoxId": 5608,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 8
+          },
+          {
+            "id": 5538,
+            "eventRankingRewardRangeId": 5448,
+            "seq": 10,
+            "resourceBoxId": 5609,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 9
+          },
+          {
+            "id": 5539,
+            "eventRankingRewardRangeId": 5448,
+            "seq": 11,
+            "resourceBoxId": 5610,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 10
+          },
+          {
+            "id": 5540,
+            "eventRankingRewardRangeId": 5448,
+            "seq": 12,
+            "resourceBoxId": 5611,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 11
+          },
+          {
+            "id": 5541,
+            "eventRankingRewardRangeId": 5448,
+            "seq": 13,
+            "resourceBoxId": 5612,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 12
+          },
+          {
+            "id": 5542,
+            "eventRankingRewardRangeId": 5448,
+            "seq": 14,
+            "resourceBoxId": 5613,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 13
+          },
+          {
+            "id": 5543,
+            "eventRankingRewardRangeId": 5448,
+            "seq": 15,
+            "resourceBoxId": 5614,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 14
+          },
+          {
+            "id": 5544,
+            "eventRankingRewardRangeId": 5448,
+            "seq": 16,
+            "resourceBoxId": 5615,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 15
+          },
+          {
+            "id": 5545,
+            "eventRankingRewardRangeId": 5448,
+            "seq": 17,
+            "resourceBoxId": 5616,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 16
+          },
+          {
+            "id": 5546,
+            "eventRankingRewardRangeId": 5448,
+            "seq": 18,
+            "resourceBoxId": 5617,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 17
+          },
+          {
+            "id": 5547,
+            "eventRankingRewardRangeId": 5448,
+            "seq": 19,
+            "resourceBoxId": 5618,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 18
+          },
+          {
+            "id": 5548,
+            "eventRankingRewardRangeId": 5448,
+            "seq": 20,
+            "resourceBoxId": 5619,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 19
+          },
+          {
+            "id": 5549,
+            "eventRankingRewardRangeId": 5448,
+            "seq": 21,
+            "resourceBoxId": 5620,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 20
+          },
+          {
+            "id": 5550,
+            "eventRankingRewardRangeId": 5448,
+            "seq": 22,
+            "resourceBoxId": 5621,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 21
+          },
+          {
+            "id": 5551,
+            "eventRankingRewardRangeId": 5448,
+            "seq": 23,
+            "resourceBoxId": 5622,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 22
+          },
+          {
+            "id": 5552,
+            "eventRankingRewardRangeId": 5448,
+            "seq": 24,
+            "resourceBoxId": 5623,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 23
+          },
+          {
+            "id": 5553,
+            "eventRankingRewardRangeId": 5448,
+            "seq": 25,
+            "resourceBoxId": 5624,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 24
+          },
+          {
+            "id": 5554,
+            "eventRankingRewardRangeId": 5448,
+            "seq": 26,
+            "resourceBoxId": 5625,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 25
+          },
+          {
+            "id": 5555,
+            "eventRankingRewardRangeId": 5448,
+            "seq": 27,
+            "resourceBoxId": 5626,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 26
+          },
+          {
+            "id": 5556,
+            "eventRankingRewardRangeId": 5448,
+            "seq": 28,
+            "resourceBoxId": 5507,
+            "rewardConditionType": "none"
+          }
+        ]
+      },
+      {
+        "id": 5449,
+        "eventId": 180,
+        "fromRank": 5,
+        "toRank": 5,
+        "isToRankBorder": false,
+        "eventRankingRewards": [
+          {
+            "id": 5557,
+            "eventRankingRewardRangeId": 5449,
+            "seq": 1,
+            "resourceBoxId": 5508,
+            "rewardConditionType": "none"
+          },
+          {
+            "id": 5558,
+            "eventRankingRewardRangeId": 5449,
+            "seq": 2,
+            "resourceBoxId": 5601,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 1
+          },
+          {
+            "id": 5559,
+            "eventRankingRewardRangeId": 5449,
+            "seq": 3,
+            "resourceBoxId": 5602,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 2
+          },
+          {
+            "id": 5560,
+            "eventRankingRewardRangeId": 5449,
+            "seq": 4,
+            "resourceBoxId": 5603,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 3
+          },
+          {
+            "id": 5561,
+            "eventRankingRewardRangeId": 5449,
+            "seq": 5,
+            "resourceBoxId": 5604,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 4
+          },
+          {
+            "id": 5562,
+            "eventRankingRewardRangeId": 5449,
+            "seq": 6,
+            "resourceBoxId": 5605,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 5
+          },
+          {
+            "id": 5563,
+            "eventRankingRewardRangeId": 5449,
+            "seq": 7,
+            "resourceBoxId": 5606,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 6
+          },
+          {
+            "id": 5564,
+            "eventRankingRewardRangeId": 5449,
+            "seq": 8,
+            "resourceBoxId": 5607,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 7
+          },
+          {
+            "id": 5565,
+            "eventRankingRewardRangeId": 5449,
+            "seq": 9,
+            "resourceBoxId": 5608,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 8
+          },
+          {
+            "id": 5566,
+            "eventRankingRewardRangeId": 5449,
+            "seq": 10,
+            "resourceBoxId": 5609,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 9
+          },
+          {
+            "id": 5567,
+            "eventRankingRewardRangeId": 5449,
+            "seq": 11,
+            "resourceBoxId": 5610,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 10
+          },
+          {
+            "id": 5568,
+            "eventRankingRewardRangeId": 5449,
+            "seq": 12,
+            "resourceBoxId": 5611,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 11
+          },
+          {
+            "id": 5569,
+            "eventRankingRewardRangeId": 5449,
+            "seq": 13,
+            "resourceBoxId": 5612,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 12
+          },
+          {
+            "id": 5570,
+            "eventRankingRewardRangeId": 5449,
+            "seq": 14,
+            "resourceBoxId": 5613,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 13
+          },
+          {
+            "id": 5571,
+            "eventRankingRewardRangeId": 5449,
+            "seq": 15,
+            "resourceBoxId": 5614,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 14
+          },
+          {
+            "id": 5572,
+            "eventRankingRewardRangeId": 5449,
+            "seq": 16,
+            "resourceBoxId": 5615,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 15
+          },
+          {
+            "id": 5573,
+            "eventRankingRewardRangeId": 5449,
+            "seq": 17,
+            "resourceBoxId": 5616,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 16
+          },
+          {
+            "id": 5574,
+            "eventRankingRewardRangeId": 5449,
+            "seq": 18,
+            "resourceBoxId": 5617,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 17
+          },
+          {
+            "id": 5575,
+            "eventRankingRewardRangeId": 5449,
+            "seq": 19,
+            "resourceBoxId": 5618,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 18
+          },
+          {
+            "id": 5576,
+            "eventRankingRewardRangeId": 5449,
+            "seq": 20,
+            "resourceBoxId": 5619,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 19
+          },
+          {
+            "id": 5577,
+            "eventRankingRewardRangeId": 5449,
+            "seq": 21,
+            "resourceBoxId": 5620,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 20
+          },
+          {
+            "id": 5578,
+            "eventRankingRewardRangeId": 5449,
+            "seq": 22,
+            "resourceBoxId": 5621,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 21
+          },
+          {
+            "id": 5579,
+            "eventRankingRewardRangeId": 5449,
+            "seq": 23,
+            "resourceBoxId": 5622,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 22
+          },
+          {
+            "id": 5580,
+            "eventRankingRewardRangeId": 5449,
+            "seq": 24,
+            "resourceBoxId": 5623,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 23
+          },
+          {
+            "id": 5581,
+            "eventRankingRewardRangeId": 5449,
+            "seq": 25,
+            "resourceBoxId": 5624,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 24
+          },
+          {
+            "id": 5582,
+            "eventRankingRewardRangeId": 5449,
+            "seq": 26,
+            "resourceBoxId": 5625,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 25
+          },
+          {
+            "id": 5583,
+            "eventRankingRewardRangeId": 5449,
+            "seq": 27,
+            "resourceBoxId": 5626,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 26
+          },
+          {
+            "id": 5584,
+            "eventRankingRewardRangeId": 5449,
+            "seq": 28,
+            "resourceBoxId": 5509,
+            "rewardConditionType": "none"
+          }
+        ]
+      },
+      {
+        "id": 5450,
+        "eventId": 180,
+        "fromRank": 6,
+        "toRank": 6,
+        "isToRankBorder": false,
+        "eventRankingRewards": [
+          {
+            "id": 5585,
+            "eventRankingRewardRangeId": 5450,
+            "seq": 1,
+            "resourceBoxId": 5510,
+            "rewardConditionType": "none"
+          },
+          {
+            "id": 5586,
+            "eventRankingRewardRangeId": 5450,
+            "seq": 2,
+            "resourceBoxId": 5601,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 1
+          },
+          {
+            "id": 5587,
+            "eventRankingRewardRangeId": 5450,
+            "seq": 3,
+            "resourceBoxId": 5602,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 2
+          },
+          {
+            "id": 5588,
+            "eventRankingRewardRangeId": 5450,
+            "seq": 4,
+            "resourceBoxId": 5603,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 3
+          },
+          {
+            "id": 5589,
+            "eventRankingRewardRangeId": 5450,
+            "seq": 5,
+            "resourceBoxId": 5604,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 4
+          },
+          {
+            "id": 5590,
+            "eventRankingRewardRangeId": 5450,
+            "seq": 6,
+            "resourceBoxId": 5605,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 5
+          },
+          {
+            "id": 5591,
+            "eventRankingRewardRangeId": 5450,
+            "seq": 7,
+            "resourceBoxId": 5606,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 6
+          },
+          {
+            "id": 5592,
+            "eventRankingRewardRangeId": 5450,
+            "seq": 8,
+            "resourceBoxId": 5607,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 7
+          },
+          {
+            "id": 5593,
+            "eventRankingRewardRangeId": 5450,
+            "seq": 9,
+            "resourceBoxId": 5608,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 8
+          },
+          {
+            "id": 5594,
+            "eventRankingRewardRangeId": 5450,
+            "seq": 10,
+            "resourceBoxId": 5609,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 9
+          },
+          {
+            "id": 5595,
+            "eventRankingRewardRangeId": 5450,
+            "seq": 11,
+            "resourceBoxId": 5610,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 10
+          },
+          {
+            "id": 5596,
+            "eventRankingRewardRangeId": 5450,
+            "seq": 12,
+            "resourceBoxId": 5611,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 11
+          },
+          {
+            "id": 5597,
+            "eventRankingRewardRangeId": 5450,
+            "seq": 13,
+            "resourceBoxId": 5612,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 12
+          },
+          {
+            "id": 5598,
+            "eventRankingRewardRangeId": 5450,
+            "seq": 14,
+            "resourceBoxId": 5613,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 13
+          },
+          {
+            "id": 5599,
+            "eventRankingRewardRangeId": 5450,
+            "seq": 15,
+            "resourceBoxId": 5614,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 14
+          },
+          {
+            "id": 5600,
+            "eventRankingRewardRangeId": 5450,
+            "seq": 16,
+            "resourceBoxId": 5615,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 15
+          },
+          {
+            "id": 5601,
+            "eventRankingRewardRangeId": 5450,
+            "seq": 17,
+            "resourceBoxId": 5616,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 16
+          },
+          {
+            "id": 5602,
+            "eventRankingRewardRangeId": 5450,
+            "seq": 18,
+            "resourceBoxId": 5617,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 17
+          },
+          {
+            "id": 5603,
+            "eventRankingRewardRangeId": 5450,
+            "seq": 19,
+            "resourceBoxId": 5618,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 18
+          },
+          {
+            "id": 5604,
+            "eventRankingRewardRangeId": 5450,
+            "seq": 20,
+            "resourceBoxId": 5619,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 19
+          },
+          {
+            "id": 5605,
+            "eventRankingRewardRangeId": 5450,
+            "seq": 21,
+            "resourceBoxId": 5620,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 20
+          },
+          {
+            "id": 5606,
+            "eventRankingRewardRangeId": 5450,
+            "seq": 22,
+            "resourceBoxId": 5621,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 21
+          },
+          {
+            "id": 5607,
+            "eventRankingRewardRangeId": 5450,
+            "seq": 23,
+            "resourceBoxId": 5622,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 22
+          },
+          {
+            "id": 5608,
+            "eventRankingRewardRangeId": 5450,
+            "seq": 24,
+            "resourceBoxId": 5623,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 23
+          },
+          {
+            "id": 5609,
+            "eventRankingRewardRangeId": 5450,
+            "seq": 25,
+            "resourceBoxId": 5624,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 24
+          },
+          {
+            "id": 5610,
+            "eventRankingRewardRangeId": 5450,
+            "seq": 26,
+            "resourceBoxId": 5625,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 25
+          },
+          {
+            "id": 5611,
+            "eventRankingRewardRangeId": 5450,
+            "seq": 27,
+            "resourceBoxId": 5626,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 26
+          },
+          {
+            "id": 5612,
+            "eventRankingRewardRangeId": 5450,
+            "seq": 28,
+            "resourceBoxId": 5511,
+            "rewardConditionType": "none"
+          }
+        ]
+      },
+      {
+        "id": 5451,
+        "eventId": 180,
+        "fromRank": 7,
+        "toRank": 7,
+        "isToRankBorder": false,
+        "eventRankingRewards": [
+          {
+            "id": 5613,
+            "eventRankingRewardRangeId": 5451,
+            "seq": 1,
+            "resourceBoxId": 5512,
+            "rewardConditionType": "none"
+          },
+          {
+            "id": 5614,
+            "eventRankingRewardRangeId": 5451,
+            "seq": 2,
+            "resourceBoxId": 5601,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 1
+          },
+          {
+            "id": 5615,
+            "eventRankingRewardRangeId": 5451,
+            "seq": 3,
+            "resourceBoxId": 5602,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 2
+          },
+          {
+            "id": 5616,
+            "eventRankingRewardRangeId": 5451,
+            "seq": 4,
+            "resourceBoxId": 5603,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 3
+          },
+          {
+            "id": 5617,
+            "eventRankingRewardRangeId": 5451,
+            "seq": 5,
+            "resourceBoxId": 5604,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 4
+          },
+          {
+            "id": 5618,
+            "eventRankingRewardRangeId": 5451,
+            "seq": 6,
+            "resourceBoxId": 5605,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 5
+          },
+          {
+            "id": 5619,
+            "eventRankingRewardRangeId": 5451,
+            "seq": 7,
+            "resourceBoxId": 5606,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 6
+          },
+          {
+            "id": 5620,
+            "eventRankingRewardRangeId": 5451,
+            "seq": 8,
+            "resourceBoxId": 5607,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 7
+          },
+          {
+            "id": 5621,
+            "eventRankingRewardRangeId": 5451,
+            "seq": 9,
+            "resourceBoxId": 5608,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 8
+          },
+          {
+            "id": 5622,
+            "eventRankingRewardRangeId": 5451,
+            "seq": 10,
+            "resourceBoxId": 5609,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 9
+          },
+          {
+            "id": 5623,
+            "eventRankingRewardRangeId": 5451,
+            "seq": 11,
+            "resourceBoxId": 5610,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 10
+          },
+          {
+            "id": 5624,
+            "eventRankingRewardRangeId": 5451,
+            "seq": 12,
+            "resourceBoxId": 5611,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 11
+          },
+          {
+            "id": 5625,
+            "eventRankingRewardRangeId": 5451,
+            "seq": 13,
+            "resourceBoxId": 5612,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 12
+          },
+          {
+            "id": 5626,
+            "eventRankingRewardRangeId": 5451,
+            "seq": 14,
+            "resourceBoxId": 5613,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 13
+          },
+          {
+            "id": 5627,
+            "eventRankingRewardRangeId": 5451,
+            "seq": 15,
+            "resourceBoxId": 5614,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 14
+          },
+          {
+            "id": 5628,
+            "eventRankingRewardRangeId": 5451,
+            "seq": 16,
+            "resourceBoxId": 5615,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 15
+          },
+          {
+            "id": 5629,
+            "eventRankingRewardRangeId": 5451,
+            "seq": 17,
+            "resourceBoxId": 5616,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 16
+          },
+          {
+            "id": 5630,
+            "eventRankingRewardRangeId": 5451,
+            "seq": 18,
+            "resourceBoxId": 5617,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 17
+          },
+          {
+            "id": 5631,
+            "eventRankingRewardRangeId": 5451,
+            "seq": 19,
+            "resourceBoxId": 5618,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 18
+          },
+          {
+            "id": 5632,
+            "eventRankingRewardRangeId": 5451,
+            "seq": 20,
+            "resourceBoxId": 5619,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 19
+          },
+          {
+            "id": 5633,
+            "eventRankingRewardRangeId": 5451,
+            "seq": 21,
+            "resourceBoxId": 5620,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 20
+          },
+          {
+            "id": 5634,
+            "eventRankingRewardRangeId": 5451,
+            "seq": 22,
+            "resourceBoxId": 5621,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 21
+          },
+          {
+            "id": 5635,
+            "eventRankingRewardRangeId": 5451,
+            "seq": 23,
+            "resourceBoxId": 5622,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 22
+          },
+          {
+            "id": 5636,
+            "eventRankingRewardRangeId": 5451,
+            "seq": 24,
+            "resourceBoxId": 5623,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 23
+          },
+          {
+            "id": 5637,
+            "eventRankingRewardRangeId": 5451,
+            "seq": 25,
+            "resourceBoxId": 5624,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 24
+          },
+          {
+            "id": 5638,
+            "eventRankingRewardRangeId": 5451,
+            "seq": 26,
+            "resourceBoxId": 5625,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 25
+          },
+          {
+            "id": 5639,
+            "eventRankingRewardRangeId": 5451,
+            "seq": 27,
+            "resourceBoxId": 5626,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 26
+          },
+          {
+            "id": 5640,
+            "eventRankingRewardRangeId": 5451,
+            "seq": 28,
+            "resourceBoxId": 5513,
+            "rewardConditionType": "none"
+          }
+        ]
+      },
+      {
+        "id": 5452,
+        "eventId": 180,
+        "fromRank": 8,
+        "toRank": 8,
+        "isToRankBorder": false,
+        "eventRankingRewards": [
+          {
+            "id": 5641,
+            "eventRankingRewardRangeId": 5452,
+            "seq": 1,
+            "resourceBoxId": 5514,
+            "rewardConditionType": "none"
+          },
+          {
+            "id": 5642,
+            "eventRankingRewardRangeId": 5452,
+            "seq": 2,
+            "resourceBoxId": 5601,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 1
+          },
+          {
+            "id": 5643,
+            "eventRankingRewardRangeId": 5452,
+            "seq": 3,
+            "resourceBoxId": 5602,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 2
+          },
+          {
+            "id": 5644,
+            "eventRankingRewardRangeId": 5452,
+            "seq": 4,
+            "resourceBoxId": 5603,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 3
+          },
+          {
+            "id": 5645,
+            "eventRankingRewardRangeId": 5452,
+            "seq": 5,
+            "resourceBoxId": 5604,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 4
+          },
+          {
+            "id": 5646,
+            "eventRankingRewardRangeId": 5452,
+            "seq": 6,
+            "resourceBoxId": 5605,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 5
+          },
+          {
+            "id": 5647,
+            "eventRankingRewardRangeId": 5452,
+            "seq": 7,
+            "resourceBoxId": 5606,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 6
+          },
+          {
+            "id": 5648,
+            "eventRankingRewardRangeId": 5452,
+            "seq": 8,
+            "resourceBoxId": 5607,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 7
+          },
+          {
+            "id": 5649,
+            "eventRankingRewardRangeId": 5452,
+            "seq": 9,
+            "resourceBoxId": 5608,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 8
+          },
+          {
+            "id": 5650,
+            "eventRankingRewardRangeId": 5452,
+            "seq": 10,
+            "resourceBoxId": 5609,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 9
+          },
+          {
+            "id": 5651,
+            "eventRankingRewardRangeId": 5452,
+            "seq": 11,
+            "resourceBoxId": 5610,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 10
+          },
+          {
+            "id": 5652,
+            "eventRankingRewardRangeId": 5452,
+            "seq": 12,
+            "resourceBoxId": 5611,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 11
+          },
+          {
+            "id": 5653,
+            "eventRankingRewardRangeId": 5452,
+            "seq": 13,
+            "resourceBoxId": 5612,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 12
+          },
+          {
+            "id": 5654,
+            "eventRankingRewardRangeId": 5452,
+            "seq": 14,
+            "resourceBoxId": 5613,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 13
+          },
+          {
+            "id": 5655,
+            "eventRankingRewardRangeId": 5452,
+            "seq": 15,
+            "resourceBoxId": 5614,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 14
+          },
+          {
+            "id": 5656,
+            "eventRankingRewardRangeId": 5452,
+            "seq": 16,
+            "resourceBoxId": 5615,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 15
+          },
+          {
+            "id": 5657,
+            "eventRankingRewardRangeId": 5452,
+            "seq": 17,
+            "resourceBoxId": 5616,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 16
+          },
+          {
+            "id": 5658,
+            "eventRankingRewardRangeId": 5452,
+            "seq": 18,
+            "resourceBoxId": 5617,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 17
+          },
+          {
+            "id": 5659,
+            "eventRankingRewardRangeId": 5452,
+            "seq": 19,
+            "resourceBoxId": 5618,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 18
+          },
+          {
+            "id": 5660,
+            "eventRankingRewardRangeId": 5452,
+            "seq": 20,
+            "resourceBoxId": 5619,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 19
+          },
+          {
+            "id": 5661,
+            "eventRankingRewardRangeId": 5452,
+            "seq": 21,
+            "resourceBoxId": 5620,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 20
+          },
+          {
+            "id": 5662,
+            "eventRankingRewardRangeId": 5452,
+            "seq": 22,
+            "resourceBoxId": 5621,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 21
+          },
+          {
+            "id": 5663,
+            "eventRankingRewardRangeId": 5452,
+            "seq": 23,
+            "resourceBoxId": 5622,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 22
+          },
+          {
+            "id": 5664,
+            "eventRankingRewardRangeId": 5452,
+            "seq": 24,
+            "resourceBoxId": 5623,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 23
+          },
+          {
+            "id": 5665,
+            "eventRankingRewardRangeId": 5452,
+            "seq": 25,
+            "resourceBoxId": 5624,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 24
+          },
+          {
+            "id": 5666,
+            "eventRankingRewardRangeId": 5452,
+            "seq": 26,
+            "resourceBoxId": 5625,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 25
+          },
+          {
+            "id": 5667,
+            "eventRankingRewardRangeId": 5452,
+            "seq": 27,
+            "resourceBoxId": 5626,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 26
+          },
+          {
+            "id": 5668,
+            "eventRankingRewardRangeId": 5452,
+            "seq": 28,
+            "resourceBoxId": 5515,
+            "rewardConditionType": "none"
+          }
+        ]
+      },
+      {
+        "id": 5453,
+        "eventId": 180,
+        "fromRank": 9,
+        "toRank": 9,
+        "isToRankBorder": false,
+        "eventRankingRewards": [
+          {
+            "id": 5669,
+            "eventRankingRewardRangeId": 5453,
+            "seq": 1,
+            "resourceBoxId": 5516,
+            "rewardConditionType": "none"
+          },
+          {
+            "id": 5670,
+            "eventRankingRewardRangeId": 5453,
+            "seq": 2,
+            "resourceBoxId": 5601,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 1
+          },
+          {
+            "id": 5671,
+            "eventRankingRewardRangeId": 5453,
+            "seq": 3,
+            "resourceBoxId": 5602,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 2
+          },
+          {
+            "id": 5672,
+            "eventRankingRewardRangeId": 5453,
+            "seq": 4,
+            "resourceBoxId": 5603,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 3
+          },
+          {
+            "id": 5673,
+            "eventRankingRewardRangeId": 5453,
+            "seq": 5,
+            "resourceBoxId": 5604,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 4
+          },
+          {
+            "id": 5674,
+            "eventRankingRewardRangeId": 5453,
+            "seq": 6,
+            "resourceBoxId": 5605,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 5
+          },
+          {
+            "id": 5675,
+            "eventRankingRewardRangeId": 5453,
+            "seq": 7,
+            "resourceBoxId": 5606,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 6
+          },
+          {
+            "id": 5676,
+            "eventRankingRewardRangeId": 5453,
+            "seq": 8,
+            "resourceBoxId": 5607,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 7
+          },
+          {
+            "id": 5677,
+            "eventRankingRewardRangeId": 5453,
+            "seq": 9,
+            "resourceBoxId": 5608,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 8
+          },
+          {
+            "id": 5678,
+            "eventRankingRewardRangeId": 5453,
+            "seq": 10,
+            "resourceBoxId": 5609,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 9
+          },
+          {
+            "id": 5679,
+            "eventRankingRewardRangeId": 5453,
+            "seq": 11,
+            "resourceBoxId": 5610,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 10
+          },
+          {
+            "id": 5680,
+            "eventRankingRewardRangeId": 5453,
+            "seq": 12,
+            "resourceBoxId": 5611,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 11
+          },
+          {
+            "id": 5681,
+            "eventRankingRewardRangeId": 5453,
+            "seq": 13,
+            "resourceBoxId": 5612,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 12
+          },
+          {
+            "id": 5682,
+            "eventRankingRewardRangeId": 5453,
+            "seq": 14,
+            "resourceBoxId": 5613,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 13
+          },
+          {
+            "id": 5683,
+            "eventRankingRewardRangeId": 5453,
+            "seq": 15,
+            "resourceBoxId": 5614,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 14
+          },
+          {
+            "id": 5684,
+            "eventRankingRewardRangeId": 5453,
+            "seq": 16,
+            "resourceBoxId": 5615,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 15
+          },
+          {
+            "id": 5685,
+            "eventRankingRewardRangeId": 5453,
+            "seq": 17,
+            "resourceBoxId": 5616,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 16
+          },
+          {
+            "id": 5686,
+            "eventRankingRewardRangeId": 5453,
+            "seq": 18,
+            "resourceBoxId": 5617,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 17
+          },
+          {
+            "id": 5687,
+            "eventRankingRewardRangeId": 5453,
+            "seq": 19,
+            "resourceBoxId": 5618,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 18
+          },
+          {
+            "id": 5688,
+            "eventRankingRewardRangeId": 5453,
+            "seq": 20,
+            "resourceBoxId": 5619,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 19
+          },
+          {
+            "id": 5689,
+            "eventRankingRewardRangeId": 5453,
+            "seq": 21,
+            "resourceBoxId": 5620,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 20
+          },
+          {
+            "id": 5690,
+            "eventRankingRewardRangeId": 5453,
+            "seq": 22,
+            "resourceBoxId": 5621,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 21
+          },
+          {
+            "id": 5691,
+            "eventRankingRewardRangeId": 5453,
+            "seq": 23,
+            "resourceBoxId": 5622,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 22
+          },
+          {
+            "id": 5692,
+            "eventRankingRewardRangeId": 5453,
+            "seq": 24,
+            "resourceBoxId": 5623,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 23
+          },
+          {
+            "id": 5693,
+            "eventRankingRewardRangeId": 5453,
+            "seq": 25,
+            "resourceBoxId": 5624,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 24
+          },
+          {
+            "id": 5694,
+            "eventRankingRewardRangeId": 5453,
+            "seq": 26,
+            "resourceBoxId": 5625,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 25
+          },
+          {
+            "id": 5695,
+            "eventRankingRewardRangeId": 5453,
+            "seq": 27,
+            "resourceBoxId": 5626,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 26
+          },
+          {
+            "id": 5696,
+            "eventRankingRewardRangeId": 5453,
+            "seq": 28,
+            "resourceBoxId": 5517,
+            "rewardConditionType": "none"
+          }
+        ]
+      },
+      {
+        "id": 5454,
+        "eventId": 180,
+        "fromRank": 10,
+        "toRank": 10,
+        "isToRankBorder": false,
+        "eventRankingRewards": [
+          {
+            "id": 5697,
+            "eventRankingRewardRangeId": 5454,
+            "seq": 1,
+            "resourceBoxId": 5518,
+            "rewardConditionType": "none"
+          },
+          {
+            "id": 5698,
+            "eventRankingRewardRangeId": 5454,
+            "seq": 2,
+            "resourceBoxId": 5601,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 1
+          },
+          {
+            "id": 5699,
+            "eventRankingRewardRangeId": 5454,
+            "seq": 3,
+            "resourceBoxId": 5602,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 2
+          },
+          {
+            "id": 5700,
+            "eventRankingRewardRangeId": 5454,
+            "seq": 4,
+            "resourceBoxId": 5603,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 3
+          },
+          {
+            "id": 5701,
+            "eventRankingRewardRangeId": 5454,
+            "seq": 5,
+            "resourceBoxId": 5604,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 4
+          },
+          {
+            "id": 5702,
+            "eventRankingRewardRangeId": 5454,
+            "seq": 6,
+            "resourceBoxId": 5605,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 5
+          },
+          {
+            "id": 5703,
+            "eventRankingRewardRangeId": 5454,
+            "seq": 7,
+            "resourceBoxId": 5606,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 6
+          },
+          {
+            "id": 5704,
+            "eventRankingRewardRangeId": 5454,
+            "seq": 8,
+            "resourceBoxId": 5607,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 7
+          },
+          {
+            "id": 5705,
+            "eventRankingRewardRangeId": 5454,
+            "seq": 9,
+            "resourceBoxId": 5608,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 8
+          },
+          {
+            "id": 5706,
+            "eventRankingRewardRangeId": 5454,
+            "seq": 10,
+            "resourceBoxId": 5609,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 9
+          },
+          {
+            "id": 5707,
+            "eventRankingRewardRangeId": 5454,
+            "seq": 11,
+            "resourceBoxId": 5610,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 10
+          },
+          {
+            "id": 5708,
+            "eventRankingRewardRangeId": 5454,
+            "seq": 12,
+            "resourceBoxId": 5611,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 11
+          },
+          {
+            "id": 5709,
+            "eventRankingRewardRangeId": 5454,
+            "seq": 13,
+            "resourceBoxId": 5612,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 12
+          },
+          {
+            "id": 5710,
+            "eventRankingRewardRangeId": 5454,
+            "seq": 14,
+            "resourceBoxId": 5613,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 13
+          },
+          {
+            "id": 5711,
+            "eventRankingRewardRangeId": 5454,
+            "seq": 15,
+            "resourceBoxId": 5614,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 14
+          },
+          {
+            "id": 5712,
+            "eventRankingRewardRangeId": 5454,
+            "seq": 16,
+            "resourceBoxId": 5615,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 15
+          },
+          {
+            "id": 5713,
+            "eventRankingRewardRangeId": 5454,
+            "seq": 17,
+            "resourceBoxId": 5616,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 16
+          },
+          {
+            "id": 5714,
+            "eventRankingRewardRangeId": 5454,
+            "seq": 18,
+            "resourceBoxId": 5617,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 17
+          },
+          {
+            "id": 5715,
+            "eventRankingRewardRangeId": 5454,
+            "seq": 19,
+            "resourceBoxId": 5618,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 18
+          },
+          {
+            "id": 5716,
+            "eventRankingRewardRangeId": 5454,
+            "seq": 20,
+            "resourceBoxId": 5619,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 19
+          },
+          {
+            "id": 5717,
+            "eventRankingRewardRangeId": 5454,
+            "seq": 21,
+            "resourceBoxId": 5620,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 20
+          },
+          {
+            "id": 5718,
+            "eventRankingRewardRangeId": 5454,
+            "seq": 22,
+            "resourceBoxId": 5621,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 21
+          },
+          {
+            "id": 5719,
+            "eventRankingRewardRangeId": 5454,
+            "seq": 23,
+            "resourceBoxId": 5622,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 22
+          },
+          {
+            "id": 5720,
+            "eventRankingRewardRangeId": 5454,
+            "seq": 24,
+            "resourceBoxId": 5623,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 23
+          },
+          {
+            "id": 5721,
+            "eventRankingRewardRangeId": 5454,
+            "seq": 25,
+            "resourceBoxId": 5624,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 24
+          },
+          {
+            "id": 5722,
+            "eventRankingRewardRangeId": 5454,
+            "seq": 26,
+            "resourceBoxId": 5625,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 25
+          },
+          {
+            "id": 5723,
+            "eventRankingRewardRangeId": 5454,
+            "seq": 27,
+            "resourceBoxId": 5626,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 26
+          },
+          {
+            "id": 5724,
+            "eventRankingRewardRangeId": 5454,
+            "seq": 28,
+            "resourceBoxId": 5519,
+            "rewardConditionType": "none"
+          }
+        ]
+      },
+      {
+        "id": 5455,
+        "eventId": 180,
+        "fromRank": 11,
+        "toRank": 20,
+        "isToRankBorder": false,
+        "eventRankingRewards": [
+          {
+            "id": 5725,
+            "eventRankingRewardRangeId": 5455,
+            "seq": 1,
+            "resourceBoxId": 5520,
+            "rewardConditionType": "none"
+          },
+          {
+            "id": 5726,
+            "eventRankingRewardRangeId": 5455,
+            "seq": 2,
+            "resourceBoxId": 5601,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 1
+          },
+          {
+            "id": 5727,
+            "eventRankingRewardRangeId": 5455,
+            "seq": 3,
+            "resourceBoxId": 5602,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 2
+          },
+          {
+            "id": 5728,
+            "eventRankingRewardRangeId": 5455,
+            "seq": 4,
+            "resourceBoxId": 5603,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 3
+          },
+          {
+            "id": 5729,
+            "eventRankingRewardRangeId": 5455,
+            "seq": 5,
+            "resourceBoxId": 5604,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 4
+          },
+          {
+            "id": 5730,
+            "eventRankingRewardRangeId": 5455,
+            "seq": 6,
+            "resourceBoxId": 5605,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 5
+          },
+          {
+            "id": 5731,
+            "eventRankingRewardRangeId": 5455,
+            "seq": 7,
+            "resourceBoxId": 5606,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 6
+          },
+          {
+            "id": 5732,
+            "eventRankingRewardRangeId": 5455,
+            "seq": 8,
+            "resourceBoxId": 5607,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 7
+          },
+          {
+            "id": 5733,
+            "eventRankingRewardRangeId": 5455,
+            "seq": 9,
+            "resourceBoxId": 5608,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 8
+          },
+          {
+            "id": 5734,
+            "eventRankingRewardRangeId": 5455,
+            "seq": 10,
+            "resourceBoxId": 5609,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 9
+          },
+          {
+            "id": 5735,
+            "eventRankingRewardRangeId": 5455,
+            "seq": 11,
+            "resourceBoxId": 5610,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 10
+          },
+          {
+            "id": 5736,
+            "eventRankingRewardRangeId": 5455,
+            "seq": 12,
+            "resourceBoxId": 5611,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 11
+          },
+          {
+            "id": 5737,
+            "eventRankingRewardRangeId": 5455,
+            "seq": 13,
+            "resourceBoxId": 5612,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 12
+          },
+          {
+            "id": 5738,
+            "eventRankingRewardRangeId": 5455,
+            "seq": 14,
+            "resourceBoxId": 5613,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 13
+          },
+          {
+            "id": 5739,
+            "eventRankingRewardRangeId": 5455,
+            "seq": 15,
+            "resourceBoxId": 5614,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 14
+          },
+          {
+            "id": 5740,
+            "eventRankingRewardRangeId": 5455,
+            "seq": 16,
+            "resourceBoxId": 5615,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 15
+          },
+          {
+            "id": 5741,
+            "eventRankingRewardRangeId": 5455,
+            "seq": 17,
+            "resourceBoxId": 5616,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 16
+          },
+          {
+            "id": 5742,
+            "eventRankingRewardRangeId": 5455,
+            "seq": 18,
+            "resourceBoxId": 5617,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 17
+          },
+          {
+            "id": 5743,
+            "eventRankingRewardRangeId": 5455,
+            "seq": 19,
+            "resourceBoxId": 5618,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 18
+          },
+          {
+            "id": 5744,
+            "eventRankingRewardRangeId": 5455,
+            "seq": 20,
+            "resourceBoxId": 5619,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 19
+          },
+          {
+            "id": 5745,
+            "eventRankingRewardRangeId": 5455,
+            "seq": 21,
+            "resourceBoxId": 5620,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 20
+          },
+          {
+            "id": 5746,
+            "eventRankingRewardRangeId": 5455,
+            "seq": 22,
+            "resourceBoxId": 5621,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 21
+          },
+          {
+            "id": 5747,
+            "eventRankingRewardRangeId": 5455,
+            "seq": 23,
+            "resourceBoxId": 5622,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 22
+          },
+          {
+            "id": 5748,
+            "eventRankingRewardRangeId": 5455,
+            "seq": 24,
+            "resourceBoxId": 5623,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 23
+          },
+          {
+            "id": 5749,
+            "eventRankingRewardRangeId": 5455,
+            "seq": 25,
+            "resourceBoxId": 5624,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 24
+          },
+          {
+            "id": 5750,
+            "eventRankingRewardRangeId": 5455,
+            "seq": 26,
+            "resourceBoxId": 5625,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 25
+          },
+          {
+            "id": 5751,
+            "eventRankingRewardRangeId": 5455,
+            "seq": 27,
+            "resourceBoxId": 5626,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 26
+          },
+          {
+            "id": 5752,
+            "eventRankingRewardRangeId": 5455,
+            "seq": 28,
+            "resourceBoxId": 5521,
+            "rewardConditionType": "none"
+          }
+        ]
+      },
+      {
+        "id": 5456,
+        "eventId": 180,
+        "fromRank": 21,
+        "toRank": 30,
+        "isToRankBorder": false,
+        "eventRankingRewards": [
+          {
+            "id": 5753,
+            "eventRankingRewardRangeId": 5456,
+            "seq": 1,
+            "resourceBoxId": 5522,
+            "rewardConditionType": "none"
+          },
+          {
+            "id": 5754,
+            "eventRankingRewardRangeId": 5456,
+            "seq": 2,
+            "resourceBoxId": 5601,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 1
+          },
+          {
+            "id": 5755,
+            "eventRankingRewardRangeId": 5456,
+            "seq": 3,
+            "resourceBoxId": 5602,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 2
+          },
+          {
+            "id": 5756,
+            "eventRankingRewardRangeId": 5456,
+            "seq": 4,
+            "resourceBoxId": 5603,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 3
+          },
+          {
+            "id": 5757,
+            "eventRankingRewardRangeId": 5456,
+            "seq": 5,
+            "resourceBoxId": 5604,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 4
+          },
+          {
+            "id": 5758,
+            "eventRankingRewardRangeId": 5456,
+            "seq": 6,
+            "resourceBoxId": 5605,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 5
+          },
+          {
+            "id": 5759,
+            "eventRankingRewardRangeId": 5456,
+            "seq": 7,
+            "resourceBoxId": 5606,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 6
+          },
+          {
+            "id": 5760,
+            "eventRankingRewardRangeId": 5456,
+            "seq": 8,
+            "resourceBoxId": 5607,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 7
+          },
+          {
+            "id": 5761,
+            "eventRankingRewardRangeId": 5456,
+            "seq": 9,
+            "resourceBoxId": 5608,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 8
+          },
+          {
+            "id": 5762,
+            "eventRankingRewardRangeId": 5456,
+            "seq": 10,
+            "resourceBoxId": 5609,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 9
+          },
+          {
+            "id": 5763,
+            "eventRankingRewardRangeId": 5456,
+            "seq": 11,
+            "resourceBoxId": 5610,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 10
+          },
+          {
+            "id": 5764,
+            "eventRankingRewardRangeId": 5456,
+            "seq": 12,
+            "resourceBoxId": 5611,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 11
+          },
+          {
+            "id": 5765,
+            "eventRankingRewardRangeId": 5456,
+            "seq": 13,
+            "resourceBoxId": 5612,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 12
+          },
+          {
+            "id": 5766,
+            "eventRankingRewardRangeId": 5456,
+            "seq": 14,
+            "resourceBoxId": 5613,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 13
+          },
+          {
+            "id": 5767,
+            "eventRankingRewardRangeId": 5456,
+            "seq": 15,
+            "resourceBoxId": 5614,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 14
+          },
+          {
+            "id": 5768,
+            "eventRankingRewardRangeId": 5456,
+            "seq": 16,
+            "resourceBoxId": 5615,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 15
+          },
+          {
+            "id": 5769,
+            "eventRankingRewardRangeId": 5456,
+            "seq": 17,
+            "resourceBoxId": 5616,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 16
+          },
+          {
+            "id": 5770,
+            "eventRankingRewardRangeId": 5456,
+            "seq": 18,
+            "resourceBoxId": 5617,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 17
+          },
+          {
+            "id": 5771,
+            "eventRankingRewardRangeId": 5456,
+            "seq": 19,
+            "resourceBoxId": 5618,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 18
+          },
+          {
+            "id": 5772,
+            "eventRankingRewardRangeId": 5456,
+            "seq": 20,
+            "resourceBoxId": 5619,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 19
+          },
+          {
+            "id": 5773,
+            "eventRankingRewardRangeId": 5456,
+            "seq": 21,
+            "resourceBoxId": 5620,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 20
+          },
+          {
+            "id": 5774,
+            "eventRankingRewardRangeId": 5456,
+            "seq": 22,
+            "resourceBoxId": 5621,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 21
+          },
+          {
+            "id": 5775,
+            "eventRankingRewardRangeId": 5456,
+            "seq": 23,
+            "resourceBoxId": 5622,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 22
+          },
+          {
+            "id": 5776,
+            "eventRankingRewardRangeId": 5456,
+            "seq": 24,
+            "resourceBoxId": 5623,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 23
+          },
+          {
+            "id": 5777,
+            "eventRankingRewardRangeId": 5456,
+            "seq": 25,
+            "resourceBoxId": 5624,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 24
+          },
+          {
+            "id": 5778,
+            "eventRankingRewardRangeId": 5456,
+            "seq": 26,
+            "resourceBoxId": 5625,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 25
+          },
+          {
+            "id": 5779,
+            "eventRankingRewardRangeId": 5456,
+            "seq": 27,
+            "resourceBoxId": 5626,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 26
+          },
+          {
+            "id": 5780,
+            "eventRankingRewardRangeId": 5456,
+            "seq": 28,
+            "resourceBoxId": 5523,
+            "rewardConditionType": "none"
+          }
+        ]
+      },
+      {
+        "id": 5457,
+        "eventId": 180,
+        "fromRank": 31,
+        "toRank": 40,
+        "isToRankBorder": false,
+        "eventRankingRewards": [
+          {
+            "id": 5781,
+            "eventRankingRewardRangeId": 5457,
+            "seq": 1,
+            "resourceBoxId": 5524,
+            "rewardConditionType": "none"
+          },
+          {
+            "id": 5782,
+            "eventRankingRewardRangeId": 5457,
+            "seq": 2,
+            "resourceBoxId": 5601,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 1
+          },
+          {
+            "id": 5783,
+            "eventRankingRewardRangeId": 5457,
+            "seq": 3,
+            "resourceBoxId": 5602,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 2
+          },
+          {
+            "id": 5784,
+            "eventRankingRewardRangeId": 5457,
+            "seq": 4,
+            "resourceBoxId": 5603,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 3
+          },
+          {
+            "id": 5785,
+            "eventRankingRewardRangeId": 5457,
+            "seq": 5,
+            "resourceBoxId": 5604,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 4
+          },
+          {
+            "id": 5786,
+            "eventRankingRewardRangeId": 5457,
+            "seq": 6,
+            "resourceBoxId": 5605,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 5
+          },
+          {
+            "id": 5787,
+            "eventRankingRewardRangeId": 5457,
+            "seq": 7,
+            "resourceBoxId": 5606,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 6
+          },
+          {
+            "id": 5788,
+            "eventRankingRewardRangeId": 5457,
+            "seq": 8,
+            "resourceBoxId": 5607,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 7
+          },
+          {
+            "id": 5789,
+            "eventRankingRewardRangeId": 5457,
+            "seq": 9,
+            "resourceBoxId": 5608,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 8
+          },
+          {
+            "id": 5790,
+            "eventRankingRewardRangeId": 5457,
+            "seq": 10,
+            "resourceBoxId": 5609,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 9
+          },
+          {
+            "id": 5791,
+            "eventRankingRewardRangeId": 5457,
+            "seq": 11,
+            "resourceBoxId": 5610,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 10
+          },
+          {
+            "id": 5792,
+            "eventRankingRewardRangeId": 5457,
+            "seq": 12,
+            "resourceBoxId": 5611,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 11
+          },
+          {
+            "id": 5793,
+            "eventRankingRewardRangeId": 5457,
+            "seq": 13,
+            "resourceBoxId": 5612,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 12
+          },
+          {
+            "id": 5794,
+            "eventRankingRewardRangeId": 5457,
+            "seq": 14,
+            "resourceBoxId": 5613,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 13
+          },
+          {
+            "id": 5795,
+            "eventRankingRewardRangeId": 5457,
+            "seq": 15,
+            "resourceBoxId": 5614,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 14
+          },
+          {
+            "id": 5796,
+            "eventRankingRewardRangeId": 5457,
+            "seq": 16,
+            "resourceBoxId": 5615,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 15
+          },
+          {
+            "id": 5797,
+            "eventRankingRewardRangeId": 5457,
+            "seq": 17,
+            "resourceBoxId": 5616,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 16
+          },
+          {
+            "id": 5798,
+            "eventRankingRewardRangeId": 5457,
+            "seq": 18,
+            "resourceBoxId": 5617,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 17
+          },
+          {
+            "id": 5799,
+            "eventRankingRewardRangeId": 5457,
+            "seq": 19,
+            "resourceBoxId": 5618,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 18
+          },
+          {
+            "id": 5800,
+            "eventRankingRewardRangeId": 5457,
+            "seq": 20,
+            "resourceBoxId": 5619,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 19
+          },
+          {
+            "id": 5801,
+            "eventRankingRewardRangeId": 5457,
+            "seq": 21,
+            "resourceBoxId": 5620,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 20
+          },
+          {
+            "id": 5802,
+            "eventRankingRewardRangeId": 5457,
+            "seq": 22,
+            "resourceBoxId": 5621,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 21
+          },
+          {
+            "id": 5803,
+            "eventRankingRewardRangeId": 5457,
+            "seq": 23,
+            "resourceBoxId": 5622,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 22
+          },
+          {
+            "id": 5804,
+            "eventRankingRewardRangeId": 5457,
+            "seq": 24,
+            "resourceBoxId": 5623,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 23
+          },
+          {
+            "id": 5805,
+            "eventRankingRewardRangeId": 5457,
+            "seq": 25,
+            "resourceBoxId": 5624,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 24
+          },
+          {
+            "id": 5806,
+            "eventRankingRewardRangeId": 5457,
+            "seq": 26,
+            "resourceBoxId": 5625,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 25
+          },
+          {
+            "id": 5807,
+            "eventRankingRewardRangeId": 5457,
+            "seq": 27,
+            "resourceBoxId": 5626,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 26
+          },
+          {
+            "id": 5808,
+            "eventRankingRewardRangeId": 5457,
+            "seq": 28,
+            "resourceBoxId": 5525,
+            "rewardConditionType": "none"
+          }
+        ]
+      },
+      {
+        "id": 5458,
+        "eventId": 180,
+        "fromRank": 41,
+        "toRank": 50,
+        "isToRankBorder": false,
+        "eventRankingRewards": [
+          {
+            "id": 5809,
+            "eventRankingRewardRangeId": 5458,
+            "seq": 1,
+            "resourceBoxId": 5526,
+            "rewardConditionType": "none"
+          },
+          {
+            "id": 5810,
+            "eventRankingRewardRangeId": 5458,
+            "seq": 2,
+            "resourceBoxId": 5601,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 1
+          },
+          {
+            "id": 5811,
+            "eventRankingRewardRangeId": 5458,
+            "seq": 3,
+            "resourceBoxId": 5602,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 2
+          },
+          {
+            "id": 5812,
+            "eventRankingRewardRangeId": 5458,
+            "seq": 4,
+            "resourceBoxId": 5603,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 3
+          },
+          {
+            "id": 5813,
+            "eventRankingRewardRangeId": 5458,
+            "seq": 5,
+            "resourceBoxId": 5604,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 4
+          },
+          {
+            "id": 5814,
+            "eventRankingRewardRangeId": 5458,
+            "seq": 6,
+            "resourceBoxId": 5605,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 5
+          },
+          {
+            "id": 5815,
+            "eventRankingRewardRangeId": 5458,
+            "seq": 7,
+            "resourceBoxId": 5606,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 6
+          },
+          {
+            "id": 5816,
+            "eventRankingRewardRangeId": 5458,
+            "seq": 8,
+            "resourceBoxId": 5607,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 7
+          },
+          {
+            "id": 5817,
+            "eventRankingRewardRangeId": 5458,
+            "seq": 9,
+            "resourceBoxId": 5608,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 8
+          },
+          {
+            "id": 5818,
+            "eventRankingRewardRangeId": 5458,
+            "seq": 10,
+            "resourceBoxId": 5609,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 9
+          },
+          {
+            "id": 5819,
+            "eventRankingRewardRangeId": 5458,
+            "seq": 11,
+            "resourceBoxId": 5610,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 10
+          },
+          {
+            "id": 5820,
+            "eventRankingRewardRangeId": 5458,
+            "seq": 12,
+            "resourceBoxId": 5611,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 11
+          },
+          {
+            "id": 5821,
+            "eventRankingRewardRangeId": 5458,
+            "seq": 13,
+            "resourceBoxId": 5612,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 12
+          },
+          {
+            "id": 5822,
+            "eventRankingRewardRangeId": 5458,
+            "seq": 14,
+            "resourceBoxId": 5613,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 13
+          },
+          {
+            "id": 5823,
+            "eventRankingRewardRangeId": 5458,
+            "seq": 15,
+            "resourceBoxId": 5614,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 14
+          },
+          {
+            "id": 5824,
+            "eventRankingRewardRangeId": 5458,
+            "seq": 16,
+            "resourceBoxId": 5615,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 15
+          },
+          {
+            "id": 5825,
+            "eventRankingRewardRangeId": 5458,
+            "seq": 17,
+            "resourceBoxId": 5616,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 16
+          },
+          {
+            "id": 5826,
+            "eventRankingRewardRangeId": 5458,
+            "seq": 18,
+            "resourceBoxId": 5617,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 17
+          },
+          {
+            "id": 5827,
+            "eventRankingRewardRangeId": 5458,
+            "seq": 19,
+            "resourceBoxId": 5618,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 18
+          },
+          {
+            "id": 5828,
+            "eventRankingRewardRangeId": 5458,
+            "seq": 20,
+            "resourceBoxId": 5619,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 19
+          },
+          {
+            "id": 5829,
+            "eventRankingRewardRangeId": 5458,
+            "seq": 21,
+            "resourceBoxId": 5620,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 20
+          },
+          {
+            "id": 5830,
+            "eventRankingRewardRangeId": 5458,
+            "seq": 22,
+            "resourceBoxId": 5621,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 21
+          },
+          {
+            "id": 5831,
+            "eventRankingRewardRangeId": 5458,
+            "seq": 23,
+            "resourceBoxId": 5622,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 22
+          },
+          {
+            "id": 5832,
+            "eventRankingRewardRangeId": 5458,
+            "seq": 24,
+            "resourceBoxId": 5623,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 23
+          },
+          {
+            "id": 5833,
+            "eventRankingRewardRangeId": 5458,
+            "seq": 25,
+            "resourceBoxId": 5624,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 24
+          },
+          {
+            "id": 5834,
+            "eventRankingRewardRangeId": 5458,
+            "seq": 26,
+            "resourceBoxId": 5625,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 25
+          },
+          {
+            "id": 5835,
+            "eventRankingRewardRangeId": 5458,
+            "seq": 27,
+            "resourceBoxId": 5626,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 26
+          },
+          {
+            "id": 5836,
+            "eventRankingRewardRangeId": 5458,
+            "seq": 28,
+            "resourceBoxId": 5527,
+            "rewardConditionType": "none"
+          }
+        ]
+      },
+      {
+        "id": 5459,
+        "eventId": 180,
+        "fromRank": 51,
+        "toRank": 100,
+        "isToRankBorder": true,
+        "eventRankingRewards": [
+          {
+            "id": 5837,
+            "eventRankingRewardRangeId": 5459,
+            "seq": 1,
+            "resourceBoxId": 5528,
+            "rewardConditionType": "none"
+          },
+          {
+            "id": 5838,
+            "eventRankingRewardRangeId": 5459,
+            "seq": 2,
+            "resourceBoxId": 5601,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 1
+          },
+          {
+            "id": 5839,
+            "eventRankingRewardRangeId": 5459,
+            "seq": 3,
+            "resourceBoxId": 5602,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 2
+          },
+          {
+            "id": 5840,
+            "eventRankingRewardRangeId": 5459,
+            "seq": 4,
+            "resourceBoxId": 5603,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 3
+          },
+          {
+            "id": 5841,
+            "eventRankingRewardRangeId": 5459,
+            "seq": 5,
+            "resourceBoxId": 5604,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 4
+          },
+          {
+            "id": 5842,
+            "eventRankingRewardRangeId": 5459,
+            "seq": 6,
+            "resourceBoxId": 5605,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 5
+          },
+          {
+            "id": 5843,
+            "eventRankingRewardRangeId": 5459,
+            "seq": 7,
+            "resourceBoxId": 5606,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 6
+          },
+          {
+            "id": 5844,
+            "eventRankingRewardRangeId": 5459,
+            "seq": 8,
+            "resourceBoxId": 5607,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 7
+          },
+          {
+            "id": 5845,
+            "eventRankingRewardRangeId": 5459,
+            "seq": 9,
+            "resourceBoxId": 5608,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 8
+          },
+          {
+            "id": 5846,
+            "eventRankingRewardRangeId": 5459,
+            "seq": 10,
+            "resourceBoxId": 5609,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 9
+          },
+          {
+            "id": 5847,
+            "eventRankingRewardRangeId": 5459,
+            "seq": 11,
+            "resourceBoxId": 5610,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 10
+          },
+          {
+            "id": 5848,
+            "eventRankingRewardRangeId": 5459,
+            "seq": 12,
+            "resourceBoxId": 5611,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 11
+          },
+          {
+            "id": 5849,
+            "eventRankingRewardRangeId": 5459,
+            "seq": 13,
+            "resourceBoxId": 5612,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 12
+          },
+          {
+            "id": 5850,
+            "eventRankingRewardRangeId": 5459,
+            "seq": 14,
+            "resourceBoxId": 5613,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 13
+          },
+          {
+            "id": 5851,
+            "eventRankingRewardRangeId": 5459,
+            "seq": 15,
+            "resourceBoxId": 5614,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 14
+          },
+          {
+            "id": 5852,
+            "eventRankingRewardRangeId": 5459,
+            "seq": 16,
+            "resourceBoxId": 5615,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 15
+          },
+          {
+            "id": 5853,
+            "eventRankingRewardRangeId": 5459,
+            "seq": 17,
+            "resourceBoxId": 5616,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 16
+          },
+          {
+            "id": 5854,
+            "eventRankingRewardRangeId": 5459,
+            "seq": 18,
+            "resourceBoxId": 5617,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 17
+          },
+          {
+            "id": 5855,
+            "eventRankingRewardRangeId": 5459,
+            "seq": 19,
+            "resourceBoxId": 5618,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 18
+          },
+          {
+            "id": 5856,
+            "eventRankingRewardRangeId": 5459,
+            "seq": 20,
+            "resourceBoxId": 5619,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 19
+          },
+          {
+            "id": 5857,
+            "eventRankingRewardRangeId": 5459,
+            "seq": 21,
+            "resourceBoxId": 5620,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 20
+          },
+          {
+            "id": 5858,
+            "eventRankingRewardRangeId": 5459,
+            "seq": 22,
+            "resourceBoxId": 5621,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 21
+          },
+          {
+            "id": 5859,
+            "eventRankingRewardRangeId": 5459,
+            "seq": 23,
+            "resourceBoxId": 5622,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 22
+          },
+          {
+            "id": 5860,
+            "eventRankingRewardRangeId": 5459,
+            "seq": 24,
+            "resourceBoxId": 5623,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 23
+          },
+          {
+            "id": 5861,
+            "eventRankingRewardRangeId": 5459,
+            "seq": 25,
+            "resourceBoxId": 5624,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 24
+          },
+          {
+            "id": 5862,
+            "eventRankingRewardRangeId": 5459,
+            "seq": 26,
+            "resourceBoxId": 5625,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 25
+          },
+          {
+            "id": 5863,
+            "eventRankingRewardRangeId": 5459,
+            "seq": 27,
+            "resourceBoxId": 5626,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 26
+          },
+          {
+            "id": 5864,
+            "eventRankingRewardRangeId": 5459,
+            "seq": 28,
+            "resourceBoxId": 5529,
+            "rewardConditionType": "none"
+          }
+        ]
+      },
+      {
+        "id": 5460,
+        "eventId": 180,
+        "fromRank": 101,
+        "toRank": 200,
+        "isToRankBorder": true,
+        "eventRankingRewards": [
+          {
+            "id": 5865,
+            "eventRankingRewardRangeId": 5460,
+            "seq": 1,
+            "resourceBoxId": 5530,
+            "rewardConditionType": "none"
+          },
+          {
+            "id": 5866,
+            "eventRankingRewardRangeId": 5460,
+            "seq": 2,
+            "resourceBoxId": 5701,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 1
+          },
+          {
+            "id": 5867,
+            "eventRankingRewardRangeId": 5460,
+            "seq": 3,
+            "resourceBoxId": 5702,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 2
+          },
+          {
+            "id": 5868,
+            "eventRankingRewardRangeId": 5460,
+            "seq": 4,
+            "resourceBoxId": 5703,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 3
+          },
+          {
+            "id": 5869,
+            "eventRankingRewardRangeId": 5460,
+            "seq": 5,
+            "resourceBoxId": 5704,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 4
+          },
+          {
+            "id": 5870,
+            "eventRankingRewardRangeId": 5460,
+            "seq": 6,
+            "resourceBoxId": 5705,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 5
+          },
+          {
+            "id": 5871,
+            "eventRankingRewardRangeId": 5460,
+            "seq": 7,
+            "resourceBoxId": 5706,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 6
+          },
+          {
+            "id": 5872,
+            "eventRankingRewardRangeId": 5460,
+            "seq": 8,
+            "resourceBoxId": 5707,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 7
+          },
+          {
+            "id": 5873,
+            "eventRankingRewardRangeId": 5460,
+            "seq": 9,
+            "resourceBoxId": 5708,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 8
+          },
+          {
+            "id": 5874,
+            "eventRankingRewardRangeId": 5460,
+            "seq": 10,
+            "resourceBoxId": 5709,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 9
+          },
+          {
+            "id": 5875,
+            "eventRankingRewardRangeId": 5460,
+            "seq": 11,
+            "resourceBoxId": 5710,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 10
+          },
+          {
+            "id": 5876,
+            "eventRankingRewardRangeId": 5460,
+            "seq": 12,
+            "resourceBoxId": 5711,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 11
+          },
+          {
+            "id": 5877,
+            "eventRankingRewardRangeId": 5460,
+            "seq": 13,
+            "resourceBoxId": 5712,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 12
+          },
+          {
+            "id": 5878,
+            "eventRankingRewardRangeId": 5460,
+            "seq": 14,
+            "resourceBoxId": 5713,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 13
+          },
+          {
+            "id": 5879,
+            "eventRankingRewardRangeId": 5460,
+            "seq": 15,
+            "resourceBoxId": 5714,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 14
+          },
+          {
+            "id": 5880,
+            "eventRankingRewardRangeId": 5460,
+            "seq": 16,
+            "resourceBoxId": 5715,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 15
+          },
+          {
+            "id": 5881,
+            "eventRankingRewardRangeId": 5460,
+            "seq": 17,
+            "resourceBoxId": 5716,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 16
+          },
+          {
+            "id": 5882,
+            "eventRankingRewardRangeId": 5460,
+            "seq": 18,
+            "resourceBoxId": 5717,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 17
+          },
+          {
+            "id": 5883,
+            "eventRankingRewardRangeId": 5460,
+            "seq": 19,
+            "resourceBoxId": 5718,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 18
+          },
+          {
+            "id": 5884,
+            "eventRankingRewardRangeId": 5460,
+            "seq": 20,
+            "resourceBoxId": 5719,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 19
+          },
+          {
+            "id": 5885,
+            "eventRankingRewardRangeId": 5460,
+            "seq": 21,
+            "resourceBoxId": 5720,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 20
+          },
+          {
+            "id": 5886,
+            "eventRankingRewardRangeId": 5460,
+            "seq": 22,
+            "resourceBoxId": 5721,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 21
+          },
+          {
+            "id": 5887,
+            "eventRankingRewardRangeId": 5460,
+            "seq": 23,
+            "resourceBoxId": 5722,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 22
+          },
+          {
+            "id": 5888,
+            "eventRankingRewardRangeId": 5460,
+            "seq": 24,
+            "resourceBoxId": 5723,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 23
+          },
+          {
+            "id": 5889,
+            "eventRankingRewardRangeId": 5460,
+            "seq": 25,
+            "resourceBoxId": 5724,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 24
+          },
+          {
+            "id": 5890,
+            "eventRankingRewardRangeId": 5460,
+            "seq": 26,
+            "resourceBoxId": 5725,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 25
+          },
+          {
+            "id": 5891,
+            "eventRankingRewardRangeId": 5460,
+            "seq": 27,
+            "resourceBoxId": 5726,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 26
+          },
+          {
+            "id": 5892,
+            "eventRankingRewardRangeId": 5460,
+            "seq": 28,
+            "resourceBoxId": 5531,
+            "rewardConditionType": "none"
+          }
+        ]
+      },
+      {
+        "id": 5461,
+        "eventId": 180,
+        "fromRank": 201,
+        "toRank": 300,
+        "isToRankBorder": true,
+        "eventRankingRewards": [
+          {
+            "id": 5893,
+            "eventRankingRewardRangeId": 5461,
+            "seq": 1,
+            "resourceBoxId": 5532,
+            "rewardConditionType": "none"
+          },
+          {
+            "id": 5894,
+            "eventRankingRewardRangeId": 5461,
+            "seq": 2,
+            "resourceBoxId": 5701,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 1
+          },
+          {
+            "id": 5895,
+            "eventRankingRewardRangeId": 5461,
+            "seq": 3,
+            "resourceBoxId": 5702,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 2
+          },
+          {
+            "id": 5896,
+            "eventRankingRewardRangeId": 5461,
+            "seq": 4,
+            "resourceBoxId": 5703,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 3
+          },
+          {
+            "id": 5897,
+            "eventRankingRewardRangeId": 5461,
+            "seq": 5,
+            "resourceBoxId": 5704,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 4
+          },
+          {
+            "id": 5898,
+            "eventRankingRewardRangeId": 5461,
+            "seq": 6,
+            "resourceBoxId": 5705,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 5
+          },
+          {
+            "id": 5899,
+            "eventRankingRewardRangeId": 5461,
+            "seq": 7,
+            "resourceBoxId": 5706,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 6
+          },
+          {
+            "id": 5900,
+            "eventRankingRewardRangeId": 5461,
+            "seq": 8,
+            "resourceBoxId": 5707,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 7
+          },
+          {
+            "id": 5901,
+            "eventRankingRewardRangeId": 5461,
+            "seq": 9,
+            "resourceBoxId": 5708,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 8
+          },
+          {
+            "id": 5902,
+            "eventRankingRewardRangeId": 5461,
+            "seq": 10,
+            "resourceBoxId": 5709,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 9
+          },
+          {
+            "id": 5903,
+            "eventRankingRewardRangeId": 5461,
+            "seq": 11,
+            "resourceBoxId": 5710,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 10
+          },
+          {
+            "id": 5904,
+            "eventRankingRewardRangeId": 5461,
+            "seq": 12,
+            "resourceBoxId": 5711,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 11
+          },
+          {
+            "id": 5905,
+            "eventRankingRewardRangeId": 5461,
+            "seq": 13,
+            "resourceBoxId": 5712,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 12
+          },
+          {
+            "id": 5906,
+            "eventRankingRewardRangeId": 5461,
+            "seq": 14,
+            "resourceBoxId": 5713,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 13
+          },
+          {
+            "id": 5907,
+            "eventRankingRewardRangeId": 5461,
+            "seq": 15,
+            "resourceBoxId": 5714,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 14
+          },
+          {
+            "id": 5908,
+            "eventRankingRewardRangeId": 5461,
+            "seq": 16,
+            "resourceBoxId": 5715,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 15
+          },
+          {
+            "id": 5909,
+            "eventRankingRewardRangeId": 5461,
+            "seq": 17,
+            "resourceBoxId": 5716,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 16
+          },
+          {
+            "id": 5910,
+            "eventRankingRewardRangeId": 5461,
+            "seq": 18,
+            "resourceBoxId": 5717,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 17
+          },
+          {
+            "id": 5911,
+            "eventRankingRewardRangeId": 5461,
+            "seq": 19,
+            "resourceBoxId": 5718,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 18
+          },
+          {
+            "id": 5912,
+            "eventRankingRewardRangeId": 5461,
+            "seq": 20,
+            "resourceBoxId": 5719,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 19
+          },
+          {
+            "id": 5913,
+            "eventRankingRewardRangeId": 5461,
+            "seq": 21,
+            "resourceBoxId": 5720,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 20
+          },
+          {
+            "id": 5914,
+            "eventRankingRewardRangeId": 5461,
+            "seq": 22,
+            "resourceBoxId": 5721,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 21
+          },
+          {
+            "id": 5915,
+            "eventRankingRewardRangeId": 5461,
+            "seq": 23,
+            "resourceBoxId": 5722,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 22
+          },
+          {
+            "id": 5916,
+            "eventRankingRewardRangeId": 5461,
+            "seq": 24,
+            "resourceBoxId": 5723,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 23
+          },
+          {
+            "id": 5917,
+            "eventRankingRewardRangeId": 5461,
+            "seq": 25,
+            "resourceBoxId": 5724,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 24
+          },
+          {
+            "id": 5918,
+            "eventRankingRewardRangeId": 5461,
+            "seq": 26,
+            "resourceBoxId": 5725,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 25
+          },
+          {
+            "id": 5919,
+            "eventRankingRewardRangeId": 5461,
+            "seq": 27,
+            "resourceBoxId": 5726,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 26
+          },
+          {
+            "id": 5920,
+            "eventRankingRewardRangeId": 5461,
+            "seq": 28,
+            "resourceBoxId": 5533,
+            "rewardConditionType": "none"
+          }
+        ]
+      },
+      {
+        "id": 5462,
+        "eventId": 180,
+        "fromRank": 301,
+        "toRank": 400,
+        "isToRankBorder": true,
+        "eventRankingRewards": [
+          {
+            "id": 5921,
+            "eventRankingRewardRangeId": 5462,
+            "seq": 1,
+            "resourceBoxId": 5534,
+            "rewardConditionType": "none"
+          },
+          {
+            "id": 5922,
+            "eventRankingRewardRangeId": 5462,
+            "seq": 2,
+            "resourceBoxId": 5701,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 1
+          },
+          {
+            "id": 5923,
+            "eventRankingRewardRangeId": 5462,
+            "seq": 3,
+            "resourceBoxId": 5702,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 2
+          },
+          {
+            "id": 5924,
+            "eventRankingRewardRangeId": 5462,
+            "seq": 4,
+            "resourceBoxId": 5703,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 3
+          },
+          {
+            "id": 5925,
+            "eventRankingRewardRangeId": 5462,
+            "seq": 5,
+            "resourceBoxId": 5704,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 4
+          },
+          {
+            "id": 5926,
+            "eventRankingRewardRangeId": 5462,
+            "seq": 6,
+            "resourceBoxId": 5705,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 5
+          },
+          {
+            "id": 5927,
+            "eventRankingRewardRangeId": 5462,
+            "seq": 7,
+            "resourceBoxId": 5706,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 6
+          },
+          {
+            "id": 5928,
+            "eventRankingRewardRangeId": 5462,
+            "seq": 8,
+            "resourceBoxId": 5707,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 7
+          },
+          {
+            "id": 5929,
+            "eventRankingRewardRangeId": 5462,
+            "seq": 9,
+            "resourceBoxId": 5708,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 8
+          },
+          {
+            "id": 5930,
+            "eventRankingRewardRangeId": 5462,
+            "seq": 10,
+            "resourceBoxId": 5709,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 9
+          },
+          {
+            "id": 5931,
+            "eventRankingRewardRangeId": 5462,
+            "seq": 11,
+            "resourceBoxId": 5710,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 10
+          },
+          {
+            "id": 5932,
+            "eventRankingRewardRangeId": 5462,
+            "seq": 12,
+            "resourceBoxId": 5711,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 11
+          },
+          {
+            "id": 5933,
+            "eventRankingRewardRangeId": 5462,
+            "seq": 13,
+            "resourceBoxId": 5712,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 12
+          },
+          {
+            "id": 5934,
+            "eventRankingRewardRangeId": 5462,
+            "seq": 14,
+            "resourceBoxId": 5713,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 13
+          },
+          {
+            "id": 5935,
+            "eventRankingRewardRangeId": 5462,
+            "seq": 15,
+            "resourceBoxId": 5714,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 14
+          },
+          {
+            "id": 5936,
+            "eventRankingRewardRangeId": 5462,
+            "seq": 16,
+            "resourceBoxId": 5715,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 15
+          },
+          {
+            "id": 5937,
+            "eventRankingRewardRangeId": 5462,
+            "seq": 17,
+            "resourceBoxId": 5716,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 16
+          },
+          {
+            "id": 5938,
+            "eventRankingRewardRangeId": 5462,
+            "seq": 18,
+            "resourceBoxId": 5717,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 17
+          },
+          {
+            "id": 5939,
+            "eventRankingRewardRangeId": 5462,
+            "seq": 19,
+            "resourceBoxId": 5718,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 18
+          },
+          {
+            "id": 5940,
+            "eventRankingRewardRangeId": 5462,
+            "seq": 20,
+            "resourceBoxId": 5719,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 19
+          },
+          {
+            "id": 5941,
+            "eventRankingRewardRangeId": 5462,
+            "seq": 21,
+            "resourceBoxId": 5720,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 20
+          },
+          {
+            "id": 5942,
+            "eventRankingRewardRangeId": 5462,
+            "seq": 22,
+            "resourceBoxId": 5721,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 21
+          },
+          {
+            "id": 5943,
+            "eventRankingRewardRangeId": 5462,
+            "seq": 23,
+            "resourceBoxId": 5722,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 22
+          },
+          {
+            "id": 5944,
+            "eventRankingRewardRangeId": 5462,
+            "seq": 24,
+            "resourceBoxId": 5723,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 23
+          },
+          {
+            "id": 5945,
+            "eventRankingRewardRangeId": 5462,
+            "seq": 25,
+            "resourceBoxId": 5724,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 24
+          },
+          {
+            "id": 5946,
+            "eventRankingRewardRangeId": 5462,
+            "seq": 26,
+            "resourceBoxId": 5725,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 25
+          },
+          {
+            "id": 5947,
+            "eventRankingRewardRangeId": 5462,
+            "seq": 27,
+            "resourceBoxId": 5726,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 26
+          },
+          {
+            "id": 5948,
+            "eventRankingRewardRangeId": 5462,
+            "seq": 28,
+            "resourceBoxId": 5535,
+            "rewardConditionType": "none"
+          }
+        ]
+      },
+      {
+        "id": 5463,
+        "eventId": 180,
+        "fromRank": 401,
+        "toRank": 500,
+        "isToRankBorder": true,
+        "eventRankingRewards": [
+          {
+            "id": 5949,
+            "eventRankingRewardRangeId": 5463,
+            "seq": 1,
+            "resourceBoxId": 5536,
+            "rewardConditionType": "none"
+          },
+          {
+            "id": 5950,
+            "eventRankingRewardRangeId": 5463,
+            "seq": 2,
+            "resourceBoxId": 5701,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 1
+          },
+          {
+            "id": 5951,
+            "eventRankingRewardRangeId": 5463,
+            "seq": 3,
+            "resourceBoxId": 5702,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 2
+          },
+          {
+            "id": 5952,
+            "eventRankingRewardRangeId": 5463,
+            "seq": 4,
+            "resourceBoxId": 5703,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 3
+          },
+          {
+            "id": 5953,
+            "eventRankingRewardRangeId": 5463,
+            "seq": 5,
+            "resourceBoxId": 5704,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 4
+          },
+          {
+            "id": 5954,
+            "eventRankingRewardRangeId": 5463,
+            "seq": 6,
+            "resourceBoxId": 5705,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 5
+          },
+          {
+            "id": 5955,
+            "eventRankingRewardRangeId": 5463,
+            "seq": 7,
+            "resourceBoxId": 5706,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 6
+          },
+          {
+            "id": 5956,
+            "eventRankingRewardRangeId": 5463,
+            "seq": 8,
+            "resourceBoxId": 5707,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 7
+          },
+          {
+            "id": 5957,
+            "eventRankingRewardRangeId": 5463,
+            "seq": 9,
+            "resourceBoxId": 5708,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 8
+          },
+          {
+            "id": 5958,
+            "eventRankingRewardRangeId": 5463,
+            "seq": 10,
+            "resourceBoxId": 5709,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 9
+          },
+          {
+            "id": 5959,
+            "eventRankingRewardRangeId": 5463,
+            "seq": 11,
+            "resourceBoxId": 5710,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 10
+          },
+          {
+            "id": 5960,
+            "eventRankingRewardRangeId": 5463,
+            "seq": 12,
+            "resourceBoxId": 5711,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 11
+          },
+          {
+            "id": 5961,
+            "eventRankingRewardRangeId": 5463,
+            "seq": 13,
+            "resourceBoxId": 5712,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 12
+          },
+          {
+            "id": 5962,
+            "eventRankingRewardRangeId": 5463,
+            "seq": 14,
+            "resourceBoxId": 5713,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 13
+          },
+          {
+            "id": 5963,
+            "eventRankingRewardRangeId": 5463,
+            "seq": 15,
+            "resourceBoxId": 5714,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 14
+          },
+          {
+            "id": 5964,
+            "eventRankingRewardRangeId": 5463,
+            "seq": 16,
+            "resourceBoxId": 5715,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 15
+          },
+          {
+            "id": 5965,
+            "eventRankingRewardRangeId": 5463,
+            "seq": 17,
+            "resourceBoxId": 5716,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 16
+          },
+          {
+            "id": 5966,
+            "eventRankingRewardRangeId": 5463,
+            "seq": 18,
+            "resourceBoxId": 5717,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 17
+          },
+          {
+            "id": 5967,
+            "eventRankingRewardRangeId": 5463,
+            "seq": 19,
+            "resourceBoxId": 5718,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 18
+          },
+          {
+            "id": 5968,
+            "eventRankingRewardRangeId": 5463,
+            "seq": 20,
+            "resourceBoxId": 5719,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 19
+          },
+          {
+            "id": 5969,
+            "eventRankingRewardRangeId": 5463,
+            "seq": 21,
+            "resourceBoxId": 5720,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 20
+          },
+          {
+            "id": 5970,
+            "eventRankingRewardRangeId": 5463,
+            "seq": 22,
+            "resourceBoxId": 5721,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 21
+          },
+          {
+            "id": 5971,
+            "eventRankingRewardRangeId": 5463,
+            "seq": 23,
+            "resourceBoxId": 5722,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 22
+          },
+          {
+            "id": 5972,
+            "eventRankingRewardRangeId": 5463,
+            "seq": 24,
+            "resourceBoxId": 5723,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 23
+          },
+          {
+            "id": 5973,
+            "eventRankingRewardRangeId": 5463,
+            "seq": 25,
+            "resourceBoxId": 5724,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 24
+          },
+          {
+            "id": 5974,
+            "eventRankingRewardRangeId": 5463,
+            "seq": 26,
+            "resourceBoxId": 5725,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 25
+          },
+          {
+            "id": 5975,
+            "eventRankingRewardRangeId": 5463,
+            "seq": 27,
+            "resourceBoxId": 5726,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 26
+          },
+          {
+            "id": 5976,
+            "eventRankingRewardRangeId": 5463,
+            "seq": 28,
+            "resourceBoxId": 5537,
+            "rewardConditionType": "none"
+          }
+        ]
+      },
+      {
+        "id": 5464,
+        "eventId": 180,
+        "fromRank": 501,
+        "toRank": 1000,
+        "isToRankBorder": true,
+        "eventRankingRewards": [
+          {
+            "id": 5977,
+            "eventRankingRewardRangeId": 5464,
+            "seq": 1,
+            "resourceBoxId": 5538,
+            "rewardConditionType": "none"
+          },
+          {
+            "id": 5978,
+            "eventRankingRewardRangeId": 5464,
+            "seq": 2,
+            "resourceBoxId": 5701,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 1
+          },
+          {
+            "id": 5979,
+            "eventRankingRewardRangeId": 5464,
+            "seq": 3,
+            "resourceBoxId": 5702,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 2
+          },
+          {
+            "id": 5980,
+            "eventRankingRewardRangeId": 5464,
+            "seq": 4,
+            "resourceBoxId": 5703,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 3
+          },
+          {
+            "id": 5981,
+            "eventRankingRewardRangeId": 5464,
+            "seq": 5,
+            "resourceBoxId": 5704,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 4
+          },
+          {
+            "id": 5982,
+            "eventRankingRewardRangeId": 5464,
+            "seq": 6,
+            "resourceBoxId": 5705,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 5
+          },
+          {
+            "id": 5983,
+            "eventRankingRewardRangeId": 5464,
+            "seq": 7,
+            "resourceBoxId": 5706,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 6
+          },
+          {
+            "id": 5984,
+            "eventRankingRewardRangeId": 5464,
+            "seq": 8,
+            "resourceBoxId": 5707,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 7
+          },
+          {
+            "id": 5985,
+            "eventRankingRewardRangeId": 5464,
+            "seq": 9,
+            "resourceBoxId": 5708,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 8
+          },
+          {
+            "id": 5986,
+            "eventRankingRewardRangeId": 5464,
+            "seq": 10,
+            "resourceBoxId": 5709,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 9
+          },
+          {
+            "id": 5987,
+            "eventRankingRewardRangeId": 5464,
+            "seq": 11,
+            "resourceBoxId": 5710,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 10
+          },
+          {
+            "id": 5988,
+            "eventRankingRewardRangeId": 5464,
+            "seq": 12,
+            "resourceBoxId": 5711,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 11
+          },
+          {
+            "id": 5989,
+            "eventRankingRewardRangeId": 5464,
+            "seq": 13,
+            "resourceBoxId": 5712,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 12
+          },
+          {
+            "id": 5990,
+            "eventRankingRewardRangeId": 5464,
+            "seq": 14,
+            "resourceBoxId": 5713,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 13
+          },
+          {
+            "id": 5991,
+            "eventRankingRewardRangeId": 5464,
+            "seq": 15,
+            "resourceBoxId": 5714,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 14
+          },
+          {
+            "id": 5992,
+            "eventRankingRewardRangeId": 5464,
+            "seq": 16,
+            "resourceBoxId": 5715,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 15
+          },
+          {
+            "id": 5993,
+            "eventRankingRewardRangeId": 5464,
+            "seq": 17,
+            "resourceBoxId": 5716,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 16
+          },
+          {
+            "id": 5994,
+            "eventRankingRewardRangeId": 5464,
+            "seq": 18,
+            "resourceBoxId": 5717,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 17
+          },
+          {
+            "id": 5995,
+            "eventRankingRewardRangeId": 5464,
+            "seq": 19,
+            "resourceBoxId": 5718,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 18
+          },
+          {
+            "id": 5996,
+            "eventRankingRewardRangeId": 5464,
+            "seq": 20,
+            "resourceBoxId": 5719,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 19
+          },
+          {
+            "id": 5997,
+            "eventRankingRewardRangeId": 5464,
+            "seq": 21,
+            "resourceBoxId": 5720,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 20
+          },
+          {
+            "id": 5998,
+            "eventRankingRewardRangeId": 5464,
+            "seq": 22,
+            "resourceBoxId": 5721,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 21
+          },
+          {
+            "id": 5999,
+            "eventRankingRewardRangeId": 5464,
+            "seq": 23,
+            "resourceBoxId": 5722,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 22
+          },
+          {
+            "id": 6000,
+            "eventRankingRewardRangeId": 5464,
+            "seq": 24,
+            "resourceBoxId": 5723,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 23
+          },
+          {
+            "id": 6001,
+            "eventRankingRewardRangeId": 5464,
+            "seq": 25,
+            "resourceBoxId": 5724,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 24
+          },
+          {
+            "id": 6002,
+            "eventRankingRewardRangeId": 5464,
+            "seq": 26,
+            "resourceBoxId": 5725,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 25
+          },
+          {
+            "id": 6003,
+            "eventRankingRewardRangeId": 5464,
+            "seq": 27,
+            "resourceBoxId": 5726,
+            "rewardConditionType": "leader_character_play_count",
+            "conditionValue": 26
+          },
+          {
+            "id": 6004,
+            "eventRankingRewardRangeId": 5464,
+            "seq": 28,
+            "resourceBoxId": 5539,
+            "rewardConditionType": "none"
+          }
+        ]
+      },
+      {
+        "id": 5465,
+        "eventId": 180,
+        "fromRank": 1001,
+        "toRank": 1500,
+        "isToRankBorder": true,
+        "eventRankingRewards": [
+          {
+            "id": 6005,
+            "eventRankingRewardRangeId": 5465,
+            "seq": 1,
+            "resourceBoxId": 5540,
+            "rewardConditionType": "none"
+          }
+        ]
+      },
+      {
+        "id": 5466,
+        "eventId": 180,
+        "fromRank": 1501,
+        "toRank": 2000,
+        "isToRankBorder": true,
+        "eventRankingRewards": [
+          {
+            "id": 6006,
+            "eventRankingRewardRangeId": 5466,
+            "seq": 1,
+            "resourceBoxId": 5541,
+            "rewardConditionType": "none"
+          }
+        ]
+      },
+      {
+        "id": 5467,
+        "eventId": 180,
+        "fromRank": 2001,
+        "toRank": 2500,
+        "isToRankBorder": true,
+        "eventRankingRewards": [
+          {
+            "id": 6007,
+            "eventRankingRewardRangeId": 5467,
+            "seq": 1,
+            "resourceBoxId": 5542,
+            "rewardConditionType": "none"
+          }
+        ]
+      },
+      {
+        "id": 5468,
+        "eventId": 180,
+        "fromRank": 2501,
+        "toRank": 3000,
+        "isToRankBorder": true,
+        "eventRankingRewards": [
+          {
+            "id": 6008,
+            "eventRankingRewardRangeId": 5468,
+            "seq": 1,
+            "resourceBoxId": 5543,
+            "rewardConditionType": "none"
+          }
+        ]
+      },
+      {
+        "id": 5469,
+        "eventId": 180,
+        "fromRank": 3001,
+        "toRank": 4000,
+        "isToRankBorder": true,
+        "eventRankingRewards": [
+          {
+            "id": 6009,
+            "eventRankingRewardRangeId": 5469,
+            "seq": 1,
+            "resourceBoxId": 5544,
+            "rewardConditionType": "none"
+          }
+        ]
+      },
+      {
+        "id": 5470,
+        "eventId": 180,
+        "fromRank": 4001,
+        "toRank": 5000,
+        "isToRankBorder": true,
+        "eventRankingRewards": [
+          {
+            "id": 6010,
+            "eventRankingRewardRangeId": 5470,
+            "seq": 1,
+            "resourceBoxId": 5545,
+            "rewardConditionType": "none"
+          }
+        ]
+      },
+      {
+        "id": 5471,
+        "eventId": 180,
+        "fromRank": 5001,
+        "toRank": 10000,
+        "isToRankBorder": true,
+        "eventRankingRewards": [
+          {
+            "id": 6011,
+            "eventRankingRewardRangeId": 5471,
+            "seq": 1,
+            "resourceBoxId": 5546,
+            "rewardConditionType": "none"
+          }
+        ]
+      },
+      {
+        "id": 5472,
+        "eventId": 180,
+        "fromRank": 10001,
+        "toRank": 20000,
+        "isToRankBorder": true,
+        "eventRankingRewards": [
+          {
+            "id": 6012,
+            "eventRankingRewardRangeId": 5472,
+            "seq": 1,
+            "resourceBoxId": 5547,
+            "rewardConditionType": "none"
+          }
+        ]
+      },
+      {
+        "id": 5473,
+        "eventId": 180,
+        "fromRank": 20001,
+        "toRank": 30000,
+        "isToRankBorder": true,
+        "eventRankingRewards": [
+          {
+            "id": 6013,
+            "eventRankingRewardRangeId": 5473,
+            "seq": 1,
+            "resourceBoxId": 5548,
+            "rewardConditionType": "none"
+          }
+        ]
+      },
+      {
+        "id": 5474,
+        "eventId": 180,
+        "fromRank": 30001,
+        "toRank": 40000,
+        "isToRankBorder": true,
+        "eventRankingRewards": [
+          {
+            "id": 6014,
+            "eventRankingRewardRangeId": 5474,
+            "seq": 1,
+            "resourceBoxId": 5549,
+            "rewardConditionType": "none"
+          }
+        ]
+      },
+      {
+        "id": 5475,
+        "eventId": 180,
+        "fromRank": 40001,
+        "toRank": 50000,
+        "isToRankBorder": true,
+        "eventRankingRewards": [
+          {
+            "id": 6015,
+            "eventRankingRewardRangeId": 5475,
+            "seq": 1,
+            "resourceBoxId": 5550,
+            "rewardConditionType": "none"
+          }
+        ]
+      },
+      {
+        "id": 5476,
+        "eventId": 180,
+        "fromRank": 50001,
+        "toRank": 100000,
+        "isToRankBorder": true,
+        "eventRankingRewards": [
+          {
+            "id": 6016,
+            "eventRankingRewardRangeId": 5476,
+            "seq": 1,
+            "resourceBoxId": 5551,
+            "rewardConditionType": "none"
+          }
+        ]
+      },
+      {
+        "id": 5477,
+        "eventId": 180,
+        "fromRank": 100001,
+        "toRank": 200000,
+        "isToRankBorder": true,
+        "eventRankingRewards": [
+          {
+            "id": 6017,
+            "eventRankingRewardRangeId": 5477,
+            "seq": 1,
+            "resourceBoxId": 5552,
+            "rewardConditionType": "none"
+          }
+        ]
+      },
+      {
+        "id": 5478,
+        "eventId": 180,
+        "fromRank": 200001,
+        "toRank": 300000,
+        "isToRankBorder": true,
+        "eventRankingRewards": [
+          {
+            "id": 6018,
+            "eventRankingRewardRangeId": 5478,
+            "seq": 1,
+            "resourceBoxId": 5553,
+            "rewardConditionType": "none"
+          }
+        ]
+      }
+    ]
   }
 ]

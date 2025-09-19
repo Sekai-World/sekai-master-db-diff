@@ -14037,5 +14037,142 @@
     "eventMissionSelectableRewardGroupId": 1,
     "sentence": "7つのミッションを全て達成しよう。",
     "rewards": []
+  },
+  {
+    "id": 793,
+    "eventId": 180,
+    "seq": 1,
+    "eventMissionType": "multi_live_clear",
+    "eventMissionCategory": "normal",
+    "requirement1": 1,
+    "sentence": "みんなでライブを1回クリアしよう。",
+    "rewards": [
+      {
+        "id": 14714,
+        "missionType": "event_mission",
+        "missionId": 793,
+        "seq": 1,
+        "resourceBoxId": 8002
+      }
+    ]
+  },
+  {
+    "id": 794,
+    "eventId": 180,
+    "seq": 2,
+    "eventMissionType": "multi_live_clear",
+    "eventMissionCategory": "normal",
+    "requirement1": 2,
+    "sentence": "みんなでライブを2回クリアしよう。",
+    "rewards": [
+      {
+        "id": 14715,
+        "missionType": "event_mission",
+        "missionId": 794,
+        "seq": 1,
+        "resourceBoxId": 8002
+      }
+    ]
+  },
+  {
+    "id": 795,
+    "eventId": 180,
+    "seq": 3,
+    "eventMissionType": "multi_live_clear",
+    "eventMissionCategory": "normal",
+    "requirement1": 3,
+    "sentence": "みんなでライブを3回クリアしよう。",
+    "rewards": [
+      {
+        "id": 14716,
+        "missionType": "event_mission",
+        "missionId": 795,
+        "seq": 1,
+        "resourceBoxId": 8002
+      }
+    ]
+  },
+  {
+    "id": 796,
+    "eventId": 180,
+    "seq": 4,
+    "eventMissionType": "multi_live_clear",
+    "eventMissionCategory": "normal",
+    "requirement1": 4,
+    "sentence": "みんなでライブを4回クリアしよう。",
+    "rewards": [
+      {
+        "id": 14717,
+        "missionType": "event_mission",
+        "missionId": 796,
+        "seq": 1,
+        "resourceBoxId": 8002
+      }
+    ]
+  },
+  {
+    "id": 797,
+    "eventId": 180,
+    "seq": 5,
+    "eventMissionType": "multi_live_clear",
+    "eventMissionCategory": "normal",
+    "requirement1": 5,
+    "sentence": "みんなでライブを5回クリアしよう。",
+    "rewards": [
+      {
+        "id": 14718,
+        "missionType": "event_mission",
+        "missionId": 797,
+        "seq": 1,
+        "resourceBoxId": 8002
+      }
+    ]
+  },
+  {
+    "id": 798,
+    "eventId": 180,
+    "seq": 6,
+    "eventMissionType": "multi_live_clear",
+    "eventMissionCategory": "normal",
+    "requirement1": 7,
+    "sentence": "みんなでライブを7回クリアしよう。",
+    "rewards": [
+      {
+        "id": 14719,
+        "missionType": "event_mission",
+        "missionId": 798,
+        "seq": 1,
+        "resourceBoxId": 8002
+      }
+    ]
+  },
+  {
+    "id": 799,
+    "eventId": 180,
+    "seq": 7,
+    "eventMissionType": "multi_live_clear",
+    "eventMissionCategory": "normal",
+    "requirement1": 10,
+    "sentence": "みんなでライブを10回クリアしよう。",
+    "rewards": [
+      {
+        "id": 14720,
+        "missionType": "event_mission",
+        "missionId": 799,
+        "seq": 1,
+        "resourceBoxId": 8002
+      }
+    ]
+  },
+  {
+    "id": 800,
+    "eventId": 180,
+    "seq": 8,
+    "eventMissionType": "achieve_event_mission",
+    "eventMissionCategory": "complete_selectable_reward",
+    "requirement1": 7,
+    "eventMissionSelectableRewardGroupId": 1,
+    "sentence": "7つのミッションを全て達成しよう。",
+    "rewards": []
   }
 ]
