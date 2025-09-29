@@ -379,7 +379,7 @@
     "id": 48,
     "seq": 10502,
     "name": "限定ガチャシール券",
-    "flavorText": "限定ガチャシールと組み合わせてブルフェス限定・カラフェス限定・期間限定・恒常メンバーと交換できる。",
+    "flavorText": "限定ガチャシールと組み合わせてブルフェス限定・カラフェス限定・期間限定・ユニットイベント限定・バースデー限定・アニバーサリー限定メンバーと交換できる。",
     "canUse": false,
     "materialType": "gacha_ceil_ticket"
   },
@@ -1434,5 +1434,117 @@
     "flavorText": "ごっちピース交換所で報酬と交換することができる。\n使用期限：2025\/10\/12 23:59",
     "canUse": false,
     "materialType": "common"
+  },
+  {
+    "id": 179,
+    "seq": 30006,
+    "name": "祝祭のあまつゆ（ストリクトブルー）",
+    "flavorText": "遥の誕生日をお祝いする花を育てるためのあまつゆ。\n※2025年バースデーイベントでのみ利用可能",
+    "canUse": false,
+    "materialType": "birthday_party_delivery"
+  },
+  {
+    "id": 200,
+    "seq": 10618,
+    "name": "レッドメモリーピース",
+    "flavorText": "ブライトメモリーズキャンペーン交換所で報酬と交換することができる。\n使用期限：2025\/10\/31 23:59",
+    "canUse": false,
+    "materialType": "common"
+  },
+  {
+    "id": 201,
+    "seq": 10619,
+    "name": "ブルーメモリーピース",
+    "flavorText": "ブライトメモリーズキャンペーン交換所で報酬と交換することができる。\n使用期限：2025\/10\/31 23:59",
+    "canUse": false,
+    "materialType": "common"
+  },
+  {
+    "id": 202,
+    "seq": 10620,
+    "name": "パープルメモリーピース",
+    "flavorText": "ブライトメモリーズキャンペーン交換所で報酬と交換することができる。\n使用期限：2025\/10\/31 23:59",
+    "canUse": false,
+    "materialType": "common"
+  },
+  {
+    "id": 203,
+    "seq": 10621,
+    "name": "レインボーメモリーピース",
+    "flavorText": "ブライトメモリーズキャンペーン交換所で報酬と交換することができる。\n使用期限：2025\/10\/31 23:59",
+    "canUse": false,
+    "materialType": "common"
+  },
+  {
+    "id": 204,
+    "seq": 10622,
+    "name": "レインボーメロディ",
+    "flavorText": "期間限定でマイセカイの「ヘンカンマシン」で使用することができる。\n使用期限：2025\/10\/25 11:59",
+    "canUse": false,
+    "materialType": "common"
+  },
+  {
+    "id": 205,
+    "seq": 10018,
+    "name": "夢の宝玉（白）",
+    "flavorText": "エリアアイテムを特定レベルにアップさせるのに必要なアイテム。",
+    "canUse": false,
+    "materialType": "common"
+  },
+  {
+    "id": 206,
+    "seq": 10019,
+    "name": "夢の宝玉（青）",
+    "flavorText": "エリアアイテムを特定レベルにアップさせるのに必要なアイテム。",
+    "canUse": false,
+    "materialType": "common"
+  },
+  {
+    "id": 207,
+    "seq": 10020,
+    "name": "夢の宝玉（緑）",
+    "flavorText": "エリアアイテムを特定レベルにアップさせるのに必要なアイテム。",
+    "canUse": false,
+    "materialType": "common"
+  },
+  {
+    "id": 208,
+    "seq": 10021,
+    "name": "夢の宝玉（赤）",
+    "flavorText": "エリアアイテムを特定レベルにアップさせるのに必要なアイテム。",
+    "canUse": false,
+    "materialType": "common"
+  },
+  {
+    "id": 209,
+    "seq": 10022,
+    "name": "夢の宝玉（橙）",
+    "flavorText": "エリアアイテムを特定レベルにアップさせるのに必要なアイテム。",
+    "canUse": false,
+    "materialType": "common"
+  },
+  {
+    "id": 210,
+    "seq": 10023,
+    "name": "夢の宝玉（紫）",
+    "flavorText": "エリアアイテムを特定レベルにアップさせるのに必要なアイテム。",
+    "canUse": false,
+    "materialType": "common"
+  },
+  {
+    "id": 211,
+    "seq": 10623,
+    "name": "ゴールドメダル",
+    "flavorText": "ゴールドメダル交換所で報酬と交換することができる。\n使用期限：2025\/10\/31 23:59",
+    "canUse": false,
+    "materialType": "common"
+  },
+  {
+    "id": 214,
+    "seq": 214,
+    "name": "メモリアル★4メンバーチケット",
+    "flavorText": "メモリアル★4メンバーチケット交換所で好きな★4メンバーを交換することができる。",
+    "canUse": false,
+    "materialType": "card_ticket"
   }
 ]

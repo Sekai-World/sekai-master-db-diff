@@ -29,7 +29,7 @@
   },
   {
     "configKey": "boost_use_max_count",
-    "value": "5"
+    "value": "10"
   },
   {
     "configKey": "rank_up_recover_boost_count",
@@ -37,7 +37,7 @@
   },
   {
     "configKey": "max_user_level",
-    "value": "700"
+    "value": "800"
   },
   {
     "configKey": "max_unit_level",
@@ -45,7 +45,7 @@
   },
   {
     "configKey": "max_character_rank",
-    "value": "160"
+    "value": "175"
   },
   {
     "configKey": "user_name_max_length",
@@ -970,5 +970,61 @@
   {
     "configKey": "mysekai_fixture_game_character_bonus_rate_scale",
     "value": "10"
+  },
+  {
+    "configKey": "mysekai_housing_competition_thumbnail_path_prefix",
+    "value": "image\/mysekai-housing-competition\/thumbnail"
+  },
+  {
+    "configKey": "mysekai_housing_competition_search_id_min_length",
+    "value": "20"
+  },
+  {
+    "configKey": "mysekai_housing_competition_search_id_alphabet",
+    "value": "23456789ABCDEFGHJKLMNPQRSTUVWXYZabcdefghijkmnopqrstuvwxy"
+  },
+  {
+    "configKey": "mysekai_housing_competition_name_max_length",
+    "value": "16"
+  },
+  {
+    "configKey": "mysekai_housing_competition_word_max_length",
+    "value": "30"
+  },
+  {
+    "configKey": "mysekai_housing_competition_lottery_interval_seconds",
+    "value": "5"
+  },
+  {
+    "configKey": "redis_mysekai_housing_competition_aggregated_results_expire_sec",
+    "value": "86400"
+  },
+  {
+    "configKey": "redis_mysekai_housing_competition_lottery_results_expire_sec",
+    "value": "86400"
+  },
+  {
+    "configKey": "mysekai_housing_competition_trend_aggregate_num_upper_limit",
+    "value": "50"
+  },
+  {
+    "configKey": "mysekai_housing_competition_popular_aggregate_num_upper_limit",
+    "value": "50"
+  },
+  {
+    "configKey": "mysekai_housing_competition_back_number_new_arrival_days",
+    "value": "7"
+  },
+  {
+    "configKey": "birthday_party_delivery_base_point",
+    "value": "100"
+  },
+  {
+    "configKey": "birthday_party_delivery_reward_drop_upper_limit",
+    "value": "25"
+  },
+  {
+    "configKey": "challenge_live_limited_term_score_rank_reward_rate",
+    "value": "3"
   }
 ]

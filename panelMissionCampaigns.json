@@ -22632,5 +22632,2217 @@
         ]
       }
     ]
+  },
+  {
+    "id": 11,
+    "name": "5周年記念スタンプミッション",
+    "assetbundleName": "5th_anniv_pm",
+    "bgmAssetbundleName": "5th_anniv_pm_bgm",
+    "selectableLimit": 4,
+    "startAt": 1759158000000,
+    "progressEndAt": 1760151599000,
+    "closedAt": 1760151599000,
+    "distributionEndAt": 1761361199000,
+    "informationId": 5337,
+    "panelMissionSelectionType": "manual",
+    "panelMissionSheetGroups": [
+      {
+        "id": 1101,
+        "panelMissionCampaignId": 11,
+        "name": "ユニット",
+        "selectableLimit": 1,
+        "seq": 1,
+        "panelMissionSheets": [
+          {
+            "id": 110101,
+            "panelMissionSheetGroupId": 1101,
+            "name": "ユニットカード バーチャル・シンガー",
+            "seq": 1,
+            "assetbundleName": "sheet_unit_piapro",
+            "panelMissions": [
+              {
+                "id": 11010101,
+                "panelMissionSheetId": 110101,
+                "name": "ユニットの楽曲で\n1回ライブ",
+                "description": "楽曲選択画面のバーチャル・シンガータブに含まれる楽曲で1回ライブしよう。\n※オートライブでもカウントされます。",
+                "seq": 1,
+                "panelMissionType": "unit_live_clear_music",
+                "requirement1": 1,
+                "rewards": [
+                  {
+                    "id": 14740,
+                    "missionType": "panel_mission",
+                    "missionId": 11010101,
+                    "seq": 1,
+                    "resourceBoxId": 1800
+                  }
+                ]
+              },
+              {
+                "id": 11010102,
+                "panelMissionSheetId": 110101,
+                "name": "ユニットの楽曲で\n3回ライブ",
+                "description": "楽曲選択画面のバーチャル・シンガータブに含まれる楽曲で3回ライブしよう。\n※オートライブでもカウントされます。",
+                "seq": 2,
+                "panelMissionType": "unit_live_clear_music",
+                "requirement1": 3,
+                "rewards": [
+                  {
+                    "id": 14741,
+                    "missionType": "panel_mission",
+                    "missionId": 11010102,
+                    "seq": 1,
+                    "resourceBoxId": 1800
+                  }
+                ]
+              },
+              {
+                "id": 11010103,
+                "panelMissionSheetId": 110101,
+                "name": "ユニットの楽曲で\n5回ライブ",
+                "description": "楽曲選択画面のバーチャル・シンガータブに含まれる楽曲で5回ライブしよう。\n※オートライブでもカウントされます。",
+                "seq": 3,
+                "panelMissionType": "unit_live_clear_music",
+                "requirement1": 5,
+                "rewards": [
+                  {
+                    "id": 14742,
+                    "missionType": "panel_mission",
+                    "missionId": 11010103,
+                    "seq": 1,
+                    "resourceBoxId": 1801
+                  }
+                ]
+              },
+              {
+                "id": 11010104,
+                "panelMissionSheetId": 110101,
+                "name": "ユニットの楽曲で\n10回ライブ",
+                "description": "楽曲選択画面のバーチャル・シンガータブに含まれる楽曲で10回ライブしよう。\n※オートライブでもカウントされます。",
+                "seq": 4,
+                "panelMissionType": "unit_live_clear_music",
+                "requirement1": 10,
+                "rewards": [
+                  {
+                    "id": 14743,
+                    "missionType": "panel_mission",
+                    "missionId": 11010104,
+                    "seq": 1,
+                    "resourceBoxId": 1802
+                  }
+                ]
+              },
+              {
+                "id": 11010105,
+                "panelMissionSheetId": 110101,
+                "name": "ユニットの楽曲で\n15回ライブ",
+                "description": "楽曲選択画面のバーチャル・シンガータブに含まれる楽曲で15回ライブしよう。\n※オートライブでもカウントされます。",
+                "seq": 5,
+                "panelMissionType": "unit_live_clear_music",
+                "requirement1": 15,
+                "rewards": [
+                  {
+                    "id": 14744,
+                    "missionType": "panel_mission",
+                    "missionId": 11010105,
+                    "seq": 1,
+                    "resourceBoxId": 1803
+                  }
+                ]
+              },
+              {
+                "id": 11010106,
+                "panelMissionSheetId": 110101,
+                "name": "ユニットの楽曲で\n20回ライブ",
+                "description": "楽曲選択画面のバーチャル・シンガータブに含まれる楽曲で20回ライブしよう。\n※オートライブでもカウントされます。",
+                "seq": 6,
+                "panelMissionType": "unit_live_clear_music",
+                "requirement1": 20,
+                "rewards": [
+                  {
+                    "id": 14745,
+                    "missionType": "panel_mission",
+                    "missionId": 11010106,
+                    "seq": 1,
+                    "resourceBoxId": 1804
+                  }
+                ]
+              },
+              {
+                "id": 11010107,
+                "panelMissionSheetId": 110101,
+                "name": "ユニットの楽曲で\n30回ライブ",
+                "description": "楽曲選択画面のバーチャル・シンガータブに含まれる楽曲で30回ライブしよう。\n※オートライブでもカウントされます。",
+                "seq": 7,
+                "panelMissionType": "unit_live_clear_music",
+                "requirement1": 30,
+                "rewards": [
+                  {
+                    "id": 14746,
+                    "missionType": "panel_mission",
+                    "missionId": 11010107,
+                    "seq": 1,
+                    "resourceBoxId": 1805
+                  }
+                ]
+              }
+            ],
+            "rewards": [
+              {
+                "id": 14747,
+                "missionType": "panel_mission_complete",
+                "missionId": 110101,
+                "seq": 1,
+                "resourceBoxId": 1806
+              }
+            ]
+          },
+          {
+            "id": 110102,
+            "panelMissionSheetGroupId": 1101,
+            "name": "ユニットカード Leo\/need",
+            "seq": 2,
+            "assetbundleName": "sheet_unit_lightsound",
+            "panelMissions": [
+              {
+                "id": 11010201,
+                "panelMissionSheetId": 110102,
+                "name": "ユニットの\nイベント\n書き下ろし楽曲で\n1回クリア",
+                "description": "Leo\/needのイベント書き下ろし楽曲で1回ライブをクリアしよう。",
+                "seq": 1,
+                "panelMissionType": "live_clear_in_music_group",
+                "requirement1": 1,
+                "rewards": [
+                  {
+                    "id": 14748,
+                    "missionType": "panel_mission",
+                    "missionId": 11010201,
+                    "seq": 1,
+                    "resourceBoxId": 1800
+                  }
+                ]
+              },
+              {
+                "id": 11010202,
+                "panelMissionSheetId": 110102,
+                "name": "ユニットの\nイベント\n書き下ろし楽曲で\n3回クリア",
+                "description": "Leo\/needのイベント書き下ろし楽曲で3回ライブをクリアしよう。",
+                "seq": 2,
+                "panelMissionType": "live_clear_in_music_group",
+                "requirement1": 3,
+                "rewards": [
+                  {
+                    "id": 14749,
+                    "missionType": "panel_mission",
+                    "missionId": 11010202,
+                    "seq": 1,
+                    "resourceBoxId": 1800
+                  }
+                ]
+              },
+              {
+                "id": 11010203,
+                "panelMissionSheetId": 110102,
+                "name": "ユニットの\nイベント\n書き下ろし楽曲で\n5回クリア",
+                "description": "Leo\/needのイベント書き下ろし楽曲で5回ライブをクリアしよう。",
+                "seq": 3,
+                "panelMissionType": "live_clear_in_music_group",
+                "requirement1": 5,
+                "rewards": [
+                  {
+                    "id": 14750,
+                    "missionType": "panel_mission",
+                    "missionId": 11010203,
+                    "seq": 1,
+                    "resourceBoxId": 1801
+                  }
+                ]
+              },
+              {
+                "id": 11010204,
+                "panelMissionSheetId": 110102,
+                "name": "ユニットの\nイベント\n書き下ろし楽曲で\n10回クリア",
+                "description": "Leo\/needのイベント書き下ろし楽曲で10回ライブをクリアしよう。",
+                "seq": 4,
+                "panelMissionType": "live_clear_in_music_group",
+                "requirement1": 10,
+                "rewards": [
+                  {
+                    "id": 14751,
+                    "missionType": "panel_mission",
+                    "missionId": 11010204,
+                    "seq": 1,
+                    "resourceBoxId": 1802
+                  }
+                ]
+              },
+              {
+                "id": 11010205,
+                "panelMissionSheetId": 110102,
+                "name": "ユニットの\nイベント\n書き下ろし楽曲で\n15回クリア",
+                "description": "Leo\/needのイベント書き下ろし楽曲で15回ライブをクリアしよう。",
+                "seq": 5,
+                "panelMissionType": "live_clear_in_music_group",
+                "requirement1": 15,
+                "rewards": [
+                  {
+                    "id": 14752,
+                    "missionType": "panel_mission",
+                    "missionId": 11010205,
+                    "seq": 1,
+                    "resourceBoxId": 1803
+                  }
+                ]
+              },
+              {
+                "id": 11010206,
+                "panelMissionSheetId": 110102,
+                "name": "ユニットの\nイベント\n書き下ろし楽曲で\n20回クリア",
+                "description": "Leo\/needのイベント書き下ろし楽曲で20回ライブをクリアしよう。",
+                "seq": 6,
+                "panelMissionType": "live_clear_in_music_group",
+                "requirement1": 20,
+                "rewards": [
+                  {
+                    "id": 14753,
+                    "missionType": "panel_mission",
+                    "missionId": 11010206,
+                    "seq": 1,
+                    "resourceBoxId": 1804
+                  }
+                ]
+              },
+              {
+                "id": 11010207,
+                "panelMissionSheetId": 110102,
+                "name": "ユニットの\nイベント\n書き下ろし楽曲で\n30回クリア",
+                "description": "Leo\/needのイベント書き下ろし楽曲で30回ライブをクリアしよう。",
+                "seq": 7,
+                "panelMissionType": "live_clear_in_music_group",
+                "requirement1": 30,
+                "rewards": [
+                  {
+                    "id": 14754,
+                    "missionType": "panel_mission",
+                    "missionId": 11010207,
+                    "seq": 1,
+                    "resourceBoxId": 1805
+                  }
+                ]
+              }
+            ],
+            "rewards": [
+              {
+                "id": 14755,
+                "missionType": "panel_mission_complete",
+                "missionId": 110102,
+                "seq": 1,
+                "resourceBoxId": 1807
+              }
+            ]
+          },
+          {
+            "id": 110103,
+            "panelMissionSheetGroupId": 1101,
+            "name": "ユニットカード MORE MORE JUMP！",
+            "seq": 3,
+            "assetbundleName": "sheet_unit_idol",
+            "panelMissions": [
+              {
+                "id": 11010301,
+                "panelMissionSheetId": 110103,
+                "name": "ユニットの\nイベント\n書き下ろし楽曲で\n1回クリア",
+                "description": "MORE MORE JUMP！のイベント書き下ろし楽曲で1回ライブをクリアしよう。",
+                "seq": 1,
+                "panelMissionType": "live_clear_in_music_group",
+                "requirement1": 1,
+                "rewards": [
+                  {
+                    "id": 14756,
+                    "missionType": "panel_mission",
+                    "missionId": 11010301,
+                    "seq": 1,
+                    "resourceBoxId": 1800
+                  }
+                ]
+              },
+              {
+                "id": 11010302,
+                "panelMissionSheetId": 110103,
+                "name": "ユニットの\nイベント\n書き下ろし楽曲で\n3回クリア",
+                "description": "MORE MORE JUMP！のイベント書き下ろし楽曲で3回ライブをクリアしよう。",
+                "seq": 2,
+                "panelMissionType": "live_clear_in_music_group",
+                "requirement1": 3,
+                "rewards": [
+                  {
+                    "id": 14757,
+                    "missionType": "panel_mission",
+                    "missionId": 11010302,
+                    "seq": 1,
+                    "resourceBoxId": 1800
+                  }
+                ]
+              },
+              {
+                "id": 11010303,
+                "panelMissionSheetId": 110103,
+                "name": "ユニットの\nイベント\n書き下ろし楽曲で\n5回クリア",
+                "description": "MORE MORE JUMP！のイベント書き下ろし楽曲で5回ライブをクリアしよう。",
+                "seq": 3,
+                "panelMissionType": "live_clear_in_music_group",
+                "requirement1": 5,
+                "rewards": [
+                  {
+                    "id": 14758,
+                    "missionType": "panel_mission",
+                    "missionId": 11010303,
+                    "seq": 1,
+                    "resourceBoxId": 1801
+                  }
+                ]
+              },
+              {
+                "id": 11010304,
+                "panelMissionSheetId": 110103,
+                "name": "ユニットの\nイベント\n書き下ろし楽曲で\n10回クリア",
+                "description": "MORE MORE JUMP！のイベント書き下ろし楽曲で10回ライブをクリアしよう。",
+                "seq": 4,
+                "panelMissionType": "live_clear_in_music_group",
+                "requirement1": 10,
+                "rewards": [
+                  {
+                    "id": 14759,
+                    "missionType": "panel_mission",
+                    "missionId": 11010304,
+                    "seq": 1,
+                    "resourceBoxId": 1802
+                  }
+                ]
+              },
+              {
+                "id": 11010305,
+                "panelMissionSheetId": 110103,
+                "name": "ユニットの\nイベント\n書き下ろし楽曲で\n15回クリア",
+                "description": "MORE MORE JUMP！のイベント書き下ろし楽曲で15回ライブをクリアしよう。",
+                "seq": 5,
+                "panelMissionType": "live_clear_in_music_group",
+                "requirement1": 15,
+                "rewards": [
+                  {
+                    "id": 14760,
+                    "missionType": "panel_mission",
+                    "missionId": 11010305,
+                    "seq": 1,
+                    "resourceBoxId": 1803
+                  }
+                ]
+              },
+              {
+                "id": 11010306,
+                "panelMissionSheetId": 110103,
+                "name": "ユニットの\nイベント\n書き下ろし楽曲で\n20回クリア",
+                "description": "MORE MORE JUMP！のイベント書き下ろし楽曲で20回ライブをクリアしよう。",
+                "seq": 6,
+                "panelMissionType": "live_clear_in_music_group",
+                "requirement1": 20,
+                "rewards": [
+                  {
+                    "id": 14761,
+                    "missionType": "panel_mission",
+                    "missionId": 11010306,
+                    "seq": 1,
+                    "resourceBoxId": 1804
+                  }
+                ]
+              },
+              {
+                "id": 11010307,
+                "panelMissionSheetId": 110103,
+                "name": "ユニットの\nイベント\n書き下ろし楽曲で\n30回クリア",
+                "description": "MORE MORE JUMP！のイベント書き下ろし楽曲で30回ライブをクリアしよう。",
+                "seq": 7,
+                "panelMissionType": "live_clear_in_music_group",
+                "requirement1": 30,
+                "rewards": [
+                  {
+                    "id": 14762,
+                    "missionType": "panel_mission",
+                    "missionId": 11010307,
+                    "seq": 1,
+                    "resourceBoxId": 1805
+                  }
+                ]
+              }
+            ],
+            "rewards": [
+              {
+                "id": 14763,
+                "missionType": "panel_mission_complete",
+                "missionId": 110103,
+                "seq": 1,
+                "resourceBoxId": 1808
+              }
+            ]
+          },
+          {
+            "id": 110104,
+            "panelMissionSheetGroupId": 1101,
+            "name": "ユニットカード Vivid BAD SQUAD",
+            "seq": 4,
+            "assetbundleName": "sheet_unit_street",
+            "panelMissions": [
+              {
+                "id": 11010401,
+                "panelMissionSheetId": 110104,
+                "name": "ユニットの\nイベント\n書き下ろし楽曲で\n1回クリア",
+                "description": "Vivid BAD SQUADのイベント書き下ろし楽曲で1回ライブをクリアしよう。",
+                "seq": 1,
+                "panelMissionType": "live_clear_in_music_group",
+                "requirement1": 1,
+                "rewards": [
+                  {
+                    "id": 14764,
+                    "missionType": "panel_mission",
+                    "missionId": 11010401,
+                    "seq": 1,
+                    "resourceBoxId": 1800
+                  }
+                ]
+              },
+              {
+                "id": 11010402,
+                "panelMissionSheetId": 110104,
+                "name": "ユニットの\nイベント\n書き下ろし楽曲で\n3回クリア",
+                "description": "Vivid BAD SQUADのイベント書き下ろし楽曲で3回ライブをクリアしよう。",
+                "seq": 2,
+                "panelMissionType": "live_clear_in_music_group",
+                "requirement1": 3,
+                "rewards": [
+                  {
+                    "id": 14765,
+                    "missionType": "panel_mission",
+                    "missionId": 11010402,
+                    "seq": 1,
+                    "resourceBoxId": 1800
+                  }
+                ]
+              },
+              {
+                "id": 11010403,
+                "panelMissionSheetId": 110104,
+                "name": "ユニットの\nイベント\n書き下ろし楽曲で\n5回クリア",
+                "description": "Vivid BAD SQUADのイベント書き下ろし楽曲で5回ライブをクリアしよう。",
+                "seq": 3,
+                "panelMissionType": "live_clear_in_music_group",
+                "requirement1": 5,
+                "rewards": [
+                  {
+                    "id": 14766,
+                    "missionType": "panel_mission",
+                    "missionId": 11010403,
+                    "seq": 1,
+                    "resourceBoxId": 1801
+                  }
+                ]
+              },
+              {
+                "id": 11010404,
+                "panelMissionSheetId": 110104,
+                "name": "ユニットの\nイベント\n書き下ろし楽曲で\n10回クリア",
+                "description": "Vivid BAD SQUADのイベント書き下ろし楽曲で10回ライブをクリアしよう。",
+                "seq": 4,
+                "panelMissionType": "live_clear_in_music_group",
+                "requirement1": 10,
+                "rewards": [
+                  {
+                    "id": 14767,
+                    "missionType": "panel_mission",
+                    "missionId": 11010404,
+                    "seq": 1,
+                    "resourceBoxId": 1802
+                  }
+                ]
+              },
+              {
+                "id": 11010405,
+                "panelMissionSheetId": 110104,
+                "name": "ユニットの\nイベント\n書き下ろし楽曲で\n15回クリア",
+                "description": "Vivid BAD SQUADのイベント書き下ろし楽曲で15回ライブをクリアしよう。",
+                "seq": 5,
+                "panelMissionType": "live_clear_in_music_group",
+                "requirement1": 15,
+                "rewards": [
+                  {
+                    "id": 14768,
+                    "missionType": "panel_mission",
+                    "missionId": 11010405,
+                    "seq": 1,
+                    "resourceBoxId": 1803
+                  }
+                ]
+              },
+              {
+                "id": 11010406,
+                "panelMissionSheetId": 110104,
+                "name": "ユニットの\nイベント\n書き下ろし楽曲で\n20回クリア",
+                "description": "Vivid BAD SQUADのイベント書き下ろし楽曲で20回ライブをクリアしよう。",
+                "seq": 6,
+                "panelMissionType": "live_clear_in_music_group",
+                "requirement1": 20,
+                "rewards": [
+                  {
+                    "id": 14769,
+                    "missionType": "panel_mission",
+                    "missionId": 11010406,
+                    "seq": 1,
+                    "resourceBoxId": 1804
+                  }
+                ]
+              },
+              {
+                "id": 11010407,
+                "panelMissionSheetId": 110104,
+                "name": "ユニットの\nイベント\n書き下ろし楽曲で\n30回クリア",
+                "description": "Vivid BAD SQUADのイベント書き下ろし楽曲で30回ライブをクリアしよう。",
+                "seq": 7,
+                "panelMissionType": "live_clear_in_music_group",
+                "requirement1": 30,
+                "rewards": [
+                  {
+                    "id": 14770,
+                    "missionType": "panel_mission",
+                    "missionId": 11010407,
+                    "seq": 1,
+                    "resourceBoxId": 1805
+                  }
+                ]
+              }
+            ],
+            "rewards": [
+              {
+                "id": 14771,
+                "missionType": "panel_mission_complete",
+                "missionId": 110104,
+                "seq": 1,
+                "resourceBoxId": 1809
+              }
+            ]
+          },
+          {
+            "id": 110105,
+            "panelMissionSheetGroupId": 1101,
+            "name": "ユニットカード ワンダーランズ×ショウタイム",
+            "seq": 5,
+            "assetbundleName": "sheet_unit_theme_park",
+            "panelMissions": [
+              {
+                "id": 11010501,
+                "panelMissionSheetId": 110105,
+                "name": "ユニットの\nイベント\n書き下ろし楽曲で\n1回クリア",
+                "description": "ワンダーランズ×ショウタイムのイベント書き下ろし楽曲で1回ライブをクリアしよう。",
+                "seq": 1,
+                "panelMissionType": "live_clear_in_music_group",
+                "requirement1": 1,
+                "rewards": [
+                  {
+                    "id": 14772,
+                    "missionType": "panel_mission",
+                    "missionId": 11010501,
+                    "seq": 1,
+                    "resourceBoxId": 1800
+                  }
+                ]
+              },
+              {
+                "id": 11010502,
+                "panelMissionSheetId": 110105,
+                "name": "ユニットの\nイベント\n書き下ろし楽曲で\n3回クリア",
+                "description": "ワンダーランズ×ショウタイムのイベント書き下ろし楽曲で3回ライブをクリアしよう。",
+                "seq": 2,
+                "panelMissionType": "live_clear_in_music_group",
+                "requirement1": 3,
+                "rewards": [
+                  {
+                    "id": 14773,
+                    "missionType": "panel_mission",
+                    "missionId": 11010502,
+                    "seq": 1,
+                    "resourceBoxId": 1800
+                  }
+                ]
+              },
+              {
+                "id": 11010503,
+                "panelMissionSheetId": 110105,
+                "name": "ユニットの\nイベント\n書き下ろし楽曲で\n5回クリア",
+                "description": "ワンダーランズ×ショウタイムのイベント書き下ろし楽曲で5回ライブをクリアしよう。",
+                "seq": 3,
+                "panelMissionType": "live_clear_in_music_group",
+                "requirement1": 5,
+                "rewards": [
+                  {
+                    "id": 14774,
+                    "missionType": "panel_mission",
+                    "missionId": 11010503,
+                    "seq": 1,
+                    "resourceBoxId": 1801
+                  }
+                ]
+              },
+              {
+                "id": 11010504,
+                "panelMissionSheetId": 110105,
+                "name": "ユニットの\nイベント\n書き下ろし楽曲で\n10回クリア",
+                "description": "ワンダーランズ×ショウタイムのイベント書き下ろし楽曲で10回ライブをクリアしよう。",
+                "seq": 4,
+                "panelMissionType": "live_clear_in_music_group",
+                "requirement1": 10,
+                "rewards": [
+                  {
+                    "id": 14775,
+                    "missionType": "panel_mission",
+                    "missionId": 11010504,
+                    "seq": 1,
+                    "resourceBoxId": 1802
+                  }
+                ]
+              },
+              {
+                "id": 11010505,
+                "panelMissionSheetId": 110105,
+                "name": "ユニットの\nイベント\n書き下ろし楽曲で\n15回クリア",
+                "description": "ワンダーランズ×ショウタイムのイベント書き下ろし楽曲で15回ライブをクリアしよう。",
+                "seq": 5,
+                "panelMissionType": "live_clear_in_music_group",
+                "requirement1": 15,
+                "rewards": [
+                  {
+                    "id": 14776,
+                    "missionType": "panel_mission",
+                    "missionId": 11010505,
+                    "seq": 1,
+                    "resourceBoxId": 1803
+                  }
+                ]
+              },
+              {
+                "id": 11010506,
+                "panelMissionSheetId": 110105,
+                "name": "ユニットの\nイベント\n書き下ろし楽曲で\n20回クリア",
+                "description": "ワンダーランズ×ショウタイムのイベント書き下ろし楽曲で20回ライブをクリアしよう。",
+                "seq": 6,
+                "panelMissionType": "live_clear_in_music_group",
+                "requirement1": 20,
+                "rewards": [
+                  {
+                    "id": 14777,
+                    "missionType": "panel_mission",
+                    "missionId": 11010506,
+                    "seq": 1,
+                    "resourceBoxId": 1804
+                  }
+                ]
+              },
+              {
+                "id": 11010507,
+                "panelMissionSheetId": 110105,
+                "name": "ユニットの\nイベント\n書き下ろし楽曲で\n30回クリア",
+                "description": "ワンダーランズ×ショウタイムのイベント書き下ろし楽曲で30回ライブをクリアしよう。",
+                "seq": 7,
+                "panelMissionType": "live_clear_in_music_group",
+                "requirement1": 30,
+                "rewards": [
+                  {
+                    "id": 14778,
+                    "missionType": "panel_mission",
+                    "missionId": 11010507,
+                    "seq": 1,
+                    "resourceBoxId": 1805
+                  }
+                ]
+              }
+            ],
+            "rewards": [
+              {
+                "id": 14779,
+                "missionType": "panel_mission_complete",
+                "missionId": 110105,
+                "seq": 1,
+                "resourceBoxId": 1810
+              }
+            ]
+          },
+          {
+            "id": 110106,
+            "panelMissionSheetGroupId": 1101,
+            "name": "ユニットカード 25時、ナイトコードで。",
+            "seq": 6,
+            "assetbundleName": "sheet_unit_schoolrefusal",
+            "panelMissions": [
+              {
+                "id": 11010601,
+                "panelMissionSheetId": 110106,
+                "name": "ユニットの\nイベント\n書き下ろし楽曲で\n1回クリア",
+                "description": "25時、ナイトコードで。のイベント書き下ろし楽曲で1回ライブをクリアしよう。",
+                "seq": 1,
+                "panelMissionType": "live_clear_in_music_group",
+                "requirement1": 1,
+                "rewards": [
+                  {
+                    "id": 14780,
+                    "missionType": "panel_mission",
+                    "missionId": 11010601,
+                    "seq": 1,
+                    "resourceBoxId": 1800
+                  }
+                ]
+              },
+              {
+                "id": 11010602,
+                "panelMissionSheetId": 110106,
+                "name": "ユニットの\nイベント\n書き下ろし楽曲で\n3回クリア",
+                "description": "25時、ナイトコードで。のイベント書き下ろし楽曲で3回ライブをクリアしよう。",
+                "seq": 2,
+                "panelMissionType": "live_clear_in_music_group",
+                "requirement1": 3,
+                "rewards": [
+                  {
+                    "id": 14781,
+                    "missionType": "panel_mission",
+                    "missionId": 11010602,
+                    "seq": 1,
+                    "resourceBoxId": 1800
+                  }
+                ]
+              },
+              {
+                "id": 11010603,
+                "panelMissionSheetId": 110106,
+                "name": "ユニットの\nイベント\n書き下ろし楽曲で\n5回クリア",
+                "description": "25時、ナイトコードで。のイベント書き下ろし楽曲で5回ライブをクリアしよう。",
+                "seq": 3,
+                "panelMissionType": "live_clear_in_music_group",
+                "requirement1": 5,
+                "rewards": [
+                  {
+                    "id": 14782,
+                    "missionType": "panel_mission",
+                    "missionId": 11010603,
+                    "seq": 1,
+                    "resourceBoxId": 1801
+                  }
+                ]
+              },
+              {
+                "id": 11010604,
+                "panelMissionSheetId": 110106,
+                "name": "ユニットの\nイベント\n書き下ろし楽曲で\n10回クリア",
+                "description": "25時、ナイトコードで。のイベント書き下ろし楽曲で10回ライブをクリアしよう。",
+                "seq": 4,
+                "panelMissionType": "live_clear_in_music_group",
+                "requirement1": 10,
+                "rewards": [
+                  {
+                    "id": 14783,
+                    "missionType": "panel_mission",
+                    "missionId": 11010604,
+                    "seq": 1,
+                    "resourceBoxId": 1802
+                  }
+                ]
+              },
+              {
+                "id": 11010605,
+                "panelMissionSheetId": 110106,
+                "name": "ユニットの\nイベント\n書き下ろし楽曲で\n15回クリア",
+                "description": "25時、ナイトコードで。のイベント書き下ろし楽曲で15回ライブをクリアしよう。",
+                "seq": 5,
+                "panelMissionType": "live_clear_in_music_group",
+                "requirement1": 15,
+                "rewards": [
+                  {
+                    "id": 14784,
+                    "missionType": "panel_mission",
+                    "missionId": 11010605,
+                    "seq": 1,
+                    "resourceBoxId": 1803
+                  }
+                ]
+              },
+              {
+                "id": 11010606,
+                "panelMissionSheetId": 110106,
+                "name": "ユニットの\nイベント\n書き下ろし楽曲で\n20回クリア",
+                "description": "25時、ナイトコードで。のイベント書き下ろし楽曲で20回ライブをクリアしよう。",
+                "seq": 6,
+                "panelMissionType": "live_clear_in_music_group",
+                "requirement1": 20,
+                "rewards": [
+                  {
+                    "id": 14785,
+                    "missionType": "panel_mission",
+                    "missionId": 11010606,
+                    "seq": 1,
+                    "resourceBoxId": 1804
+                  }
+                ]
+              },
+              {
+                "id": 11010607,
+                "panelMissionSheetId": 110106,
+                "name": "ユニットの\nイベント\n書き下ろし楽曲で\n30回クリア",
+                "description": "25時、ナイトコードで。のイベント書き下ろし楽曲で30回ライブをクリアしよう。",
+                "seq": 7,
+                "panelMissionType": "live_clear_in_music_group",
+                "requirement1": 30,
+                "rewards": [
+                  {
+                    "id": 14786,
+                    "missionType": "panel_mission",
+                    "missionId": 11010607,
+                    "seq": 1,
+                    "resourceBoxId": 1805
+                  }
+                ]
+              }
+            ],
+            "rewards": [
+              {
+                "id": 14787,
+                "missionType": "panel_mission_complete",
+                "missionId": 110106,
+                "seq": 1,
+                "resourceBoxId": 1811
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 1102,
+        "panelMissionCampaignId": 11,
+        "name": "ライブ",
+        "selectableLimit": 1,
+        "seq": 2,
+        "panelMissionSheets": [
+          {
+            "id": 110201,
+            "panelMissionSheetGroupId": 1102,
+            "name": "ライブカード カジュアル",
+            "seq": 1,
+            "assetbundleName": "sheet_live_casual",
+            "panelMissions": [
+              {
+                "id": 11020101,
+                "panelMissionSheetId": 110201,
+                "name": "5周年記念で\n追加された楽曲で\n累計1回クリア",
+                "description": "5周年記念楽曲追加キャンペーンで追加された楽曲で累計1回ライブをクリアしよう。\n※オートライブでもカウントされます。",
+                "seq": 1,
+                "panelMissionType": "live_clear_in_music_group",
+                "requirement1": 1,
+                "rewards": [
+                  {
+                    "id": 14788,
+                    "missionType": "panel_mission",
+                    "missionId": 11020101,
+                    "seq": 1,
+                    "resourceBoxId": 1812
+                  }
+                ]
+              },
+              {
+                "id": 11020102,
+                "panelMissionSheetId": 110201,
+                "name": "5周年記念で\n追加された楽曲で\n累計3回クリア",
+                "description": "5周年記念楽曲追加キャンペーンで追加された楽曲で累計3回ライブをクリアしよう。\n※オートライブでもカウントされます。",
+                "seq": 2,
+                "panelMissionType": "live_clear_in_music_group",
+                "requirement1": 3,
+                "rewards": [
+                  {
+                    "id": 14789,
+                    "missionType": "panel_mission",
+                    "missionId": 11020102,
+                    "seq": 1,
+                    "resourceBoxId": 1812
+                  }
+                ]
+              },
+              {
+                "id": 11020103,
+                "panelMissionSheetId": 110201,
+                "name": "5周年記念で\n追加された楽曲で\n累計5回クリア",
+                "description": "5周年記念楽曲追加キャンペーンで追加された楽曲で累計5回ライブをクリアしよう。\n※オートライブでもカウントされます。",
+                "seq": 3,
+                "panelMissionType": "live_clear_in_music_group",
+                "requirement1": 5,
+                "rewards": [
+                  {
+                    "id": 14790,
+                    "missionType": "panel_mission",
+                    "missionId": 11020103,
+                    "seq": 1,
+                    "resourceBoxId": 1813
+                  }
+                ]
+              },
+              {
+                "id": 11020104,
+                "panelMissionSheetId": 110201,
+                "name": "5周年記念で\n追加された楽曲で\n累計10回クリア",
+                "description": "5周年記念楽曲追加キャンペーンで追加された楽曲で累計10回ライブをクリアしよう。\n※オートライブでもカウントされます。",
+                "seq": 4,
+                "panelMissionType": "live_clear_in_music_group",
+                "requirement1": 10,
+                "rewards": [
+                  {
+                    "id": 14791,
+                    "missionType": "panel_mission",
+                    "missionId": 11020104,
+                    "seq": 1,
+                    "resourceBoxId": 1813
+                  }
+                ]
+              },
+              {
+                "id": 11020105,
+                "panelMissionSheetId": 110201,
+                "name": "5周年記念で\n追加された楽曲で\n累計15回クリア",
+                "description": "5周年記念楽曲追加キャンペーンで追加された楽曲で累計15回ライブをクリアしよう。\n※オートライブでもカウントされます。",
+                "seq": 5,
+                "panelMissionType": "live_clear_in_music_group",
+                "requirement1": 15,
+                "rewards": [
+                  {
+                    "id": 14792,
+                    "missionType": "panel_mission",
+                    "missionId": 11020105,
+                    "seq": 1,
+                    "resourceBoxId": 1814
+                  }
+                ]
+              },
+              {
+                "id": 11020106,
+                "panelMissionSheetId": 110201,
+                "name": "5周年記念で\n追加された楽曲で\n累計20回クリア",
+                "description": "5周年記念楽曲追加キャンペーンで追加された楽曲で累計20回ライブをクリアしよう。\n※オートライブでもカウントされます。",
+                "seq": 6,
+                "panelMissionType": "live_clear_in_music_group",
+                "requirement1": 20,
+                "rewards": [
+                  {
+                    "id": 14793,
+                    "missionType": "panel_mission",
+                    "missionId": 11020106,
+                    "seq": 1,
+                    "resourceBoxId": 1814
+                  }
+                ]
+              },
+              {
+                "id": 11020107,
+                "panelMissionSheetId": 110201,
+                "name": "5周年記念で\n追加された楽曲で\n累計30回クリア",
+                "description": "5周年記念楽曲追加キャンペーンで追加された楽曲で累計30回ライブをクリアしよう。\n※オートライブでもカウントされます。",
+                "seq": 7,
+                "panelMissionType": "live_clear_in_music_group",
+                "requirement1": 30,
+                "rewards": [
+                  {
+                    "id": 14794,
+                    "missionType": "panel_mission",
+                    "missionId": 11020107,
+                    "seq": 1,
+                    "resourceBoxId": 1814
+                  }
+                ]
+              }
+            ],
+            "rewards": [
+              {
+                "id": 14795,
+                "missionType": "panel_mission_complete",
+                "missionId": 110201,
+                "seq": 1,
+                "resourceBoxId": 1820
+              }
+            ]
+          },
+          {
+            "id": 110202,
+            "panelMissionSheetGroupId": 1102,
+            "name": "ライブカード レギュラー",
+            "seq": 2,
+            "assetbundleName": "sheet_live_regular",
+            "panelMissions": [
+              {
+                "id": 11020201,
+                "panelMissionSheetId": 110202,
+                "name": "累計1回\nフルコンボ",
+                "description": "累計1回フルコンボでライブをクリアしよう。",
+                "seq": 1,
+                "panelMissionType": "live_clear_full_combo",
+                "requirement1": 1,
+                "rewards": [
+                  {
+                    "id": 14796,
+                    "missionType": "panel_mission",
+                    "missionId": 11020201,
+                    "seq": 1,
+                    "resourceBoxId": 1814
+                  }
+                ]
+              },
+              {
+                "id": 11020202,
+                "panelMissionSheetId": 110202,
+                "name": "累計3回\nフルコンボ",
+                "description": "累計3回フルコンボでライブをクリアしよう。",
+                "seq": 2,
+                "panelMissionType": "live_clear_full_combo",
+                "requirement1": 3,
+                "rewards": [
+                  {
+                    "id": 14797,
+                    "missionType": "panel_mission",
+                    "missionId": 11020202,
+                    "seq": 1,
+                    "resourceBoxId": 1815
+                  }
+                ]
+              },
+              {
+                "id": 11020203,
+                "panelMissionSheetId": 110202,
+                "name": "累計5回\nフルコンボ",
+                "description": "累計5回フルコンボでライブをクリアしよう。",
+                "seq": 3,
+                "panelMissionType": "live_clear_full_combo",
+                "requirement1": 5,
+                "rewards": [
+                  {
+                    "id": 14798,
+                    "missionType": "panel_mission",
+                    "missionId": 11020203,
+                    "seq": 1,
+                    "resourceBoxId": 1815
+                  }
+                ]
+              },
+              {
+                "id": 11020204,
+                "panelMissionSheetId": 110202,
+                "name": "累計7回\nフルコンボ",
+                "description": "累計7回フルコンボでライブをクリアしよう。",
+                "seq": 4,
+                "panelMissionType": "live_clear_full_combo",
+                "requirement1": 7,
+                "rewards": [
+                  {
+                    "id": 14799,
+                    "missionType": "panel_mission",
+                    "missionId": 11020204,
+                    "seq": 1,
+                    "resourceBoxId": 1815
+                  }
+                ]
+              },
+              {
+                "id": 11020205,
+                "panelMissionSheetId": 110202,
+                "name": "累計10回\nフルコンボ",
+                "description": "累計10回フルコンボでライブをクリアしよう。",
+                "seq": 5,
+                "panelMissionType": "live_clear_full_combo",
+                "requirement1": 10,
+                "rewards": [
+                  {
+                    "id": 14800,
+                    "missionType": "panel_mission",
+                    "missionId": 11020205,
+                    "seq": 1,
+                    "resourceBoxId": 1816
+                  }
+                ]
+              },
+              {
+                "id": 11020206,
+                "panelMissionSheetId": 110202,
+                "name": "累計15回\nフルコンボ",
+                "description": "累計15回フルコンボでライブをクリアしよう。",
+                "seq": 6,
+                "panelMissionType": "live_clear_full_combo",
+                "requirement1": 15,
+                "rewards": [
+                  {
+                    "id": 14801,
+                    "missionType": "panel_mission",
+                    "missionId": 11020206,
+                    "seq": 1,
+                    "resourceBoxId": 1816
+                  }
+                ]
+              },
+              {
+                "id": 11020207,
+                "panelMissionSheetId": 110202,
+                "name": "累計20回\nフルコンボ",
+                "description": "累計20回フルコンボでライブをクリアしよう。",
+                "seq": 7,
+                "panelMissionType": "live_clear_full_combo",
+                "requirement1": 20,
+                "rewards": [
+                  {
+                    "id": 14802,
+                    "missionType": "panel_mission",
+                    "missionId": 11020207,
+                    "seq": 1,
+                    "resourceBoxId": 1816
+                  }
+                ]
+              }
+            ],
+            "rewards": [
+              {
+                "id": 14803,
+                "missionType": "panel_mission_complete",
+                "missionId": 110202,
+                "seq": 1,
+                "resourceBoxId": 1821
+              }
+            ]
+          },
+          {
+            "id": 110203,
+            "panelMissionSheetGroupId": 1102,
+            "name": "ライブカード アンリミテッド",
+            "seq": 3,
+            "assetbundleName": "sheet_live_unlimited",
+            "panelMissions": [
+              {
+                "id": 11020301,
+                "panelMissionSheetId": 110203,
+                "name": "累計1回\nAP",
+                "description": "累計1回ALL PERFECTでライブをクリアしよう。",
+                "seq": 1,
+                "panelMissionType": "live_clear_all_perfect_in_music_difficulty",
+                "requirement1": 1,
+                "rewards": [
+                  {
+                    "id": 14804,
+                    "missionType": "panel_mission",
+                    "missionId": 11020301,
+                    "seq": 1,
+                    "resourceBoxId": 1817
+                  }
+                ]
+              },
+              {
+                "id": 11020302,
+                "panelMissionSheetId": 110203,
+                "name": "累計2回\nAP",
+                "description": "累計2回ALL PERFECTでライブをクリアしよう。",
+                "seq": 2,
+                "panelMissionType": "live_clear_all_perfect_in_music_difficulty",
+                "requirement1": 2,
+                "rewards": [
+                  {
+                    "id": 14805,
+                    "missionType": "panel_mission",
+                    "missionId": 11020302,
+                    "seq": 1,
+                    "resourceBoxId": 1817
+                  }
+                ]
+              },
+              {
+                "id": 11020303,
+                "panelMissionSheetId": 110203,
+                "name": "累計3回\nAP",
+                "description": "累計3回ALL PERFECTでライブをクリアしよう。",
+                "seq": 3,
+                "panelMissionType": "live_clear_all_perfect_in_music_difficulty",
+                "requirement1": 3,
+                "rewards": [
+                  {
+                    "id": 14806,
+                    "missionType": "panel_mission",
+                    "missionId": 11020303,
+                    "seq": 1,
+                    "resourceBoxId": 1818
+                  }
+                ]
+              },
+              {
+                "id": 11020304,
+                "panelMissionSheetId": 110203,
+                "name": "累計5回\nAP",
+                "description": "累計5回ALL PERFECTでライブをクリアしよう。",
+                "seq": 4,
+                "panelMissionType": "live_clear_all_perfect_in_music_difficulty",
+                "requirement1": 5,
+                "rewards": [
+                  {
+                    "id": 14807,
+                    "missionType": "panel_mission",
+                    "missionId": 11020304,
+                    "seq": 1,
+                    "resourceBoxId": 1818
+                  }
+                ]
+              },
+              {
+                "id": 11020305,
+                "panelMissionSheetId": 110203,
+                "name": "累計7回\nAP",
+                "description": "累計7回ALL PERFECTでライブをクリアしよう。",
+                "seq": 5,
+                "panelMissionType": "live_clear_all_perfect_in_music_difficulty",
+                "requirement1": 7,
+                "rewards": [
+                  {
+                    "id": 14808,
+                    "missionType": "panel_mission",
+                    "missionId": 11020305,
+                    "seq": 1,
+                    "resourceBoxId": 1819
+                  }
+                ]
+              },
+              {
+                "id": 11020306,
+                "panelMissionSheetId": 110203,
+                "name": "累計10回\nAP",
+                "description": "累計10回ALL PERFECTでライブをクリアしよう。",
+                "seq": 6,
+                "panelMissionType": "live_clear_all_perfect_in_music_difficulty",
+                "requirement1": 10,
+                "rewards": [
+                  {
+                    "id": 14809,
+                    "missionType": "panel_mission",
+                    "missionId": 11020306,
+                    "seq": 1,
+                    "resourceBoxId": 1819
+                  }
+                ]
+              },
+              {
+                "id": 11020307,
+                "panelMissionSheetId": 110203,
+                "name": "累計15回\nAP",
+                "description": "累計15回ALL PERFECTでライブをクリアしよう。",
+                "seq": 7,
+                "panelMissionType": "live_clear_all_perfect_in_music_difficulty",
+                "requirement1": 15,
+                "rewards": [
+                  {
+                    "id": 14810,
+                    "missionType": "panel_mission",
+                    "missionId": 11020307,
+                    "seq": 1,
+                    "resourceBoxId": 1819
+                  }
+                ]
+              }
+            ],
+            "rewards": [
+              {
+                "id": 14811,
+                "missionType": "panel_mission_complete",
+                "missionId": 110203,
+                "seq": 1,
+                "resourceBoxId": 1822
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 1103,
+        "panelMissionCampaignId": 11,
+        "name": "トライ",
+        "selectableLimit": 1,
+        "seq": 3,
+        "panelMissionSheets": [
+          {
+            "id": 110301,
+            "panelMissionSheetGroupId": 1103,
+            "name": "トライカード カジュアル",
+            "seq": 1,
+            "assetbundleName": "sheet_try_casual",
+            "panelMissions": [
+              {
+                "id": 11030101,
+                "panelMissionSheetId": 110301,
+                "name": "「ペンタトニック」を\n1回クリア",
+                "description": "5周年記念楽曲「ペンタトニック」を1回クリアしよう。",
+                "seq": 1,
+                "panelMissionType": "live_clear_in_music",
+                "requirement1": 1,
+                "rewards": [
+                  {
+                    "id": 14812,
+                    "missionType": "panel_mission",
+                    "missionId": 11030101,
+                    "seq": 1,
+                    "resourceBoxId": 1812
+                  }
+                ]
+              },
+              {
+                "id": 11030102,
+                "panelMissionSheetId": 110301,
+                "name": "みんなでライブを\n10回クリア",
+                "description": "「みんなでライブ」を10回クリアしよう。",
+                "seq": 2,
+                "panelMissionType": "multi_live_clear",
+                "requirement1": 10,
+                "rewards": [
+                  {
+                    "id": 14813,
+                    "missionType": "panel_mission",
+                    "missionId": 11030102,
+                    "seq": 1,
+                    "resourceBoxId": 1812
+                  }
+                ]
+              },
+              {
+                "id": 11030103,
+                "panelMissionSheetId": 110301,
+                "name": "「SUPER FEVER」\nを3回達成",
+                "description": "「みんなでライブ」で「SUPER FEVER」を3回達成しよう。",
+                "seq": 3,
+                "panelMissionType": "multi_live_clear_super_fever",
+                "requirement1": 3,
+                "rewards": [
+                  {
+                    "id": 14814,
+                    "missionType": "panel_mission",
+                    "missionId": 11030103,
+                    "seq": 1,
+                    "resourceBoxId": 1813
+                  }
+                ]
+              },
+              {
+                "id": 11030104,
+                "panelMissionSheetId": 110301,
+                "name": "ライブボーナスを\n累計50消費",
+                "description": "ライブボーナスを累計50消費しよう。\n※マイセカイはライブボーナスをスタミナにした場合のみカウントされます。",
+                "seq": 4,
+                "panelMissionType": "consume_boost_count",
+                "requirement1": 50,
+                "rewards": [
+                  {
+                    "id": 14815,
+                    "missionType": "panel_mission",
+                    "missionId": 11030104,
+                    "seq": 1,
+                    "resourceBoxId": 1813
+                  }
+                ]
+              },
+              {
+                "id": 11030105,
+                "panelMissionSheetId": 110301,
+                "name": "イベント\n「Our Golden Days」\n最終話を読む",
+                "description": "イベント「Our Golden Days」のイベントストーリー最終話を読もう。",
+                "seq": 5,
+                "panelMissionType": "read_event_story_episode",
+                "requirement1": 1,
+                "rewards": [
+                  {
+                    "id": 14816,
+                    "missionType": "panel_mission",
+                    "missionId": 11030105,
+                    "seq": 1,
+                    "resourceBoxId": 1814
+                  }
+                ]
+              },
+              {
+                "id": 11030106,
+                "panelMissionSheetId": 110301,
+                "name": "イベントP\n累計20万獲得",
+                "description": "イベント「Our Golden Days」でイベントPを累計20万獲得しよう。\n※イベントPは10月9日20時59分まで獲得できます。",
+                "seq": 6,
+                "panelMissionType": "collect_event_point",
+                "requirement1": 200000,
+                "rewards": [
+                  {
+                    "id": 14817,
+                    "missionType": "panel_mission",
+                    "missionId": 11030106,
+                    "seq": 1,
+                    "resourceBoxId": 1814
+                  }
+                ]
+              },
+              {
+                "id": 11030107,
+                "panelMissionSheetId": 110301,
+                "name": "マイセカイで素材を\n200個採取",
+                "description": "マイセカイで素材を200個採取しよう。",
+                "seq": 7,
+                "panelMissionType": "mysekai_gather_any_mysekai_material",
+                "requirement1": 200,
+                "rewards": [
+                  {
+                    "id": 14818,
+                    "missionType": "panel_mission",
+                    "missionId": 11030107,
+                    "seq": 1,
+                    "resourceBoxId": 1814
+                  }
+                ]
+              }
+            ],
+            "rewards": [
+              {
+                "id": 14819,
+                "missionType": "panel_mission_complete",
+                "missionId": 110301,
+                "seq": 1,
+                "resourceBoxId": 1820
+              }
+            ]
+          },
+          {
+            "id": 110302,
+            "panelMissionSheetGroupId": 1103,
+            "name": "トライカード レギュラー",
+            "seq": 2,
+            "assetbundleName": "sheet_try_regular",
+            "panelMissions": [
+              {
+                "id": 11030201,
+                "panelMissionSheetId": 110302,
+                "name": "「ペンタトニック」を\n10回クリア",
+                "description": "5周年記念楽曲「ペンタトニック」を10回クリアしよう。",
+                "seq": 1,
+                "panelMissionType": "live_clear_in_music",
+                "requirement1": 10,
+                "rewards": [
+                  {
+                    "id": 14820,
+                    "missionType": "panel_mission",
+                    "missionId": 11030201,
+                    "seq": 1,
+                    "resourceBoxId": 1814
+                  }
+                ]
+              },
+              {
+                "id": 11030202,
+                "panelMissionSheetId": 110302,
+                "name": "みんなでライブを\n30回クリア",
+                "description": "「みんなでライブ」を30回クリアしよう。",
+                "seq": 2,
+                "panelMissionType": "multi_live_clear",
+                "requirement1": 30,
+                "rewards": [
+                  {
+                    "id": 14821,
+                    "missionType": "panel_mission",
+                    "missionId": 11030202,
+                    "seq": 1,
+                    "resourceBoxId": 1815
+                  }
+                ]
+              },
+              {
+                "id": 11030203,
+                "panelMissionSheetId": 110302,
+                "name": "「SUPER FEVER」\nを10回達成",
+                "description": "「みんなでライブ」で「SUPER FEVER」を10回達成しよう。",
+                "seq": 3,
+                "panelMissionType": "multi_live_clear_super_fever",
+                "requirement1": 10,
+                "rewards": [
+                  {
+                    "id": 14822,
+                    "missionType": "panel_mission",
+                    "missionId": 11030203,
+                    "seq": 1,
+                    "resourceBoxId": 1815
+                  }
+                ]
+              },
+              {
+                "id": 11030204,
+                "panelMissionSheetId": 110302,
+                "name": "ライブボーナスを\n累計100消費",
+                "description": "ライブボーナスを累計100消費しよう。\n※マイセカイはライブボーナスをスタミナにした場合のみカウントされます。",
+                "seq": 4,
+                "panelMissionType": "consume_boost_count",
+                "requirement1": 100,
+                "rewards": [
+                  {
+                    "id": 14823,
+                    "missionType": "panel_mission",
+                    "missionId": 11030204,
+                    "seq": 1,
+                    "resourceBoxId": 1815
+                  }
+                ]
+              },
+              {
+                "id": 11030205,
+                "panelMissionSheetId": 110302,
+                "name": "イベント\n「Our Golden Days」\n最終話を読む",
+                "description": "イベント「Our Golden Days」のイベントストーリー最終話を読もう。",
+                "seq": 5,
+                "panelMissionType": "read_event_story_episode",
+                "requirement1": 1,
+                "rewards": [
+                  {
+                    "id": 14824,
+                    "missionType": "panel_mission",
+                    "missionId": 11030205,
+                    "seq": 1,
+                    "resourceBoxId": 1816
+                  }
+                ]
+              },
+              {
+                "id": 11030206,
+                "panelMissionSheetId": 110302,
+                "name": "イベントP\n累計100万獲得",
+                "description": "イベント「Our Golden Days」でイベントPを累計100万獲得しよう。\n※イベントPは10月9日20時59分まで獲得できます。",
+                "seq": 6,
+                "panelMissionType": "collect_event_point",
+                "requirement1": 1000000,
+                "rewards": [
+                  {
+                    "id": 14825,
+                    "missionType": "panel_mission",
+                    "missionId": 11030206,
+                    "seq": 1,
+                    "resourceBoxId": 1816
+                  }
+                ]
+              },
+              {
+                "id": 11030207,
+                "panelMissionSheetId": 110302,
+                "name": "マイセカイで素材を\n500個採取",
+                "description": "マイセカイで素材を500個採取しよう。",
+                "seq": 7,
+                "panelMissionType": "mysekai_gather_any_mysekai_material",
+                "requirement1": 500,
+                "rewards": [
+                  {
+                    "id": 14826,
+                    "missionType": "panel_mission",
+                    "missionId": 11030207,
+                    "seq": 1,
+                    "resourceBoxId": 1816
+                  }
+                ]
+              }
+            ],
+            "rewards": [
+              {
+                "id": 14827,
+                "missionType": "panel_mission_complete",
+                "missionId": 110302,
+                "seq": 1,
+                "resourceBoxId": 1821
+              }
+            ]
+          },
+          {
+            "id": 110303,
+            "panelMissionSheetGroupId": 1103,
+            "name": "トライカード アンリミテッド",
+            "seq": 3,
+            "assetbundleName": "sheet_try_unlimited",
+            "panelMissions": [
+              {
+                "id": 11030301,
+                "panelMissionSheetId": 110303,
+                "name": "5人全員フルコンボで\n5回クリア",
+                "description": "5人全員でフルコンボをして「みんなでライブ」を5回クリアしよう。",
+                "seq": 1,
+                "panelMissionType": "multi_live_clear_party_full_combo",
+                "requirement1": 5,
+                "rewards": [
+                  {
+                    "id": 14828,
+                    "missionType": "panel_mission",
+                    "missionId": 11030301,
+                    "seq": 1,
+                    "resourceBoxId": 1817
+                  }
+                ]
+              },
+              {
+                "id": 11030302,
+                "panelMissionSheetId": 110303,
+                "name": "「SUPER FEVER」\nを15回達成",
+                "description": "「みんなでライブ」で「SUPER FEVER」を15回達成しよう。",
+                "seq": 2,
+                "panelMissionType": "multi_live_clear_super_fever",
+                "requirement1": 15,
+                "rewards": [
+                  {
+                    "id": 14829,
+                    "missionType": "panel_mission",
+                    "missionId": 11030302,
+                    "seq": 1,
+                    "resourceBoxId": 1817
+                  }
+                ]
+              },
+              {
+                "id": 11030303,
+                "panelMissionSheetId": 110303,
+                "name": "『MVP・\nSUPER STAR・\nACE』10回獲得",
+                "description": "「みんなでライブ」で『MVP・SUPER STAR・ACE』を累計10回獲得しよう。",
+                "seq": 3,
+                "panelMissionType": "multi_live_clear_top_score",
+                "requirement1": 10,
+                "rewards": [
+                  {
+                    "id": 14830,
+                    "missionType": "panel_mission",
+                    "missionId": 11030303,
+                    "seq": 1,
+                    "resourceBoxId": 1818
+                  }
+                ]
+              },
+              {
+                "id": 11030304,
+                "panelMissionSheetId": 110303,
+                "name": "30種類の楽曲を\nクリア",
+                "description": "30種類の楽曲をクリアしよう。\n※オートライブでもカウントされます。",
+                "seq": 4,
+                "panelMissionType": "live_clear_with_different_music",
+                "requirement1": 30,
+                "requirement2": 1,
+                "rewards": [
+                  {
+                    "id": 14831,
+                    "missionType": "panel_mission",
+                    "missionId": 11030304,
+                    "seq": 1,
+                    "resourceBoxId": 1818
+                  }
+                ]
+              },
+              {
+                "id": 11030305,
+                "panelMissionSheetId": 110303,
+                "name": "ライブボーナスを\n累計300消費",
+                "description": "ライブボーナスを累計300消費しよう。\n※マイセカイはライブボーナスをスタミナにした場合のみカウントされます。",
+                "seq": 5,
+                "panelMissionType": "consume_boost_count",
+                "requirement1": 300,
+                "rewards": [
+                  {
+                    "id": 14832,
+                    "missionType": "panel_mission",
+                    "missionId": 11030305,
+                    "seq": 1,
+                    "resourceBoxId": 1819
+                  }
+                ]
+              },
+              {
+                "id": 11030306,
+                "panelMissionSheetId": 110303,
+                "name": "イベントP\n累計300万獲得",
+                "description": "イベント「Our Golden Days」でイベントPを累計300万獲得しよう。\n※イベントPは10月9日20時59分まで獲得できます。",
+                "seq": 6,
+                "panelMissionType": "collect_event_point",
+                "requirement1": 3000000,
+                "rewards": [
+                  {
+                    "id": 14833,
+                    "missionType": "panel_mission",
+                    "missionId": 11030306,
+                    "seq": 1,
+                    "resourceBoxId": 1819
+                  }
+                ]
+              },
+              {
+                "id": 11030307,
+                "panelMissionSheetId": 110303,
+                "name": "マイセカイで素材を\n1000個採取",
+                "description": "マイセカイで素材を1000個採取しよう。",
+                "seq": 7,
+                "panelMissionType": "mysekai_gather_any_mysekai_material",
+                "requirement1": 1000,
+                "rewards": [
+                  {
+                    "id": 14834,
+                    "missionType": "panel_mission",
+                    "missionId": 11030307,
+                    "seq": 1,
+                    "resourceBoxId": 1819
+                  }
+                ]
+              }
+            ],
+            "rewards": [
+              {
+                "id": 14835,
+                "missionType": "panel_mission_complete",
+                "missionId": 110303,
+                "seq": 1,
+                "resourceBoxId": 1822
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 1104,
+        "panelMissionCampaignId": 11,
+        "name": "ガチャ・ショップ",
+        "selectableLimit": 1,
+        "seq": 4,
+        "panelMissionSheets": [
+          {
+            "id": 110401,
+            "panelMissionSheetGroupId": 1104,
+            "name": "ガチャ・ショップカード スタンダード ",
+            "seq": 1,
+            "assetbundleName": "sheet_shop_standard",
+            "panelMissions": [
+              {
+                "id": 11040101,
+                "panelMissionSheetId": 110401,
+                "name": "ガチャを\n累計1回\n引く",
+                "description": "ガチャを累計1回引こう。\n※各種無料ガチャもカウントの対象になります。",
+                "seq": 1,
+                "panelMissionType": "spin_any_gacha",
+                "requirement1": 1,
+                "rewards": [
+                  {
+                    "id": 14836,
+                    "missionType": "panel_mission",
+                    "missionId": 11040101,
+                    "seq": 1,
+                    "resourceBoxId": 1823
+                  }
+                ]
+              },
+              {
+                "id": 11040102,
+                "panelMissionSheetId": 110401,
+                "name": "ガチャを\n累計5回\n引く",
+                "description": "ガチャを累計5回引こう。\n※各種無料ガチャもカウントの対象になります。",
+                "seq": 2,
+                "panelMissionType": "spin_any_gacha",
+                "requirement1": 5,
+                "rewards": [
+                  {
+                    "id": 14837,
+                    "missionType": "panel_mission",
+                    "missionId": 11040102,
+                    "seq": 1,
+                    "resourceBoxId": 1824
+                  }
+                ]
+              },
+              {
+                "id": 11040103,
+                "panelMissionSheetId": 110401,
+                "name": "ガチャを\n累計10回\n引く",
+                "description": "ガチャを累計10回引こう。\n※各種無料ガチャもカウントの対象になります。",
+                "seq": 3,
+                "panelMissionType": "spin_any_gacha",
+                "requirement1": 10,
+                "rewards": [
+                  {
+                    "id": 14838,
+                    "missionType": "panel_mission",
+                    "missionId": 11040103,
+                    "seq": 1,
+                    "resourceBoxId": 1824
+                  }
+                ]
+              },
+              {
+                "id": 11040104,
+                "panelMissionSheetId": 110401,
+                "name": "ガチャを\n累計20回\n引く",
+                "description": "ガチャを累計20回引こう。\n※各種無料ガチャもカウントの対象になります。",
+                "seq": 4,
+                "panelMissionType": "spin_any_gacha",
+                "requirement1": 20,
+                "rewards": [
+                  {
+                    "id": 14839,
+                    "missionType": "panel_mission",
+                    "missionId": 11040104,
+                    "seq": 1,
+                    "resourceBoxId": 1824
+                  }
+                ]
+              },
+              {
+                "id": 11040105,
+                "panelMissionSheetId": 110401,
+                "name": "ガチャを\n累計30回\n引く",
+                "description": "ガチャを累計30回引こう。\n※各種無料ガチャもカウントの対象になります。",
+                "seq": 5,
+                "panelMissionType": "spin_any_gacha",
+                "requirement1": 30,
+                "rewards": [
+                  {
+                    "id": 14840,
+                    "missionType": "panel_mission",
+                    "missionId": 11040105,
+                    "seq": 1,
+                    "resourceBoxId": 1825
+                  }
+                ]
+              },
+              {
+                "id": 11040106,
+                "panelMissionSheetId": 110401,
+                "name": "ガチャを\n累計40回\n引く",
+                "description": "ガチャを累計40回引こう。\n※各種無料ガチャもカウントの対象になります。",
+                "seq": 6,
+                "panelMissionType": "spin_any_gacha",
+                "requirement1": 40,
+                "rewards": [
+                  {
+                    "id": 14841,
+                    "missionType": "panel_mission",
+                    "missionId": 11040106,
+                    "seq": 1,
+                    "resourceBoxId": 1825
+                  }
+                ]
+              },
+              {
+                "id": 11040107,
+                "panelMissionSheetId": 110401,
+                "name": "ガチャを\n累計50回\n引く",
+                "description": "ガチャを累計50回引こう。\n※各種無料ガチャもカウントの対象になります。",
+                "seq": 7,
+                "panelMissionType": "spin_any_gacha",
+                "requirement1": 50,
+                "rewards": [
+                  {
+                    "id": 14842,
+                    "missionType": "panel_mission",
+                    "missionId": 11040107,
+                    "seq": 1,
+                    "resourceBoxId": 1825
+                  }
+                ]
+              }
+            ],
+            "rewards": [
+              {
+                "id": 14843,
+                "missionType": "panel_mission_complete",
+                "missionId": 110401,
+                "seq": 1,
+                "resourceBoxId": 1828
+              }
+            ]
+          },
+          {
+            "id": 110402,
+            "panelMissionSheetGroupId": 1104,
+            "name": "ガチャ・ショップカード ゴールド",
+            "seq": 2,
+            "assetbundleName": "sheet_shop_gold",
+            "panelMissions": [
+              {
+                "id": 11040201,
+                "panelMissionSheetId": 110402,
+                "name": "ガチャを\n累計100回\n引く",
+                "description": "ガチャを累計100回引こう。\n※各種無料ガチャもカウントの対象になります。",
+                "seq": 1,
+                "panelMissionType": "spin_any_gacha",
+                "requirement1": 100,
+                "rewards": [
+                  {
+                    "id": 14844,
+                    "missionType": "panel_mission",
+                    "missionId": 11040201,
+                    "seq": 1,
+                    "resourceBoxId": 1826
+                  }
+                ]
+              },
+              {
+                "id": 11040202,
+                "panelMissionSheetId": 110402,
+                "name": "「ブルフェス・\n期間限定ガチャ」\nを50回引く",
+                "description": "「[5周年記念]ブルームフェスティバルガチャ ドリームピック」、\n「[5周年記念]ブルームフェスティバルガチャ ゴールドフィーバー」、\nまたは「EYES ON ME ガチャ」を50回引こう。",
+                "seq": 2,
+                "panelMissionType": "spin_gacha_group",
+                "requirement1": 50,
+                "rewards": [
+                  {
+                    "id": 14845,
+                    "missionType": "panel_mission",
+                    "missionId": 11040202,
+                    "seq": 1,
+                    "resourceBoxId": 1826
+                  }
+                ]
+              },
+              {
+                "id": 11040203,
+                "panelMissionSheetId": 110402,
+                "name": "「1\/3セレクト\nリストガチャ \nLIMITED EDITION」\nを1回引く",
+                "description": "「[5周年記念]1\/3セレクトリストガチャ LIMITED EDITION」を1回引こう。",
+                "seq": 3,
+                "panelMissionType": "execute_gacha",
+                "requirement1": 1,
+                "rewards": [
+                  {
+                    "id": 14846,
+                    "missionType": "panel_mission",
+                    "missionId": 11040203,
+                    "seq": 1,
+                    "resourceBoxId": 1826
+                  }
+                ]
+              },
+              {
+                "id": 11040204,
+                "panelMissionSheetId": 110402,
+                "name": "「メモリアル\nセレクトガチャ」\nを1回引く",
+                "description": "「[5周年記念]メモリアルセレクトガチャ」を1回引こう。",
+                "seq": 4,
+                "panelMissionType": "execute_gacha",
+                "requirement1": 1,
+                "rewards": [
+                  {
+                    "id": 14847,
+                    "missionType": "panel_mission",
+                    "missionId": 11040204,
+                    "seq": 1,
+                    "resourceBoxId": 1826
+                  }
+                ]
+              },
+              {
+                "id": 11040205,
+                "panelMissionSheetId": 110402,
+                "name": "「プレミアム\nプレゼントガチャ\n」を1種類引く",
+                "description": "「[5周年記念]プレミアムプレゼントガチャ」を1種類引こう。",
+                "seq": 5,
+                "panelMissionType": "execute_gacha_tab",
+                "requirement1": 1,
+                "rewards": [
+                  {
+                    "id": 14848,
+                    "missionType": "panel_mission",
+                    "missionId": 11040205,
+                    "seq": 1,
+                    "resourceBoxId": 1826
+                  }
+                ]
+              },
+              {
+                "id": 11040206,
+                "panelMissionSheetId": 110402,
+                "name": "「5周年\n記念セット」\nを1種類購入",
+                "description": "クリスタルショップで「5周年記念セット」を1種類購入しよう。\n※「5周年記念セット サンクス」は除く。",
+                "seq": 6,
+                "panelMissionType": "purchase_billing_shop_item_in_category",
+                "requirement1": 1,
+                "rewards": [
+                  {
+                    "id": 14849,
+                    "missionType": "panel_mission",
+                    "missionId": 11040206,
+                    "seq": 1,
+                    "resourceBoxId": 1826
+                  }
+                ]
+              },
+              {
+                "id": 11040207,
+                "panelMissionSheetId": 110402,
+                "name": "2025年10月\n「ミッションパス」\nを購入",
+                "description": "2025年10月の「プレミアムミッションパス」\nまたは「マイセカイミッションパス」を購入しよう。",
+                "seq": 7,
+                "panelMissionType": "purchase_premium_mission_pass",
+                "requirement1": 1,
+                "rewards": [
+                  {
+                    "id": 14850,
+                    "missionType": "panel_mission",
+                    "missionId": 11040207,
+                    "seq": 1,
+                    "resourceBoxId": 1826
+                  }
+                ]
+              }
+            ],
+            "rewards": [
+              {
+                "id": 14851,
+                "missionType": "panel_mission_complete",
+                "missionId": 110402,
+                "seq": 1,
+                "resourceBoxId": 1829
+              }
+            ]
+          },
+          {
+            "id": 110403,
+            "panelMissionSheetGroupId": 1104,
+            "name": "ガチャ・ショップカード ダイヤモンド",
+            "seq": 3,
+            "assetbundleName": "sheet_shop_diamond",
+            "panelMissions": [
+              {
+                "id": 11040301,
+                "panelMissionSheetId": 110403,
+                "name": "ガチャを\n累計200回\n引く",
+                "description": "ガチャを累計200回引こう。\n※各種無料ガチャもカウントの対象になります。",
+                "seq": 1,
+                "panelMissionType": "spin_any_gacha",
+                "requirement1": 200,
+                "rewards": [
+                  {
+                    "id": 14852,
+                    "missionType": "panel_mission",
+                    "missionId": 11040301,
+                    "seq": 1,
+                    "resourceBoxId": 1826
+                  }
+                ]
+              },
+              {
+                "id": 11040302,
+                "panelMissionSheetId": 110403,
+                "name": "「ブルフェス・\n期間限定ガチャ」\nを100回引く",
+                "description": "「[5周年記念]ブルームフェスティバルガチャ ドリームピック」、\n「[5周年記念]ブルームフェスティバルガチャ ゴールドフィーバー」、\nまたは「EYES ON ME ガチャ」を100回引こう。",
+                "seq": 2,
+                "panelMissionType": "spin_gacha_group",
+                "requirement1": 100,
+                "rewards": [
+                  {
+                    "id": 14853,
+                    "missionType": "panel_mission",
+                    "missionId": 11040302,
+                    "seq": 1,
+                    "resourceBoxId": 1827
+                  }
+                ]
+              },
+              {
+                "id": 11040303,
+                "panelMissionSheetId": 110403,
+                "name": "「1\/3セレクト\nリストガチャ \nLIMITED EDITION」\nを1回引く",
+                "description": "「[5周年記念]1\/3セレクトリストガチャ LIMITED EDITION」を1回引こう。",
+                "seq": 3,
+                "panelMissionType": "execute_gacha",
+                "requirement1": 1,
+                "rewards": [
+                  {
+                    "id": 14854,
+                    "missionType": "panel_mission",
+                    "missionId": 11040303,
+                    "seq": 1,
+                    "resourceBoxId": 1827
+                  }
+                ]
+              },
+              {
+                "id": 11040304,
+                "panelMissionSheetId": 110403,
+                "name": "「メモリアル\nセレクトガチャ」\nを1回引く",
+                "description": "「[5周年記念]メモリアルセレクトガチャ」を1回引こう。",
+                "seq": 4,
+                "panelMissionType": "execute_gacha",
+                "requirement1": 1,
+                "rewards": [
+                  {
+                    "id": 14855,
+                    "missionType": "panel_mission",
+                    "missionId": 11040304,
+                    "seq": 1,
+                    "resourceBoxId": 1827
+                  }
+                ]
+              },
+              {
+                "id": 11040305,
+                "panelMissionSheetId": 110403,
+                "name": "「プレミアム\nプレゼントガチャ\n」を2種類引く",
+                "description": "「[5周年記念]プレミアムプレゼントガチャ」を2種類引こう。",
+                "seq": 5,
+                "panelMissionType": "execute_gacha_tab",
+                "requirement1": 2,
+                "rewards": [
+                  {
+                    "id": 14856,
+                    "missionType": "panel_mission",
+                    "missionId": 11040305,
+                    "seq": 1,
+                    "resourceBoxId": 1827
+                  }
+                ]
+              },
+              {
+                "id": 11040306,
+                "panelMissionSheetId": 110403,
+                "name": "「5周年\n記念セット」\nを2種類購入",
+                "description": "クリスタルショップで「5周年記念セット」を2種類購入しよう。\n※「5周年記念セット サンクス」は除く。",
+                "seq": 6,
+                "panelMissionType": "purchase_billing_shop_item_in_category",
+                "requirement1": 2,
+                "rewards": [
+                  {
+                    "id": 14857,
+                    "missionType": "panel_mission",
+                    "missionId": 11040306,
+                    "seq": 1,
+                    "resourceBoxId": 1827
+                  }
+                ]
+              },
+              {
+                "id": 11040307,
+                "panelMissionSheetId": 110403,
+                "name": "2025年10月\n「ミッションパス」\nを購入",
+                "description": "2025年10月の「プレミアムミッションパス」\nまたは「マイセカイミッションパス」を購入しよう。",
+                "seq": 7,
+                "panelMissionType": "purchase_premium_mission_pass",
+                "requirement1": 1,
+                "rewards": [
+                  {
+                    "id": 14858,
+                    "missionType": "panel_mission",
+                    "missionId": 11040307,
+                    "seq": 1,
+                    "resourceBoxId": 1827
+                  }
+                ]
+              }
+            ],
+            "rewards": [
+              {
+                "id": 14859,
+                "missionType": "panel_mission_complete",
+                "missionId": 110403,
+                "seq": 1,
+                "resourceBoxId": 1830
+              }
+            ]
+          }
+        ]
+      }
+    ]
   }
 ]

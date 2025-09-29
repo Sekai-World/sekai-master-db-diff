@@ -14174,5 +14174,143 @@
     "eventMissionSelectableRewardGroupId": 1,
     "sentence": "7つのミッションを全て達成しよう。",
     "rewards": []
+  },
+  {
+    "id": 801,
+    "eventId": 181,
+    "seq": 1,
+    "eventMissionType": "live_clear_daily",
+    "eventMissionCategory": "normal",
+    "requirement1": 10,
+    "sentence": "累計10日ライブを1日1回クリアしよう。",
+    "rewards": [
+      {
+        "id": 14733,
+        "missionType": "event_mission",
+        "missionId": 801,
+        "seq": 1,
+        "resourceBoxId": 8002
+      }
+    ]
+  },
+  {
+    "id": 802,
+    "eventId": 181,
+    "seq": 2,
+    "eventMissionType": "any_live_clear",
+    "eventMissionCategory": "normal",
+    "requirement1": 50,
+    "sentence": "ライブを50回クリアしよう。",
+    "rewards": [
+      {
+        "id": 14734,
+        "missionType": "event_mission",
+        "missionId": 802,
+        "seq": 1,
+        "resourceBoxId": 8002
+      }
+    ]
+  },
+  {
+    "id": 803,
+    "eventId": 181,
+    "seq": 3,
+    "eventMissionType": "live_clear_full_combo",
+    "eventMissionCategory": "normal",
+    "requirement1": 10,
+    "sentence": "ライブで楽曲をフルコンボで10回クリアしよう。",
+    "rewards": [
+      {
+        "id": 14735,
+        "missionType": "event_mission",
+        "missionId": 803,
+        "seq": 1,
+        "resourceBoxId": 8002
+      }
+    ]
+  },
+  {
+    "id": 804,
+    "eventId": 181,
+    "seq": 4,
+    "eventMissionType": "live_clear_different_music",
+    "eventMissionCategory": "normal",
+    "requirement1": 10,
+    "requirement2": 1,
+    "sentence": "ライブで10種類の楽曲をクリアしよう。",
+    "rewards": [
+      {
+        "id": 14736,
+        "missionType": "event_mission",
+        "missionId": 804,
+        "seq": 1,
+        "resourceBoxId": 8002
+      }
+    ]
+  },
+  {
+    "id": 805,
+    "eventId": 181,
+    "seq": 5,
+    "eventMissionType": "read_last_event_story_episode",
+    "eventMissionCategory": "normal",
+    "requirement1": 1,
+    "sentence": "イベント「Our Golden Days」のイベントストーリー第8話を読もう。",
+    "rewards": [
+      {
+        "id": 14737,
+        "missionType": "event_mission",
+        "missionId": 805,
+        "seq": 1,
+        "resourceBoxId": 8002
+      }
+    ]
+  },
+  {
+    "id": 806,
+    "eventId": 181,
+    "seq": 6,
+    "eventMissionType": "consume_event_item",
+    "eventMissionCategory": "normal",
+    "requirement1": 20000,
+    "sentence": "イベント「Our Golden Days」の交換所でバッジを20000個消費しよう。",
+    "rewards": [
+      {
+        "id": 14738,
+        "missionType": "event_mission",
+        "missionId": 806,
+        "seq": 1,
+        "resourceBoxId": 8002
+      }
+    ]
+  },
+  {
+    "id": 807,
+    "eventId": 181,
+    "seq": 7,
+    "eventMissionType": "join_virtual_live",
+    "eventMissionCategory": "normal",
+    "requirement1": 1,
+    "sentence": "「Our Golden Days アフターライブ」に参加しよう。",
+    "rewards": [
+      {
+        "id": 14739,
+        "missionType": "event_mission",
+        "missionId": 807,
+        "seq": 1,
+        "resourceBoxId": 8002
+      }
+    ]
+  },
+  {
+    "id": 808,
+    "eventId": 181,
+    "seq": 8,
+    "eventMissionType": "achieve_event_mission",
+    "eventMissionCategory": "complete_selectable_reward",
+    "requirement1": 7,
+    "eventMissionSelectableRewardGroupId": 1,
+    "sentence": "7つのミッションを全て達成しよう。",
+    "rewards": []
   }
 ]

@@ -124,6 +124,30 @@
     "value": "×{0}"
   },
   {
+    "wordingKey": "FORMAT_MYSEKAI_HOUSING_COMPETITION_BACK_NUMBER_NEW_ARRIVAL",
+    "value": "{0} 更新"
+  },
+  {
+    "wordingKey": "FORMAT_MYSEKAI_HOUSING_COMPETITION_BACK_NUMBER_NEW_ARRIVAL_LATEST",
+    "value": "{0} 新着公開！"
+  },
+  {
+    "wordingKey": "FORMAT_MYSEKAI_HOUSING_COMPETITION_PAGE_COUNT",
+    "value": "{0}\/{1}"
+  },
+  {
+    "wordingKey": "FORMAT_MYSEKAI_HOUSING_COMPETITION_PERIOD_END_AT",
+    "value": "{0}まで"
+  },
+  {
+    "wordingKey": "FORMAT_MYSEKAI_HOUSING_COMPETITION_SUBMIT_PERIOD",
+    "value": "{0}～{1}"
+  },
+  {
+    "wordingKey": "FORMAT_MYSEKAI_HOUSING_COMPETITION_SUBMIT_THEME",
+    "value": "テーマ『{0}』"
+  },
+  {
     "wordingKey": "FORMAT_MYSEKAI_PHOTO_ALBUM_PAGE_COUNT",
     "value": "{0}\/{1}"
   },
@@ -476,6 +500,10 @@
     "value": "ストアにて返金処理が実際されているため、処理を開始します"
   },
   {
+    "wordingKey": "MSG_BIRTHDAY_MISSION_TEXT",
+    "value": "セレブレーションフラワーを\n累計{0}輪あつめよう"
+  },
+  {
     "wordingKey": "MSG_BLOCKED_USER_CHAT",
     "value": "ブロック中のプレイヤーの発言が非表示にされました。"
   },
@@ -793,19 +821,19 @@
   },
   {
     "wordingKey": "MSG_COMMUNITY_REPORT_HARASSMENT_OF_CHARACTER",
-    "value": "キャラクター・ユニットへの嫌がらせ・攻撃的な発言"
+    "value": "キャラクター・ユニットへの嫌がらせ・攻撃的な発言や表現"
   },
   {
     "wordingKey": "MSG_COMMUNITY_REPORT_HARASSMENT_OF_OTHERS",
-    "value": "他者への嫌がらせ・攻撃的な発言"
+    "value": "他者への嫌がらせ・攻撃的な発言や表現"
   },
   {
     "wordingKey": "MSG_COMMUNITY_REPORT_HARASSMENT_OF_SELF",
-    "value": "自分への嫌がらせ・攻撃的な発言"
+    "value": "自分への嫌がらせ・攻撃的な発言や表現"
   },
   {
     "wordingKey": "MSG_COMMUNITY_REPORT_OBSCENE_REMARKS",
-    "value": "わいせつ・性的な発言"
+    "value": "わいせつ・性的な発言や表現"
   },
   {
     "wordingKey": "MSG_COMMUNITY_REPORT_OTHER",
@@ -1068,6 +1096,10 @@
     "value": "持ち物に収納できる数量の上限に達しています"
   },
   {
+    "wordingKey": "MSG_CRAFT_TERM_LIMIT_DIALOG_BODY",
+    "value": "イベント期間が終了したため、\n製作することができません。"
+  },
+  {
     "wordingKey": "MSG_CREATE_PRIVATE_ROOM",
     "value": "「{0}」\nのプライベートルームを作成します。"
   },
@@ -1094,6 +1126,10 @@
   {
     "wordingKey": "MSG_CRYSTAL_SHOP_PURCHASE_ERROR",
     "value": "購入に失敗しました。\nしばらく時間を置いてから再度お試しください。"
+  },
+  {
+    "wordingKey": "MSG_CS_BAN",
+    "value": "アクセス頂いたプレイヤーデータは、\n調査のため一時的にデータの利用を停止させていただいております。"
   },
   {
     "wordingKey": "MSG_CUSTOMPROFILE_HONOR_EMPTY",
@@ -1321,7 +1357,7 @@
   },
   {
     "wordingKey": "MSG_EVENT_LIVE_BOOST_EXCEPTION",
-    "value": "イベント期間中は消費数を<color=#ff5599>最大{0}<\/color>まで設定できます。"
+    "value": "ライブボーナスの消費量を設定します。"
   },
   {
     "wordingKey": "MSG_EVENT_MAINTENANCE_ON_GOING_DIALOG",
@@ -1716,6 +1752,10 @@
     "value": "<color=#ff5599>{0}<\/color>から\nライブボーナス×{1}をプレゼントされました。"
   },
   {
+    "wordingKey": "MSG_GOTO_HOUSING_COMPETITION_CONFIRM",
+    "value": "この投稿におでかけします。\nよろしいですか？"
+  },
+  {
     "wordingKey": "MSG_HARVST_SITE_RELEASE_NEW_SITE",
     "value": "新しいエリアが解放されました。"
   },
@@ -1940,6 +1980,10 @@
     "value": "<color=#ff5599>{0}<\/color> を獲得しました！"
   },
   {
+    "wordingKey": "MSG_LOGIN_BAN",
+    "value": "アクセス中のプレイヤーデータにて違反行為を確認したため\nデータの利用を停止いたしました。"
+  },
+  {
     "wordingKey": "MSG_LV_TEXT",
     "value": "{0}"
   },
@@ -2006,6 +2050,10 @@
   {
     "wordingKey": "MSG_MATCHING_ERROR_WITH_ERROR_CODE",
     "value": "マッチングに失敗しました。({0})"
+  },
+  {
+    "wordingKey": "MSG_MATCHING_MYSEKAI_HOUSING_COMPETITION_SUBMIT",
+    "value": "マイセカイ百景の投稿を探しています…"
   },
   {
     "wordingKey": "MSG_MATCHING_NOW_DESCRIPTION",
@@ -2268,12 +2316,56 @@
     "value": "部屋のサイズが拡張されました。"
   },
   {
+    "wordingKey": "MSG_MYSEKAI_ANNIVERSARY_PARTY_BEFORE_TERM",
+    "value": "パーティーは記念日\n当日から開催できます"
+  },
+  {
+    "wordingKey": "MSG_MYSEKAI_BIRTHDAY_PARTY_AREA_OVERLAP",
+    "value": "お祝いパーティー開催に必要なエリアに他の家具が配置されているか、\nレイアウト範囲外にあるため、招待できません。"
+  },
+  {
+    "wordingKey": "MSG_MYSEKAI_BIRTHDAY_PARTY_BEFORE_TERM",
+    "value": "パーティーは誕生日\n当日から開催できます"
+  },
+  {
+    "wordingKey": "MSG_MYSEKAI_BIRTHDAY_PARTY_CANT_OPEN",
+    "value": "お祝いパーティー開催に必要なエリアに他の家具が配置されているか、\nレイアウト範囲外にあるため、招待できません。"
+  },
+  {
+    "wordingKey": "MSG_MYSEKAI_BIRTHDAY_PARTY_CLOSED",
+    "value": "イベント期間が終了したため、\nお祝いパーティーに招待できません。"
+  },
+  {
+    "wordingKey": "MSG_MYSEKAI_BIRTHDAY_PARTY_END",
+    "value": "終了しました"
+  },
+  {
+    "wordingKey": "MSG_MYSEKAI_BIRTHDAY_PARTY_NPC_LEAVED",
+    "value": "パーティーの準備のため、\nマイセカイから退出しました。"
+  },
+  {
+    "wordingKey": "MSG_MYSEKAI_BIRTHDAY_PARTY_RULE_HADER_TEXT",
+    "value": "お祝いまでにすること"
+  },
+  {
+    "wordingKey": "MSG_MYSEKAI_BIRTHDAY_PARTY_SAVE_CONFIRMATION",
+    "value": "お祝いパーティー開催に必要なエリアに他の家具が設置されているか、\nレイアウト範囲外にあるため、このレイアウトだと招待できません。\n保存してよろしいですか？"
+  },
+  {
+    "wordingKey": "MSG_MYSEKAI_CATEGORY_REPORT_PART_TYPE",
+    "value": "通報する箇所を詳しく教えてください。"
+  },
+  {
     "wordingKey": "MSG_MYSEKAI_COLORFUL_PASS_ALERT",
     "value": "ワールドパスの有効期限が過ぎています。\n新しく購入しますか？"
   },
   {
     "wordingKey": "MSG_MYSEKAI_CONFIRM_REMOVE_FIXTURE_INVALID_LAYOUT",
     "value": "不正な配置を行っている家具があります。\n該当する家具を片付けて保存しますか？"
+  },
+  {
+    "wordingKey": "MSG_MYSEKAI_DELIVERY_HARVEST_REFRESH",
+    "value": "双葉が再び生えてきて、採取可能になりました。"
   },
   {
     "wordingKey": "MSG_MYSEKAI_FIXTURE_JOINT_RELEASE_PUT_LIMIT",
@@ -2330,6 +2422,150 @@
   {
     "wordingKey": "MSG_MYSEKAI_GATE_SKIN_RELEASE_CONFIRM",
     "value": "「{0}」を解放します。\nよろしいですか？"
+  },
+  {
+    "wordingKey": "MSG_MYSEKAI_HOUSING_COMPETITION_BACK_NUMBER_NONE",
+    "value": "表示できるマイセカイ百景がありません。"
+  },
+  {
+    "wordingKey": "MSG_MYSEKAI_HOUSING_COMPETITION_CALCULATING",
+    "value": "コンテスト集計中です。"
+  },
+  {
+    "wordingKey": "MSG_MYSEKAI_HOUSING_COMPETITION_CAPTURE_NPC_LEAVED",
+    "value": "撮影の準備に向かいました。"
+  },
+  {
+    "wordingKey": "MSG_MYSEKAI_HOUSING_COMPETITION_CONFIRM_CAPTURE",
+    "value": "この写真でよろしいですか？"
+  },
+  {
+    "wordingKey": "MSG_MYSEKAI_HOUSING_COMPETITION_CONFIRM_RESUBMIT",
+    "value": "今回のテーマは既に投稿されています。\n再投稿しますか？\n<color=#F36>※再投稿すると元の投稿にされた「いいね」の数はリセットされます。<\/color>"
+  },
+  {
+    "wordingKey": "MSG_MYSEKAI_HOUSING_COMPETITION_DISCARD_SUBMISSION",
+    "value": "投稿内容を破棄します。\nよろしいですか？\n<color=#F36>※撮影した写真は破棄されます。<\/color>"
+  },
+  {
+    "wordingKey": "MSG_MYSEKAI_HOUSING_COMPETITION_FORCE_LOTTERY_COOLDOWN",
+    "value": "ページ更新が可能になるまでしばらくお待ちください。"
+  },
+  {
+    "wordingKey": "MSG_MYSEKAI_HOUSING_COMPETITION_INPUT_SUBMIT_ID",
+    "value": "投稿IDを入力してください。"
+  },
+  {
+    "wordingKey": "MSG_MYSEKAI_HOUSING_COMPETITION_INVALID_ENTRY",
+    "value": "この投稿には現在おでかけできません。"
+  },
+  {
+    "wordingKey": "MSG_MYSEKAI_HOUSING_COMPETITION_INVALID_SEARCH_ID",
+    "value": "入力されたIDの投稿は見つかりません。"
+  },
+  {
+    "wordingKey": "MSG_MYSEKAI_HOUSING_COMPETITION_INVALID_SEARCH_ID_FOR_BACK_NUMBER",
+    "value": "この投稿IDは開催中のコンテストのIDのため、マイセカイ百景では検索できません。"
+  },
+  {
+    "wordingKey": "MSG_MYSEKAI_HOUSING_COMPETITION_INVALID_SEARCH_ID_FOR_COMPETITION",
+    "value": "この投稿IDはマイセカイ百景のIDのため、コンテストでは検索できません。"
+  },
+  {
+    "wordingKey": "MSG_MYSEKAI_HOUSING_COMPETITION_LEAVE_CONFIRM",
+    "value": "{0}を退出します。\n よろしいですか？"
+  },
+  {
+    "wordingKey": "MSG_MYSEKAI_HOUSING_COMPETITION_LOADING_PAGE",
+    "value": "ページの情報を読み込んでいます…"
+  },
+  {
+    "wordingKey": "MSG_MYSEKAI_HOUSING_COMPETITION_LOTTERY_RESULT_EXIT_OUT_OF_PERIOD",
+    "value": "コンテスト期間が終了しました。\nおでかけトップに戻ります。"
+  },
+  {
+    "wordingKey": "MSG_MYSEKAI_HOUSING_COMPETITION_LOTTERY_RESULT_REFRESH_OUT_OF_PERIOD",
+    "value": "コンテスト期間が終了しました。\nページを更新します。"
+  },
+  {
+    "wordingKey": "MSG_MYSEKAI_HOUSING_COMPETITION_NONE",
+    "value": "開催中のコンテストは\nありません"
+  },
+  {
+    "wordingKey": "MSG_MYSEKAI_HOUSING_COMPETITION_NO_LOTTERY_SUBMIT",
+    "value": "表示できるマイセカイがありません。"
+  },
+  {
+    "wordingKey": "MSG_MYSEKAI_HOUSING_COMPETITION_OUT_OF_PERIOD",
+    "value": "開催中のコンテストは\nありません"
+  },
+  {
+    "wordingKey": "MSG_MYSEKAI_HOUSING_COMPETITION_OUT_OF_TERM_SEARCH_ID",
+    "value": "入力されたIDの投稿はコンテストの開催期間が終了しているため、おでかけできません。"
+  },
+  {
+    "wordingKey": "MSG_MYSEKAI_HOUSING_COMPETITION_PERIOD_END",
+    "value": "終了しました。"
+  },
+  {
+    "wordingKey": "MSG_MYSEKAI_HOUSING_COMPETITION_REVIEWED_NOTICE",
+    "value": "マイセカイ百景の投稿に\n「いいね」が届きました。"
+  },
+  {
+    "wordingKey": "MSG_MYSEKAI_HOUSING_COMPETITION_REVIEW_INVALID",
+    "value": "この投稿は更新されたため、いいねができません。"
+  },
+  {
+    "wordingKey": "MSG_MYSEKAI_HOUSING_COMPETITION_REVIEW_OUT_OF_PERIOD",
+    "value": "現在いいね期間外のため表示できるマイセカイがありません。"
+  },
+  {
+    "wordingKey": "MSG_MYSEKAI_HOUSING_COMPETITION_REVIEW_OUT_OF_TERM",
+    "value": "コンテストが更新されたため、いいねができません。"
+  },
+  {
+    "wordingKey": "MSG_MYSEKAI_HOUSING_COMPETITION_SELECT_SUBMISSION_SITE",
+    "value": "現在のマイホームの状態をマイセカイ百景に投稿します。\n投稿写真を撮影するエリアを選択してください。"
+  },
+  {
+    "wordingKey": "MSG_MYSEKAI_HOUSING_COMPETITION_SELECT_SUBMISSION_SITE_RELEASE_ROOM",
+    "value": "現在のマイホームの状態をマイセカイ百景に投稿します。\n投稿する範囲と撮影するエリアを選択してください。"
+  },
+  {
+    "wordingKey": "MSG_MYSEKAI_HOUSING_COMPETITION_SKETCH_INVALID",
+    "value": "この投稿は更新されたため、スケッチできません。"
+  },
+  {
+    "wordingKey": "MSG_MYSEKAI_HOUSING_COMPETITION_SKETCH_OUT_OF_TERM",
+    "value": "コンテストが更新されたため、スケッチできません。"
+  },
+  {
+    "wordingKey": "MSG_MYSEKAI_HOUSING_COMPETITION_SUBMIT_COMPLETED",
+    "value": "マイセカイ百景へ投稿が完了しました。"
+  },
+  {
+    "wordingKey": "MSG_MYSEKAI_HOUSING_COMPETITION_SUBMIT_ID_COPY_COMPLETED",
+    "value": "投稿IDをコピーしました。"
+  },
+  {
+    "wordingKey": "MSG_MYSEKAI_HOUSING_COMPETITION_SUBMIT_ID_NOT_FOUND",
+    "value": "入力されたIDの投稿は見つかりません。"
+  },
+  {
+    "wordingKey": "MSG_MYSEKAI_HOUSING_COMPETITION_SUBMIT_INVALID_FOR_SITE_LEVEL",
+    "value": "部屋の拡張・解放がされているため投稿することができません。\n一度家の中に入ってから再度投稿してください。"
+  },
+  {
+    "wordingKey": "MSG_MYSEKAI_HOUSING_COMPETITION_SUBMIT_OUT_OF_PERIOD",
+    "value": "投稿期間が終了したため、\nこのテーマに投稿することができません。"
+  },
+  {
+    "wordingKey": "MSG_MYSEKAI_HOUSING_COMPETITION_SUBMIT_UPDATED",
+    "value": "投稿が更新されました。ホームに戻ります。"
+  },
+  {
+    "wordingKey": "MSG_MYSEKAI_HOUSING_COMPETITION_VISITING_CHARACTER_FROM_GATE",
+    "value": "キャラクターがゲートを使用している間は投稿できません。"
   },
   {
     "wordingKey": "MSG_MYSEKAI_INVALID_TO_TRIPOD_MODE",
@@ -2546,6 +2782,10 @@
   {
     "wordingKey": "MSG_NOTHING_AREA_ITEM",
     "value": "エリアアイテムがありません。"
+  },
+  {
+    "wordingKey": "MSG_NOTHING_BIRTHDAY_DIALOG_BODY",
+    "value": "開催期間が終了したため、祝祭の庭園に入れません。"
   },
   {
     "wordingKey": "MSG_NOTHING_COORDINATE_ITEM",
@@ -3012,6 +3252,10 @@
     "value": "ガチャを1回引くごとに、各種アイテムがプライズとして獲得できます。\n\n※プライズの抽選は、ガチャの結果画面にて実行されます。\n※プライズは提供割合に基づき1回ごとに抽選を行います。例えば提供割合1%のアイテムが100回中1回必ず出現するという仕組みではありません。\n※プライズで獲得できる「[5周年記念]ブルームフェスティバルガチャ専用チケット」は、「[5周年記念]ブルームフェスティバルガチャ ドリームピック」「[5周年記念]ブルームフェスティバルガチャ ゴールドフィーバー」でのみ使用できるガチャチケットです。また、開催期限を過ぎた場合、「[5周年記念]ブルームフェスティバルガチャ専用チケット」はご利用いただけなくなりますのでご注意ください。\n※プライズで獲得できる「[5周年記念]無料ガチャチケット」は、「[5周年記念]無料ガチャ」でのみ使用できるガチャチケットです。また、開催期限を過ぎた場合、「[5周年記念]無料ガチャチケット」はご利用いただけなくなりますのでご注意ください。"
   },
   {
+    "wordingKey": "MSG_PRIZE_GIFT_DESCRIPTION_9",
+    "value": "ガチャを1回引くごとに、各種アイテムがプライズとして獲得できます。\n\n※プライズの抽選は、ガチャの結果画面にて実行されます。\n※プライズは提供割合に基づき1回ごとに抽選を行います。例えば提供割合1%のアイテムが100回中1回必ず出現するという仕組みではありません。\n※プライズで獲得できる「ゴールドメダル」は、「ホーム」->5周年記念「ブライトメモリーズキャンペーン」 ->「ゴールドメダル交換所」よりご利用いただけます。\n※「ゴールドメダル」は、ゴールドメダル交換所の開催期間終了までの「交換期限」があります。交換期限を過ぎた場合、「ゴールドメダル」はご利用いただけなくなりますのでご注意ください。\n※「ゴールドメダル」は、ゴールドメダル交換所以外ではご利用いただけません。"
+  },
+  {
     "wordingKey": "MSG_PRODUCT_IS_PENDING",
     "value": "お支払いが完了していない商品があるため、商品を購入できません。"
   },
@@ -3140,12 +3384,20 @@
     "value": "会場の混雑状況を取得しています..."
   },
   {
+    "wordingKey": "MSG_RECEIVED_BIRTHDAY_HONOR",
+    "value": "開花したたくさんのセレブレーションフラワーが称号を彩りました。"
+  },
+  {
     "wordingKey": "MSG_RECEIVED_CONVERT_REWARD",
     "value": "ヘンカンしたアイテムを受け取りました。"
   },
   {
     "wordingKey": "MSG_RECEIVED_COSTUME",
     "value": "獲得しました。"
+  },
+  {
+    "wordingKey": "MSG_RECEIVED_DELIVERY_TOTAL_REWARD",
+    "value": "セレブレーションフラワーが集まり、報酬を獲得しました。"
   },
   {
     "wordingKey": "MSG_RECEIVED_HAIRSTYLE",
@@ -3302,6 +3554,10 @@
   {
     "wordingKey": "MSG_RESULT_DAILY_BONUS_COUNT",
     "value": "本日あと{0}回"
+  },
+  {
+    "wordingKey": "MSG_RETURN_TO_PLAYER_MYSEKAI",
+    "value": "自分のマイセカイに戻ります"
   },
   {
     "wordingKey": "MSG_REVIEW_GIFT",
@@ -3898,6 +4154,30 @@
   {
     "wordingKey": "MSG_VIRTUAL_LIVE_UNTIL_MINUTE",
     "value": "開演まであと{0}分"
+  },
+  {
+    "wordingKey": "MSG_VIRTUAL_MESSAGE_CHARACTER_SELECT",
+    "value": "「5周年スペシャルメッセージ」を見たいキャラクターを選択してください。"
+  },
+  {
+    "wordingKey": "MSG_VIRTUAL_MESSAGE_CHARACTER_SELECTION_CONFIRM",
+    "value": "「5周年スペシャルメッセージチケット」を使用して\n{0}からの5周年スペシャルメッセージを見ます。\nよろしいですか？\n\n<color=#FF3366>※後から変更することはできません。<\/color>"
+  },
+  {
+    "wordingKey": "MSG_VIRTUAL_MESSAGE_EXIT_FROM_HOME_CONFIRM",
+    "value": "5周年スペシャルメッセージを見るのをやめますか？\n※期間中は再度見にいくことができます。"
+  },
+  {
+    "wordingKey": "MSG_VIRTUAL_MESSAGE_EXIT_FROM_ITEM_CONFIRM",
+    "value": "5周年スペシャルメッセージを見るのをやめますか？"
+  },
+  {
+    "wordingKey": "MSG_VIRTUAL_MESSAGE_REWATCH_CONFIRM",
+    "value": "{0}からの5周年スペシャルメッセージをもう一度見ますか？"
+  },
+  {
+    "wordingKey": "MSG_VIRTUAL_MESSAGE_WATCH_CONFIRM",
+    "value": "{0}からの5周年スペシャルメッセージを見ますか？"
   },
   {
     "wordingKey": "MSG_VISIT_CHARACTER",
@@ -4698,6 +4978,26 @@
   {
     "wordingKey": "WORD_BIRTHDAY_ARCHIVE_TITLE",
     "value": "バースデー・アニバーサリーライブ"
+  },
+  {
+    "wordingKey": "WORD_BIRTHDAY_CRAFT_FIXTURE_TITLE",
+    "value": "お祝い用限定家具"
+  },
+  {
+    "wordingKey": "WORD_BIRTHDAY_HAPPY_ANNIVERSARY",
+    "value": "{0} HAPPY ANNIVERSARY"
+  },
+  {
+    "wordingKey": "WORD_BIRTHDAY_HAPPY_BIRTHDAY",
+    "value": "{0} HAPPY BIRTHDAY"
+  },
+  {
+    "wordingKey": "WORD_BIRTHDAY_MISSION_REWARD_TITLE",
+    "value": "{0}輪"
+  },
+  {
+    "wordingKey": "WORD_BIRTHDAY_MISSION_TITLE",
+    "value": "あつめたセレブレーションフラワー"
   },
   {
     "wordingKey": "WORD_BLOCK",
@@ -5928,6 +6228,10 @@
     "value": "作成不可"
   },
   {
+    "wordingKey": "WORD_CRAFT_TERM_PERIOD",
+    "value": "製作期間"
+  },
+  {
     "wordingKey": "WORD_CREATE",
     "value": "作成"
   },
@@ -6398,6 +6702,10 @@
   {
     "wordingKey": "WORD_END_AT_WITHOUT_YEAR_FORMAT",
     "value": "{0:00}\/{1:00} {2:00}:{3:00}まで"
+  },
+  {
+    "wordingKey": "WORD_END_BIRTHDAY_CUTSCENE",
+    "value": "パーティーを終わる"
   },
   {
     "wordingKey": "WORD_ENTER_LIMIT",
@@ -7984,6 +8292,10 @@
     "value": "初回特典"
   },
   {
+    "wordingKey": "WORD_LIMITED_FIXTURE",
+    "value": "期間限定"
+  },
+  {
     "wordingKey": "WORD_LIMITED_SET_PERIOD",
     "value": "販売期間 {0}まで"
   },
@@ -8848,6 +9160,34 @@
     "value": "マイセカイ"
   },
   {
+    "wordingKey": "WORD_MYSEKAI_BIRTHDAY_PARTY_CLOSE_CONFIRM",
+    "value": "お祝いパーティーを終わります。\nよろしいですか？\n※期間中はパーティーを思い出すことができます。"
+  },
+  {
+    "wordingKey": "WORD_MYSEKAI_BIRTHDAY_PARTY_CONFIRM",
+    "value": "{0}をお祝いパーティーに招待しますか？"
+  },
+  {
+    "wordingKey": "WORD_MYSEKAI_BIRTHDAY_PARTY_CRAFT_TERM",
+    "value": "限定家具制作"
+  },
+  {
+    "wordingKey": "WORD_MYSEKAI_BIRTHDAY_PARTY_DATE_PERIOD",
+    "value": "{0:yyyy\/MM\/dd HH:mm} ～ {1:MM\/dd HH:mm}"
+  },
+  {
+    "wordingKey": "WORD_MYSEKAI_BIRTHDAY_PARTY_HARVEST_TERM",
+    "value": "祝祭のあまつゆ取得"
+  },
+  {
+    "wordingKey": "WORD_MYSEKAI_BIRTHDAY_PARTY_REMEMBER_CONFIRM",
+    "value": "{0}のお祝いパーティーを思い出しますか？"
+  },
+  {
+    "wordingKey": "WORD_MYSEKAI_BIRTHDAY_PARTY_TERM",
+    "value": "お祝いパーティー"
+  },
+  {
     "wordingKey": "WORD_MYSEKAI_CAN_PUT",
     "value": "置いてある家具"
   },
@@ -8870,6 +9210,22 @@
   {
     "wordingKey": "WORD_MYSEKAI_DAILY_UPDATE",
     "value": "毎日更新"
+  },
+  {
+    "wordingKey": "WORD_MYSEKAI_DELIVERY_DELIVERY_OF_PERIOD",
+    "value": "納品期間は終了しました"
+  },
+  {
+    "wordingKey": "WORD_MYSEKAI_DELIVERY_FLOWER_BLOOM_UNTIL",
+    "value": "花が咲くまで"
+  },
+  {
+    "wordingKey": "WORD_MYSEKAI_DELIVERY_HARVEST_OF_PERIOD",
+    "value": "取得期間は終了しました"
+  },
+  {
+    "wordingKey": "WORD_MYSEKAI_DELIVERY_MEMBER_BONUS",
+    "value": "メンバーボーナス+{0}%！"
   },
   {
     "wordingKey": "WORD_MYSEKAI_FIXTURE_JOINT_LAYOUT_COUNT",
@@ -8914,6 +9270,214 @@
   {
     "wordingKey": "WORD_MYSEKAI_GATE_VISIT_DEFAULT_CHARACTER",
     "value": "最初から来訪するキャラクター"
+  },
+  {
+    "wordingKey": "WORD_MYSEKAI_HOUSING_COMPETITION_AGGREGATING",
+    "value": "集計中..."
+  },
+  {
+    "wordingKey": "WORD_MYSEKAI_HOUSING_COMPETITION_BACK_NUMBER",
+    "value": "マイセカイ百景"
+  },
+  {
+    "wordingKey": "WORD_MYSEKAI_HOUSING_COMPETITION_BACK_NUMBER_EN",
+    "value": "MYSEKAI BEST SELECTION"
+  },
+  {
+    "wordingKey": "WORD_MYSEKAI_HOUSING_COMPETITION_COMMENT_TITLE",
+    "value": "ひとこと"
+  },
+  {
+    "wordingKey": "WORD_MYSEKAI_HOUSING_COMPETITION_DEFAULT_SUBMIT_NAME",
+    "value": "{0}のマイセカイ"
+  },
+  {
+    "wordingKey": "WORD_MYSEKAI_HOUSING_COMPETITION_LATEST_BACK_NUMBER",
+    "value": "最新号"
+  },
+  {
+    "wordingKey": "WORD_MYSEKAI_HOUSING_COMPETITION_LOTTERY_RESULT",
+    "value": "コンテスト"
+  },
+  {
+    "wordingKey": "WORD_MYSEKAI_HOUSING_COMPETITION_LOTTERY_RESULT_EN",
+    "value": "CONTEST"
+  },
+  {
+    "wordingKey": "WORD_MYSEKAI_HOUSING_COMPETITION_NEW_ARRIVAL",
+    "value": "新着"
+  },
+  {
+    "wordingKey": "WORD_MYSEKAI_HOUSING_COMPETITION_PERIOD_TITLE",
+    "value": "いいね期間"
+  },
+  {
+    "wordingKey": "WORD_MYSEKAI_HOUSING_COMPETITION_PHOTO_TITLE",
+    "value": "写真"
+  },
+  {
+    "wordingKey": "WORD_MYSEKAI_HOUSING_COMPETITION_POPULAR",
+    "value": "人気"
+  },
+  {
+    "wordingKey": "WORD_MYSEKAI_HOUSING_COMPETITION_RECOMMEND",
+    "value": "おすすめ"
+  },
+  {
+    "wordingKey": "WORD_MYSEKAI_HOUSING_COMPETITION_REPORT_PART_TYPE_FIRST_FLOOR",
+    "value": "1Fのレイアウト"
+  },
+  {
+    "wordingKey": "WORD_MYSEKAI_HOUSING_COMPETITION_REPORT_PART_TYPE_HOME",
+    "value": "庭のレイアウト"
+  },
+  {
+    "wordingKey": "WORD_MYSEKAI_HOUSING_COMPETITION_REPORT_PART_TYPE_SECOND_FLOOR",
+    "value": "2Fのレイアウト"
+  },
+  {
+    "wordingKey": "WORD_MYSEKAI_HOUSING_COMPETITION_REPORT_PART_TYPE_SUBMISSION_NAME",
+    "value": "投稿名"
+  },
+  {
+    "wordingKey": "WORD_MYSEKAI_HOUSING_COMPETITION_REPORT_PART_TYPE_THIRD_FLOOR",
+    "value": "3Fのレイアウト"
+  },
+  {
+    "wordingKey": "WORD_MYSEKAI_HOUSING_COMPETITION_REPORT_PART_TYPE_WORD",
+    "value": "ひとこと"
+  },
+  {
+    "wordingKey": "WORD_MYSEKAI_HOUSING_COMPETITION_RESUBMIT",
+    "value": "再投稿"
+  },
+  {
+    "wordingKey": "WORD_MYSEKAI_HOUSING_COMPETITION_RE_CAPTURE",
+    "value": "撮り直す"
+  },
+  {
+    "wordingKey": "WORD_MYSEKAI_HOUSING_COMPETITION_SCOPE_TITLE",
+    "value": "投稿範囲"
+  },
+  {
+    "wordingKey": "WORD_MYSEKAI_HOUSING_COMPETITION_SELECT_SCREENSHOT",
+    "value": "写真を選ぶ"
+  },
+  {
+    "wordingKey": "WORD_MYSEKAI_HOUSING_COMPETITION_SELECT_SCREENSHOT_LIST",
+    "value": "投稿に使用する写真を1枚選択してください。"
+  },
+  {
+    "wordingKey": "WORD_MYSEKAI_HOUSING_COMPETITION_SELECT_SUBMISSION_SCOPE_TITLE",
+    "value": "投稿する範囲"
+  },
+  {
+    "wordingKey": "WORD_MYSEKAI_HOUSING_COMPETITION_SELECT_SUBMISSION_SITE_TITLE",
+    "value": "投稿写真を撮影するエリア"
+  },
+  {
+    "wordingKey": "WORD_MYSEKAI_HOUSING_COMPETITION_SUBMISSION_INFO",
+    "value": "投稿情報"
+  },
+  {
+    "wordingKey": "WORD_MYSEKAI_HOUSING_COMPETITION_SUBMIT",
+    "value": "投稿"
+  },
+  {
+    "wordingKey": "WORD_MYSEKAI_HOUSING_COMPETITION_SUBMITTED_MYSEKAI",
+    "value": "投稿中のマイセカイ"
+  },
+  {
+    "wordingKey": "WORD_MYSEKAI_HOUSING_COMPETITION_SUBMIT_AFTER",
+    "value": "アフター"
+  },
+  {
+    "wordingKey": "WORD_MYSEKAI_HOUSING_COMPETITION_SUBMIT_BEFORE",
+    "value": "ビフォー"
+  },
+  {
+    "wordingKey": "WORD_MYSEKAI_HOUSING_COMPETITION_SUBMIT_CONFIRM_SITE_SCOPE_BESIDES_2F",
+    "value": "2Fを除く"
+  },
+  {
+    "wordingKey": "WORD_MYSEKAI_HOUSING_COMPETITION_SUBMIT_CONFIRM_SITE_SCOPE_BESIDES_2F_3F",
+    "value": "2F・3Fを除く"
+  },
+  {
+    "wordingKey": "WORD_MYSEKAI_HOUSING_COMPETITION_SUBMIT_CONFIRM_SITE_TITLE_FIRST_FLOOR",
+    "value": "1F"
+  },
+  {
+    "wordingKey": "WORD_MYSEKAI_HOUSING_COMPETITION_SUBMIT_CONFIRM_SITE_TITLE_HOME",
+    "value": "庭"
+  },
+  {
+    "wordingKey": "WORD_MYSEKAI_HOUSING_COMPETITION_SUBMIT_CONFIRM_SITE_TITLE_SECOND_FLOOR",
+    "value": "2F"
+  },
+  {
+    "wordingKey": "WORD_MYSEKAI_HOUSING_COMPETITION_SUBMIT_CONFIRM_SITE_TITLE_THIRD_FLOOR",
+    "value": "3F"
+  },
+  {
+    "wordingKey": "WORD_MYSEKAI_HOUSING_COMPETITION_SUBMIT_ID",
+    "value": "投稿ID"
+  },
+  {
+    "wordingKey": "WORD_MYSEKAI_HOUSING_COMPETITION_SUBMIT_ID_SEARCH",
+    "value": "投稿ID検索"
+  },
+  {
+    "wordingKey": "WORD_MYSEKAI_HOUSING_COMPETITION_SUBMIT_PERIOD",
+    "value": "投稿期間"
+  },
+  {
+    "wordingKey": "WORD_MYSEKAI_HOUSING_COMPETITION_SUBMIT_RELOAD",
+    "value": "更新"
+  },
+  {
+    "wordingKey": "WORD_MYSEKAI_HOUSING_COMPETITION_SUBMIT_REVIEW",
+    "value": "いいね"
+  },
+  {
+    "wordingKey": "WORD_MYSEKAI_HOUSING_COMPETITION_SUBMIT_THEME",
+    "value": "テーマ"
+  },
+  {
+    "wordingKey": "WORD_MYSEKAI_HOUSING_COMPETITION_SUBMIT_TITLE",
+    "value": "投稿名"
+  },
+  {
+    "wordingKey": "WORD_MYSEKAI_HOUSING_COMPETITION_TAG_POPULAR_TITLE",
+    "value": "人気"
+  },
+  {
+    "wordingKey": "WORD_MYSEKAI_HOUSING_COMPETITION_TAG_TREND_TITLE",
+    "value": "急上昇！"
+  },
+  {
+    "wordingKey": "WORD_MYSEKAI_HOUSING_COMPETITION_TO_SCREENSHOT",
+    "value": "撮影へ"
+  },
+  {
+    "wordingKey": "WORD_MYSEKAI_HOUSING_COMPETITION_TREND",
+    "value": "急上昇"
+  },
+  {
+    "wordingKey": "WORD_MYSEKAI_HOUSING_REPORT_PART_TYPE_FIRST_FLOOR",
+    "value": "1Fのレイアウト"
+  },
+  {
+    "wordingKey": "WORD_MYSEKAI_HOUSING_REPORT_PART_TYPE_HOME",
+    "value": "庭のレイアウト"
+  },
+  {
+    "wordingKey": "WORD_MYSEKAI_HOUSING_REPORT_PART_TYPE_SECOND_FLOOR",
+    "value": "2Fのレイアウト"
+  },
+  {
+    "wordingKey": "WORD_MYSEKAI_HOUSING_REPORT_PART_TYPE_THIRD_FLOOR",
+    "value": "3Fのレイアウト"
   },
   {
     "wordingKey": "WORD_MYSEKAI_INFO",
@@ -11146,6 +11710,10 @@
   {
     "wordingKey": "WORD_STARTDASH",
     "value": "スタート\nダッシュ"
+  },
+  {
+    "wordingKey": "WORD_START_BIRTHDAY_PARTY",
+    "value": "招待する"
   },
   {
     "wordingKey": "WORD_START_CHEERFUL_CARNIVAL_EVENT_ANNOUNCE_TITLE",

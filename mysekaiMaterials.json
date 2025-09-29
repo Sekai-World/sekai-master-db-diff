@@ -346,7 +346,7 @@
     "mysekaiMaterialType": "plant",
     "name": "花びら",
     "pronunciation": "はなびら",
-    "description": "色々な花の花弁。生活の彩りにぜひ。\n花を摘むと獲得できる。",
+    "description": "色々な花の花弁。生活の彩りにぜひ。\n花を摘むと獲得できる。\n晴れの日にたくさん咲いている。",
     "mysekaiMaterialRarityType": "rarity_1",
     "iconAssetbundleName": "item_plant_4",
     "modelAssetbundleName": "mdl_site_glassball_common_glassballdrop01",
@@ -360,7 +360,7 @@
     "mysekaiMaterialType": "tone",
     "name": "まっさらな音色",
     "pronunciation": "まっさらなねいろ",
-    "description": "なにものにも染まっていない音色。\n忘れ去られた場所で耳を澄ますと獲得できる。\nヘンカンマシンで様々な素材にヘンカンできる。",
+    "description": "なにものにも染まっていない音色。\n忘れ去られた場所で耳を澄ますと獲得できる。晴れの日に見つけやすい。\nヘンカンマシンで様々な素材にヘンカンできる。",
     "mysekaiMaterialRarityType": "rarity_1",
     "iconAssetbundleName": "item_tone_8",
     "modelAssetbundleName": "mdl_site_tone_common_tonedrop08",
@@ -807,6 +807,18 @@
       6,
       8
     ]
+  },
+  {
+    "id": 72,
+    "seq": 706,
+    "mysekaiMaterialType": "birthday_party",
+    "name": "遥のセレブレーションフラワー",
+    "pronunciation": "はな",
+    "description": "遥の誕生日をお祝いする家具を作るための素材。\n※2025年バースデーイベントでのみ利用可能",
+    "mysekaiMaterialRarityType": "rarity_2",
+    "iconAssetbundleName": "item_birthday_flower_6",
+    "modelAssetbundleName": "mdl_site_birthday_flowerdrop106",
+    "mysekaiSiteIds": []
   },
   {
     "id": 93,

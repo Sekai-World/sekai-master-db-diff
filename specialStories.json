@@ -1319,7 +1319,7 @@
     "title": "[プロセカ×たまごっち]コラボ記念ログインストーリー エピローグ",
     "assetbundleName": "collaboration-tamagotchi-story",
     "startAt": 1759071600000,
-    "endAt": 1759157999000,
+    "endAt": 1759244399000,
     "episodes": [
       {
         "id": 62,
@@ -1329,6 +1329,29 @@
         "specialStoryEpisodeType": "none",
         "assetbundleName": "story_collaboration_tamagotchi",
         "scenarioId": "collaboration_tamagotchi_ed_01",
+        "releaseConditionId": 1,
+        "isAbleSkip": true,
+        "isActionSetRefresh": false,
+        "rewardResourceBoxIds": []
+      }
+    ]
+  },
+  {
+    "id": 58,
+    "seq": 1,
+    "title": "5周年記念スペシャルログインストーリー",
+    "assetbundleName": "5th-anniversary-login-story",
+    "startAt": 1759158000000,
+    "endAt": 1760194799000,
+    "episodes": [
+      {
+        "id": 63,
+        "specialStoryId": 58,
+        "episodeNo": 1,
+        "title": "5周年ログインストーリー",
+        "specialStoryEpisodeType": "none",
+        "assetbundleName": "story_5th_anniversary",
+        "scenarioId": "story_5th_anniversary",
         "releaseConditionId": 1,
         "isAbleSkip": true,
         "isActionSetRefresh": false,

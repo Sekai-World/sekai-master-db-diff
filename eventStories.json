@@ -23794,7 +23794,6 @@
       {
         "id": 1001473,
         "eventStoryId": 180,
-        "gameCharacterId": 0,
         "episodeNo": 1,
         "title": "成長、そして",
         "assetbundleName": "event_wl_2nd_finale_2025_01",
@@ -23810,7 +23809,6 @@
       {
         "id": 1001474,
         "eventStoryId": 180,
-        "gameCharacterId": 0,
         "episodeNo": 2,
         "title": "願いはセカイに",
         "assetbundleName": "event_wl_2nd_finale_2025_02",
@@ -23820,6 +23818,135 @@
           {
             "storyType": "event_story",
             "resourceBoxId": 132
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 181,
+    "eventId": 181,
+    "outline": "アメリカ滞在中の補習や課題が一段落し、ようやく一息ついた杏。そんな矢先、高校生アーティストを対象とした離島での音楽フェスの依頼が舞い込んできて——？",
+    "bannerGameCharacterUnitId": 10,
+    "assetbundleName": "event_golden_2025",
+    "eventStoryEpisodes": [
+      {
+        "id": 1001475,
+        "eventStoryId": 181,
+        "episodeNo": 1,
+        "title": "フェスへの誘い",
+        "assetbundleName": "event_golden_2025_01",
+        "scenarioId": "event_181_01",
+        "releaseConditionId": 1,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001476,
+        "eventStoryId": 181,
+        "episodeNo": 2,
+        "title": "リハーサルの後は",
+        "assetbundleName": "event_golden_2025_02",
+        "scenarioId": "event_181_02",
+        "releaseConditionId": 118001,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001477,
+        "eventStoryId": 181,
+        "episodeNo": 3,
+        "title": "巡るスタンプラリー",
+        "assetbundleName": "event_golden_2025_03",
+        "scenarioId": "event_181_03",
+        "releaseConditionId": 118002,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001478,
+        "eventStoryId": 181,
+        "episodeNo": 4,
+        "title": "思い出の１ページ",
+        "assetbundleName": "event_golden_2025_04",
+        "scenarioId": "event_181_04",
+        "releaseConditionId": 118003,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001479,
+        "eventStoryId": 181,
+        "episodeNo": 5,
+        "title": "きっと、今が一番",
+        "assetbundleName": "event_golden_2025_05",
+        "scenarioId": "event_181_05",
+        "releaseConditionId": 118004,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001480,
+        "eventStoryId": 181,
+        "episodeNo": 6,
+        "title": "続いていくもの",
+        "assetbundleName": "event_golden_2025_06",
+        "scenarioId": "event_181_06",
+        "releaseConditionId": 118005,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001481,
+        "eventStoryId": 181,
+        "episodeNo": 7,
+        "title": "最高の盛り上がりを",
+        "assetbundleName": "event_golden_2025_07",
+        "scenarioId": "event_181_07",
+        "releaseConditionId": 118006,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001482,
+        "eventStoryId": 181,
+        "episodeNo": 8,
+        "title": "全力の“今”を",
+        "assetbundleName": "event_golden_2025_08",
+        "scenarioId": "event_181_08",
+        "releaseConditionId": 118007,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 133
           }
         ]
       }
