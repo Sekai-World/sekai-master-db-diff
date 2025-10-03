@@ -656,20 +656,6 @@
     "startAt": 1755669600000
   },
   {
-    "id": 5183,
-    "seq": 1,
-    "displayOrder": 74510,
-    "informationType": "normal",
-    "informationTag": "gacha",
-    "browseType": "internal",
-    "platform": "all",
-    "title": "[暁山瑞希]HAPPY BIRTHDAYガチャ開催！",
-    "path": "information\/index.html?id=info_gacha790_held",
-    "startAt": 1756220400000,
-    "endAt": 1759384800000,
-    "bannerAssetbundleName": "banner_news_gacha790"
-  },
-  {
     "id": 5184,
     "seq": 1,
     "displayOrder": 74520,
@@ -971,6 +957,19 @@
     "bannerAssetbundleName": "banner_news_gacha814"
   },
   {
+    "id": 5281,
+    "seq": 1,
+    "displayOrder": 75210,
+    "informationType": "normal",
+    "informationTag": "information",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "ワールドリンクイベント「フィナーレチャプター」における家具ボーナス・一部スキルの制限について",
+    "path": "information\/index.html?id=info_finale-chapter2025_bonus_notice",
+    "startAt": 1758348000000,
+    "endAt": 1758798000000
+  },
+  {
     "id": 5283,
     "seq": 1,
     "displayOrder": 75280,
@@ -1160,7 +1159,7 @@
     "title": "「5周年記念YOUR MEMORIES GIFT」開催！",
     "path": "information\/index.html?id=info_logincampaign2_5th_annive_held",
     "startAt": 1759158000000,
-    "endAt": 1759777200000,
+    "endAt": 1759485600000,
     "bannerAssetbundleName": "banner_news_logincp_5th_anniversarygift"
   },
   {
@@ -1227,7 +1226,8 @@
     "platform": "all",
     "title": "【9月25日11時30分追記】「v5.6.1」任意アップデートのご案内",
     "path": "information\/index.html?id=info_update5-6-1_update_add2",
-    "startAt": 1758767400000
+    "startAt": 1758767400000,
+    "endAt": 1761246000000
   },
   {
     "id": 5347,
@@ -1430,7 +1430,8 @@
     "platform": "all",
     "title": "【再掲】ワールドリンクイベント「フィナーレチャプター」における家具ボーナス・一部スキルの制限について",
     "path": "information\/index.html?id=info_finale-chapter2025_bonus_notice",
-    "startAt": 1758798000000
+    "startAt": 1758798000000,
+    "endAt": 1761246000000
   },
   {
     "id": 5366,
@@ -1442,7 +1443,8 @@
     "platform": "all",
     "title": "【再掲】【重要】ワールドリンクイベント「フィナーレチャプター」におけるオートライブのスコア上昇の措置について",
     "path": "information\/index.html?id=info_finale-chapter2025_notice_add2",
-    "startAt": 1758798000000
+    "startAt": 1758798000000,
+    "endAt": 1760097600000
   },
   {
     "id": 5367,
@@ -1480,7 +1482,8 @@
     "platform": "all",
     "title": "「[5周年記念]メモリアルセレクトガチャ」の「メモリアル★4メンバーチケット」交換所で発生している不具合について",
     "path": "information\/index.html?id=bug_gacha833_notice",
-    "startAt": 1759167900000
+    "startAt": 1759167900000,
+    "endAt": 1759485600000
   },
   {
     "id": 5373,
@@ -1597,7 +1600,20 @@
     "platform": "all",
     "title": "【10月3日10時30分追記】「v6.0.1」任意アップデートのご案内",
     "path": "information\/index.html?id=info_update6-0-1_update_add1",
-    "startAt": 1759455000000
+    "startAt": 1759455000000,
+    "endAt": 1759483800000
+  },
+  {
+    "id": 5384,
+    "seq": 1,
+    "displayOrder": 80620,
+    "informationType": "normal",
+    "informationTag": "update",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "【10月3日18時30分追記】「v6.0.1」任意アップデートのご案内",
+    "path": "information\/index.html?id=info_update6-0-1_update_add2",
+    "startAt": 1759483800000
   },
   {
     "id": 5386,
@@ -1612,7 +1628,45 @@
     "startAt": 1759399200000
   },
   {
-    "id": 9741,
+    "id": 5387,
+    "seq": 1,
+    "displayOrder": 27900,
+    "informationType": "bug",
+    "informationTag": "bug",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "【10月3日19時00分追記】「[5周年記念]メモリアルセレクトガチャ」の「メモリアル★4メンバーチケット」交換所で発生している不具合について",
+    "path": "information\/index.html?id=bug__gacha833_notice_add1",
+    "startAt": 1759485600000
+  },
+  {
+    "id": 5388,
+    "seq": 1,
+    "displayOrder": 80640,
+    "informationType": "normal",
+    "informationTag": "information",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "10月6日メンテナンス実施および「[5周年記念]メモリアルセレクトガチャ」の仕様変更のお知らせ",
+    "path": "information\/index.html?id=info_maintenance_20251006_notice",
+    "startAt": 1759485600000
+  },
+  {
+    "id": 5390,
+    "seq": 1,
+    "displayOrder": 80630,
+    "informationType": "normal",
+    "informationTag": "campaign",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "【10月3日19時00分追記】「5周年記念YOUR MEMORIES GIFT」開催！",
+    "path": "information\/index.html?id=info_logincampaign2_5th_annive_held_add1",
+    "startAt": 1759485600000,
+    "endAt": 1760382000000,
+    "bannerAssetbundleName": "banner_news_logincp_5th_anniversarygift"
+  },
+  {
+    "id": 5391,
     "seq": 1,
     "displayOrder": 80610,
     "informationType": "normal",
