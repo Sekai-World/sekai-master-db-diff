@@ -11,50 +11,6 @@
     "url": "https:\/\/pjsekai.sega.jp\/index.html?from=official_store_banner"
   },
   {
-    "homeBannerId": 1395,
-    "seq": 10,
-    "homeBannerType": "general",
-    "name": "みんなたまとも!どり～むガチャ",
-    "assetbundleName": "banner_gacha810",
-    "transitionDestinationType": "gacha",
-    "transitionDestinationId": 810,
-    "startAt": 1758250800000,
-    "endAt": 1759676399000
-  },
-  {
-    "homeBannerId": 1402,
-    "seq": 100,
-    "homeBannerType": "event",
-    "name": "[イベント]バチャシンWL2イベ_イベントバナー",
-    "assetbundleName": "event_wl_2nd_finale_2025",
-    "transitionDestinationType": "event",
-    "transitionDestinationId": 180,
-    "startAt": 1758798000000,
-    "endAt": 1759211999000
-  },
-  {
-    "homeBannerId": 1404,
-    "seq": 100,
-    "homeBannerType": "general",
-    "name": "[フィナーレチャプター]ワールドリンクイベントサポートガチャ",
-    "assetbundleName": "banner_gacha817",
-    "transitionDestinationType": "gacha",
-    "transitionDestinationId": 817,
-    "startAt": 1758769200000,
-    "endAt": 1759201199000
-  },
-  {
-    "homeBannerId": 1405,
-    "seq": 60,
-    "homeBannerType": "general",
-    "name": "【5周年前夜祭】スペシャルプライズガチャ",
-    "assetbundleName": "banner_gacha819",
-    "transitionDestinationType": "gacha_tab_parent",
-    "transitionDestinationId": 107,
-    "startAt": 1758942000000,
-    "endAt": 1759201199000
-  },
-  {
     "homeBannerId": 1408,
     "seq": 30,
     "homeBannerType": "general",
@@ -99,14 +55,36 @@
     "endAt": 1761879600000
   },
   {
-    "homeBannerId": 1416,
-    "seq": 170,
+    "homeBannerId": 1412,
+    "seq": 100,
+    "homeBannerType": "event",
+    "name": "[イベント]5周年シャッフルイベ_イベントバナー",
+    "assetbundleName": "event_golden_2025",
+    "transitionDestinationType": "event",
+    "transitionDestinationId": 181,
+    "startAt": 1759212000000,
+    "endAt": 1760162400000
+  },
+  {
+    "homeBannerId": 1413,
+    "seq": 110,
     "homeBannerType": "general",
-    "name": "5周年記念スペシャルライブ",
-    "assetbundleName": "banner_virtuallive426",
-    "transitionDestinationType": "virtual_live",
-    "transitionDestinationId": 426,
-    "startAt": 1759158000000,
-    "endAt": 1759244400000
+    "name": "[ガチャ]5周年シャッフルイベ_ガチャバナー",
+    "assetbundleName": "banner_gacha838",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 838,
+    "startAt": 1759546800000,
+    "endAt": 1760151600000
+  },
+  {
+    "homeBannerId": 1415,
+    "seq": 130,
+    "homeBannerType": "general",
+    "name": "[桐谷遥]HAPPY BIRTHDAYイベント",
+    "assetbundleName": "banner_birthday_haruka_2025",
+    "transitionDestinationType": "information",
+    "transitionDestinationId": 5363,
+    "startAt": 1759330800000,
+    "endAt": 1759849200000
   }
 ]
