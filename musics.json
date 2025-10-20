@@ -393,7 +393,8 @@
     "releaseConditionId": 5,
     "categories": [
       "original",
-      "mv_2d"
+      "mv_2d",
+      "mv"
     ],
     "title": "ミラクルペイント",
     "pronunciation": "みらくるぺいんと",
@@ -1463,7 +1464,8 @@
     "seq": 1203501,
     "releaseConditionId": 5,
     "categories": [
-      "original"
+      "original",
+      "mv"
     ],
     "title": "ドラマツルギー",
     "pronunciation": "どらまつるぎー",
@@ -1682,7 +1684,8 @@
     "seq": 1404001,
     "releaseConditionId": 5,
     "categories": [
-      "mv_2d"
+      "mv_2d",
+      "mv"
     ],
     "title": "ECHO",
     "pronunciation": "えこー",
@@ -1922,7 +1925,8 @@
     "seq": 1103901,
     "releaseConditionId": 5,
     "categories": [
-      "image"
+      "image",
+      "mv"
     ],
     "title": "千本桜",
     "pronunciation": "せんぼんざくら",
@@ -2239,7 +2243,8 @@
     "releaseConditionId": 5,
     "categories": [
       "original",
-      "mv_2d"
+      "mv_2d",
+      "mv"
     ],
     "title": "どりーみんチュチュ",
     "pronunciation": "どりーみんちゅちゅ",
@@ -5976,7 +5981,8 @@
     "seq": 1619801,
     "releaseConditionId": 5,
     "categories": [
-      "mv_2d"
+      "mv_2d",
+      "mv"
     ],
     "title": "フォニイ",
     "pronunciation": "ふぉにい",
@@ -13097,7 +13103,8 @@
     "seq": 2454301,
     "releaseConditionId": 10,
     "categories": [
-      "mv"
+      "mv",
+      "mv_2d"
     ],
     "title": "アクセラレイト",
     "pronunciation": "あくせられいと",
@@ -14299,6 +14306,30 @@
     "isFullLength": false
   },
   {
+    "id": 659,
+    "seq": 2357101,
+    "releaseConditionId": 10,
+    "categories": [
+      "mv_2d"
+    ],
+    "title": "あなたの空が泣くのなら",
+    "pronunciation": "あなたのそらがなくのなら",
+    "creatorArtistId": 60,
+    "lyricist": "ユジー",
+    "composer": "ユジー",
+    "arranger": "ユジー",
+    "dancerCount": 1,
+    "selfDancerPosition": 0,
+    "assetbundleName": "jacket_s_659",
+    "liveTalkBackgroundAssetbundleName": "bg_livetalk_default_002",
+    "publishedAt": 1761026400000,
+    "releasedAt": 1760972400000,
+    "liveStageId": 1,
+    "fillerSec": 7.63640022277832,
+    "isNewlyWrittenMusic": true,
+    "isFullLength": false
+  },
+  {
     "id": 663,
     "seq": 1156001,
     "releaseConditionId": 5,
@@ -14539,6 +14570,30 @@
     "fillerSec": 9.0,
     "musicCollaborationId": 10,
     "isNewlyWrittenMusic": true,
+    "isFullLength": false
+  },
+  {
+    "id": 677,
+    "seq": 1157201,
+    "releaseConditionId": 5,
+    "categories": [
+      "image"
+    ],
+    "title": "アベリア",
+    "pronunciation": "あべりあ",
+    "creatorArtistId": 300,
+    "lyricist": "Aliey:S",
+    "composer": "Aliey:S",
+    "arranger": "Aliey:S",
+    "dancerCount": 1,
+    "selfDancerPosition": 0,
+    "assetbundleName": "jacket_s_677",
+    "liveTalkBackgroundAssetbundleName": "bg_livetalk_default_002",
+    "publishedAt": 1761544800000,
+    "releasedAt": 1751814000000,
+    "liveStageId": 1,
+    "fillerSec": 9.052000045776367,
+    "isNewlyWrittenMusic": false,
     "isFullLength": false
   }
 ]
