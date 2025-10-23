@@ -11,47 +11,58 @@
     "endAt": 1761879600000
   },
   {
-    "homeBannerId": 1417,
+    "homeBannerId": 1424,
+    "seq": 50,
+    "homeBannerType": "general",
+    "name": "[CS 2025 開催記念]プレミアムプレゼントガチャバナー",
+    "assetbundleName": "banner_gacha845",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 845,
+    "startAt": 1760756400000,
+    "endAt": 1761577199000
+  },
+  {
+    "homeBannerId": 1426,
     "seq": 110,
     "homeBannerType": "general",
-    "name": "[ガチャ]レオニ箱イベ_ガチャバナー",
-    "assetbundleName": "banner_gacha841",
+    "name": "[ガチャ]モモジャン箱イベ_ガチャバナー",
+    "assetbundleName": "banner_gacha846",
     "transitionDestinationType": "gacha",
-    "transitionDestinationId": 841,
-    "startAt": 1760151600000,
-    "endAt": 1761015599000
+    "transitionDestinationId": 846,
+    "startAt": 1761015600000,
+    "endAt": 1761879599000
   },
   {
-    "homeBannerId": 1419,
+    "homeBannerId": 1428,
     "seq": 100,
     "homeBannerType": "event",
-    "name": "[イベント]レオニ箱イベ_イベントバナー",
-    "assetbundleName": "event_heartbeat_2025",
+    "name": "[イベント]モモジャン箱イベ_イベントバナー",
+    "assetbundleName": "event_colorcross_2025",
     "transitionDestinationType": "event",
-    "transitionDestinationId": 182,
-    "startAt": 1760162400000,
-    "endAt": 1761026399000
+    "transitionDestinationId": 183,
+    "startAt": 1761026400000,
+    "endAt": 1761890399000
   },
   {
-    "homeBannerId": 1422,
+    "homeBannerId": 1431,
     "seq": 140,
     "homeBannerType": "general",
-    "name": "[復刻]Talent Bloomsガチャ",
-    "assetbundleName": "banner_gacha843",
+    "name": "[望月穂波]HAPPY BIRTHDAY2025ガチャ",
+    "assetbundleName": "banner_gacha847",
     "transitionDestinationType": "gacha",
-    "transitionDestinationId": 843,
-    "startAt": 1760238000000,
-    "endAt": 1761015599000
+    "transitionDestinationId": 847,
+    "startAt": 1761145200000,
+    "endAt": 1761577200000
   },
   {
-    "homeBannerId": 1423,
-    "seq": 150,
+    "homeBannerId": 1432,
+    "seq": 130,
     "homeBannerType": "general",
-    "name": "[復刻]f戦の果てに待つものはガチャ",
-    "assetbundleName": "banner_gacha844",
-    "transitionDestinationType": "gacha",
-    "transitionDestinationId": 844,
-    "startAt": 1760238000000,
-    "endAt": 1761015599000
+    "name": "[望月穂波]HAPPY BIRTHDAYイベント",
+    "assetbundleName": "banner_birthday_honami_2025",
+    "transitionDestinationType": "information",
+    "transitionDestinationId": 5450,
+    "startAt": 1761231600000,
+    "endAt": 1761750000000
   }
 ]
