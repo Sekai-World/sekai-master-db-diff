@@ -7825,5 +7825,94 @@
     ],
     "virtualShopType": "other",
     "virtualShopDisplayType": "out_of_scope"
+  },
+  {
+    "id": 313,
+    "seq": 313,
+    "name": "「コネクトライブ わん！もあ！HAPPY TIME」チケットショップ",
+    "virtualLiveId": 432,
+    "virtualShopItems": [
+      {
+        "id": 507,
+        "virtualShopId": 313,
+        "virtualShopItemType": "premium_virtual_live_ticket",
+        "seq": 299975,
+        "resourceBoxId": 402,
+        "costPaidJewel": 6980,
+        "startAt": 1761631200000,
+        "endAt": 1762095599000,
+        "limitValue": 1
+      },
+      {
+        "id": 508,
+        "virtualShopId": 313,
+        "virtualShopItemType": "premium_virtual_live_ticket",
+        "seq": 299974,
+        "resourceBoxId": 403,
+        "costPaidJewel": 4980,
+        "startAt": 1761631200000,
+        "endAt": 1762095599000,
+        "limitValue": 1
+      },
+      {
+        "id": 509,
+        "virtualShopId": 313,
+        "virtualShopItemType": "premium_virtual_live_ticket",
+        "seq": 299973,
+        "resourceBoxId": 404,
+        "costPaidJewel": 2980,
+        "startAt": 1761631200000,
+        "endAt": 1762095599000,
+        "limitValue": 2
+      }
+    ],
+    "virtualShopType": "virtual_live_ticket",
+    "virtualShopDisplayType": "normal"
+  },
+  {
+    "id": 314,
+    "seq": 314,
+    "name": "「コネクトライブ わん！もあ！HAPPY TIME」グッズショップ",
+    "virtualLiveId": 432,
+    "virtualShopItems": [
+      {
+        "id": 510,
+        "virtualShopId": 314,
+        "virtualShopItemType": "costume",
+        "seq": 99870,
+        "resourceBoxId": 405,
+        "costVirtualCoin": 3000,
+        "costJewel": 1000,
+        "startAt": 1761631200000,
+        "endAt": 1762235999000,
+        "limitValue": 1
+      },
+      {
+        "id": 511,
+        "virtualShopId": 314,
+        "virtualShopItemType": "costume",
+        "seq": 99871,
+        "resourceBoxId": 406,
+        "costVirtualCoin": 3000,
+        "costJewel": 1000,
+        "startAt": 1761631200000,
+        "endAt": 1762235999000,
+        "limitValue": 1
+      },
+      {
+        "id": 512,
+        "virtualShopId": 314,
+        "virtualShopItemType": "accessory",
+        "seq": 99868,
+        "resourceBoxId": 407,
+        "costVirtualCoin": 3000,
+        "costJewel": 1000,
+        "startAt": 1761631200000,
+        "endAt": 1762235999000,
+        "limitValue": 1
+      }
+    ],
+    "virtualShopType": "other",
+    "virtualShopDisplayType": "out_of_scope"
   }
 ]
