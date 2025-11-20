@@ -24535,7 +24535,8 @@
     "mysekaiFixtureTagGroup": {
       "id": 690,
       "mysekaiFixtureTagId1": 10692,
-      "mysekaiFixtureTagId2": 79
+      "mysekaiFixtureTagId2": 79,
+      "mysekaiFixtureTagId3": 70
     },
     "isAssembled": true,
     "isDisassembled": true,
@@ -33378,6 +33379,622 @@
     "mysekaiFixturePlayerActionType": "no_action",
     "isGameCharacterAction": false,
     "assetbundleName": "mdl_pas122_fixture_doll3large"
+  },
+  {
+    "id": 1053,
+    "mysekaiFixtureType": "surface_appearance",
+    "name": "ヴィンテージスタイルの壁紙",
+    "pronunciation": "ゔぃんてーじすたいるのかべがみ",
+    "flavorText": "ヴィンテージスタイルの壁紙",
+    "seq": 30011001,
+    "gridSize": {
+      "width": 0,
+      "depth": 0,
+      "height": 0
+    },
+    "colorCode": "#8B5300",
+    "mysekaiFixtureMainGenreId": 7,
+    "mysekaiFixtureSubGenreId": 19,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "room",
+    "mysekaiSettableLayoutType": "wall_appearance",
+    "mysekaiFixturePutType": "none",
+    "mysekaiFixtureAnotherColors": [
+      {
+        "textureId": 2,
+        "colorCode": "#8D8C96"
+      },
+      {
+        "textureId": 3,
+        "colorCode": "#C3944D"
+      }
+    ],
+    "mysekaiFixturePutSoundId": 9,
+    "mysekaiFixtureTagGroup": {
+      "id": 1053,
+      "mysekaiFixtureTagId1": 10932,
+      "mysekaiFixtureTagId2": 91
+    },
+    "isAssembled": true,
+    "isDisassembled": true,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "ext0011"
+  },
+  {
+    "id": 1054,
+    "mysekaiFixtureType": "surface_appearance",
+    "name": "ヴィンテージスタイルの床",
+    "pronunciation": "ゔぃんてーじすたいるのゆか",
+    "flavorText": "ヴィンテージスタイルの床",
+    "seq": 30011002,
+    "gridSize": {
+      "width": 0,
+      "depth": 0,
+      "height": 0
+    },
+    "colorCode": "#8D8C96",
+    "mysekaiFixtureMainGenreId": 8,
+    "mysekaiFixtureSubGenreId": 20,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "room",
+    "mysekaiSettableLayoutType": "floor_appearance",
+    "mysekaiFixturePutType": "none",
+    "mysekaiFixtureAnotherColors": [
+      {
+        "textureId": 2,
+        "colorCode": "#222222"
+      },
+      {
+        "textureId": 3,
+        "colorCode": "#6A450E"
+      }
+    ],
+    "mysekaiFixturePutSoundId": 9,
+    "mysekaiFixtureFootstepId": 5,
+    "mysekaiFixtureTagGroup": {
+      "id": 1054,
+      "mysekaiFixtureTagId1": 10933,
+      "mysekaiFixtureTagId2": 91
+    },
+    "isAssembled": true,
+    "isDisassembled": true,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "ext0011"
+  },
+  {
+    "id": 1055,
+    "mysekaiFixtureType": "normal",
+    "name": "ヴィンテージスタイルの窓",
+    "pronunciation": "ゔぃんてーじすたいるのまど",
+    "flavorText": "ヴィンテージスタイルの窓",
+    "seq": 30011003,
+    "gridSize": {
+      "width": 4,
+      "depth": 1,
+      "height": 6
+    },
+    "colorCode": "#8D8C96",
+    "mysekaiFixtureMainGenreId": 4,
+    "mysekaiFixtureHandleType": "windowpane",
+    "mysekaiSettableSiteType": "room",
+    "mysekaiSettableLayoutType": "wall",
+    "mysekaiFixturePutType": "none",
+    "mysekaiFixtureAnotherColors": [
+      {
+        "textureId": 2,
+        "colorCode": "#222222"
+      },
+      {
+        "textureId": 3,
+        "colorCode": "#027700"
+      }
+    ],
+    "mysekaiFixturePutSoundId": 4,
+    "mysekaiFixtureTagGroup": {
+      "id": 1055,
+      "mysekaiFixtureTagId1": 10934,
+      "mysekaiFixtureTagId2": 91
+    },
+    "isAssembled": true,
+    "isDisassembled": true,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_ext0011_window_window1"
+  },
+  {
+    "id": 1056,
+    "mysekaiFixtureType": "system",
+    "name": "ヴィンテージスタイルのチェスト",
+    "pronunciation": "ゔぃんてーじすたいるのちぇすと",
+    "flavorText": "ヴィンテージスタイルのチェスト",
+    "seq": 30011004,
+    "gridSize": {
+      "width": 2,
+      "depth": 2,
+      "height": 4
+    },
+    "colorCode": "#8B5300",
+    "mysekaiFixtureMainGenreId": 2,
+    "mysekaiFixtureSubGenreId": 5,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "any",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "none",
+    "mysekaiFixtureAnotherColors": [
+      {
+        "textureId": 2,
+        "colorCode": "#8D8C96"
+      },
+      {
+        "textureId": 3,
+        "colorCode": "#6A450E"
+      }
+    ],
+    "mysekaiFixturePutSoundId": 4,
+    "mysekaiFixtureTagGroup": {
+      "id": 1056,
+      "mysekaiFixtureTagId1": 10935,
+      "mysekaiFixtureTagId2": 91
+    },
+    "isAssembled": true,
+    "isDisassembled": true,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_ext0011_system_chest1"
+  },
+  {
+    "id": 1057,
+    "mysekaiFixtureType": "normal",
+    "name": "ヴィンテージスタイルの鏡",
+    "pronunciation": "ゔぃんてーじすたいるのかがみ",
+    "flavorText": "ヴィンテージスタイルの鏡",
+    "seq": 30011005,
+    "gridSize": {
+      "width": 2,
+      "depth": 2,
+      "height": 4
+    },
+    "colorCode": "#8D8C96",
+    "mysekaiFixtureMainGenreId": 2,
+    "mysekaiFixtureSubGenreId": 9,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "any",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "none",
+    "mysekaiFixtureAnotherColors": [
+      {
+        "textureId": 2,
+        "colorCode": "#222222"
+      },
+      {
+        "textureId": 3,
+        "colorCode": "#027700"
+      }
+    ],
+    "mysekaiFixturePutSoundId": 4,
+    "mysekaiFixtureTagGroup": {
+      "id": 1057,
+      "mysekaiFixtureTagId1": 10936,
+      "mysekaiFixtureTagId2": 91
+    },
+    "isAssembled": true,
+    "isDisassembled": true,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_ext0011_fixture_mirror1"
+  },
+  {
+    "id": 1058,
+    "mysekaiFixtureType": "normal",
+    "name": "ヴィンテージスタイルのベッド",
+    "pronunciation": "ゔぃんてーじすたいるのべっど",
+    "flavorText": "ヴィンテージスタイルのベッド",
+    "seq": 30011006,
+    "gridSize": {
+      "width": 4,
+      "depth": 5,
+      "height": 3
+    },
+    "colorCode": "#005788",
+    "mysekaiFixtureMainGenreId": 2,
+    "mysekaiFixtureSubGenreId": 2,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "any",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "none",
+    "mysekaiFixtureAnotherColors": [
+      {
+        "textureId": 2,
+        "colorCode": "#222222"
+      },
+      {
+        "textureId": 3,
+        "colorCode": "#027700"
+      }
+    ],
+    "mysekaiFixturePutSoundId": 4,
+    "mysekaiFixtureTagGroup": {
+      "id": 1058,
+      "mysekaiFixtureTagId1": 10937,
+      "mysekaiFixtureTagId2": 91
+    },
+    "isAssembled": true,
+    "isDisassembled": true,
+    "mysekaiFixturePlayerActionType": "timeline",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_ext0011_fixture_bed1"
+  },
+  {
+    "id": 1059,
+    "mysekaiFixtureType": "normal",
+    "name": "ヴィンテージスタイルのテーブル",
+    "pronunciation": "ゔぃんてーじすたいるのてーぶる",
+    "flavorText": "ヴィンテージスタイルのテーブル",
+    "seq": 30011007,
+    "gridSize": {
+      "width": 4,
+      "depth": 2,
+      "height": 2
+    },
+    "colorCode": "#8B5300",
+    "mysekaiFixtureMainGenreId": 2,
+    "mysekaiFixtureSubGenreId": 3,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "any",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "put_base",
+    "mysekaiFixtureAnotherColors": [
+      {
+        "textureId": 2,
+        "colorCode": "#8D8C96"
+      },
+      {
+        "textureId": 3,
+        "colorCode": "#6A450E"
+      }
+    ],
+    "mysekaiFixturePutSoundId": 4,
+    "mysekaiFixtureTagGroup": {
+      "id": 1059,
+      "mysekaiFixtureTagId1": 10938,
+      "mysekaiFixtureTagId2": 91
+    },
+    "isAssembled": true,
+    "isDisassembled": true,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_ext0011_fixture_table1"
+  },
+  {
+    "id": 1060,
+    "mysekaiFixtureType": "normal",
+    "name": "ヴィンテージスタイルのソファ",
+    "pronunciation": "ゔぃんてーじすたいるのそふぁ",
+    "flavorText": "ヴィンテージスタイルのソファ",
+    "seq": 30011008,
+    "gridSize": {
+      "width": 6,
+      "depth": 3,
+      "height": 2
+    },
+    "colorCode": "#B5680D",
+    "mysekaiFixtureMainGenreId": 2,
+    "mysekaiFixtureSubGenreId": 4,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "any",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "none",
+    "mysekaiFixtureAnotherColors": [
+      {
+        "textureId": 2,
+        "colorCode": "#222222"
+      },
+      {
+        "textureId": 3,
+        "colorCode": "#824600"
+      }
+    ],
+    "mysekaiFixturePutSoundId": 4,
+    "mysekaiFixtureTagGroup": {
+      "id": 1060,
+      "mysekaiFixtureTagId1": 10939,
+      "mysekaiFixtureTagId2": 91
+    },
+    "isAssembled": true,
+    "isDisassembled": true,
+    "mysekaiFixturePlayerActionType": "timeline",
+    "isGameCharacterAction": true,
+    "assetbundleName": "mdl_ext0011_fixture_sofa1"
+  },
+  {
+    "id": 1061,
+    "mysekaiFixtureType": "normal",
+    "name": "ヴィンテージスタイルの本棚",
+    "pronunciation": "ゔぃんてーじすたいるのほんだな",
+    "flavorText": "ヴィンテージスタイルの本棚",
+    "seq": 30011009,
+    "gridSize": {
+      "width": 6,
+      "depth": 2,
+      "height": 5
+    },
+    "colorCode": "#8B5300",
+    "mysekaiFixtureMainGenreId": 2,
+    "mysekaiFixtureSubGenreId": 5,
+    "mysekaiFixtureHandleType": "light",
+    "mysekaiSettableSiteType": "any",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "none",
+    "mysekaiFixtureAnotherColors": [
+      {
+        "textureId": 2,
+        "colorCode": "#8D8C96"
+      },
+      {
+        "textureId": 3,
+        "colorCode": "#6A450E"
+      }
+    ],
+    "mysekaiFixturePutSoundId": 4,
+    "mysekaiFixtureTagGroup": {
+      "id": 1061,
+      "mysekaiFixtureTagId1": 10940,
+      "mysekaiFixtureTagId2": 91
+    },
+    "isAssembled": true,
+    "isDisassembled": true,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_ext0011_fixture_bookshelf1"
+  },
+  {
+    "id": 1062,
+    "mysekaiFixtureType": "normal",
+    "name": "ヴィンテージスタイルのランプ",
+    "pronunciation": "ゔぃんてーじすたいるのらんぷ",
+    "flavorText": "ヴィンテージスタイルのランプ",
+    "seq": 30011010,
+    "gridSize": {
+      "width": 1,
+      "depth": 1,
+      "height": 4
+    },
+    "colorCode": "#222222",
+    "mysekaiFixtureMainGenreId": 2,
+    "mysekaiFixtureSubGenreId": 8,
+    "mysekaiFixtureHandleType": "light",
+    "mysekaiSettableSiteType": "any",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "none",
+    "mysekaiFixtureAnotherColors": [
+      {
+        "textureId": 2,
+        "colorCode": "#005788"
+      },
+      {
+        "textureId": 3,
+        "colorCode": "#027700"
+      }
+    ],
+    "mysekaiFixturePutSoundId": 3,
+    "mysekaiFixtureTagGroup": {
+      "id": 1062,
+      "mysekaiFixtureTagId1": 10941,
+      "mysekaiFixtureTagId2": 91,
+      "mysekaiFixtureTagId3": 70
+    },
+    "isAssembled": true,
+    "isDisassembled": true,
+    "mysekaiFixturePlayerActionType": "loop",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_ext0011_fixture_lamp1"
+  },
+  {
+    "id": 1063,
+    "mysekaiFixtureType": "normal",
+    "name": "ヴィンテージスタイルのシェルフ",
+    "pronunciation": "ゔぃんてーじすたいるのしぇるふ",
+    "flavorText": "ヴィンテージスタイルのシェルフ",
+    "seq": 30011011,
+    "gridSize": {
+      "width": 3,
+      "depth": 2,
+      "height": 4
+    },
+    "colorCode": "#8B5300",
+    "mysekaiFixtureMainGenreId": 2,
+    "mysekaiFixtureSubGenreId": 5,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "any",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "none",
+    "mysekaiFixtureAnotherColors": [
+      {
+        "textureId": 2,
+        "colorCode": "#8D8C96"
+      },
+      {
+        "textureId": 3,
+        "colorCode": "#6A450E"
+      }
+    ],
+    "mysekaiFixturePutSoundId": 4,
+    "mysekaiFixtureTagGroup": {
+      "id": 1063,
+      "mysekaiFixtureTagId1": 10942,
+      "mysekaiFixtureTagId2": 91
+    },
+    "isAssembled": true,
+    "isDisassembled": true,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_ext0011_fixture_shelf1"
+  },
+  {
+    "id": 1064,
+    "mysekaiFixtureType": "normal",
+    "name": "ヴィンテージスタイルのポールハンガー",
+    "pronunciation": "ゔぃんてーじすたいるのぽーるはんがー",
+    "flavorText": "ヴィンテージスタイルのポールハンガー",
+    "seq": 30011012,
+    "gridSize": {
+      "width": 1,
+      "depth": 1,
+      "height": 5
+    },
+    "colorCode": "#222222",
+    "mysekaiFixtureMainGenreId": 2,
+    "mysekaiFixtureSubGenreId": 9,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "any",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "none",
+    "mysekaiFixtureAnotherColors": [
+      {
+        "textureId": 2,
+        "colorCode": "#005788"
+      },
+      {
+        "textureId": 3,
+        "colorCode": "#027700"
+      }
+    ],
+    "mysekaiFixturePutSoundId": 4,
+    "mysekaiFixtureTagGroup": {
+      "id": 1064,
+      "mysekaiFixtureTagId1": 10943,
+      "mysekaiFixtureTagId2": 91
+    },
+    "isAssembled": true,
+    "isDisassembled": true,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_ext0011_fixture_hangerrack1"
+  },
+  {
+    "id": 1065,
+    "mysekaiFixtureType": "normal",
+    "name": "ヴィンテージスタイルのラグ",
+    "pronunciation": "ゔぃんてーじすたいるのらぐ",
+    "flavorText": "ヴィンテージスタイルのラグ",
+    "seq": 30011013,
+    "gridSize": {
+      "width": 8,
+      "depth": 8,
+      "height": 1
+    },
+    "colorCode": "#E6CEAA",
+    "mysekaiFixtureMainGenreId": 9,
+    "mysekaiFixtureSubGenreId": 21,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "any",
+    "mysekaiSettableLayoutType": "rug",
+    "mysekaiFixturePutType": "none",
+    "mysekaiFixtureAnotherColors": [
+      {
+        "textureId": 2,
+        "colorCode": "#8D8C96"
+      },
+      {
+        "textureId": 3,
+        "colorCode": "#824600"
+      }
+    ],
+    "mysekaiFixturePutSoundId": 4,
+    "mysekaiFixtureFootstepId": 5,
+    "mysekaiFixtureTagGroup": {
+      "id": 1065,
+      "mysekaiFixtureTagId1": 10944,
+      "mysekaiFixtureTagId2": 91
+    },
+    "isAssembled": true,
+    "isDisassembled": true,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_ext0011_rug_rug1"
+  },
+  {
+    "id": 1066,
+    "mysekaiFixtureType": "normal",
+    "name": "ヴィンテージスタイルの絵画",
+    "pronunciation": "ゔぃんてーじすたいるのかいが",
+    "flavorText": "ヴィンテージスタイルの絵画",
+    "seq": 30011014,
+    "gridSize": {
+      "width": 3,
+      "depth": 1,
+      "height": 3
+    },
+    "colorCode": "#E6CEAA",
+    "mysekaiFixtureMainGenreId": 4,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "room",
+    "mysekaiSettableLayoutType": "wall",
+    "mysekaiFixturePutType": "none",
+    "mysekaiFixtureAnotherColors": [
+      {
+        "textureId": 2,
+        "colorCode": "#B9D4E3"
+      },
+      {
+        "textureId": 3,
+        "colorCode": "#CEDAA0"
+      }
+    ],
+    "mysekaiFixturePutSoundId": 4,
+    "mysekaiFixtureTagGroup": {
+      "id": 1066,
+      "mysekaiFixtureTagId1": 10945,
+      "mysekaiFixtureTagId2": 91
+    },
+    "isAssembled": true,
+    "isDisassembled": true,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_ext0011_fixture_picture1"
+  },
+  {
+    "id": 1067,
+    "mysekaiFixtureType": "normal",
+    "name": "ヴィンテージスタイルのコーヒーメーカー",
+    "pronunciation": "ゔぃんてーじすたいるのこーひーめーかー",
+    "flavorText": "ヴィンテージスタイルのコーヒーメーカー",
+    "seq": 30011015,
+    "gridSize": {
+      "width": 1,
+      "depth": 1,
+      "height": 2
+    },
+    "colorCode": "#008078",
+    "mysekaiFixtureMainGenreId": 3,
+    "mysekaiFixtureSubGenreId": 13,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "any",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "put_target",
+    "mysekaiFixtureAnotherColors": [
+      {
+        "textureId": 2,
+        "colorCode": "#222222"
+      },
+      {
+        "textureId": 3,
+        "colorCode": "#C8A800"
+      }
+    ],
+    "mysekaiFixturePutSoundId": 3,
+    "mysekaiFixtureTagGroup": {
+      "id": 1067,
+      "mysekaiFixtureTagId1": 10946,
+      "mysekaiFixtureTagId2": 91
+    },
+    "isAssembled": true,
+    "isDisassembled": true,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_ext0011_fixture_coffeemaker1"
   },
   {
     "id": 900002,
