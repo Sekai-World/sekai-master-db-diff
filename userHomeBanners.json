@@ -11,25 +11,58 @@
     "url": "https:\/\/pjsekai.sega.jp\/index.html?from=official_store_banner"
   },
   {
-    "homeBannerId": 1464,
+    "homeBannerId": 1469,
     "seq": 110,
     "homeBannerType": "general",
-    "name": "[ガチャ]レオニ箱イベ_ガチャバナー",
-    "assetbundleName": "banner_gacha864",
+    "name": "[ガチャ]シャッフルまふゆイベ_ガチャバナー",
+    "assetbundleName": "banner_gacha868",
     "transitionDestinationType": "gacha",
-    "transitionDestinationId": 864,
-    "startAt": 1764471600000,
-    "endAt": 1765335599000
+    "transitionDestinationId": 868,
+    "startAt": 1765335600000,
+    "endAt": 1766285999000
   },
   {
-    "homeBannerId": 1465,
+    "homeBannerId": 1470,
     "seq": 100,
     "homeBannerType": "event",
-    "name": "[イベント]レオニ箱イベ_イベントバナー",
-    "assetbundleName": "event_lookup_2025",
+    "name": "[イベント]シャッフルまふゆ_イベントバナー",
+    "assetbundleName": "event_trueroute_2025",
     "transitionDestinationType": "event",
-    "transitionDestinationId": 188,
-    "startAt": 1764482400000,
-    "endAt": 1765346399000
+    "transitionDestinationId": 189,
+    "startAt": 1765346400000,
+    "endAt": 1766296799000
+  },
+  {
+    "homeBannerId": 1471,
+    "seq": 140,
+    "homeBannerType": "general",
+    "name": "[復刻]That flower, once moreガチャ",
+    "assetbundleName": "banner_gacha869",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 869,
+    "startAt": 1765508400000,
+    "endAt": 1766285999000
+  },
+  {
+    "homeBannerId": 1472,
+    "seq": 150,
+    "homeBannerType": "general",
+    "name": "[復刻]Play with dogsガチャ",
+    "assetbundleName": "banner_gacha870",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 870,
+    "startAt": 1765508400000,
+    "endAt": 1766285999000
+  },
+  {
+    "homeBannerId": 1474,
+    "seq": 30,
+    "homeBannerType": "general",
+    "name": "セカライ5th有料配信大阪公演",
+    "assetbundleName": "content_banner_pjsekailive5th_osaka_abema",
+    "transitionDestinationType": "web",
+    "startAt": 1765508400000,
+    "endAt": 1765711800000,
+    "url": "https:\/\/abema.tv\/video\/title\/710-3"
   }
 ]
