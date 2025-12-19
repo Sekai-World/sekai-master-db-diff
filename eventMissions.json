@@ -15415,5 +15415,143 @@
     "eventMissionSelectableRewardGroupId": 1,
     "sentence": "7つのミッションを全て達成しよう。",
     "rewards": []
+  },
+  {
+    "id": 873,
+    "eventId": 190,
+    "seq": 1,
+    "eventMissionType": "live_clear_daily",
+    "eventMissionCategory": "normal",
+    "requirement1": 9,
+    "sentence": "累計9日ライブを1日1回クリアしよう。",
+    "rewards": [
+      {
+        "id": 15998,
+        "missionType": "event_mission",
+        "missionId": 873,
+        "seq": 1,
+        "resourceBoxId": 8002
+      }
+    ]
+  },
+  {
+    "id": 874,
+    "eventId": 190,
+    "seq": 2,
+    "eventMissionType": "any_live_clear",
+    "eventMissionCategory": "normal",
+    "requirement1": 50,
+    "sentence": "ライブを50回クリアしよう。",
+    "rewards": [
+      {
+        "id": 15999,
+        "missionType": "event_mission",
+        "missionId": 874,
+        "seq": 1,
+        "resourceBoxId": 8002
+      }
+    ]
+  },
+  {
+    "id": 875,
+    "eventId": 190,
+    "seq": 3,
+    "eventMissionType": "live_clear_full_combo",
+    "eventMissionCategory": "normal",
+    "requirement1": 10,
+    "sentence": "ライブで楽曲をフルコンボで10回クリアしよう。",
+    "rewards": [
+      {
+        "id": 16000,
+        "missionType": "event_mission",
+        "missionId": 875,
+        "seq": 1,
+        "resourceBoxId": 8002
+      }
+    ]
+  },
+  {
+    "id": 876,
+    "eventId": 190,
+    "seq": 4,
+    "eventMissionType": "live_clear_different_music",
+    "eventMissionCategory": "normal",
+    "requirement1": 10,
+    "requirement2": 1,
+    "sentence": "ライブで10種類の楽曲をクリアしよう。",
+    "rewards": [
+      {
+        "id": 16001,
+        "missionType": "event_mission",
+        "missionId": 876,
+        "seq": 1,
+        "resourceBoxId": 8002
+      }
+    ]
+  },
+  {
+    "id": 877,
+    "eventId": 190,
+    "seq": 5,
+    "eventMissionType": "read_last_event_story_episode",
+    "eventMissionCategory": "normal",
+    "requirement1": 1,
+    "sentence": "イベント「この物語は希望をのせて」のイベントストーリー第8話を読もう。",
+    "rewards": [
+      {
+        "id": 16002,
+        "missionType": "event_mission",
+        "missionId": 877,
+        "seq": 1,
+        "resourceBoxId": 8002
+      }
+    ]
+  },
+  {
+    "id": 878,
+    "eventId": 190,
+    "seq": 6,
+    "eventMissionType": "consume_event_item",
+    "eventMissionCategory": "normal",
+    "requirement1": 20000,
+    "sentence": "イベント「この物語は希望をのせて」の交換所でバッジを20000個消費しよう。",
+    "rewards": [
+      {
+        "id": 16003,
+        "missionType": "event_mission",
+        "missionId": 878,
+        "seq": 1,
+        "resourceBoxId": 8002
+      }
+    ]
+  },
+  {
+    "id": 879,
+    "eventId": 190,
+    "seq": 7,
+    "eventMissionType": "join_virtual_live",
+    "eventMissionCategory": "normal",
+    "requirement1": 1,
+    "sentence": "「この物語は希望をのせて アフターライブ」に参加しよう。",
+    "rewards": [
+      {
+        "id": 16004,
+        "missionType": "event_mission",
+        "missionId": 879,
+        "seq": 1,
+        "resourceBoxId": 8002
+      }
+    ]
+  },
+  {
+    "id": 880,
+    "eventId": 190,
+    "seq": 8,
+    "eventMissionType": "achieve_event_mission",
+    "eventMissionCategory": "complete_selectable_reward",
+    "requirement1": 7,
+    "eventMissionSelectableRewardGroupId": 1,
+    "sentence": "7つのミッションを全て達成しよう。",
+    "rewards": []
   }
 ]

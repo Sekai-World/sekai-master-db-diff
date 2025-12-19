@@ -1100,8 +1100,16 @@
     "value": "イベント期間が終了したため、\n製作することができません。"
   },
   {
+    "wordingKey": "MSG_CREATE_CUSTOM_ROOM_TITLE",
+    "value": "カスタムルーム作成"
+  },
+  {
     "wordingKey": "MSG_CREATE_PRIVATE_ROOM",
     "value": "「{0}」\nのプライベートルームを作成します。"
+  },
+  {
+    "wordingKey": "MSG_CREATE_PRIVATE_ROOM_TITLE",
+    "value": "プライベートルーム作成"
   },
   {
     "wordingKey": "MSG_CREATOR_NAME",
@@ -1130,6 +1138,10 @@
   {
     "wordingKey": "MSG_CS_BAN",
     "value": "アクセス頂いたプレイヤーデータは、\n調査のため一時的にデータの利用を停止させていただいております。"
+  },
+  {
+    "wordingKey": "MSG_CUSOM_ROOM_CREATE_DISCRIPTION",
+    "value": "ルールを設定した専用ルームでライブ"
   },
   {
     "wordingKey": "MSG_CUSTOMPROFILE_HONOR_EMPTY",
@@ -1214,6 +1226,10 @@
   {
     "wordingKey": "MSG_DEFERRED_PURCHASE",
     "value": "商品は、お支払い完了後ショップ画面にて反映されます。\n商品の反映には時間がかかる場合があります。"
+  },
+  {
+    "wordingKey": "MSG_DIFFICULTY_SELECTION_ERROR",
+    "value": "選択可能な難易度が設定されていないため、ルームを作成することができません。"
   },
   {
     "wordingKey": "MSG_DISCONNECT_LEFT_ROOM",
@@ -1741,7 +1757,7 @@
   },
   {
     "wordingKey": "MSG_GIFT_SELECT_CONFIRM",
-    "value": "このアイテムを設定します。よろしいですか？\n <color=#ff5599>※アイテムはガチャを引くまで何度でも変更できます。<\/color>"
+    "value": "以下のアイテムを設定します。よろしいですか？\n <color=#ff3366>※アイテムはガチャを引くまで何度でも変更できます。<\/color>"
   },
   {
     "wordingKey": "MSG_GIFT_SELECT_INDUCTION",
@@ -1962,6 +1978,10 @@
   {
     "wordingKey": "MSG_LIVE_MISSION_NOT_HELD",
     "value": "現在、ライブミッションは開催していません。"
+  },
+  {
+    "wordingKey": "MSG_LIVE_PLAYER_INFO_SETTING",
+    "value": "ライブ中プレイヤー表示"
   },
   {
     "wordingKey": "MSG_LIVE_RESULT_EVENT_MAINTENANCE",
@@ -2189,11 +2209,11 @@
   },
   {
     "wordingKey": "MSG_MULTIPLAY_ERROR_LACK_POWER",
-    "value": "総合力が不足しています。"
+    "value": "指定のルームへ入室することができませんでした。"
   },
   {
     "wordingKey": "MSG_MULTIPLAY_ERROR_LACK_POWER_WITH_ERROR_CODE",
-    "value": "総合力が不足しています。({0})"
+    "value": "指定のルームへ入室することができませんでした。({0})"
   },
   {
     "wordingKey": "MSG_MULTIPLAY_ERROR_NOTFOUND",
@@ -2238,6 +2258,10 @@
   {
     "wordingKey": "MSG_MULTI_LIVE_RESULT_ADJUST_SCORE_BY_DISCONNECTED_USER",
     "value": "スコアランクは切断プレイヤーを除外して調整されました"
+  },
+  {
+    "wordingKey": "MSG_MULTI_MUSIC_SELECTING_OWNER",
+    "value": "オーナーが選曲中…しばらくお待ちください"
   },
   {
     "wordingKey": "MSG_MULTI_MUSIC_SELECTING_PLAYER",
@@ -2368,12 +2392,44 @@
     "value": "双葉が再び生えてきて、採取可能になりました。"
   },
   {
+    "wordingKey": "MSG_MYSEKAI_FIXTURE_HOME_LAYOUT_COST_TITLE",
+    "value": "合計レイアウトコスト（庭）"
+  },
+  {
+    "wordingKey": "MSG_MYSEKAI_FIXTURE_HOME_LAYOUT_COST_UP",
+    "value": "庭の合計レイアウトコストがアップしました。"
+  },
+  {
     "wordingKey": "MSG_MYSEKAI_FIXTURE_JOINT_RELEASE_PUT_LIMIT",
     "value": "マイホームに置ける<color=#ff5599>柵と道<\/color>の最大数がアップしました。"
   },
   {
+    "wordingKey": "MSG_MYSEKAI_FIXTURE_MYROOM_LAYOUT_COST",
+    "value": "各{0}"
+  },
+  {
+    "wordingKey": "MSG_MYSEKAI_FIXTURE_MYROOM_LAYOUT_COST_TITLE",
+    "value": "合計レイアウトコスト（部屋）"
+  },
+  {
+    "wordingKey": "MSG_MYSEKAI_FIXTURE_MYROOM_LAYOUT_COST_UP",
+    "value": "部屋の合計レイアウトコストがアップしました。"
+  },
+  {
+    "wordingKey": "MSG_MYSEKAI_FIXTURE_PUT_COST",
+    "value": "{0} (1個目) \/ {1} (2個目～)"
+  },
+  {
+    "wordingKey": "MSG_MYSEKAI_FIXTURE_PUT_COST_LIMIT_OVER",
+    "value": "合計レイアウトコストを超えてしまうため、この家具は設置することができません。"
+  },
+  {
     "wordingKey": "MSG_MYSEKAI_FIXTURE_RELEASE_PUT_LIMIT",
     "value": "マイホームに置ける<color=#ff5599>家具<\/color>の最大数がアップしました。"
+  },
+  {
+    "wordingKey": "MSG_MYSEKAI_FIXTURE_SINGLE_PUT_COST",
+    "value": "{0} (1個目)"
   },
   {
     "wordingKey": "MSG_MYSEKAI_GATE_CHANGE_INTERVAL_FORMAT",
@@ -2578,6 +2634,10 @@
   {
     "wordingKey": "MSG_MYSEKAI_JOIN_ERROR",
     "value": "現在訪問できる人数の上限に達しているため\nこのプレイヤーのマイセカイに遊びに行けません。"
+  },
+  {
+    "wordingKey": "MSG_MYSEKAI_LAYOUT_COST",
+    "value": "合計レイアウトコスト"
   },
   {
     "wordingKey": "MSG_MYSEKAI_LAYOUT_EDIT_PLANNING_COUNT",
@@ -3220,6 +3280,10 @@
     "value": "{0}件"
   },
   {
+    "wordingKey": "MSG_PRIVETE_ROOM_CREATE_DISCRIPTION",
+    "value": "イベントルールの専用ルームでライブ"
+  },
+  {
     "wordingKey": "MSG_PRIZE_GIFT_DESCRIPTION_1",
     "value": "ガチャを1回引くごとに、各種アイテムがプライズとして獲得できます。\n\n※プライズの抽選は、ガチャの結果画面にて実行されます。\n※プライズは提供割合に基づき1回ごとに抽選を行います。例えば提供割合1%のアイテムが100回中1回必ず出現するという仕組みではありません。\n※プライズで獲得できる「[4周年記念]ブルームフェスティバルガチャ専用チケット」は、9月30日12時開催予定の「[4周年記念]ブルームフェスティバルガチャ ドリームピック」でのみ使用できるガチャチケットです。また、開催期限を過ぎた場合、「[4周年記念]ブルームフェスティバルガチャ専用チケット」はご利用いただけなくなりますのでご注意ください。\n※プライズで獲得できる「[4周年記念]10連無料ガチャチケット」は、9月30日12時開催予定の「[4周年記念]10連無料ガチャ」でのみ使用できるガチャチケットです。また、開催期限を過ぎた場合、「[4周年記念]10連無料ガチャチケット」はご利用いただけなくなりますのでご注意ください。"
   },
@@ -3268,8 +3332,24 @@
     "value": "表示する称号のランクを選択してください。"
   },
   {
+    "wordingKey": "MSG_PUBLISH_FREE_MATCH",
+    "value": "「フリーマッチ」に\nルームを開放して他のプレイヤーの入室を許可しますか？"
+  },
+  {
+    "wordingKey": "MSG_PUBLISH_FREE_ROOM",
+    "value": "「フリールーム」に\nルームを開放して他のプレイヤーの入室を許可しますか？"
+  },
+  {
     "wordingKey": "MSG_PUBLISH_ROOM",
     "value": "ルームを開放して他のプレイヤーの入室を許可しますか？"
+  },
+  {
+    "wordingKey": "MSG_PUBLISH_VETERAN_MATCH",
+    "value": "「ベテランマッチ」に\nルームを開放して他のプレイヤーの入室を許可しますか？"
+  },
+  {
+    "wordingKey": "MSG_PUBLISH_VETERAN_ROOM",
+    "value": "「ベテランルーム」に\nルームを開放して他のプレイヤーの入室を許可しますか？"
   },
   {
     "wordingKey": "MSG_PURCHASE_LIMIT",
@@ -3588,12 +3668,20 @@
     "value": "プライベートルームのプレイヤーと\nもう1度ライブをしますか？"
   },
   {
+    "wordingKey": "MSG_RE_LIVE_CUSTOM_CURRENT_MEMBER",
+    "value": "カスタムルームのプレイヤーと\nもう一度ライブしますか？"
+  },
+  {
     "wordingKey": "MSG_RE_SPIN",
     "value": "もう1度引く"
   },
   {
     "wordingKey": "MSG_ROOM_DISBANDED_NOT_PENALTY",
     "value": "ルームが解散されました。\nこの解散によるペナルティの付与はありません。"
+  },
+  {
+    "wordingKey": "MSG_RULE_SETTING_ONLY_OWNER",
+    "value": "※ルールはオーナーのみ変更可能です。"
   },
   {
     "wordingKey": "MSG_SALE_COSTUME_SHOP",
@@ -3946,6 +4034,10 @@
   {
     "wordingKey": "MSG_TOTAL_LIVE_POINT",
     "value": "今月の累計ライブP♪"
+  },
+  {
+    "wordingKey": "MSG_TOTAL_POWER_SETTING_ERROR",
+    "value": "下限に設定された総合力が上限で設定された総合力を超えているため、\nルームを作成することができません。"
   },
   {
     "wordingKey": "MSG_TOURNAMENT_LIVE_FAILED",
@@ -5700,6 +5792,10 @@
     "value": "プレビュー"
   },
   {
+    "wordingKey": "WORD_CHECK_RULE",
+    "value": "ルール確認"
+  },
+  {
     "wordingKey": "WORD_CHEERFUL_CARNIVAL_CHECK_JOIN_TEAM",
     "value": "グループ選択"
   },
@@ -6338,6 +6434,10 @@
   {
     "wordingKey": "WORD_CUSTOM_PROFILE_SELECT_CONTENT_TYPE_DIALOG_TITLE",
     "value": "{0}表示確認"
+  },
+  {
+    "wordingKey": "WORD_CUSTOM_ROOM_EN",
+    "value": "CUSTOM ROOM"
   },
   {
     "wordingKey": "WORD_CUTIN_EFFECT",
@@ -7176,6 +7276,10 @@
     "value": "家具詳細"
   },
   {
+    "wordingKey": "WORD_FIXTURE_LAYOUT_COST",
+    "value": "レイアウトコスト"
+  },
+  {
     "wordingKey": "WORD_FIXTURE_POSSESSION",
     "value": "家具所持上限アップ"
   },
@@ -7246,6 +7350,10 @@
   {
     "wordingKey": "WORD_FREE_LIVE",
     "value": "ひとりでライブ"
+  },
+  {
+    "wordingKey": "WORD_FREE_ROOM_ENGLISH",
+    "value": "FREE ROOM"
   },
   {
     "wordingKey": "WORD_FREND_SORT_TITLE",
@@ -7904,6 +8012,10 @@
     "value": "？？？"
   },
   {
+    "wordingKey": "WORD_HIDE_ROOM_ID",
+    "value": "-----"
+  },
+  {
     "wordingKey": "WORD_HIGH_SCORE",
     "value": "ハイスコア"
   },
@@ -8220,6 +8332,10 @@
     "value": "参加状況"
   },
   {
+    "wordingKey": "WORD_JOIN_TOTAL_POWER_SETTING",
+    "value": "入室制限"
+  },
+  {
     "wordingKey": "WORD_KEY_SOTRY",
     "value": "キーストーリー"
   },
@@ -8448,6 +8564,10 @@
     "value": "プレミアム\nミッションパス"
   },
   {
+    "wordingKey": "WORD_LIVE_MUSIC_SELECT_SETTING",
+    "value": "楽曲選択"
+  },
+  {
     "wordingKey": "WORD_LIVE_NOTE_SETTING",
     "value": "ノーツ設定"
   },
@@ -8462,6 +8582,14 @@
   {
     "wordingKey": "WORD_LIVE_P",
     "value": "ライブP"
+  },
+  {
+    "wordingKey": "WORD_LIVE_PLAYER_INFO_OFF",
+    "value": "なし"
+  },
+  {
+    "wordingKey": "WORD_LIVE_PLAYER_INFO_ON",
+    "value": "あり"
   },
   {
     "wordingKey": "WORD_LIVE_POINT",
@@ -8482,6 +8610,10 @@
   {
     "wordingKey": "WORD_LIVE_ROTATION_MODE",
     "value": "ライブ上下反転"
+  },
+  {
+    "wordingKey": "WORD_LIVE_SCORE_SETTING",
+    "value": "スコアの計算方法"
   },
   {
     "wordingKey": "WORD_LIVE_SETTING",
@@ -8988,6 +9120,10 @@
     "value": "みんなでライブ"
   },
   {
+    "wordingKey": "WORD_MULTI_TOTAL_SCORE",
+    "value": "全体スコア"
+  },
+  {
     "wordingKey": "WORD_MUSIC",
     "value": "楽曲"
   },
@@ -9076,6 +9212,10 @@
     "value": "楽曲選択"
   },
   {
+    "wordingKey": "WORD_MUSIC_SELECT_ALL_PLAYER",
+    "value": "全員が選択"
+  },
+  {
     "wordingKey": "WORD_MUSIC_SELECT_BACK",
     "value": "楽曲選択へ"
   },
@@ -9086,6 +9226,10 @@
   {
     "wordingKey": "WORD_MUSIC_SELECT_ORDER",
     "value": "楽曲選択並び替え"
+  },
+  {
+    "wordingKey": "WORD_MUSIC_SELECT_OWNER",
+    "value": "オーナーが選択"
   },
   {
     "wordingKey": "WORD_MUSIC_SHOP",
@@ -9238,6 +9382,10 @@
   {
     "wordingKey": "WORD_MYSEKAI_FIXTURE_RELEASE_PUT_LIMIT",
     "value": "設置物の数"
+  },
+  {
+    "wordingKey": "WORD_MYSEKAI_FIXTURE_TOTAL_PUT_COST",
+    "value": "合計レイアウトコスト"
   },
   {
     "wordingKey": "WORD_MYSEKAI_GATE_CHARACTER_VISIT_COUNT_RATE",
@@ -9508,6 +9656,10 @@
     "value": "999+"
   },
   {
+    "wordingKey": "WORD_MYSEKAI_LAYOUT_COST_ORDER",
+    "value": "レイアウトコスト順"
+  },
+  {
     "wordingKey": "WORD_MYSEKAI_MATERIAL_MAX",
     "value": "9,999+"
   },
@@ -9630,6 +9782,10 @@
   {
     "wordingKey": "WORD_NORMAL_MISSION",
     "value": "通常ミッション"
+  },
+  {
+    "wordingKey": "WORD_NORMAL_SCORE_LIVE_MODE",
+    "value": "通常モード"
   },
   {
     "wordingKey": "WORD_NORMAL_VOICE",
@@ -10422,6 +10578,10 @@
   {
     "wordingKey": "WORD_PRIVATE_ROOM",
     "value": "プライベートルーム"
+  },
+  {
+    "wordingKey": "WORD_PRIVATE_ROOM_EN",
+    "value": "PRIVATE ROOM"
   },
   {
     "wordingKey": "WORD_PRIZE_GIFT",
@@ -11888,6 +12048,10 @@
     "value": "タップエフェクト"
   },
   {
+    "wordingKey": "WORD_TECHNICAL_SCORE_LIVE_MODE",
+    "value": "大会モード"
+  },
+  {
     "wordingKey": "WORD_TEMPLATE_LAYOUT",
     "value": "テンプレート"
   },
@@ -11942,6 +12106,10 @@
   {
     "wordingKey": "WORD_TICKET_EXCHANGE_SHOP",
     "value": "チケット交換所"
+  },
+  {
+    "wordingKey": "WORD_TILDE",
+    "value": "～"
   },
   {
     "wordingKey": "WORD_TIME_LIMIT_COLLABORATION_AREA",
@@ -12134,6 +12302,14 @@
   {
     "wordingKey": "WORD_TOTAL_POWER_HONOR_BONUS",
     "value": "称号ボーナス"
+  },
+  {
+    "wordingKey": "WORD_TOTAL_POWER_NO_LOWER_LIMIT",
+    "value": "下限なし"
+  },
+  {
+    "wordingKey": "WORD_TOTAL_POWER_NO_UPPER_LIMIT",
+    "value": "上限なし"
   },
   {
     "wordingKey": "WORD_TOTAL_SCORE",
@@ -12358,6 +12534,10 @@
   {
     "wordingKey": "WORD_VALUE_SHOP_NL",
     "value": "お得なセット"
+  },
+  {
+    "wordingKey": "WORD_VETERAN_ROOM_ENGLISH",
+    "value": "VETERAN ROOM"
   },
   {
     "wordingKey": "WORD_VIRTUAL_COIN",
@@ -12794,6 +12974,14 @@
   {
     "wordingKey": "WORD_WISH_LIST_SELECT_END",
     "value": "ガチャを引く"
+  },
+  {
+    "wordingKey": "WORD_WISH_LIST_TYPE_BLOOM_LIMITED",
+    "value": "ブルフェス限定"
+  },
+  {
+    "wordingKey": "WORD_WISH_LIST_TYPE_COLORFUL_LIMITED",
+    "value": "カラフェス限定"
   },
   {
     "wordingKey": "WORD_WISH_LIST_TYPE_LIMITED",
