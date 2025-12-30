@@ -1,18 +1,7 @@
 [
   {
-    "homeBannerId": 1342,
-    "seq": 45,
-    "homeBannerType": "general",
-    "name": "公式ストア",
-    "assetbundleName": "banner_official_store",
-    "transitionDestinationType": "web",
-    "startAt": 1753237800000,
-    "endAt": 4102412399000,
-    "url": "https:\/\/pjsekai.sega.jp\/index.html?from=official_store_banner"
-  },
-  {
     "homeBannerId": 1475,
-    "seq": 110,
+    "seq": 180,
     "homeBannerType": "general",
     "name": "[ガチャ]モモジャン箱イベ_ガチャバナー",
     "assetbundleName": "banner_gacha872",
@@ -23,7 +12,7 @@
   },
   {
     "homeBannerId": 1476,
-    "seq": 100,
+    "seq": 170,
     "homeBannerType": "event",
     "name": "[イベント]モモジャン箱イベ_イベントバナー",
     "assetbundleName": "event_hope_2025",
@@ -31,28 +20,6 @@
     "transitionDestinationId": 190,
     "startAt": 1766296800000,
     "endAt": 1767160799000
-  },
-  {
-    "homeBannerId": 1479,
-    "seq": 130,
-    "homeBannerType": "general",
-    "name": "[鏡音リン]HAPPY ANNIVERSARYイベント",
-    "assetbundleName": "banner_birthday_rin_2025",
-    "transitionDestinationType": "information",
-    "transitionDestinationId": 5643,
-    "startAt": 1766415600000,
-    "endAt": 1767020400000
-  },
-  {
-    "homeBannerId": 1481,
-    "seq": 130,
-    "homeBannerType": "general",
-    "name": "[鏡音レン]HAPPY ANNIVERSARYイベント",
-    "assetbundleName": "banner_birthday_len_2025",
-    "transitionDestinationType": "information",
-    "transitionDestinationId": 5642,
-    "startAt": 1766415600000,
-    "endAt": 1767020400000
   },
   {
     "homeBannerId": 1482,
@@ -64,5 +31,15 @@
     "transitionDestinationId": 877,
     "startAt": 1766545200000,
     "endAt": 1767150000000
+  },
+  {
+    "homeBannerId": 1489,
+    "seq": 160,
+    "homeBannerType": "general",
+    "name": "お正月ショップ2026",
+    "assetbundleName": "banner_shop_newyear2026",
+    "transitionDestinationType": "billing_shop_for_jewel",
+    "startAt": 1767061800000,
+    "endAt": 1768100399000
   }
 ]
