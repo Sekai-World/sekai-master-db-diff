@@ -7914,5 +7914,44 @@
     ],
     "virtualShopType": "other",
     "virtualShopDisplayType": "out_of_scope"
+  },
+  {
+    "id": 315,
+    "seq": 315,
+    "name": "ハッピーニューイヤーライブ",
+    "virtualShopItems": [
+      {
+        "id": 513,
+        "virtualShopId": 315,
+        "virtualShopItemType": "coordinate",
+        "seq": 99815,
+        "resourceBoxId": 408,
+        "costPaidJewel": 1000,
+        "startAt": 1767160800000
+      }
+    ],
+    "virtualShopType": "special_live",
+    "virtualShopDisplayType": "out_of_scope"
+  },
+  {
+    "id": 316,
+    "seq": 316,
+    "name": "2026甘酒ショップ",
+    "virtualShopItems": [
+      {
+        "id": 514,
+        "virtualShopId": 316,
+        "virtualShopItemType": "boost_item",
+        "seq": 299999,
+        "resourceBoxId": 147,
+        "costVirtualCoin": 0,
+        "costJewel": 0,
+        "startAt": 1767160800000,
+        "endAt": 1768111199000,
+        "limitValue": 1
+      }
+    ],
+    "virtualShopType": "other",
+    "virtualShopDisplayType": "out_of_scope"
   }
 ]

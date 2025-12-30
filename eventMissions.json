@@ -15553,5 +15553,143 @@
     "eventMissionSelectableRewardGroupId": 1,
     "sentence": "7つのミッションを全て達成しよう。",
     "rewards": []
+  },
+  {
+    "id": 881,
+    "eventId": 191,
+    "seq": 1,
+    "eventMissionType": "live_clear_daily",
+    "eventMissionCategory": "normal",
+    "requirement1": 10,
+    "sentence": "累計10日ライブを1日1回クリアしよう。",
+    "rewards": [
+      {
+        "id": 16005,
+        "missionType": "event_mission",
+        "missionId": 881,
+        "seq": 1,
+        "resourceBoxId": 8003
+      }
+    ]
+  },
+  {
+    "id": 882,
+    "eventId": 191,
+    "seq": 2,
+    "eventMissionType": "any_live_clear",
+    "eventMissionCategory": "normal",
+    "requirement1": 50,
+    "sentence": "ライブを50回クリアしよう。",
+    "rewards": [
+      {
+        "id": 16006,
+        "missionType": "event_mission",
+        "missionId": 882,
+        "seq": 1,
+        "resourceBoxId": 8003
+      }
+    ]
+  },
+  {
+    "id": 883,
+    "eventId": 191,
+    "seq": 3,
+    "eventMissionType": "live_clear_full_combo",
+    "eventMissionCategory": "normal",
+    "requirement1": 10,
+    "sentence": "ライブで楽曲をフルコンボで10回クリアしよう。",
+    "rewards": [
+      {
+        "id": 16007,
+        "missionType": "event_mission",
+        "missionId": 883,
+        "seq": 1,
+        "resourceBoxId": 8003
+      }
+    ]
+  },
+  {
+    "id": 884,
+    "eventId": 191,
+    "seq": 4,
+    "eventMissionType": "live_clear_different_music",
+    "eventMissionCategory": "normal",
+    "requirement1": 10,
+    "requirement2": 1,
+    "sentence": "ライブで10種類の楽曲をクリアしよう。",
+    "rewards": [
+      {
+        "id": 16008,
+        "missionType": "event_mission",
+        "missionId": 884,
+        "seq": 1,
+        "resourceBoxId": 8003
+      }
+    ]
+  },
+  {
+    "id": 885,
+    "eventId": 191,
+    "seq": 5,
+    "eventMissionType": "read_last_event_story_episode",
+    "eventMissionCategory": "normal",
+    "requirement1": 1,
+    "sentence": "イベント「新年言祝ぐ、祈りの舞」のイベントストーリー第8話を読もう。",
+    "rewards": [
+      {
+        "id": 16009,
+        "missionType": "event_mission",
+        "missionId": 885,
+        "seq": 1,
+        "resourceBoxId": 8003
+      }
+    ]
+  },
+  {
+    "id": 886,
+    "eventId": 191,
+    "seq": 6,
+    "eventMissionType": "consume_event_item",
+    "eventMissionCategory": "normal",
+    "requirement1": 20000,
+    "sentence": "イベント「新年言祝ぐ、祈りの舞」の交換所でバッジを20000個消費しよう。",
+    "rewards": [
+      {
+        "id": 16010,
+        "missionType": "event_mission",
+        "missionId": 886,
+        "seq": 1,
+        "resourceBoxId": 8003
+      }
+    ]
+  },
+  {
+    "id": 887,
+    "eventId": 191,
+    "seq": 7,
+    "eventMissionType": "join_virtual_live",
+    "eventMissionCategory": "normal",
+    "requirement1": 1,
+    "sentence": "「新年言祝ぐ、祈りの舞 アフターライブ」に参加しよう。",
+    "rewards": [
+      {
+        "id": 16011,
+        "missionType": "event_mission",
+        "missionId": 887,
+        "seq": 1,
+        "resourceBoxId": 8003
+      }
+    ]
+  },
+  {
+    "id": 888,
+    "eventId": 191,
+    "seq": 8,
+    "eventMissionType": "achieve_event_mission",
+    "eventMissionCategory": "complete_selectable_reward",
+    "requirement1": 7,
+    "eventMissionSelectableRewardGroupId": 1,
+    "sentence": "7つのミッションを全て達成しよう。",
+    "rewards": []
   }
 ]
