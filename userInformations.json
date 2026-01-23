@@ -884,7 +884,8 @@
     "platform": "all",
     "title": "【1月6日12時30分追記】アプリバージョン「v6.2.0」までに確認しているマイセカイの不具合について",
     "path": "information\/index.html?id=bug_summary_mysekai_to_v6-2-0_add3",
-    "startAt": 1767670200000
+    "startAt": 1767670200000,
+    "endAt": 1769137200000
   },
   {
     "id": 5721,
@@ -1021,19 +1022,6 @@
     "path": "information\/index.html?id=info_livebroadcast_28_20260126",
     "startAt": 1768791600000,
     "bannerAssetbundleName": "banner_livebroadcast_v2_notice"
-  },
-  {
-    "id": 5736,
-    "seq": 1,
-    "displayOrder": 83660,
-    "informationType": "normal",
-    "informationTag": "music",
-    "browseType": "internal",
-    "platform": "all",
-    "title": "楽曲「幸福刑」追加！",
-    "path": "information\/index.html?id=info_music_20260119",
-    "startAt": 1768827900000,
-    "endAt": 1769022000000
   },
   {
     "id": 5738,
@@ -1183,17 +1171,74 @@
     "bannerAssetbundleName": "banner_news_gacha895"
   },
   {
-    "id": 5762,
+    "id": 5749,
     "seq": 1,
-    "displayOrder": 28315,
-    "informationType": "bug",
-    "informationTag": "bug",
+    "displayOrder": 83800,
+    "informationType": "normal",
+    "informationTag": "gacha",
     "browseType": "internal",
     "platform": "all",
-    "title": "【1月16日17時30分追記】アプリバージョン「v6.2.1」までに確認している不具合について",
-    "path": "information\/index.html?id=bug_summary_to_v6-2-1_add1",
-    "startAt": 1768552200000,
-    "endAt": 1768962600000
+    "title": "「[セカライ5th 開催記念]プレミアムプレゼントガチャ」開催！",
+    "path": "information\/index.html?id=info_gacha897_held",
+    "startAt": 1769137200000,
+    "endAt": 1769914800000,
+    "bannerAssetbundleName": "banner_news_gacha897"
+  },
+  {
+    "id": 5750,
+    "seq": 1,
+    "displayOrder": 83810,
+    "informationType": "normal",
+    "informationTag": "event",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "「HAPPY BIRTHDAY 朝比奈 まふゆ 2026」開催！",
+    "path": "information\/index.html?id=info_birthdayparty_mafuyu_2026_held",
+    "startAt": 1769180400000,
+    "endAt": 1771527600000,
+    "bannerAssetbundleName": "banner_news_birthday_mafuyu_2026"
+  },
+  {
+    "id": 5751,
+    "seq": 1,
+    "displayOrder": 83820,
+    "informationType": "normal",
+    "informationTag": "gacha",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "予告、「ハピネスパッケージガチャ」開催について",
+    "path": "information\/index.html?id=info_gacha900_notice",
+    "startAt": 1769310000000,
+    "endAt": 1769396400000,
+    "bannerAssetbundleName": "banner_news_gacha900"
+  },
+  {
+    "id": 5752,
+    "seq": 1,
+    "displayOrder": 83830,
+    "informationType": "normal",
+    "informationTag": "gacha",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "予告、「[巡音ルカ]HAPPY ANNIVERSARYガチャ」「[巡音ルカ]HAPPY ANNIVERSARYメモリーズガチャ」開催について",
+    "path": "information\/index.html?id=info_gacha898_notice",
+    "startAt": 1769320800000,
+    "endAt": 1769353200000,
+    "bannerAssetbundleName": "banner_news_gacha898"
+  },
+  {
+    "id": 5753,
+    "seq": 1,
+    "displayOrder": 83840,
+    "informationType": "normal",
+    "informationTag": "event",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "予告、「HAPPY ANNIVERSARY 巡音ルカ 2026」開催について",
+    "path": "information\/index.html?id=info_anniversaryparty_luka_2026_notice",
+    "startAt": 1769320800000,
+    "endAt": 1769439600000,
+    "bannerAssetbundleName": "banner_news_anniversary_luka_2026"
   },
   {
     "id": 5765,
@@ -1219,5 +1264,31 @@
     "path": "information\/index.html?id=info_webradio_sekarazi_57_20260123",
     "startAt": 1769050800000,
     "endAt": 1769713200000
+  },
+  {
+    "id": 5767,
+    "seq": 1,
+    "displayOrder": 28330,
+    "informationType": "bug",
+    "informationTag": "bug",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "【1月23日12時00分追記】アプリバージョン「v6.2.1」までに確認しているマイセカイの不具合について",
+    "path": "information\/index.html?id=bug_summary_mysekai_to_v6-2-1",
+    "startAt": 1769137200000
+  },
+  {
+    "id": 5768,
+    "seq": 1,
+    "displayOrder": 83790,
+    "informationType": "normal",
+    "informationTag": "information",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "本日より「プロジェクトセカイ COLORFUL LIVE 5th - Frontier -」東京公演が開催！",
+    "path": "information\/index.html?id=info_sekarai-5th-20260123",
+    "startAt": 1769137200000,
+    "endAt": 1769340600000,
+    "bannerAssetbundleName": "banner_news_pjsekailive5th_tokyo"
   }
 ]
