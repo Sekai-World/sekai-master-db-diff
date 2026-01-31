@@ -11,28 +11,6 @@
     "url": "https:\/\/pjsekai.sega.jp\/index.html"
   },
   {
-    "homeBannerId": 1501,
-    "seq": 180,
-    "homeBannerType": "general",
-    "name": "[ガチャ]ビビバス箱イベ_ガチャバナー",
-    "assetbundleName": "banner_gacha894",
-    "transitionDestinationType": "gacha",
-    "transitionDestinationId": 894,
-    "startAt": 1768964400000,
-    "endAt": 1769828399000
-  },
-  {
-    "homeBannerId": 1502,
-    "seq": 170,
-    "homeBannerType": "event",
-    "name": "[イベント]ビビバス箱イベ_イベントバナー",
-    "assetbundleName": "event_allout_2026",
-    "transitionDestinationType": "event",
-    "transitionDestinationId": 193,
-    "startAt": 1768975200000,
-    "endAt": 1769839199000
-  },
-  {
     "homeBannerId": 1505,
     "seq": 50,
     "homeBannerType": "general",
@@ -64,5 +42,27 @@
     "transitionDestinationId": 900,
     "startAt": 1769396400000,
     "endAt": 1770173999000
+  },
+  {
+    "homeBannerId": 1511,
+    "seq": 110,
+    "homeBannerType": "general",
+    "name": "[ガチャ]シャッフルVtイベ_ガチャバナー",
+    "assetbundleName": "banner_gacha901",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 901,
+    "startAt": 1769828400000,
+    "endAt": 1770692399000
+  },
+  {
+    "homeBannerId": 1512,
+    "seq": 100,
+    "homeBannerType": "event",
+    "name": "[イベント]シャッフルVtイベ_イベントバナー",
+    "assetbundleName": "event_revenge_2026",
+    "transitionDestinationType": "event",
+    "transitionDestinationId": 194,
+    "startAt": 1769839200000,
+    "endAt": 1770703199000
   }
 ]
