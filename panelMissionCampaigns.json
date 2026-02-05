@@ -24844,5 +24844,486 @@
         ]
       }
     ]
+  },
+  {
+    "id": 12,
+    "name": "[プロセカ×サンリオキャラクターズ]コラボ記念スタンプミッション",
+    "assetbundleName": "sanrio_collab_2026_pm",
+    "bgmAssetbundleName": "sanrio_collab_2026_pm_bgm",
+    "selectableLimit": 3,
+    "startAt": 1770260400000,
+    "progressEndAt": 1771513199000,
+    "closedAt": 1771513199000,
+    "distributionEndAt": 1772722799000,
+    "informationId": 5797,
+    "panelMissionSelectionType": "auto",
+    "panelMissionSheetGroups": [
+      {
+        "id": 1201,
+        "panelMissionCampaignId": 12,
+        "name": "マイセカイ",
+        "selectableLimit": 1,
+        "seq": 1,
+        "panelMissionSheets": [
+          {
+            "id": 120101,
+            "panelMissionSheetGroupId": 1201,
+            "name": "マイセカイカード",
+            "seq": 1,
+            "assetbundleName": "sheet_sanrio_collab_mysekai",
+            "panelMissions": [
+              {
+                "id": 12010101,
+                "panelMissionSheetId": 120101,
+                "name": "マイセカイで素材を\n30個採取",
+                "description": "マイセカイで素材を30個採取しよう。",
+                "seq": 1,
+                "panelMissionType": "mysekai_gather_any_mysekai_material",
+                "requirement1": 30,
+                "rewards": [
+                  {
+                    "id": 16753,
+                    "missionType": "panel_mission",
+                    "missionId": 12010101,
+                    "seq": 1,
+                    "resourceBoxId": 1883
+                  }
+                ]
+              },
+              {
+                "id": 12010102,
+                "panelMissionSheetId": 120101,
+                "name": "マイセカイで素材を\n100個採取",
+                "description": "マイセカイで素材を100個採取しよう。",
+                "seq": 2,
+                "panelMissionType": "mysekai_gather_any_mysekai_material",
+                "requirement1": 100,
+                "rewards": [
+                  {
+                    "id": 16754,
+                    "missionType": "panel_mission",
+                    "missionId": 12010102,
+                    "seq": 1,
+                    "resourceBoxId": 1883
+                  }
+                ]
+              },
+              {
+                "id": 12010103,
+                "panelMissionSheetId": 120101,
+                "name": "マイセカイで素材を\n200個採取",
+                "description": "マイセカイで素材を200個採取しよう。",
+                "seq": 3,
+                "panelMissionType": "mysekai_gather_any_mysekai_material",
+                "requirement1": 200,
+                "rewards": [
+                  {
+                    "id": 16755,
+                    "missionType": "panel_mission",
+                    "missionId": 12010103,
+                    "seq": 1,
+                    "resourceBoxId": 1883
+                  }
+                ]
+              },
+              {
+                "id": 12010104,
+                "panelMissionSheetId": 120101,
+                "name": "マイセカイで素材を\n400個採取",
+                "description": "マイセカイで素材を400個採取しよう。",
+                "seq": 4,
+                "panelMissionType": "mysekai_gather_any_mysekai_material",
+                "requirement1": 400,
+                "rewards": [
+                  {
+                    "id": 16756,
+                    "missionType": "panel_mission",
+                    "missionId": 12010104,
+                    "seq": 1,
+                    "resourceBoxId": 1883
+                  }
+                ]
+              },
+              {
+                "id": 12010105,
+                "panelMissionSheetId": 120101,
+                "name": "マイセカイで素材を\n600個採取",
+                "description": "マイセカイで素材を600個採取しよう。",
+                "seq": 5,
+                "panelMissionType": "mysekai_gather_any_mysekai_material",
+                "requirement1": 600,
+                "rewards": [
+                  {
+                    "id": 16757,
+                    "missionType": "panel_mission",
+                    "missionId": 12010105,
+                    "seq": 1,
+                    "resourceBoxId": 1883
+                  }
+                ]
+              },
+              {
+                "id": 12010106,
+                "panelMissionSheetId": 120101,
+                "name": "マイセカイで素材を\n900個採取",
+                "description": "マイセカイで素材を900個採取しよう。",
+                "seq": 6,
+                "panelMissionType": "mysekai_gather_any_mysekai_material",
+                "requirement1": 900,
+                "rewards": [
+                  {
+                    "id": 16758,
+                    "missionType": "panel_mission",
+                    "missionId": 12010106,
+                    "seq": 1,
+                    "resourceBoxId": 1883
+                  }
+                ]
+              },
+              {
+                "id": 12010107,
+                "panelMissionSheetId": 120101,
+                "name": "マイセカイで素材を\n1200個採取",
+                "description": "マイセカイで素材を1200個採取しよう。",
+                "seq": 7,
+                "panelMissionType": "mysekai_gather_any_mysekai_material",
+                "requirement1": 1200,
+                "rewards": [
+                  {
+                    "id": 16759,
+                    "missionType": "panel_mission",
+                    "missionId": 12010107,
+                    "seq": 1,
+                    "resourceBoxId": 1883
+                  }
+                ]
+              }
+            ],
+            "rewards": [
+              {
+                "id": 16760,
+                "missionType": "panel_mission_complete",
+                "missionId": 120101,
+                "seq": 1,
+                "resourceBoxId": 1884
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 1202,
+        "panelMissionCampaignId": 12,
+        "name": "楽曲",
+        "selectableLimit": 1,
+        "seq": 2,
+        "panelMissionSheets": [
+          {
+            "id": 120201,
+            "panelMissionSheetGroupId": 1202,
+            "name": "楽曲カード",
+            "seq": 1,
+            "assetbundleName": "sheet_sanrio_collab_music",
+            "panelMissions": [
+              {
+                "id": 12020101,
+                "panelMissionSheetId": 120201,
+                "name": "1種類の楽曲を\nクリア",
+                "description": "1種類の楽曲をクリアしよう。\n※オートライブでもカウントされます。",
+                "seq": 1,
+                "panelMissionType": "live_clear_with_different_music",
+                "requirement1": 1,
+                "requirement2": 1,
+                "rewards": [
+                  {
+                    "id": 16761,
+                    "missionType": "panel_mission",
+                    "missionId": 12020101,
+                    "seq": 1,
+                    "resourceBoxId": 1883
+                  }
+                ]
+              },
+              {
+                "id": 12020102,
+                "panelMissionSheetId": 120201,
+                "name": "3種類の楽曲を\nクリア",
+                "description": "3種類の楽曲をクリアしよう。\n※オートライブでもカウントされます。",
+                "seq": 2,
+                "panelMissionType": "live_clear_with_different_music",
+                "requirement1": 3,
+                "requirement2": 1,
+                "rewards": [
+                  {
+                    "id": 16762,
+                    "missionType": "panel_mission",
+                    "missionId": 12020102,
+                    "seq": 1,
+                    "resourceBoxId": 1883
+                  }
+                ]
+              },
+              {
+                "id": 12020103,
+                "panelMissionSheetId": 120201,
+                "name": "5種類の楽曲を\nクリア",
+                "description": "5種類の楽曲をクリアしよう。\n※オートライブでもカウントされます。",
+                "seq": 3,
+                "panelMissionType": "live_clear_with_different_music",
+                "requirement1": 5,
+                "requirement2": 1,
+                "rewards": [
+                  {
+                    "id": 16763,
+                    "missionType": "panel_mission",
+                    "missionId": 12020103,
+                    "seq": 1,
+                    "resourceBoxId": 1883
+                  }
+                ]
+              },
+              {
+                "id": 12020104,
+                "panelMissionSheetId": 120201,
+                "name": "10種類の楽曲を\nクリア",
+                "description": "10種類の楽曲をクリアしよう。\n※オートライブでもカウントされます。",
+                "seq": 4,
+                "panelMissionType": "live_clear_with_different_music",
+                "requirement1": 10,
+                "requirement2": 1,
+                "rewards": [
+                  {
+                    "id": 16764,
+                    "missionType": "panel_mission",
+                    "missionId": 12020104,
+                    "seq": 1,
+                    "resourceBoxId": 1883
+                  }
+                ]
+              },
+              {
+                "id": 12020105,
+                "panelMissionSheetId": 120201,
+                "name": "15種類の楽曲を\nクリア",
+                "description": "15種類の楽曲をクリアしよう。\n※オートライブでもカウントされます。",
+                "seq": 5,
+                "panelMissionType": "live_clear_with_different_music",
+                "requirement1": 15,
+                "requirement2": 1,
+                "rewards": [
+                  {
+                    "id": 16765,
+                    "missionType": "panel_mission",
+                    "missionId": 12020105,
+                    "seq": 1,
+                    "resourceBoxId": 1883
+                  }
+                ]
+              },
+              {
+                "id": 12020106,
+                "panelMissionSheetId": 120201,
+                "name": "20種類の楽曲を\nクリア",
+                "description": "20種類の楽曲をクリアしよう。\n※オートライブでもカウントされます。",
+                "seq": 6,
+                "panelMissionType": "live_clear_with_different_music",
+                "requirement1": 20,
+                "requirement2": 1,
+                "rewards": [
+                  {
+                    "id": 16766,
+                    "missionType": "panel_mission",
+                    "missionId": 12020106,
+                    "seq": 1,
+                    "resourceBoxId": 1883
+                  }
+                ]
+              },
+              {
+                "id": 12020107,
+                "panelMissionSheetId": 120201,
+                "name": "25種類の楽曲を\nクリア",
+                "description": "25種類の楽曲をクリアしよう。\n※オートライブでもカウントされます。",
+                "seq": 7,
+                "panelMissionType": "live_clear_with_different_music",
+                "requirement1": 25,
+                "requirement2": 1,
+                "rewards": [
+                  {
+                    "id": 16767,
+                    "missionType": "panel_mission",
+                    "missionId": 12020107,
+                    "seq": 1,
+                    "resourceBoxId": 1883
+                  }
+                ]
+              }
+            ],
+            "rewards": [
+              {
+                "id": 16768,
+                "missionType": "panel_mission_complete",
+                "missionId": 120201,
+                "seq": 1,
+                "resourceBoxId": 1885
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 1203,
+        "panelMissionCampaignId": 12,
+        "name": "ライブ",
+        "selectableLimit": 1,
+        "seq": 3,
+        "panelMissionSheets": [
+          {
+            "id": 120301,
+            "panelMissionSheetGroupId": 1203,
+            "name": "ライブカード",
+            "seq": 1,
+            "assetbundleName": "sheet_sanrio_collab_live",
+            "panelMissions": [
+              {
+                "id": 12030101,
+                "panelMissionSheetId": 120301,
+                "name": "みんなでライブを\n1回クリア",
+                "description": "「みんなでライブ」を1回クリアしよう。",
+                "seq": 1,
+                "panelMissionType": "multi_live_clear",
+                "requirement1": 1,
+                "rewards": [
+                  {
+                    "id": 16769,
+                    "missionType": "panel_mission",
+                    "missionId": 12030101,
+                    "seq": 1,
+                    "resourceBoxId": 1883
+                  }
+                ]
+              },
+              {
+                "id": 12030102,
+                "panelMissionSheetId": 120301,
+                "name": "みんなでライブを\n2回クリア",
+                "description": "「みんなでライブ」を2回クリアしよう。",
+                "seq": 2,
+                "panelMissionType": "multi_live_clear",
+                "requirement1": 2,
+                "rewards": [
+                  {
+                    "id": 16770,
+                    "missionType": "panel_mission",
+                    "missionId": 12030102,
+                    "seq": 1,
+                    "resourceBoxId": 1883
+                  }
+                ]
+              },
+              {
+                "id": 12030103,
+                "panelMissionSheetId": 120301,
+                "name": "みんなでライブを\n3回クリア",
+                "description": "「みんなでライブ」を3回クリアしよう。",
+                "seq": 3,
+                "panelMissionType": "multi_live_clear",
+                "requirement1": 3,
+                "rewards": [
+                  {
+                    "id": 16771,
+                    "missionType": "panel_mission",
+                    "missionId": 12030103,
+                    "seq": 1,
+                    "resourceBoxId": 1883
+                  }
+                ]
+              },
+              {
+                "id": 12030104,
+                "panelMissionSheetId": 120301,
+                "name": "みんなでライブを\n4回クリア",
+                "description": "「みんなでライブ」を4回クリアしよう。",
+                "seq": 4,
+                "panelMissionType": "multi_live_clear",
+                "requirement1": 4,
+                "rewards": [
+                  {
+                    "id": 16772,
+                    "missionType": "panel_mission",
+                    "missionId": 12030104,
+                    "seq": 1,
+                    "resourceBoxId": 1883
+                  }
+                ]
+              },
+              {
+                "id": 12030105,
+                "panelMissionSheetId": 120301,
+                "name": "みんなでライブを\n5回クリア",
+                "description": "「みんなでライブ」を5回クリアしよう。",
+                "seq": 5,
+                "panelMissionType": "multi_live_clear",
+                "requirement1": 5,
+                "rewards": [
+                  {
+                    "id": 16773,
+                    "missionType": "panel_mission",
+                    "missionId": 12030105,
+                    "seq": 1,
+                    "resourceBoxId": 1883
+                  }
+                ]
+              },
+              {
+                "id": 12030106,
+                "panelMissionSheetId": 120301,
+                "name": "みんなでライブを\n7回クリア",
+                "description": "「みんなでライブ」を7回クリアしよう。",
+                "seq": 6,
+                "panelMissionType": "multi_live_clear",
+                "requirement1": 7,
+                "rewards": [
+                  {
+                    "id": 16774,
+                    "missionType": "panel_mission",
+                    "missionId": 12030106,
+                    "seq": 1,
+                    "resourceBoxId": 1883
+                  }
+                ]
+              },
+              {
+                "id": 12030107,
+                "panelMissionSheetId": 120301,
+                "name": "みんなでライブを\n10回クリア",
+                "description": "「みんなでライブ」を10回クリアしよう。",
+                "seq": 7,
+                "panelMissionType": "multi_live_clear",
+                "requirement1": 10,
+                "rewards": [
+                  {
+                    "id": 16775,
+                    "missionType": "panel_mission",
+                    "missionId": 12030107,
+                    "seq": 1,
+                    "resourceBoxId": 1883
+                  }
+                ]
+              }
+            ],
+            "rewards": [
+              {
+                "id": 16776,
+                "missionType": "panel_mission_complete",
+                "missionId": 120301,
+                "seq": 1,
+                "resourceBoxId": 1886
+              }
+            ]
+          }
+        ]
+      }
+    ]
   }
 ]
