@@ -22,17 +22,6 @@
     "endAt": 1771513199000
   },
   {
-    "homeBannerId": 1515,
-    "seq": 130,
-    "homeBannerType": "general",
-    "name": "[宵崎奏]HAPPY BIRTHDAYイベント",
-    "assetbundleName": "banner_birthday_kanade_2026",
-    "transitionDestinationType": "information",
-    "transitionDestinationId": 5803,
-    "startAt": 1770390000000,
-    "endAt": 1770908400000
-  },
-  {
     "homeBannerId": 1516,
     "seq": 110,
     "homeBannerType": "general",
@@ -53,5 +42,38 @@
     "transitionDestinationId": 195,
     "startAt": 1770703200000,
     "endAt": 1771480799000
+  },
+  {
+    "homeBannerId": 1518,
+    "seq": 140,
+    "homeBannerType": "general",
+    "name": "[復刻]That flower, once moreガチャ",
+    "assetbundleName": "banner_gacha907",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 907,
+    "startAt": 1770865200000,
+    "endAt": 1771642799000
+  },
+  {
+    "homeBannerId": 1519,
+    "seq": 150,
+    "homeBannerType": "general",
+    "name": "[復刻]Play with dogsガチャ",
+    "assetbundleName": "banner_gacha908",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 908,
+    "startAt": 1770865200000,
+    "endAt": 1771642799000
+  },
+  {
+    "homeBannerId": 1520,
+    "seq": 130,
+    "homeBannerType": "general",
+    "name": "[KAITO]HAPPY ANNIVERSARY2026ガチャ",
+    "assetbundleName": "banner_gacha909",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 909,
+    "startAt": 1770908400000,
+    "endAt": 1771513200000
   }
 ]
