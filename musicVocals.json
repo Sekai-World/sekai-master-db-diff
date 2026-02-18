@@ -31391,6 +31391,34 @@
     "archivePublishedAt": 1761026400000
   },
   {
+    "id": 1217,
+    "musicId": 660,
+    "musicVocalType": "original_song",
+    "seq": 101,
+    "releaseConditionId": 5,
+    "caption": "バーチャル・シンガーver.",
+    "characters": [
+      {
+        "id": 2085,
+        "musicId": 660,
+        "musicVocalId": 1217,
+        "characterType": "game_character",
+        "characterId": 22,
+        "seq": 6600
+      },
+      {
+        "id": 3489,
+        "musicId": 660,
+        "musicVocalId": 1217,
+        "characterType": "outside_character",
+        "characterId": 16,
+        "seq": 6601
+      }
+    ],
+    "assetbundleName": "vs_0660_01",
+    "archivePublishedAt": 1771480800000
+  },
+  {
     "id": 1220,
     "musicId": 663,
     "musicVocalType": "original_song",
@@ -40352,6 +40380,46 @@
     "archivePublishedAt": 1742796000000
   },
   {
+    "id": 1591,
+    "musicId": 506,
+    "musicVocalType": "another_vocal",
+    "seq": 321,
+    "releaseConditionId": 9,
+    "caption": "アナザーボーカルver.",
+    "characters": [
+      {
+        "id": 3029,
+        "musicId": 506,
+        "musicVocalId": 1591,
+        "characterType": "game_character",
+        "characterId": 21,
+        "seq": 5064
+      }
+    ],
+    "assetbundleName": "an_0506_01",
+    "archivePublishedAt": 1771396200000
+  },
+  {
+    "id": 1592,
+    "musicId": 506,
+    "musicVocalType": "another_vocal",
+    "seq": 325,
+    "releaseConditionId": 9,
+    "caption": "アナザーボーカルver.",
+    "characters": [
+      {
+        "id": 3030,
+        "musicId": 506,
+        "musicVocalId": 1592,
+        "characterType": "game_character",
+        "characterId": 25,
+        "seq": 5065
+      }
+    ],
+    "assetbundleName": "an_0506_02",
+    "archivePublishedAt": 1771396200000
+  },
+  {
     "id": 1593,
     "musicId": 534,
     "musicVocalType": "another_vocal",
@@ -45662,5 +45730,97 @@
     ],
     "assetbundleName": "se_0642_01",
     "archivePublishedAt": 1771333500000
+  },
+  {
+    "id": 1763,
+    "musicId": 603,
+    "musicVocalType": "another_vocal",
+    "seq": 314,
+    "releaseConditionId": 9,
+    "caption": "アナザーボーカルver.",
+    "characters": [
+      {
+        "id": 3487,
+        "musicId": 603,
+        "musicVocalId": 1763,
+        "characterType": "game_character",
+        "characterId": 14,
+        "seq": 6036
+      }
+    ],
+    "assetbundleName": "an_0603_01",
+    "archivePublishedAt": 1771396200000
+  },
+  {
+    "id": 1764,
+    "musicId": 603,
+    "musicVocalType": "another_vocal",
+    "seq": 315,
+    "releaseConditionId": 9,
+    "caption": "アナザーボーカルver.",
+    "characters": [
+      {
+        "id": 3488,
+        "musicId": 603,
+        "musicVocalId": 1764,
+        "characterType": "game_character",
+        "characterId": 15,
+        "seq": 6037
+      }
+    ],
+    "assetbundleName": "an_0603_02",
+    "archivePublishedAt": 1771396200000
+  },
+  {
+    "id": 1765,
+    "musicId": 660,
+    "musicVocalType": "sekai",
+    "seq": 201,
+    "releaseConditionId": 5,
+    "caption": "セカイver.",
+    "characters": [
+      {
+        "id": 3490,
+        "musicId": 660,
+        "musicVocalId": 1765,
+        "characterType": "game_character",
+        "characterId": 14,
+        "seq": 6602
+      },
+      {
+        "id": 3491,
+        "musicId": 660,
+        "musicVocalId": 1765,
+        "characterType": "game_character",
+        "characterId": 22,
+        "seq": 6603
+      },
+      {
+        "id": 3492,
+        "musicId": 660,
+        "musicVocalId": 1765,
+        "characterType": "game_character",
+        "characterId": 13,
+        "seq": 6604
+      },
+      {
+        "id": 3493,
+        "musicId": 660,
+        "musicVocalId": 1765,
+        "characterType": "game_character",
+        "characterId": 15,
+        "seq": 6605
+      },
+      {
+        "id": 3494,
+        "musicId": 660,
+        "musicVocalId": 1765,
+        "characterType": "game_character",
+        "characterId": 16,
+        "seq": 6606
+      }
+    ],
+    "assetbundleName": "se_0660_01",
+    "archivePublishedAt": 1771480800000
   }
 ]
