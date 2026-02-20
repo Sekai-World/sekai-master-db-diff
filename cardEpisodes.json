@@ -68042,5 +68042,61 @@
       }
     ],
     "cardEpisodePartType": "second_part"
+  },
+  {
+    "id": 2573,
+    "seq": 1,
+    "cardId": 1344,
+    "title": "サイドストーリー（前編）",
+    "scenarioId": "009052_kohane01",
+    "assetbundleName": "res009_no052",
+    "releaseConditionId": 1,
+    "power1BonusFixed": 240,
+    "power2BonusFixed": 240,
+    "power3BonusFixed": 240,
+    "rewardResourceBoxIds": [
+      3
+    ],
+    "costs": [
+      {
+        "resourceId": 2,
+        "resourceType": "material",
+        "quantity": 1000
+      }
+    ],
+    "cardEpisodePartType": "first_part"
+  },
+  {
+    "id": 2574,
+    "seq": 2,
+    "cardId": 1344,
+    "title": "サイドストーリー（後編）",
+    "scenarioId": "009052_kohane02",
+    "assetbundleName": "res009_no052",
+    "releaseConditionId": 31344,
+    "power1BonusFixed": 550,
+    "power2BonusFixed": 550,
+    "power3BonusFixed": 550,
+    "rewardResourceBoxIds": [
+      4
+    ],
+    "costs": [
+      {
+        "resourceId": 2,
+        "resourceType": "material",
+        "quantity": 4000
+      },
+      {
+        "resourceId": 7,
+        "resourceType": "material",
+        "quantity": 1200
+      },
+      {
+        "resourceId": 14,
+        "resourceType": "material",
+        "quantity": 120
+      }
+    ],
+    "cardEpisodePartType": "second_part"
   }
 ]
