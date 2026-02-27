@@ -184,6 +184,14 @@
     "value": "{0} {1}"
   },
   {
+    "wordingKey": "FORMAT_UNTIL_FULL_RECOVERY",
+    "value": "全回復まで<color=#ff5599>{0}<\/color>"
+  },
+  {
+    "wordingKey": "FORMAT_UNTIL_RECOVERY",
+    "value": "次回復まで<color=#ff5599>{0}<\/color>"
+  },
+  {
     "wordingKey": "MEG_VERSUS_MATCH_TIMEOUT",
     "value": "相手が見つからなかったため、ライブTOPに戻ります。"
   },
@@ -1374,6 +1382,14 @@
   {
     "wordingKey": "MSG_ERROR_TO_TITLE",
     "value": "エラーが発生しました。 タイトルへ戻ります。"
+  },
+  {
+    "wordingKey": "MSG_EVENT_BREAK_BODY",
+    "value": "・リフレッシュゲージはライブのプレイまたはマイセカイでの採取でたまっていきます。\n・ライブでは楽曲の長さに応じて、採取では採取時の獲得イベントPに応じてゲージのたまり方が異なります。\n・リフレッシュゲージが100%以上になるとイベントP・バッジが獲得できなくなります。\n・リフレッシュゲージはライブや採取を行わない時間が累計で30分に到達するごとに下がります。\n\n<color=#ff3366>※オートライブとチャレンジライブに関してはリフレッシュゲージはたまらず、100%以上でもイベントP・バッジが獲得できます。\n※詳しくはFAQをご覧ください。<\/color>"
+  },
+  {
+    "wordingKey": "MSG_EVENT_BREAK_TITLE",
+    "value": "リフレッシュゲージについて"
   },
   {
     "wordingKey": "MSG_EVENT_INITIALIZE_ERROR",
@@ -5356,6 +5372,18 @@
     "value": "中断"
   },
   {
+    "wordingKey": "WORD_BREAK_POINT_EXCEED_THRESHOLD",
+    "value": "リフレッシュゲージが100％になりました。\n休憩し、ゲージが減少するまでイベントP・バッジを獲得できません。"
+  },
+  {
+    "wordingKey": "WORD_BREAK_POINT_OVER_LIMIT",
+    "value": "リフレッシュゲージが100%のため、イベントP・バッジを獲得できませんでした。"
+  },
+  {
+    "wordingKey": "WORD_BREAK_POINT_OVER_LIMIT_LIVE",
+    "value": "ライブ開始時にリフレッシュゲージが100%だったため、イベントP・バッジを獲得できませんでした。"
+  },
+  {
     "wordingKey": "WORD_BROWSED",
     "value": "閲覧済み"
   },
@@ -6472,6 +6500,10 @@
     "value": "ダンス"
   },
   {
+    "wordingKey": "WORD_DASH_SYMBOL",
+    "value": "ー"
+  },
+  {
     "wordingKey": "WORD_DATATIME",
     "value": "開催日"
   },
@@ -6946,6 +6978,14 @@
   {
     "wordingKey": "WORD_EVENT_BONUS_NL",
     "value": "イベント\nボーナス"
+  },
+  {
+    "wordingKey": "WORD_EVENT_BREAK_TIME_REFRESH_GAUGE_FULL",
+    "value": "リフレッシュゲージが100％のた\nめ、イベントP・バッジを獲得で\nきません。"
+  },
+  {
+    "wordingKey": "WORD_EVENT_BREAK_TIME_REFRESH_GAUGE_NEARLY_FULL",
+    "value": "リフレッシュゲージがいっぱいに\nなりそうです。"
   },
   {
     "wordingKey": "WORD_EVENT_CLOSE",
@@ -8518,6 +8558,10 @@
   {
     "wordingKey": "WORD_LIVE_BOOST_PRESENT_RESET",
     "value": "4時にリセット"
+  },
+  {
+    "wordingKey": "WORD_LIVE_BOOST_RECOMMENDED",
+    "value": "リフレッシュゲージが現在最大までたまっています。"
   },
   {
     "wordingKey": "WORD_LIVE_BOOST_RECOVER",
@@ -10584,6 +10628,10 @@
     "value": "プレビュー"
   },
   {
+    "wordingKey": "WORD_PREVIEW_EVENT_BREAK",
+    "value": "リフレッシュゲージがいっぱいになりそうです。"
+  },
+  {
     "wordingKey": "WORD_PREVIEW_NOTE_SHOW_TIME_FORMAT",
     "value": "{0:0.000}秒"
   },
@@ -10894,6 +10942,10 @@
   {
     "wordingKey": "WORD_RECYCLE_TOOL_CONFIRM",
     "value": "選択したツールをリサイクルします。よろしいですか？"
+  },
+  {
+    "wordingKey": "WORD_REFRESH_GAUGE",
+    "value": "リフレッシュ"
   },
   {
     "wordingKey": "WORD_REGISTER",
