@@ -11,28 +11,6 @@
     "url": "https:\/\/pjsekai.sega.jp\/index.html"
   },
   {
-    "homeBannerId": 1522,
-    "seq": 180,
-    "homeBannerType": "general",
-    "name": "[ガチャ]ワンダショ箱イベ_ガチャバナー",
-    "assetbundleName": "banner_gacha911",
-    "transitionDestinationType": "gacha",
-    "transitionDestinationId": 911,
-    "startAt": 1771470000000,
-    "endAt": 1772247599000
-  },
-  {
-    "homeBannerId": 1523,
-    "seq": 170,
-    "homeBannerType": "event",
-    "name": "[イベント]ワンダショ箱イベ_イベントバナー",
-    "assetbundleName": "event_princess_2026",
-    "transitionDestinationType": "event",
-    "transitionDestinationId": 196,
-    "startAt": 1771480800000,
-    "endAt": 1772258399000
-  },
-  {
     "homeBannerId": 1524,
     "seq": 200,
     "homeBannerType": "general",
@@ -64,5 +42,27 @@
     "transitionDestinationId": 5865,
     "startAt": 1772118000000,
     "endAt": 1772636400000
+  },
+  {
+    "homeBannerId": 1528,
+    "seq": 110,
+    "homeBannerType": "general",
+    "name": "[ガチャ]シャッフルWhイベ_ガチャバナー",
+    "assetbundleName": "banner_gacha915",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 915,
+    "startAt": 1772247600000,
+    "endAt": 1773111599000
+  },
+  {
+    "homeBannerId": 1529,
+    "seq": 100,
+    "homeBannerType": "event",
+    "name": "[イベント]シャッフルWhイベ_イベントバナー",
+    "assetbundleName": "event_nightmare_2026",
+    "transitionDestinationType": "event",
+    "transitionDestinationId": 197,
+    "startAt": 1772258400000,
+    "endAt": 1773122399000
   }
 ]
