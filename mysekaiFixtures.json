@@ -40417,6 +40417,407 @@
     "secondPutCost": 40
   },
   {
+    "id": 1146,
+    "mysekaiFixtureType": "system",
+    "name": "クラシカルアベニューの家",
+    "pronunciation": "くらしかるあべにゅーのいえ",
+    "flavorText": "クラシカルアベニューの家",
+    "seq": 30025001,
+    "gridSize": {
+      "width": 12,
+      "depth": 10,
+      "height": 20
+    },
+    "colorCode": "#824600",
+    "mysekaiFixtureMainGenreId": 11,
+    "mysekaiFixtureSubGenreId": 24,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "home",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "none",
+    "mysekaiFixtureAnotherColors": [
+      {
+        "textureId": 2,
+        "colorCode": "#F9F7F1"
+      },
+      {
+        "textureId": 3,
+        "colorCode": "#8D8C96"
+      }
+    ],
+    "mysekaiFixturePutSoundId": 6,
+    "mysekaiFixtureFootstepId": 7,
+    "mysekaiFixtureTagGroup": {
+      "id": 1146,
+      "mysekaiFixtureTagId1": 11079,
+      "mysekaiFixtureTagId2": 97
+    },
+    "isAssembled": true,
+    "isDisassembled": false,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_ext0025_house_house1",
+    "firstPutCost": 220,
+    "secondPutCost": 0
+  },
+  {
+    "id": 1147,
+    "mysekaiFixtureType": "normal",
+    "name": "クラシカルアベニューのブティック",
+    "pronunciation": "くらしかるあべにゅーのぶてぃっく",
+    "flavorText": "クラシカルアベニューのブティック",
+    "seq": 30025002,
+    "gridSize": {
+      "width": 8,
+      "depth": 8,
+      "height": 12
+    },
+    "colorCode": "#192B89",
+    "mysekaiFixtureMainGenreId": 33,
+    "mysekaiFixtureHandleType": "light",
+    "mysekaiSettableSiteType": "home",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "none",
+    "mysekaiFixtureAnotherColors": [
+      {
+        "textureId": 2,
+        "colorCode": "#027700"
+      },
+      {
+        "textureId": 3,
+        "colorCode": "#222222"
+      }
+    ],
+    "mysekaiFixturePutSoundId": 6,
+    "mysekaiFixtureTagGroup": {
+      "id": 1147,
+      "mysekaiFixtureTagId1": 11080,
+      "mysekaiFixtureTagId2": 97
+    },
+    "isAssembled": true,
+    "isDisassembled": true,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": true,
+    "assetbundleName": "mdl_ext0025_fixture_boutique1",
+    "firstPutCost": 185,
+    "secondPutCost": 50
+  },
+  {
+    "id": 1148,
+    "mysekaiFixtureType": "normal",
+    "name": "クラシカルアベニューのカフェ",
+    "pronunciation": "くらしかるあべにゅーのかふぇ",
+    "flavorText": "クラシカルアベニューのカフェ",
+    "seq": 30025003,
+    "gridSize": {
+      "width": 8,
+      "depth": 8,
+      "height": 12
+    },
+    "colorCode": "#1B90D2",
+    "mysekaiFixtureMainGenreId": 33,
+    "mysekaiFixtureHandleType": "light",
+    "mysekaiSettableSiteType": "home",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "none",
+    "mysekaiFixtureAnotherColors": [
+      {
+        "textureId": 2,
+        "colorCode": "#C3944D"
+      },
+      {
+        "textureId": 3,
+        "colorCode": "#222222"
+      }
+    ],
+    "mysekaiFixturePutSoundId": 6,
+    "mysekaiFixtureTagGroup": {
+      "id": 1148,
+      "mysekaiFixtureTagId1": 11081,
+      "mysekaiFixtureTagId2": 97
+    },
+    "isAssembled": true,
+    "isDisassembled": true,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": true,
+    "assetbundleName": "mdl_ext0025_fixture_cafe1",
+    "firstPutCost": 180,
+    "secondPutCost": 45
+  },
+  {
+    "id": 1149,
+    "mysekaiFixtureType": "normal",
+    "name": "クラシカルアベニューの電話ボックス",
+    "pronunciation": "くらしかるあべにゅーのでんわぼっくす",
+    "flavorText": "クラシカルアベニューの電話ボックス",
+    "seq": 30025004,
+    "gridSize": {
+      "width": 3,
+      "depth": 3,
+      "height": 6
+    },
+    "colorCode": "#CA2828",
+    "mysekaiFixtureMainGenreId": 2,
+    "mysekaiFixtureSubGenreId": 8,
+    "mysekaiFixtureHandleType": "light",
+    "mysekaiSettableSiteType": "any",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "none",
+    "mysekaiFixtureAnotherColors": [
+      {
+        "textureId": 2,
+        "colorCode": "#F9F7F1"
+      },
+      {
+        "textureId": 3,
+        "colorCode": "#222222"
+      }
+    ],
+    "mysekaiFixturePutSoundId": 4,
+    "mysekaiFixtureTagGroup": {
+      "id": 1149,
+      "mysekaiFixtureTagId1": 11082,
+      "mysekaiFixtureTagId2": 97
+    },
+    "isAssembled": true,
+    "isDisassembled": true,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_ext0025_fixture_phonebooth1",
+    "firstPutCost": 50,
+    "secondPutCost": 2
+  },
+  {
+    "id": 1150,
+    "mysekaiFixtureType": "normal",
+    "name": "クラシカルアベニューの橋",
+    "pronunciation": "くらしかるあべにゅーのはし",
+    "flavorText": "クラシカルアベニューの橋",
+    "seq": 30025005,
+    "gridSize": {
+      "width": 6,
+      "depth": 8,
+      "height": 3
+    },
+    "colorCode": "#824600",
+    "mysekaiFixtureMainGenreId": 2,
+    "mysekaiFixtureSubGenreId": 9,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "any",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "none",
+    "mysekaiFixtureAnotherColors": [
+      {
+        "textureId": 2,
+        "colorCode": "#F9F7F1"
+      },
+      {
+        "textureId": 3,
+        "colorCode": "#8D8C96"
+      }
+    ],
+    "mysekaiFixturePutSoundId": 6,
+    "mysekaiFixtureFootstepId": 7,
+    "mysekaiFixtureTagGroup": {
+      "id": 1150,
+      "mysekaiFixtureTagId1": 11083,
+      "mysekaiFixtureTagId2": 97
+    },
+    "isAssembled": true,
+    "isDisassembled": true,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_ext0025_fixture_bridge1",
+    "firstPutCost": 35,
+    "secondPutCost": 20
+  },
+  {
+    "id": 1151,
+    "mysekaiFixtureType": "normal",
+    "name": "クラシカルアベニューのたる",
+    "pronunciation": "くらしかるあべにゅーのたる",
+    "flavorText": "クラシカルアベニューのたる",
+    "seq": 30025006,
+    "gridSize": {
+      "width": 2,
+      "depth": 2,
+      "height": 2
+    },
+    "colorCode": "#824600",
+    "mysekaiFixtureMainGenreId": 2,
+    "mysekaiFixtureSubGenreId": 9,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "any",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "put_base",
+    "mysekaiFixtureAnotherColors": [
+      {
+        "textureId": 2,
+        "colorCode": "#E0B16A"
+      },
+      {
+        "textureId": 3,
+        "colorCode": "#8D8C96"
+      }
+    ],
+    "mysekaiFixturePutSoundId": 2,
+    "mysekaiFixtureTagGroup": {
+      "id": 1151,
+      "mysekaiFixtureTagId1": 11084,
+      "mysekaiFixtureTagId2": 97
+    },
+    "isAssembled": true,
+    "isDisassembled": true,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_ext0025_fixture_barrel1",
+    "firstPutCost": 30,
+    "secondPutCost": 2
+  },
+  {
+    "id": 1152,
+    "mysekaiFixtureType": "normal",
+    "name": "クラシカルアベニューのカフェテーブル",
+    "pronunciation": "くらしかるあべにゅーのかふぇてーぶる",
+    "flavorText": "クラシカルアベニューのカフェテーブル",
+    "seq": 30025007,
+    "gridSize": {
+      "width": 2,
+      "depth": 2,
+      "height": 2
+    },
+    "colorCode": "#FFC2C2",
+    "mysekaiFixtureMainGenreId": 2,
+    "mysekaiFixtureSubGenreId": 3,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "any",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "put_base",
+    "mysekaiFixtureAnotherColors": [
+      {
+        "textureId": 2,
+        "colorCode": "#B2CCFF"
+      },
+      {
+        "textureId": 3,
+        "colorCode": "#FFDEAD"
+      }
+    ],
+    "mysekaiFixturePutSoundId": 2,
+    "mysekaiFixtureTagGroup": {
+      "id": 1152,
+      "mysekaiFixtureTagId1": 11085,
+      "mysekaiFixtureTagId2": 97
+    },
+    "isAssembled": true,
+    "isDisassembled": true,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_ext0025_fixture_table1",
+    "firstPutCost": 30,
+    "secondPutCost": 20
+  },
+  {
+    "id": 1153,
+    "mysekaiFixtureType": "normal",
+    "name": "クラシカルアベニューのカフェチェア",
+    "pronunciation": "くらしかるあべにゅーのかふぇちぇあ",
+    "flavorText": "クラシカルアベニューのカフェチェア",
+    "seq": 30025008,
+    "gridSize": {
+      "width": 2,
+      "depth": 2,
+      "height": 2
+    },
+    "mysekaiFixtureMainGenreId": 2,
+    "mysekaiFixtureSubGenreId": 4,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "any",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "none",
+    "mysekaiFixtureAnotherColors": [],
+    "mysekaiFixturePutSoundId": 1,
+    "mysekaiFixtureTagGroup": {
+      "id": 1153,
+      "mysekaiFixtureTagId1": 11086,
+      "mysekaiFixtureTagId2": 97
+    },
+    "isAssembled": true,
+    "isDisassembled": true,
+    "mysekaiFixturePlayerActionType": "timeline",
+    "isGameCharacterAction": true,
+    "assetbundleName": "mdl_ext0025_fixture_highchair1",
+    "firstPutCost": 20,
+    "secondPutCost": 2
+  },
+  {
+    "id": 1154,
+    "mysekaiFixtureType": "normal",
+    "name": "クラシカルアベニューのパン",
+    "pronunciation": "くらしかるあべにゅーのぱん",
+    "flavorText": "クラシカルアベニューのパン",
+    "seq": 30025009,
+    "gridSize": {
+      "width": 2,
+      "depth": 2,
+      "height": 1
+    },
+    "mysekaiFixtureMainGenreId": 3,
+    "mysekaiFixtureSubGenreId": 13,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "any",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "put_target",
+    "mysekaiFixtureAnotherColors": [],
+    "mysekaiFixturePutSoundId": 7,
+    "mysekaiFixtureTagGroup": {
+      "id": 1154,
+      "mysekaiFixtureTagId1": 11087,
+      "mysekaiFixtureTagId2": 97
+    },
+    "isAssembled": true,
+    "isDisassembled": true,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_ext0025_fixture_baguette1",
+    "firstPutCost": 25,
+    "secondPutCost": 2
+  },
+  {
+    "id": 1155,
+    "mysekaiFixtureType": "normal",
+    "name": "クラシカルアベニューの石畳ラグ",
+    "pronunciation": "くらしかるあべにゅーのいしだたみらぐ",
+    "flavorText": "クラシカルアベニューの石畳ラグ",
+    "seq": 30025010,
+    "gridSize": {
+      "width": 4,
+      "depth": 4,
+      "height": 1
+    },
+    "mysekaiFixtureMainGenreId": 9,
+    "mysekaiFixtureSubGenreId": 21,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "any",
+    "mysekaiSettableLayoutType": "rug",
+    "mysekaiFixturePutType": "none",
+    "mysekaiFixtureAnotherColors": [],
+    "mysekaiFixturePutSoundId": 10,
+    "mysekaiFixtureFootstepId": 7,
+    "mysekaiFixtureTagGroup": {
+      "id": 1155,
+      "mysekaiFixtureTagId1": 11088,
+      "mysekaiFixtureTagId2": 97
+    },
+    "isAssembled": true,
+    "isDisassembled": true,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_ext0025_rug_rug1",
+    "firstPutCost": 15,
+    "secondPutCost": 2
+  },
+  {
     "id": 1156,
     "mysekaiFixtureType": "normal",
     "name": "[リミテッドスタイル vol.3] 一歌のぬいぐるみ\/S",

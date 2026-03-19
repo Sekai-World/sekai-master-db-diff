@@ -16657,5 +16657,143 @@
     "eventMissionSelectableRewardGroupId": 1,
     "sentence": "7つのミッションを全て達成しよう。",
     "rewards": []
+  },
+  {
+    "id": 945,
+    "eventId": 199,
+    "seq": 1,
+    "eventMissionType": "live_clear_daily",
+    "eventMissionCategory": "normal",
+    "requirement1": 9,
+    "sentence": "累計9日ライブを1日1回クリアしよう。",
+    "rewards": [
+      {
+        "id": 17165,
+        "missionType": "event_mission",
+        "missionId": 945,
+        "seq": 1,
+        "resourceBoxId": 8002
+      }
+    ]
+  },
+  {
+    "id": 946,
+    "eventId": 199,
+    "seq": 2,
+    "eventMissionType": "any_live_clear",
+    "eventMissionCategory": "normal",
+    "requirement1": 50,
+    "sentence": "ライブを50回クリアしよう。",
+    "rewards": [
+      {
+        "id": 17166,
+        "missionType": "event_mission",
+        "missionId": 946,
+        "seq": 1,
+        "resourceBoxId": 8002
+      }
+    ]
+  },
+  {
+    "id": 947,
+    "eventId": 199,
+    "seq": 3,
+    "eventMissionType": "live_clear_full_combo",
+    "eventMissionCategory": "normal",
+    "requirement1": 10,
+    "sentence": "ライブで楽曲をフルコンボで10回クリアしよう。",
+    "rewards": [
+      {
+        "id": 17167,
+        "missionType": "event_mission",
+        "missionId": 947,
+        "seq": 1,
+        "resourceBoxId": 8002
+      }
+    ]
+  },
+  {
+    "id": 948,
+    "eventId": 199,
+    "seq": 4,
+    "eventMissionType": "live_clear_different_music",
+    "eventMissionCategory": "normal",
+    "requirement1": 10,
+    "requirement2": 1,
+    "sentence": "ライブで10種類の楽曲をクリアしよう。",
+    "rewards": [
+      {
+        "id": 17168,
+        "missionType": "event_mission",
+        "missionId": 948,
+        "seq": 1,
+        "resourceBoxId": 8002
+      }
+    ]
+  },
+  {
+    "id": 949,
+    "eventId": 199,
+    "seq": 5,
+    "eventMissionType": "read_last_event_story_episode",
+    "eventMissionCategory": "normal",
+    "requirement1": 1,
+    "sentence": "イベント「Amid the Wavering Light」のイベントストーリー第8話を読もう。",
+    "rewards": [
+      {
+        "id": 17169,
+        "missionType": "event_mission",
+        "missionId": 949,
+        "seq": 1,
+        "resourceBoxId": 8002
+      }
+    ]
+  },
+  {
+    "id": 950,
+    "eventId": 199,
+    "seq": 6,
+    "eventMissionType": "consume_event_item",
+    "eventMissionCategory": "normal",
+    "requirement1": 20000,
+    "sentence": "イベント「Amid the Wavering Light」の交換所でバッジを20000個消費しよう。",
+    "rewards": [
+      {
+        "id": 17170,
+        "missionType": "event_mission",
+        "missionId": 950,
+        "seq": 1,
+        "resourceBoxId": 8002
+      }
+    ]
+  },
+  {
+    "id": 951,
+    "eventId": 199,
+    "seq": 7,
+    "eventMissionType": "join_virtual_live",
+    "eventMissionCategory": "normal",
+    "requirement1": 1,
+    "sentence": "「Amid the Wavering Light アフターライブ」に参加しよう。",
+    "rewards": [
+      {
+        "id": 17171,
+        "missionType": "event_mission",
+        "missionId": 951,
+        "seq": 1,
+        "resourceBoxId": 8002
+      }
+    ]
+  },
+  {
+    "id": 952,
+    "eventId": 199,
+    "seq": 8,
+    "eventMissionType": "achieve_event_mission",
+    "eventMissionCategory": "complete_selectable_reward",
+    "requirement1": 7,
+    "eventMissionSelectableRewardGroupId": 1,
+    "sentence": "7つのミッションを全て達成しよう。",
+    "rewards": []
   }
 ]
