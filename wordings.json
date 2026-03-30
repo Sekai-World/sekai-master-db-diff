@@ -684,8 +684,20 @@
     "value": "以下のミッションを達成し、アイテムを受け取りました。"
   },
   {
+    "wordingKey": "MSG_CHARACTER_SELECTING_CAUTION",
+    "value": "※設定後は提供キャラクターを変更することができません。"
+  },
+  {
+    "wordingKey": "MSG_CHARACTER_SELECTING_CONFIRM",
+    "value": "このキャラクターを設定します。\n選んだキャラクターのみがガチャから提供されます。\nよろしいですか？"
+  },
+  {
     "wordingKey": "MSG_CHARACTER_SELECT_DESCRIPTION",
     "value": "キャラクターを選択してください"
+  },
+  {
+    "wordingKey": "MSG_CHARACTER_SELECT_GACHA_DESCRIPTION",
+    "value": "キャラクターを1人選んでください。\n選んだキャラクターのみガチャから提供されます。"
   },
   {
     "wordingKey": "MSG_CHARA_MATERIAL_DROP",
@@ -1490,6 +1502,14 @@
   {
     "wordingKey": "MSG_EX_MISSION_LOOPS_INFORMATION",
     "value": "EXミッション {0}回目"
+  },
+  {
+    "wordingKey": "MSG_FAVORITE_CHARACTER_GACHA_CAUTION",
+    "value": "<color=#ff3366>※選択されたキャラクターのメンバーのみが登場します。 \n各メンバーの排出確率はキャラクター選択後に決まります。<\/color>"
+  },
+  {
+    "wordingKey": "MSG_FAVORITE_CHARACTER_SELECT_CANCEL",
+    "value": "キャラクターが未決定です。\n提供されるキャラクターを設定するまで\n{0}\nを引くことができません。\nキャラクターをあとで設定しますか？"
   },
   {
     "wordingKey": "MSG_FAVORITE_COMMENT_INFORMATION",
@@ -3484,6 +3504,34 @@
     "value": "ランクマッチ機能の解放は3月30日 18:00予定です。\n今しばらくお待ち下さい。"
   },
   {
+    "wordingKey": "MSG_RATE_CHOICE_GACHA_RATE_NOTICE",
+    "value": "・★4メンバーの確率はピックアップリストに全て選択した際の確率を表記しております。そのため、合計が100%にならない場合がございます。\n・ピックアップリストに選択されると「★★★★メンバー」の一覧から「★★★★ピックアップメンバー」の一覧に移動します。"
+  },
+  {
+    "wordingKey": "MSG_RATE_CHOICE_GACHA_REGISTER_CAUTION",
+    "value": "※設定後はリストのメンバーを変更することができません。"
+  },
+  {
+    "wordingKey": "MSG_RATE_CHOICE_GACHA_REGISTER_CONFIRM",
+    "value": "メンバーを設定します。よろしいですか？"
+  },
+  {
+    "wordingKey": "MSG_RATE_CHOICE_GACHA_SELECTED_RATE_NOTICE",
+    "value": "ピックアップリストで選択されたメンバーが、ピックアップ確率で登場します。"
+  },
+  {
+    "wordingKey": "MSG_RATE_CHOICE_GACHA_SELECTION_CARD_NUMBER",
+    "value": "好きなメンバーを下から{0}人選んでください"
+  },
+  {
+    "wordingKey": "MSG_RATE_CHOICE_GACHA_SELECT_MEMBER_BALLOON",
+    "value": "まずはメンバーを選ぼう！"
+  },
+  {
+    "wordingKey": "MSG_RATE_CHOICE_GACHA_UNDECIDED_CONFIRM",
+    "value": "メンバーが未決定です。\nリストに全員設定するまで、\n{0}\nを引くことができません。\nピックアップリストをあとで設定しますか？"
+  },
+  {
     "wordingKey": "MSG_RATING",
     "value": "『プロジェクトセカイ』を\n遊んでいただきありがとうございます！\n\n皆様にさらに楽しんでいただけるように、\n今後もアップデートを行ってまいりますのでご期待ください。\n\nここまでゲームはお楽しみいただけましたか？"
   },
@@ -3726,6 +3774,10 @@
   {
     "wordingKey": "MSG_SELECT_ACTION_FROM_BELOW",
     "value": "設定したいアクションを下から選んでください"
+  },
+  {
+    "wordingKey": "MSG_SELECT_CHARACTER_BALLOON",
+    "value": "まずはキャラクターを選ぼう！"
   },
   {
     "wordingKey": "MSG_SELECT_CLEANUP",
@@ -4074,6 +4126,10 @@
   {
     "wordingKey": "MSG_TOTAL_LIVE_POINT",
     "value": "今月の累計ライブP♪"
+  },
+  {
+    "wordingKey": "MSG_TOTAL_POWER_DETAIL_EVENT_LIMIT_CAUTION",
+    "value": "※イベント開催中、発揮可能な総合力は{0}までに制限されます。"
   },
   {
     "wordingKey": "MSG_TOTAL_POWER_SETTING_ERROR",
@@ -5500,6 +5556,26 @@
     "value": "後編"
   },
   {
+    "wordingKey": "WORD_CARD_FILTER_DIALOG_CARD_TYPE_BLOOM_FESTIVAL",
+    "value": "ブルフェス限定"
+  },
+  {
+    "wordingKey": "WORD_CARD_FILTER_DIALOG_CARD_TYPE_COLORFUL_FESTIVAL",
+    "value": "カラフェス限定"
+  },
+  {
+    "wordingKey": "WORD_CARD_FILTER_DIALOG_CARD_TYPE_NORMAL",
+    "value": "恒常"
+  },
+  {
+    "wordingKey": "WORD_CARD_FILTER_DIALOG_CARD_TYPE_TERM_LIMITED",
+    "value": "期間限定"
+  },
+  {
+    "wordingKey": "WORD_CARD_FILTER_DIALOG_CARD_TYPE_UNIT_EVENT",
+    "value": "ユニイベ限定"
+  },
+  {
     "wordingKey": "WORD_CARD_LIST_FILTER",
     "value": "メンバー絞り込み"
   },
@@ -5514,6 +5590,10 @@
   {
     "wordingKey": "WORD_CARD_RELEASE_CONDITION_FORMAT",
     "value": "「{0} {1}」を入手"
+  },
+  {
+    "wordingKey": "WORD_CARD_SELECT_DIALOG_CARD_EMPTY",
+    "value": "---"
   },
   {
     "wordingKey": "WORD_CARD_SORT",
@@ -6564,6 +6644,10 @@
     "value": "総合力"
   },
   {
+    "wordingKey": "WORD_DECK_TOTAL_POWER_LIMITE",
+    "value": "イベント制限"
+  },
+  {
     "wordingKey": "WORD_DEFAULT",
     "value": "デフォルト"
   },
@@ -7206,6 +7290,10 @@
   {
     "wordingKey": "WORD_FAVORITE",
     "value": "お気に入り"
+  },
+  {
+    "wordingKey": "WORD_FAVORITE_CHARACTER_GACHA_DETAIL_TITLE",
+    "value": "セレクトキャラクター"
   },
   {
     "wordingKey": "WORD_FAVORITE_COMMENT",
@@ -10838,6 +10926,18 @@
   {
     "wordingKey": "WORD_RARITY_MEMBER_4",
     "value": "★★★★メンバー"
+  },
+  {
+    "wordingKey": "WORD_RATE_CHOICE_GACHA_SELECT_MEMBER_HEADER_MAIN",
+    "value": "メイン"
+  },
+  {
+    "wordingKey": "WORD_RATE_CHOICE_GACHA_SELECT_MEMBER_HEADER_SUB",
+    "value": "サブ"
+  },
+  {
+    "wordingKey": "WORD_RATE_CHOICE_GACHA_SELECT_MEMBER_SORTING",
+    "value": "並び替え"
   },
   {
     "wordingKey": "WORD_RATING_TITLE",
