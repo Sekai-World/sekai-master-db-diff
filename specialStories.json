@@ -1477,5 +1477,52 @@
         "rewardResourceBoxIds": []
       }
     ]
+  },
+  {
+    "id": 64,
+    "seq": 1,
+    "title": "エイプリルフール2026導入ムービー",
+    "assetbundleName": "aprilfool-story-2026",
+    "startAt": 1774969200000,
+    "endAt": 1775055599000,
+    "episodes": [
+      {
+        "id": 69,
+        "specialStoryId": 64,
+        "episodeNo": 1,
+        "title": "エイプリルフール2026導入ムービー",
+        "specialStoryEpisodeType": "area",
+        "specialStoryEpisodeTypeId": 28,
+        "assetbundleName": "story_aprilfool_2026",
+        "scenarioId": "aprilfool_2026_01",
+        "releaseConditionId": 1,
+        "isAbleSkip": true,
+        "isActionSetRefresh": true,
+        "rewardResourceBoxIds": []
+      }
+    ]
+  },
+  {
+    "id": 65,
+    "seq": 1,
+    "title": "エイプリルフール2026後日談ムービー",
+    "assetbundleName": "aprilfool-story-2026",
+    "startAt": 1775055600000,
+    "endAt": 1775141999000,
+    "episodes": [
+      {
+        "id": 70,
+        "specialStoryId": 65,
+        "episodeNo": 1,
+        "title": "エイプリルフール2026後日談ムービー",
+        "specialStoryEpisodeType": "none",
+        "assetbundleName": "story_aprilfool_2026",
+        "scenarioId": "aprilfool_2026_02",
+        "releaseConditionId": 1000400,
+        "isAbleSkip": true,
+        "isActionSetRefresh": true,
+        "rewardResourceBoxIds": []
+      }
+    ]
   }
 ]
