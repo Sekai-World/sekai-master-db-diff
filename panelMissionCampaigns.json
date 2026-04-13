@@ -27566,5 +27566,332 @@
         ]
       }
     ]
+  },
+  {
+    "id": 14,
+    "name": "[プロセカ×あんさんぶるスターズ！！]コラボ記念スタンプミッション",
+    "assetbundleName": "ensemble_collab_2026_pm",
+    "bgmAssetbundleName": "ensemble_collab_2026_pm_bgm",
+    "selectableLimit": 2,
+    "startAt": 1776049200000,
+    "progressEndAt": 1777301999000,
+    "closedAt": 1777301999000,
+    "distributionEndAt": 1778511599000,
+    "informationId": 6025,
+    "panelMissionSelectionType": "auto",
+    "panelMissionSheetGroups": [
+      {
+        "id": 1401,
+        "panelMissionCampaignId": 14,
+        "name": "楽曲",
+        "selectableLimit": 1,
+        "seq": 1,
+        "panelMissionSheets": [
+          {
+            "id": 140101,
+            "panelMissionSheetGroupId": 1401,
+            "name": "楽曲カード",
+            "seq": 1,
+            "assetbundleName": "sheet_ensemble_collab_music",
+            "panelMissions": [
+              {
+                "id": 14010101,
+                "panelMissionSheetId": 140101,
+                "name": "楽曲\n「フュージョン」を\n1回クリア",
+                "description": "楽曲「フュージョン」を1回クリアしよう。",
+                "seq": 1,
+                "panelMissionType": "live_clear_in_music",
+                "requirement1": 1,
+                "rewards": [
+                  {
+                    "id": 17794,
+                    "missionType": "panel_mission",
+                    "missionId": 14010101,
+                    "seq": 1,
+                    "resourceBoxId": 1883
+                  }
+                ]
+              },
+              {
+                "id": 14010102,
+                "panelMissionSheetId": 140101,
+                "name": "3種類の楽曲を\nクリア",
+                "description": "3種類の楽曲をクリアしよう。\n※オートライブでもカウントされます。",
+                "seq": 2,
+                "panelMissionType": "live_clear_with_different_music",
+                "requirement1": 3,
+                "requirement2": 1,
+                "rewards": [
+                  {
+                    "id": 17795,
+                    "missionType": "panel_mission",
+                    "missionId": 14010102,
+                    "seq": 1,
+                    "resourceBoxId": 1883
+                  }
+                ]
+              },
+              {
+                "id": 14010103,
+                "panelMissionSheetId": 140101,
+                "name": "5種類の楽曲を\nクリア",
+                "description": "5種類の楽曲をクリアしよう。\n※オートライブでもカウントされます。",
+                "seq": 3,
+                "panelMissionType": "live_clear_with_different_music",
+                "requirement1": 5,
+                "requirement2": 1,
+                "rewards": [
+                  {
+                    "id": 17796,
+                    "missionType": "panel_mission",
+                    "missionId": 14010103,
+                    "seq": 1,
+                    "resourceBoxId": 1883
+                  }
+                ]
+              },
+              {
+                "id": 14010104,
+                "panelMissionSheetId": 140101,
+                "name": "10種類の楽曲を\nクリア",
+                "description": "10種類の楽曲をクリアしよう。\n※オートライブでもカウントされます。",
+                "seq": 4,
+                "panelMissionType": "live_clear_with_different_music",
+                "requirement1": 10,
+                "requirement2": 1,
+                "rewards": [
+                  {
+                    "id": 17797,
+                    "missionType": "panel_mission",
+                    "missionId": 14010104,
+                    "seq": 1,
+                    "resourceBoxId": 1883
+                  }
+                ]
+              },
+              {
+                "id": 14010105,
+                "panelMissionSheetId": 140101,
+                "name": "15種類の楽曲を\nクリア",
+                "description": "15種類の楽曲をクリアしよう。\n※オートライブでもカウントされます。",
+                "seq": 5,
+                "panelMissionType": "live_clear_with_different_music",
+                "requirement1": 15,
+                "requirement2": 1,
+                "rewards": [
+                  {
+                    "id": 17798,
+                    "missionType": "panel_mission",
+                    "missionId": 14010105,
+                    "seq": 1,
+                    "resourceBoxId": 1883
+                  }
+                ]
+              },
+              {
+                "id": 14010106,
+                "panelMissionSheetId": 140101,
+                "name": "20種類の楽曲を\nクリア",
+                "description": "20種類の楽曲をクリアしよう。\n※オートライブでもカウントされます。",
+                "seq": 6,
+                "panelMissionType": "live_clear_with_different_music",
+                "requirement1": 20,
+                "requirement2": 1,
+                "rewards": [
+                  {
+                    "id": 17799,
+                    "missionType": "panel_mission",
+                    "missionId": 14010106,
+                    "seq": 1,
+                    "resourceBoxId": 1883
+                  }
+                ]
+              },
+              {
+                "id": 14010107,
+                "panelMissionSheetId": 140101,
+                "name": "25種類の楽曲を\nクリア",
+                "description": "25種類の楽曲をクリアしよう。\n※オートライブでもカウントされます。",
+                "seq": 7,
+                "panelMissionType": "live_clear_with_different_music",
+                "requirement1": 25,
+                "requirement2": 1,
+                "rewards": [
+                  {
+                    "id": 17800,
+                    "missionType": "panel_mission",
+                    "missionId": 14010107,
+                    "seq": 1,
+                    "resourceBoxId": 1883
+                  }
+                ]
+              }
+            ],
+            "rewards": [
+              {
+                "id": 17801,
+                "missionType": "panel_mission_complete",
+                "missionId": 140101,
+                "seq": 1,
+                "resourceBoxId": 2035
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 1402,
+        "panelMissionCampaignId": 14,
+        "name": "マイセカイ",
+        "selectableLimit": 1,
+        "seq": 2,
+        "panelMissionSheets": [
+          {
+            "id": 140201,
+            "panelMissionSheetGroupId": 1402,
+            "name": "マイセカイカード",
+            "seq": 1,
+            "assetbundleName": "sheet_ensemble_collab_mysekai",
+            "panelMissions": [
+              {
+                "id": 14020101,
+                "panelMissionSheetId": 140201,
+                "name": "マイセカイで素材を\n10個採取",
+                "description": "マイセカイで素材を10個採取しよう。",
+                "seq": 1,
+                "panelMissionType": "mysekai_gather_any_mysekai_material",
+                "requirement1": 10,
+                "rewards": [
+                  {
+                    "id": 17802,
+                    "missionType": "panel_mission",
+                    "missionId": 14020101,
+                    "seq": 1,
+                    "resourceBoxId": 1883
+                  }
+                ]
+              },
+              {
+                "id": 14020102,
+                "panelMissionSheetId": 140201,
+                "name": "マイセカイで素材を\n50個採取",
+                "description": "マイセカイで素材を50個採取しよう。",
+                "seq": 2,
+                "panelMissionType": "mysekai_gather_any_mysekai_material",
+                "requirement1": 50,
+                "rewards": [
+                  {
+                    "id": 17803,
+                    "missionType": "panel_mission",
+                    "missionId": 14020102,
+                    "seq": 1,
+                    "resourceBoxId": 1883
+                  }
+                ]
+              },
+              {
+                "id": 14020103,
+                "panelMissionSheetId": 140201,
+                "name": "マイセカイで素材を\n100個採取",
+                "description": "マイセカイで素材を100個採取しよう。",
+                "seq": 3,
+                "panelMissionType": "mysekai_gather_any_mysekai_material",
+                "requirement1": 100,
+                "rewards": [
+                  {
+                    "id": 17804,
+                    "missionType": "panel_mission",
+                    "missionId": 14020103,
+                    "seq": 1,
+                    "resourceBoxId": 1883
+                  }
+                ]
+              },
+              {
+                "id": 14020104,
+                "panelMissionSheetId": 140201,
+                "name": "マイセカイで素材を\n300個採取",
+                "description": "マイセカイで素材を300個採取しよう。",
+                "seq": 4,
+                "panelMissionType": "mysekai_gather_any_mysekai_material",
+                "requirement1": 300,
+                "rewards": [
+                  {
+                    "id": 17805,
+                    "missionType": "panel_mission",
+                    "missionId": 14020104,
+                    "seq": 1,
+                    "resourceBoxId": 1883
+                  }
+                ]
+              },
+              {
+                "id": 14020105,
+                "panelMissionSheetId": 140201,
+                "name": "マイセカイで素材を\n500個採取",
+                "description": "マイセカイで素材を500個採取しよう。",
+                "seq": 5,
+                "panelMissionType": "mysekai_gather_any_mysekai_material",
+                "requirement1": 500,
+                "rewards": [
+                  {
+                    "id": 17806,
+                    "missionType": "panel_mission",
+                    "missionId": 14020105,
+                    "seq": 1,
+                    "resourceBoxId": 1883
+                  }
+                ]
+              },
+              {
+                "id": 14020106,
+                "panelMissionSheetId": 140201,
+                "name": "マイセカイで素材を\n700個採取",
+                "description": "マイセカイで素材を700個採取しよう。",
+                "seq": 6,
+                "panelMissionType": "mysekai_gather_any_mysekai_material",
+                "requirement1": 700,
+                "rewards": [
+                  {
+                    "id": 17807,
+                    "missionType": "panel_mission",
+                    "missionId": 14020106,
+                    "seq": 1,
+                    "resourceBoxId": 1883
+                  }
+                ]
+              },
+              {
+                "id": 14020107,
+                "panelMissionSheetId": 140201,
+                "name": "マイセカイで素材を\n1000個採取",
+                "description": "マイセカイで素材を1000個採取しよう。",
+                "seq": 7,
+                "panelMissionType": "mysekai_gather_any_mysekai_material",
+                "requirement1": 1000,
+                "rewards": [
+                  {
+                    "id": 17808,
+                    "missionType": "panel_mission",
+                    "missionId": 14020107,
+                    "seq": 1,
+                    "resourceBoxId": 1883
+                  }
+                ]
+              }
+            ],
+            "rewards": [
+              {
+                "id": 17809,
+                "missionType": "panel_mission_complete",
+                "missionId": 140201,
+                "seq": 1,
+                "resourceBoxId": 2036
+              }
+            ]
+          }
+        ]
+      }
+    ]
   }
 ]
