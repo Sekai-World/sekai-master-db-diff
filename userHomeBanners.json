@@ -11,28 +11,6 @@
     "url": "https:\/\/pjsekai.sega.jp\/index.html"
   },
   {
-    "homeBannerId": 1547,
-    "seq": 180,
-    "homeBannerType": "general",
-    "name": "[ガチャ]ビビバス箱イベ_ガチャバナー",
-    "assetbundleName": "banner_gacha930",
-    "transitionDestinationType": "gacha",
-    "transitionDestinationId": 930,
-    "startAt": 1775703600000,
-    "endAt": 1776481199000
-  },
-  {
-    "homeBannerId": 1548,
-    "seq": 170,
-    "homeBannerType": "event",
-    "name": "[イベント]ビビバス箱イベ_イベントバナー",
-    "assetbundleName": "event_show_2026",
-    "transitionDestinationType": "event",
-    "transitionDestinationId": 201,
-    "startAt": 1775714400000,
-    "endAt": 1776509999000
-  },
-  {
     "homeBannerId": 1551,
     "seq": 190,
     "homeBannerType": "general",
@@ -86,5 +64,27 @@
     "transitionDestinationId": 686,
     "startAt": 1776049200000,
     "endAt": 1777301999000
+  },
+  {
+    "homeBannerId": 1556,
+    "seq": 110,
+    "homeBannerType": "general",
+    "name": "[ガチャ]WL3part1イベ_定常ガチャバナー",
+    "assetbundleName": "banner_gacha937",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 937,
+    "startAt": 1776481200000,
+    "endAt": 1777517999000
+  },
+  {
+    "homeBannerId": 1557,
+    "seq": 100,
+    "homeBannerType": "event",
+    "name": "[イベント]WL3part1イベ_イベントバナー",
+    "assetbundleName": "event_wl_3rd_part1_2026",
+    "transitionDestinationType": "event",
+    "transitionDestinationId": 202,
+    "startAt": 1776510000000,
+    "endAt": 1777528799000
   }
 ]
