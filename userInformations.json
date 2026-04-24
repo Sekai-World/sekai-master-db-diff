@@ -682,19 +682,6 @@
     "endAt": 1777489200000
   },
   {
-    "id": 5961,
-    "seq": 1,
-    "displayOrder": 85515,
-    "informationType": "normal",
-    "informationTag": "update",
-    "browseType": "internal",
-    "platform": "all",
-    "title": " 【3月30日11時30分追記】「v6.4.0」アップデートとそれに伴うメンテナンス、およびデータ再ダウンロードに関するご案内",
-    "path": "information\/index.html?id=info_update_v6-4-0_forceupdate",
-    "startAt": 1774837800000,
-    "endAt": 1776884400000
-  },
-  {
     "id": 5962,
     "seq": 1,
     "displayOrder": 85610,
@@ -925,19 +912,6 @@
     "bannerAssetbundleName": "banner_news_event201"
   },
   {
-    "id": 6007,
-    "seq": 1,
-    "displayOrder": 85920,
-    "informationType": "normal",
-    "informationTag": "information",
-    "browseType": "internal",
-    "platform": "all",
-    "title": "3月25日配信「プロセカ放送局 5.5周年スペシャル」のチャレンジ達成報酬プレゼント！",
-    "path": "information\/index.html?id=info_x-post-present_20260325",
-    "startAt": 1775725200000,
-    "endAt": 1776884400000
-  },
-  {
     "id": 6008,
     "seq": 1,
     "displayOrder": 85930,
@@ -1165,7 +1139,8 @@
     "platform": "all",
     "title": "アプリバージョン「v6.4.1」までに確認している不具合について",
     "path": "information\/index.html?id=bug_summary_to_v6-4-1",
-    "startAt": 1776510000000
+    "startAt": 1776510000000,
+    "endAt": 1776996000000
   },
   {
     "id": 6038,
@@ -1236,17 +1211,31 @@
     "bannerAssetbundleName": "banner_livebroadcast_v2_notice"
   },
   {
-    "id": 6044,
+    "id": 6045,
     "seq": 1,
-    "displayOrder": 86260,
+    "displayOrder": 86290,
+    "informationType": "normal",
+    "informationTag": "gacha",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "予告、「ハピネスパッケージガチャ」開催について",
+    "path": "information\/index.html?id=info_gacha938_notice",
+    "startAt": 1776999600000,
+    "endAt": 1777086000000,
+    "bannerAssetbundleName": "banner_news_gacha938"
+  },
+  {
+    "id": 6046,
+    "seq": 1,
+    "displayOrder": 86300,
     "informationType": "normal",
     "informationTag": "music",
     "browseType": "internal",
     "platform": "all",
-    "title": "楽曲「Who?」追加！",
-    "path": "information\/index.html?id=info_music_20260420",
-    "startAt": 1776664800000,
-    "endAt": 1776884400000
+    "title": "楽曲「導火愛」追加！",
+    "path": "information\/index.html?id=info_music_20260424",
+    "startAt": 1777010400000,
+    "endAt": 1777230000000
   },
   {
     "id": 6053,
@@ -1272,5 +1261,30 @@
     "path": "information\/index.html?id=info_webradio_sekarazi_63_20260424",
     "startAt": 1776913200000,
     "endAt": 1777575600000
+  },
+  {
+    "id": 6085,
+    "seq": 1,
+    "displayOrder": 86280,
+    "informationType": "normal",
+    "informationTag": "information",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "GW期間「4月29日～5月6日」中のサポート対応について",
+    "path": "information\/index.html?id=info_support_GW2026",
+    "startAt": 1776999600000,
+    "endAt": 1778094000000
+  },
+  {
+    "id": 6086,
+    "seq": 1,
+    "displayOrder": 28730,
+    "informationType": "bug",
+    "informationTag": "bug",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "【4月24日11時00分追記】アプリバージョン「v6.4.1」までに確認している不具合について",
+    "path": "information\/index.html?id=bug_summary_to_v6-4-1_add1",
+    "startAt": 1776996000000
   }
 ]
