@@ -1436,6 +1436,14 @@
     "materialType": "common"
   },
   {
+    "id": 175,
+    "seq": 30002,
+    "name": "祝祭のあまつゆ（パッションイエロー）",
+    "flavorText": "咲希の誕生日をお祝いする花を育てるためのあまつゆ。\n※2026年バースデーイベントでのみ利用可能",
+    "canUse": false,
+    "materialType": "birthday_party_delivery"
+  },
+  {
     "id": 176,
     "seq": 30003,
     "name": "祝祭のあまつゆ（ポピーレッド）",
@@ -2192,6 +2200,14 @@
     "seq": 20004,
     "name": "インタビューご協力のお願い\n（※2月実施アンケートで協力可と回答された一部の方へ送信しています）",
     "flavorText": "インタビューにあらためてご協力いただける場合は、[サポート]＞[ご意見・ご要望]より「インタビュー参加可能」と本文に添えてメール送信をお願いいたします。\n※インタビューの詳細をメールで確認後、辞退することも可能です。\n※本メッセージやインタビュー内容をSNSで掲載するなど第三者への公開はお控えください。",
+    "canUse": false,
+    "materialType": "auto_exchange_music_vocal_ticket"
+  },
+  {
+    "id": 280,
+    "seq": 20005,
+    "name": "「コネクトライブ Parallel Paaaarty!!!!」コネクトライブver. ボーカル引き換えカード",
+    "flavorText": "「コネクトライブ Parallel Paaaarty!!!!」の公演内で披露された楽曲のコネクトライブver. ボーカルと引き換えることができる。",
     "canUse": false,
     "materialType": "auto_exchange_music_vocal_ticket"
   },

@@ -8011,5 +8011,94 @@
     ],
     "virtualShopType": "other",
     "virtualShopDisplayType": "out_of_scope"
+  },
+  {
+    "id": 320,
+    "seq": 320,
+    "name": "「コネクトライブ Parallel Paaaarty!!!!」チケットショップ",
+    "virtualLiveId": 467,
+    "virtualShopItems": [
+      {
+        "id": 518,
+        "virtualShopId": 320,
+        "virtualShopItemType": "premium_virtual_live_ticket",
+        "seq": 299975,
+        "resourceBoxId": 410,
+        "costPaidJewel": 6980,
+        "startAt": 1777615200000,
+        "endAt": 1778425199000,
+        "limitValue": 1
+      },
+      {
+        "id": 519,
+        "virtualShopId": 320,
+        "virtualShopItemType": "premium_virtual_live_ticket",
+        "seq": 299974,
+        "resourceBoxId": 411,
+        "costPaidJewel": 4980,
+        "startAt": 1777615200000,
+        "endAt": 1778425199000,
+        "limitValue": 1
+      },
+      {
+        "id": 520,
+        "virtualShopId": 320,
+        "virtualShopItemType": "premium_virtual_live_ticket",
+        "seq": 299973,
+        "resourceBoxId": 412,
+        "costPaidJewel": 2980,
+        "startAt": 1777615200000,
+        "endAt": 1778425199000,
+        "limitValue": 2
+      }
+    ],
+    "virtualShopType": "virtual_live_ticket",
+    "virtualShopDisplayType": "normal"
+  },
+  {
+    "id": 321,
+    "seq": 321,
+    "name": "「コネクトライブ Parallel Paaaarty!!!!」グッズショップ",
+    "virtualLiveId": 467,
+    "virtualShopItems": [
+      {
+        "id": 521,
+        "virtualShopId": 321,
+        "virtualShopItemType": "costume",
+        "seq": 99870,
+        "resourceBoxId": 413,
+        "costVirtualCoin": 3000,
+        "costJewel": 1000,
+        "startAt": 1777615200000,
+        "endAt": 1778565599000,
+        "limitValue": 1
+      },
+      {
+        "id": 522,
+        "virtualShopId": 321,
+        "virtualShopItemType": "costume",
+        "seq": 99871,
+        "resourceBoxId": 414,
+        "costVirtualCoin": 3000,
+        "costJewel": 1000,
+        "startAt": 1777615200000,
+        "endAt": 1778565599000,
+        "limitValue": 1
+      },
+      {
+        "id": 523,
+        "virtualShopId": 321,
+        "virtualShopItemType": "accessory",
+        "seq": 99868,
+        "resourceBoxId": 415,
+        "costVirtualCoin": 3000,
+        "costJewel": 1000,
+        "startAt": 1777615200000,
+        "endAt": 1778565599000,
+        "limitValue": 1
+      }
+    ],
+    "virtualShopType": "other",
+    "virtualShopDisplayType": "out_of_scope"
   }
 ]

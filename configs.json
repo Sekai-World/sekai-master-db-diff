@@ -341,7 +341,7 @@
   },
   {
     "configKey": "event_score_ceiling",
-    "value": "4500000"
+    "value": "5500000"
   },
   {
     "configKey": "develop_virtual_live_max_connection",
@@ -1042,5 +1042,117 @@
   {
     "configKey": "challenge_live_limited_term_score_rank_reward_rate",
     "value": "3"
+  },
+  {
+    "configKey": "custom_music_score_title_max_length",
+    "value": "16"
+  },
+  {
+    "configKey": "custom_music_score_description_max_length",
+    "value": "50"
+  },
+  {
+    "configKey": "custom_music_score_draft_title_max_length",
+    "value": "16"
+  },
+  {
+    "configKey": "custom_music_score_draft_memo_max_length",
+    "value": "50"
+  },
+  {
+    "configKey": "custom_music_score_draft_max_slot_count_base",
+    "value": "30"
+  },
+  {
+    "configKey": "custom_music_score_s3_path_prefix",
+    "value": "blob\/custom-music-score\/full"
+  },
+  {
+    "configKey": "custom_music_score_preview_s3_path_prefix",
+    "value": "blob\/custom-music-score\/preview"
+  },
+  {
+    "configKey": "custom_music_score_tag_count_min",
+    "value": "1"
+  },
+  {
+    "configKey": "custom_music_score_tag_count_max",
+    "value": "3"
+  },
+  {
+    "configKey": "custom_music_score_published_count_limit",
+    "value": "200"
+  },
+  {
+    "configKey": "custom_music_score_read_gzip_buffer_size_byte",
+    "value": "4096"
+  },
+  {
+    "configKey": "custom_music_score_bookmark_limit",
+    "value": "30"
+  },
+  {
+    "configKey": "custom_music_score_search_random_limit",
+    "value": "100"
+  },
+  {
+    "configKey": "custom_music_score_tab_new_arrival_limit",
+    "value": "30"
+  },
+  {
+    "configKey": "custom_music_score_tab_ranking_review_count_limit",
+    "value": "30"
+  },
+  {
+    "configKey": "custom_music_score_tab_ranking_review_count_daily_limit",
+    "value": "30"
+  },
+  {
+    "configKey": "custom_music_score_search_new_arrival_limit",
+    "value": "100"
+  },
+  {
+    "configKey": "custom_music_score_search_review_count_limit",
+    "value": "100"
+  },
+  {
+    "configKey": "custom_music_score_search_review_count_daily_limit",
+    "value": "100"
+  },
+  {
+    "configKey": "custom_music_score_json_max_size_kb",
+    "value": "100"
+  },
+  {
+    "configKey": "custom_music_score_recommend_input_recent_played_music_ids_count",
+    "value": "5"
+  },
+  {
+    "configKey": "custom_music_score_recommend_input_total_played_music_ids_count",
+    "value": "5"
+  },
+  {
+    "configKey": "custom_music_score_recommend_input_random_music_ids_count",
+    "value": "5"
+  },
+  {
+    "configKey": "custom_music_score_recommend_input_recent_played_music_ids_lottery_count",
+    "value": "3"
+  },
+  {
+    "configKey": "custom_music_score_recommend_input_total_played_music_ids_lottery_count",
+    "value": "3"
+  },
+  {
+    "configKey": "custom_music_score_recommend_input_default_music_difficulty_type",
+    "value": "normal"
+  },
+  {
+    "configKey": "custom_music_score_event_point_scale",
+    "value": "0.95"
+  },
+  {
+    "configKey": "custom_music_score_search_high_difficulty_limit",
+    "value": "100"
   }
 ]
