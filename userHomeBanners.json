@@ -12,7 +12,7 @@
   },
   {
     "homeBannerId": 1567,
-    "seq": 150,
+    "seq": 200,
     "homeBannerType": "general",
     "name": "譜面メーカーリリース記念キャンペーン",
     "assetbundleName": "banner_makercp_2026",
@@ -20,28 +20,6 @@
     "transitionDestinationId": 6066,
     "startAt": 1777516200000,
     "endAt": 1780239600000
-  },
-  {
-    "homeBannerId": 1568,
-    "seq": 110,
-    "homeBannerType": "general",
-    "name": "[ガチャ]ビビバス箱イベ_ガチャバナー",
-    "assetbundleName": "banner_gacha945",
-    "transitionDestinationType": "gacha",
-    "transitionDestinationId": 945,
-    "startAt": 1778209200000,
-    "endAt": 1778986799000
-  },
-  {
-    "homeBannerId": 1569,
-    "seq": 100,
-    "homeBannerType": "event",
-    "name": "[イベント]ビビバス箱イベ_イベントバナー",
-    "assetbundleName": "event_staysolid_2026",
-    "transitionDestinationType": "event",
-    "transitionDestinationId": 204,
-    "startAt": 1778220000000,
-    "endAt": 1779015599000
   },
   {
     "homeBannerId": 1570,
@@ -67,7 +45,7 @@
   },
   {
     "homeBannerId": 1572,
-    "seq": 130,
+    "seq": 190,
     "homeBannerType": "general",
     "name": "ワールドリンクイベント Part2 サポートガチャ",
     "assetbundleName": "banner_gacha946",
@@ -108,5 +86,27 @@
     "transitionDestinationId": 947,
     "startAt": 1778382000000,
     "endAt": 1779159599000
+  },
+  {
+    "homeBannerId": 1578,
+    "seq": 110,
+    "homeBannerType": "general",
+    "name": "[ガチャ]WL3part2イベ_定常ガチャバナー",
+    "assetbundleName": "banner_gacha952",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 952,
+    "startAt": 1778986800000,
+    "endAt": 1780196399000
+  },
+  {
+    "homeBannerId": 1579,
+    "seq": 100,
+    "homeBannerType": "event",
+    "name": "[イベント]WL3part2イベ_イベントバナー",
+    "assetbundleName": "event_wl_3rd_part2_2026",
+    "transitionDestinationType": "event",
+    "transitionDestinationId": 205,
+    "startAt": 1779015600000,
+    "endAt": 1780207199000
   }
 ]
