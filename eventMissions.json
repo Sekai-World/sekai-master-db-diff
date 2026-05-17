@@ -17485,5 +17485,143 @@
     "eventMissionSelectableRewardGroupId": 2,
     "sentence": "7つのミッションを全て達成しよう。",
     "rewards": []
+  },
+  {
+    "id": 993,
+    "eventId": 205,
+    "seq": 1,
+    "eventMissionType": "live_clear_daily",
+    "eventMissionCategory": "normal",
+    "requirement1": 13,
+    "sentence": "累計13日ライブを1日1回クリアしよう。",
+    "rewards": [
+      {
+        "id": 18184,
+        "missionType": "event_mission",
+        "missionId": 993,
+        "seq": 1,
+        "resourceBoxId": 8004
+      }
+    ]
+  },
+  {
+    "id": 994,
+    "eventId": 205,
+    "seq": 2,
+    "eventMissionType": "any_live_clear",
+    "eventMissionCategory": "normal",
+    "requirement1": 50,
+    "sentence": "ライブを50回クリアしよう。",
+    "rewards": [
+      {
+        "id": 18185,
+        "missionType": "event_mission",
+        "missionId": 994,
+        "seq": 1,
+        "resourceBoxId": 8004
+      }
+    ]
+  },
+  {
+    "id": 995,
+    "eventId": 205,
+    "seq": 3,
+    "eventMissionType": "live_clear_full_combo",
+    "eventMissionCategory": "normal",
+    "requirement1": 10,
+    "sentence": "ライブで楽曲をフルコンボで10回クリアしよう。",
+    "rewards": [
+      {
+        "id": 18186,
+        "missionType": "event_mission",
+        "missionId": 995,
+        "seq": 1,
+        "resourceBoxId": 8004
+      }
+    ]
+  },
+  {
+    "id": 996,
+    "eventId": 205,
+    "seq": 4,
+    "eventMissionType": "live_clear_different_music",
+    "eventMissionCategory": "normal",
+    "requirement1": 10,
+    "requirement2": 1,
+    "sentence": "ライブで10種類の楽曲をクリアしよう。",
+    "rewards": [
+      {
+        "id": 18187,
+        "missionType": "event_mission",
+        "missionId": 996,
+        "seq": 1,
+        "resourceBoxId": 8004
+      }
+    ]
+  },
+  {
+    "id": 997,
+    "eventId": 205,
+    "seq": 5,
+    "eventMissionType": "multi_live_clear",
+    "eventMissionCategory": "normal",
+    "requirement1": 10,
+    "sentence": "みんなでライブを10回クリアしよう。",
+    "rewards": [
+      {
+        "id": 18188,
+        "missionType": "event_mission",
+        "missionId": 997,
+        "seq": 1,
+        "resourceBoxId": 8004
+      }
+    ]
+  },
+  {
+    "id": 998,
+    "eventId": 205,
+    "seq": 6,
+    "eventMissionType": "read_last_event_story_episode",
+    "eventMissionCategory": "normal",
+    "requirement1": 1,
+    "sentence": "イベント「Great Yell for Dreamers！」のエンディングを読もう。",
+    "rewards": [
+      {
+        "id": 18189,
+        "missionType": "event_mission",
+        "missionId": 998,
+        "seq": 1,
+        "resourceBoxId": 8004
+      }
+    ]
+  },
+  {
+    "id": 999,
+    "eventId": 205,
+    "seq": 7,
+    "eventMissionType": "consume_event_item",
+    "eventMissionCategory": "normal",
+    "requirement1": 20000,
+    "sentence": "イベント「Great Yell for Dreamers！」の交換所でバッジを20000個消費しよう。",
+    "rewards": [
+      {
+        "id": 18190,
+        "missionType": "event_mission",
+        "missionId": 999,
+        "seq": 1,
+        "resourceBoxId": 8004
+      }
+    ]
+  },
+  {
+    "id": 1000,
+    "eventId": 205,
+    "seq": 8,
+    "eventMissionType": "achieve_event_mission",
+    "eventMissionCategory": "complete_selectable_reward",
+    "requirement1": 7,
+    "eventMissionSelectableRewardGroupId": 2,
+    "sentence": "7つのミッションを全て達成しよう。",
+    "rewards": []
   }
 ]
