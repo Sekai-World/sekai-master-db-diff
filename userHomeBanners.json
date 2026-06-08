@@ -11,30 +11,8 @@
     "url": "https:\/\/pjsekai.sega.jp\/index.html"
   },
   {
-    "homeBannerId": 1584,
-    "seq": 110,
-    "homeBannerType": "general",
-    "name": "[ガチャ]シャッフル瑞希イベ_ガチャバナー",
-    "assetbundleName": "banner_gacha956",
-    "transitionDestinationType": "gacha",
-    "transitionDestinationId": 956,
-    "startAt": 1780196400000,
-    "endAt": 1780887599000
-  },
-  {
-    "homeBannerId": 1585,
-    "seq": 100,
-    "homeBannerType": "event",
-    "name": "[イベント]シャッフル瑞希イベ_イベントバナー",
-    "assetbundleName": "event_edge_2026",
-    "transitionDestinationType": "event",
-    "transitionDestinationId": 206,
-    "startAt": 1780207200000,
-    "endAt": 1780916399000
-  },
-  {
     "homeBannerId": 1586,
-    "seq": 130,
+    "seq": 190,
     "homeBannerType": "general",
     "name": "ワールドリンクイベント Part3 サポートガチャ",
     "assetbundleName": "banner_gacha958",
@@ -42,5 +20,27 @@
     "transitionDestinationId": 958,
     "startAt": 1780282800000,
     "endAt": 1781924399000
+  },
+  {
+    "homeBannerId": 1587,
+    "seq": 110,
+    "homeBannerType": "general",
+    "name": "[ガチャ]WL3part3イベ_定常ガチャバナー",
+    "assetbundleName": "banner_gacha959",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 959,
+    "startAt": 1780887600000,
+    "endAt": 1781924399000
+  },
+  {
+    "homeBannerId": 1588,
+    "seq": 100,
+    "homeBannerType": "event",
+    "name": "[イベント]WL3part3イベ_イベントバナー",
+    "assetbundleName": "event_wl_3rd_part3_2026",
+    "transitionDestinationType": "event",
+    "transitionDestinationId": 207,
+    "startAt": 1780916400000,
+    "endAt": 1781935199000
   }
 ]
