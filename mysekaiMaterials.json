@@ -389,7 +389,7 @@
   {
     "id": 33,
     "seq": 502,
-    "mysekaiMaterialType": "mineral",
+    "mysekaiMaterialType": "junk",
     "name": "月光石",
     "pronunciation": "げっこうせき",
     "description": "月光のように美しく輝く神秘的な石。\n満月の夜に落ちていることがある。",
@@ -938,6 +938,18 @@
     "mysekaiMaterialRarityType": "rarity_2",
     "iconAssetbundleName": "item_birthday_flower_13",
     "modelAssetbundleName": "mdl_site_birthday_flowerdrop113",
+    "mysekaiSiteIds": []
+  },
+  {
+    "id": 82,
+    "seq": 716,
+    "mysekaiMaterialType": "birthday_party",
+    "name": "類のセレブレーションフラワー",
+    "pronunciation": "るいのせれぶれーしょんふらわー",
+    "description": "類の誕生日をお祝いする家具を作るための素材。\n※2026年バースデーイベントでのみ利用可能",
+    "mysekaiMaterialRarityType": "rarity_2",
+    "iconAssetbundleName": "item_birthday_flower_16",
+    "modelAssetbundleName": "mdl_site_birthday_flowerdrop116",
     "mysekaiSiteIds": []
   },
   {
