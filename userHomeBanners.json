@@ -11,39 +11,6 @@
     "url": "https:\/\/pjsekai.sega.jp\/index.html"
   },
   {
-    "homeBannerId": 1586,
-    "seq": 190,
-    "homeBannerType": "general",
-    "name": "ワールドリンクイベント Part3 サポートガチャ",
-    "assetbundleName": "banner_gacha958",
-    "transitionDestinationType": "gacha",
-    "transitionDestinationId": 958,
-    "startAt": 1780282800000,
-    "endAt": 1781924399000
-  },
-  {
-    "homeBannerId": 1587,
-    "seq": 110,
-    "homeBannerType": "general",
-    "name": "[ガチャ]WL3part3イベ_定常ガチャバナー",
-    "assetbundleName": "banner_gacha959",
-    "transitionDestinationType": "gacha",
-    "transitionDestinationId": 959,
-    "startAt": 1780887600000,
-    "endAt": 1781924399000
-  },
-  {
-    "homeBannerId": 1588,
-    "seq": 100,
-    "homeBannerType": "event",
-    "name": "[イベント]WL3part3イベ_イベントバナー",
-    "assetbundleName": "event_wl_3rd_part3_2026",
-    "transitionDestinationType": "event",
-    "transitionDestinationId": 207,
-    "startAt": 1780916400000,
-    "endAt": 1781935199000
-  },
-  {
     "homeBannerId": 1589,
     "seq": 140,
     "homeBannerType": "general",
@@ -75,5 +42,38 @@
     "transitionDestinationId": 962,
     "startAt": 1781881200000,
     "endAt": 1782486000000
+  },
+  {
+    "homeBannerId": 1592,
+    "seq": 130,
+    "homeBannerType": "general",
+    "name": "[神代類]HAPPY BIRTHDAYイベント",
+    "assetbundleName": "banner_birthday_rui_2026",
+    "transitionDestinationType": "information",
+    "transitionDestinationId": 6209,
+    "startAt": 1781967600000,
+    "endAt": 1782486000000
+  },
+  {
+    "homeBannerId": 1593,
+    "seq": 110,
+    "homeBannerType": "general",
+    "name": "[ガチャ]ワンダショ箱イベ_ガチャバナー",
+    "assetbundleName": "banner_gacha964",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 964,
+    "startAt": 1781924400000,
+    "endAt": 1782788399000
+  },
+  {
+    "homeBannerId": 1594,
+    "seq": 100,
+    "homeBannerType": "event",
+    "name": "[イベント]ワンダショ箱イベ_イベントバナー",
+    "assetbundleName": "event_monster_2026",
+    "transitionDestinationType": "event",
+    "transitionDestinationId": 208,
+    "startAt": 1781935200000,
+    "endAt": 1782799199000
   }
 ]
