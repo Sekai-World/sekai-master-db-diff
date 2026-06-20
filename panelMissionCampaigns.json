@@ -27893,5 +27893,173 @@
         ]
       }
     ]
+  },
+  {
+    "id": 15,
+    "name": "[DEEMO×Cytusシリーズ]タイアップ記念スタンプミッション",
+    "assetbundleName": "dc_tieup_pm",
+    "bgmAssetbundleName": "dc_tieup_pm_bgm",
+    "selectableLimit": 1,
+    "startAt": 1782021600000,
+    "progressEndAt": 1783090799000,
+    "closedAt": 1783090799000,
+    "distributionEndAt": 1784300399000,
+    "informationId": 6216,
+    "panelMissionSelectionType": "auto",
+    "panelMissionSheetGroups": [
+      {
+        "id": 1501,
+        "panelMissionCampaignId": 15,
+        "name": "タイアップ",
+        "selectableLimit": 1,
+        "seq": 1,
+        "panelMissionSheets": [
+          {
+            "id": 150101,
+            "panelMissionSheetGroupId": 1501,
+            "name": "タイアップカード",
+            "seq": 1,
+            "assetbundleName": "sheet_dc_tieup",
+            "panelMissions": [
+              {
+                "id": 15010101,
+                "panelMissionSheetId": 150101,
+                "name": "楽曲\n「SAIRAI」\nを2回クリア",
+                "description": "楽曲「SAIRAI」を2回クリアしよう。\n※2026年6月21日15時00分に楽曲追加",
+                "seq": 1,
+                "panelMissionType": "live_clear_in_music",
+                "requirement1": 2,
+                "rewards": [
+                  {
+                    "id": 18191,
+                    "missionType": "panel_mission",
+                    "missionId": 15010101,
+                    "seq": 1,
+                    "resourceBoxId": 2044
+                  }
+                ]
+              },
+              {
+                "id": 15010102,
+                "panelMissionSheetId": 150101,
+                "name": "楽曲\n「CHAOS」\nを2回クリア",
+                "description": "楽曲「CHAOS」を2回クリアしよう。\n※2026年6月22日15時00分に楽曲追加",
+                "seq": 2,
+                "panelMissionType": "live_clear_in_music",
+                "requirement1": 2,
+                "rewards": [
+                  {
+                    "id": 18192,
+                    "missionType": "panel_mission",
+                    "missionId": 15010102,
+                    "seq": 1,
+                    "resourceBoxId": 2044
+                  }
+                ]
+              },
+              {
+                "id": 15010103,
+                "panelMissionSheetId": 150101,
+                "name": "楽曲\n「Saika」\nを2回クリア",
+                "description": "楽曲「Saika」を2回クリアしよう。\n※2026年6月23日15時00分に楽曲追加",
+                "seq": 3,
+                "panelMissionType": "live_clear_in_music",
+                "requirement1": 2,
+                "rewards": [
+                  {
+                    "id": 18193,
+                    "missionType": "panel_mission",
+                    "missionId": 15010103,
+                    "seq": 1,
+                    "resourceBoxId": 2044
+                  }
+                ]
+              },
+              {
+                "id": 15010104,
+                "panelMissionSheetId": 150101,
+                "name": "楽曲\n「99 Glooms」\nを2回クリア",
+                "description": "楽曲「99 Glooms」を2回クリアしよう。\n※2026年6月24日15時00分に楽曲追加",
+                "seq": 4,
+                "panelMissionType": "live_clear_in_music",
+                "requirement1": 2,
+                "rewards": [
+                  {
+                    "id": 18194,
+                    "missionType": "panel_mission",
+                    "missionId": 15010104,
+                    "seq": 1,
+                    "resourceBoxId": 2044
+                  }
+                ]
+              },
+              {
+                "id": 15010105,
+                "panelMissionSheetId": 150101,
+                "name": "楽曲\n「ANiMA」\nを2回クリア",
+                "description": "楽曲「ANiMA」を2回クリアしよう。\n※2026年6月25日15時00分に楽曲追加",
+                "seq": 5,
+                "panelMissionType": "live_clear_in_music",
+                "requirement1": 2,
+                "rewards": [
+                  {
+                    "id": 18195,
+                    "missionType": "panel_mission",
+                    "missionId": 15010105,
+                    "seq": 1,
+                    "resourceBoxId": 2044
+                  }
+                ]
+              },
+              {
+                "id": 15010106,
+                "panelMissionSheetId": 150101,
+                "name": "楽曲\n「Masquerade」\nを2回クリア",
+                "description": "楽曲「Masquerade」を2回クリアしよう。\n※2026年6月26日15時00分に楽曲追加",
+                "seq": 6,
+                "panelMissionType": "live_clear_in_music",
+                "requirement1": 2,
+                "rewards": [
+                  {
+                    "id": 18196,
+                    "missionType": "panel_mission",
+                    "missionId": 15010106,
+                    "seq": 1,
+                    "resourceBoxId": 2044
+                  }
+                ]
+              },
+              {
+                "id": 15010107,
+                "panelMissionSheetId": 150101,
+                "name": "みんなでライブを\n10回クリア",
+                "description": "「みんなでライブ」を10回クリアしよう。",
+                "seq": 7,
+                "panelMissionType": "multi_live_clear",
+                "requirement1": 10,
+                "rewards": [
+                  {
+                    "id": 18197,
+                    "missionType": "panel_mission",
+                    "missionId": 15010107,
+                    "seq": 1,
+                    "resourceBoxId": 2044
+                  }
+                ]
+              }
+            ],
+            "rewards": [
+              {
+                "id": 18198,
+                "missionType": "panel_mission_complete",
+                "missionId": 150101,
+                "seq": 1,
+                "resourceBoxId": 2045
+              }
+            ]
+          }
+        ]
+      }
+    ]
   }
 ]

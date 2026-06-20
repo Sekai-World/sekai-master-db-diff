@@ -8100,5 +8100,34 @@
     ],
     "virtualShopType": "other",
     "virtualShopDisplayType": "out_of_scope"
+  },
+  {
+    "id": 322,
+    "seq": 322,
+    "name": "DEEMO×Cytusシリーズタイアップ",
+    "virtualShopItems": [
+      {
+        "id": 524,
+        "virtualShopId": 322,
+        "virtualShopItemType": "coordinate",
+        "seq": 10,
+        "resourceBoxId": 416,
+        "costPaidJewel": 1000,
+        "startAt": 1782021600000,
+        "endAt": 1783090799000
+      },
+      {
+        "id": 525,
+        "virtualShopId": 322,
+        "virtualShopItemType": "coordinate",
+        "seq": 20,
+        "resourceBoxId": 417,
+        "costPaidJewel": 1000,
+        "startAt": 1782021600000,
+        "endAt": 1783090799000
+      }
+    ],
+    "virtualShopType": "event",
+    "virtualShopDisplayType": "out_of_scope"
   }
 ]
