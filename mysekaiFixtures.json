@@ -20098,7 +20098,7 @@
     },
     "colorCode": "#8E2871",
     "mysekaiFixtureMainGenreId": 2,
-    "mysekaiFixtureSubGenreId": 9,
+    "mysekaiFixtureSubGenreId": 4,
     "mysekaiFixtureHandleType": "none",
     "mysekaiSettableSiteType": "any",
     "mysekaiSettableLayoutType": "floor",
@@ -28222,7 +28222,7 @@
     },
     "colorCode": "#B9D4E3",
     "mysekaiFixtureMainGenreId": 2,
-    "mysekaiFixtureSubGenreId": 9,
+    "mysekaiFixtureSubGenreId": 4,
     "mysekaiFixtureHandleType": "none",
     "mysekaiSettableSiteType": "any",
     "mysekaiSettableLayoutType": "floor",
@@ -51680,6 +51680,471 @@
     "secondPutCost": 2
   },
   {
+    "id": 1440,
+    "mysekaiFixtureType": "system",
+    "name": "スイーツタウンの家",
+    "pronunciation": "すいーつたうんのいえ",
+    "flavorText": "スイーツタウンの家",
+    "seq": 30027001,
+    "gridSize": {
+      "width": 14,
+      "depth": 14,
+      "height": 14
+    },
+    "colorCode": "#FF7FDB",
+    "mysekaiFixtureMainGenreId": 11,
+    "mysekaiFixtureSubGenreId": 24,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "home",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "none",
+    "mysekaiFixtureAnotherColors": [
+      {
+        "textureId": 2,
+        "colorCode": "#8B5300"
+      },
+      {
+        "textureId": 3,
+        "colorCode": "#9DE7FF"
+      }
+    ],
+    "mysekaiFixturePutSoundId": 8,
+    "mysekaiFixtureFootstepId": 2,
+    "mysekaiFixtureTagGroup": {
+      "id": 1440,
+      "mysekaiFixtureTagId1": 11433,
+      "mysekaiFixtureTagId2": 102
+    },
+    "isAssembled": true,
+    "isDisassembled": false,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_ext0027_house_house1",
+    "firstPutCost": 160,
+    "secondPutCost": 0
+  },
+  {
+    "id": 1441,
+    "mysekaiFixtureType": "normal",
+    "name": "スイーツタウンのチョコ噴水",
+    "pronunciation": "すいーつたうんのちょこふんすい",
+    "flavorText": "スイーツタウンのチョコ噴水",
+    "seq": 30027002,
+    "gridSize": {
+      "width": 4,
+      "depth": 4,
+      "height": 7
+    },
+    "colorCode": "#FFD0F2",
+    "mysekaiFixtureMainGenreId": 2,
+    "mysekaiFixtureSubGenreId": 9,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "any",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "none",
+    "mysekaiFixtureAnotherColors": [
+      {
+        "textureId": 2,
+        "colorCode": "#8B5300"
+      },
+      {
+        "textureId": 3,
+        "colorCode": "#F7ECD2"
+      }
+    ],
+    "mysekaiFixturePutSoundId": 8,
+    "mysekaiFixtureTagGroup": {
+      "id": 1441,
+      "mysekaiFixtureTagId1": 11434,
+      "mysekaiFixtureTagId2": 102
+    },
+    "isAssembled": true,
+    "isDisassembled": true,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": true,
+    "assetbundleName": "mdl_ext0027_fixture_fountain1",
+    "firstPutCost": 170,
+    "secondPutCost": 20
+  },
+  {
+    "id": 1442,
+    "mysekaiFixtureType": "normal",
+    "name": "スイーツタウンのゼリーチェア",
+    "pronunciation": "すいーつたうんのぜりーちぇあ",
+    "flavorText": "スイーツタウンのゼリーチェア",
+    "seq": 30027003,
+    "gridSize": {
+      "width": 4,
+      "depth": 4,
+      "height": 3
+    },
+    "colorCode": "#FF7FDB",
+    "mysekaiFixtureMainGenreId": 2,
+    "mysekaiFixtureSubGenreId": 4,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "any",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "none",
+    "mysekaiFixtureAnotherColors": [
+      {
+        "textureId": 2,
+        "colorCode": "#FF8A00"
+      },
+      {
+        "textureId": 3,
+        "colorCode": "#9DE7FF"
+      }
+    ],
+    "mysekaiFixturePutSoundId": 12,
+    "mysekaiFixtureTagGroup": {
+      "id": 1442,
+      "mysekaiFixtureTagId1": 11435,
+      "mysekaiFixtureTagId2": 102
+    },
+    "isAssembled": true,
+    "isDisassembled": true,
+    "mysekaiFixturePlayerActionType": "timeline",
+    "isGameCharacterAction": true,
+    "assetbundleName": "mdl_ext0027_fixture_chair1",
+    "firstPutCost": 90,
+    "secondPutCost": 10
+  },
+  {
+    "id": 1443,
+    "mysekaiFixtureType": "normal",
+    "name": "スイーツタウンのロリポップライト",
+    "pronunciation": "すいーつたうんのろりぽっぷらいと",
+    "flavorText": "スイーツタウンのロリポップライト",
+    "seq": 30027004,
+    "gridSize": {
+      "width": 3,
+      "depth": 2,
+      "height": 5
+    },
+    "colorCode": "#FF7FDB",
+    "mysekaiFixtureMainGenreId": 2,
+    "mysekaiFixtureSubGenreId": 8,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "any",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "none",
+    "mysekaiFixtureAnotherColors": [
+      {
+        "textureId": 2,
+        "colorCode": "#FFD600"
+      },
+      {
+        "textureId": 3,
+        "colorCode": "#9DE7FF"
+      }
+    ],
+    "mysekaiFixturePutSoundId": 8,
+    "mysekaiFixtureTagGroup": {
+      "id": 1443,
+      "mysekaiFixtureTagId1": 11436,
+      "mysekaiFixtureTagId2": 102,
+      "mysekaiFixtureTagId3": 70
+    },
+    "isAssembled": true,
+    "isDisassembled": true,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_ext0027_fixture_light1",
+    "firstPutCost": 65,
+    "secondPutCost": 2
+  },
+  {
+    "id": 1444,
+    "mysekaiFixtureType": "normal",
+    "name": "スイーツタウンのアーチ",
+    "pronunciation": "すいーつたうんのあーち",
+    "flavorText": "スイーツタウンのアーチ",
+    "seq": 30027005,
+    "gridSize": {
+      "width": 8,
+      "depth": 2,
+      "height": 7
+    },
+    "colorCode": "#FFD0F2",
+    "mysekaiFixtureMainGenreId": 2,
+    "mysekaiFixtureSubGenreId": 9,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "any",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "none",
+    "mysekaiFixtureAnotherColors": [
+      {
+        "textureId": 2,
+        "colorCode": "#8B5300"
+      },
+      {
+        "textureId": 3,
+        "colorCode": "#F7ECD2"
+      }
+    ],
+    "mysekaiFixturePutSoundId": 8,
+    "mysekaiFixtureTagGroup": {
+      "id": 1444,
+      "mysekaiFixtureTagId1": 11437,
+      "mysekaiFixtureTagId2": 102
+    },
+    "isAssembled": true,
+    "isDisassembled": true,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_ext0027_fixture_arch1",
+    "firstPutCost": 40,
+    "secondPutCost": 2
+  },
+  {
+    "id": 1445,
+    "mysekaiFixtureType": "normal",
+    "name": "スイーツタウンのわたあめの木",
+    "pronunciation": "すいーつたうんのわたあめのき",
+    "flavorText": "スイーツタウンのわたあめの木",
+    "seq": 30027006,
+    "gridSize": {
+      "width": 3,
+      "depth": 3,
+      "height": 7
+    },
+    "colorCode": "#FFD0F2",
+    "mysekaiFixtureMainGenreId": 2,
+    "mysekaiFixtureSubGenreId": 9,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "any",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "none",
+    "mysekaiFixtureAnotherColors": [
+      {
+        "textureId": 2,
+        "colorCode": "#FFF6A6"
+      },
+      {
+        "textureId": 3,
+        "colorCode": "#9DE7FF"
+      }
+    ],
+    "mysekaiFixturePutSoundId": 8,
+    "mysekaiFixtureTagGroup": {
+      "id": 1445,
+      "mysekaiFixtureTagId1": 11438,
+      "mysekaiFixtureTagId2": 102
+    },
+    "isAssembled": true,
+    "isDisassembled": true,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_ext0027_fixture_tree1",
+    "firstPutCost": 45,
+    "secondPutCost": 2
+  },
+  {
+    "id": 1446,
+    "mysekaiFixtureType": "normal",
+    "name": "スイーツタウンのパーテーション",
+    "pronunciation": "すいーつたうんのぱーてーしょん",
+    "flavorText": "スイーツタウンのパーテーション",
+    "seq": 30027007,
+    "gridSize": {
+      "width": 2,
+      "depth": 1,
+      "height": 3
+    },
+    "colorCode": "#FFD0F2",
+    "mysekaiFixtureMainGenreId": 2,
+    "mysekaiFixtureSubGenreId": 9,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "any",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "put_target",
+    "mysekaiFixtureAnotherColors": [
+      {
+        "textureId": 2,
+        "colorCode": "#8B5300"
+      },
+      {
+        "textureId": 3,
+        "colorCode": "#F7ECD2"
+      }
+    ],
+    "mysekaiFixturePutSoundId": 7,
+    "mysekaiFixtureTagGroup": {
+      "id": 1446,
+      "mysekaiFixtureTagId1": 11439,
+      "mysekaiFixtureTagId2": 102
+    },
+    "isAssembled": true,
+    "isDisassembled": true,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_ext0027_fixture_partition1",
+    "firstPutCost": 35,
+    "secondPutCost": 2
+  },
+  {
+    "id": 1447,
+    "mysekaiFixtureType": "normal",
+    "name": "スイーツタウンのマカロンクッション",
+    "pronunciation": "すいーつたうんのまかろんくっしょん",
+    "flavorText": "スイーツタウンのマカロンクッション",
+    "seq": 30027008,
+    "gridSize": {
+      "width": 2,
+      "depth": 2,
+      "height": 1
+    },
+    "colorCode": "#FF7FDB",
+    "mysekaiFixtureMainGenreId": 2,
+    "mysekaiFixtureSubGenreId": 4,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "any",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "none",
+    "mysekaiFixtureAnotherColors": [
+      {
+        "textureId": 2,
+        "colorCode": "#FF8A00"
+      },
+      {
+        "textureId": 3,
+        "colorCode": "#F7ECD2"
+      }
+    ],
+    "mysekaiFixturePutSoundId": 7,
+    "mysekaiFixtureTagGroup": {
+      "id": 1447,
+      "mysekaiFixtureTagId1": 11440,
+      "mysekaiFixtureTagId2": 102
+    },
+    "isAssembled": true,
+    "isDisassembled": true,
+    "mysekaiFixturePlayerActionType": "timeline",
+    "isGameCharacterAction": true,
+    "assetbundleName": "mdl_ext0027_fixture_cushion1",
+    "firstPutCost": 45,
+    "secondPutCost": 5
+  },
+  {
+    "id": 1448,
+    "mysekaiFixtureType": "normal",
+    "name": "スイーツタウンのお花",
+    "pronunciation": "すいーつたうんのおはな",
+    "flavorText": "スイーツタウンのお花",
+    "seq": 30027009,
+    "gridSize": {
+      "width": 4,
+      "depth": 4,
+      "height": 1
+    },
+    "colorCode": "#FFD0F2",
+    "mysekaiFixtureMainGenreId": 2,
+    "mysekaiFixtureSubGenreId": 9,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "any",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "none",
+    "mysekaiFixtureAnotherColors": [
+      {
+        "textureId": 2,
+        "colorCode": "#FFDEAD"
+      },
+      {
+        "textureId": 3,
+        "colorCode": "#9DE7FF"
+      }
+    ],
+    "mysekaiFixturePutSoundId": 12,
+    "mysekaiFixtureTagGroup": {
+      "id": 1448,
+      "mysekaiFixtureTagId1": 11441,
+      "mysekaiFixtureTagId2": 102
+    },
+    "isAssembled": true,
+    "isDisassembled": true,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_ext0027_fixture_flower1",
+    "firstPutCost": 55,
+    "secondPutCost": 2
+  },
+  {
+    "id": 1449,
+    "mysekaiFixtureType": "normal",
+    "name": "スイーツタウンのクッキーのラグ",
+    "pronunciation": "すいーつたうんのくっきーのらぐ",
+    "flavorText": "スイーツタウンのクッキーのラグ",
+    "seq": 30027010,
+    "gridSize": {
+      "width": 2,
+      "depth": 2,
+      "height": 1
+    },
+    "colorCode": "#F7D0A2",
+    "mysekaiFixtureMainGenreId": 9,
+    "mysekaiFixtureSubGenreId": 21,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "any",
+    "mysekaiSettableLayoutType": "rug",
+    "mysekaiFixturePutType": "none",
+    "mysekaiFixtureAnotherColors": [
+      {
+        "textureId": 2,
+        "colorCode": "#C3944D"
+      },
+      {
+        "textureId": 3,
+        "colorCode": "#F7ECD2"
+      }
+    ],
+    "mysekaiFixturePutSoundId": 9,
+    "mysekaiFixtureFootstepId": 8,
+    "mysekaiFixtureTagGroup": {
+      "id": 1449,
+      "mysekaiFixtureTagId1": 11442,
+      "mysekaiFixtureTagId2": 102
+    },
+    "isAssembled": true,
+    "isDisassembled": true,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_ext0027_rug_rug1",
+    "firstPutCost": 20,
+    "secondPutCost": 2
+  },
+  {
+    "id": 1450,
+    "mysekaiFixtureType": "normal",
+    "name": "ウェディングケーキ",
+    "pronunciation": "うぇでぃんぐけーき",
+    "flavorText": "ウェディングケーキ",
+    "seq": 30028001,
+    "gridSize": {
+      "width": 4,
+      "depth": 4,
+      "height": 5
+    },
+    "mysekaiFixtureMainGenreId": 2,
+    "mysekaiFixtureSubGenreId": 9,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "any",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "none",
+    "mysekaiFixtureAnotherColors": [],
+    "mysekaiFixturePutSoundId": 2,
+    "mysekaiFixtureTagGroup": {
+      "id": 1450,
+      "mysekaiFixtureTagId1": 11443
+    },
+    "isAssembled": true,
+    "isDisassembled": true,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_ext0028_fixture_cake1",
+    "firstPutCost": 70,
+    "secondPutCost": 2
+  },
+  {
     "id": 1451,
     "mysekaiFixtureType": "normal",
     "name": "[リミテッドスタイル vol.4] 一歌のぬいぐるみ\/S",
@@ -52322,6 +52787,720 @@
     "isGameCharacterAction": false,
     "assetbundleName": "mdl_clb1105_fixture_mirai1large",
     "firstPutCost": 40,
+    "secondPutCost": 2
+  },
+  {
+    "id": 1481,
+    "mysekaiFixtureType": "normal",
+    "name": "[リミテッドスタイル vol.4] 穂波のぬいぐるみ\/S",
+    "pronunciation": "りみてっどすたいるぼりゅーむふぉーほなみのぬいぐるみえす",
+    "flavorText": "[リミテッドスタイル vol.4] 穂波のぬいぐるみ\/S",
+    "seq": 81103013,
+    "gridSize": {
+      "width": 1,
+      "depth": 1,
+      "height": 1
+    },
+    "mysekaiFixtureMainGenreId": 29,
+    "mysekaiFixtureSubGenreId": 10,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "any",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "put_target",
+    "mysekaiFixtureAnotherColors": [],
+    "mysekaiFixtureGameCharacterGroupPerformanceBonusId": 7,
+    "mysekaiFixturePutSoundId": 9,
+    "mysekaiFixtureTagGroup": {
+      "id": 1481,
+      "mysekaiFixtureTagId1": 11486,
+      "mysekaiFixtureTagId2": 4
+    },
+    "isAssembled": true,
+    "isDisassembled": false,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_pas103_fixture_doll5small",
+    "firstPutCost": 55,
+    "secondPutCost": 2
+  },
+  {
+    "id": 1482,
+    "mysekaiFixtureType": "normal",
+    "name": "[リミテッドスタイル vol.4] 穂波のぬいぐるみ\/M",
+    "pronunciation": "りみてっどすたいるぼりゅーむふぉーほなみのぬいぐるみえむ",
+    "flavorText": "[リミテッドスタイル vol.4] 穂波のぬいぐるみ\/M",
+    "seq": 81103014,
+    "gridSize": {
+      "width": 1,
+      "depth": 1,
+      "height": 2
+    },
+    "mysekaiFixtureMainGenreId": 29,
+    "mysekaiFixtureSubGenreId": 10,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "any",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "put_target",
+    "mysekaiFixtureAnotherColors": [],
+    "mysekaiFixtureGameCharacterGroupPerformanceBonusId": 8,
+    "mysekaiFixturePutSoundId": 9,
+    "mysekaiFixtureTagGroup": {
+      "id": 1482,
+      "mysekaiFixtureTagId1": 11487,
+      "mysekaiFixtureTagId2": 4
+    },
+    "isAssembled": true,
+    "isDisassembled": false,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_pas103_fixture_doll5medium",
+    "firstPutCost": 75,
+    "secondPutCost": 2
+  },
+  {
+    "id": 1483,
+    "mysekaiFixtureType": "normal",
+    "name": "[リミテッドスタイル vol.4] 穂波のぬいぐるみ\/L",
+    "pronunciation": "りみてっどすたいるぼりゅーむふぉーほなみのぬいぐるみえる",
+    "flavorText": "[リミテッドスタイル vol.4] 穂波のぬいぐるみ\/L",
+    "seq": 81103015,
+    "gridSize": {
+      "width": 2,
+      "depth": 2,
+      "height": 3
+    },
+    "mysekaiFixtureMainGenreId": 29,
+    "mysekaiFixtureSubGenreId": 10,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "any",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "put_target",
+    "mysekaiFixtureAnotherColors": [],
+    "mysekaiFixtureGameCharacterGroupPerformanceBonusId": 9,
+    "mysekaiFixturePutSoundId": 10,
+    "mysekaiFixtureTagGroup": {
+      "id": 1483,
+      "mysekaiFixtureTagId1": 11488,
+      "mysekaiFixtureTagId2": 4
+    },
+    "isAssembled": true,
+    "isDisassembled": false,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_pas103_fixture_doll5large",
+    "firstPutCost": 80,
+    "secondPutCost": 2
+  },
+  {
+    "id": 1484,
+    "mysekaiFixtureType": "normal",
+    "name": "[リミテッドスタイル vol.4] 愛莉のぬいぐるみ\/S",
+    "pronunciation": "りみてっどすたいるぼりゅーむふぉーあいりのぬいぐるみえす",
+    "flavorText": "[リミテッドスタイル vol.4] 愛莉のぬいぐるみ\/S",
+    "seq": 82107013,
+    "gridSize": {
+      "width": 1,
+      "depth": 1,
+      "height": 1
+    },
+    "mysekaiFixtureMainGenreId": 29,
+    "mysekaiFixtureSubGenreId": 10,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "any",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "put_target",
+    "mysekaiFixtureAnotherColors": [],
+    "mysekaiFixtureGameCharacterGroupPerformanceBonusId": 19,
+    "mysekaiFixturePutSoundId": 9,
+    "mysekaiFixtureTagGroup": {
+      "id": 1484,
+      "mysekaiFixtureTagId1": 11489,
+      "mysekaiFixtureTagId2": 8
+    },
+    "isAssembled": true,
+    "isDisassembled": false,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_pas107_fixture_doll5small",
+    "firstPutCost": 55,
+    "secondPutCost": 2
+  },
+  {
+    "id": 1485,
+    "mysekaiFixtureType": "normal",
+    "name": "[リミテッドスタイル vol.4] 愛莉のぬいぐるみ\/M",
+    "pronunciation": "りみてっどすたいるぼりゅーむふぉーあいりのぬいぐるみえむ",
+    "flavorText": "[リミテッドスタイル vol.4] 愛莉のぬいぐるみ\/M",
+    "seq": 82107014,
+    "gridSize": {
+      "width": 1,
+      "depth": 1,
+      "height": 2
+    },
+    "mysekaiFixtureMainGenreId": 29,
+    "mysekaiFixtureSubGenreId": 10,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "any",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "put_target",
+    "mysekaiFixtureAnotherColors": [],
+    "mysekaiFixtureGameCharacterGroupPerformanceBonusId": 20,
+    "mysekaiFixturePutSoundId": 9,
+    "mysekaiFixtureTagGroup": {
+      "id": 1485,
+      "mysekaiFixtureTagId1": 11490,
+      "mysekaiFixtureTagId2": 8
+    },
+    "isAssembled": true,
+    "isDisassembled": false,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_pas107_fixture_doll5medium",
+    "firstPutCost": 75,
+    "secondPutCost": 2
+  },
+  {
+    "id": 1486,
+    "mysekaiFixtureType": "normal",
+    "name": "[リミテッドスタイル vol.4] 愛莉のぬいぐるみ\/L",
+    "pronunciation": "りみてっどすたいるぼりゅーむふぉーあいりのぬいぐるみえる",
+    "flavorText": "[リミテッドスタイル vol.4] 愛莉のぬいぐるみ\/L",
+    "seq": 82107015,
+    "gridSize": {
+      "width": 2,
+      "depth": 2,
+      "height": 3
+    },
+    "mysekaiFixtureMainGenreId": 29,
+    "mysekaiFixtureSubGenreId": 10,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "any",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "put_target",
+    "mysekaiFixtureAnotherColors": [],
+    "mysekaiFixtureGameCharacterGroupPerformanceBonusId": 21,
+    "mysekaiFixturePutSoundId": 10,
+    "mysekaiFixtureTagGroup": {
+      "id": 1486,
+      "mysekaiFixtureTagId1": 11491,
+      "mysekaiFixtureTagId2": 8
+    },
+    "isAssembled": true,
+    "isDisassembled": false,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_pas107_fixture_doll5large",
+    "firstPutCost": 80,
+    "secondPutCost": 2
+  },
+  {
+    "id": 1487,
+    "mysekaiFixtureType": "normal",
+    "name": "[リミテッドスタイル vol.4] こはねのぬいぐるみ\/S",
+    "pronunciation": "りみてっどすたいるぼりゅーむふぉーこはねのぬいぐるみえす",
+    "flavorText": "[リミテッドスタイル vol.4] こはねのぬいぐるみ\/S",
+    "seq": 83109013,
+    "gridSize": {
+      "width": 1,
+      "depth": 1,
+      "height": 1
+    },
+    "mysekaiFixtureMainGenreId": 29,
+    "mysekaiFixtureSubGenreId": 10,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "any",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "put_target",
+    "mysekaiFixtureAnotherColors": [],
+    "mysekaiFixtureGameCharacterGroupPerformanceBonusId": 25,
+    "mysekaiFixturePutSoundId": 9,
+    "mysekaiFixtureTagGroup": {
+      "id": 1487,
+      "mysekaiFixtureTagId1": 11492,
+      "mysekaiFixtureTagId2": 11
+    },
+    "isAssembled": true,
+    "isDisassembled": false,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_pas109_fixture_doll5small",
+    "firstPutCost": 55,
+    "secondPutCost": 2
+  },
+  {
+    "id": 1488,
+    "mysekaiFixtureType": "normal",
+    "name": "[リミテッドスタイル vol.4] こはねのぬいぐるみ\/M",
+    "pronunciation": "りみてっどすたいるぼりゅーむふぉーこはねのぬいぐるみえむ",
+    "flavorText": "[リミテッドスタイル vol.4] こはねのぬいぐるみ\/M",
+    "seq": 83109014,
+    "gridSize": {
+      "width": 1,
+      "depth": 1,
+      "height": 2
+    },
+    "mysekaiFixtureMainGenreId": 29,
+    "mysekaiFixtureSubGenreId": 10,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "any",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "put_target",
+    "mysekaiFixtureAnotherColors": [],
+    "mysekaiFixtureGameCharacterGroupPerformanceBonusId": 26,
+    "mysekaiFixturePutSoundId": 9,
+    "mysekaiFixtureTagGroup": {
+      "id": 1488,
+      "mysekaiFixtureTagId1": 11493,
+      "mysekaiFixtureTagId2": 11
+    },
+    "isAssembled": true,
+    "isDisassembled": false,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_pas109_fixture_doll5medium",
+    "firstPutCost": 75,
+    "secondPutCost": 2
+  },
+  {
+    "id": 1489,
+    "mysekaiFixtureType": "normal",
+    "name": "[リミテッドスタイル vol.4] こはねのぬいぐるみ\/L",
+    "pronunciation": "りみてっどすたいるぼりゅーむふぉーこはねのぬいぐるみえる",
+    "flavorText": "[リミテッドスタイル vol.4] こはねのぬいぐるみ\/L",
+    "seq": 83109015,
+    "gridSize": {
+      "width": 2,
+      "depth": 2,
+      "height": 3
+    },
+    "mysekaiFixtureMainGenreId": 29,
+    "mysekaiFixtureSubGenreId": 10,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "any",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "put_target",
+    "mysekaiFixtureAnotherColors": [],
+    "mysekaiFixtureGameCharacterGroupPerformanceBonusId": 27,
+    "mysekaiFixturePutSoundId": 10,
+    "mysekaiFixtureTagGroup": {
+      "id": 1489,
+      "mysekaiFixtureTagId1": 11494,
+      "mysekaiFixtureTagId2": 11
+    },
+    "isAssembled": true,
+    "isDisassembled": false,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_pas109_fixture_doll5large",
+    "firstPutCost": 80,
+    "secondPutCost": 2
+  },
+  {
+    "id": 1490,
+    "mysekaiFixtureType": "normal",
+    "name": "[リミテッドスタイル vol.4] 類のぬいぐるみ\/S",
+    "pronunciation": "りみてっどすたいるぼりゅーむふぉーるいのぬいぐるみえす",
+    "flavorText": "[リミテッドスタイル vol.4] 類のぬいぐるみ\/S",
+    "seq": 84116013,
+    "gridSize": {
+      "width": 1,
+      "depth": 1,
+      "height": 1
+    },
+    "mysekaiFixtureMainGenreId": 29,
+    "mysekaiFixtureSubGenreId": 10,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "any",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "put_target",
+    "mysekaiFixtureAnotherColors": [],
+    "mysekaiFixtureGameCharacterGroupPerformanceBonusId": 46,
+    "mysekaiFixturePutSoundId": 9,
+    "mysekaiFixtureTagGroup": {
+      "id": 1490,
+      "mysekaiFixtureTagId1": 11495,
+      "mysekaiFixtureTagId2": 19
+    },
+    "isAssembled": true,
+    "isDisassembled": false,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_pas116_fixture_doll5small",
+    "firstPutCost": 55,
+    "secondPutCost": 2
+  },
+  {
+    "id": 1491,
+    "mysekaiFixtureType": "normal",
+    "name": "[リミテッドスタイル vol.4] 類のぬいぐるみ\/M",
+    "pronunciation": "りみてっどすたいるぼりゅーむふぉーるいのぬいぐるみえむ",
+    "flavorText": "[リミテッドスタイル vol.4] 類のぬいぐるみ\/M",
+    "seq": 84116014,
+    "gridSize": {
+      "width": 1,
+      "depth": 1,
+      "height": 2
+    },
+    "mysekaiFixtureMainGenreId": 29,
+    "mysekaiFixtureSubGenreId": 10,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "any",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "put_target",
+    "mysekaiFixtureAnotherColors": [],
+    "mysekaiFixtureGameCharacterGroupPerformanceBonusId": 47,
+    "mysekaiFixturePutSoundId": 9,
+    "mysekaiFixtureTagGroup": {
+      "id": 1491,
+      "mysekaiFixtureTagId1": 11496,
+      "mysekaiFixtureTagId2": 19
+    },
+    "isAssembled": true,
+    "isDisassembled": false,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_pas116_fixture_doll5medium",
+    "firstPutCost": 75,
+    "secondPutCost": 2
+  },
+  {
+    "id": 1492,
+    "mysekaiFixtureType": "normal",
+    "name": "[リミテッドスタイル vol.4] 類のぬいぐるみ\/L",
+    "pronunciation": "りみてっどすたいるぼりゅーむふぉーるいのぬいぐるみえる",
+    "flavorText": "[リミテッドスタイル vol.4] 類のぬいぐるみ\/L",
+    "seq": 84116015,
+    "gridSize": {
+      "width": 2,
+      "depth": 2,
+      "height": 3
+    },
+    "mysekaiFixtureMainGenreId": 29,
+    "mysekaiFixtureSubGenreId": 10,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "any",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "put_target",
+    "mysekaiFixtureAnotherColors": [],
+    "mysekaiFixtureGameCharacterGroupPerformanceBonusId": 48,
+    "mysekaiFixturePutSoundId": 10,
+    "mysekaiFixtureTagGroup": {
+      "id": 1492,
+      "mysekaiFixtureTagId1": 11497,
+      "mysekaiFixtureTagId2": 19
+    },
+    "isAssembled": true,
+    "isDisassembled": false,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_pas116_fixture_doll5large",
+    "firstPutCost": 80,
+    "secondPutCost": 2
+  },
+  {
+    "id": 1493,
+    "mysekaiFixtureType": "normal",
+    "name": "[リミテッドスタイル vol.4] まふゆのぬいぐるみ\/S",
+    "pronunciation": "りみてっどすたいるぼりゅーむふぉーまふゆのぬいぐるみえす",
+    "flavorText": "[リミテッドスタイル vol.4] まふゆのぬいぐるみ\/S",
+    "seq": 85118013,
+    "gridSize": {
+      "width": 1,
+      "depth": 1,
+      "height": 1
+    },
+    "mysekaiFixtureMainGenreId": 29,
+    "mysekaiFixtureSubGenreId": 10,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "any",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "put_target",
+    "mysekaiFixtureAnotherColors": [],
+    "mysekaiFixtureGameCharacterGroupPerformanceBonusId": 52,
+    "mysekaiFixturePutSoundId": 9,
+    "mysekaiFixtureTagGroup": {
+      "id": 1493,
+      "mysekaiFixtureTagId1": 11498,
+      "mysekaiFixtureTagId2": 22
+    },
+    "isAssembled": true,
+    "isDisassembled": false,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_pas118_fixture_doll5small",
+    "firstPutCost": 55,
+    "secondPutCost": 2
+  },
+  {
+    "id": 1494,
+    "mysekaiFixtureType": "normal",
+    "name": "[リミテッドスタイル vol.4] まふゆのぬいぐるみ\/M",
+    "pronunciation": "りみてっどすたいるぼりゅーむふぉーまふゆのぬいぐるみえむ",
+    "flavorText": "[リミテッドスタイル vol.4] まふゆのぬいぐるみ\/M",
+    "seq": 85118014,
+    "gridSize": {
+      "width": 1,
+      "depth": 1,
+      "height": 2
+    },
+    "mysekaiFixtureMainGenreId": 29,
+    "mysekaiFixtureSubGenreId": 10,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "any",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "put_target",
+    "mysekaiFixtureAnotherColors": [],
+    "mysekaiFixtureGameCharacterGroupPerformanceBonusId": 53,
+    "mysekaiFixturePutSoundId": 9,
+    "mysekaiFixtureTagGroup": {
+      "id": 1494,
+      "mysekaiFixtureTagId1": 11499,
+      "mysekaiFixtureTagId2": 22
+    },
+    "isAssembled": true,
+    "isDisassembled": false,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_pas118_fixture_doll5medium",
+    "firstPutCost": 75,
+    "secondPutCost": 2
+  },
+  {
+    "id": 1495,
+    "mysekaiFixtureType": "normal",
+    "name": "[リミテッドスタイル vol.4] まふゆのぬいぐるみ\/L",
+    "pronunciation": "りみてっどすたいるぼりゅーむふぉーまふゆのぬいぐるみえる",
+    "flavorText": "[リミテッドスタイル vol.4] まふゆのぬいぐるみ\/L",
+    "seq": 85118015,
+    "gridSize": {
+      "width": 2,
+      "depth": 2,
+      "height": 3
+    },
+    "mysekaiFixtureMainGenreId": 29,
+    "mysekaiFixtureSubGenreId": 10,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "any",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "put_target",
+    "mysekaiFixtureAnotherColors": [],
+    "mysekaiFixtureGameCharacterGroupPerformanceBonusId": 54,
+    "mysekaiFixturePutSoundId": 10,
+    "mysekaiFixtureTagGroup": {
+      "id": 1495,
+      "mysekaiFixtureTagId1": 11500,
+      "mysekaiFixtureTagId2": 22
+    },
+    "isAssembled": true,
+    "isDisassembled": false,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_pas118_fixture_doll5large",
+    "firstPutCost": 80,
+    "secondPutCost": 2
+  },
+  {
+    "id": 1496,
+    "mysekaiFixtureType": "normal",
+    "name": "[リミテッドスタイル vol.4] レンのぬいぐるみ\/S",
+    "pronunciation": "りみてっどすたいるぼりゅーむふぉーれんのぬいぐるみえす",
+    "flavorText": "[リミテッドスタイル vol.4] レンのぬいぐるみ\/S",
+    "seq": 86123013,
+    "gridSize": {
+      "width": 1,
+      "depth": 1,
+      "height": 1
+    },
+    "mysekaiFixtureMainGenreId": 29,
+    "mysekaiFixtureSubGenreId": 10,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "any",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "put_target",
+    "mysekaiFixtureAnotherColors": [],
+    "mysekaiFixtureGameCharacterGroupPerformanceBonusId": 67,
+    "mysekaiFixturePutSoundId": 9,
+    "mysekaiFixtureTagGroup": {
+      "id": 1496,
+      "mysekaiFixtureTagId1": 11501,
+      "mysekaiFixtureTagId2": 28
+    },
+    "isAssembled": true,
+    "isDisassembled": false,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_pas123_fixture_doll5small",
+    "firstPutCost": 55,
+    "secondPutCost": 2
+  },
+  {
+    "id": 1497,
+    "mysekaiFixtureType": "normal",
+    "name": "[リミテッドスタイル vol.4] レンのぬいぐるみ\/M",
+    "pronunciation": "りみてっどすたいるぼりゅーむふぉーれんのぬいぐるみえむ",
+    "flavorText": "[リミテッドスタイル vol.4] レンのぬいぐるみ\/M",
+    "seq": 86123014,
+    "gridSize": {
+      "width": 1,
+      "depth": 1,
+      "height": 2
+    },
+    "mysekaiFixtureMainGenreId": 29,
+    "mysekaiFixtureSubGenreId": 10,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "any",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "put_target",
+    "mysekaiFixtureAnotherColors": [],
+    "mysekaiFixtureGameCharacterGroupPerformanceBonusId": 68,
+    "mysekaiFixturePutSoundId": 9,
+    "mysekaiFixtureTagGroup": {
+      "id": 1497,
+      "mysekaiFixtureTagId1": 11502,
+      "mysekaiFixtureTagId2": 28
+    },
+    "isAssembled": true,
+    "isDisassembled": false,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_pas123_fixture_doll5medium",
+    "firstPutCost": 75,
+    "secondPutCost": 2
+  },
+  {
+    "id": 1498,
+    "mysekaiFixtureType": "normal",
+    "name": "[リミテッドスタイル vol.4] レンのぬいぐるみ\/L",
+    "pronunciation": "りみてっどすたいるぼりゅーむふぉーれんのぬいぐるみえる",
+    "flavorText": "[リミテッドスタイル vol.4] レンのぬいぐるみ\/L",
+    "seq": 86123015,
+    "gridSize": {
+      "width": 2,
+      "depth": 2,
+      "height": 3
+    },
+    "mysekaiFixtureMainGenreId": 29,
+    "mysekaiFixtureSubGenreId": 10,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "any",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "put_target",
+    "mysekaiFixtureAnotherColors": [],
+    "mysekaiFixtureGameCharacterGroupPerformanceBonusId": 69,
+    "mysekaiFixturePutSoundId": 10,
+    "mysekaiFixtureTagGroup": {
+      "id": 1498,
+      "mysekaiFixtureTagId1": 11503,
+      "mysekaiFixtureTagId2": 28
+    },
+    "isAssembled": true,
+    "isDisassembled": false,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_pas123_fixture_doll5large",
+    "firstPutCost": 80,
+    "secondPutCost": 2
+  },
+  {
+    "id": 1499,
+    "mysekaiFixtureType": "normal",
+    "name": "[リミテッドスタイル vol.4] MEIKOのぬいぐるみ\/S",
+    "pronunciation": "りみてっどすたいるぼりゅーむふぉーめいこのぬいぐるみえす",
+    "flavorText": "[リミテッドスタイル vol.4] MEIKOのぬいぐるみ\/S",
+    "seq": 86125013,
+    "gridSize": {
+      "width": 1,
+      "depth": 1,
+      "height": 1
+    },
+    "mysekaiFixtureMainGenreId": 29,
+    "mysekaiFixtureSubGenreId": 10,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "any",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "put_target",
+    "mysekaiFixtureAnotherColors": [],
+    "mysekaiFixtureGameCharacterGroupPerformanceBonusId": 73,
+    "mysekaiFixturePutSoundId": 9,
+    "mysekaiFixtureTagGroup": {
+      "id": 1499,
+      "mysekaiFixtureTagId1": 11504,
+      "mysekaiFixtureTagId2": 30
+    },
+    "isAssembled": true,
+    "isDisassembled": false,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_pas125_fixture_doll5small",
+    "firstPutCost": 55,
+    "secondPutCost": 2
+  },
+  {
+    "id": 1500,
+    "mysekaiFixtureType": "normal",
+    "name": "[リミテッドスタイル vol.4] MEIKOのぬいぐるみ\/M",
+    "pronunciation": "りみてっどすたいるぼりゅーむふぉーめいこのぬいぐるみえむ",
+    "flavorText": "[リミテッドスタイル vol.4] MEIKOのぬいぐるみ\/M",
+    "seq": 86125014,
+    "gridSize": {
+      "width": 1,
+      "depth": 1,
+      "height": 2
+    },
+    "mysekaiFixtureMainGenreId": 29,
+    "mysekaiFixtureSubGenreId": 10,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "any",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "put_target",
+    "mysekaiFixtureAnotherColors": [],
+    "mysekaiFixtureGameCharacterGroupPerformanceBonusId": 74,
+    "mysekaiFixturePutSoundId": 9,
+    "mysekaiFixtureTagGroup": {
+      "id": 1500,
+      "mysekaiFixtureTagId1": 11505,
+      "mysekaiFixtureTagId2": 30
+    },
+    "isAssembled": true,
+    "isDisassembled": false,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_pas125_fixture_doll5medium",
+    "firstPutCost": 75,
+    "secondPutCost": 2
+  },
+  {
+    "id": 1501,
+    "mysekaiFixtureType": "normal",
+    "name": "[リミテッドスタイル vol.4] MEIKOのぬいぐるみ\/L",
+    "pronunciation": "りみてっどすたいるぼりゅーむふぉーめいこのぬいぐるみえる",
+    "flavorText": "[リミテッドスタイル vol.4] MEIKOのぬいぐるみ\/L",
+    "seq": 86125015,
+    "gridSize": {
+      "width": 2,
+      "depth": 2,
+      "height": 3
+    },
+    "mysekaiFixtureMainGenreId": 29,
+    "mysekaiFixtureSubGenreId": 10,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "any",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "put_target",
+    "mysekaiFixtureAnotherColors": [],
+    "mysekaiFixtureGameCharacterGroupPerformanceBonusId": 75,
+    "mysekaiFixturePutSoundId": 10,
+    "mysekaiFixtureTagGroup": {
+      "id": 1501,
+      "mysekaiFixtureTagId1": 11506,
+      "mysekaiFixtureTagId2": 30
+    },
+    "isAssembled": true,
+    "isDisassembled": false,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_pas125_fixture_doll5large",
+    "firstPutCost": 80,
     "secondPutCost": 2
   },
   {

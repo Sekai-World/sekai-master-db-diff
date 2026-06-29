@@ -937,7 +937,7 @@
   },
   {
     "wordingKey": "MSG_CONFIRM_LEAVE_MYSEKAI",
-    "value": "{0}のマイセカイを退出します。\nよろしいですか？"
+    "value": "{0}のマイセカイから離れます。\nよろしいですか？"
   },
   {
     "wordingKey": "MSG_CONFIRM_MYLIST_RESET",
@@ -2256,6 +2256,10 @@
     "value": "ライブ会場へ移動しています。"
   },
   {
+    "wordingKey": "MSG_MOVE_TO_OTHER_MYSEKAI",
+    "value": "別のマイセカイに移動します。"
+  },
+  {
     "wordingKey": "MSG_MOVIE_SKIP_BODY",
     "value": "ムービーをスキップしますか？"
   },
@@ -2781,7 +2785,7 @@
   },
   {
     "wordingKey": "MSG_MYSEKAI_HOUSING_COMPETITION_LEAVE_CONFIRM",
-    "value": "{0}を退出します。\n よろしいですか？"
+    "value": "{0}から離れます。\n よろしいですか？"
   },
   {
     "wordingKey": "MSG_MYSEKAI_HOUSING_COMPETITION_LOADING_PAGE",
@@ -2830,6 +2834,10 @@
   {
     "wordingKey": "MSG_MYSEKAI_HOUSING_COMPETITION_REVIEW_OUT_OF_TERM",
     "value": "コンテストが更新されたため、いいねができません。"
+  },
+  {
+    "wordingKey": "MSG_MYSEKAI_HOUSING_COMPETITION_REVIEW_RANK_RESTRICTION",
+    "value": "プレイヤーランク{0}に到達"
   },
   {
     "wordingKey": "MSG_MYSEKAI_HOUSING_COMPETITION_SELECT_SUBMISSION_SITE",
@@ -3949,7 +3957,7 @@
   },
   {
     "wordingKey": "MSG_RETURN_TO_PLAYER_MYSEKAI",
-    "value": "自分のマイセカイに戻ります"
+    "value": "自分のマイセカイに戻ります。"
   },
   {
     "wordingKey": "MSG_REVIEW_GIFT",
@@ -7748,12 +7756,20 @@
     "value": "対象の衣装がありません。"
   },
   {
+    "wordingKey": "WORD_FILTER_BLOOM_FESTIVAL_LIMITED",
+    "value": "ブルフェス限定"
+  },
+  {
     "wordingKey": "WORD_FILTER_CARD_NORMAL",
     "value": "恒常"
   },
   {
     "wordingKey": "WORD_FILTER_CARD_SUPPLY_TYPE",
     "value": "メンバー種類"
+  },
+  {
+    "wordingKey": "WORD_FILTER_COLLABORATION_LIMITED",
+    "value": "コラボ限定"
   },
   {
     "wordingKey": "WORD_FILTER_COLORFUL_FESTIVAL_LIMITED",
@@ -7794,6 +7810,10 @@
   {
     "wordingKey": "WORD_FILTER_TOGGLE_NOT_JOINED_VIRTUAL_LIVE",
     "value": "バーチャルライブ未視聴"
+  },
+  {
+    "wordingKey": "WORD_FILTER_UNIT_EVENT_LIMITED",
+    "value": "ユニイベ限定"
   },
   {
     "wordingKey": "WORD_FINAL_CONFIRM",
@@ -8450,6 +8470,10 @@
   {
     "wordingKey": "WORD_GO_TO_STREAMING_LIVE_TICKET_SHOP",
     "value": "チケット購入"
+  },
+  {
+    "wordingKey": "WORD_GO_TO_VISIT_TOP",
+    "value": "おでかけ画面へ"
   },
   {
     "wordingKey": "WORD_GO_VIRTUAL_LIVE",

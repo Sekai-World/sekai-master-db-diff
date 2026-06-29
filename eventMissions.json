@@ -18037,5 +18037,143 @@
     "eventMissionSelectableRewardGroupId": 2,
     "sentence": "7つのミッションを全て達成しよう。",
     "rewards": []
+  },
+  {
+    "id": 1025,
+    "eventId": 209,
+    "seq": 1,
+    "eventMissionType": "live_clear_daily",
+    "eventMissionCategory": "normal",
+    "requirement1": 8,
+    "sentence": "累計8日ライブを1日1回クリアしよう。",
+    "rewards": [
+      {
+        "id": 18580,
+        "missionType": "event_mission",
+        "missionId": 1025,
+        "seq": 1,
+        "resourceBoxId": 8004
+      }
+    ]
+  },
+  {
+    "id": 1026,
+    "eventId": 209,
+    "seq": 2,
+    "eventMissionType": "any_live_clear",
+    "eventMissionCategory": "normal",
+    "requirement1": 50,
+    "sentence": "ライブを50回クリアしよう。",
+    "rewards": [
+      {
+        "id": 18581,
+        "missionType": "event_mission",
+        "missionId": 1026,
+        "seq": 1,
+        "resourceBoxId": 8004
+      }
+    ]
+  },
+  {
+    "id": 1027,
+    "eventId": 209,
+    "seq": 3,
+    "eventMissionType": "live_clear_full_combo",
+    "eventMissionCategory": "normal",
+    "requirement1": 10,
+    "sentence": "ライブで楽曲をフルコンボで10回クリアしよう。",
+    "rewards": [
+      {
+        "id": 18582,
+        "missionType": "event_mission",
+        "missionId": 1027,
+        "seq": 1,
+        "resourceBoxId": 8004
+      }
+    ]
+  },
+  {
+    "id": 1028,
+    "eventId": 209,
+    "seq": 4,
+    "eventMissionType": "live_clear_different_music",
+    "eventMissionCategory": "normal",
+    "requirement1": 10,
+    "requirement2": 1,
+    "sentence": "ライブで10種類の楽曲をクリアしよう。",
+    "rewards": [
+      {
+        "id": 18583,
+        "missionType": "event_mission",
+        "missionId": 1028,
+        "seq": 1,
+        "resourceBoxId": 8004
+      }
+    ]
+  },
+  {
+    "id": 1029,
+    "eventId": 209,
+    "seq": 5,
+    "eventMissionType": "read_last_event_story_episode",
+    "eventMissionCategory": "normal",
+    "requirement1": 1,
+    "sentence": "イベント「アイドル・花里みのり～夢の最前線～」のイベントストーリー第8話を読もう。",
+    "rewards": [
+      {
+        "id": 18584,
+        "missionType": "event_mission",
+        "missionId": 1029,
+        "seq": 1,
+        "resourceBoxId": 8004
+      }
+    ]
+  },
+  {
+    "id": 1030,
+    "eventId": 209,
+    "seq": 6,
+    "eventMissionType": "consume_event_item",
+    "eventMissionCategory": "normal",
+    "requirement1": 20000,
+    "sentence": "イベント「アイドル・花里みのり～夢の最前線～」の交換所でバッジを20000個消費しよう。",
+    "rewards": [
+      {
+        "id": 18585,
+        "missionType": "event_mission",
+        "missionId": 1030,
+        "seq": 1,
+        "resourceBoxId": 8004
+      }
+    ]
+  },
+  {
+    "id": 1031,
+    "eventId": 209,
+    "seq": 7,
+    "eventMissionType": "join_virtual_live",
+    "eventMissionCategory": "normal",
+    "requirement1": 1,
+    "sentence": "「アイドル・花里みのり～夢の最前線～ アフターライブ」に参加しよう。",
+    "rewards": [
+      {
+        "id": 18586,
+        "missionType": "event_mission",
+        "missionId": 1031,
+        "seq": 1,
+        "resourceBoxId": 8004
+      }
+    ]
+  },
+  {
+    "id": 1032,
+    "eventId": 209,
+    "seq": 8,
+    "eventMissionType": "achieve_event_mission",
+    "eventMissionCategory": "complete_selectable_reward",
+    "requirement1": 7,
+    "eventMissionSelectableRewardGroupId": 2,
+    "sentence": "7つのミッションを全て達成しよう。",
+    "rewards": []
   }
 ]
