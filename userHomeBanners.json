@@ -11,28 +11,6 @@
     "url": "https:\/\/pjsekai.sega.jp\/index.html"
   },
   {
-    "homeBannerId": 1593,
-    "seq": 180,
-    "homeBannerType": "general",
-    "name": "[ガチャ]ワンダショ箱イベ_ガチャバナー",
-    "assetbundleName": "banner_gacha964",
-    "transitionDestinationType": "gacha",
-    "transitionDestinationId": 964,
-    "startAt": 1781924400000,
-    "endAt": 1782788399000
-  },
-  {
-    "homeBannerId": 1594,
-    "seq": 170,
-    "homeBannerType": "event",
-    "name": "[イベント]ワンダショ箱イベ_イベントバナー",
-    "assetbundleName": "event_monster_2026",
-    "transitionDestinationType": "event",
-    "transitionDestinationId": 208,
-    "startAt": 1781935200000,
-    "endAt": 1782799199000
-  },
-  {
     "homeBannerId": 1595,
     "seq": 10,
     "homeBannerType": "general",
@@ -42,5 +20,27 @@
     "transitionDestinationId": 965,
     "startAt": 1782021600000,
     "endAt": 1783090799000
+  },
+  {
+    "homeBannerId": 1597,
+    "seq": 50,
+    "homeBannerType": "general",
+    "name": "ブルームフェスティバルガチャ",
+    "assetbundleName": "banner_gacha966",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 966,
+    "startAt": 1782788400000,
+    "endAt": 1783133999000
+  },
+  {
+    "homeBannerId": 1599,
+    "seq": 100,
+    "homeBannerType": "event",
+    "name": "[イベント]モモジャン箱イベ_イベントバナー",
+    "assetbundleName": "event_frontlines_2026",
+    "transitionDestinationType": "event",
+    "transitionDestinationId": 209,
+    "startAt": 1782799200000,
+    "endAt": 1783576799000
   }
 ]
