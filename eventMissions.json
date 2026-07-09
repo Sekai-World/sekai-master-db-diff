@@ -18175,5 +18175,143 @@
     "eventMissionSelectableRewardGroupId": 2,
     "sentence": "7つのミッションを全て達成しよう。",
     "rewards": []
+  },
+  {
+    "id": 1033,
+    "eventId": 210,
+    "seq": 1,
+    "eventMissionType": "live_clear_daily",
+    "eventMissionCategory": "normal",
+    "requirement1": 9,
+    "sentence": "累計9日ライブを1日1回クリアしよう。",
+    "rewards": [
+      {
+        "id": 18947,
+        "missionType": "event_mission",
+        "missionId": 1033,
+        "seq": 1,
+        "resourceBoxId": 8004
+      }
+    ]
+  },
+  {
+    "id": 1034,
+    "eventId": 210,
+    "seq": 2,
+    "eventMissionType": "any_live_clear",
+    "eventMissionCategory": "normal",
+    "requirement1": 50,
+    "sentence": "ライブを50回クリアしよう。",
+    "rewards": [
+      {
+        "id": 18948,
+        "missionType": "event_mission",
+        "missionId": 1034,
+        "seq": 1,
+        "resourceBoxId": 8004
+      }
+    ]
+  },
+  {
+    "id": 1035,
+    "eventId": 210,
+    "seq": 3,
+    "eventMissionType": "live_clear_full_combo",
+    "eventMissionCategory": "normal",
+    "requirement1": 10,
+    "sentence": "ライブで楽曲をフルコンボで10回クリアしよう。",
+    "rewards": [
+      {
+        "id": 18949,
+        "missionType": "event_mission",
+        "missionId": 1035,
+        "seq": 1,
+        "resourceBoxId": 8004
+      }
+    ]
+  },
+  {
+    "id": 1036,
+    "eventId": 210,
+    "seq": 4,
+    "eventMissionType": "live_clear_different_music",
+    "eventMissionCategory": "normal",
+    "requirement1": 10,
+    "requirement2": 1,
+    "sentence": "ライブで10種類の楽曲をクリアしよう。",
+    "rewards": [
+      {
+        "id": 18950,
+        "missionType": "event_mission",
+        "missionId": 1036,
+        "seq": 1,
+        "resourceBoxId": 8004
+      }
+    ]
+  },
+  {
+    "id": 1037,
+    "eventId": 210,
+    "seq": 5,
+    "eventMissionType": "read_last_event_story_episode",
+    "eventMissionCategory": "normal",
+    "requirement1": 1,
+    "sentence": "イベント「褪せない今を、彩って」のイベントストーリー第8話を読もう。",
+    "rewards": [
+      {
+        "id": 18951,
+        "missionType": "event_mission",
+        "missionId": 1037,
+        "seq": 1,
+        "resourceBoxId": 8004
+      }
+    ]
+  },
+  {
+    "id": 1038,
+    "eventId": 210,
+    "seq": 6,
+    "eventMissionType": "consume_event_item",
+    "eventMissionCategory": "normal",
+    "requirement1": 20000,
+    "sentence": "イベント「褪せない今を、彩って」の交換所でバッジを20000個消費しよう。",
+    "rewards": [
+      {
+        "id": 18952,
+        "missionType": "event_mission",
+        "missionId": 1038,
+        "seq": 1,
+        "resourceBoxId": 8004
+      }
+    ]
+  },
+  {
+    "id": 1039,
+    "eventId": 210,
+    "seq": 7,
+    "eventMissionType": "join_virtual_live",
+    "eventMissionCategory": "normal",
+    "requirement1": 1,
+    "sentence": "「褪せない今を、彩って アフターライブ」に参加しよう。",
+    "rewards": [
+      {
+        "id": 18953,
+        "missionType": "event_mission",
+        "missionId": 1039,
+        "seq": 1,
+        "resourceBoxId": 8004
+      }
+    ]
+  },
+  {
+    "id": 1040,
+    "eventId": 210,
+    "seq": 8,
+    "eventMissionType": "achieve_event_mission",
+    "eventMissionCategory": "complete_selectable_reward",
+    "requirement1": 7,
+    "eventMissionSelectableRewardGroupId": 2,
+    "sentence": "7つのミッションを全て達成しよう。",
+    "rewards": []
   }
 ]

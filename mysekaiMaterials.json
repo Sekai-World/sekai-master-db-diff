@@ -941,6 +941,18 @@
     "mysekaiSiteIds": []
   },
   {
+    "id": 81,
+    "seq": 715,
+    "mysekaiMaterialType": "birthday_party",
+    "name": "寧々のセレブレーションフラワー",
+    "pronunciation": "ねねのせれぶれーしょんふらわー",
+    "description": "寧々の誕生日をお祝いする家具を作るための素材。\n※2026年バースデーイベントでのみ利用可能",
+    "mysekaiMaterialRarityType": "rarity_2",
+    "iconAssetbundleName": "item_birthday_flower_15",
+    "modelAssetbundleName": "mdl_site_birthday_flowerdrop115",
+    "mysekaiSiteIds": []
+  },
+  {
     "id": 82,
     "seq": 716,
     "mysekaiMaterialType": "birthday_party",
@@ -1095,6 +1107,24 @@
     "iconAssetbundleName": "item_junk_16",
     "modelAssetbundleName": "mdl_site_glassball_common_glassballdrop02",
     "mysekaiPhenomenaGroupId": 12,
+    "mysekaiSiteIds": [
+      5,
+      7,
+      6,
+      8
+    ]
+  },
+  {
+    "id": 96,
+    "seq": 511,
+    "mysekaiMaterialType": "junk",
+    "name": "みずたま真珠",
+    "pronunciation": "みずたましんじゅ",
+    "description": "海の底で生まれたしずく型の真珠。\n水中の日に落ちていることがある。",
+    "mysekaiMaterialRarityType": "rarity_2",
+    "iconAssetbundleName": "item_junk_17",
+    "modelAssetbundleName": "mdl_site_glassball_common_glassballdrop02",
+    "mysekaiPhenomenaGroupId": 16,
     "mysekaiSiteIds": [
       5,
       7,
