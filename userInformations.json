@@ -1020,18 +1020,6 @@
     "bannerAssetbundleName": "banner_news_rankmatch017_season-2026-summer"
   },
   {
-    "id": 6264,
-    "seq": 1,
-    "displayOrder": 88100,
-    "informationType": "normal",
-    "informationTag": "information",
-    "browseType": "internal",
-    "platform": "all",
-    "title": "7月3日20時よりWEBラジオ番組「セカラジ#68」を配信！",
-    "path": "information\/index.html?id=info_webradio_sekarazi_68_20260703",
-    "startAt": 1782961200000
-  },
-  {
     "id": 6265,
     "seq": 1,
     "displayOrder": 28820,
@@ -1094,7 +1082,8 @@
     "platform": "all",
     "title": "【7月9日11時30分追記】アプリバージョン「v6.6.0」までに確認している不具合について",
     "path": "information\/index.html?id=bug_summary_to_v6-6-0_add2",
-    "startAt": 1783564200000
+    "startAt": 1783564200000,
+    "endAt": 1783911600000
   },
   {
     "id": 6272,
@@ -1151,19 +1140,6 @@
     "bannerAssetbundleName": "banner_news_thanksfes_Championship2026"
   },
   {
-    "id": 6276,
-    "seq": 1,
-    "displayOrder": 88190,
-    "informationType": "normal",
-    "informationTag": "music",
-    "browseType": "internal",
-    "platform": "all",
-    "title": "楽曲「光」追加！",
-    "path": "information\/index.html?id=info_music_20260709",
-    "startAt": 1783576800000,
-    "endAt": 1783796400000
-  },
-  {
     "id": 6277,
     "seq": 1,
     "displayOrder": 88200,
@@ -1189,48 +1165,6 @@
     "path": "information\/index.html?id=info_x-post-present_20260625",
     "startAt": 1783587600000,
     "endAt": 1784142000000
-  },
-  {
-    "id": 6279,
-    "seq": 1,
-    "displayOrder": 88250,
-    "informationType": "normal",
-    "informationTag": "gacha",
-    "browseType": "internal",
-    "platform": "all",
-    "title": "予告、「[復刻]Strange Workshopガチャ」開催について",
-    "path": "information\/index.html?id=info_gacha972_notice",
-    "startAt": 1783738800000,
-    "endAt": 1783825200000,
-    "bannerAssetbundleName": "banner_news_gacha972"
-  },
-  {
-    "id": 6280,
-    "seq": 1,
-    "displayOrder": 88240,
-    "informationType": "normal",
-    "informationTag": "gacha",
-    "browseType": "internal",
-    "platform": "all",
-    "title": "予告、「[復刻]玲瓏たる追憶ガチャ」開催について",
-    "path": "information\/index.html?id=info_gacha973_notice",
-    "startAt": 1783738800000,
-    "endAt": 1783825200000,
-    "bannerAssetbundleName": "banner_news_gacha973"
-  },
-  {
-    "id": 6281,
-    "seq": 1,
-    "displayOrder": 88260,
-    "informationType": "normal",
-    "informationTag": "gacha",
-    "browseType": "internal",
-    "platform": "all",
-    "title": "予告、「ワールドリンクイベント Part4 サポートガチャ」開催について",
-    "path": "information\/index.html?id=info_gacha971_notice",
-    "startAt": 1783738800000,
-    "endAt": 1783825200000,
-    "bannerAssetbundleName": "banner_news_gacha971"
   },
   {
     "id": 6282,
@@ -1275,6 +1209,19 @@
     "bannerAssetbundleName": "banner_news_gacha971"
   },
   {
+    "id": 6285,
+    "seq": 1,
+    "displayOrder": 88300,
+    "informationType": "normal",
+    "informationTag": "music",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "楽曲「ハナタバ」追加！",
+    "path": "information\/index.html?id=info_music_20260713",
+    "startAt": 1783922400000,
+    "endAt": 1784142000000
+  },
+  {
     "id": 6291,
     "seq": 1,
     "displayOrder": 88230,
@@ -1299,5 +1246,17 @@
     "path": "https:\/\/questant.jp\/q\/XNYUBLJ8?id={userId}",
     "startAt": 1783587600000,
     "endAt": 1783868400000
+  },
+  {
+    "id": 6293,
+    "seq": 1,
+    "displayOrder": 28850,
+    "informationType": "bug",
+    "informationTag": "bug",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "【7月13日12時00分追記】アプリバージョン「v6.6.0」までに確認している不具合について",
+    "path": "information\/index.html?id=bug_summary_to_v6-6-0_add3",
+    "startAt": 1783911600000
   }
 ]
