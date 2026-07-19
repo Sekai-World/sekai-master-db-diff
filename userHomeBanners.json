@@ -11,30 +11,8 @@
     "url": "https:\/\/pjsekai.sega.jp\/index.html"
   },
   {
-    "homeBannerId": 1600,
-    "seq": 110,
-    "homeBannerType": "general",
-    "name": "[ガチャ]ニーゴ箱イベ_ガチャバナー",
-    "assetbundleName": "banner_gacha970",
-    "transitionDestinationType": "gacha",
-    "transitionDestinationId": 970,
-    "startAt": 1783566000000,
-    "endAt": 1784429999000
-  },
-  {
-    "homeBannerId": 1601,
-    "seq": 100,
-    "homeBannerType": "event",
-    "name": "[イベント]ニーゴ箱イベ_イベントバナー",
-    "assetbundleName": "event_addcolor_2026",
-    "transitionDestinationType": "event",
-    "transitionDestinationId": 210,
-    "startAt": 1783576800000,
-    "endAt": 1784458799000
-  },
-  {
     "homeBannerId": 1602,
-    "seq": 130,
+    "seq": 190,
     "homeBannerType": "general",
     "name": "ワールドリンクイベント Part4 サポートガチャ",
     "assetbundleName": "banner_gacha971",
@@ -86,5 +64,27 @@
     "transitionDestinationId": 6289,
     "startAt": 1784214000000,
     "endAt": 1784732400000
+  },
+  {
+    "homeBannerId": 1607,
+    "seq": 110,
+    "homeBannerType": "general",
+    "name": "[ガチャ]WL3part4イベ_定常ガチャバナー",
+    "assetbundleName": "banner_gacha976",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 976,
+    "startAt": 1784430000000,
+    "endAt": 1785466799000
+  },
+  {
+    "homeBannerId": 1608,
+    "seq": 100,
+    "homeBannerType": "event",
+    "name": "[イベント]WL3part4イベ_イベントバナー",
+    "assetbundleName": "event_wl_3rd_part4_2026",
+    "transitionDestinationType": "event",
+    "transitionDestinationId": 211,
+    "startAt": 1784458800000,
+    "endAt": 1785477599000
   }
 ]
