@@ -33387,6 +33387,34 @@
     "archivePublishedAt": 1781935200000
   },
   {
+    "id": 1322,
+    "musicId": 765,
+    "musicVocalType": "original_song",
+    "seq": 101,
+    "releaseConditionId": 5,
+    "caption": "バーチャル・シンガーver.",
+    "characters": [
+      {
+        "id": 2190,
+        "musicId": 765,
+        "musicVocalId": 1322,
+        "characterType": "outside_character",
+        "characterId": 3,
+        "seq": 7650
+      },
+      {
+        "id": 3956,
+        "musicId": 765,
+        "musicVocalId": 1322,
+        "characterType": "outside_character",
+        "characterId": 24,
+        "seq": 7656
+      }
+    ],
+    "assetbundleName": "vs_0765_01",
+    "archivePublishedAt": 1785323700000
+  },
+  {
     "id": 1347,
     "musicId": 790,
     "musicVocalType": "original_song",
@@ -49908,5 +49936,57 @@
     ],
     "assetbundleName": "an_0716_01",
     "archivePublishedAt": 1784428200000
+  },
+  {
+    "id": 2051,
+    "musicId": 765,
+    "musicVocalType": "sekai",
+    "seq": 201,
+    "releaseConditionId": 5,
+    "caption": "セカイver.",
+    "characters": [
+      {
+        "id": 3951,
+        "musicId": 765,
+        "musicVocalId": 2051,
+        "characterType": "game_character",
+        "characterId": 2,
+        "seq": 7651
+      },
+      {
+        "id": 3952,
+        "musicId": 765,
+        "musicVocalId": 2051,
+        "characterType": "game_character",
+        "characterId": 12,
+        "seq": 7652
+      },
+      {
+        "id": 3953,
+        "musicId": 765,
+        "musicVocalId": 2051,
+        "characterType": "game_character",
+        "characterId": 16,
+        "seq": 7653
+      },
+      {
+        "id": 3954,
+        "musicId": 765,
+        "musicVocalId": 2051,
+        "characterType": "game_character",
+        "characterId": 20,
+        "seq": 7654
+      },
+      {
+        "id": 3955,
+        "musicId": 765,
+        "musicVocalId": 2051,
+        "characterType": "game_character",
+        "characterId": 26,
+        "seq": 7655
+      }
+    ],
+    "assetbundleName": "se_0765_01",
+    "archivePublishedAt": 1785323700000
   }
 ]
