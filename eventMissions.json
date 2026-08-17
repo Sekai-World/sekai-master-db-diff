@@ -18727,5 +18727,143 @@
     "eventMissionSelectableRewardGroupId": 2,
     "sentence": "7つのミッションを全て達成しよう。",
     "rewards": []
+  },
+  {
+    "id": 1065,
+    "eventId": 214,
+    "seq": 1,
+    "eventMissionType": "live_clear_daily",
+    "eventMissionCategory": "normal",
+    "requirement1": 11,
+    "sentence": "累計11日ライブを1日1回クリアしよう。",
+    "rewards": [
+      {
+        "id": 19335,
+        "missionType": "event_mission",
+        "missionId": 1065,
+        "seq": 1,
+        "resourceBoxId": 8004
+      }
+    ]
+  },
+  {
+    "id": 1066,
+    "eventId": 214,
+    "seq": 2,
+    "eventMissionType": "any_live_clear",
+    "eventMissionCategory": "normal",
+    "requirement1": 50,
+    "sentence": "ライブを50回クリアしよう。",
+    "rewards": [
+      {
+        "id": 19336,
+        "missionType": "event_mission",
+        "missionId": 1066,
+        "seq": 1,
+        "resourceBoxId": 8004
+      }
+    ]
+  },
+  {
+    "id": 1067,
+    "eventId": 214,
+    "seq": 3,
+    "eventMissionType": "live_clear_full_combo",
+    "eventMissionCategory": "normal",
+    "requirement1": 10,
+    "sentence": "ライブで楽曲をフルコンボで10回クリアしよう。",
+    "rewards": [
+      {
+        "id": 19337,
+        "missionType": "event_mission",
+        "missionId": 1067,
+        "seq": 1,
+        "resourceBoxId": 8004
+      }
+    ]
+  },
+  {
+    "id": 1068,
+    "eventId": 214,
+    "seq": 4,
+    "eventMissionType": "live_clear_different_music",
+    "eventMissionCategory": "normal",
+    "requirement1": 10,
+    "requirement2": 1,
+    "sentence": "ライブで10種類の楽曲をクリアしよう。",
+    "rewards": [
+      {
+        "id": 19338,
+        "missionType": "event_mission",
+        "missionId": 1068,
+        "seq": 1,
+        "resourceBoxId": 8004
+      }
+    ]
+  },
+  {
+    "id": 1069,
+    "eventId": 214,
+    "seq": 5,
+    "eventMissionType": "multi_live_clear",
+    "eventMissionCategory": "normal",
+    "requirement1": 10,
+    "sentence": "みんなでライブを10回クリアしよう。",
+    "rewards": [
+      {
+        "id": 19339,
+        "missionType": "event_mission",
+        "missionId": 1069,
+        "seq": 1,
+        "resourceBoxId": 8004
+      }
+    ]
+  },
+  {
+    "id": 1070,
+    "eventId": 214,
+    "seq": 6,
+    "eventMissionType": "read_last_event_story_episode",
+    "eventMissionCategory": "normal",
+    "requirement1": 1,
+    "sentence": "イベント「Again And Again Ambition！」のエンディングを読もう。",
+    "rewards": [
+      {
+        "id": 19340,
+        "missionType": "event_mission",
+        "missionId": 1070,
+        "seq": 1,
+        "resourceBoxId": 8004
+      }
+    ]
+  },
+  {
+    "id": 1071,
+    "eventId": 214,
+    "seq": 7,
+    "eventMissionType": "consume_event_item",
+    "eventMissionCategory": "normal",
+    "requirement1": 20000,
+    "sentence": "イベント「Again And Again Ambition！」の交換所でバッジを20000個消費しよう。",
+    "rewards": [
+      {
+        "id": 19341,
+        "missionType": "event_mission",
+        "missionId": 1071,
+        "seq": 1,
+        "resourceBoxId": 8004
+      }
+    ]
+  },
+  {
+    "id": 1072,
+    "eventId": 214,
+    "seq": 8,
+    "eventMissionType": "achieve_event_mission",
+    "eventMissionCategory": "complete_selectable_reward",
+    "requirement1": 7,
+    "eventMissionSelectableRewardGroupId": 2,
+    "sentence": "7つのミッションを全て達成しよう。",
+    "rewards": []
   }
 ]
