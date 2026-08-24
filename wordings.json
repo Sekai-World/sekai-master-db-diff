@@ -640,6 +640,10 @@
     "value": "{0}の\n申込みを開始しました。\nカラフルパスの「イベント申込み」よりご確認ください。"
   },
   {
+    "wordingKey": "MSG_CARD_SKILL_SCORE_UP_LIMIT_NOTICE",
+    "value": "※イベント期間中、発揮可能なスキルUP効果値は{0}%\nまでに制限されます。"
+  },
+  {
     "wordingKey": "MSG_CHALLENGE_CHARACTER_SELECT_BODY",
     "value": "このキャラクターでチャレンジしますか？"
   },
@@ -3492,6 +3496,26 @@
     "value": "スタートランクの決定まで\n残り<color=#FF5599>{0}<\/color>マッチ"
   },
   {
+    "wordingKey": "MSG_PLAYER_FRAME_COLOR_CONFIRM",
+    "value": "このフレームカラーでよろしいですか？"
+  },
+  {
+    "wordingKey": "MSG_PLAYER_FRAME_COLOR_FINAL_CONFIRM",
+    "value": "<color=#FF3366>決定後、フレームカラーは変更できません。<\/color>\n本当によろしいですか？"
+  },
+  {
+    "wordingKey": "MSG_PLAYER_FRAME_COLOR_SELECT_CANCEL",
+    "value": "フレームカラーが未決定です。\nフレームカラーをあとで設定しますか？\n\n<color=#FF3366>※設定途中のカラーは保存されません。<\/color>"
+  },
+  {
+    "wordingKey": "MSG_PLAYER_FRAME_COLOR_SETTING_BODY",
+    "value": "このフレームはパーツごとに好きなカラーを設定できます。\nフレームカラーを設定しますか？\n\n<color=#FF3366>※フレームカラーは一度決定すると変更できません。<\/color>"
+  },
+  {
+    "wordingKey": "MSG_PLAYER_FRAME_COLOR_UNSET_PREVIEW_BODY",
+    "value": "フレームカラーが未設定です。\n設定後に確認できます。"
+  },
+  {
     "wordingKey": "MSG_PLAYER_FRAME_NONE",
     "value": "フレームがありません。"
   },
@@ -5884,6 +5908,10 @@
     "value": "---"
   },
   {
+    "wordingKey": "WORD_CARD_SKILL_SCORE_UP_LIMIT_NOTICE",
+    "value": "スキル制限"
+  },
+  {
     "wordingKey": "WORD_CARD_SORT",
     "value": "メンバー並び替え"
   },
@@ -7110,6 +7138,10 @@
   {
     "wordingKey": "WORD_DIFFERENT_ATTRIBUTE_BONUS_DESCRIPTION",
     "value": "異なるタイプ"
+  },
+  {
+    "wordingKey": "WORD_DIFFERENT_UNIT_BONUS_DESCRIPTION",
+    "value": "異なるユニット"
   },
   {
     "wordingKey": "WORD_DIFFICULTY_SELECT",
@@ -11252,8 +11284,16 @@
     "value": "フレーム"
   },
   {
+    "wordingKey": "WORD_PLAYER_FRAME_COLOR_UNSET",
+    "value": "フレームカラー未設定"
+  },
+  {
     "wordingKey": "WORD_PLAYER_FRAME_LIST_PREVIEW",
     "value": "リストプレビュー"
+  },
+  {
+    "wordingKey": "WORD_PLAYER_FRAME_PART",
+    "value": "パーツ{0}"
   },
   {
     "wordingKey": "WORD_PLAYER_ID",
@@ -12392,6 +12432,10 @@
     "value": "BGMに設定"
   },
   {
+    "wordingKey": "WORD_SET_PLAYER_FRAME_COLOR",
+    "value": "設定したフレームカラー"
+  },
+  {
     "wordingKey": "WORD_SET_PREVIEW_START_POINT",
     "value": "譜面プレビューの開始地点を指定できます。"
   },
@@ -12445,11 +12489,11 @@
   },
   {
     "wordingKey": "WORD_SHOP_AGE_DETAIL2",
-    "value": "20歳未満"
+    "value": "18歳未満"
   },
   {
     "wordingKey": "WORD_SHOP_AGE_DETAIL3",
-    "value": "20歳以上"
+    "value": "18歳以上"
   },
   {
     "wordingKey": "WORD_SHOP_AGE_TITLE",

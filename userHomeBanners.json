@@ -23,7 +23,7 @@
   },
   {
     "homeBannerId": 1624,
-    "seq": 110,
+    "seq": 180,
     "homeBannerType": "general",
     "name": "[ガチャ]WL3part5イベ_定常ガチャバナー",
     "assetbundleName": "banner_gacha990",
@@ -34,7 +34,7 @@
   },
   {
     "homeBannerId": 1625,
-    "seq": 100,
+    "seq": 170,
     "homeBannerType": "event",
     "name": "[イベント]WL3part5イベ_イベントバナー",
     "assetbundleName": "event_wl_3rd_part5_2026",
@@ -86,5 +86,26 @@
     "transitionDestinationId": 6403,
     "startAt": 1787842800000,
     "endAt": 1788361200000
+  },
+  {
+    "homeBannerId": 1635,
+    "seq": 80,
+    "homeBannerType": "general",
+    "name": "[マジカルミライ2026開催記念]プレミアムプレゼントガチャ",
+    "assetbundleName": "banner_gacha995",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 995,
+    "startAt": 1787886000000,
+    "endAt": 1788404399000
+  },
+  {
+    "homeBannerId": 1637,
+    "seq": 160,
+    "homeBannerType": "general",
+    "name": "マジカルミライ2024\/2025衣装再販",
+    "assetbundleName": "banner_shop_magicalmirai_costume_2025",
+    "transitionDestinationType": "billing_shop_for_jewel",
+    "startAt": 1787886000000,
+    "endAt": 1788404399000
   }
 ]
