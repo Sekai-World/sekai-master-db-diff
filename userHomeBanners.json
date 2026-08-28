@@ -1,88 +1,118 @@
 [
   {
+    "homeBannerId": 18,
+    "seq": 9999,
+    "homeBannerType": "general",
+    "assetbundleName": "banner_beginners_guide",
+    "transitionDestinationType": "information",
+    "transitionDestinationId": 10003,
+    "startAt": 1632967200000,
+    "endAt": 4102415999000
+  },
+  {
     "homeBannerId": 48,
     "seq": 9998,
     "homeBannerType": "general",
-    "name": "ウェルカムライブバナー",
-    "assetbundleName": "banner_virtuallive1",
+    "assetbundleName": "banner_welcomelive",
     "transitionDestinationType": "virtual_live",
     "transitionDestinationId": 20001,
-    "startAt": 1601496000000,
-    "endAt": 4102473599000
+    "startAt": 1635750000000,
+    "endAt": 4102415999000
   },
   {
-    "homeBannerId": 1001,
-    "seq": 200,
+    "homeBannerId": 1367,
+    "seq": 180,
     "homeBannerType": "general",
-    "name": "Colorful++(サブスクリプション)",
-    "assetbundleName": "banner_subscription",
-    "transitionDestinationType": "subscription",
-    "transitionDestinationId": 1,
-    "startAt": 1633118400000,
-    "endAt": 4102473540000
-  },
-  {
-    "homeBannerId": 1121,
-    "seq": 210,
-    "homeBannerType": "general",
-    "name": "Monthly Bundle",
-    "assetbundleName": "banner_shop_monthlypack_gl",
-    "transitionDestinationType": "billing_shop_for_value_set",
-    "startAt": 1727766000000,
-    "endAt": 4102473540000
-  },
-  {
-    "homeBannerId": 1206,
-    "seq": 200,
-    "homeBannerType": "general",
-    "name": "劇場版★2メンバーコレクションバンドル",
-    "assetbundleName": "banner_shop_movie_character_ticket_gl",
-    "transitionDestinationType": "billing_shop_for_value_set",
-    "startAt": 1778180400000,
-    "endAt": 1796626799000
-  },
-  {
-    "homeBannerId": 1210,
-    "seq": 100,
-    "homeBannerType": "general",
-    "name": "2026 August Premium Gift Gacha",
-    "assetbundleName": "banner_gacha1172",
-    "transitionDestinationType": "gacha",
-    "transitionDestinationId": 1172,
-    "startAt": 1786388400000,
-    "endAt": 1788202799000
-  },
-  {
-    "homeBannerId": 100351,
-    "seq": 45,
-    "homeBannerType": "general",
-    "name": "公式ストア",
-    "assetbundleName": "banner_official_store",
-    "transitionDestinationType": "web",
-    "startAt": 1756927800000,
-    "endAt": 4102473599000,
-    "url": "https:\/\/www.colorfulstage.com\/news\/detail\/000852.html"
-  },
-  {
-    "homeBannerId": 100375,
-    "seq": 110,
-    "homeBannerType": "general",
-    "name": "[ガチャ]ニーゴ箱イベ_ガチャバナー",
     "assetbundleName": "banner_gacha789",
     "transitionDestinationType": "gacha",
     "transitionDestinationId": 789,
-    "startAt": 1787425200000,
-    "endAt": 1788116399000
+    "startAt": 1787371200000,
+    "endAt": 1788062399000
   },
   {
-    "homeBannerId": 100377,
-    "seq": 100,
+    "homeBannerId": 1369,
+    "seq": 170,
     "homeBannerType": "event",
-    "name": "[イベント]ニーゴ箱イベ_イベントバナー",
     "assetbundleName": "event_tomorrow_2025",
     "transitionDestinationType": "event",
     "transitionDestinationId": 177,
-    "startAt": 1787436000000,
-    "endAt": 1788127199000
+    "startAt": 1787382000000,
+    "endAt": 1788073199000
+  },
+  {
+    "homeBannerId": 1395,
+    "seq": 10,
+    "homeBannerType": "general",
+    "assetbundleName": "banner_gacha810",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 810,
+    "startAt": 1786766400000,
+    "endAt": 1788191999000
+  },
+  {
+    "homeBannerId": 10037,
+    "seq": 132,
+    "homeBannerType": "general",
+    "assetbundleName": "banner_colorfulpass_v2",
+    "transitionDestinationType": "billing_shop_for_colorful_pass",
+    "startAt": 1695092400000,
+    "endAt": 4093469999000
+  },
+  {
+    "homeBannerId": 10040,
+    "seq": 4,
+    "homeBannerType": "general",
+    "assetbundleName": "banner_firstrecharge_1",
+    "transitionDestinationType": "billing_shop_for_first_recharge",
+    "startAt": 1695092400000,
+    "endAt": 4093473599000
+  },
+  {
+    "homeBannerId": 10065,
+    "seq": 530,
+    "homeBannerType": "general",
+    "assetbundleName": "banner_sekaiecho",
+    "transitionDestinationType": "sekai_echo",
+    "startAt": 1758081600000,
+    "endAt": 4101379200000
+  },
+  {
+    "homeBannerId": 20004,
+    "seq": 1,
+    "homeBannerType": "general",
+    "assetbundleName": "banner_questionnaire_12",
+    "transitionDestinationType": "questionnaire",
+    "transitionDestinationId": 20319777,
+    "startAt": 1781841600000,
+    "endAt": 4102415999000
+  },
+  {
+    "homeBannerId": 20005,
+    "seq": 1,
+    "homeBannerType": "general",
+    "assetbundleName": "banner_questionnaire_13",
+    "transitionDestinationType": "questionnaire",
+    "transitionDestinationId": 20319778,
+    "startAt": 1781841600000,
+    "endAt": 4102415999000
+  },
+  {
+    "homeBannerId": 20013,
+    "seq": 1,
+    "homeBannerType": "general",
+    "assetbundleName": "banner_shop_magicalmirai_costume_2026",
+    "transitionDestinationType": "billing_shop_for_costume_3d",
+    "startAt": 1787889600000,
+    "endAt": 1788407999000
+  },
+  {
+    "homeBannerId": 20015,
+    "seq": 1,
+    "homeBannerType": "general",
+    "assetbundleName": "banner_gacha995",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 995,
+    "startAt": 1787889600000,
+    "endAt": 1788407999000
   }
 ]
