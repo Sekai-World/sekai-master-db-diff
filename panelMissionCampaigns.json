@@ -28061,5 +28061,173 @@
         ]
       }
     ]
+  },
+  {
+    "id": 16,
+    "name": "[The Music Style]開催記念スタンプミッション",
+    "assetbundleName": "the_music_style_collab_2026_pm",
+    "bgmAssetbundleName": "the_music_style_collab_2026_pm_bgm",
+    "selectableLimit": 1,
+    "startAt": 1788404400000,
+    "progressEndAt": 1789311599000,
+    "closedAt": 1789311599000,
+    "distributionEndAt": 1790521199000,
+    "informationId": 6445,
+    "panelMissionSelectionType": "auto",
+    "panelMissionSheetGroups": [
+      {
+        "id": 1601,
+        "panelMissionCampaignId": 16,
+        "name": "スタンプ",
+        "selectableLimit": 1,
+        "seq": 1,
+        "panelMissionSheets": [
+          {
+            "id": 160101,
+            "panelMissionSheetGroupId": 1601,
+            "name": "スタンプカード",
+            "seq": 1,
+            "assetbundleName": "sheet_the_music_style_collab",
+            "panelMissions": [
+              {
+                "id": 16010101,
+                "panelMissionSheetId": 160101,
+                "name": "楽曲\n「モザイクロール (Reloaded)」\nを1回クリア",
+                "description": "楽曲「モザイクロール (Reloaded)」を1回クリアしよう。",
+                "seq": 1,
+                "panelMissionType": "live_clear_in_music",
+                "requirement1": 1,
+                "rewards": [
+                  {
+                    "id": 19709,
+                    "missionType": "panel_mission",
+                    "missionId": 16010101,
+                    "seq": 1,
+                    "resourceBoxId": 2074
+                  }
+                ]
+              },
+              {
+                "id": 16010102,
+                "panelMissionSheetId": 160101,
+                "name": "楽曲\n「ロミオとシンデレラ」\nを1回クリア",
+                "description": "楽曲「ロミオとシンデレラ」を1回クリアしよう。",
+                "seq": 2,
+                "panelMissionType": "live_clear_in_music",
+                "requirement1": 1,
+                "rewards": [
+                  {
+                    "id": 19710,
+                    "missionType": "panel_mission",
+                    "missionId": 16010102,
+                    "seq": 1,
+                    "resourceBoxId": 2074
+                  }
+                ]
+              },
+              {
+                "id": 16010103,
+                "panelMissionSheetId": 160101,
+                "name": "楽曲\n「PaⅢ.SENSATION」\nを1回クリア",
+                "description": "楽曲「PaⅢ.SENSATION」を1回クリアしよう。",
+                "seq": 3,
+                "panelMissionType": "live_clear_in_music",
+                "requirement1": 1,
+                "rewards": [
+                  {
+                    "id": 19711,
+                    "missionType": "panel_mission",
+                    "missionId": 16010103,
+                    "seq": 1,
+                    "resourceBoxId": 2074
+                  }
+                ]
+              },
+              {
+                "id": 16010104,
+                "panelMissionSheetId": 160101,
+                "name": "楽曲\n「ブリキノダンス」\nを1回クリア",
+                "description": "楽曲「ブリキノダンス」を1回クリアしよう。",
+                "seq": 4,
+                "panelMissionType": "live_clear_in_music",
+                "requirement1": 1,
+                "rewards": [
+                  {
+                    "id": 19712,
+                    "missionType": "panel_mission",
+                    "missionId": 16010104,
+                    "seq": 1,
+                    "resourceBoxId": 2074
+                  }
+                ]
+              },
+              {
+                "id": 16010105,
+                "panelMissionSheetId": 160101,
+                "name": "楽曲\n「Shadow Shadow」\nを1回クリア",
+                "description": "楽曲「Shadow Shadow」を1回クリアしよう。",
+                "seq": 5,
+                "panelMissionType": "live_clear_in_music",
+                "requirement1": 1,
+                "rewards": [
+                  {
+                    "id": 19713,
+                    "missionType": "panel_mission",
+                    "missionId": 16010105,
+                    "seq": 1,
+                    "resourceBoxId": 2074
+                  }
+                ]
+              },
+              {
+                "id": 16010106,
+                "panelMissionSheetId": 160101,
+                "name": "楽曲\n「酔いどれ知らず」\nを1回クリア",
+                "description": "楽曲「酔いどれ知らず」を1回クリアしよう。",
+                "seq": 6,
+                "panelMissionType": "live_clear_in_music",
+                "requirement1": 1,
+                "rewards": [
+                  {
+                    "id": 19714,
+                    "missionType": "panel_mission",
+                    "missionId": 16010106,
+                    "seq": 1,
+                    "resourceBoxId": 2074
+                  }
+                ]
+              },
+              {
+                "id": 16010107,
+                "panelMissionSheetId": 160101,
+                "name": "コラボ対象楽曲で\n累計10回クリア",
+                "description": "コラボ対象楽曲で累計10回ライブをクリアしよう。",
+                "seq": 7,
+                "panelMissionType": "live_clear_in_music_group",
+                "requirement1": 10,
+                "rewards": [
+                  {
+                    "id": 19715,
+                    "missionType": "panel_mission",
+                    "missionId": 16010107,
+                    "seq": 1,
+                    "resourceBoxId": 2074
+                  }
+                ]
+              }
+            ],
+            "rewards": [
+              {
+                "id": 19716,
+                "missionType": "panel_mission_complete",
+                "missionId": 160101,
+                "seq": 1,
+                "resourceBoxId": 2075
+              }
+            ]
+          }
+        ]
+      }
+    ]
   }
 ]
