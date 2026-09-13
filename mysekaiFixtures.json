@@ -55523,6 +55523,578 @@
     "secondPutCost": 2
   },
   {
+    "id": 1645,
+    "mysekaiFixtureType": "surface_appearance",
+    "name": "まじゅうけんきゅうしつの壁",
+    "pronunciation": "まじゅうけんきゅうしつのかべ",
+    "flavorText": "まじゅうけんきゅうしつの壁",
+    "seq": 70007001,
+    "gridSize": {
+      "width": 0,
+      "depth": 0,
+      "height": 0
+    },
+    "mysekaiFixtureMainGenreId": 7,
+    "mysekaiFixtureSubGenreId": 19,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "room",
+    "mysekaiSettableLayoutType": "wall_appearance",
+    "mysekaiFixturePutType": "none",
+    "mysekaiFixtureAnotherColors": [],
+    "mysekaiFixturePutSoundId": 15,
+    "mysekaiFixtureTagGroup": {
+      "id": 1645,
+      "mysekaiFixtureTagId1": 11544,
+      "mysekaiFixtureTagId2": 107
+    },
+    "isAssembled": true,
+    "isDisassembled": true,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "con0007",
+    "firstPutCost": 0,
+    "secondPutCost": 0
+  },
+  {
+    "id": 1646,
+    "mysekaiFixtureType": "surface_appearance",
+    "name": "まじゅうけんきゅうしつの床",
+    "pronunciation": "まじゅうけんきゅうしつのゆか",
+    "flavorText": "まじゅうけきゅうしつの床",
+    "seq": 70007002,
+    "gridSize": {
+      "width": 0,
+      "depth": 0,
+      "height": 0
+    },
+    "mysekaiFixtureMainGenreId": 8,
+    "mysekaiFixtureSubGenreId": 20,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "room",
+    "mysekaiSettableLayoutType": "floor_appearance",
+    "mysekaiFixturePutType": "none",
+    "mysekaiFixtureAnotherColors": [],
+    "mysekaiFixturePutSoundId": 15,
+    "mysekaiFixtureTagGroup": {
+      "id": 1646,
+      "mysekaiFixtureTagId1": 11545,
+      "mysekaiFixtureTagId2": 107
+    },
+    "isAssembled": true,
+    "isDisassembled": true,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "con0007",
+    "firstPutCost": 0,
+    "secondPutCost": 0
+  },
+  {
+    "id": 1647,
+    "mysekaiFixtureType": "normal",
+    "name": "サラマン暖炉",
+    "pronunciation": "さらまんだんろ",
+    "flavorText": "サラマン暖炉",
+    "seq": 70007003,
+    "gridSize": {
+      "width": 4,
+      "depth": 3,
+      "height": 3
+    },
+    "colorCode": "#AF7DFF",
+    "mysekaiFixtureMainGenreId": 2,
+    "mysekaiFixtureSubGenreId": 9,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "any",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "put_base",
+    "mysekaiFixtureAnotherColors": [
+      {
+        "textureId": 2,
+        "colorCode": "#9DE7FF"
+      },
+      {
+        "textureId": 3,
+        "colorCode": "#FFC2C2"
+      }
+    ],
+    "mysekaiFixturePutSoundId": 6,
+    "mysekaiFixtureTagGroup": {
+      "id": 1647,
+      "mysekaiFixtureTagId1": 11546,
+      "mysekaiFixtureTagId2": 107
+    },
+    "isAssembled": true,
+    "isDisassembled": true,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_con0007_fixture_fireplace1",
+    "firstPutCost": 180,
+    "secondPutCost": 25
+  },
+  {
+    "id": 1648,
+    "mysekaiFixtureType": "normal",
+    "name": "けもけも椅子",
+    "pronunciation": "けもけもいす",
+    "flavorText": "けもけも椅子",
+    "seq": 70007004,
+    "gridSize": {
+      "width": 2,
+      "depth": 2,
+      "height": 2
+    },
+    "colorCode": "#AF7DFF",
+    "mysekaiFixtureMainGenreId": 2,
+    "mysekaiFixtureSubGenreId": 4,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "any",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "none",
+    "mysekaiFixtureAnotherColors": [
+      {
+        "textureId": 2,
+        "colorCode": "#9DE7FF"
+      },
+      {
+        "textureId": 3,
+        "colorCode": "#FFC2C2"
+      }
+    ],
+    "mysekaiFixturePutSoundId": 1,
+    "mysekaiFixtureTagGroup": {
+      "id": 1648,
+      "mysekaiFixtureTagId1": 11547,
+      "mysekaiFixtureTagId2": 107
+    },
+    "isAssembled": true,
+    "isDisassembled": true,
+    "mysekaiFixturePlayerActionType": "timeline",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_con0007_fixture_chair1",
+    "firstPutCost": 25,
+    "secondPutCost": 2
+  },
+  {
+    "id": 1649,
+    "mysekaiFixtureType": "normal",
+    "name": "研究机",
+    "pronunciation": "けんきゅうづくえ",
+    "flavorText": "研究机",
+    "seq": 70007005,
+    "gridSize": {
+      "width": 2,
+      "depth": 2,
+      "height": 3
+    },
+    "colorCode": "#AF7DFF",
+    "mysekaiFixtureMainGenreId": 2,
+    "mysekaiFixtureSubGenreId": 3,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "any",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "none",
+    "mysekaiFixtureAnotherColors": [
+      {
+        "textureId": 2,
+        "colorCode": "#9DE7FF"
+      },
+      {
+        "textureId": 3,
+        "colorCode": "#FFC2C2"
+      }
+    ],
+    "mysekaiFixturePutSoundId": 2,
+    "mysekaiFixtureTagGroup": {
+      "id": 1649,
+      "mysekaiFixtureTagId1": 11548,
+      "mysekaiFixtureTagId2": 107
+    },
+    "isAssembled": true,
+    "isDisassembled": true,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_con0007_fixture_desk1",
+    "firstPutCost": 40,
+    "secondPutCost": 2
+  },
+  {
+    "id": 1650,
+    "mysekaiFixtureType": "normal",
+    "name": "まじゅうけんきゅうしつの棚",
+    "pronunciation": "まじゅうけんきゅうしつのたな",
+    "flavorText": "まじゅうけんきゅうしつの棚",
+    "seq": 70007006,
+    "gridSize": {
+      "width": 4,
+      "depth": 2,
+      "height": 4
+    },
+    "mysekaiFixtureMainGenreId": 2,
+    "mysekaiFixtureSubGenreId": 5,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "any",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "none",
+    "mysekaiFixtureAnotherColors": [],
+    "mysekaiFixturePutSoundId": 2,
+    "mysekaiFixtureTagGroup": {
+      "id": 1650,
+      "mysekaiFixtureTagId1": 11549,
+      "mysekaiFixtureTagId2": 107
+    },
+    "isAssembled": true,
+    "isDisassembled": true,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_con0007_fixture_shelf1",
+    "firstPutCost": 55,
+    "secondPutCost": 2
+  },
+  {
+    "id": 1651,
+    "mysekaiFixtureType": "normal",
+    "name": "帽子型鍋",
+    "pronunciation": "ぼうしがたなべ",
+    "flavorText": "帽子型鍋",
+    "seq": 70007007,
+    "gridSize": {
+      "width": 2,
+      "depth": 2,
+      "height": 2
+    },
+    "colorCode": "#AF7DFF",
+    "mysekaiFixtureMainGenreId": 2,
+    "mysekaiFixtureSubGenreId": 9,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "any",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "none",
+    "mysekaiFixtureAnotherColors": [
+      {
+        "textureId": 2,
+        "colorCode": "#9DE7FF"
+      },
+      {
+        "textureId": 3,
+        "colorCode": "#FFC2C2"
+      }
+    ],
+    "mysekaiFixturePutSoundId": 9,
+    "mysekaiFixtureTagGroup": {
+      "id": 1651,
+      "mysekaiFixtureTagId1": 11550,
+      "mysekaiFixtureTagId2": 107
+    },
+    "isAssembled": true,
+    "isDisassembled": true,
+    "mysekaiFixturePlayerActionType": "timeline",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_con0007_fixture_cauldron1",
+    "firstPutCost": 130,
+    "secondPutCost": 35
+  },
+  {
+    "id": 1652,
+    "mysekaiFixtureType": "normal",
+    "name": "おひるねばすけっと",
+    "pronunciation": "おひるねばすけっと",
+    "flavorText": "おひるねばすけっと",
+    "seq": 70008001,
+    "gridSize": {
+      "width": 6,
+      "depth": 8,
+      "height": 7
+    },
+    "colorCode": "#FFC2C2",
+    "mysekaiFixtureMainGenreId": 2,
+    "mysekaiFixtureSubGenreId": 2,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "any",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "none",
+    "mysekaiFixtureAnotherColors": [
+      {
+        "textureId": 2,
+        "colorCode": "#B2CCFF"
+      },
+      {
+        "textureId": 3,
+        "colorCode": "#FFF6A6"
+      }
+    ],
+    "mysekaiFixturePutSoundId": 2,
+    "mysekaiFixtureTagGroup": {
+      "id": 1652,
+      "mysekaiFixtureTagId1": 11551,
+      "mysekaiFixtureTagId2": 108
+    },
+    "isAssembled": true,
+    "isDisassembled": true,
+    "mysekaiFixturePlayerActionType": "timeline",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_con0008_fixture_bed1",
+    "firstPutCost": 115,
+    "secondPutCost": 40
+  },
+  {
+    "id": 1653,
+    "mysekaiFixtureType": "normal",
+    "name": "はなどけい",
+    "pronunciation": "はなどけい",
+    "flavorText": "はなどけい",
+    "seq": 70008002,
+    "gridSize": {
+      "width": 4,
+      "depth": 3,
+      "height": 4
+    },
+    "colorCode": "#FFC2C2",
+    "mysekaiFixtureMainGenreId": 2,
+    "mysekaiFixtureSubGenreId": 8,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "any",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "none",
+    "mysekaiFixtureAnotherColors": [
+      {
+        "textureId": 2,
+        "colorCode": "#B2CCFF"
+      },
+      {
+        "textureId": 3,
+        "colorCode": "#FFF6A6"
+      }
+    ],
+    "mysekaiFixturePutSoundId": 2,
+    "mysekaiFixtureTagGroup": {
+      "id": 1653,
+      "mysekaiFixtureTagId1": 11552,
+      "mysekaiFixtureTagId2": 108
+    },
+    "isAssembled": true,
+    "isDisassembled": true,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_con0008_clock_clock1",
+    "firstPutCost": 30,
+    "secondPutCost": 2
+  },
+  {
+    "id": 1654,
+    "mysekaiFixtureType": "normal",
+    "name": "おはなのいす",
+    "pronunciation": "おはなのいす",
+    "flavorText": "おはなのいす",
+    "seq": 70008003,
+    "gridSize": {
+      "width": 2,
+      "depth": 2,
+      "height": 1
+    },
+    "colorCode": "#FFC2C2",
+    "mysekaiFixtureMainGenreId": 2,
+    "mysekaiFixtureSubGenreId": 4,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "any",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "none",
+    "mysekaiFixtureAnotherColors": [
+      {
+        "textureId": 2,
+        "colorCode": "#B2CCFF"
+      },
+      {
+        "textureId": 3,
+        "colorCode": "#FFF6A6"
+      }
+    ],
+    "mysekaiFixturePutSoundId": 1,
+    "mysekaiFixtureTagGroup": {
+      "id": 1654,
+      "mysekaiFixtureTagId1": 11553,
+      "mysekaiFixtureTagId2": 108
+    },
+    "isAssembled": true,
+    "isDisassembled": true,
+    "mysekaiFixturePlayerActionType": "timeline",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_con0008_fixture_chair1",
+    "firstPutCost": 25,
+    "secondPutCost": 2
+  },
+  {
+    "id": 1655,
+    "mysekaiFixtureType": "normal",
+    "name": "おはなうさぎ",
+    "pronunciation": "おはなうさぎ",
+    "flavorText": "おはなうさぎ",
+    "seq": 70008004,
+    "gridSize": {
+      "width": 1,
+      "depth": 1,
+      "height": 2
+    },
+    "colorCode": "#FFC2C2",
+    "mysekaiFixtureMainGenreId": 3,
+    "mysekaiFixtureSubGenreId": 13,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "any",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "put_target",
+    "mysekaiFixtureAnotherColors": [
+      {
+        "textureId": 2,
+        "colorCode": "#B2CCFF"
+      },
+      {
+        "textureId": 3,
+        "colorCode": "#FFF6A6"
+      }
+    ],
+    "mysekaiFixturePutSoundId": 9,
+    "mysekaiFixtureTagGroup": {
+      "id": 1655,
+      "mysekaiFixtureTagId1": 11554,
+      "mysekaiFixtureTagId2": 108
+    },
+    "isAssembled": true,
+    "isDisassembled": true,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_con0008_fixture_statue1",
+    "firstPutCost": 55,
+    "secondPutCost": 2
+  },
+  {
+    "id": 1656,
+    "mysekaiFixtureType": "normal",
+    "name": "おはながーらんど",
+    "pronunciation": "おはながーらんど",
+    "flavorText": "おはながーらんど",
+    "seq": 70008005,
+    "gridSize": {
+      "width": 8,
+      "depth": 1,
+      "height": 8
+    },
+    "colorCode": "#FFC2C2",
+    "mysekaiFixtureMainGenreId": 2,
+    "mysekaiFixtureSubGenreId": 9,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "any",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "none",
+    "mysekaiFixtureAnotherColors": [
+      {
+        "textureId": 2,
+        "colorCode": "#B2CCFF"
+      },
+      {
+        "textureId": 3,
+        "colorCode": "#FFF6A6"
+      }
+    ],
+    "mysekaiFixturePutSoundId": 2,
+    "mysekaiFixtureTagGroup": {
+      "id": 1656,
+      "mysekaiFixtureTagId1": 11555,
+      "mysekaiFixtureTagId2": 108
+    },
+    "isAssembled": true,
+    "isDisassembled": true,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_con0008_fixture_garland1",
+    "firstPutCost": 65,
+    "secondPutCost": 2
+  },
+  {
+    "id": 1657,
+    "mysekaiFixtureType": "normal",
+    "name": "おはならんぷ",
+    "pronunciation": "おはならんぷ",
+    "flavorText": "おはならんぷ",
+    "seq": 70008006,
+    "gridSize": {
+      "width": 3,
+      "depth": 3,
+      "height": 5
+    },
+    "colorCode": "#FFC2C2",
+    "mysekaiFixtureMainGenreId": 2,
+    "mysekaiFixtureSubGenreId": 8,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "any",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "none",
+    "mysekaiFixtureAnotherColors": [
+      {
+        "textureId": 2,
+        "colorCode": "#B2CCFF"
+      },
+      {
+        "textureId": 3,
+        "colorCode": "#FFF6A6"
+      }
+    ],
+    "mysekaiFixturePutSoundId": 2,
+    "mysekaiFixtureTagGroup": {
+      "id": 1657,
+      "mysekaiFixtureTagId1": 11556,
+      "mysekaiFixtureTagId2": 108
+    },
+    "isAssembled": true,
+    "isDisassembled": true,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_con0008_fixture_lamp1",
+    "firstPutCost": 80,
+    "secondPutCost": 7
+  },
+  {
+    "id": 1658,
+    "mysekaiFixtureType": "normal",
+    "name": "きのみのかこい",
+    "pronunciation": "きのみのかこい",
+    "flavorText": "きのみのかこい",
+    "seq": 70008007,
+    "gridSize": {
+      "width": 3,
+      "depth": 1,
+      "height": 2
+    },
+    "colorCode": "#CA2828",
+    "mysekaiFixtureMainGenreId": 2,
+    "mysekaiFixtureSubGenreId": 9,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "any",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "none",
+    "mysekaiFixtureAnotherColors": [
+      {
+        "textureId": 2,
+        "colorCode": "#8856D9"
+      },
+      {
+        "textureId": 3,
+        "colorCode": "#FFD600"
+      }
+    ],
+    "mysekaiFixturePutSoundId": 2,
+    "mysekaiFixtureTagGroup": {
+      "id": 1658,
+      "mysekaiFixtureTagId1": 11557,
+      "mysekaiFixtureTagId2": 108
+    },
+    "isAssembled": true,
+    "isDisassembled": true,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_con0008_fixture_timberrail1",
+    "firstPutCost": 35,
+    "secondPutCost": 2
+  },
+  {
     "id": 1659,
     "mysekaiFixtureType": "normal",
     "name": "[リミテッドスタイル vol.4] 咲希のぬいぐるみ\/S",
