@@ -28427,5 +28427,43 @@
         ]
       }
     ]
+  },
+  {
+    "id": 218,
+    "eventId": 218,
+    "outline": "想いの欠片の持ち主との出来事が落ち着き、日常に戻った一歌達。しかし、またしてもセカイの木に異変が起きていると、それぞれのセカイのミク達が知らせに来て——！？",
+    "assetbundleName": "event_wl_3rd_finale_2026",
+    "eventStoryEpisodes": [
+      {
+        "id": 1001759,
+        "eventStoryId": 218,
+        "episodeNo": 1,
+        "title": "共にセカイへ！",
+        "assetbundleName": "event_wl_3rd_finale_2026_01",
+        "scenarioId": "wl_3rd_finale_01",
+        "releaseConditionId": 1,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001760,
+        "eventStoryId": 218,
+        "episodeNo": 2,
+        "title": "これからは……！",
+        "assetbundleName": "event_wl_3rd_finale_2026_02",
+        "scenarioId": "wl_3rd_finale_02",
+        "releaseConditionId": 121701,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 175
+          }
+        ]
+      }
+    ]
   }
 ]
