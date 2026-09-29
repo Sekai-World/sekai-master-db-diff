@@ -1,5 +1,13 @@
 [
   {
+    "wordingKey": "BODY_BULK_HARVEST_SETTING_DIALOG",
+    "value": "※所持数の上限を超えた素材も、すべて取得できます。\n※スタミナやツールの残量により一部採取できないことがあります。\n※データ引き継ぎ・キャッシュクリア時は設定がリセットされます。"
+  },
+  {
+    "wordingKey": "BODY_MYSEKAI_BULK_HARVEST_CANNOT_PASS_EXPIRED_DIALOG",
+    "value": "ワールドパスの期限が切れています。 \n一括採取できませんでした。"
+  },
+  {
     "wordingKey": "COLLECTION_BOX_PROVISION_TAB_TITLE",
     "value": "コレクションBOX説明"
   },
@@ -97,7 +105,7 @@
   },
   {
     "wordingKey": "FORMAT_MSG_CONFIRM_GATE_CHANGE",
-    "value": "{0}を設置します。\nよろしいですか？\n\n<color=#FF5588>※翌日の5:00までメモリアを受け取ることができなくなります。\n※ゲートの再設置が{1}日間できなくなります。\n※誰かに招待状を送っている場合は、キャンセルされます。<\/color>"
+    "value": "{0}を設置します。\nよろしいですか？\n\n<color=#FF5588>※翌日の5:00までメモリアを受け取ることができなくなります。\n※ゲートの再設置が{1}日間できなくなります。\n※招待中のキャラクターが{0}から\n来訪できない場合、招待がキャンセルされます。<\/color>"
   },
   {
     "wordingKey": "FORMAT_MSG_CONFIRM_GATE_CHANGE_TUTORIAL",
@@ -186,6 +194,10 @@
   {
     "wordingKey": "FORMAT_SECRET_SHOP_PURCHASE_CONFIRM",
     "value": "クリスタル<color=#ff5599>{0}個<\/color>を消費して\n{1}を購入します。\nよろしいですか？"
+  },
+  {
+    "wordingKey": "FORMAT_SECRET_SHOP_RESOURCE_PURCHASE_CONFIRM",
+    "value": "クリスタル<color=#FF5588>{0}<\/color>個を消費して\n{1}を購入します。よろしいですか？"
   },
   {
     "wordingKey": "FORMAT_SEND_INVITATION_CHARACTER",
@@ -449,7 +461,11 @@
   },
   {
     "wordingKey": "MSG_AREA_ITEM_EFFECT",
-    "value": "サブユニットが設定されているメンバーには、\nパフォーマンスが高くなるユニットの\nエリアアイテム効果が自動的に適用されます。\n\n複数ユニットのエリアアイテム効果が\n適用されることはありません。"
+    "value": "サブユニットが設定されているメンバーには、\nパフォーマンスが高くなるユニットの\nエリアアイテム効果が自動的に適用されます。\n\n複数ユニットのエリアアイテム効果が\n適用されることはありません。\n\n同ユニットのみでの編成効果と2種類以上のユニットの編成効果についても\nパフォーマンスが高くなるエリアアイテムの効果のみが\n自動的に適用されます。"
+  },
+  {
+    "wordingKey": "MSG_AREA_ITEM_EFFECT_WISH_TREE",
+    "value": "サブユニットが設定されているメンバーを編成している場合、\n同ユニットのみでの編成効果と2種類以上のユニットの編成効果は\nパフォーマンスが高くなるエリアアイテムの効果のみが\n自動的に適用されます。\nチャレンジライブでは2種類以上のユニットの編成効果は適用されません。"
   },
   {
     "wordingKey": "MSG_AREA_RELEASED_WITH_THUMBNAIL",
@@ -614,6 +630,10 @@
   {
     "wordingKey": "MSG_BROKEN_TOOL",
     "value": "ツールが壊れました。"
+  },
+  {
+    "wordingKey": "MSG_BULK_HARVEST_OPTION_ANNOTATION",
+    "value": "※一括採取はワールドパス加入時のみ使用可能です。"
   },
   {
     "wordingKey": "MSG_BUNDLE_FIXTURE_BLUE_PRINT_BUY",
@@ -984,6 +1004,10 @@
     "value": "サポートユニットに編成されているメンバーが含まれています。\nメンバーをサポートユニットから外し、\nこのユニットでライブを開始します。\nよろしいですか？"
   },
   {
+    "wordingKey": "MSG_CONFIRM_SHUFFLE_GATE_CHANGE",
+    "value": "交わるセカイのゲートを設置します。\nよろしいですか？\n\n<color=#FF5588>※翌日の5:00までメモリアを受け取ることができなくなります。\n※ゲートの再設置が1日間できなくなります。\n<\/color>"
+  },
+  {
     "wordingKey": "MSG_CONFIRM_STREAMING_LIVE_ENTER_WITHOUT_TICKET",
     "value": "公演チケットを持っていないため\n「お試し入場」となります。\nよろしいですか？"
   },
@@ -1164,12 +1188,20 @@
     "value": "持ち物に収納できる数量の上限に達しています"
   },
   {
+    "wordingKey": "MSG_CRAFT_REMAIN_COUNT_ZERO",
+    "value": "製作可能数が0個です"
+  },
+  {
     "wordingKey": "MSG_CRAFT_TERM_LIMIT_DIALOG_BODY",
-    "value": "イベント期間が終了したため、\n製作することができません。"
+    "value": "この家具は製作可能期間が終了したため、製作することができません。"
   },
   {
     "wordingKey": "MSG_CREATE_CUSTOM_ROOM_TITLE",
     "value": "カスタムルーム作成"
+  },
+  {
+    "wordingKey": "MSG_CREATE_FIXTURE_AND_DO_NOT_PARTY",
+    "value": "{0}を<color=#FF5599>{1}個<\/color>制作します。\nよろしいですか？\n<color=#FF3366>※こちらの家具ではパーティーを行うことができません。<\/color>"
   },
   {
     "wordingKey": "MSG_CREATE_PRIVATE_ROOM",
@@ -1845,7 +1877,7 @@
   },
   {
     "wordingKey": "MSG_GIFT_NOT_SELECT_CONFIRM",
-    "value": "アイテムを設定するまで、\nハピネスパッケージガチャを引くことができません。\nアイテムをあとで設定しますか？\n\n <color=#ff5599>※アイテムは、\nガチャを引くまで何度でも変更できます。<\/color>"
+    "value": "アイテムを設定するまで、\nプチハピネスパッケージガチャを引くことができません。\nアイテムをあとで設定しますか？\n\n <color=#ff5599>※アイテムは、\n残り回数がある限り、ガチャを引いた後でも変更できます。<\/color>"
   },
   {
     "wordingKey": "MSG_GIFT_SELECT",
@@ -1853,7 +1885,7 @@
   },
   {
     "wordingKey": "MSG_GIFT_SELECT_CONFIRM",
-    "value": "以下のアイテムを設定します。よろしいですか？\n <color=#ff3366>※アイテムはガチャを引くまで何度でも変更できます。<\/color>"
+    "value": "以下のアイテムを設定します。よろしいですか？\n <color=#ff3366>※アイテムは残り回数がある限り、ガチャを引いた後でも変更できます。<\/color>"
   },
   {
     "wordingKey": "MSG_GIFT_SELECT_INDUCTION",
@@ -2636,6 +2668,38 @@
     "value": "お祝いパーティー開催に必要なエリアに他の家具が設置されているか、\nレイアウト範囲外にあるため、このレイアウトだと招待できません。\n保存してよろしいですか？"
   },
   {
+    "wordingKey": "MSG_MYSEKAI_BULK_HARVEST_CANNOT_NO_TARGET",
+    "value": "採取できる素材が\nありません"
+  },
+  {
+    "wordingKey": "MSG_MYSEKAI_BULK_HARVEST_CANNOT_PASS_EXPIRED",
+    "value": "ワールドパスの\n期限が切れています"
+  },
+  {
+    "wordingKey": "MSG_MYSEKAI_BULK_HARVEST_CANNOT_POSSESSION_LIMIT",
+    "value": "所持数が上限に達しています"
+  },
+  {
+    "wordingKey": "MSG_MYSEKAI_BULK_HARVEST_CANNOT_STAMINA_SHORTAGE",
+    "value": "スタミナが\n不足しています"
+  },
+  {
+    "wordingKey": "MSG_MYSEKAI_BULK_HARVEST_CANNOT_TOOL_SHORTAGE",
+    "value": "一括採取に必要な\nツールが足りません"
+  },
+  {
+    "wordingKey": "MSG_MYSEKAI_BULK_HARVEST_RECEIVED_REWARD",
+    "value": "以下の素材とアイテムを受け取りました。"
+  },
+  {
+    "wordingKey": "MSG_MYSEKAI_BULK_HARVEST_RESULT_STAMINA_SHORTAGE",
+    "value": "※スタミナ不足のため、すべての素材を採取できませんでした。"
+  },
+  {
+    "wordingKey": "MSG_MYSEKAI_BULK_HARVEST_RESULT_TOOL_SHORTAGE",
+    "value": "※ツール不足のため、すべての素材を採取できませんでした。"
+  },
+  {
     "wordingKey": "MSG_MYSEKAI_CATEGORY_REPORT_PART_TYPE",
     "value": "通報する箇所を詳しく教えてください。"
   },
@@ -2698,6 +2762,18 @@
   {
     "wordingKey": "MSG_MYSEKAI_GATE_DETAIL_ATTENTION",
     "value": "※サブユニットが同じバーチャル・シンガーにもボーナスが発生します。\n※オリジナルのバーチャル・シンガーは、すべてのゲートの中で最も高いボーナスが発生するひとつから恩恵を受けられます。"
+  },
+  {
+    "wordingKey": "MSG_MYSEKAI_GATE_INVITATION_COOLDOWN",
+    "value": "次の招待まであと{0}"
+  },
+  {
+    "wordingKey": "MSG_MYSEKAI_GATE_INVITATION_SELECT_CHARACTER",
+    "value": "マイセカイに招待するキャラクターを選択してください"
+  },
+  {
+    "wordingKey": "MSG_MYSEKAI_GATE_INVITATION_SHUFFLE_VS_DISABLED",
+    "value": "※交わるセカイのゲート設置中はすべてのキャラクターに招待状を送ることができます。"
   },
   {
     "wordingKey": "MSG_MYSEKAI_GATE_IN_INVITATION",
@@ -2954,6 +3030,10 @@
   {
     "wordingKey": "MSG_MYSEKAI_SECRET_SHOP_PURCHASE_LIMIT_REACHED",
     "value": "今週の購入可能回数の上限に達しているため、購入できません。"
+  },
+  {
+    "wordingKey": "MSG_MYSEKAI_SHUFFLE_GATE_DETAIL_ATTENTION",
+    "value": "※交わるセカイのゲートはゲートレベル、パフォーマンスボーナスはありません。\n※遊びに来る人数の確率は「ユニット」のゲートの最大レベルのものと同じになります。\n※交わるセカイのゲート設置中は、すべてのキャラクターが来訪の抽選対象となります。"
   },
   {
     "wordingKey": "MSG_MYSEKAI_SITE_EDIT_SAVE",
@@ -3540,6 +3620,10 @@
     "value": "受け取る報酬を1つ選んでください。"
   },
   {
+    "wordingKey": "MSG_POSSESSION_LIMIT",
+    "value": "所持上限数に達しています。"
+  },
+  {
     "wordingKey": "MSG_POSSESSION_OVER_LIMIT",
     "value": "アイテム所持数上限に達しているため\nアイテムを受け取れませんでした。"
   },
@@ -4052,6 +4136,18 @@
     "value": "譜面に配置されたものをすべて削除しますか？\n<color=#FF3366>※この操作は取り消せません。<\/color>"
   },
   {
+    "wordingKey": "MSG_SECRET_SHOP_BLUEPRINT_NOTATION",
+    "value": "-設計図1枚でその家具の全てのカラーが製作可能です。\n-ご購入は1商品につき1個までとなります。\n-商品はご購入後すぐのお届けになります。"
+  },
+  {
+    "wordingKey": "MSG_SECRET_SHOP_RESOURCE_EXCHANGE_LIMIT_NOTATION",
+    "value": "-購入回数制限はワールドパス有効期間の30日間で購入できる回数です。\n-購入回数制限はワールドパスを更新すると購入回数制限がリセットされます。\n-購入回数の引き継ぎはありません。\n-商品はご購入後すぐのお届けになります。"
+  },
+  {
+    "wordingKey": "MSG_SECRET_SHOP_RESOURCE_NOTATION",
+    "value": "-商品はご購入後すぐのお届けになります。"
+  },
+  {
     "wordingKey": "MSG_SELECT_ACTION_FROM_BELOW",
     "value": "設定したいアクションを下から選んでください"
   },
@@ -4246,6 +4342,22 @@
   {
     "wordingKey": "MSG_SKIP_SCENE_CONFIRM",
     "value": "シーンをスキップしますか？"
+  },
+  {
+    "wordingKey": "MSG_SOLO_VIRTUAL_LIVE_CAUTION",
+    "value": "・｢6th Anniversary スペシャルソロライブ｣では、通常の｢バーチャルコイン｣、および｢クリスタル｣は消費できません。\n・本ライブのすべての公演が終了後、｢バーチャルエールコイン｣の消費数が報酬獲得可能消費数に達しなかった場合や合計7500を超えた場合は、余剰に消費した分の｢バーチャルエールコイン｣10個毎に｢出演キャラクターの想いのカケラ｣を1個獲得できます。\n・余剰分で獲得できる｢出演キャラクターの想いのカケラ｣は、本ライブの待合エリア公開終了後、ホーム画面へ移動することで付与されます。"
+  },
+  {
+    "wordingKey": "MSG_SOLO_VIRTUAL_LIVE_CHARACTER_SELECT",
+    "value": "ライブを見たいキャラクターを選択してください"
+  },
+  {
+    "wordingKey": "MSG_SOLO_VIRTUAL_LIVE_DETAIL",
+    "value": "｢6th Anniversary スペシャルソロライブ｣は、選択したキャラクターによって出演者が変わるライブです。\nライブ中に消費したバーチャルエールコイン数が一定数に到達すると、出演キャラクターに応じた報酬を獲得できます。\n報酬の詳細は｢報酬｣タブをご確認ください。\n※バーチャル・シンガーは各セカイのバーチャル・シンガーとして登場します。"
+  },
+  {
+    "wordingKey": "MSG_SOLO_VIRTUAL_LIVE_REWARD_CONFIRM",
+    "value": "選択中のキャラクターの報酬獲得状況を確認できます。"
   },
   {
     "wordingKey": "MSG_SPECIAL_TRAINING_1_CONFIRM",
@@ -4769,7 +4881,7 @@
   },
   {
     "wordingKey": "MSG_WISH_LIST_CONFIRM_TIPS",
-    "value": "\n※セレクトリストは、\nガチャを引くまで何度でも変更できます。"
+    "value": "\n※セレクトリストは、\n残り回数がある限り、ガチャを引いた後でも変更できます。"
   },
   {
     "wordingKey": "MSG_WISH_LIST_GACHA_RATE_NOTICE",
@@ -5172,6 +5284,10 @@
     "value": "全キャラクター"
   },
   {
+    "wordingKey": "WORD_ALL_MEMBER",
+    "value": "全メンバー"
+  },
+  {
     "wordingKey": "WORD_ALL_PERFECT",
     "value": "ALL PERFECT"
   },
@@ -5368,6 +5484,10 @@
     "value": "オート"
   },
   {
+    "wordingKey": "WORD_AUTO_EXCHANGE_VOCAL_DUPLICATE_CAUTION",
+    "value": "<color=#FF3366>※同一ボーカルの所持は1つまでです。重複獲得はできません。<\/color>"
+  },
+  {
     "wordingKey": "WORD_AUTO_LIVE_COMPLETE",
     "value": "オートライブ完了"
   },
@@ -5454,6 +5574,10 @@
   {
     "wordingKey": "WORD_BATTERY_ALERT",
     "value": "バッテリーアラート"
+  },
+  {
+    "wordingKey": "WORD_BD_AND_AN",
+    "value": "BD・AN"
   },
   {
     "wordingKey": "WORD_BED",
@@ -5776,6 +5900,10 @@
     "value": "一括ダウンロード"
   },
   {
+    "wordingKey": "WORD_BULK_HARVEST_SETTING",
+    "value": "一括採取設定"
+  },
+  {
     "wordingKey": "WORD_BULK_TIDYING",
     "value": "一括片付け"
   },
@@ -6010,6 +6138,10 @@
   {
     "wordingKey": "WORD_CHANGE_BPM",
     "value": "BPMを変更"
+  },
+  {
+    "wordingKey": "WORD_CHANGE_CHARACTER",
+    "value": "キャラクター切り替え"
   },
   {
     "wordingKey": "WORD_CHANGE_COLOR",
@@ -6601,7 +6733,7 @@
   },
   {
     "wordingKey": "WORD_CONSUME_NUM",
-    "value": "消費数"
+    "value": "消費"
   },
   {
     "wordingKey": "WORD_CONTAINS_SPOILER_RADIO_BUTTON",
@@ -6768,6 +6900,10 @@
     "value": "{0}回目"
   },
   {
+    "wordingKey": "WORD_COUNT_LEFT",
+    "value": "あと"
+  },
+  {
     "wordingKey": "WORD_CRAFT",
     "value": "製作"
   },
@@ -6798,6 +6934,10 @@
   {
     "wordingKey": "WORD_CRAFT_COUNT",
     "value": "製作数"
+  },
+  {
+    "wordingKey": "WORD_CRAFT_LIMITED_COUNT_NONE",
+    "value": "制限なし"
   },
   {
     "wordingKey": "WORD_CRAFT_REACHED_POSSESSION_LIMIT",
@@ -8284,6 +8424,10 @@
     "value": "招待状"
   },
   {
+    "wordingKey": "WORD_GATE_CONTENT_SHUFFLE",
+    "value": "その他"
+  },
+  {
     "wordingKey": "WORD_GATE_CONTENT_SKIN",
     "value": "スキン"
   },
@@ -8604,6 +8748,10 @@
     "value": "壁掛け家具"
   },
   {
+    "wordingKey": "WORD_HARVEST_SELECT",
+    "value": "採取選択"
+  },
+  {
     "wordingKey": "WORD_HARVST_SITE_RELEASE_NEW_SITE",
     "value": "採取エリアの拡大"
   },
@@ -8730,6 +8878,10 @@
   {
     "wordingKey": "WORD_HONOR_AND_PROFILE",
     "value": "称号＆\nプロフィール"
+  },
+  {
+    "wordingKey": "WORD_HONOR_BG_GET_HOLDER",
+    "value": "称号イラスト「{0}」"
   },
   {
     "wordingKey": "WORD_HONOR_CHANGE_ORDER",
@@ -9360,6 +9512,10 @@
     "value": "みんなで\nライブ"
   },
   {
+    "wordingKey": "WORD_LIVE_TOP_COMING_SOON",
+    "value": "coming\nsoon..."
+  },
+  {
     "wordingKey": "WORD_LIVE_VOLUME",
     "value": "ライブ音量"
   },
@@ -9692,6 +9848,10 @@
     "value": "ミッションスタート"
   },
   {
+    "wordingKey": "WORD_MISSION_TITLE_AREA_ITEM_LEVEL_UP_ALL_CHARACTER",
+    "value": "想いの大樹"
+  },
+  {
     "wordingKey": "WORD_MISSION_TITLE_AREA_ITEM_LEVEL_UP_CHARACTER",
     "value": "キャラクターエリアアイテム"
   },
@@ -9878,6 +10038,14 @@
   {
     "wordingKey": "WORD_MULTI_TOTAL_SCORE",
     "value": "全体スコア"
+  },
+  {
+    "wordingKey": "WORD_MULTI_UNIT_DECK",
+    "value": "複数ユニット編成"
+  },
+  {
+    "wordingKey": "WORD_MULTI_UNIT_EFFECT",
+    "value": "複数ユニット編成効果"
   },
   {
     "wordingKey": "WORD_MUSIC",
@@ -10580,6 +10748,10 @@
     "value": "レイアウトコスト順"
   },
   {
+    "wordingKey": "WORD_MYSEKAI_LIMITED_UPDATE",
+    "value": "加入期間中\n購入回数制限"
+  },
+  {
     "wordingKey": "WORD_MYSEKAI_MATERIAL_MAX",
     "value": "9,999+"
   },
@@ -10686,6 +10858,10 @@
   {
     "wordingKey": "WORD_NEXT_HIGH_SCORE_BONUS",
     "value": "次のハイスコアボーナス"
+  },
+  {
+    "wordingKey": "WORD_NEXT_REWORD",
+    "value": "次の報酬まで"
   },
   {
     "wordingKey": "WORD_NEXT_STORY",
@@ -11262,6 +11438,10 @@
   {
     "wordingKey": "WORD_PICKUP_MEMBER",
     "value": "ピックアップメンバー"
+  },
+  {
+    "wordingKey": "WORD_PIECES",
+    "value": "{0}個"
   },
   {
     "wordingKey": "WORD_PILLAR",
@@ -12261,19 +12441,51 @@
   },
   {
     "wordingKey": "WORD_SECRET_DAILY_PICKUP",
-    "value": "TOP>DAILY PICKUP"
+    "value": "TOP>BLUE PRINT>DAILY PICK UP"
   },
   {
-    "wordingKey": "WORD_SECRET_DAILY_PICKUP_COMPLETE",
-    "value": "TOP>DAILY PICKUP>注文完了"
+    "wordingKey": "WORD_SECRET_SHOP_BREADCRUMB_COMPLETE",
+    "value": ">注文完了"
+  },
+  {
+    "wordingKey": "WORD_SECRET_SHOP_BREADCRUMB_DAILY_PICKUP",
+    "value": "TOP>BLUE PRINT>DAILY PICK UP"
+  },
+  {
+    "wordingKey": "WORD_SECRET_SHOP_BREADCRUMB_MATERIAL",
+    "value": "TOP>MATERIAL"
+  },
+  {
+    "wordingKey": "WORD_SECRET_SHOP_BREADCRUMB_TOOL",
+    "value": "TOP>TOOL"
+  },
+  {
+    "wordingKey": "WORD_SECRET_SHOP_BREADCRUMB_WEEKLY_PICKUP",
+    "value": "TOP>BLUE PRINT>WEEKLY PICK UP"
+  },
+  {
+    "wordingKey": "WORD_SECRET_SHOP_EXCHANGE_LIMIT",
+    "value": "あと{0}回"
+  },
+  {
+    "wordingKey": "WORD_SECRET_SHOP_RESOURCE_QUANTITY",
+    "value": "×{0}"
+  },
+  {
+    "wordingKey": "WORD_SECRET_SHOP_TAB_BLUEPRINT",
+    "value": "設計図"
+  },
+  {
+    "wordingKey": "WORD_SECRET_SHOP_TAB_MATERIAL",
+    "value": "素材"
+  },
+  {
+    "wordingKey": "WORD_SECRET_SHOP_TAB_TOOL",
+    "value": "ツール"
   },
   {
     "wordingKey": "WORD_SECRET_WEEKLY_PICKUP",
-    "value": "TOP>WEEKLY PICKUP"
-  },
-  {
-    "wordingKey": "WORD_SECRET_WEEKLY_PICKUP_COMPLETE",
-    "value": "TOP>WEEKLY PICKUP>注文完了"
+    "value": "TOP>BLUE PRINT>WEEKLY PICK UP"
   },
   {
     "wordingKey": "WORD_SEE_CONTENT",
@@ -12336,6 +12548,10 @@
     "value": "あとで選ぶ"
   },
   {
+    "wordingKey": "WORD_SELECT_ALL",
+    "value": "すべてを選択"
+  },
+  {
     "wordingKey": "WORD_SELECT_CLEANUP_TITLE",
     "value": "取り消し確認"
   },
@@ -12354,6 +12570,10 @@
   {
     "wordingKey": "WORD_SELECT_FONT",
     "value": "フォント選択"
+  },
+  {
+    "wordingKey": "WORD_SELECT_HONOR_CHARACTER",
+    "value": "キャラクター表示選択"
   },
   {
     "wordingKey": "WORD_SELECT_LATER",
@@ -12798,6 +13018,14 @@
   {
     "wordingKey": "WORD_SOLO_LIVE_SHUFFLE_BUTTON",
     "value": "ランダム"
+  },
+  {
+    "wordingKey": "WORD_SOLO_VIRTUAL_LIVE_DESCRIPTION",
+    "value": "注意事項"
+  },
+  {
+    "wordingKey": "WORD_SOLO_VIRTUAL_LIVE_SUMMARY",
+    "value": "ライブ概要"
   },
   {
     "wordingKey": "WORD_SORT",
@@ -13594,6 +13822,10 @@
   {
     "wordingKey": "WORD_UNLOCK_AREAITEM",
     "value": "エリアアイテム解放"
+  },
+  {
+    "wordingKey": "WORD_UNLOCK_COMPLETE",
+    "value": "解放しました。"
   },
   {
     "wordingKey": "WORD_UNLOCK_MUSIC",

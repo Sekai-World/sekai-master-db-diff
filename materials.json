@@ -2285,9 +2285,57 @@
   },
   {
     "id": 281,
-    "seq": 89,
+    "seq": 2001,
     "name": "プラチナチケット",
     "flavorText": "プラチナチケット交換所で好きなアイテムと交換することができる。",
+    "canUse": false,
+    "materialType": "common"
+  },
+  {
+    "id": 282,
+    "seq": 1001,
+    "name": "バーチャルエールコイン",
+    "flavorText": "シャイニーエールキャンペーン交換所や6th Anniversary スペシャルソロライブで使用できる特別なアイテム\n使用期限：2026\/9\/30 0:00 ～ 2026\/10\/23 23:59",
+    "canUse": false,
+    "materialType": "common"
+  },
+  {
+    "id": 283,
+    "seq": 40001,
+    "name": "旋律のスフィア",
+    "flavorText": "想いの大樹を育成するのに必要なアイテム。\n各楽曲をSランクでクリアすると獲得できる。",
+    "canUse": false,
+    "materialType": "common"
+  },
+  {
+    "id": 284,
+    "seq": 40002,
+    "name": "軌跡のプリズム",
+    "flavorText": "想いの大樹を育成するのに必要なアイテム。\nシナリオを一定数完読すると獲得できる。",
+    "canUse": false,
+    "materialType": "common"
+  },
+  {
+    "id": 285,
+    "seq": 40003,
+    "name": "邂逅のメモリア",
+    "flavorText": "想いの大樹を育成するのに必要なアイテム。\nユニットのメモリアを集めてヘンカンすると獲得できる。",
+    "canUse": false,
+    "materialType": "common"
+  },
+  {
+    "id": 297,
+    "seq": 30006,
+    "name": "祝祭のあまつゆ（ストリクトブルー） '26",
+    "flavorText": "遥の誕生日をお祝いする花を育てるためのあまつゆ。\n※2026年バースデーイベントでのみ利用可能",
+    "canUse": false,
+    "materialType": "birthday_party_delivery"
+  },
+  {
+    "id": 318,
+    "seq": 10687,
+    "name": "メモリアルフラグメント",
+    "flavorText": "メモリアルフラグメント交換所で報酬と交換することができる。\n使用期限：2026\/09\/30 12:00 ～ 2026\/10\/31 11:59",
     "canUse": false,
     "materialType": "common"
   },
@@ -2298,5 +2346,13 @@
     "flavorText": "[友達招待]ギフトチケット交換所で報酬と交換することができる。\n使用期限：2026\/09\/25 12:00 ～ 2026\/11\/14 23:59",
     "canUse": false,
     "materialType": "common"
+  },
+  {
+    "id": 320,
+    "seq": 320,
+    "name": "メモリアル★4メンバーチケット",
+    "flavorText": "メモリアル★4メンバーチケット交換所で好きな★4メンバーを交換することができる。\n使用期限：2026\/09\/30 0:00 ～ 2026\/11\/11 23:59",
+    "canUse": false,
+    "materialType": "card_ticket"
   }
 ]

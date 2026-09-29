@@ -2,31 +2,43 @@
   {
     "id": 1,
     "unit": "light_sound",
+    "mysekaiGateType": "unit",
     "name": "教室のセカイとのゲート",
     "assetbundleName": "mdl_non0006_gate_lon1"
   },
   {
     "id": 2,
     "unit": "idol",
+    "mysekaiGateType": "unit",
     "name": "ステージのセカイとのゲート",
     "assetbundleName": "mdl_non0006_gate_mmj1"
   },
   {
     "id": 3,
     "unit": "street",
+    "mysekaiGateType": "unit",
     "name": "ストリートのセカイとのゲート",
     "assetbundleName": "mdl_non0006_gate_vbs1"
   },
   {
     "id": 4,
     "unit": "theme_park",
+    "mysekaiGateType": "unit",
     "name": "ワンダーランドのセカイとのゲート",
     "assetbundleName": "mdl_non0006_gate_wns1"
   },
   {
     "id": 5,
     "unit": "school_refusal",
+    "mysekaiGateType": "unit",
     "name": "誰もいないセカイとのゲート",
     "assetbundleName": "mdl_non0006_gate_nig1"
+  },
+  {
+    "id": 6,
+    "unit": "none",
+    "mysekaiGateType": "shuffle",
+    "name": "交わるセカイのゲート",
+    "assetbundleName": "mdl_non0006_gate_sff1"
   }
 ]

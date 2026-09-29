@@ -19416,5 +19416,143 @@
     "eventMissionSelectableRewardGroupId": 2,
     "sentence": "7つのミッションを全て達成しよう。",
     "rewards": []
+  },
+  {
+    "id": 1105,
+    "eventId": 219,
+    "seq": 1,
+    "eventMissionType": "live_clear_daily",
+    "eventMissionCategory": "normal",
+    "requirement1": 11,
+    "sentence": "累計11日ライブを1日1回クリアしよう。",
+    "rewards": [
+      {
+        "id": 19770,
+        "missionType": "event_mission",
+        "missionId": 1105,
+        "seq": 1,
+        "resourceBoxId": 8004
+      }
+    ]
+  },
+  {
+    "id": 1106,
+    "eventId": 219,
+    "seq": 2,
+    "eventMissionType": "any_live_clear",
+    "eventMissionCategory": "normal",
+    "requirement1": 50,
+    "sentence": "ライブを50回クリアしよう。",
+    "rewards": [
+      {
+        "id": 19771,
+        "missionType": "event_mission",
+        "missionId": 1106,
+        "seq": 1,
+        "resourceBoxId": 8004
+      }
+    ]
+  },
+  {
+    "id": 1107,
+    "eventId": 219,
+    "seq": 3,
+    "eventMissionType": "live_clear_full_combo",
+    "eventMissionCategory": "normal",
+    "requirement1": 10,
+    "sentence": "ライブで楽曲をフルコンボで10回クリアしよう。",
+    "rewards": [
+      {
+        "id": 19772,
+        "missionType": "event_mission",
+        "missionId": 1107,
+        "seq": 1,
+        "resourceBoxId": 8004
+      }
+    ]
+  },
+  {
+    "id": 1108,
+    "eventId": 219,
+    "seq": 4,
+    "eventMissionType": "live_clear_different_music",
+    "eventMissionCategory": "normal",
+    "requirement1": 10,
+    "requirement2": 1,
+    "sentence": "ライブで10種類の楽曲をクリアしよう。",
+    "rewards": [
+      {
+        "id": 19773,
+        "missionType": "event_mission",
+        "missionId": 1108,
+        "seq": 1,
+        "resourceBoxId": 8004
+      }
+    ]
+  },
+  {
+    "id": 1109,
+    "eventId": 219,
+    "seq": 5,
+    "eventMissionType": "read_last_event_story_episode",
+    "eventMissionCategory": "normal",
+    "requirement1": 1,
+    "sentence": "イベント「Side by Side, Our Ways！」のイベントストーリー第8話を読もう。",
+    "rewards": [
+      {
+        "id": 19774,
+        "missionType": "event_mission",
+        "missionId": 1109,
+        "seq": 1,
+        "resourceBoxId": 8004
+      }
+    ]
+  },
+  {
+    "id": 1110,
+    "eventId": 219,
+    "seq": 6,
+    "eventMissionType": "consume_event_item",
+    "eventMissionCategory": "normal",
+    "requirement1": 20000,
+    "sentence": "イベント「Side by Side, Our Ways！」の交換所でバッジを20000個消費しよう。",
+    "rewards": [
+      {
+        "id": 19775,
+        "missionType": "event_mission",
+        "missionId": 1110,
+        "seq": 1,
+        "resourceBoxId": 8004
+      }
+    ]
+  },
+  {
+    "id": 1111,
+    "eventId": 219,
+    "seq": 7,
+    "eventMissionType": "join_virtual_live",
+    "eventMissionCategory": "normal",
+    "requirement1": 1,
+    "sentence": "「Side by Side, Our Ways！ アフターライブ」に参加しよう。",
+    "rewards": [
+      {
+        "id": 19776,
+        "missionType": "event_mission",
+        "missionId": 1111,
+        "seq": 1,
+        "resourceBoxId": 8004
+      }
+    ]
+  },
+  {
+    "id": 1112,
+    "eventId": 219,
+    "seq": 8,
+    "eventMissionType": "achieve_event_mission",
+    "eventMissionCategory": "complete_selectable_reward",
+    "requirement1": 7,
+    "eventMissionSelectableRewardGroupId": 2,
+    "sentence": "7つのミッションを全て達成しよう。",
+    "rewards": []
   }
 ]
