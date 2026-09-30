@@ -11,58 +11,102 @@
     "url": "https:\/\/pjsekai.sega.jp\/index.html"
   },
   {
-    "homeBannerId": 1652,
+    "homeBannerId": 1658,
+    "seq": 20,
+    "homeBannerType": "general",
+    "name": "[ガチャ][6周年記念]ブルフェスガチャ ドリームピック",
+    "assetbundleName": "banner_gacha4015",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 4015,
+    "startAt": 1790737200000,
+    "endAt": 1791082799000
+  },
+  {
+    "homeBannerId": 1659,
+    "seq": 30,
+    "homeBannerType": "general",
+    "name": "[ガチャ]1\/3セレクトリストガチャ LIMITED EDITION",
+    "assetbundleName": "banner_gacha4022",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 4022,
+    "startAt": 1790694000000,
+    "endAt": 1791773999000
+  },
+  {
+    "homeBannerId": 1660,
+    "seq": 40,
+    "homeBannerType": "general",
+    "name": "[ガチャ]メモリアルセレクトガチャ",
+    "assetbundleName": "banner_gacha4023",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 4023,
+    "startAt": 1790694000000,
+    "endAt": 1791773999000
+  },
+  {
+    "homeBannerId": 1661,
+    "seq": 50,
+    "homeBannerType": "general",
+    "name": "[ガチャ]プレプレガチャ全体バナー",
+    "assetbundleName": "banner_gacha_tab39",
+    "transitionDestinationType": "gacha_tab_parent",
+    "transitionDestinationId": 150,
+    "startAt": 1790694000000,
+    "endAt": 1791773999000
+  },
+  {
+    "homeBannerId": 1662,
+    "seq": 60,
+    "homeBannerType": "general",
+    "name": "[6周年記念]プチハピネスパッケージガチャ",
+    "assetbundleName": "banner_gacha4024",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 4024,
+    "startAt": 1790694000000,
+    "endAt": 1791773999000
+  },
+  {
+    "homeBannerId": 1663,
+    "seq": 70,
+    "homeBannerType": "general",
+    "name": "[6周年記念]バラエティパックガチャ（セレリス）",
+    "assetbundleName": "banner_gacha4036",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 4036,
+    "startAt": 1790694000000,
+    "endAt": 1791773999000
+  },
+  {
+    "homeBannerId": 1664,
+    "seq": 200,
+    "homeBannerType": "general",
+    "name": "[ガチャ]無料ガチャバナー",
+    "assetbundleName": "banner_gacha4025",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 4025,
+    "startAt": 1790694000000,
+    "endAt": 1793415599000
+  },
+  {
+    "homeBannerId": 1665,
     "seq": 100,
     "homeBannerType": "event",
-    "name": "[イベント]WLフィナーレイベ_イベントバナー",
-    "assetbundleName": "event_wl_3rd_finale_2026",
+    "name": "[イベント]6周年シャッフルイベ_イベントバナー",
+    "assetbundleName": "event_ourways_2026",
     "transitionDestinationType": "event",
-    "transitionDestinationId": 218,
-    "startAt": 1790056800000,
-    "endAt": 1790747999000
+    "transitionDestinationId": 219,
+    "startAt": 1790748000000,
+    "endAt": 1791784800000
   },
   {
-    "homeBannerId": 1654,
-    "seq": 10,
+    "homeBannerId": 1669,
+    "seq": 170,
     "homeBannerType": "general",
-    "name": "9月29日生放送（当日",
-    "assetbundleName": "banner_6th_annive_broadcast_02_held",
-    "transitionDestinationType": "information",
-    "transitionDestinationId": 6505,
-    "startAt": 1790647200000,
-    "endAt": 1790694000000
-  },
-  {
-    "homeBannerId": 1655,
-    "seq": 100,
-    "homeBannerType": "general",
-    "name": "[フィナーレチャプター]ワールドリンクイベントサポートガチャ",
-    "assetbundleName": "banner_gacha4011",
-    "transitionDestinationType": "gacha",
-    "transitionDestinationId": 4011,
-    "startAt": 1790305200000,
-    "endAt": 1790737199000
-  },
-  {
-    "homeBannerId": 1656,
-    "seq": 61,
-    "homeBannerType": "general",
-    "name": "[6周年前夜祭]スペシャルプライズガチャ TICKET EDITION",
-    "assetbundleName": "banner_gacha4012",
-    "transitionDestinationType": "gacha",
-    "transitionDestinationId": 4012,
-    "startAt": 1790478000000,
-    "endAt": 1790737199000
-  },
-  {
-    "homeBannerId": 1657,
-    "seq": 62,
-    "homeBannerType": "general",
-    "name": "[6周年前夜祭]スペシャルプライズガチャ LIVE BONUS EDITION",
-    "assetbundleName": "banner_gacha4013",
-    "transitionDestinationType": "gacha",
-    "transitionDestinationId": 4013,
-    "startAt": 1790478000000,
-    "endAt": 1790737199000
+    "name": "6周年記念スペシャルライブ",
+    "assetbundleName": "banner_virtuallive488",
+    "transitionDestinationType": "virtual_live",
+    "transitionDestinationId": 488,
+    "startAt": 1790694000000,
+    "endAt": 1790780400000
   }
 ]
