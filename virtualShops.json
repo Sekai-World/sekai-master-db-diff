@@ -8129,5 +8129,134 @@
     ],
     "virtualShopType": "event",
     "virtualShopDisplayType": "out_of_scope"
+  },
+  {
+    "id": 323,
+    "seq": 323,
+    "name": "「コネクトライブ GO Hoppin' Parade」チケットショップ",
+    "virtualLiveId": 518,
+    "virtualShopItems": [
+      {
+        "id": 526,
+        "virtualShopId": 323,
+        "virtualShopItemType": "premium_virtual_live_ticket",
+        "seq": 299976,
+        "resourceBoxId": 418,
+        "costPaidJewel": 2980,
+        "startAt": 1792130400000,
+        "endAt": 1792853999000,
+        "limitValue": 2
+      },
+      {
+        "id": 527,
+        "virtualShopId": 323,
+        "virtualShopItemType": "premium_virtual_live_ticket",
+        "seq": 299977,
+        "resourceBoxId": 419,
+        "costPaidJewel": 6980,
+        "startAt": 1792130400000,
+        "endAt": 1792853999000,
+        "limitValue": 1
+      },
+      {
+        "id": 528,
+        "virtualShopId": 323,
+        "virtualShopItemType": "premium_virtual_live_ticket",
+        "seq": 299978,
+        "resourceBoxId": 420,
+        "costPaidJewel": 2980,
+        "startAt": 1792130400000,
+        "endAt": 1792940399000,
+        "limitValue": 2
+      },
+      {
+        "id": 529,
+        "virtualShopId": 323,
+        "virtualShopItemType": "premium_virtual_live_ticket",
+        "seq": 299979,
+        "resourceBoxId": 421,
+        "costPaidJewel": 6980,
+        "startAt": 1792130400000,
+        "endAt": 1792940399000,
+        "limitValue": 1
+      },
+      {
+        "id": 530,
+        "virtualShopId": 323,
+        "virtualShopItemType": "premium_virtual_live_ticket",
+        "seq": 299980,
+        "resourceBoxId": 422,
+        "costPaidJewel": 11980,
+        "startAt": 1792130400000,
+        "endAt": 1792940399000,
+        "limitValue": 1
+      }
+    ],
+    "virtualShopType": "virtual_live_ticket",
+    "virtualShopDisplayType": "divide_bonus_info"
+  },
+  {
+    "id": 324,
+    "seq": 324,
+    "name": "「コネクトライブ GO Hoppin' Parade」グッズショップ",
+    "virtualLiveId": 518,
+    "virtualShopItems": [
+      {
+        "id": 531,
+        "virtualShopId": 324,
+        "virtualShopItemType": "costume",
+        "seq": 99869,
+        "resourceBoxId": 423,
+        "costVirtualCoin": 3000,
+        "costJewel": 1000,
+        "startAt": 1792130400000,
+        "endAt": 1793080799000,
+        "limitValue": 1
+      },
+      {
+        "id": 532,
+        "virtualShopId": 324,
+        "virtualShopItemType": "costume",
+        "seq": 99868,
+        "resourceBoxId": 424,
+        "costVirtualCoin": 3000,
+        "costJewel": 1000,
+        "startAt": 1792130400000,
+        "endAt": 1793080799000,
+        "limitValue": 1
+      },
+      {
+        "id": 533,
+        "virtualShopId": 324,
+        "virtualShopItemType": "accessory",
+        "seq": 99867,
+        "resourceBoxId": 425,
+        "costVirtualCoin": 3000,
+        "costJewel": 1000,
+        "startAt": 1792130400000,
+        "endAt": 1793080799000,
+        "limitValue": 1
+      }
+    ],
+    "virtualShopType": "other",
+    "virtualShopDisplayType": "out_of_scope"
+  },
+  {
+    "id": 325,
+    "seq": 325,
+    "name": "「コネクトライブ GO Hoppin' Parade」チケットショップ",
+    "virtualLiveId": 519,
+    "virtualShopItems": [],
+    "virtualShopType": "virtual_live_ticket",
+    "virtualShopDisplayType": "divide_bonus_info"
+  },
+  {
+    "id": 326,
+    "seq": 326,
+    "name": "「コネクトライブ GO Hoppin' Parade」グッズショップ",
+    "virtualLiveId": 519,
+    "virtualShopItems": [],
+    "virtualShopType": "other",
+    "virtualShopDisplayType": "out_of_scope"
   }
 ]
