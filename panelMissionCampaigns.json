@@ -31263,5 +31263,176 @@
         ]
       }
     ]
+  },
+  {
+    "id": 18,
+    "name": "Vivid BAD SQUAD Memories開催記念スタンプミッション",
+    "assetbundleName": "vbs_memories_pm",
+    "bgmAssetbundleName": "vbs_memories_pm_bgm",
+    "selectableLimit": 1,
+    "startAt": 1792551600000,
+    "progressEndAt": 1792983599000,
+    "closedAt": 1792983599000,
+    "distributionEndAt": 1794193199000,
+    "informationId": 6643,
+    "panelMissionSelectionType": "auto",
+    "panelMissionSheetGroups": [
+      {
+        "id": 1801,
+        "panelMissionCampaignId": 18,
+        "name": "ユニット",
+        "selectableLimit": 1,
+        "seq": 1,
+        "panelMissionSheets": [
+          {
+            "id": 180101,
+            "panelMissionSheetGroupId": 1801,
+            "name": "Vivid BAD SQUADカード",
+            "seq": 1,
+            "assetbundleName": "sheet_the_memories_vbs",
+            "isInitialSelected": false,
+            "panelMissions": [
+              {
+                "id": 18010101,
+                "panelMissionSheetId": 180101,
+                "name": "ユニットの楽曲で\n15回ライブ",
+                "description": "楽曲選択画面のVivid BAD SQUADタブに含まれる楽曲で15回ライブしよう。\n※オートライブでもカウントされます。",
+                "seq": 1,
+                "panelMissionType": "unit_live_clear_music",
+                "requirement1": 15,
+                "rewards": [
+                  {
+                    "id": 20303,
+                    "missionType": "panel_mission",
+                    "missionId": 18010101,
+                    "seq": 1,
+                    "resourceBoxId": 2144
+                  }
+                ]
+              },
+              {
+                "id": 18010102,
+                "panelMissionSheetId": 180101,
+                "name": "ユニットメンバーを\n1人以上編成して10回ライブ",
+                "description": "Vivid BAD SQUADのメンバーを1人以上ユニットに編成して10回ライブをクリアしよう。\n※オートライブでもカウントされます。",
+                "seq": 2,
+                "panelMissionType": "play_live_with_unit",
+                "requirement1": 10,
+                "rewards": [
+                  {
+                    "id": 20304,
+                    "missionType": "panel_mission",
+                    "missionId": 18010102,
+                    "seq": 1,
+                    "resourceBoxId": 2144
+                  }
+                ]
+              },
+              {
+                "id": 18010103,
+                "panelMissionSheetId": 180101,
+                "name": "ユニットメンバーを\n5回迎える",
+                "description": "Vivid BAD SQUADのメンバーを5回迎える。",
+                "seq": 3,
+                "panelMissionType": "unit_collect_card",
+                "requirement1": 5,
+                "rewards": [
+                  {
+                    "id": 20305,
+                    "missionType": "panel_mission",
+                    "missionId": 18010103,
+                    "seq": 1,
+                    "resourceBoxId": 2144
+                  }
+                ]
+              },
+              {
+                "id": 18010104,
+                "panelMissionSheetId": 180101,
+                "name": "10種類の楽曲を\nクリア",
+                "description": "10種類の楽曲をクリアしよう。\n※オートライブでもカウントされます。",
+                "seq": 4,
+                "panelMissionType": "live_clear_with_different_music",
+                "requirement1": 10,
+                "requirement2": 1,
+                "rewards": [
+                  {
+                    "id": 20306,
+                    "missionType": "panel_mission",
+                    "missionId": 18010104,
+                    "seq": 1,
+                    "resourceBoxId": 2144
+                  }
+                ]
+              },
+              {
+                "id": 18010105,
+                "panelMissionSheetId": 180101,
+                "name": "ライブボーナスを\n累計50消費",
+                "description": "ライブボーナスを累計50消費しよう。\n※マイセカイはライブボーナスをスタミナにした場合のみカウントされます。",
+                "seq": 5,
+                "panelMissionType": "consume_boost_count",
+                "requirement1": 50,
+                "rewards": [
+                  {
+                    "id": 20307,
+                    "missionType": "panel_mission",
+                    "missionId": 18010105,
+                    "seq": 1,
+                    "resourceBoxId": 2144
+                  }
+                ]
+              },
+              {
+                "id": 18010106,
+                "panelMissionSheetId": 180101,
+                "name": "イベントP\n累計5万獲得",
+                "description": "イベント「Vivid BAD SQUAD Memories」でイベントPを累計5万獲得しよう。\n※イベントPは10月25日20時59分まで獲得できます。",
+                "seq": 6,
+                "panelMissionType": "collect_event_point",
+                "requirement1": 50000,
+                "rewards": [
+                  {
+                    "id": 20308,
+                    "missionType": "panel_mission",
+                    "missionId": 18010106,
+                    "seq": 1,
+                    "resourceBoxId": 2144
+                  }
+                ]
+              },
+              {
+                "id": 18010107,
+                "panelMissionSheetId": 180101,
+                "name": "イベント「Vivid BAD\n SQUAD Memories」\nイベント全話完読",
+                "description": "スキップ・早送りせずに\nイベント「Vivid BAD SQUAD Memories」のイベントストーリー全話を読もう。",
+                "seq": 7,
+                "panelMissionType": "read_all_event_story_episode_without_skip",
+                "requirement1": 20,
+                "requirement2": 1,
+                "rewards": [
+                  {
+                    "id": 20309,
+                    "missionType": "panel_mission",
+                    "missionId": 18010107,
+                    "seq": 1,
+                    "resourceBoxId": 2144
+                  }
+                ]
+              }
+            ],
+            "rewards": [
+              {
+                "id": 20310,
+                "missionType": "panel_mission_complete",
+                "missionId": 180101,
+                "seq": 1,
+                "resourceBoxId": 2145
+              }
+            ]
+          }
+        ]
+      }
+    ]
   }
 ]

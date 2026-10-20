@@ -55032,7 +55032,7 @@
     "name": "バースデーバルーン '26（遥）",
     "pronunciation": "ばーすでーばるーんにじゅうろくはるか",
     "flavorText": "バースデーバルーン '26（遥）",
-    "seq": 60002003,
+    "seq": 60002002,
     "gridSize": {
       "width": 2,
       "depth": 2,
@@ -55066,7 +55066,7 @@
     "name": "バースデーブーケ '26（遥）",
     "pronunciation": "ばーすでーぶーけにじゅうろくはるか",
     "flavorText": "バースデーブーケ '26（遥）",
-    "seq": 60002002,
+    "seq": 60002003,
     "gridSize": {
       "width": 1,
       "depth": 1,
@@ -55159,6 +55159,176 @@
     "mysekaiFixturePlayerActionType": "no_action",
     "isGameCharacterAction": true,
     "assetbundleName": "mdl_bir2106_fixture_arch1",
+    "firstPutCost": 85,
+    "secondPutCost": 2
+  },
+  {
+    "id": 1507,
+    "mysekaiFixtureType": "system",
+    "name": "バースデーケーキ '26（穂波）",
+    "pronunciation": "ばーすでーけーきにじゅうろくほなみ",
+    "flavorText": "バースデーケーキ '26（穂波）",
+    "seq": 60002006,
+    "gridSize": {
+      "width": 4,
+      "depth": 4,
+      "height": 3
+    },
+    "mysekaiFixtureMainGenreId": 2,
+    "mysekaiFixtureSubGenreId": 9,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "any",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "none",
+    "mysekaiFixtureAnotherColors": [],
+    "mysekaiFixturePutSoundId": 1,
+    "mysekaiFixtureTagGroup": {
+      "id": 1507,
+      "mysekaiFixtureTagId1": 11701,
+      "mysekaiFixtureTagId2": 11706,
+      "mysekaiFixtureTagId3": 4
+    },
+    "isAssembled": true,
+    "isDisassembled": true,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_bir2103_fixture_cake1",
+    "firstPutCost": 95,
+    "secondPutCost": 2
+  },
+  {
+    "id": 1508,
+    "mysekaiFixtureType": "normal",
+    "name": "バースデーバルーン '26（穂波）",
+    "pronunciation": "ばーすでーばるーんにじゅうろくほなみ",
+    "flavorText": "バースデーバルーン '26（穂波）",
+    "seq": 60002007,
+    "gridSize": {
+      "width": 2,
+      "depth": 2,
+      "height": 6
+    },
+    "mysekaiFixtureMainGenreId": 3,
+    "mysekaiFixtureSubGenreId": 13,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "any",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "put_target",
+    "mysekaiFixtureAnotherColors": [],
+    "mysekaiFixturePutSoundId": 11,
+    "mysekaiFixtureTagGroup": {
+      "id": 1508,
+      "mysekaiFixtureTagId1": 11702,
+      "mysekaiFixtureTagId2": 11706,
+      "mysekaiFixtureTagId3": 4
+    },
+    "isAssembled": true,
+    "isDisassembled": true,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_bir2103_fixture_balloon1",
+    "firstPutCost": 110,
+    "secondPutCost": 2
+  },
+  {
+    "id": 1509,
+    "mysekaiFixtureType": "normal",
+    "name": "バースデーブーケ '26（穂波）",
+    "pronunciation": "ばーすでーぶーけにじゅうろくほなみ",
+    "flavorText": "バースデーブーケ '26（穂波）",
+    "seq": 60002008,
+    "gridSize": {
+      "width": 1,
+      "depth": 1,
+      "height": 2
+    },
+    "mysekaiFixtureMainGenreId": 3,
+    "mysekaiFixtureSubGenreId": 13,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "any",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "put_target",
+    "mysekaiFixtureAnotherColors": [],
+    "mysekaiFixturePutSoundId": 13,
+    "mysekaiFixtureTagGroup": {
+      "id": 1509,
+      "mysekaiFixtureTagId1": 11703,
+      "mysekaiFixtureTagId2": 11706,
+      "mysekaiFixtureTagId3": 4
+    },
+    "isAssembled": true,
+    "isDisassembled": true,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_bir2103_fixture_flower1",
+    "firstPutCost": 65,
+    "secondPutCost": 2
+  },
+  {
+    "id": 1510,
+    "mysekaiFixtureType": "normal",
+    "name": "バースデーネームブロック '26（穂波）",
+    "pronunciation": "ばーすでーねーむぶろっくにじゅうろくほなみ",
+    "flavorText": "バースデーネームブロック '26（穂波）",
+    "seq": 60002009,
+    "gridSize": {
+      "width": 5,
+      "depth": 1,
+      "height": 1
+    },
+    "mysekaiFixtureMainGenreId": 32,
+    "mysekaiFixtureSubGenreId": 38,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "any",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "put_either",
+    "mysekaiFixtureAnotherColors": [],
+    "mysekaiFixturePutSoundId": 14,
+    "mysekaiFixtureTagGroup": {
+      "id": 1510,
+      "mysekaiFixtureTagId1": 11704,
+      "mysekaiFixtureTagId2": 11706,
+      "mysekaiFixtureTagId3": 4
+    },
+    "isAssembled": true,
+    "isDisassembled": true,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_bir2103_fixture_nameobject1",
+    "firstPutCost": 65,
+    "secondPutCost": 2
+  },
+  {
+    "id": 1511,
+    "mysekaiFixtureType": "normal",
+    "name": "バースデーアーチ '26（穂波）",
+    "pronunciation": "ばーすでーあーちにじゅうろくほなみ",
+    "flavorText": "バースデーアーチ '26（穂波）",
+    "seq": 60002010,
+    "gridSize": {
+      "width": 8,
+      "depth": 2,
+      "height": 8
+    },
+    "mysekaiFixtureMainGenreId": 2,
+    "mysekaiFixtureSubGenreId": 9,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "any",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "none",
+    "mysekaiFixtureAnotherColors": [],
+    "mysekaiFixturePutSoundId": 8,
+    "mysekaiFixtureTagGroup": {
+      "id": 1511,
+      "mysekaiFixtureTagId1": 11705,
+      "mysekaiFixtureTagId2": 11706,
+      "mysekaiFixtureTagId3": 4
+    },
+    "isAssembled": true,
+    "isDisassembled": true,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": true,
+    "assetbundleName": "mdl_bir2103_fixture_arch1",
     "firstPutCost": 85,
     "secondPutCost": 2
   },
@@ -60439,6 +60609,607 @@
     "secondPutCost": 2
   },
   {
+    "id": 1781,
+    "mysekaiFixtureType": "surface_appearance",
+    "name": "音楽ホールの壁",
+    "pronunciation": "おんがくほーるのかべ",
+    "flavorText": "音楽ホールの壁",
+    "seq": 30031001,
+    "gridSize": {
+      "width": 0,
+      "depth": 0,
+      "height": 0
+    },
+    "colorCode": "#824600",
+    "mysekaiFixtureMainGenreId": 7,
+    "mysekaiFixtureSubGenreId": 19,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "room",
+    "mysekaiSettableLayoutType": "wall_appearance",
+    "mysekaiFixturePutType": "none",
+    "mysekaiFixtureAnotherColors": [
+      {
+        "textureId": 2,
+        "colorCode": "#F9F7F1"
+      },
+      {
+        "textureId": 3,
+        "colorCode": "#222222"
+      }
+    ],
+    "mysekaiFixturePutSoundId": 15,
+    "mysekaiFixtureTagGroup": {
+      "id": 1781,
+      "mysekaiFixtureTagId1": 11680,
+      "mysekaiFixtureTagId2": 109
+    },
+    "isAssembled": true,
+    "isDisassembled": true,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "ext0031",
+    "firstPutCost": 0,
+    "secondPutCost": 0
+  },
+  {
+    "id": 1782,
+    "mysekaiFixtureType": "surface_appearance",
+    "name": "音楽ホールの床",
+    "pronunciation": "おんがくほーるのゆか",
+    "flavorText": "音楽ホールの床",
+    "seq": 30031002,
+    "gridSize": {
+      "width": 0,
+      "depth": 0,
+      "height": 0
+    },
+    "colorCode": "#824600",
+    "mysekaiFixtureMainGenreId": 8,
+    "mysekaiFixtureSubGenreId": 20,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "room",
+    "mysekaiSettableLayoutType": "floor_appearance",
+    "mysekaiFixturePutType": "none",
+    "mysekaiFixtureAnotherColors": [
+      {
+        "textureId": 2,
+        "colorCode": "#E6CEAA"
+      },
+      {
+        "textureId": 3,
+        "colorCode": "#8D8C96"
+      }
+    ],
+    "mysekaiFixturePutSoundId": 15,
+    "mysekaiFixtureFootstepId": 7,
+    "mysekaiFixtureTagGroup": {
+      "id": 1782,
+      "mysekaiFixtureTagId1": 11681,
+      "mysekaiFixtureTagId2": 109
+    },
+    "isAssembled": true,
+    "isDisassembled": true,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "ext0031",
+    "firstPutCost": 0,
+    "secondPutCost": 0
+  },
+  {
+    "id": 1783,
+    "mysekaiFixtureType": "normal",
+    "name": "音楽ホールの柱",
+    "pronunciation": "おんがくほーるのはしら",
+    "flavorText": "音楽ホールの柱",
+    "seq": 30031003,
+    "gridSize": {
+      "width": 2,
+      "depth": 2,
+      "height": 10
+    },
+    "colorCode": "#824600",
+    "mysekaiFixtureMainGenreId": 2,
+    "mysekaiFixtureSubGenreId": 9,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "any",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "none",
+    "mysekaiFixtureAnotherColors": [
+      {
+        "textureId": 2,
+        "colorCode": "#F9F7F1"
+      },
+      {
+        "textureId": 3,
+        "colorCode": "#222222"
+      }
+    ],
+    "mysekaiFixturePutSoundId": 5,
+    "mysekaiFixtureTagGroup": {
+      "id": 1783,
+      "mysekaiFixtureTagId1": 11682,
+      "mysekaiFixtureTagId2": 109
+    },
+    "isAssembled": true,
+    "isDisassembled": true,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_ext0031_fixture_column1",
+    "firstPutCost": 25,
+    "secondPutCost": 2
+  },
+  {
+    "id": 1784,
+    "mysekaiFixtureType": "normal",
+    "name": "音楽ホールのカーテン",
+    "pronunciation": "おんがくほーるのかーてん",
+    "flavorText": "音楽ホールのカーテン",
+    "seq": 30031004,
+    "gridSize": {
+      "width": 4,
+      "depth": 1,
+      "height": 10
+    },
+    "colorCode": "#CA2828",
+    "mysekaiFixtureMainGenreId": 4,
+    "mysekaiFixtureSubGenreId": 14,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "any",
+    "mysekaiSettableLayoutType": "wall",
+    "mysekaiFixturePutType": "none",
+    "mysekaiFixtureAnotherColors": [
+      {
+        "textureId": 2,
+        "colorCode": "#28AEA6"
+      },
+      {
+        "textureId": 3,
+        "colorCode": "#222222"
+      }
+    ],
+    "mysekaiFixturePutSoundId": 10,
+    "mysekaiFixtureTagGroup": {
+      "id": 1784,
+      "mysekaiFixtureTagId1": 11683,
+      "mysekaiFixtureTagId2": 109
+    },
+    "isAssembled": true,
+    "isDisassembled": true,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_ext0031_fixture_curtain1",
+    "firstPutCost": 25,
+    "secondPutCost": 2
+  },
+  {
+    "id": 1785,
+    "mysekaiFixtureType": "normal",
+    "name": "音楽ホールのラグ",
+    "pronunciation": "おんがくほーるのらぐ",
+    "flavorText": "音楽ホールのラグ",
+    "seq": 30031005,
+    "gridSize": {
+      "width": 12,
+      "depth": 12,
+      "height": 1
+    },
+    "colorCode": "#CB7A00",
+    "mysekaiFixtureMainGenreId": 9,
+    "mysekaiFixtureSubGenreId": 21,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "any",
+    "mysekaiSettableLayoutType": "rug",
+    "mysekaiFixturePutType": "none",
+    "mysekaiFixtureAnotherColors": [
+      {
+        "textureId": 2,
+        "colorCode": "#E6CEAA"
+      },
+      {
+        "textureId": 3,
+        "colorCode": "#8D8C96"
+      }
+    ],
+    "mysekaiFixturePutSoundId": 2,
+    "mysekaiFixtureFootstepId": 6,
+    "mysekaiFixtureTagGroup": {
+      "id": 1785,
+      "mysekaiFixtureTagId1": 11684,
+      "mysekaiFixtureTagId2": 109
+    },
+    "isAssembled": true,
+    "isDisassembled": true,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_ext0031_rug_rug1",
+    "firstPutCost": 20,
+    "secondPutCost": 2
+  },
+  {
+    "id": 1786,
+    "mysekaiFixtureType": "normal",
+    "name": "音楽ホールの客席",
+    "pronunciation": "おんがくほーるのきゃくせき",
+    "flavorText": "音楽ホールの客席",
+    "seq": 30031006,
+    "gridSize": {
+      "width": 2,
+      "depth": 2,
+      "height": 2
+    },
+    "colorCode": "#CA2828",
+    "mysekaiFixtureMainGenreId": 2,
+    "mysekaiFixtureSubGenreId": 4,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "any",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "none",
+    "mysekaiFixtureAnotherColors": [
+      {
+        "textureId": 2,
+        "colorCode": "#28AEA6"
+      },
+      {
+        "textureId": 3,
+        "colorCode": "#1B90D2"
+      }
+    ],
+    "mysekaiFixturePutSoundId": 1,
+    "mysekaiFixtureTagGroup": {
+      "id": 1786,
+      "mysekaiFixtureTagId1": 11685,
+      "mysekaiFixtureTagId2": 109
+    },
+    "isAssembled": true,
+    "isDisassembled": true,
+    "mysekaiFixturePlayerActionType": "timeline",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_ext0031_fixture_chair1",
+    "firstPutCost": 25,
+    "secondPutCost": 2
+  },
+  {
+    "id": 1787,
+    "mysekaiFixtureType": "normal",
+    "name": "音楽ホールの客席風台座",
+    "pronunciation": "おんがくほーるのきゃくせきふうだいざ",
+    "flavorText": "音楽ホールの客席風台座",
+    "seq": 30031007,
+    "gridSize": {
+      "width": 2,
+      "depth": 2,
+      "height": 2
+    },
+    "colorCode": "#CA2828",
+    "mysekaiFixtureMainGenreId": 2,
+    "mysekaiFixtureSubGenreId": 9,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "any",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "put_base",
+    "mysekaiFixtureAnotherColors": [
+      {
+        "textureId": 2,
+        "colorCode": "#28AEA6"
+      },
+      {
+        "textureId": 3,
+        "colorCode": "#1B90D2"
+      }
+    ],
+    "mysekaiFixturePutSoundId": 1,
+    "mysekaiFixtureTagGroup": {
+      "id": 1787,
+      "mysekaiFixtureTagId1": 11686,
+      "mysekaiFixtureTagId2": 109
+    },
+    "isAssembled": true,
+    "isDisassembled": true,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_ext0031_fixture_stand1",
+    "firstPutCost": 25,
+    "secondPutCost": 2
+  },
+  {
+    "id": 1788,
+    "mysekaiFixtureType": "normal",
+    "name": "音楽ホールのスポットライト",
+    "pronunciation": "おんがくほーるのすぽっとらいと",
+    "flavorText": "音楽ホールのスポットライト",
+    "seq": 30031008,
+    "gridSize": {
+      "width": 1,
+      "depth": 1,
+      "height": 9
+    },
+    "mysekaiFixtureMainGenreId": 2,
+    "mysekaiFixtureSubGenreId": 8,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "any",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "none",
+    "mysekaiFixtureAnotherColors": [],
+    "mysekaiFixturePutSoundId": 4,
+    "mysekaiFixtureTagGroup": {
+      "id": 1788,
+      "mysekaiFixtureTagId1": 11687,
+      "mysekaiFixtureTagId2": 109,
+      "mysekaiFixtureTagId3": 70
+    },
+    "isAssembled": true,
+    "isDisassembled": true,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_ext0031_fixture_spotlight1",
+    "firstPutCost": 70,
+    "secondPutCost": 6
+  },
+  {
+    "id": 1789,
+    "mysekaiFixtureType": "normal",
+    "name": "音楽ホールのピアノ",
+    "pronunciation": "おんがくほーるのぴあの",
+    "flavorText": "音楽ホールのピアノ",
+    "seq": 30031009,
+    "gridSize": {
+      "width": 6,
+      "depth": 7,
+      "height": 6
+    },
+    "colorCode": "#222222",
+    "mysekaiFixtureMainGenreId": 2,
+    "mysekaiFixtureSubGenreId": 9,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "any",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "none",
+    "mysekaiFixtureAnotherColors": [
+      {
+        "textureId": 2,
+        "colorCode": "#F9F7F1"
+      },
+      {
+        "textureId": 3,
+        "colorCode": "#6A450E"
+      }
+    ],
+    "mysekaiFixturePutSoundId": 2,
+    "mysekaiFixtureTagGroup": {
+      "id": 1789,
+      "mysekaiFixtureTagId1": 11688,
+      "mysekaiFixtureTagId2": 109,
+      "mysekaiFixtureTagId3": 74
+    },
+    "isAssembled": true,
+    "isDisassembled": true,
+    "mysekaiFixturePlayerActionType": "timeline",
+    "isGameCharacterAction": true,
+    "assetbundleName": "mdl_ext0031_fixture_piano1",
+    "firstPutCost": 60,
+    "secondPutCost": 2
+  },
+  {
+    "id": 1790,
+    "mysekaiFixtureType": "normal",
+    "name": "音楽ホールのティンパニ",
+    "pronunciation": "おんがくほーるのてぃんぱに",
+    "flavorText": "音楽ホールのティンパニ",
+    "seq": 30031010,
+    "gridSize": {
+      "width": 5,
+      "depth": 3,
+      "height": 2
+    },
+    "colorCode": "#CA2828",
+    "mysekaiFixtureMainGenreId": 2,
+    "mysekaiFixtureSubGenreId": 9,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "any",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "none",
+    "mysekaiFixtureAnotherColors": [
+      {
+        "textureId": 2,
+        "colorCode": "#F9F7F1"
+      },
+      {
+        "textureId": 3,
+        "colorCode": "#192B89"
+      }
+    ],
+    "mysekaiFixturePutSoundId": 2,
+    "mysekaiFixtureTagGroup": {
+      "id": 1790,
+      "mysekaiFixtureTagId1": 11689,
+      "mysekaiFixtureTagId2": 109,
+      "mysekaiFixtureTagId3": 74
+    },
+    "isAssembled": true,
+    "isDisassembled": true,
+    "mysekaiFixturePlayerActionType": "one_shot",
+    "isGameCharacterAction": true,
+    "assetbundleName": "mdl_ext0031_fixture_timpani1",
+    "firstPutCost": 100,
+    "secondPutCost": 40
+  },
+  {
+    "id": 1791,
+    "mysekaiFixtureType": "normal",
+    "name": "音楽ホールのトランペット",
+    "pronunciation": "おんがくほーるのとらんぺっと",
+    "flavorText": "音楽ホールのトランペット",
+    "seq": 30031011,
+    "gridSize": {
+      "width": 1,
+      "depth": 1,
+      "height": 2
+    },
+    "colorCode": "#EFCF90",
+    "mysekaiFixtureMainGenreId": 2,
+    "mysekaiFixtureSubGenreId": 9,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "any",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "none",
+    "mysekaiFixtureAnotherColors": [
+      {
+        "textureId": 2,
+        "colorCode": "#F9F7F1"
+      },
+      {
+        "textureId": 3,
+        "colorCode": "#222222"
+      }
+    ],
+    "mysekaiFixturePutSoundId": 1,
+    "mysekaiFixtureTagGroup": {
+      "id": 1791,
+      "mysekaiFixtureTagId1": 11690,
+      "mysekaiFixtureTagId2": 109,
+      "mysekaiFixtureTagId3": 74
+    },
+    "isAssembled": true,
+    "isDisassembled": true,
+    "mysekaiFixturePlayerActionType": "one_shot",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_ext0031_fixture_trumpet1",
+    "firstPutCost": 30,
+    "secondPutCost": 2
+  },
+  {
+    "id": 1792,
+    "mysekaiFixtureType": "normal",
+    "name": "音楽ホールのマリンバ",
+    "pronunciation": "おんがくほーるのまりんば",
+    "flavorText": "音楽ホールのマリンバ",
+    "seq": 30031012,
+    "gridSize": {
+      "width": 5,
+      "depth": 3,
+      "height": 2
+    },
+    "colorCode": "#B5680D",
+    "mysekaiFixtureMainGenreId": 2,
+    "mysekaiFixtureSubGenreId": 9,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "any",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "none",
+    "mysekaiFixtureAnotherColors": [
+      {
+        "textureId": 2,
+        "colorCode": "#E4DCAF"
+      },
+      {
+        "textureId": 3,
+        "colorCode": "#6A450E"
+      }
+    ],
+    "mysekaiFixturePutSoundId": 2,
+    "mysekaiFixtureTagGroup": {
+      "id": 1792,
+      "mysekaiFixtureTagId1": 11691,
+      "mysekaiFixtureTagId2": 109,
+      "mysekaiFixtureTagId3": 74
+    },
+    "isAssembled": true,
+    "isDisassembled": true,
+    "mysekaiFixturePlayerActionType": "one_shot",
+    "isGameCharacterAction": true,
+    "assetbundleName": "mdl_ext0031_fixture_marimba1",
+    "firstPutCost": 70,
+    "secondPutCost": 2
+  },
+  {
+    "id": 1793,
+    "mysekaiFixtureType": "normal",
+    "name": "音楽ホールのバイオリン",
+    "pronunciation": "おんがくほーるのばいおりん",
+    "flavorText": "音楽ホールのバイオリン",
+    "seq": 30031013,
+    "gridSize": {
+      "width": 1,
+      "depth": 1,
+      "height": 2
+    },
+    "colorCode": "#B5680D",
+    "mysekaiFixtureMainGenreId": 2,
+    "mysekaiFixtureSubGenreId": 9,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "any",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "none",
+    "mysekaiFixtureAnotherColors": [
+      {
+        "textureId": 2,
+        "colorCode": "#F9F7F1"
+      },
+      {
+        "textureId": 3,
+        "colorCode": "#6A450E"
+      }
+    ],
+    "mysekaiFixturePutSoundId": 1,
+    "mysekaiFixtureTagGroup": {
+      "id": 1793,
+      "mysekaiFixtureTagId1": 11692,
+      "mysekaiFixtureTagId2": 109,
+      "mysekaiFixtureTagId3": 74
+    },
+    "isAssembled": true,
+    "isDisassembled": true,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": true,
+    "assetbundleName": "mdl_ext0031_fixture_violin1",
+    "firstPutCost": 70,
+    "secondPutCost": 2
+  },
+  {
+    "id": 1794,
+    "mysekaiFixtureType": "normal",
+    "name": "音楽ホールのハープ",
+    "pronunciation": "おんがくほーるのはーぷ",
+    "flavorText": "音楽ホールのハープ",
+    "seq": 30031014,
+    "gridSize": {
+      "width": 3,
+      "depth": 2,
+      "height": 4
+    },
+    "colorCode": "#EFCF90",
+    "mysekaiFixtureMainGenreId": 2,
+    "mysekaiFixtureSubGenreId": 9,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "any",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "none",
+    "mysekaiFixtureAnotherColors": [
+      {
+        "textureId": 2,
+        "colorCode": "#F9F7F1"
+      },
+      {
+        "textureId": 3,
+        "colorCode": "#222222"
+      }
+    ],
+    "mysekaiFixturePutSoundId": 2,
+    "mysekaiFixtureTagGroup": {
+      "id": 1794,
+      "mysekaiFixtureTagId1": 11693,
+      "mysekaiFixtureTagId2": 109,
+      "mysekaiFixtureTagId3": 74
+    },
+    "isAssembled": true,
+    "isDisassembled": true,
+    "mysekaiFixturePlayerActionType": "one_shot",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_ext0031_fixture_harp1",
+    "firstPutCost": 55,
+    "secondPutCost": 2
+  },
+  {
     "id": 1795,
     "mysekaiFixtureType": "normal",
     "name": "[6周年記念]メモリアルオブジェ",
@@ -61183,6 +61954,280 @@
     "assetbundleName": "mdl_pas126_fixture_doll5large",
     "firstPutCost": 80,
     "secondPutCost": 2
+  },
+  {
+    "id": 1817,
+    "mysekaiFixtureType": "normal",
+    "name": "ハロウィンのアーチ",
+    "pronunciation": "はろうぃんのあーち",
+    "flavorText": "ハロウィンのアーチ",
+    "seq": 30032001,
+    "gridSize": {
+      "width": 8,
+      "depth": 2,
+      "height": 8
+    },
+    "colorCode": "#CB7A00",
+    "mysekaiFixtureMainGenreId": 2,
+    "mysekaiFixtureSubGenreId": 9,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "any",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "none",
+    "mysekaiFixtureAnotherColors": [
+      {
+        "textureId": 2,
+        "colorCode": "#39A936"
+      },
+      {
+        "textureId": 3,
+        "colorCode": "#8856D9"
+      }
+    ],
+    "mysekaiFixturePutSoundId": 6,
+    "mysekaiFixtureTagGroup": {
+      "id": 1817,
+      "mysekaiFixtureTagId1": 11872,
+      "mysekaiFixtureTagId2": 89
+    },
+    "isAssembled": true,
+    "isDisassembled": true,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_ext0032_fixture_arch1",
+    "firstPutCost": 70,
+    "secondPutCost": 2
+  },
+  {
+    "id": 1818,
+    "mysekaiFixtureType": "normal",
+    "name": "ハロウィンの外壁",
+    "pronunciation": "はろうぃんのがいへき",
+    "flavorText": "ハロウィンの外壁",
+    "seq": 30032002,
+    "gridSize": {
+      "width": 4,
+      "depth": 2,
+      "height": 4
+    },
+    "colorCode": "#CB7A00",
+    "mysekaiFixtureMainGenreId": 2,
+    "mysekaiFixtureSubGenreId": 9,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "any",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "none",
+    "mysekaiFixtureAnotherColors": [
+      {
+        "textureId": 2,
+        "colorCode": "#39A936"
+      },
+      {
+        "textureId": 3,
+        "colorCode": "#8856D9"
+      }
+    ],
+    "mysekaiFixturePutSoundId": 6,
+    "mysekaiFixtureTagGroup": {
+      "id": 1818,
+      "mysekaiFixtureTagId1": 11873,
+      "mysekaiFixtureTagId2": 89
+    },
+    "isAssembled": true,
+    "isDisassembled": true,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_ext0032_fixture_propwall1",
+    "firstPutCost": 35,
+    "secondPutCost": 2
+  },
+  {
+    "id": 1819,
+    "mysekaiFixtureType": "normal",
+    "name": "ハロウィンの棺桶ベッド",
+    "pronunciation": "はろうぃんのかんおけべっど",
+    "flavorText": "ハロウィンの棺桶ベッド",
+    "seq": 30032003,
+    "gridSize": {
+      "width": 6,
+      "depth": 7,
+      "height": 3
+    },
+    "colorCode": "#CA2828",
+    "mysekaiFixtureMainGenreId": 2,
+    "mysekaiFixtureSubGenreId": 2,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "any",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "none",
+    "mysekaiFixtureAnotherColors": [
+      {
+        "textureId": 2,
+        "colorCode": "#39A936"
+      },
+      {
+        "textureId": 3,
+        "colorCode": "#8856D9"
+      }
+    ],
+    "mysekaiFixturePutSoundId": 2,
+    "mysekaiFixtureTagGroup": {
+      "id": 1819,
+      "mysekaiFixtureTagId1": 11874,
+      "mysekaiFixtureTagId2": 89
+    },
+    "isAssembled": true,
+    "isDisassembled": true,
+    "mysekaiFixturePlayerActionType": "timeline",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_ext0032_fixture_bed1",
+    "firstPutCost": 75,
+    "secondPutCost": 2
+  },
+  {
+    "id": 1820,
+    "mysekaiFixtureType": "normal",
+    "name": "ハロウィンのランプ",
+    "pronunciation": "はろうぃんのらんぷ",
+    "flavorText": "ハロウィンのランプ",
+    "seq": 30032004,
+    "gridSize": {
+      "width": 3,
+      "depth": 3,
+      "height": 5
+    },
+    "colorCode": "#CB7A00",
+    "mysekaiFixtureMainGenreId": 2,
+    "mysekaiFixtureSubGenreId": 8,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "any",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "none",
+    "mysekaiFixtureAnotherColors": [
+      {
+        "textureId": 2,
+        "colorCode": "#39A936"
+      },
+      {
+        "textureId": 3,
+        "colorCode": "#8856D9"
+      }
+    ],
+    "mysekaiFixturePutSoundId": 2,
+    "mysekaiFixtureTagGroup": {
+      "id": 1820,
+      "mysekaiFixtureTagId1": 11875,
+      "mysekaiFixtureTagId2": 89,
+      "mysekaiFixtureTagId3": 70
+    },
+    "isAssembled": true,
+    "isDisassembled": true,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_ext0032_fixture_lamp1",
+    "firstPutCost": 70,
+    "secondPutCost": 2
+  },
+  {
+    "id": 1821,
+    "mysekaiFixtureType": "normal",
+    "name": "ハロウィンのコウモリ飾り",
+    "pronunciation": "はろうぃんのこうもりかざり",
+    "flavorText": "ハロウィンのコウモリ飾り",
+    "seq": 30032005,
+    "gridSize": {
+      "width": 2,
+      "depth": 2,
+      "height": 4
+    },
+    "mysekaiFixtureMainGenreId": 3,
+    "mysekaiFixtureSubGenreId": 13,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "any",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "put_target",
+    "mysekaiFixtureAnotherColors": [],
+    "mysekaiFixturePutSoundId": 1,
+    "mysekaiFixtureTagGroup": {
+      "id": 1821,
+      "mysekaiFixtureTagId1": 11876,
+      "mysekaiFixtureTagId2": 89
+    },
+    "isAssembled": true,
+    "isDisassembled": true,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_ext0032_fixture_decoration1",
+    "firstPutCost": 20,
+    "secondPutCost": 2
+  },
+  {
+    "id": 1840,
+    "mysekaiFixtureType": "system",
+    "name": "MORE MORE JUMP！のレコードプレーヤー",
+    "pronunciation": "もあもあじゃんぷのれこーどぷれーやー",
+    "flavorText": "MORE MORE JUMP！のレコードプレーヤー",
+    "seq": 50006002,
+    "gridSize": {
+      "width": 3,
+      "depth": 2,
+      "height": 2
+    },
+    "mysekaiFixtureMainGenreId": 2,
+    "mysekaiFixtureSubGenreId": 8,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "any",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "none",
+    "mysekaiFixtureAnotherColors": [],
+    "mysekaiFixturePutSoundId": 2,
+    "mysekaiFixtureTagGroup": {
+      "id": 1840,
+      "mysekaiFixtureTagId1": 11895,
+      "mysekaiFixtureTagId2": 10,
+      "mysekaiFixtureTagId3": 56
+    },
+    "isAssembled": false,
+    "isDisassembled": false,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_chr0006_system_mmj1",
+    "firstPutCost": 95,
+    "secondPutCost": 8
+  },
+  {
+    "id": 1841,
+    "mysekaiFixtureType": "system",
+    "name": "Vivid BAD SQUADのレコードプレーヤー",
+    "pronunciation": "びびっどばっどすくわっどのれこーどぷれーやー",
+    "flavorText": "Vivid BAD SQUADのレコードプレーヤー",
+    "seq": 50006003,
+    "gridSize": {
+      "width": 3,
+      "depth": 2,
+      "height": 2
+    },
+    "mysekaiFixtureMainGenreId": 2,
+    "mysekaiFixtureSubGenreId": 8,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "any",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "none",
+    "mysekaiFixtureAnotherColors": [],
+    "mysekaiFixturePutSoundId": 2,
+    "mysekaiFixtureTagGroup": {
+      "id": 1841,
+      "mysekaiFixtureTagId1": 11896,
+      "mysekaiFixtureTagId2": 15,
+      "mysekaiFixtureTagId3": 56
+    },
+    "isAssembled": false,
+    "isDisassembled": false,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_chr0006_system_vbs1",
+    "firstPutCost": 95,
+    "secondPutCost": 8
   },
   {
     "id": 1845,

@@ -5004,7 +5004,7 @@
   {
     "id": 227,
     "seq": 173,
-    "name": "Vivid BAD SQUAD Memories ログインキャンペーン",
+    "name": "Vivid BAD SQUAD Memories開催記念ログインキャンペーン",
     "startAt": 1792508400000,
     "endAt": 1792594799000,
     "assetbundleName": "memorieseevent_1_2026",
@@ -5021,7 +5021,7 @@
   {
     "id": 228,
     "seq": 174,
-    "name": "Vivid BAD SQUAD Memories ログインキャンペーン",
+    "name": "Vivid BAD SQUAD Memories開催記念ログインキャンペーン",
     "startAt": 1792594800000,
     "endAt": 1792681199000,
     "assetbundleName": "memorieseevent_1_2026",
@@ -5038,7 +5038,7 @@
   {
     "id": 229,
     "seq": 175,
-    "name": "Vivid BAD SQUAD Memories ログインキャンペーン",
+    "name": "Vivid BAD SQUAD Memories開催記念ログインキャンペーン",
     "startAt": 1792681200000,
     "endAt": 1792767599000,
     "assetbundleName": "memorieseevent_1_2026",
@@ -5055,7 +5055,7 @@
   {
     "id": 230,
     "seq": 176,
-    "name": "Vivid BAD SQUAD Memories ログインキャンペーン",
+    "name": "Vivid BAD SQUAD Memories開催記念ログインキャンペーン",
     "startAt": 1792767600000,
     "endAt": 1792853999000,
     "assetbundleName": "memorieseevent_1_2026",
@@ -5072,7 +5072,7 @@
   {
     "id": 231,
     "seq": 177,
-    "name": "Vivid BAD SQUAD Memories ログインキャンペーン",
+    "name": "Vivid BAD SQUAD Memories開催記念ログインキャンペーン",
     "startAt": 1792854000000,
     "endAt": 1792940399000,
     "assetbundleName": "memorieseevent_1_2026",
@@ -5083,6 +5083,74 @@
         "limitedLoginBonusId": 231,
         "day": 1,
         "resourceBoxId": 255
+      }
+    ]
+  },
+  {
+    "id": 232,
+    "seq": 178,
+    "name": "[コネクトライブ GO Hoppin' Parade]カウントダウンログインキャンペーン",
+    "startAt": 1792594800000,
+    "endAt": 1792681199000,
+    "assetbundleName": "countdown_connectlive_008_joint_sp_01",
+    "closeAt": 1792681199000,
+    "limitedLoginBonusDetails": [
+      {
+        "id": 416,
+        "limitedLoginBonusId": 232,
+        "day": 1,
+        "resourceBoxId": 256
+      }
+    ]
+  },
+  {
+    "id": 233,
+    "seq": 179,
+    "name": "[コネクトライブ GO Hoppin' Parade]カウントダウンログインキャンペーン",
+    "startAt": 1792681200000,
+    "endAt": 1792767599000,
+    "assetbundleName": "countdown_connectlive_008_joint_sp_02",
+    "closeAt": 1792767599000,
+    "limitedLoginBonusDetails": [
+      {
+        "id": 417,
+        "limitedLoginBonusId": 233,
+        "day": 1,
+        "resourceBoxId": 256
+      }
+    ]
+  },
+  {
+    "id": 234,
+    "seq": 180,
+    "name": "[コネクトライブ GO Hoppin' Parade]カウントダウンログインキャンペーン",
+    "startAt": 1792767600000,
+    "endAt": 1792853999000,
+    "assetbundleName": "countdown_connectlive_008_joint_sp_03",
+    "closeAt": 1792853999000,
+    "limitedLoginBonusDetails": [
+      {
+        "id": 418,
+        "limitedLoginBonusId": 234,
+        "day": 1,
+        "resourceBoxId": 256
+      }
+    ]
+  },
+  {
+    "id": 235,
+    "seq": 181,
+    "name": "[コネクトライブ GO Hoppin' Parade]カウントダウンログインキャンペーン",
+    "startAt": 1792854000000,
+    "endAt": 1792940399000,
+    "assetbundleName": "countdown_connectlive_008_joint_sp_04",
+    "closeAt": 1792940399000,
+    "limitedLoginBonusDetails": [
+      {
+        "id": 419,
+        "limitedLoginBonusId": 235,
+        "day": 1,
+        "resourceBoxId": 256
       }
     ]
   }

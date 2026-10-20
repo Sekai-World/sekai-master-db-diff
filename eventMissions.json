@@ -19692,5 +19692,143 @@
     "eventMissionSelectableRewardGroupId": 2,
     "sentence": "7つのミッションを全て達成しよう。",
     "rewards": []
+  },
+  {
+    "id": 1121,
+    "eventId": 221,
+    "seq": 1,
+    "eventMissionType": "live_clear_daily",
+    "eventMissionCategory": "normal",
+    "requirement1": 5,
+    "sentence": "累計5日ライブを1日1回クリアしよう。",
+    "rewards": [
+      {
+        "id": 20296,
+        "missionType": "event_mission",
+        "missionId": 1121,
+        "seq": 1,
+        "resourceBoxId": 8004
+      }
+    ]
+  },
+  {
+    "id": 1122,
+    "eventId": 221,
+    "seq": 2,
+    "eventMissionType": "any_live_clear",
+    "eventMissionCategory": "normal",
+    "requirement1": 30,
+    "sentence": "ライブを30回クリアしよう。",
+    "rewards": [
+      {
+        "id": 20297,
+        "missionType": "event_mission",
+        "missionId": 1122,
+        "seq": 1,
+        "resourceBoxId": 8004
+      }
+    ]
+  },
+  {
+    "id": 1123,
+    "eventId": 221,
+    "seq": 3,
+    "eventMissionType": "live_clear_full_combo",
+    "eventMissionCategory": "normal",
+    "requirement1": 5,
+    "sentence": "ライブで楽曲をフルコンボで5回クリアしよう。",
+    "rewards": [
+      {
+        "id": 20298,
+        "missionType": "event_mission",
+        "missionId": 1123,
+        "seq": 1,
+        "resourceBoxId": 8004
+      }
+    ]
+  },
+  {
+    "id": 1124,
+    "eventId": 221,
+    "seq": 4,
+    "eventMissionType": "live_clear_different_music",
+    "eventMissionCategory": "normal",
+    "requirement1": 10,
+    "requirement2": 1,
+    "sentence": "ライブで10種類の楽曲をクリアしよう。",
+    "rewards": [
+      {
+        "id": 20299,
+        "missionType": "event_mission",
+        "missionId": 1124,
+        "seq": 1,
+        "resourceBoxId": 8004
+      }
+    ]
+  },
+  {
+    "id": 1125,
+    "eventId": 221,
+    "seq": 5,
+    "eventMissionType": "read_last_event_story_episode",
+    "eventMissionCategory": "normal",
+    "requirement1": 1,
+    "sentence": "イベント「Vivid BAD SQUAD Memories」のイベントストーリー第20話を読もう。",
+    "rewards": [
+      {
+        "id": 20300,
+        "missionType": "event_mission",
+        "missionId": 1125,
+        "seq": 1,
+        "resourceBoxId": 8004
+      }
+    ]
+  },
+  {
+    "id": 1126,
+    "eventId": 221,
+    "seq": 6,
+    "eventMissionType": "consume_event_item",
+    "eventMissionCategory": "normal",
+    "requirement1": 20000,
+    "sentence": "イベント「Vivid BAD SQUAD Memories」の交換所でバッジを20000個消費しよう。",
+    "rewards": [
+      {
+        "id": 20301,
+        "missionType": "event_mission",
+        "missionId": 1126,
+        "seq": 1,
+        "resourceBoxId": 8004
+      }
+    ]
+  },
+  {
+    "id": 1127,
+    "eventId": 221,
+    "seq": 7,
+    "eventMissionType": "multi_live_clear",
+    "eventMissionCategory": "normal",
+    "requirement1": 5,
+    "sentence": "みんなでライブを5回クリアしよう。",
+    "rewards": [
+      {
+        "id": 20302,
+        "missionType": "event_mission",
+        "missionId": 1127,
+        "seq": 1,
+        "resourceBoxId": 8004
+      }
+    ]
+  },
+  {
+    "id": 1128,
+    "eventId": 221,
+    "seq": 8,
+    "eventMissionType": "achieve_event_mission",
+    "eventMissionCategory": "complete_selectable_reward",
+    "requirement1": 7,
+    "eventMissionSelectableRewardGroupId": 2,
+    "sentence": "7つのミッションを全て達成しよう。",
+    "rewards": []
   }
 ]
