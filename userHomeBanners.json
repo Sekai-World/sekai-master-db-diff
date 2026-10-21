@@ -22,17 +22,6 @@
     "endAt": 1793415599000
   },
   {
-    "homeBannerId": 1672,
-    "seq": 170,
-    "homeBannerType": "event",
-    "name": "[イベント]レオニ箱イベ(穂波)_イベントバナー",
-    "assetbundleName": "event_orbit_2026",
-    "transitionDestinationType": "event",
-    "transitionDestinationId": 220,
-    "startAt": 1791784800000,
-    "endAt": 1792562399000
-  },
-  {
     "homeBannerId": 1674,
     "seq": 140,
     "homeBannerType": "general",
@@ -86,5 +75,26 @@
     "transitionDestinationId": 4045,
     "startAt": 1792551600000,
     "endAt": 1792983599000
+  },
+  {
+    "homeBannerId": 1679,
+    "seq": 100,
+    "homeBannerType": "event",
+    "name": "[イベント]Vivid BAD SQUAD Memories_イベントバナー",
+    "assetbundleName": "event_memories_vbs_2026",
+    "transitionDestinationType": "event",
+    "transitionDestinationId": 221,
+    "startAt": 1792562400000,
+    "endAt": 1792994399000
+  },
+  {
+    "homeBannerId": 1682,
+    "seq": 200,
+    "homeBannerType": "general",
+    "name": "セカイへようこそ大作戦！！_ホームバナービビバス",
+    "assetbundleName": "banner_cp_invite_friends_memories_vbs",
+    "transitionDestinationType": "friend_invitation_campaign",
+    "startAt": 1792562400000,
+    "endAt": 1792994399000
   }
 ]
