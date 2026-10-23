@@ -555,34 +555,6 @@
     "bannerAssetbundleName": "banner_news_pjsekailive6th_02"
   },
   {
-    "id": 6482,
-    "seq": 1,
-    "displayOrder": 89860,
-    "informationType": "normal",
-    "informationTag": "gacha",
-    "browseType": "internal",
-    "platform": "all",
-    "title": "「Step with Smilesガチャ」開催！",
-    "path": "information\/index.html?id=info_gacha4005_held",
-    "startAt": 1789354800000,
-    "endAt": 1792638000000,
-    "bannerAssetbundleName": "banner_news_gacha4005"
-  },
-  {
-    "id": 6490,
-    "seq": 1,
-    "displayOrder": 89960,
-    "informationType": "normal",
-    "informationTag": "gacha",
-    "browseType": "internal",
-    "platform": "all",
-    "title": "「[フィナーレチャプター]Vie for the Titleガチャ」開催！",
-    "path": "information\/index.html?id=info_gacha4007_held",
-    "startAt": 1789959600000,
-    "endAt": 1792638000000,
-    "bannerAssetbundleName": "banner_news_gacha4007"
-  },
-  {
     "id": 6496,
     "seq": 1,
     "displayOrder": 90000,
@@ -1081,19 +1053,6 @@
     "startAt": 1792130400000
   },
   {
-    "id": 6625,
-    "seq": 1,
-    "displayOrder": 91060,
-    "informationType": "normal",
-    "informationTag": "music",
-    "browseType": "internal",
-    "platform": "all",
-    "title": "楽曲「バカ通信」追加！",
-    "path": "information\/index.html?id=info_music_20261019",
-    "startAt": 1792389600000,
-    "endAt": 1792609200000
-  },
-  {
     "id": 6627,
     "seq": 1,
     "displayOrder": 91190,
@@ -1143,7 +1102,8 @@
     "platform": "all",
     "title": "アプリバージョン「v7.1.0」までに確認しているマイセカイの不具合について",
     "path": "information\/index.html?id=bug_summary_mysekai_to_v7-1-0",
-    "startAt": 1792549800000
+    "startAt": 1792549800000,
+    "endAt": 1792722600000
   },
   {
     "id": 6637,
@@ -1170,20 +1130,6 @@
     "startAt": 1792551600000,
     "endAt": 1795575600000,
     "bannerAssetbundleName": "banner_news_gacha4043"
-  },
-  {
-    "id": 6639,
-    "seq": 1,
-    "displayOrder": 91230,
-    "informationType": "normal",
-    "informationTag": "campaign",
-    "browseType": "internal",
-    "platform": "all",
-    "title": "予告、「[コネクトライブ GO Hoppin' Parade]カウントダウンログインキャンペーン」開催について",
-    "path": "information\/index.html?id=info_logincampaign_gohoppinparade_notice",
-    "startAt": 1792551600000,
-    "endAt": 1792594800000,
-    "bannerAssetbundleName": "banner_news_logincampaign_gohoppinparade"
   },
   {
     "id": 6640,
@@ -1238,20 +1184,6 @@
     "startAt": 1792551600000,
     "endAt": 1794193200000,
     "bannerAssetbundleName": "banner_news_memories_vbs_stampMission"
-  },
-  {
-    "id": 6644,
-    "seq": 1,
-    "displayOrder": 91310,
-    "informationType": "normal",
-    "informationTag": "event",
-    "browseType": "internal",
-    "platform": "all",
-    "title": "イベント「Vivid BAD SQUAD Memories」開催！",
-    "path": "information\/index.html?id=info_event221_held",
-    "startAt": 1792562400000,
-    "endAt": 1792582200000,
-    "bannerAssetbundleName": "banner_news_event221"
   },
   {
     "id": 6645,
@@ -1409,6 +1341,7 @@
     "title": "【10月20日12時30分追記】コネクトライブ「GO Hoppin' Parade」公演予定時間の訂正に伴うチケット購入者への返還対応についてのご案内",
     "path": "information\/index.html?id=info_connectlive_refund_20261019_add1",
     "startAt": 1792467000000,
+    "endAt": 1792724400000,
     "bannerAssetbundleName": "banner_news_virtuallive518_connectlive"
   },
   {
@@ -1421,7 +1354,8 @@
     "platform": "all",
     "title": "【10月20日12時30分更新】コネクトライブ「GO Hoppin’ Parade」チケット返還対応希望フォーム(修正版)",
     "path": "https:\/\/questant.jp\/q\/77NZ8WCA?id={userId}",
-    "startAt": 1792467000000
+    "startAt": 1792467000000,
+    "endAt": 1792724400000
   },
   {
     "id": 6663,
@@ -1450,6 +1384,20 @@
     "startAt": 1792638000000
   },
   {
+    "id": 6665,
+    "seq": 1,
+    "displayOrder": 91390,
+    "informationType": "normal",
+    "informationTag": "gacha",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "予告、「[GO Hoppin' Parade 開催記念]プレミアムプレゼントガチャ」開催について",
+    "path": "information\/index.html?id=info_gacha4049_notice",
+    "startAt": 1792724400000,
+    "endAt": 1792810800000,
+    "bannerAssetbundleName": "banner_news_gacha4049"
+  },
+  {
     "id": 6688,
     "seq": 1,
     "displayOrder": 91325,
@@ -1460,6 +1408,7 @@
     "title": "【10月21日20時30分追記】10月24日、25日より「コネクトライブ GO Hoppin' Parade」開催！",
     "path": "information\/index.html?id=info_virtuallive518_connectlive_notice_add3",
     "startAt": 1792582200000,
+    "endAt": 1792722600000,
     "bannerAssetbundleName": "banner_news_virtuallive518_connectlive"
   },
   {
@@ -1486,5 +1435,68 @@
     "title": "イベント「Vivid BAD SQUAD Memories」のイベント交換所における一部アイテムの交換バッジ数が想定よりも高く設定されている不具合について",
     "path": "information\/index.html?id=bug_event221_exchange_20261021",
     "startAt": 1792582200000
+  },
+  {
+    "id": 6691,
+    "seq": 1,
+    "displayOrder": 19620,
+    "informationType": "content",
+    "informationTag": "information",
+    "browseType": "external",
+    "platform": "all",
+    "title": "プロジェクトセカイ 総集編特設サイト",
+    "path": "https:\/\/pjsekai.sega.jp\/event-memories\/index.html",
+    "startAt": 1792724400000,
+    "bannerAssetbundleName": "content_banner_memories"
+  },
+  {
+    "id": 6692,
+    "seq": 1,
+    "displayOrder": 91380,
+    "informationType": "normal",
+    "informationTag": "information",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "【10月23日11時30分追記】10月24日、25日より「コネクトライブ GO Hoppin' Parade」開催！",
+    "path": "information\/index.html?id=info_virtuallive518_connectlive_notice_add4",
+    "startAt": 1792722600000,
+    "bannerAssetbundleName": "banner_news_virtuallive518_connectlive"
+  },
+  {
+    "id": 6693,
+    "seq": 1,
+    "displayOrder": 29450,
+    "informationType": "bug",
+    "informationTag": "bug",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "【10月23日11時30分追記】アプリバージョン「v7.1.0」までに確認しているマイセカイの不具合について",
+    "path": "information\/index.html?id=bug_summary_mysekai_to_v7-1-0_add1",
+    "startAt": 1792722600000
+  },
+  {
+    "id": 6694,
+    "seq": 1,
+    "displayOrder": 91410,
+    "informationType": "normal",
+    "informationTag": "information",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "【10月23日12時00分追記】コネクトライブ「GO Hoppin' Parade」公演予定時間の訂正に伴うチケット購入者への返還対応についてのご案内",
+    "path": "information\/index.html?id=info_connectlive_refund_20261019_add2",
+    "startAt": 1792724400000,
+    "bannerAssetbundleName": "banner_news_virtuallive518_connectlive"
+  },
+  {
+    "id": 6695,
+    "seq": 1,
+    "displayOrder": 91400,
+    "informationType": "normal",
+    "informationTag": "information",
+    "browseType": "external",
+    "platform": "all",
+    "title": "【10月20日12時30分更新】コネクトライブ「GO Hoppin’ Parade」チケット返還対応希望フォーム(修正版)",
+    "path": "https:\/\/questant.jp\/q\/77NZ8WCA?id={userId}",
+    "startAt": 1792724400000
   }
 ]
