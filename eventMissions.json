@@ -19830,5 +19830,143 @@
     "eventMissionSelectableRewardGroupId": 2,
     "sentence": "7つのミッションを全て達成しよう。",
     "rewards": []
+  },
+  {
+    "id": 1129,
+    "eventId": 222,
+    "seq": 1,
+    "eventMissionType": "live_clear_daily",
+    "eventMissionCategory": "normal",
+    "requirement1": 5,
+    "sentence": "累計5日ライブを1日1回クリアしよう。",
+    "rewards": [
+      {
+        "id": 20311,
+        "missionType": "event_mission",
+        "missionId": 1129,
+        "seq": 1,
+        "resourceBoxId": 8004
+      }
+    ]
+  },
+  {
+    "id": 1130,
+    "eventId": 222,
+    "seq": 2,
+    "eventMissionType": "any_live_clear",
+    "eventMissionCategory": "normal",
+    "requirement1": 30,
+    "sentence": "ライブを30回クリアしよう。",
+    "rewards": [
+      {
+        "id": 20312,
+        "missionType": "event_mission",
+        "missionId": 1130,
+        "seq": 1,
+        "resourceBoxId": 8004
+      }
+    ]
+  },
+  {
+    "id": 1131,
+    "eventId": 222,
+    "seq": 3,
+    "eventMissionType": "live_clear_full_combo",
+    "eventMissionCategory": "normal",
+    "requirement1": 5,
+    "sentence": "ライブで楽曲をフルコンボで5回クリアしよう。",
+    "rewards": [
+      {
+        "id": 20313,
+        "missionType": "event_mission",
+        "missionId": 1131,
+        "seq": 1,
+        "resourceBoxId": 8004
+      }
+    ]
+  },
+  {
+    "id": 1132,
+    "eventId": 222,
+    "seq": 4,
+    "eventMissionType": "live_clear_different_music",
+    "eventMissionCategory": "normal",
+    "requirement1": 10,
+    "requirement2": 1,
+    "sentence": "ライブで10種類の楽曲をクリアしよう。",
+    "rewards": [
+      {
+        "id": 20314,
+        "missionType": "event_mission",
+        "missionId": 1132,
+        "seq": 1,
+        "resourceBoxId": 8004
+      }
+    ]
+  },
+  {
+    "id": 1133,
+    "eventId": 222,
+    "seq": 5,
+    "eventMissionType": "read_last_event_story_episode",
+    "eventMissionCategory": "normal",
+    "requirement1": 1,
+    "sentence": "イベント「MORE MORE JUMP！ Memories」のイベントストーリー第20話を読もう。",
+    "rewards": [
+      {
+        "id": 20315,
+        "missionType": "event_mission",
+        "missionId": 1133,
+        "seq": 1,
+        "resourceBoxId": 8004
+      }
+    ]
+  },
+  {
+    "id": 1134,
+    "eventId": 222,
+    "seq": 6,
+    "eventMissionType": "consume_event_item",
+    "eventMissionCategory": "normal",
+    "requirement1": 20000,
+    "sentence": "イベント「MORE MORE JUMP！ Memories」の交換所でバッジを20000個消費しよう。",
+    "rewards": [
+      {
+        "id": 20316,
+        "missionType": "event_mission",
+        "missionId": 1134,
+        "seq": 1,
+        "resourceBoxId": 8004
+      }
+    ]
+  },
+  {
+    "id": 1135,
+    "eventId": 222,
+    "seq": 7,
+    "eventMissionType": "multi_live_clear",
+    "eventMissionCategory": "normal",
+    "requirement1": 5,
+    "sentence": "みんなでライブを5回クリアしよう。",
+    "rewards": [
+      {
+        "id": 20317,
+        "missionType": "event_mission",
+        "missionId": 1135,
+        "seq": 1,
+        "resourceBoxId": 8004
+      }
+    ]
+  },
+  {
+    "id": 1136,
+    "eventId": 222,
+    "seq": 8,
+    "eventMissionType": "achieve_event_mission",
+    "eventMissionCategory": "complete_selectable_reward",
+    "requirement1": 7,
+    "eventMissionSelectableRewardGroupId": 2,
+    "sentence": "7つのミッションを全て達成しよう。",
+    "rewards": []
   }
 ]
