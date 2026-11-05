@@ -20106,5 +20106,142 @@
     "eventMissionSelectableRewardGroupId": 2,
     "sentence": "7つのミッションを全て達成しよう。",
     "rewards": []
+  },
+  {
+    "id": 1145,
+    "eventId": 224,
+    "seq": 1,
+    "eventMissionType": "multi_live_clear",
+    "eventMissionCategory": "normal",
+    "requirement1": 1,
+    "sentence": "チアフルライブを1回クリアしよう。",
+    "rewards": [
+      {
+        "id": 20693,
+        "missionType": "event_mission",
+        "missionId": 1145,
+        "seq": 1,
+        "resourceBoxId": 1859
+      }
+    ]
+  },
+  {
+    "id": 1146,
+    "eventId": 224,
+    "seq": 2,
+    "eventMissionType": "multi_live_clear",
+    "eventMissionCategory": "normal",
+    "requirement1": 2,
+    "sentence": "チアフルライブを2回クリアしよう。",
+    "rewards": [
+      {
+        "id": 20694,
+        "missionType": "event_mission",
+        "missionId": 1146,
+        "seq": 1,
+        "resourceBoxId": 1859
+      }
+    ]
+  },
+  {
+    "id": 1147,
+    "eventId": 224,
+    "seq": 3,
+    "eventMissionType": "multi_live_clear",
+    "eventMissionCategory": "normal",
+    "requirement1": 3,
+    "sentence": "チアフルライブを3回クリアしよう。",
+    "rewards": [
+      {
+        "id": 20695,
+        "missionType": "event_mission",
+        "missionId": 1147,
+        "seq": 1,
+        "resourceBoxId": 1859
+      }
+    ]
+  },
+  {
+    "id": 1148,
+    "eventId": 224,
+    "seq": 4,
+    "eventMissionType": "multi_live_clear",
+    "eventMissionCategory": "normal",
+    "requirement1": 4,
+    "sentence": "チアフルライブを4回クリアしよう。",
+    "rewards": [
+      {
+        "id": 20696,
+        "missionType": "event_mission",
+        "missionId": 1148,
+        "seq": 1,
+        "resourceBoxId": 1859
+      }
+    ]
+  },
+  {
+    "id": 1149,
+    "eventId": 224,
+    "seq": 5,
+    "eventMissionType": "multi_live_clear",
+    "eventMissionCategory": "normal",
+    "requirement1": 5,
+    "sentence": "チアフルライブを5回クリアしよう。",
+    "rewards": [
+      {
+        "id": 20697,
+        "missionType": "event_mission",
+        "missionId": 1149,
+        "seq": 1,
+        "resourceBoxId": 1859
+      }
+    ]
+  },
+  {
+    "id": 1150,
+    "eventId": 224,
+    "seq": 6,
+    "eventMissionType": "multi_live_clear",
+    "eventMissionCategory": "normal",
+    "requirement1": 7,
+    "sentence": "チアフルライブを7回クリアしよう。",
+    "rewards": [
+      {
+        "id": 20698,
+        "missionType": "event_mission",
+        "missionId": 1150,
+        "seq": 1,
+        "resourceBoxId": 1860
+      }
+    ]
+  },
+  {
+    "id": 1151,
+    "eventId": 224,
+    "seq": 7,
+    "eventMissionType": "multi_live_clear",
+    "eventMissionCategory": "normal",
+    "requirement1": 10,
+    "sentence": "チアフルライブを10回クリアしよう。",
+    "rewards": [
+      {
+        "id": 20699,
+        "missionType": "event_mission",
+        "missionId": 1151,
+        "seq": 1,
+        "resourceBoxId": 1861
+      }
+    ]
+  },
+  {
+    "id": 1152,
+    "eventId": 224,
+    "seq": 8,
+    "eventMissionType": "achieve_event_mission",
+    "eventMissionCategory": "complete_selectable_reward",
+    "requirement1": 7,
+    "eventMissionSelectableRewardGroupId": 1,
+    "sentence": "7つのミッションを全て達成しよう。",
+    "rewards": []
   }
 ]
