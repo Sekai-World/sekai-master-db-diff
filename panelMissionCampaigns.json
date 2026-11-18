@@ -31605,5 +31605,176 @@
         ]
       }
     ]
+  },
+  {
+    "id": 20,
+    "name": "ワンダーランズ×ショウタイム Memories開催記念スタンプミッション",
+    "assetbundleName": "wds_memories_pm",
+    "bgmAssetbundleName": "wds_memories_pm_bgm",
+    "selectableLimit": 1,
+    "startAt": 1795143600000,
+    "progressEndAt": 1795575599000,
+    "closedAt": 1795575599000,
+    "distributionEndAt": 1796785199000,
+    "informationId": 6771,
+    "panelMissionSelectionType": "auto",
+    "panelMissionSheetGroups": [
+      {
+        "id": 2001,
+        "panelMissionCampaignId": 20,
+        "name": "ユニット",
+        "selectableLimit": 1,
+        "seq": 1,
+        "panelMissionSheets": [
+          {
+            "id": 200101,
+            "panelMissionSheetGroupId": 2001,
+            "name": "ワンダーランズ×ショウタイムカード",
+            "seq": 1,
+            "assetbundleName": "sheet_the_memories_wds",
+            "isInitialSelected": false,
+            "panelMissions": [
+              {
+                "id": 20010101,
+                "panelMissionSheetId": 200101,
+                "name": "ユニットの楽曲で\n15回ライブ",
+                "description": "楽曲選択画面のワンダーランズ×ショウタイムタブに含まれる楽曲で15回ライブしよう。\n※オートライブでもカウントされます。",
+                "seq": 1,
+                "panelMissionType": "unit_live_clear_music",
+                "requirement1": 15,
+                "rewards": [
+                  {
+                    "id": 20714,
+                    "missionType": "panel_mission",
+                    "missionId": 20010101,
+                    "seq": 1,
+                    "resourceBoxId": 2155
+                  }
+                ]
+              },
+              {
+                "id": 20010102,
+                "panelMissionSheetId": 200101,
+                "name": "ユニットメンバーを\n1人以上編成して10回ライブ",
+                "description": "ワンダーランズ×ショウタイムのメンバーを1人以上ユニットに編成して10回ライブをクリアしよう。\n※オートライブでもカウントされます。",
+                "seq": 2,
+                "panelMissionType": "play_live_with_unit",
+                "requirement1": 10,
+                "rewards": [
+                  {
+                    "id": 20715,
+                    "missionType": "panel_mission",
+                    "missionId": 20010102,
+                    "seq": 1,
+                    "resourceBoxId": 2155
+                  }
+                ]
+              },
+              {
+                "id": 20010103,
+                "panelMissionSheetId": 200101,
+                "name": "ユニットメンバーを\n5回迎える",
+                "description": "ワンダーランズ×ショウタイムのメンバーを5回迎える。",
+                "seq": 3,
+                "panelMissionType": "unit_collect_card",
+                "requirement1": 5,
+                "rewards": [
+                  {
+                    "id": 20716,
+                    "missionType": "panel_mission",
+                    "missionId": 20010103,
+                    "seq": 1,
+                    "resourceBoxId": 2155
+                  }
+                ]
+              },
+              {
+                "id": 20010104,
+                "panelMissionSheetId": 200101,
+                "name": "10種類の楽曲を\nクリア",
+                "description": "10種類の楽曲をクリアしよう。\n※オートライブでもカウントされます。",
+                "seq": 4,
+                "panelMissionType": "live_clear_with_different_music",
+                "requirement1": 10,
+                "requirement2": 1,
+                "rewards": [
+                  {
+                    "id": 20717,
+                    "missionType": "panel_mission",
+                    "missionId": 20010104,
+                    "seq": 1,
+                    "resourceBoxId": 2155
+                  }
+                ]
+              },
+              {
+                "id": 20010105,
+                "panelMissionSheetId": 200101,
+                "name": "ライブボーナスを\n累計50消費",
+                "description": "ライブボーナスを累計50消費しよう。\n※マイセカイはライブボーナスをスタミナにした場合のみカウントされます。",
+                "seq": 5,
+                "panelMissionType": "consume_boost_count",
+                "requirement1": 50,
+                "rewards": [
+                  {
+                    "id": 20718,
+                    "missionType": "panel_mission",
+                    "missionId": 20010105,
+                    "seq": 1,
+                    "resourceBoxId": 2155
+                  }
+                ]
+              },
+              {
+                "id": 20010106,
+                "panelMissionSheetId": 200101,
+                "name": "イベントP\n累計5万獲得",
+                "description": "イベント「ワンダーランズ×ショウタイム Memories」でイベントPを累計5万獲得しよう。\n※イベントPは11月24日20時59分まで獲得できます。",
+                "seq": 6,
+                "panelMissionType": "collect_event_point",
+                "requirement1": 50000,
+                "rewards": [
+                  {
+                    "id": 20719,
+                    "missionType": "panel_mission",
+                    "missionId": 20010106,
+                    "seq": 1,
+                    "resourceBoxId": 2155
+                  }
+                ]
+              },
+              {
+                "id": 20010107,
+                "panelMissionSheetId": 200101,
+                "name": "イベント「ワンダーランズ\n×ショウタイム Memories」\nイベント全話完読",
+                "description": "スキップ・早送りせずに\nイベント「ワンダーランズ×ショウタイム Memories」のイベントストーリー全話を読もう。",
+                "seq": 7,
+                "panelMissionType": "read_all_event_story_episode_without_skip",
+                "requirement1": 20,
+                "requirement2": 1,
+                "rewards": [
+                  {
+                    "id": 20720,
+                    "missionType": "panel_mission",
+                    "missionId": 20010107,
+                    "seq": 1,
+                    "resourceBoxId": 2155
+                  }
+                ]
+              }
+            ],
+            "rewards": [
+              {
+                "id": 20721,
+                "missionType": "panel_mission_complete",
+                "missionId": 200101,
+                "seq": 1,
+                "resourceBoxId": 2156
+              }
+            ]
+          }
+        ]
+      }
+    ]
   }
 ]

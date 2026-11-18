@@ -8258,5 +8258,134 @@
     "virtualShopItems": [],
     "virtualShopType": "other",
     "virtualShopDisplayType": "out_of_scope"
+  },
+  {
+    "id": 327,
+    "seq": 327,
+    "name": "「コネクトライブ AWAKE Real Pulse」チケットショップ",
+    "virtualLiveId": 525,
+    "virtualShopItems": [
+      {
+        "id": 534,
+        "virtualShopId": 327,
+        "virtualShopItemType": "premium_virtual_live_ticket",
+        "seq": 299981,
+        "resourceBoxId": 426,
+        "costPaidJewel": 2980,
+        "startAt": 1795154400000,
+        "endAt": 1795877999000,
+        "limitValue": 2
+      },
+      {
+        "id": 535,
+        "virtualShopId": 327,
+        "virtualShopItemType": "premium_virtual_live_ticket",
+        "seq": 299982,
+        "resourceBoxId": 427,
+        "costPaidJewel": 6980,
+        "startAt": 1795154400000,
+        "endAt": 1796104799000,
+        "limitValue": 1
+      },
+      {
+        "id": 536,
+        "virtualShopId": 327,
+        "virtualShopItemType": "premium_virtual_live_ticket",
+        "seq": 299983,
+        "resourceBoxId": 428,
+        "costPaidJewel": 2980,
+        "startAt": 1795154400000,
+        "endAt": 1795964399000,
+        "limitValue": 2
+      },
+      {
+        "id": 537,
+        "virtualShopId": 327,
+        "virtualShopItemType": "premium_virtual_live_ticket",
+        "seq": 299984,
+        "resourceBoxId": 429,
+        "costPaidJewel": 6980,
+        "startAt": 1795154400000,
+        "endAt": 1796104799000,
+        "limitValue": 1
+      },
+      {
+        "id": 538,
+        "virtualShopId": 327,
+        "virtualShopItemType": "premium_virtual_live_ticket",
+        "seq": 299985,
+        "resourceBoxId": 430,
+        "costPaidJewel": 11980,
+        "startAt": 1795154400000,
+        "endAt": 1796104799000,
+        "limitValue": 1
+      }
+    ],
+    "virtualShopType": "virtual_live_ticket",
+    "virtualShopDisplayType": "divide_bonus_info"
+  },
+  {
+    "id": 328,
+    "seq": 328,
+    "name": "「コネクトライブ AWAKE Real Pulse」グッズショップ",
+    "virtualLiveId": 525,
+    "virtualShopItems": [
+      {
+        "id": 539,
+        "virtualShopId": 328,
+        "virtualShopItemType": "costume",
+        "seq": 99866,
+        "resourceBoxId": 431,
+        "costVirtualCoin": 3000,
+        "costJewel": 1000,
+        "startAt": 1795154400000,
+        "endAt": 1796104799000,
+        "limitValue": 1
+      },
+      {
+        "id": 540,
+        "virtualShopId": 328,
+        "virtualShopItemType": "costume",
+        "seq": 99865,
+        "resourceBoxId": 432,
+        "costVirtualCoin": 3000,
+        "costJewel": 1000,
+        "startAt": 1795154400000,
+        "endAt": 1796104799000,
+        "limitValue": 1
+      },
+      {
+        "id": 541,
+        "virtualShopId": 328,
+        "virtualShopItemType": "accessory",
+        "seq": 99864,
+        "resourceBoxId": 433,
+        "costVirtualCoin": 3000,
+        "costJewel": 1000,
+        "startAt": 1795154400000,
+        "endAt": 1796104799000,
+        "limitValue": 1
+      }
+    ],
+    "virtualShopType": "other",
+    "virtualShopDisplayType": "out_of_scope"
+  },
+  {
+    "id": 329,
+    "seq": 329,
+    "name": "「コネクトライブ AWAKE Real Pulse」チケットショップ",
+    "virtualLiveId": 526,
+    "virtualShopItems": [],
+    "virtualShopType": "virtual_live_ticket",
+    "virtualShopDisplayType": "divide_bonus_info"
+  },
+  {
+    "id": 330,
+    "seq": 330,
+    "name": "「コネクトライブ AWAKE Real Pulse」グッズショップ",
+    "virtualLiveId": 526,
+    "virtualShopItems": [],
+    "virtualShopType": "other",
+    "virtualShopDisplayType": "out_of_scope"
   }
 ]

@@ -55036,7 +55036,7 @@
     "gridSize": {
       "width": 2,
       "depth": 2,
-      "height": 6
+      "height": 5
     },
     "mysekaiFixtureMainGenreId": 3,
     "mysekaiFixtureSubGenreId": 13,
@@ -55206,7 +55206,7 @@
     "gridSize": {
       "width": 2,
       "depth": 2,
-      "height": 6
+      "height": 5
     },
     "mysekaiFixtureMainGenreId": 3,
     "mysekaiFixtureSubGenreId": 13,
@@ -55376,7 +55376,7 @@
     "gridSize": {
       "width": 2,
       "depth": 2,
-      "height": 6
+      "height": 5
     },
     "mysekaiFixtureMainGenreId": 3,
     "mysekaiFixtureSubGenreId": 13,
@@ -55546,7 +55546,7 @@
     "gridSize": {
       "width": 2,
       "depth": 2,
-      "height": 6
+      "height": 5
     },
     "mysekaiFixtureMainGenreId": 3,
     "mysekaiFixtureSubGenreId": 13,
@@ -62502,6 +62502,499 @@
     "secondPutCost": 2
   },
   {
+    "id": 1822,
+    "mysekaiFixtureType": "surface_appearance",
+    "name": "みんなの教室の壁",
+    "pronunciation": "みんなのきょうしつのかべ",
+    "flavorText": "みんなの教室の壁",
+    "seq": 30033001,
+    "gridSize": {
+      "width": 0,
+      "depth": 0,
+      "height": 0
+    },
+    "mysekaiFixtureMainGenreId": 7,
+    "mysekaiFixtureSubGenreId": 19,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "room",
+    "mysekaiSettableLayoutType": "wall_appearance",
+    "mysekaiFixturePutType": "none",
+    "mysekaiFixtureAnotherColors": [],
+    "mysekaiFixturePutSoundId": 1,
+    "mysekaiFixtureTagGroup": {
+      "id": 1822,
+      "mysekaiFixtureTagId1": 11877,
+      "mysekaiFixtureTagId2": 111
+    },
+    "isAssembled": true,
+    "isDisassembled": true,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "ext0033",
+    "firstPutCost": 0,
+    "secondPutCost": 0
+  },
+  {
+    "id": 1823,
+    "mysekaiFixtureType": "surface_appearance",
+    "name": "みんなの教室の床",
+    "pronunciation": "みんなのきょうしつのゆか",
+    "flavorText": "みんなの教室の床",
+    "seq": 30033002,
+    "gridSize": {
+      "width": 0,
+      "depth": 0,
+      "height": 0
+    },
+    "mysekaiFixtureMainGenreId": 8,
+    "mysekaiFixtureSubGenreId": 20,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "room",
+    "mysekaiSettableLayoutType": "floor_appearance",
+    "mysekaiFixturePutType": "none",
+    "mysekaiFixtureAnotherColors": [],
+    "mysekaiFixturePutSoundId": 1,
+    "mysekaiFixtureTagGroup": {
+      "id": 1823,
+      "mysekaiFixtureTagId1": 11878,
+      "mysekaiFixtureTagId2": 111
+    },
+    "isAssembled": true,
+    "isDisassembled": true,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "ext0033",
+    "firstPutCost": 0,
+    "secondPutCost": 0
+  },
+  {
+    "id": 1824,
+    "mysekaiFixtureType": "normal",
+    "name": "みんなの教室の窓(昼)",
+    "pronunciation": "みんなのきょうしつのまどひる",
+    "flavorText": "みんなの教室の窓(昼)",
+    "seq": 30033003,
+    "gridSize": {
+      "width": 8,
+      "depth": 1,
+      "height": 6
+    },
+    "mysekaiFixtureMainGenreId": 4,
+    "mysekaiFixtureSubGenreId": 14,
+    "mysekaiFixtureHandleType": "windowpane",
+    "mysekaiSettableSiteType": "room",
+    "mysekaiSettableLayoutType": "wall",
+    "mysekaiFixturePutType": "none",
+    "mysekaiFixtureAnotherColors": [],
+    "mysekaiFixturePutSoundId": 2,
+    "mysekaiFixtureTagGroup": {
+      "id": 1824,
+      "mysekaiFixtureTagId1": 11879,
+      "mysekaiFixtureTagId2": 111
+    },
+    "isAssembled": true,
+    "isDisassembled": true,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_ext0033_window_window1",
+    "firstPutCost": 275,
+    "secondPutCost": 2
+  },
+  {
+    "id": 1825,
+    "mysekaiFixtureType": "normal",
+    "name": "みんなの教室の窓(放課後)",
+    "pronunciation": "みんなのきょうしつのまどほうかご",
+    "flavorText": "みんなの教室の窓(放課後)",
+    "seq": 30033004,
+    "gridSize": {
+      "width": 8,
+      "depth": 1,
+      "height": 6
+    },
+    "mysekaiFixtureMainGenreId": 4,
+    "mysekaiFixtureSubGenreId": 14,
+    "mysekaiFixtureHandleType": "windowpane",
+    "mysekaiSettableSiteType": "room",
+    "mysekaiSettableLayoutType": "wall",
+    "mysekaiFixturePutType": "none",
+    "mysekaiFixtureAnotherColors": [],
+    "mysekaiFixturePutSoundId": 2,
+    "mysekaiFixtureTagGroup": {
+      "id": 1825,
+      "mysekaiFixtureTagId1": 11880,
+      "mysekaiFixtureTagId2": 111
+    },
+    "isAssembled": true,
+    "isDisassembled": true,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_ext0033_window_window2",
+    "firstPutCost": 275,
+    "secondPutCost": 2
+  },
+  {
+    "id": 1826,
+    "mysekaiFixtureType": "normal",
+    "name": "みんなの教室の勉強セット",
+    "pronunciation": "みんなのきょうしつのべんきょうせっと",
+    "flavorText": "みんなの教室の勉強セット",
+    "seq": 30033005,
+    "gridSize": {
+      "width": 2,
+      "depth": 2,
+      "height": 2
+    },
+    "colorCode": "#40D5CC",
+    "mysekaiFixtureMainGenreId": 3,
+    "mysekaiFixtureSubGenreId": 13,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "any",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "put_target",
+    "mysekaiFixtureAnotherColors": [
+      {
+        "textureId": 2,
+        "colorCode": "#FF7FDB"
+      },
+      {
+        "textureId": 3,
+        "colorCode": "#AF7DFF"
+      }
+    ],
+    "mysekaiFixturePutSoundId": 1,
+    "mysekaiFixtureTagGroup": {
+      "id": 1826,
+      "mysekaiFixtureTagId1": 11881,
+      "mysekaiFixtureTagId2": 111
+    },
+    "isAssembled": true,
+    "isDisassembled": true,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_ext0033_fixture_stationery1",
+    "firstPutCost": 30,
+    "secondPutCost": 2
+  },
+  {
+    "id": 1827,
+    "mysekaiFixtureType": "normal",
+    "name": "みんなの教室のお昼ごはん",
+    "pronunciation": "みんなのきょうしつのおひるごはん",
+    "flavorText": "みんなの教室のお昼ごはん",
+    "seq": 30033006,
+    "gridSize": {
+      "width": 2,
+      "depth": 2,
+      "height": 2
+    },
+    "colorCode": "#FFF6A6",
+    "mysekaiFixtureMainGenreId": 3,
+    "mysekaiFixtureSubGenreId": 13,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "any",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "put_target",
+    "mysekaiFixtureAnotherColors": [
+      {
+        "textureId": 2,
+        "colorCode": "#FFD0F2"
+      },
+      {
+        "textureId": 3,
+        "colorCode": "#9DE7FF"
+      }
+    ],
+    "mysekaiFixturePutSoundId": 7,
+    "mysekaiFixtureTagGroup": {
+      "id": 1827,
+      "mysekaiFixtureTagId1": 11882,
+      "mysekaiFixtureTagId2": 111
+    },
+    "isAssembled": true,
+    "isDisassembled": true,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_ext0033_fixture_cafeteria1",
+    "firstPutCost": 30,
+    "secondPutCost": 2
+  },
+  {
+    "id": 1828,
+    "mysekaiFixtureType": "normal",
+    "name": "みんなの教室の教卓",
+    "pronunciation": "みんなのきょうしつのきょうたく",
+    "flavorText": "みんなの教室の教卓",
+    "seq": 30033007,
+    "gridSize": {
+      "width": 4,
+      "depth": 2,
+      "height": 2
+    },
+    "mysekaiFixtureMainGenreId": 2,
+    "mysekaiFixtureSubGenreId": 3,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "any",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "put_base",
+    "mysekaiFixtureAnotherColors": [],
+    "mysekaiFixturePutSoundId": 2,
+    "mysekaiFixtureTagGroup": {
+      "id": 1828,
+      "mysekaiFixtureTagId1": 11883,
+      "mysekaiFixtureTagId2": 111
+    },
+    "isAssembled": true,
+    "isDisassembled": true,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_ext0033_fixture_lectern1",
+    "firstPutCost": 20,
+    "secondPutCost": 2
+  },
+  {
+    "id": 1829,
+    "mysekaiFixtureType": "normal",
+    "name": "みんなの教室の机",
+    "pronunciation": "みんなのきょうしつのつくえ",
+    "flavorText": "みんなの教室の机",
+    "seq": 30033008,
+    "gridSize": {
+      "width": 2,
+      "depth": 2,
+      "height": 2
+    },
+    "mysekaiFixtureMainGenreId": 2,
+    "mysekaiFixtureSubGenreId": 3,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "any",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "put_base",
+    "mysekaiFixtureAnotherColors": [],
+    "mysekaiFixturePutSoundId": 1,
+    "mysekaiFixtureTagGroup": {
+      "id": 1829,
+      "mysekaiFixtureTagId1": 11884,
+      "mysekaiFixtureTagId2": 111
+    },
+    "isAssembled": true,
+    "isDisassembled": true,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_ext0033_fixture_table1",
+    "firstPutCost": 25,
+    "secondPutCost": 2
+  },
+  {
+    "id": 1830,
+    "mysekaiFixtureType": "normal",
+    "name": "みんなの教室の机セット",
+    "pronunciation": "みんなのきょうしつのつくえせっと",
+    "flavorText": "みんなの教室の机セット",
+    "seq": 30033009,
+    "gridSize": {
+      "width": 2,
+      "depth": 4,
+      "height": 2
+    },
+    "mysekaiFixtureMainGenreId": 2,
+    "mysekaiFixtureSubGenreId": 3,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "any",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "none",
+    "mysekaiFixtureAnotherColors": [],
+    "mysekaiFixturePutSoundId": 1,
+    "mysekaiFixtureTagGroup": {
+      "id": 1830,
+      "mysekaiFixtureTagId1": 11885,
+      "mysekaiFixtureTagId2": 111
+    },
+    "isAssembled": true,
+    "isDisassembled": true,
+    "mysekaiFixturePlayerActionType": "timeline",
+    "isGameCharacterAction": true,
+    "assetbundleName": "mdl_ext0033_fixture_table2",
+    "firstPutCost": 55,
+    "secondPutCost": 2
+  },
+  {
+    "id": 1831,
+    "mysekaiFixtureType": "normal",
+    "name": "みんなの教室の椅子",
+    "pronunciation": "みんなのきょうしつのいす",
+    "flavorText": "みんなの教室の椅子",
+    "seq": 30033010,
+    "gridSize": {
+      "width": 2,
+      "depth": 2,
+      "height": 2
+    },
+    "mysekaiFixtureMainGenreId": 2,
+    "mysekaiFixtureSubGenreId": 4,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "any",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "none",
+    "mysekaiFixtureAnotherColors": [],
+    "mysekaiFixturePutSoundId": 1,
+    "mysekaiFixtureTagGroup": {
+      "id": 1831,
+      "mysekaiFixtureTagId1": 11886,
+      "mysekaiFixtureTagId2": 111
+    },
+    "isAssembled": true,
+    "isDisassembled": true,
+    "mysekaiFixturePlayerActionType": "timeline",
+    "isGameCharacterAction": true,
+    "assetbundleName": "mdl_ext0033_fixture_chair1",
+    "firstPutCost": 25,
+    "secondPutCost": 2
+  },
+  {
+    "id": 1832,
+    "mysekaiFixtureType": "normal",
+    "name": "みんなの教室のスピーカー",
+    "pronunciation": "みんなのきょうしつのすぴーかー",
+    "flavorText": "みんなの教室のスピーカー",
+    "seq": 30033011,
+    "gridSize": {
+      "width": 2,
+      "depth": 1,
+      "height": 2
+    },
+    "mysekaiFixtureMainGenreId": 4,
+    "mysekaiFixtureSubGenreId": 14,
+    "mysekaiFixtureHandleType": "clock",
+    "mysekaiSettableSiteType": "room",
+    "mysekaiSettableLayoutType": "wall",
+    "mysekaiFixturePutType": "none",
+    "mysekaiFixtureAnotherColors": [],
+    "mysekaiFixturePutSoundId": 3,
+    "mysekaiFixtureTagGroup": {
+      "id": 1832,
+      "mysekaiFixtureTagId1": 11887,
+      "mysekaiFixtureTagId2": 111
+    },
+    "isAssembled": true,
+    "isDisassembled": true,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_ext0033_clock_speaker1",
+    "firstPutCost": 20,
+    "secondPutCost": 2
+  },
+  {
+    "id": 1833,
+    "mysekaiFixtureType": "normal",
+    "name": "みんなの教室の黒板",
+    "pronunciation": "みんなのきょうしつのこくばん",
+    "flavorText": "みんなの教室の黒板",
+    "seq": 30033012,
+    "gridSize": {
+      "width": 10,
+      "depth": 1,
+      "height": 5
+    },
+    "colorCode": "#39A936",
+    "mysekaiFixtureMainGenreId": 4,
+    "mysekaiFixtureSubGenreId": 14,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "room",
+    "mysekaiSettableLayoutType": "wall",
+    "mysekaiFixturePutType": "none",
+    "mysekaiFixtureAnotherColors": [
+      {
+        "textureId": 2,
+        "colorCode": "#008078"
+      },
+      {
+        "textureId": 3,
+        "colorCode": "#222222"
+      }
+    ],
+    "mysekaiFixturePutSoundId": 2,
+    "mysekaiFixtureTagGroup": {
+      "id": 1833,
+      "mysekaiFixtureTagId1": 11888,
+      "mysekaiFixtureTagId2": 111
+    },
+    "isAssembled": true,
+    "isDisassembled": true,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_ext0033_fixture_blackboard1",
+    "firstPutCost": 55,
+    "secondPutCost": 2
+  },
+  {
+    "id": 1834,
+    "mysekaiFixtureType": "normal",
+    "name": "みんなの教室の掃除ロッカー",
+    "pronunciation": "みんなのきょうしつのそうじろっかー",
+    "flavorText": "みんなの教室の掃除ロッカー",
+    "seq": 30033013,
+    "gridSize": {
+      "width": 2,
+      "depth": 2,
+      "height": 5
+    },
+    "mysekaiFixtureMainGenreId": 2,
+    "mysekaiFixtureSubGenreId": 9,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "any",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "put_base",
+    "mysekaiFixtureAnotherColors": [],
+    "mysekaiFixturePutSoundId": 3,
+    "mysekaiFixtureTagGroup": {
+      "id": 1834,
+      "mysekaiFixtureTagId1": 11889,
+      "mysekaiFixtureTagId2": 111
+    },
+    "isAssembled": true,
+    "isDisassembled": true,
+    "mysekaiFixturePlayerActionType": "one_shot",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_ext0033_fixture_locker1",
+    "firstPutCost": 55,
+    "secondPutCost": 15
+  },
+  {
+    "id": 1839,
+    "mysekaiFixtureType": "system",
+    "name": "Leo\/needのレコードプレーヤー",
+    "pronunciation": "れおにーどのれこーどぷれーやー",
+    "flavorText": "Leo\/needのレコードプレーヤー",
+    "seq": 50006001,
+    "gridSize": {
+      "width": 3,
+      "depth": 2,
+      "height": 2
+    },
+    "mysekaiFixtureMainGenreId": 2,
+    "mysekaiFixtureSubGenreId": 8,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "any",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "none",
+    "mysekaiFixtureAnotherColors": [],
+    "mysekaiFixturePutSoundId": 2,
+    "mysekaiFixtureTagGroup": {
+      "id": 1839,
+      "mysekaiFixtureTagId1": 11894,
+      "mysekaiFixtureTagId2": 5,
+      "mysekaiFixtureTagId3": 56
+    },
+    "isAssembled": false,
+    "isDisassembled": false,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_chr0006_system_lon1",
+    "firstPutCost": 95,
+    "secondPutCost": 8
+  },
+  {
     "id": 1840,
     "mysekaiFixtureType": "system",
     "name": "MORE MORE JUMP！のレコードプレーヤー",
@@ -62566,6 +63059,40 @@
     "mysekaiFixturePlayerActionType": "no_action",
     "isGameCharacterAction": false,
     "assetbundleName": "mdl_chr0006_system_vbs1",
+    "firstPutCost": 95,
+    "secondPutCost": 8
+  },
+  {
+    "id": 1842,
+    "mysekaiFixtureType": "system",
+    "name": "ワンダーランズ×ショウタイムのレコードプレーヤー",
+    "pronunciation": "わんだーらんずしょうたいむのれこーどぷれーやー",
+    "flavorText": "ワンダーランズ×ショウタイムのレコードプレーヤー",
+    "seq": 50006004,
+    "gridSize": {
+      "width": 3,
+      "depth": 2,
+      "height": 2
+    },
+    "mysekaiFixtureMainGenreId": 2,
+    "mysekaiFixtureSubGenreId": 8,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "any",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "none",
+    "mysekaiFixtureAnotherColors": [],
+    "mysekaiFixturePutSoundId": 2,
+    "mysekaiFixtureTagGroup": {
+      "id": 1842,
+      "mysekaiFixtureTagId1": 11897,
+      "mysekaiFixtureTagId2": 20,
+      "mysekaiFixtureTagId3": 56
+    },
+    "isAssembled": false,
+    "isDisassembled": false,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_chr0006_system_wns1",
     "firstPutCost": 95,
     "secondPutCost": 8
   },
