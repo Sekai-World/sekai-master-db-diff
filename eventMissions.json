@@ -20406,8 +20406,8 @@
     "seq": 2,
     "eventMissionType": "any_live_clear",
     "eventMissionCategory": "normal",
-    "requirement1": 30,
-    "sentence": "ライブを30回クリアしよう。",
+    "requirement1": 10,
+    "sentence": "ライブを10回クリアしよう。",
     "rewards": [
       {
         "id": 20708,
@@ -20422,10 +20422,10 @@
     "id": 1163,
     "eventId": 226,
     "seq": 3,
-    "eventMissionType": "live_clear_full_combo",
+    "eventMissionType": "any_live_clear",
     "eventMissionCategory": "normal",
-    "requirement1": 5,
-    "sentence": "ライブで楽曲をフルコンボで5回クリアしよう。",
+    "requirement1": 30,
+    "sentence": "ライブを30回クリアしよう。",
     "rewards": [
       {
         "id": 20709,
@@ -20440,11 +20440,10 @@
     "id": 1164,
     "eventId": 226,
     "seq": 4,
-    "eventMissionType": "live_clear_different_music",
+    "eventMissionType": "live_clear_full_combo",
     "eventMissionCategory": "normal",
-    "requirement1": 10,
-    "requirement2": 1,
-    "sentence": "ライブで10種類の楽曲をクリアしよう。",
+    "requirement1": 5,
+    "sentence": "ライブで楽曲をフルコンボで5回クリアしよう。",
     "rewards": [
       {
         "id": 20710,
@@ -20459,10 +20458,11 @@
     "id": 1165,
     "eventId": 226,
     "seq": 5,
-    "eventMissionType": "read_last_event_story_episode",
+    "eventMissionType": "live_clear_different_music",
     "eventMissionCategory": "normal",
-    "requirement1": 1,
-    "sentence": "イベント「ワンダーランズ×ショウタイム Memories」のイベントストーリー第20話を読もう。",
+    "requirement1": 10,
+    "requirement2": 1,
+    "sentence": "ライブで10種類の楽曲をクリアしよう。",
     "rewards": [
       {
         "id": 20711,
@@ -20477,10 +20477,10 @@
     "id": 1166,
     "eventId": 226,
     "seq": 6,
-    "eventMissionType": "consume_event_item",
+    "eventMissionType": "read_last_event_story_episode",
     "eventMissionCategory": "normal",
-    "requirement1": 20000,
-    "sentence": "イベント「ワンダーランズ×ショウタイム Memories」の交換所でバッジを20000個消費しよう。",
+    "requirement1": 1,
+    "sentence": "イベント「ワンダーランズ×ショウタイム Memories」のイベントストーリー第20話を読もう。",
     "rewards": [
       {
         "id": 20712,
@@ -20495,10 +20495,10 @@
     "id": 1167,
     "eventId": 226,
     "seq": 7,
-    "eventMissionType": "multi_live_clear",
+    "eventMissionType": "consume_event_item",
     "eventMissionCategory": "normal",
-    "requirement1": 5,
-    "sentence": "みんなでライブを5回クリアしよう。",
+    "requirement1": 20000,
+    "sentence": "イベント「ワンダーランズ×ショウタイム Memories」の交換所でバッジを20000個消費しよう。",
     "rewards": [
       {
         "id": 20713,
