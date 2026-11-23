@@ -31776,5 +31776,176 @@
         ]
       }
     ]
+  },
+  {
+    "id": 21,
+    "name": "Leo\/need Memories開催記念スタンプミッション",
+    "assetbundleName": "lon_memories_pm",
+    "bgmAssetbundleName": "lon_memories_pm_bgm",
+    "selectableLimit": 1,
+    "startAt": 1795575600000,
+    "progressEndAt": 1796007599000,
+    "closedAt": 1796007599000,
+    "distributionEndAt": 1797217199000,
+    "informationId": 6796,
+    "panelMissionSelectionType": "auto",
+    "panelMissionSheetGroups": [
+      {
+        "id": 2101,
+        "panelMissionCampaignId": 21,
+        "name": "ユニット",
+        "selectableLimit": 1,
+        "seq": 1,
+        "panelMissionSheets": [
+          {
+            "id": 210101,
+            "panelMissionSheetGroupId": 2101,
+            "name": "Leo\/needカード",
+            "seq": 1,
+            "assetbundleName": "sheet_the_memories_lon",
+            "isInitialSelected": false,
+            "panelMissions": [
+              {
+                "id": 21010101,
+                "panelMissionSheetId": 210101,
+                "name": "ユニットの楽曲で\n15回ライブ",
+                "description": "楽曲選択画面のLeo\/needタブに含まれる楽曲で15回ライブしよう。\n※オートライブでもカウントされます。",
+                "seq": 1,
+                "panelMissionType": "unit_live_clear_music",
+                "requirement1": 15,
+                "rewards": [
+                  {
+                    "id": 20729,
+                    "missionType": "panel_mission",
+                    "missionId": 21010101,
+                    "seq": 1,
+                    "resourceBoxId": 2157
+                  }
+                ]
+              },
+              {
+                "id": 21010102,
+                "panelMissionSheetId": 210101,
+                "name": "ユニットメンバーを\n1人以上編成して10回ライブ",
+                "description": "Leo\/needのメンバーを1人以上ユニットに編成して10回ライブをクリアしよう。\n※オートライブでもカウントされます。",
+                "seq": 2,
+                "panelMissionType": "play_live_with_unit",
+                "requirement1": 10,
+                "rewards": [
+                  {
+                    "id": 20730,
+                    "missionType": "panel_mission",
+                    "missionId": 21010102,
+                    "seq": 1,
+                    "resourceBoxId": 2157
+                  }
+                ]
+              },
+              {
+                "id": 21010103,
+                "panelMissionSheetId": 210101,
+                "name": "ユニットメンバーを\n5回迎える",
+                "description": "Leo\/needのメンバーを5回迎える。",
+                "seq": 3,
+                "panelMissionType": "unit_collect_card",
+                "requirement1": 5,
+                "rewards": [
+                  {
+                    "id": 20731,
+                    "missionType": "panel_mission",
+                    "missionId": 21010103,
+                    "seq": 1,
+                    "resourceBoxId": 2157
+                  }
+                ]
+              },
+              {
+                "id": 21010104,
+                "panelMissionSheetId": 210101,
+                "name": "10種類の楽曲を\nクリア",
+                "description": "10種類の楽曲をクリアしよう。\n※オートライブでもカウントされます。",
+                "seq": 4,
+                "panelMissionType": "live_clear_with_different_music",
+                "requirement1": 10,
+                "requirement2": 1,
+                "rewards": [
+                  {
+                    "id": 20732,
+                    "missionType": "panel_mission",
+                    "missionId": 21010104,
+                    "seq": 1,
+                    "resourceBoxId": 2157
+                  }
+                ]
+              },
+              {
+                "id": 21010105,
+                "panelMissionSheetId": 210101,
+                "name": "ライブボーナスを\n累計50消費",
+                "description": "ライブボーナスを累計50消費しよう。\n※マイセカイはライブボーナスをスタミナにした場合のみカウントされます。",
+                "seq": 5,
+                "panelMissionType": "consume_boost_count",
+                "requirement1": 50,
+                "rewards": [
+                  {
+                    "id": 20733,
+                    "missionType": "panel_mission",
+                    "missionId": 21010105,
+                    "seq": 1,
+                    "resourceBoxId": 2157
+                  }
+                ]
+              },
+              {
+                "id": 21010106,
+                "panelMissionSheetId": 210101,
+                "name": "イベントP\n累計5万獲得",
+                "description": "イベント「Leo\/need Memories」でイベントPを累計5万獲得しよう。\n※イベントPは11月29日20時59分まで獲得できます。",
+                "seq": 6,
+                "panelMissionType": "collect_event_point",
+                "requirement1": 50000,
+                "rewards": [
+                  {
+                    "id": 20734,
+                    "missionType": "panel_mission",
+                    "missionId": 21010106,
+                    "seq": 1,
+                    "resourceBoxId": 2157
+                  }
+                ]
+              },
+              {
+                "id": 21010107,
+                "panelMissionSheetId": 210101,
+                "name": "イベント\n「Leo\/need Memories」\nイベント全話完読",
+                "description": "スキップ・早送りせずに\nイベント「Leo\/need Memories」のイベントストーリー全話を読もう。",
+                "seq": 7,
+                "panelMissionType": "read_all_event_story_episode_without_skip",
+                "requirement1": 20,
+                "requirement2": 1,
+                "rewards": [
+                  {
+                    "id": 20735,
+                    "missionType": "panel_mission",
+                    "missionId": 21010107,
+                    "seq": 1,
+                    "resourceBoxId": 2157
+                  }
+                ]
+              }
+            ],
+            "rewards": [
+              {
+                "id": 20736,
+                "missionType": "panel_mission_complete",
+                "missionId": 210101,
+                "seq": 1,
+                "resourceBoxId": 2158
+              }
+            ]
+          }
+        ]
+      }
+    ]
   }
 ]
